@@ -10,34 +10,28 @@ Targets:
 - The Moscow Times
 
 Outputs:
-- data/articles_latest.json  (single rolling file)
-- Keeps only last 48 hours (relative to now in UTC)
+- data/articles_latest.json
+- Keeps only last 48 hours
 - Translates all text fields into English
-- Designed to run on a schedule (cron / GitHub Actions)
-
-Notes:
-- Prefers RSS (feedparser). Falls back to HTML scraping where necessary.
-- Translation uses deep_translator GoogleTranslator if installed.
 """
 
 from __future__ import annotations
 
 import os
 import re
-import sys
 import json
 import time
 import hashlib
 import requests
 import feedparser
 import pandas as pd
-from bs4 import BeautifulSoup
 from datetime import datetime, timedelta, timezone
 from urllib.parse import urlparse
 from pathlib import Path
-from typing import Dict, List, Optional, Tuple
+from typing import Dict, List, Optional
 
-# ----------------- CONFIG -----------------
+
+# ================= CONFIG =================
 
 HEADERS = {
     "User-Agent": (
@@ -45,7 +39,7 @@ HEADERS = {
         "AppleWebKit/537.36 (KHTML, like Gecko) "
         "Chrome/122.0.0.0 Safari/537.36"
     ),
-    "Accept": "application/rss+xml, application/xml, text/xml, text/html, */*;q=0.8",
+    "Accept": "application/rss+xml, application/xml, text/xml, */*;q=0.8",
     "Accept-Language": "en-US,en;q=0.9,ru;q=0.7",
     "Connection": "keep-alive",
 }
@@ -54,80 +48,43 @@ TIMEOUT = 20
 MAX_RETRIES = 3
 RETRY_SLEEP = 2.0
 
-# Rolling retention window
 KEEP_HOURS = int(os.getenv("KEEP_HOURS", "48"))
-
-# Output file (rolling JSON)
 OUT_JSON = Path(os.getenv("OUT_JSON", "data/articles_latest.json"))
-
-# Optional relevance filters (keep your existing logic if you want it)
 TEST_MODE = os.getenv("TEST_MODE", "0") == "1"
 
-KEYWORDS_INCLUDE: List[str] = [
-    # English
-    "ukraine", "ukrainian", "kyiv", "kiev", "donbas", "donetsk", "luhansk",
-    "kharkiv", "kherson", "zaporizh", "crimea", "front line",
-    "nato", "alliance", "strike", "missile", "mobilization", "air defense",
-    "drone", "uav", "war", "offensive", "counteroffensive",
-    # Russian stems
-    "украин", "киев", "донбасс", "донецк", "луганск", "харьков", "херсон",
-    "запорож", "крым", "сво", "спецоперац", "фронт", "обстрел", "удар",
-    "ракет", "мобилизац", "нато", "альянс", "запад", "всу", "пво", "бпла",
-    "дрон", "артилл", "наступлен", "контрнаступ",
-]
 
-KEYWORDS_EXCLUDE: List[str] = [
-    "football", "hockey", "tennis", "soccer", "showbiz", "weather", "movie", "film festival",
-    "футбол", "хоккей", "теннис", "шоу-бизнес", "погода", "кинофестиваль",
-]
-
-# Feeds (preferred). Some sites need HTML fallback.
 SOURCES: Dict[str, Dict] = {
     "TASS (EN)": {
-        "type": "rss",
         "feeds": ["https://tass.com/rss/v2.xml"],
-        "base": "https://tass.com",
     },
     "TASS (RU)": {
-        "type": "rss",
         "feeds": ["https://tass.ru/rss/v2.xml"],
-        "base": "https://tass.ru",
     },
     "RT": {
-        "type": "rss",
         "feeds": ["https://www.rt.com/rss/news/"],
-        "base": "https://www.rt.com",
     },
     "Meduza (EN)": {
-        "type": "rss",
-        # commonly referenced; if blocked sometimes, RSS fallback list helps
         "feeds": [
             "https://meduza.io/rss/en/all",
             "https://meduza.io/rss/en/news",
             "https://meduza.io/rss/all",
             "https://meduza.io/rss/news",
         ],
-        "base": "https://meduza.io",
     },
     "Russia Beyond": {
-        "type": "rss",
         "feeds": ["https://www.rbth.com/rss"],
-        "base": "https://www.rbth.com",
     },
     "The Moscow Times": {
-        "type": "rss",
         "feeds": [
             "https://www.themoscowtimes.com/rss/news",
             "https://www.themoscowtimes.com/rss",
             "https://www.themoscowtimes.com/page/rss",
         ],
-        "base": "https://www.themoscowtimes.com",
-    },
-    
     },
 }
 
-# ----------------- Optional translation -----------------
+
+# ============ OPTIONAL TRANSLATION ============
 
 try:
     from deep_translator import GoogleTranslator
@@ -136,33 +93,29 @@ except Exception:
     HAS_TRANSLATOR = False
 
 
-# ----------------- Helpers -----------------
+# ================= HELPERS =================
 
 def _utcnow() -> datetime:
     return datetime.now(timezone.utc)
 
 
-def fetch_text(url: str, referer: Optional[str] = None) -> Optional[str]:
+def fetch_text(url: str) -> Optional[str]:
     sess = requests.Session()
     sess.headers.update(HEADERS)
-    if referer:
-        sess.headers.update({"Referer": referer})
 
     for attempt in range(1, MAX_RETRIES + 1):
         try:
-            r = sess.get(url, timeout=TIMEOUT, allow_redirects=True)
+            r = sess.get(url, timeout=TIMEOUT)
             if r.status_code == 200 and r.text:
                 return r.text
-            print(f"[WARN] HTTP {r.status_code} from {url}")
-        except requests.RequestException as e:
-            print(f"[WARN] Fetch error ({attempt}/{MAX_RETRIES}) for {url}: {e}")
+        except requests.RequestException:
+            pass
         time.sleep(RETRY_SLEEP * attempt)
 
     return None
 
 
 def _parse_entry_datetime(entry: dict) -> Optional[datetime]:
-    # 1) feedparser structured
     for key in ("published_parsed", "updated_parsed", "created_parsed"):
         st = entry.get(key)
         if st:
@@ -171,12 +124,11 @@ def _parse_entry_datetime(entry: dict) -> Optional[datetime]:
             except Exception:
                 pass
 
-    # 2) string parse fallback
-    for key in ("published", "updated", "created", "pubDate", "date"):
+    for key in ("published", "updated", "created", "pubDate"):
         val = entry.get(key)
         if val:
             try:
-                return pd.to_datetime(val, utc=True, errors="raise").to_pydatetime().astimezone(timezone.utc)
+                return pd.to_datetime(val, utc=True).to_pydatetime()
             except Exception:
                 continue
 
@@ -188,42 +140,26 @@ def normalize_space(s: str) -> str:
 
 
 def two_sentence_lead(text: str) -> str:
-    """
-    Try to compress summary/description into ~2 sentences.
-    If no obvious sentence boundaries, truncate to ~280 chars.
-    """
     t = normalize_space(re.sub(r"<[^>]+>", " ", text or ""))
     if not t:
         return ""
 
-    # split on sentence-ish boundaries
     parts = re.split(r"(?<=[.!?])\s+", t)
     parts = [p.strip() for p in parts if p.strip()]
     if len(parts) >= 2:
-        return f"{parts[0]} {parts[1]}".strip()
-    if len(parts) == 1:
-        return parts[0][:280].rstrip()
-    return t[:280].rstrip()
+        return f"{parts[0]} {parts[1]}"
+    return t[:280]
 
 
-def translate_text(text: str, target_lang: str = "en") -> str:
+def translate_text(text: str) -> str:
     if not text:
         return ""
     if not HAS_TRANSLATOR:
         return text
     try:
-        return GoogleTranslator(source="auto", target=target_lang).translate(text)
+        return GoogleTranslator(source="auto", target="en").translate(text)
     except Exception:
         return text
-
-
-def looks_relevant(article: dict) -> bool:
-    if TEST_MODE:
-        return True
-    txt = f"{article.get('title_raw','')} {article.get('lead_raw','')}".lower()
-    if any(x in txt for x in KEYWORDS_EXCLUDE):
-        return False
-    return any(x in txt for x in KEYWORDS_INCLUDE)
 
 
 def hash_key(*parts: str) -> str:
@@ -238,152 +174,94 @@ def within_hours(dt_utc: datetime, now_utc: datetime, keep_hours: int) -> bool:
     return dt_utc >= (now_utc - timedelta(hours=keep_hours))
 
 
-# ----------------- RSS collectors -----------------
+# ================= RSS COLLECTOR =================
 
 def collect_from_rss(source_name: str, feeds: List[str]) -> List[dict]:
     rows: List[dict] = []
 
     for feed_url in feeds:
-        txt = fetch_text(feed_url, referer=urlparse(feed_url).scheme + "://" + urlparse(feed_url).netloc + "/")
+        txt = fetch_text(feed_url)
         if not txt:
-            print(f"[WARN] RSS fetch failed: {source_name} -> {feed_url}")
             continue
 
         d = feedparser.parse(txt)
+
         for e in d.entries:
             title = normalize_space(e.get("title", ""))
             url = normalize_space(e.get("link", ""))
-            summary = e.get("summary", "") or e.get("description", "") or ""
+            summary = e.get("summary", "") or ""
 
             dt = _parse_entry_datetime(e)
             if not dt:
-                # Skip undated items (hard to prune reliably)
                 continue
 
             rows.append({
                 "source": source_name,
                 "url": url,
-                "published_utc": dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+                "published_utc": dt.strftime("%Y-%m-%dT%H:%M:%SZ"),
                 "title_raw": title,
                 "lead_raw": two_sentence_lead(summary),
-                "collector": "rss",
             })
 
-        # if a feed works, you can stop early for that source to avoid duplicates
         if rows:
             break
 
     return rows
 
 
-# ----------------- HTML collectors (fallback) -----------------
-
-def _extract_time_from_tag(tag) -> Optional[datetime]:
-    """
-    Try to interpret <time datetime="..."> or similar patterns as UTC.
-    If timezone not specified, parse as UTC (best-effort).
-    """
-    if not tag:
-        return None
-
-    dt_str = tag.get("datetime") or tag.get("content") or tag.get_text(strip=True)
-    dt_str = normalize_space(dt_str)
-    if not dt_str:
-        return None
-    try:
-        dt = pd.to_datetime(dt_str, utc=True, errors="raise").to_pydatetime()
-        return dt.astimezone(timezone.utc)
-    except Exception:
-        return None
-
-
-
-# ----------------- Store: merge + prune + dedupe -----------------
+# ================= STORE LOGIC =================
 
 def load_existing_json(path: Path) -> List[dict]:
     if not path.exists():
         return []
     try:
         data = json.loads(path.read_text(encoding="utf-8"))
-        if isinstance(data, dict) and isinstance(data.get("articles"), list):
-            return data["articles"]
-        if isinstance(data, list):
-            return data
+        return data.get("articles", [])
     except Exception:
         return []
-    return []
 
 
-def prune_and_dedupe(rows: List[dict], keep_hours: int) -> List[dict]:
+def prune_and_dedupe(rows: List[dict]) -> List[dict]:
     now = _utcnow()
+    kept = []
 
-    kept: List[dict] = []
     for r in rows:
         try:
-            dt = pd.to_datetime(r.get("published_utc", ""), utc=True, errors="raise").to_pydatetime().astimezone(timezone.utc)
+            dt = pd.to_datetime(r.get("published_utc"), utc=True)
         except Exception:
             continue
-        if within_hours(dt, now, keep_hours):
+
+        if within_hours(dt.to_pydatetime(), now, KEEP_HOURS):
             kept.append(r)
 
-    # dedupe by stable key: source + url (primary), else source + title + time
-    best: Dict[str, dict] = {}
+    best = {}
     for r in kept:
-        key = hash_key(r.get("source",""), r.get("url","")) if r.get("url") else hash_key(
-            r.get("source",""), r.get("title_raw",""), r.get("published_utc","")
-        )
-        prev = best.get(key)
-        if not prev:
-            best[key] = r
-        else:
-            # keep whichever has a longer lead (usually richer)
-            if len((r.get("lead_raw") or "")) > len((prev.get("lead_raw") or "")):
-                best[key] = r
+        key = hash_key(r.get("source"), r.get("url"))
+        best[key] = r
 
-    # sort newest-first
     final = list(best.values())
-    final.sort(key=lambda x: x.get("published_utc", ""), reverse=True)
+    final.sort(key=lambda x: x.get("published_utc"), reverse=True)
     return final
 
 
 def enrich_translate(rows: List[dict]) -> List[dict]:
-    """
-    Translate title + lead into English; keep raw fields too.
-    Add convenience fields (domain, published_epoch).
-    """
-    out: List[dict] = []
-    for r in rows:
-        url = r.get("url", "")
-        domain = urlparse(url).netloc.lower()
+    out = []
 
-        # translate
+    for r in rows:
         title_en = translate_text(r.get("title_raw", ""))
         lead_en = translate_text(r.get("lead_raw", ""))
 
-        # normalize 2-sentence again post-translation (Google sometimes adds odd spacing)
-        lead_en = two_sentence_lead(lead_en)
-
-        # epoch
-        epoch = None
-        try:
-            dt = pd.to_datetime(r.get("published_utc",""), utc=True, errors="raise")
-            epoch = int(dt.timestamp())
-        except Exception:
-            epoch = None
-
         out.append({
-            "id": hash_key(r.get("source",""), url, r.get("published_utc",""), r.get("title_raw","")),
-            "source": r.get("source", ""),
-            "source_domain": domain,
-            "url": url,
-            "published_utc": r.get("published_utc", ""),
-            "published_epoch": epoch,
+            "id": hash_key(r.get("source"), r.get("url"), r.get("published_utc")),
+            "source": r.get("source"),
+            "url": r.get("url"),
+            "published_utc": r.get("published_utc"),
             "title_en": title_en,
-            "lead_en": lead_en,
-            "title_raw": r.get("title_raw", ""),
-            "lead_raw": r.get("lead_raw", ""),
-            "collector": r.get("collector", ""),
+            "lead_en": two_sentence_lead(lead_en),
+            "title_raw": r.get("title_raw"),
+            "lead_raw": r.get("lead_raw"),
         })
+
     return out
 
 
@@ -394,28 +272,37 @@ def atomic_write_json(path: Path, payload: dict) -> None:
     tmp.replace(path)
 
 
-# ----------------- Main -----------------
+# ================= MAIN =================
 
 def main() -> int:
     now = _utcnow()
     print(f"[INFO] Run at {now.strftime('%Y-%m-%dT%H:%M:%SZ')} | keep_hours={KEEP_HOURS}")
 
-    collected: List[dict] = []
+    collected = []
 
-    # 1) RSS sources
     for name, cfg in SOURCES.items():
-        if cfg.get("type") != "rss":
-            continue
-        feeds = cfg.get("feeds") or []
-        if not feeds:
-            continue
         print(f"[INFO] RSS: {name}")
-        collected.extend(collect_from_rss(name, feeds))
+        collected.extend(collect_from_rss(name, cfg["feeds"]))
 
+    if not collected:
+        print("[WARN] No articles collected.")
+        return 0
 
+    existing = load_existing_json(OUT_JSON)
+    merged = existing + collected
+    merged = prune_and_dedupe(merged)
+    enriched = enrich_translate(merged)
+
+    payload = {
+        "updated_at_utc": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "keep_hours": KEEP_HOURS,
+        "count": len(enriched),
+        "articles": enriched,
+    }
 
     atomic_write_json(OUT_JSON, payload)
-    print(f"[OK] Wrote {len(enriched)} articles -> {OUT_JSON.as_posix()}")
+
+    print(f"[OK] Wrote {len(enriched)} articles -> {OUT_JSON}")
     return 0
 
 
