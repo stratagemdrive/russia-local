@@ -35,3 +35,10 @@ jobs:
         with:
           name: articles_latest
           path: data/articles_latest.json
+- name: Commit updated JSON
+  run: |
+    git config user.name "github-actions[bot]"
+    git config user.email "github-actions[bot]@users.noreply.github.com"
+    git add data/articles_latest.json
+    git commit -m "Update articles_latest.json" || echo "No changes"
+    git push
