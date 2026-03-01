@@ -1,0 +1,38 @@
+name: Run collector once
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run collector
+        env:
+          KEEP_HOURS: "48"
+          OUT_JSON: "data/articles_latest.json"
+          TEST_MODE: "0"
+        run: |
+          python collector.py
+          ls -la data || true
+          test -f data/articles_latest.json && echo "JSON created ✅" || (echo "JSON missing ❌" && exit 1)
+
+      - name: Upload JSON as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: articles_latest
+          path: data/articles_latest.json
+          if-no-files-found: error
