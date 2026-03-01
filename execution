@@ -16,16 +16,15 @@ Outputs:
 - Translates all text fields into English
 - Designed to run on a schedule (cron / GitHub Actions)
 
-Notes:
-- Prefers RSS (feedparser). Falls back to HTML scraping where necessary.
-- Translation uses deep_translator GoogleTranslator if installed.
+Filter logic (your request):
+- Keep ONLY if the article mentions a Russia actor/signal (English or Russian)
+- Do NOT require a foreign actor mention
 """
 
 from __future__ import annotations
 
 import os
 import re
-import sys
 import json
 import time
 import hashlib
@@ -36,7 +35,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime, timedelta, timezone
 from urllib.parse import urlparse
 from pathlib import Path
-from typing import Dict, List, Optional, Tuple
+from typing import Dict, List, Optional
 
 # ----------------- CONFIG -----------------
 
@@ -61,25 +60,43 @@ KEEP_HOURS = int(os.getenv("KEEP_HOURS", "48"))
 # Output file (rolling JSON)
 OUT_JSON = Path(os.getenv("OUT_JSON", "data/articles_latest.json"))
 
-# Optional relevance filters (keep your existing logic if you want it)
+# Disable relevance filters if you’re debugging
 TEST_MODE = os.getenv("TEST_MODE", "0") == "1"
 
-KEYWORDS_INCLUDE: List[str] = [
-    # English
-    "ukraine", "ukrainian", "kyiv", "kiev", "donbas", "donetsk", "luhansk",
-    "kharkiv", "kherson", "zaporizh", "crimea", "front line",
-    "nato", "alliance", "strike", "missile", "mobilization", "air defense",
-    "drone", "uav", "war", "offensive", "counteroffensive",
-    # Russian stems
-    "украин", "киев", "донбасс", "донецк", "луганск", "харьков", "херсон",
-    "запорож", "крым", "сво", "спецоперац", "фронт", "обстрел", "удар",
-    "ракет", "мобилизац", "нато", "альянс", "запад", "всу", "пво", "бпла",
-    "дрон", "артилл", "наступлен", "контрнаступ",
-]
-
+# Exclude obvious noise
 KEYWORDS_EXCLUDE: List[str] = [
     "football", "hockey", "tennis", "soccer", "showbiz", "weather", "movie", "film festival",
     "футбол", "хоккей", "теннис", "шоу-бизнес", "погода", "кинофестиваль",
+]
+
+# Your requested inclusion rule: keep only if "Russia actor signal" is present.
+# Use stems where useful (esp. Russian) to catch inflections.
+RUSSIA_ACTOR_TERMS: List[str] = [
+    # English
+    "russia", "russian",
+    "kremlin",
+    "ministry of foreign affairs", "foreign ministry", "mfa",
+    "defense ministry", "ministry of defense", "mod",
+    "security council",
+    "putin", "vladimir putin",
+    "lavrov", "sergey lavrov", "sergei lavrov",
+    "shoigu", "sergei shoigu", "sergey shoigu",
+    "peskov", "dmitry peskov",
+    "zakharova", "maria zakharova",
+
+    # Russian stems / abbreviations
+    "росси",          # россия/россии/российский...
+    "кремл",          # кремль/кремля...
+    "мид",            # МИД
+    "министерств иностранных дел",
+    "минобороны",     # Минобороны
+    "министерств обороны",
+    "совет безопасност",  # совет безопасности
+    "путин",
+    "лавров",
+    "шойгу",
+    "песков",
+    "захарова",
 ]
 
 # Feeds (preferred). Some sites need HTML fallback.
@@ -101,7 +118,6 @@ SOURCES: Dict[str, Dict] = {
     },
     "Meduza (EN)": {
         "type": "rss",
-        # commonly referenced; if blocked sometimes, RSS fallback list helps
         "feeds": [
             "https://meduza.io/rss/en/all",
             "https://meduza.io/rss/en/news",
@@ -151,12 +167,10 @@ try:
 except Exception:
     HAS_TRANSLATOR = False
 
-
 # ----------------- Helpers -----------------
 
 def _utcnow() -> datetime:
     return datetime.now(timezone.utc)
-
 
 def fetch_text(url: str, referer: Optional[str] = None) -> Optional[str]:
     sess = requests.Session()
@@ -175,7 +189,6 @@ def fetch_text(url: str, referer: Optional[str] = None) -> Optional[str]:
         time.sleep(RETRY_SLEEP * attempt)
 
     return None
-
 
 def _parse_entry_datetime(entry: dict) -> Optional[datetime]:
     # 1) feedparser structured
@@ -198,21 +211,17 @@ def _parse_entry_datetime(entry: dict) -> Optional[datetime]:
 
     return None
 
-
 def normalize_space(s: str) -> str:
     return " ".join((s or "").split()).strip()
 
-
 def two_sentence_lead(text: str) -> str:
     """
-    Try to compress summary/description into ~2 sentences.
-    If no obvious sentence boundaries, truncate to ~280 chars.
+    Compress summary/description into ~2 sentences.
+    If no sentence boundaries, truncate to ~280 chars.
     """
     t = normalize_space(re.sub(r"<[^>]+>", " ", text or ""))
     if not t:
         return ""
-
-    # split on sentence-ish boundaries
     parts = re.split(r"(?<=[.!?])\s+", t)
     parts = [p.strip() for p in parts if p.strip()]
     if len(parts) >= 2:
@@ -220,7 +229,6 @@ def two_sentence_lead(text: str) -> str:
     if len(parts) == 1:
         return parts[0][:280].rstrip()
     return t[:280].rstrip()
-
 
 def translate_text(text: str, target_lang: str = "en") -> str:
     if not text:
@@ -232,16 +240,6 @@ def translate_text(text: str, target_lang: str = "en") -> str:
     except Exception:
         return text
 
-
-def looks_relevant(article: dict) -> bool:
-    if TEST_MODE:
-        return True
-    txt = f"{article.get('title_raw','')} {article.get('lead_raw','')}".lower()
-    if any(x in txt for x in KEYWORDS_EXCLUDE):
-        return False
-    return any(x in txt for x in KEYWORDS_INCLUDE)
-
-
 def hash_key(*parts: str) -> str:
     h = hashlib.sha1()
     for p in parts:
@@ -249,10 +247,18 @@ def hash_key(*parts: str) -> str:
         h.update(b"|")
     return h.hexdigest()
 
-
 def within_hours(dt_utc: datetime, now_utc: datetime, keep_hours: int) -> bool:
     return dt_utc >= (now_utc - timedelta(hours=keep_hours))
 
+def mentions_russia_actor(article: dict) -> bool:
+    """
+    Your requested filter:
+    Keep if any Russia-actor term appears in title or lead (raw).
+    """
+    txt = f"{article.get('title_raw','')} {article.get('lead_raw','')}".lower()
+    if any(x in txt for x in KEYWORDS_EXCLUDE):
+        return False
+    return any(term in txt for term in RUSSIA_ACTOR_TERMS)
 
 # ----------------- RSS collectors -----------------
 
@@ -291,17 +297,11 @@ def collect_from_rss(source_name: str, feeds: List[str]) -> List[dict]:
 
     return rows
 
-
-# ----------------- HTML collectors (fallback) -----------------
+# ----------------- HTML collectors (Sputnik fallback) -----------------
 
 def _extract_time_from_tag(tag) -> Optional[datetime]:
-    """
-    Try to interpret <time datetime="..."> or similar patterns as UTC.
-    If timezone not specified, parse as UTC (best-effort).
-    """
     if not tag:
         return None
-
     dt_str = tag.get("datetime") or tag.get("content") or tag.get_text(strip=True)
     dt_str = normalize_space(dt_str)
     if not dt_str:
@@ -312,13 +312,7 @@ def _extract_time_from_tag(tag) -> Optional[datetime]:
     except Exception:
         return None
 
-
 def collect_sputnik_html(start_urls: List[str]) -> List[dict]:
-    """
-    Sputnik HTML varies; this is a pragmatic scraper:
-    - Finds links that look like article pages
-    - Attempts to pull title + time + first paragraph/meta description
-    """
     out: List[dict] = []
     seen_urls = set()
 
@@ -329,21 +323,16 @@ def collect_sputnik_html(start_urls: List[str]) -> List[dict]:
 
         soup = BeautifulSoup(html, "html.parser")
 
-        # candidate links: keep internal, likely-article URLs
         for a in soup.select("a[href]"):
             href = a.get("href", "")
             if not href:
                 continue
-            if href.startswith("/"):
-                full = "https://sputnikglobe.com" + href
-            else:
-                full = href
+            full = "https://sputnikglobe.com" + href if href.startswith("/") else href
 
             pu = urlparse(full)
             if pu.netloc and "sputnikglobe.com" not in pu.netloc:
                 continue
 
-            # heuristic: most article pages contain a numeric id at end
             if not re.search(r"/\d{6,}/?$", pu.path):
                 continue
 
@@ -351,7 +340,6 @@ def collect_sputnik_html(start_urls: List[str]) -> List[dict]:
                 continue
             seen_urls.add(full)
 
-            # fetch the article page (light throttle by limiting)
             if len(out) >= 60:
                 break
 
@@ -361,19 +349,20 @@ def collect_sputnik_html(start_urls: List[str]) -> List[dict]:
             art = BeautifulSoup(art_html, "html.parser")
 
             # title
-            title = normalize_space(
-                (art.select_one("h1") or art.select_one("meta[property='og:title']") or {}).get_text(strip=True)
-                if art.select_one("h1")
-                else (art.select_one("meta[property='og:title']")["content"].strip()
-                      if art.select_one("meta[property='og:title']") and art.select_one("meta[property='og:title']").get("content") else "")
-            )
+            title = ""
+            h1 = art.select_one("h1")
+            if h1:
+                title = normalize_space(h1.get_text(strip=True))
+            else:
+                og = art.select_one("meta[property='og:title']")
+                if og and og.get("content"):
+                    title = normalize_space(og["content"])
 
             # time
             dt = None
             ttag = art.select_one("time")
             dt = _extract_time_from_tag(ttag) if ttag else None
             if not dt:
-                # try meta article:published_time
                 m = art.select_one("meta[property='article:published_time']")
                 if m and m.get("content"):
                     try:
@@ -384,7 +373,7 @@ def collect_sputnik_html(start_urls: List[str]) -> List[dict]:
             if not title or not dt:
                 continue
 
-            # lead: meta description first, else first paragraph
+            # lead
             lead = ""
             md = art.select_one("meta[name='description']")
             if md and md.get("content"):
@@ -407,7 +396,6 @@ def collect_sputnik_html(start_urls: List[str]) -> List[dict]:
 
     return out
 
-
 # ----------------- Store: merge + prune + dedupe -----------------
 
 def load_existing_json(path: Path) -> List[dict]:
@@ -423,7 +411,6 @@ def load_existing_json(path: Path) -> List[dict]:
         return []
     return []
 
-
 def prune_and_dedupe(rows: List[dict], keep_hours: int) -> List[dict]:
     now = _utcnow()
 
@@ -436,53 +423,41 @@ def prune_and_dedupe(rows: List[dict], keep_hours: int) -> List[dict]:
         if within_hours(dt, now, keep_hours):
             kept.append(r)
 
-    # dedupe by stable key: source + url (primary), else source + title + time
     best: Dict[str, dict] = {}
     for r in kept:
-        key = hash_key(r.get("source",""), r.get("url","")) if r.get("url") else hash_key(
-            r.get("source",""), r.get("title_raw",""), r.get("published_utc","")
+        key = hash_key(r.get("source", ""), r.get("url", "")) if r.get("url") else hash_key(
+            r.get("source", ""), r.get("title_raw", ""), r.get("published_utc", "")
         )
         prev = best.get(key)
         if not prev:
             best[key] = r
         else:
-            # keep whichever has a longer lead (usually richer)
             if len((r.get("lead_raw") or "")) > len((prev.get("lead_raw") or "")):
                 best[key] = r
 
-    # sort newest-first
     final = list(best.values())
     final.sort(key=lambda x: x.get("published_utc", ""), reverse=True)
     return final
 
-
 def enrich_translate(rows: List[dict]) -> List[dict]:
-    """
-    Translate title + lead into English; keep raw fields too.
-    Add convenience fields (domain, published_epoch).
-    """
     out: List[dict] = []
     for r in rows:
         url = r.get("url", "")
         domain = urlparse(url).netloc.lower()
 
-        # translate
         title_en = translate_text(r.get("title_raw", ""))
         lead_en = translate_text(r.get("lead_raw", ""))
-
-        # normalize 2-sentence again post-translation (Google sometimes adds odd spacing)
         lead_en = two_sentence_lead(lead_en)
 
-        # epoch
         epoch = None
         try:
-            dt = pd.to_datetime(r.get("published_utc",""), utc=True, errors="raise")
+            dt = pd.to_datetime(r.get("published_utc", ""), utc=True, errors="raise")
             epoch = int(dt.timestamp())
         except Exception:
             epoch = None
 
         out.append({
-            "id": hash_key(r.get("source",""), url, r.get("published_utc",""), r.get("title_raw","")),
+            "id": hash_key(r.get("source", ""), url, r.get("published_utc", ""), r.get("title_raw", "")),
             "source": r.get("source", ""),
             "source_domain": domain,
             "url": url,
@@ -496,13 +471,11 @@ def enrich_translate(rows: List[dict]) -> List[dict]:
         })
     return out
 
-
 def atomic_write_json(path: Path, payload: dict) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     tmp = path.with_suffix(".tmp")
     tmp.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     tmp.replace(path)
-
 
 # ----------------- Main -----------------
 
@@ -534,24 +507,25 @@ def main() -> int:
         print("[WARN] No articles collected (all sources failed).")
         return 0
 
-    # optional relevance filtering
+    # Apply your requested filter: keep only if Russia-actor signal is present
     if not TEST_MODE:
         before = len(collected)
-        collected = [r for r in collected if looks_relevant(r)]
-        print(f"[INFO] Relevance kept {len(collected)}/{before}")
+        collected = [r for r in collected if mentions_russia_actor(r)]
+        print(f"[INFO] Russia-actor filter kept {len(collected)}/{before}")
 
     # merge with existing store
     existing = load_existing_json(OUT_JSON)
-    # existing is already enriched; convert back to minimal compatible rows for prune/dedupe
+
+    # existing is enriched; convert to minimal for prune/dedupe
     existing_min = []
     for e in existing:
         existing_min.append({
-            "source": e.get("source",""),
-            "url": e.get("url",""),
-            "published_utc": e.get("published_utc",""),
-            "title_raw": e.get("title_raw",""),
-            "lead_raw": e.get("lead_raw",""),
-            "collector": e.get("collector","store"),
+            "source": e.get("source", ""),
+            "url": e.get("url", ""),
+            "published_utc": e.get("published_utc", ""),
+            "title_raw": e.get("title_raw", ""),
+            "lead_raw": e.get("lead_raw", ""),
+            "collector": e.get("collector", "store"),
         })
 
     merged = existing_min + collected
@@ -568,7 +542,6 @@ def main() -> int:
     atomic_write_json(OUT_JSON, payload)
     print(f"[OK] Wrote {len(enriched)} articles -> {OUT_JSON.as_posix()}")
     return 0
-
 
 if __name__ == "__main__":
     raise SystemExit(main())
