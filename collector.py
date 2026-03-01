@@ -6,7 +6,6 @@ Targets:
 - Meduza
 - RT
 - Russia Beyond
-- Sputnik
 - TASS
 - The Moscow Times
 
@@ -124,22 +123,7 @@ SOURCES: Dict[str, Dict] = {
         ],
         "base": "https://www.themoscowtimes.com",
     },
-    "Sputnik": {
-        # RSS endpoints can be inconsistent/blocked; treat as HTML-first
-        "type": "html",
-        "base": "https://sputnikglobe.com",
-        "start_urls": [
-            "https://sputnikglobe.com/news/",
-            "https://sputnikglobe.com/world/",
-            "https://sputnikglobe.com/russia/",
-            "https://sputnikglobe.com/military/",
-            "https://sputnikglobe.com/economy/",
-        ],
-        # optional RSS candidates (if they work in your environment)
-        "feeds": [
-            "https://sputnikglobe.com/export/rss2/index.xml",
-            "https://sputnikglobe.com/export/rss2/archive/index.xml",
-        ],
+    
     },
 }
 
@@ -313,100 +297,6 @@ def _extract_time_from_tag(tag) -> Optional[datetime]:
         return None
 
 
-def collect_sputnik_html(start_urls: List[str]) -> List[dict]:
-    """
-    Sputnik HTML varies; this is a pragmatic scraper:
-    - Finds links that look like article pages
-    - Attempts to pull title + time + first paragraph/meta description
-    """
-    out: List[dict] = []
-    seen_urls = set()
-
-    for u in start_urls:
-        html = fetch_text(u, referer="https://sputnikglobe.com/")
-        if not html:
-            continue
-
-        soup = BeautifulSoup(html, "html.parser")
-
-        # candidate links: keep internal, likely-article URLs
-        for a in soup.select("a[href]"):
-            href = a.get("href", "")
-            if not href:
-                continue
-            if href.startswith("/"):
-                full = "https://sputnikglobe.com" + href
-            else:
-                full = href
-
-            pu = urlparse(full)
-            if pu.netloc and "sputnikglobe.com" not in pu.netloc:
-                continue
-
-            # heuristic: most article pages contain a numeric id at end
-            if not re.search(r"/\d{6,}/?$", pu.path):
-                continue
-
-            if full in seen_urls:
-                continue
-            seen_urls.add(full)
-
-            # fetch the article page (light throttle by limiting)
-            if len(out) >= 60:
-                break
-
-            art_html = fetch_text(full, referer=u)
-            if not art_html:
-                continue
-            art = BeautifulSoup(art_html, "html.parser")
-
-            # title
-            title = normalize_space(
-                (art.select_one("h1") or art.select_one("meta[property='og:title']") or {}).get_text(strip=True)
-                if art.select_one("h1")
-                else (art.select_one("meta[property='og:title']")["content"].strip()
-                      if art.select_one("meta[property='og:title']") and art.select_one("meta[property='og:title']").get("content") else "")
-            )
-
-            # time
-            dt = None
-            ttag = art.select_one("time")
-            dt = _extract_time_from_tag(ttag) if ttag else None
-            if not dt:
-                # try meta article:published_time
-                m = art.select_one("meta[property='article:published_time']")
-                if m and m.get("content"):
-                    try:
-                        dt = pd.to_datetime(m["content"], utc=True, errors="raise").to_pydatetime().astimezone(timezone.utc)
-                    except Exception:
-                        dt = None
-
-            if not title or not dt:
-                continue
-
-            # lead: meta description first, else first paragraph
-            lead = ""
-            md = art.select_one("meta[name='description']")
-            if md and md.get("content"):
-                lead = md["content"]
-            else:
-                p = art.select_one("article p") or art.select_one(".article__text p") or art.select_one("p")
-                lead = p.get_text(" ", strip=True) if p else ""
-
-            out.append({
-                "source": "Sputnik",
-                "url": full,
-                "published_utc": dt.strftime("%Y-%m-%dT%H:%M:%SZ"),
-                "title_raw": title,
-                "lead_raw": two_sentence_lead(lead),
-                "collector": "html",
-            })
-
-        if len(out) >= 60:
-            break
-
-    return out
-
 
 # ----------------- Store: merge + prune + dedupe -----------------
 
@@ -522,48 +412,7 @@ def main() -> int:
         print(f"[INFO] RSS: {name}")
         collected.extend(collect_from_rss(name, feeds))
 
-    # 2) HTML sources (Sputnik)
-    for name, cfg in SOURCES.items():
-        if cfg.get("type") != "html":
-            continue
-        print(f"[INFO] HTML: {name}")
-        if name == "Sputnik":
-            collected.extend(collect_sputnik_html(cfg.get("start_urls", [])))
 
-    if not collected:
-        print("[WARN] No articles collected (all sources failed).")
-        return 0
-
-    # optional relevance filtering
-    if not TEST_MODE:
-        before = len(collected)
-        collected = [r for r in collected if looks_relevant(r)]
-        print(f"[INFO] Relevance kept {len(collected)}/{before}")
-
-    # merge with existing store
-    existing = load_existing_json(OUT_JSON)
-    # existing is already enriched; convert back to minimal compatible rows for prune/dedupe
-    existing_min = []
-    for e in existing:
-        existing_min.append({
-            "source": e.get("source",""),
-            "url": e.get("url",""),
-            "published_utc": e.get("published_utc",""),
-            "title_raw": e.get("title_raw",""),
-            "lead_raw": e.get("lead_raw",""),
-            "collector": e.get("collector","store"),
-        })
-
-    merged = existing_min + collected
-    merged = prune_and_dedupe(merged, KEEP_HOURS)
-    enriched = enrich_translate(merged)
-
-    payload = {
-        "updated_at_utc": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "keep_hours": KEEP_HOURS,
-        "count": len(enriched),
-        "articles": enriched,
-    }
 
     atomic_write_json(OUT_JSON, payload)
     print(f"[OK] Wrote {len(enriched)} articles -> {OUT_JSON.as_posix()}")
