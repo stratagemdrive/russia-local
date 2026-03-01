@@ -1,11 +1,18 @@
-name: Run collector once
+name: Russian Media Collector
 
 on:
   workflow_dispatch:
+  schedule:
+    # Run every hour — Python decides if it's 7/12/17/22 ET
+    - cron: "0 * * * *"
+
+permissions:
+  contents: write
 
 jobs:
   run:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -28,17 +35,11 @@ jobs:
         run: |
           python collector.py
           ls -la data || true
-          test -f data/articles_latest.json && echo "JSON created ✅" || (echo "JSON missing ❌" && exit 1)
 
-      - name: Upload JSON as artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: articles_latest
-          path: data/articles_latest.json
-- name: Commit updated JSON
-  run: |
-    git config user.name "github-actions[bot]"
-    git config user.email "github-actions[bot]@users.noreply.github.com"
-    git add data/articles_latest.json
-    git commit -m "Update articles_latest.json" || echo "No changes"
-    git push
+      - name: Commit updated JSON
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/articles_latest.json
+          git commit -m "Auto-update articles_latest.json" || echo "No changes"
+          git push
