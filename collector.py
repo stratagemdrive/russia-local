@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Russian Media Tracker — Collector + Translator + JSON Store (48h rolling)
+Russian Media Tracker — Collector + Translator + Topic Splitter (48h rolling)
 
 Targets:
 - Meduza
@@ -11,8 +11,16 @@ Targets:
 
 Outputs:
 - data/articles_latest.json
+- data/articles_diplomacy.json
+- data/articles_military.json
+- data/articles_energy.json
+- data/articles_economy.json
+- data/articles_local_events.json
+
+Behavior:
 - Keeps only last 48 hours
 - Translates all text fields into English
+- Classifies articles into topic buckets
 """
 
 from __future__ import annotations
@@ -48,7 +56,6 @@ RETRY_SLEEP = 2.0
 
 KEEP_HOURS = int(os.getenv("KEEP_HOURS", "48"))
 OUT_JSON = Path(os.getenv("OUT_JSON", "data/articles_latest.json"))
-TEST_MODE = os.getenv("TEST_MODE", "0") == "1"
 
 SOURCES: Dict[str, Dict] = {
     "TASS (EN)": {
@@ -78,6 +85,52 @@ SOURCES: Dict[str, Dict] = {
             "https://www.themoscowtimes.com/page/rss",
         ],
     },
+}
+
+TOPIC_KEYWORDS = {
+    "diplomacy": [
+        "foreign ministry", "ministry of foreign affairs", "mfa",
+        "diplomacy", "diplomatic", "talks", "negotiations", "meeting",
+        "summit", "delegation", "envoy", "embassy", "ambassador",
+        "bilateral", "multilateral", "agreement", "treaty",
+        "strategic partnership", "joint statement", "consultations",
+        "мид", "дипломат", "переговор", "встреч", "саммит", "делегац",
+        "посол", "соглашен", "договор",
+    ],
+    "military": [
+        "defense ministry", "ministry of defense", "military",
+        "armed forces", "troops", "exercise", "drills", "deployment",
+        "missile", "air defense", "navy", "fleet", "submarine",
+        "weapons", "arms", "defense industry", "security",
+        "минобороны", "военн", "войск", "учени", "маневр",
+        "ракет", "пво", "флот", "оруж",
+    ],
+    "energy": [
+        "energy", "oil", "gas", "lng", "pipeline", "gazprom",
+        "rosneft", "novatek", "opec", "opec+", "refinery",
+        "electricity", "power grid", "nuclear power",
+        "coal", "fuel", "energy exports", "petroleum",
+        "энерг", "нефт", "газ", "спг", "газпром", "роснефт",
+        "новатэк", "опек", "атомн", "топлив",
+    ],
+    "economy": [
+        "economy", "economic", "gdp", "inflation", "interest rate",
+        "central bank", "trade", "exports", "imports", "industry",
+        "manufacturing", "investment", "budget", "deficit",
+        "banking", "ruble", "sanctions", "market", "employment",
+        "эконом", "ввп", "инфляц", "центробанк", "торгов",
+        "экспорт", "импорт", "промышлен", "инвестиц", "бюджет",
+        "банк", "рубл", "санкц", "рын",
+    ],
+    "local_events": [
+        "fire", "flood", "earthquake", "storm", "wildfire",
+        "explosion", "accident", "crash", "evacuation",
+        "emergency", "disaster", "landslide", "outage",
+        "collapse", "rescue", "injured", "killed",
+        "пожар", "наводнен", "землетрясен", "шторм",
+        "взрыв", "авари", "крушен", "эвакуац",
+        "чс", "чрезвычайн", "бедств", "спасател",
+    ],
 }
 
 # ============ OPTIONAL TRANSLATION ============
@@ -168,6 +221,36 @@ def hash_key(*parts: str) -> str:
 
 def within_hours(dt_utc: datetime, now_utc: datetime, keep_hours: int) -> bool:
     return dt_utc >= (now_utc - timedelta(hours=keep_hours))
+
+
+def classify_topics(article: dict) -> dict:
+    txt = f"{article.get('title_raw', '')} {article.get('lead_raw', '')}".lower()
+
+    scores = {}
+    for topic, keywords in TOPIC_KEYWORDS.items():
+        scores[topic] = sum(1 for kw in keywords if kw in txt)
+
+    labels = []
+
+    if scores["diplomacy"] >= 1:
+        labels.append("diplomacy")
+    if scores["military"] >= 1:
+        labels.append("military")
+    if scores["energy"] >= 1:
+        labels.append("energy")
+    if scores["economy"] >= 2:
+        labels.append("economy")
+    if scores["local_events"] >= 2:
+        labels.append("local_events")
+
+    primary = None
+    if any(v > 0 for v in scores.values()):
+        primary = max(scores, key=scores.get)
+
+    article["topic_scores"] = scores
+    article["topics"] = labels
+    article["primary_topic"] = primary
+    return article
 
 # ================= RSS COLLECTOR =================
 
@@ -297,17 +380,30 @@ def main() -> int:
     merged = existing + collected
     merged = prune_and_dedupe(merged)
     enriched = enrich_translate(merged)
+    classified = [classify_topics(a) for a in enriched]
 
     payload = {
         "updated_at_utc": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "keep_hours": KEEP_HOURS,
-        "count": len(enriched),
-        "articles": enriched,
+        "count": len(classified),
+        "articles": classified,
     }
 
     atomic_write_json(OUT_JSON, payload)
 
-    print(f"[OK] Wrote {len(enriched)} articles -> {OUT_JSON}")
+    topic_names = ["diplomacy", "military", "energy", "economy", "local_events"]
+
+    for topic in topic_names:
+        subset = [a for a in classified if topic in a.get("topics", [])]
+        topic_payload = {
+            "updated_at_utc": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "topic": topic,
+            "count": len(subset),
+            "articles": subset,
+        }
+        atomic_write_json(Path(f"data/articles_{topic}.json"), topic_payload)
+
+    print(f"[OK] Wrote {len(classified)} articles -> {OUT_JSON}")
     return 0
 
 
