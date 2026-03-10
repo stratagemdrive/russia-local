@@ -21,6 +21,8 @@ Behavior:
 - Keeps only last 48 hours
 - Translates all text fields into English
 - Classifies articles into topic buckets
+- Keeps ONLY articles that explicitly mention Russia/Russian
+  in English or Russian roots
 """
 
 from __future__ import annotations
@@ -133,6 +135,15 @@ TOPIC_KEYWORDS = {
     ],
 }
 
+# Strict Russia gate:
+# Keep only articles that explicitly mention Russia/Russian
+# in English or Russian.
+RUSSIA_PATTERNS = [
+    re.compile(r"\brussi\w*\b", re.IGNORECASE),  # Russia, Russian, Russians
+    re.compile(r"росси\w*", re.IGNORECASE),      # Россия, российский, россияне...
+    re.compile(r"русск\w*", re.IGNORECASE),      # русский, русские...
+]
+
 # ============ OPTIONAL TRANSLATION ============
 
 try:
@@ -221,6 +232,32 @@ def hash_key(*parts: str) -> str:
 
 def within_hours(dt_utc: datetime, now_utc: datetime, keep_hours: int) -> bool:
     return dt_utc >= (now_utc - timedelta(hours=keep_hours))
+
+
+def mentions_russia(text: str) -> bool:
+    txt = normalize_space((text or "").lower())
+    if not txt:
+        return False
+    return any(pattern.search(txt) for pattern in RUSSIA_PATTERNS)
+
+
+def article_is_russia_related(article: dict) -> bool:
+    # Check raw fields first so Russian-language matches are preserved.
+    raw_text = " ".join([
+        article.get("title_raw", ""),
+        article.get("lead_raw", ""),
+    ])
+
+    if mentions_russia(raw_text):
+        return True
+
+    # Fallback: also check translated English fields.
+    en_text = " ".join([
+        article.get("title_en", ""),
+        article.get("lead_en", ""),
+    ])
+
+    return mentions_russia(en_text)
 
 
 def classify_topics(article: dict) -> dict:
@@ -380,7 +417,12 @@ def main() -> int:
     merged = existing + collected
     merged = prune_and_dedupe(merged)
     enriched = enrich_translate(merged)
-    classified = [classify_topics(a) for a in enriched]
+
+    # Hard Russia filter
+    filtered = [a for a in enriched if article_is_russia_related(a)]
+    print(f"[INFO] Russia-related only: {len(filtered)} / {len(enriched)} kept")
+
+    classified = [classify_topics(a) for a in filtered]
 
     payload = {
         "updated_at_utc": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
@@ -403,7 +445,7 @@ def main() -> int:
         }
         atomic_write_json(Path(f"data/articles_{topic}.json"), topic_payload)
 
-    print(f"[OK] Wrote {len(classified)} articles -> {OUT_JSON}")
+    print(f"[OK] Wrote {len(classified)} Russia-related articles -> {OUT_JSON}")
     return 0
 
 
