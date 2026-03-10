@@ -273,13 +273,7 @@ def atomic_write_json(path: Path, payload: dict) -> None:
 
 
 # ================= MAIN =================
-def should_run_now():
-    et = datetime.now(ZoneInfo("America/New_York"))
-    return et.hour in {7, 12, 17, 22}
-def main() -> int:
-    if not should_run_now():
-        print("Not a scheduled ET hour — exiting.")
-        return 0
+
     now = _utcnow()
     print(f"[INFO] Run at {now.strftime('%Y-%m-%dT%H:%M:%SZ')} | keep_hours={KEEP_HOURS}")
 
