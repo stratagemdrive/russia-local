@@ -1,9 +1,97 @@
 {
-  "updated_at_utc": "2026-03-10T21:19:23Z",
+  "updated_at_utc": "2026-03-10T22:05:17Z",
   "keep_hours": 48,
   "topic": "diplomacy",
-  "count": 89,
+  "count": 38,
   "articles": [
+    {
+      "id": "008f7b5813c44c12d2ed9abd0faf92375f84d990",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2099581",
+      "published_utc": "2026-03-10T22:00:12Z",
+      "title_en": "Russia to inform UN about Kiev's deliberate strike on Bryansk — Foreign Ministry",
+      "lead_en": "According to the latest data, the missile attack on Bryansk killed six people and injured 37",
+      "title_raw": "Russia to inform UN about Kiev's deliberate strike on Bryansk — Foreign Ministry",
+      "lead_raw": "According to the latest data, the missile attack on Bryansk killed six people and injured 37",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "89d727818b32b1c0ec682090d18166652e3c879d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/26714609",
+      "published_utc": "2026-03-10T21:46:02Z",
+      "title_en": "Russian Ambassador to Slovakia: Zelensky has something to hide about the Druzhba oil pipeline",
+      "lead_en": "This is evidenced by his decision to deny admission to the inspection, noted Sergei Andreev",
+      "title_raw": "Посол РФ в Словакии: Зеленскому есть что скрывать о нефтепроводе \"Дружба\"",
+      "lead_raw": "Об этом говорит его решение о недопуске инспекции, отметил Сергей Андреев",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "4a1ad3e6ba37d4f6415ddbf4d16e338e82f76e61",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/society/2099575",
+      "published_utc": "2026-03-10T21:45:57Z",
+      "title_en": "Lavrov to partake in International Organization for Russian Language conference",
+      "lead_en": "Russian Foreign Ministry Spokeswoman Maria Zakharova said the parties will exchange views on the topical issues of the use of the Russian language in international practice, and discuss the main areas of joint work",
+      "title_raw": "Lavrov to partake in International Organization for Russian Language conference",
+      "lead_raw": "Russian Foreign Ministry Spokeswoman Maria Zakharova said the parties will exchange views on the topical issues of the use of the Russian language in international practice, and discuss the main areas of joint work",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "624332b3541b00736e4334ec12048b3595c0418f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/26714539",
+      "published_utc": "2026-03-10T21:28:00Z",
+      "title_en": "Miroshnik: last week, because of the Ukrainian Armed Forces, became “the bloodiest since the beginning of the year”",
+      "lead_en": "This suggests that Kyiv “under no circumstances wants to agree on anything,” says the Ambassador at Large of the Russian Foreign Ministry",
+      "title_raw": "Мирошник: прошлая неделя из-за ВСУ стала \"самой кровавой с начала года\"",
+      "lead_raw": "Это говорит о том, что Киев \"ни при каких условиях не хочет ни о чем договариваться\", считает посол по особым поручениям МИД России",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "fb1315836d0f337e55f66024cd09e5df3884292b",
       "source": "TASS (EN)",
@@ -31,39 +119,19 @@
       "url": "https://tass.ru/ekonomika/26714429",
       "published_utc": "2026-03-10T21:05:54Z",
       "title_en": "Ambassador to Slovakia: the Russian Federation is ready to fulfill its supply obligations through Druzhba",
-      "lead_en": "",
+      "lead_en": "Ukraine’s statements that Russia is attacking the oil pipeline do not correspond to reality, Sergei Andreev emphasized",
       "title_raw": "Посол в Словакии: РФ готова выполнять обязательства поставок через \"Дружбу\"",
-      "lead_raw": "",
+      "lead_raw": "Заявления Украины о том, что Россия наносит по нефтепроводу удары, не соответствуют действительности, подчеркнул Сергей Андреев",
       "topic_scores": {
         "diplomacy": 1,
         "military": 0,
-        "energy": 0,
+        "energy": 1,
         "economy": 0,
         "local_events": 0
       },
       "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "f05932ff266fd062b1251bbe91f1e832b4469a8c",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2099567",
-      "published_utc": "2026-03-10T20:54:28Z",
-      "title_en": "US, Israel targeting civilians in violation of international law — Iranian envoy to UN",
-      "lead_en": "Amir Saeid Iravani stated that densely populated residential areas and critical civilian infrastructure are deliberately targeted",
-      "title_raw": "US, Israel targeting civilians in violation of international law — Iranian envoy to UN",
-      "lead_raw": "Amir Saeid Iravani stated that densely populated residential areas and critical civilian infrastructure are deliberately targeted",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
+        "diplomacy",
+        "energy"
       ],
       "primary_topic": "diplomacy"
     },
@@ -89,49 +157,6 @@
       "primary_topic": "diplomacy"
     },
     {
-      "id": "624053eea667d9a65962341dac0329f22c273a26",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26714241",
-      "published_utc": "2026-03-10T20:15:57Z",
-      "title_en": "Armenia and the United States expressed their readiness to sign an agreement in the field of peaceful nuclear energy",
-      "lead_en": "Minister of Foreign Affairs of the Republic Ararat Mirzoyan and US Assistant Secretary of State for Arms Control and International Security Thomas Dinanno also discussed deepening the bilateral strategic partnership",
-      "title_raw": "Армения и США выразили готовность подписать соглашение в области мирного атома",
-      "lead_raw": "Министр иностранных дел республики Арарат Мирзоян и помощник госсекретаря США по контролю над вооружениями и международной безопасности Томас Динанно также обсудили углубление двустороннего стратегического партнерства",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "7693bcfb7c5b3ed3de6cab9da80950e8bcc4cd4f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26714251",
-      "published_utc": "2026-03-10T20:15:02Z",
-      "title_en": "Araghchi denied allegations that Iran was preparing a preventive strike on the United States",
-      "lead_en": "The head of the Iranian Foreign Ministry believes that the purpose of this lie is to justify “Operation Epic Mistake”",
-      "title_raw": "Арагчи опроверг утверждения о подготовке Ираном превентивного удара по США",
-      "lead_raw": "Глава иранского МИД считает, что целью этой лжи является оправдание \"операции \"Эпическая ошибка\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
       "id": "3268f01a4b96a995e9e094592af096eabe741828",
       "source": "TASS (RU)",
       "url": "https://tass.ru/politika/26714001",
@@ -140,27 +165,6 @@
       "lead_en": "Since 2012, Russia has been a permanent donor to the youth anti-drug initiative of the UN Office on Drugs and Crime and is at the forefront of creating a regional youth network in the region, the diplomatic service noted.",
       "title_raw": "МИД: РФ будет содействовать УНП ООН в борьбе с наркотиками в Центральной Азии",
       "lead_raw": "Россия с 2012 года выступает бессменным донором молодежной антинаркотической инициативы Управления ООН по наркотикам и преступности и стоит у истоков создания региональной молодежной сети в регионе, отметили в дипведомстве",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "dd33a8a0ae9a483764181936cc517f19b6aa5bcd",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/26714009",
-      "published_utc": "2026-03-10T19:41:15Z",
-      "title_en": "Galatasaray beat Liverpool in the first match of the 1/8 finals of the Champions League",
-      "lead_en": "The meeting ended with the score 1:0",
-      "title_raw": "\"Галатасарай\" обыграл \"Ливерпуль\" в первом матче 1/8 финала Лиги чемпионов",
-      "lead_raw": "Встреча завершилась со счетом 1:0",
       "topic_scores": {
         "diplomacy": 1,
         "military": 0,
@@ -196,27 +200,6 @@
       "primary_topic": "diplomacy"
     },
     {
-      "id": "2c6bfd06b004bbe1165cd4046b1048eaa38f054d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26713711",
-      "published_utc": "2026-03-10T19:02:59Z",
-      "title_en": "Guterres had a telephone conversation with the Iranian Foreign Minister",
-      "lead_en": "The UN Secretary General expressed concern about the spread of the conflict in the Middle East and its impact on the global economy",
-      "title_raw": "Гутерриш провел телефонный разговор с главой МИД Ирана",
-      "lead_raw": "Генсек ООН выразил обеспокоенность распространением конфликта на Ближнем Востоке и его влиянием на мировую экономику",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
       "id": "2b67ef559b88b2a47d53dc5861b6f3ae734b7e5b",
       "source": "TASS (RU)",
       "url": "https://tass.ru/politika/26713635",
@@ -238,70 +221,6 @@
       "primary_topic": "diplomacy"
     },
     {
-      "id": "87c4ca28fd1c7090e1340ef7aecab24c0fe5355f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/26713535",
-      "published_utc": "2026-03-10T18:48:21Z",
-      "title_en": "Lavrov and the head of the Saudi Arabian Foreign Ministry discussed escalation in the Middle East",
-      "lead_en": "The parties emphasized the importance of stopping hostilities and refusing to resolve the conflict by force",
-      "title_raw": "Лавров и глава МИД Саудовской Аравии обсудили эскалацию на Ближнем Востоке",
-      "lead_raw": "Стороны подчеркнули важность прекращения боевых действий и отказа от силового решения конфликта",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "65410dd2eff49c405fc17124ef1c93c9a8b66789",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26713459",
-      "published_utc": "2026-03-10T18:42:05Z",
-      "title_en": "TASS: Fidan discussed with the head of the Italian Foreign Ministry a settlement in the Middle East",
-      "lead_en": "The head of the Turkish Ministry of Foreign Affairs previously contacted his Iranian counterpart Abbas Araghchi by telephone.",
-      "title_raw": "ТАСС: Фидан обсудил с главой МИД Италии урегулирование на Ближнем Востоке",
-      "lead_raw": "Глава Министерства иностранных дел Турции ранее связался по телефону с иранским коллегой Аббасом Арагчи",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "2bb10bdfff2c47c0b0b096f712801e96d531486e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2099461",
-      "published_utc": "2026-03-10T18:32:30Z",
-      "title_en": "Iraq approves agreement with Chevron to operate West Qurna-2 oil field — government",
-      "lead_en": "According to the statement, the government has approved the final terms of the framework agreement",
-      "title_raw": "Iraq approves agreement with Chevron to operate West Qurna-2 oil field — government",
-      "lead_raw": "According to the statement, the government has approved the final terms of the framework agreement",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
       "id": "34bcfdc03fbda6abe8a4419e69e6fa03219d2987",
       "source": "The Moscow Times",
       "url": "https://www.themoscowtimes.com/2026/03/10/us-proposed-ukraine-russia-talks-next-week-zelensky-a92188",
@@ -310,48 +229,6 @@
       "lead_en": "\"This was proposed by the American side, but we'll see what happens in the Middle East, to be honest,\" Zelensky told journalists.",
       "title_raw": "U.S. Proposed Ukraine-Russia Talks Next Week – Zelensky",
       "lead_raw": "\"This was proposed by the American side, but we'll see what happens in the Middle East, to be honest,\" Zelensky told journalists.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "739ebc00e80705f7dc0e6f3a558f60d761bc12ac",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2099407",
-      "published_utc": "2026-03-10T16:51:32Z",
-      "title_en": "Four Iranian diplomats killed in Israeli strike on Beirut — Iranian envoy to UN",
-      "lead_en": "Amir-Saeid Iravani called the strike a deliberate terrorist attack",
-      "title_raw": "Four Iranian diplomats killed in Israeli strike on Beirut — Iranian envoy to UN",
-      "lead_raw": "Amir-Saeid Iravani called the strike a deliberate terrorist attack",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "d61239df80de0a57443d5e277a668b76d7766e7b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2099387",
-      "published_utc": "2026-03-10T16:25:00Z",
-      "title_en": "Putin holds second telephone call with Iranian president in one week — Kremlin",
-      "lead_en": "Their previous telephone conversation took place on March 6, after Putin held a series of talks with leaders of the Persian Gulf countries",
-      "title_raw": "Putin holds second telephone call with Iranian president in one week — Kremlin",
-      "lead_raw": "Their previous telephone conversation took place on March 6, after Putin held a series of talks with leaders of the Persian Gulf countries",
       "topic_scores": {
         "diplomacy": 1,
         "military": 0,
@@ -386,92 +263,6 @@
       "primary_topic": "diplomacy"
     },
     {
-      "id": "9788969692401f8bf70f6844db4c2a0d2a4c6a2e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26711797",
-      "published_utc": "2026-03-10T15:55:00Z",
-      "title_en": "Witkoff: US believes Iran does not want to seek a diplomatic solution with Washington",
-      "lead_en": "",
-      "title_raw": "Уиткофф: США считают, что Иран не хочет искать дипломатическое решение с Вашингтоном",
-      "lead_raw": "",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "cdcf313b98933659ba5b9919c93569928d43faa1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/26711271",
-      "published_utc": "2026-03-10T15:31:59Z",
-      "title_en": "The IEA will hold an urgent meeting to discuss the situation on the energy market",
-      "lead_en": "The International Energy Agency and member countries intend to decide on the possibility of putting emergency reserves of these countries on the market",
-      "title_raw": "МЭА проведет срочную встречу для обсуждения ситуации на рынке энергоносителей",
-      "lead_raw": "Международное энергетическое агентство и страны-члены намерены принять решение о возможности выставить на рынок чрезвычайные запасы этих государств",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "e5832161ce69db7c3ad5de4c1a698ce52c14d1f1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26711547",
-      "published_utc": "2026-03-10T15:31:43Z",
-      "title_en": "US Ambassador says Trump wants non-aligned status for South Africa",
-      "lead_en": "The United States administration considers the country one of 10 of paramount importance, emphasized Leo Brent Bozell",
-      "title_raw": "Посол США заявил, что Трамп хочет внеблокового статуса для ЮАР",
-      "lead_raw": "Администрация Соединенных Штатов считает страну одной из 10 имеющих первостепенное значение, подчеркнул Лео Брент Бозелл",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "20b5ab6325d38ac27f7a8a2d3a57a48e65411662",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/26711367",
-      "published_utc": "2026-03-10T15:11:28Z",
-      "title_en": "The postponed First League match \"Neftekhimik - Fakel\" will take place on April 1",
-      "lead_en": "The meeting was supposed to take place on March 8 in Nizhnekamsk, but on that day a strong cold snap was recorded in Tatarstan",
-      "title_raw": "Перенесенный матч Первой лиги \"Нефтехимик - \"Факел\" пройдет 1 апреля",
-      "lead_raw": "Встреча должна была состояться 8 марта в Нижнекамске, однако в тот день в Татарстане было зафиксировано сильное похолодание",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
       "id": "89a1cd4da8ea101bc04dcb6c4155459dce5a0dfc",
       "source": "Meduza (EN)",
       "url": "https://meduza.io/en/feature/2026/03/10/middle-east-war-delays-ukraine-russia-peace-talks-as-trump-administration-weighs-lifting-oil-sanctions",
@@ -490,27 +281,6 @@
       "topics": [
         "diplomacy",
         "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "83964addbc4e5883a9050a350729a2719ac830e1",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2099227",
-      "published_utc": "2026-03-10T12:52:10Z",
-      "title_en": "Formation of new world order to surely be fraught with conflicts, crises — Hungarian MFA",
-      "lead_en": "According to Minister of Foreign Affairs and Trade Peter Szijjarto, the next decade will undoubtedly be devoted to the formation of a new world order",
-      "title_raw": "Formation of new world order to surely be fraught with conflicts, crises — Hungarian MFA",
-      "lead_raw": "According to Minister of Foreign Affairs and Trade Peter Szijjarto, the next decade will undoubtedly be devoted to the formation of a new world order",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
       ],
       "primary_topic": "diplomacy"
     },
@@ -558,91 +328,6 @@
       "primary_topic": "diplomacy"
     },
     {
-      "id": "0f585f8d50ca229998724cb1c8c7da48565fc79b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2099197",
-      "published_utc": "2026-03-10T12:22:31Z",
-      "title_en": "Putin-Trump conversation may help to stop bloodshed in Iran — Palestinian envoy",
-      "lead_en": "Abdel Hafiz Nofal said that Americans should end their aggression against Iran",
-      "title_raw": "Putin-Trump conversation may help to stop bloodshed in Iran — Palestinian envoy",
-      "lead_raw": "Abdel Hafiz Nofal said that Americans should end their aggression against Iran",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "9a7cdcd311bf5b9f11490a8686ab0b8e07f0872b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2099193",
-      "published_utc": "2026-03-10T12:15:59Z",
-      "title_en": "Attacks on energy facilities in Persian Gulf will hit global economy — Qatari MFA",
-      "lead_en": "Majed bin Mohammed al-Ansari called on the international community to do everything possible to persuade the United States, Israel and Iran to stop attacks on energy infrastructure",
-      "title_raw": "Attacks on energy facilities in Persian Gulf will hit global economy — Qatari MFA",
-      "lead_raw": "Majed bin Mohammed al-Ansari called on the international community to do everything possible to persuade the United States, Israel and Iran to stop attacks on energy infrastructure",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "91db239eb349dde478604edef8437089534155cd",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2099169",
-      "published_utc": "2026-03-10T11:32:20Z",
-      "title_en": "Israel, US damage palace in Iran's Isfahan listed as UNESCO World Heritage site — MFA",
-      "lead_en": "Spokesman Esmaeil Baghaei noted that \"this Safavid masterpiece is not only part of Iran’s cultural and civilizational heritage but also a cultural treasure belonging to all humanity\"",
-      "title_raw": "Israel, US damage palace in Iran's Isfahan listed as UNESCO World Heritage site — MFA",
-      "lead_raw": "Spokesman Esmaeil Baghaei noted that \"this Safavid masterpiece is not only part of Iran’s cultural and civilizational heritage but also a cultural treasure belonging to all humanity\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "96c32ab0b7d3cc2a71b9dd206ff9c63f08a0d08d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2099161",
-      "published_utc": "2026-03-10T11:18:54Z",
-      "title_en": "While world remains preoccupied with Iran, Israel keeps attacking Gaza — Palestinian envoy",
-      "lead_en": "More than 50% of Gaza’s territory is occupied by Israel, Abdel Hafiz Nofal said",
-      "title_raw": "While world remains preoccupied with Iran, Israel keeps attacking Gaza — Palestinian envoy",
-      "lead_raw": "More than 50% of Gaza’s territory is occupied by Israel, Abdel Hafiz Nofal said",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
       "id": "38cf6c9974076d92c74603563ea52818ece6c980",
       "source": "TASS (EN)",
       "url": "https://tass.com/world/2099149",
@@ -685,91 +370,6 @@
       "primary_topic": "diplomacy"
     },
     {
-      "id": "38621fb38b4abbe6922eab184f5ccc6737d0a1fd",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26708345",
-      "published_utc": "2026-03-10T10:58:36Z",
-      "title_en": "Szijjarto: the emergence of a new world order will be accompanied by conflicts",
-      "lead_en": "The head of the Hungarian Foreign Ministry noted that the old international institutions are not coping with their tasks",
-      "title_raw": "Сийярто: становление нового мирового порядка будет сопровождаться конфликтами",
-      "lead_raw": "Глава МИД Венгрии отметил, что старые международные институты не справляются со своими задачами",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "0f7b82fb2050b3f7a28d470fcb6790ea714ab115",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26708267",
-      "published_utc": "2026-03-10T10:50:42Z",
-      "title_en": "Iranian Foreign Ministry: Israel and the United States damaged the palace in Isfahan from the UNESCO list",
-      "lead_en": "The building from the Safavid era is not only part of the Iranian heritage, but also “a cultural treasure that belongs to all humanity,” said Esmail Baghai, a spokesman for the Islamic Republic’s Foreign Ministry.",
-      "title_raw": "МИД Ирана: Израиль и США повредили дворец в Исфахане из списка ЮНЕСКО",
-      "lead_raw": "Здание эпохи Сефевидов является не только частью иранского наследия, но и \"культурным сокровищем, принадлежащим всему человечеству\", отметил представитель МИД исламской республики Эсмаил Багаи",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "8da008f5e210010e3962627a9abd19767b7880ea",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26708179",
-      "published_utc": "2026-03-10T10:43:47Z",
-      "title_en": "Qatari Foreign Ministry: attacks on energy facilities in the Persian Gulf will hit the global economy",
-      "lead_en": "The official representative of the Qatari Foreign Ministry, Majid bin Mohammed al-Ansari, noted that the state has taken all necessary precautions, including stopping and reducing gas and oil production, to ensure the safety of enterprise employees and civilians",
-      "title_raw": "МИД Катара: атаки на энергообъекты в Персидском заливе ударят по мировой экономике",
-      "lead_raw": "Официальный представитель катарского МИД Маджид бен Мухаммед аль-Ансари отметил, что государство приняло все необходимые меры предосторожности, включая остановку и сокращение добычи газа и нефти, чтобы обеспечить безопасность сотрудников предприятий и мирных жителей",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 3,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "070397e1afc87b5be0c70b683106b9005626e9d4",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26708135",
-      "published_utc": "2026-03-10T10:40:40Z",
-      "title_en": "Trump: Many countries will join Abraham Accords because of strikes on Iran",
-      "lead_en": "The US President noted that one of the reasons for this is that “Iran has now been destroyed”",
-      "title_raw": "Трамп: многие страны присоединятся к Авраамовым соглашениям из-за ударов по Ирану",
-      "lead_raw": "Президент США отметил, что одной из причин этого является то, что \"теперь Иран уничтожен\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
       "id": "3438cb2d6861b3e74c00041f84645b4cb5748f3c",
       "source": "TASS (RU)",
       "url": "https://tass.ru/politika/26707937",
@@ -778,50 +378,6 @@
       "lead_en": "A Kremlin representative announced the president’s schedule and also answered questions about the telephone conversation between the leaders of the Russian Federation and the United States and the situation in the Middle East",
       "title_raw": "Продолжение переговоров по Украине и ограничение связи. Темы брифинга Пескова",
       "lead_raw": "Представитель Кремля анонсировал график президента, а также ответил на вопросы о телефонном разговоре лидеров РФ и США и ситуации на Ближнем Востоке",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "3c8233e7d1196102b978eb15cc6e4851e146d667",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26708049",
-      "published_utc": "2026-03-10T10:34:11Z",
-      "title_en": "The Israeli army announced the elimination of three armed radicals in southern Gaza",
-      "lead_en": "The IDF \"remains in its positions in accordance with the ceasefire agreement\" in the Gaza Strip",
-      "title_raw": "Армия Израиля заявила о ликвидации трех вооруженных радикалов на юге Газы",
-      "lead_raw": "ЦАХАЛ \"остается на своих позициях в соответствии с соглашением о прекращении огня\" в секторе Газа",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "21e4e41ea39c67bbac1a622aba24fd2a816974c8",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26707861",
-      "published_utc": "2026-03-10T10:29:04Z",
-      "title_en": "Palestinian Ambassador: Netanyahu wants to lead the entire Middle East with US help",
-      "lead_en": "Abdel Hafiz Nofal called it impossible",
-      "title_raw": "Посол Палестины: Нетаньяху хочет с помощью США руководить всем Ближним Востоком",
-      "lead_raw": "Абдель Хафиз Нофаль назвал это невозможным",
       "topic_scores": {
         "diplomacy": 1,
         "military": 0,
@@ -878,49 +434,6 @@
       "primary_topic": "diplomacy"
     },
     {
-      "id": "65cec0a62fb59410e9d9e233818087a2f7ce7e35",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26707885",
-      "published_utc": "2026-03-10T10:23:11Z",
-      "title_en": "Palestinian Ambassador calls the humanitarian situation in Gaza very difficult",
-      "lead_en": "Israel is obstructing the delivery of aid, said Abdel Hafiz Nofal",
-      "title_raw": "Посол Палестины назвал очень тяжелой гуманитарную ситуацию в Газе",
-      "lead_raw": "Израиль препятствует доставке помощи, указал Абдель Хафиз Нофаль",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "4dcf5479bae387ab90482648342fb948e7aab4c1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/26707879",
-      "published_utc": "2026-03-10T10:22:25Z",
-      "title_en": "The report of the Accounts Chamber in the State Duma may take place on March 19",
-      "lead_en": "This date was discussed at a meeting of the Chairman of the House of Parliament Vyacheslav Volodin with the leaders of the Duma factions",
-      "title_raw": "Отчет Счетной палаты в Госдуме может состояться 19 марта",
-      "lead_raw": "Такую дату обсуждали на встрече председателя палаты парламента Вячеслава Володина с руководителями думских фракций",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
       "id": "d40e8f65e6262e2ff32abc14186564e26650d3f1",
       "source": "TASS (RU)",
       "url": "https://tass.ru/mezhdunarodnaya-panorama/26707849",
@@ -929,112 +442,6 @@
       "lead_en": "",
       "title_raw": "Посол в РФ: конфликт в Иране негативно влияет на ситуацию вокруг Палестины",
       "lead_raw": "",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "6783f870ce23bb6fd82a4277e45824582fc751c5",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26707801",
-      "published_utc": "2026-03-10T10:19:11Z",
-      "title_en": "Kallas: EU will sign security agreements with Australia, Ghana and Iceland",
-      "lead_en": "The European Union has a strategic partnership with NATO, as well as nine partnership agreements on defense and security issues that the community has concluded with countries in Europe, Asia and North America, noted the head of EU diplomacy",
-      "title_raw": "Каллас: ЕС подпишет соглашения по безопасности с Австралией, Ганой и Исландией",
-      "lead_raw": "У Евросоюза есть стратегическое партнерство с НАТО, а также девять соглашений о партнерстве по вопросам обороны и безопасности, которые сообщество заключило со странами Европы, Азии и Северной Америки, отметила глава дипломатии ЕС",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "31fa8162c0aa8e86bf8bf0df22e7272980d5d3b4",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26707829",
-      "published_utc": "2026-03-10T10:18:25Z",
-      "title_en": "Palestinian Ambassador: Peace Council is inactive in the Middle East",
-      "lead_en": "Abdel Hafiz Nofal noted that the organization is doing nothing",
-      "title_raw": "Посол Палестины: Совет мира бездействует на Ближнем Востоке",
-      "lead_raw": "Абдель Хафиз Нофаль отметил, что организация ничего не делает",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "d02401b1aea189f3212d3793794cfe92fdf514cd",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26707809",
-      "published_utc": "2026-03-10T10:17:31Z",
-      "title_en": "Palestinian Ambassador: Conversation between Putin and Trump will help stop the war over Iran",
-      "lead_en": "Abdel Hafiz Nofal said that Americans must stop aggression against the Islamic Republic",
-      "title_raw": "Посол Палестины: разговор Путина и Трампа поможет остановить войну вокруг Ирана",
-      "lead_raw": "Абдель Хафиз Нофаль заявил, что американцы должны прекратить агрессию против исламской республики",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "6acc6eec49ed1e05138c75adb6b8bcbaebbff7a7",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26707717",
-      "published_utc": "2026-03-10T10:13:49Z",
-      "title_en": "Politico: the US administration considers a breakthrough in negotiations on Ukraine achievable",
-      "lead_en": "According to the newspaper, they also believe that \"random events can become tipping points for reaching a deal.\"",
-      "title_raw": "Politico: в администрации США считают достижимым прорыв на переговорах по Украине",
-      "lead_raw": "По данным газеты, они также полагают, что \"случайные события могут стать переломными моментами для достижения сделки\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "d65993eec4b0352b3e0285677b53ef40e217ca4a",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/science/2099105",
-      "published_utc": "2026-03-10T10:10:22Z",
-      "title_en": "New Roscosmos-NASA leadership meeting planned for 2026 — Roscosmos CEO",
-      "lead_en": "Dmitry Bakanov noted the effectiveness of the cross-flight program under which American astronauts board the Soyuz-MS spacecraft",
-      "title_raw": "New Roscosmos-NASA leadership meeting planned for 2026 — Roscosmos CEO",
-      "lead_raw": "Dmitry Bakanov noted the effectiveness of the cross-flight program under which American astronauts board the Soyuz-MS spacecraft",
       "topic_scores": {
         "diplomacy": 1,
         "military": 0,
@@ -1111,28 +518,6 @@
       "primary_topic": "diplomacy"
     },
     {
-      "id": "5f64660bef23ece7541eca63b3bae9771b275a61",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26703473",
-      "published_utc": "2026-03-10T01:48:22Z",
-      "title_en": "Politico: Spanish Deputy Prime Minister criticized Merz at meeting with Trump",
-      "lead_en": "Europe needs leadership, not vassals, Yolanda Diaz said in an interview with the newspaper",
-      "title_raw": "Politico: вице-премьер Испании раскритиковала Мерца на встрече с Трампом",
-      "lead_raw": "Европе нужно лидерство, а не вассалы, сообщила Йоланда Диас в интервью газете",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
       "id": "5a426584f79a8f55b064f9010d5b09979e24c31d",
       "source": "TASS (RU)",
       "url": "https://tass.ru/politika/26703391",
@@ -1151,69 +536,6 @@
       "topics": [
         "diplomacy",
         "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "8d8ace02b7745ce0fd2310072b9841e22a618d4c",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2098953",
-      "published_utc": "2026-03-10T01:00:01Z",
-      "title_en": "Iran does not consider holding talks with US anymore, top diplomat says",
-      "lead_en": "Abbas Araghchi stressed that Iran has \"a very bitter experience of talking with Americans\"",
-      "title_raw": "Iran does not consider holding talks with US anymore, top diplomat says",
-      "lead_raw": "Abbas Araghchi stressed that Iran has \"a very bitter experience of talking with Americans\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "78b577bbeb940c81b2cd51584bee3b18f2b8948f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26703273",
-      "published_utc": "2026-03-10T00:00:51Z",
-      "title_en": "Araghchi: Iran is not considering the possibility of further negotiations with the United States",
-      "lead_en": "The head of the Foreign Ministry of the Islamic Republic emphasized that Tehran has “a very bitter experience of communication” with Washington",
-      "title_raw": "Арагчи: Иран не рассматривает возможность дальнейших переговоров с США",
-      "lead_raw": "Глава МИД исламской республики подчеркнул, что у Тегерана \"очень горький опыт общения\" с Вашингтоном",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "e29a741dd8f267750a3d5c45c5fa28a1ab9a98ba",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26703147",
-      "published_utc": "2026-03-09T22:54:25Z",
-      "title_en": "Trump: US can establish control over Cuba \"in a friendly manner\"",
-      "lead_en": "An agreement between Washington and Havana is inevitable, since the island state is “in the deepest humanitarian crisis,” the American leader believes",
-      "title_raw": "Трамп: США могут \"по-дружески\" установить контроль над Кубой",
-      "lead_raw": "Соглашение между Вашингтоном и Гаваной неизбежно, так как островное государство находится \"в глубочайшем гуманитарном кризисе\", считает американский лидер",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
       ],
       "primary_topic": "diplomacy"
     },
@@ -1302,27 +624,6 @@
       "primary_topic": "diplomacy"
     },
     {
-      "id": "74753e23f695864765e0400fba84e3ace0708137",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26702895",
-      "published_utc": "2026-03-09T21:37:13Z",
-      "title_en": "The IRGC will allow passage through the Strait of Hormuz to countries that expel US ambassadors",
-      "lead_en": "The measure also applies to countries that expel Israeli diplomats",
-      "title_raw": "КСИР позволит проход через Ормузский пролив странам, которые выдворят послов США",
-      "lead_raw": "Мера также распространяется на страны, которые вышлют дипломатов Израиля",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
       "id": "3d83e798003badb466dbf6b96b3defabeaa615e9",
       "source": "TASS (RU)",
       "url": "https://tass.ru/mezhdunarodnaya-panorama/26702845",
@@ -1331,48 +632,6 @@
       "lead_en": "As the deputy head of the Iranian diplomatic service, Kazem Gharib Abadi, noted, for this the republic needs guarantees that aggression will not be repeated",
       "title_raw": "МИД Ирана: РФ и другие страны обратились к Тегерану насчет прекращения огня",
       "lead_raw": "Как отметил замглавы иранского дипведомства Казем Гариб Абади, для этого республике нужны гарантии, что агрессия не повторится",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "fc8192be6a6de4ff8e93cb64b381a3648e931a55",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26702655",
-      "published_utc": "2026-03-09T20:26:51Z",
-      "title_en": "Szijjarto announced panic in Ukraine due to the confiscation of millions of Oschadbank",
-      "lead_en": "The head of the Hungarian Foreign Ministry noted that the importation of a large amount of money into the country under suspicious circumstances has become a “national security problem” for Budapest.",
-      "title_raw": "Сийярто заявил о панике на Украине из-за конфискации миллионов Ощадбанка",
-      "lead_raw": "Глава венгерского МИД отметил, что ввоз на территорию страны крупной суммы денег при подозрительных обстоятельствах стал для Будапешта \"проблемой национальной безопасности\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "25e03e1245c8b3626a14c5e68be9539682659e47",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26702035",
-      "published_utc": "2026-03-09T20:22:44Z",
-      "title_en": "Germany said it does not intend to limit the US use of its bases in Germany",
-      "lead_en": "The official representative of the German Cabinet, Stefan Cornelius, clarified that this is regulated by legal agreements that comply with international law",
-      "title_raw": "В ФРГ заявили, что не намерены ограничивать США использование их баз в Германии",
-      "lead_raw": "Официальный представитель германского кабмина Штефан Корнелиус уточнил, что это регулируется правовыми соглашениями, которые соответствуют международному праву",
       "topic_scores": {
         "diplomacy": 1,
         "military": 0,
@@ -1409,48 +668,6 @@
       "primary_topic": "diplomacy"
     },
     {
-      "id": "8e3c980b2f17f12192d1e3fc573e9b82db2c3c77",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2098871",
-      "published_utc": "2026-03-09T20:10:01Z",
-      "title_en": "Zelensky says talks on Ukraine postponed amid situation around Iran",
-      "lead_en": "Vladimir Zelensky stressed that the priority and attention of Ukraine's partners is on the situation around Iran",
-      "title_raw": "Zelensky says talks on Ukraine postponed amid situation around Iran",
-      "lead_raw": "Vladimir Zelensky stressed that the priority and attention of Ukraine's partners is on the situation around Iran",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "3c8810ccf3fb6b7bd4458b7bcde246cf8a071c5c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26702551",
-      "published_utc": "2026-03-09T20:08:27Z",
-      "title_en": "Belarusian Foreign Ministry: The EU has begun to think about normalizing relations with Minsk",
-      "lead_en": "The sanctions imposed against the republic are today boomeranging back to Europe itself, this opinion was expressed by the country’s Foreign Minister Maxim Ryzhenkov",
-      "title_raw": "МИД Белоруссии: ЕС начал задумываться над нормализацией отношений с Минском",
-      "lead_raw": "Санкции, введенные против республики, сегодня бумерангом возвращаются самой Европе, такое мнение выразил министр иностранных дел страны Максим Рыженков",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
       "id": "8b46171fb72d34e93611b3ee1661772d7d556359",
       "source": "TASS (RU)",
       "url": "https://tass.ru/politika/26702427",
@@ -1469,91 +686,6 @@
       "topics": [
         "diplomacy",
         "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "08084921ed40759d8097394dd903671f9f2b0b39",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2098865",
-      "published_utc": "2026-03-09T20:02:00Z",
-      "title_en": "Turkish foreign ministry summons Iranian ambassador amid missile attack",
-      "lead_en": "The Iranian ambassador was summoned to give explanation over the incident in which a ballistic missile was launched toward Turkey from the Iranian territory",
-      "title_raw": "Turkish foreign ministry summons Iranian ambassador amid missile attack",
-      "lead_raw": "The Iranian ambassador was summoned to give explanation over the incident in which a ballistic missile was launched toward Turkey from the Iranian territory",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "496163a43d359eaafb8026cd84f10b92e6b9fe0f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/26702017",
-      "published_utc": "2026-03-09T18:47:37Z",
-      "title_en": "Dziuba said that he could continue his career after the current season",
-      "lead_en": "The 37-year-old striker's agreement with Akron expires in the summer of 2026",
-      "title_raw": "Дзюба заявил, что может продолжить карьеру после текущего сезона",
-      "lead_raw": "Соглашение 37-летнего нападающего с \"Акроном\" истекает летом 2026 года",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "8f441e77e49799ae5df3440505a0a46eb4587033",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26701995",
-      "published_utc": "2026-03-09T18:42:04Z",
-      "title_en": "The Ukrainian Foreign Ministry summoned the Hungarian Ambassador due to the situation around Oschadbank",
-      "lead_en": "Antal Geyser expressed protest over the detention of collectors of a Ukrainian credit organization in Budapest",
-      "title_raw": "МИД Украины вызвал посла Венгрии из-за ситуации вокруг Ощадбанка",
-      "lead_raw": "Анталу Гейзеру выразили протест из-за задержания в Будапеште инкассаторов украинской кредитной организации",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "c4af67895d7777ecfda3c05d39e38c310dc60dfc",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/26701979",
-      "published_utc": "2026-03-09T18:31:21Z",
-      "title_en": "Nekrasov called Spartak’s victory over Akron in the RPL match difficult",
-      "lead_en": "The meeting ended with a score of 4:3",
-      "title_raw": "Некрасов назвал тяжелой победу \"Спартака\" над \"Акроном\" в матче РПЛ",
-      "lead_raw": "Встреча завершилась со счетом 4:3",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
       ],
       "primary_topic": "diplomacy"
     },
@@ -1602,48 +734,6 @@
       "primary_topic": "energy"
     },
     {
-      "id": "0544ebcfeea8567cef4ee22645666bb1debaabe3",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2098805",
-      "published_utc": "2026-03-09T15:09:30Z",
-      "title_en": "Lebanon ready to resume talks with Israel to stop escalation — president",
-      "lead_en": "He also condemned \"those who seek to drag Lebanon into a regional conflict, ignoring the will of the majority of its citizens tired of the war and its consequences.\"",
-      "title_raw": "Lebanon ready to resume talks with Israel to stop escalation — president",
-      "lead_raw": "He also condemned \"those who seek to drag Lebanon into a regional conflict, ignoring the will of the majority of its citizens tired of the war and its consequences.\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "749435c30d5c5530cfb58a3914a3fa2b91ccc6e1",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2098771",
-      "published_utc": "2026-03-09T11:35:34Z",
-      "title_en": "Iran does not strike territory of Azerbaijan, Cyprus, Turkey — MFA",
-      "lead_en": "No shelling from Iranian territory towards Azerbaijan, Turkey or Cyprus took place, Iranian Foreign Ministry spokesman Ismail Bagai has said",
-      "title_raw": "Iran does not strike territory of Azerbaijan, Cyprus, Turkey — MFA",
-      "lead_raw": "No shelling from Iranian territory towards Azerbaijan, Turkey or Cyprus took place, Iranian Foreign Ministry spokesman Ismail Bagai has said",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
       "id": "e6f19d59fa95578dbc80dcefc9ca288c2a490b77",
       "source": "TASS (RU)",
       "url": "https://tass.ru/politika/26699183",
@@ -1654,70 +744,6 @@
       "lead_raw": "В МИД РФ добавили, что \"российская делегация сосредоточит усилия на аргументированном развенчании нарколиберальных подходов, продвигаемых рядом государств Запада\"",
       "topic_scores": {
         "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "87c7df1340335a8be87820e281b50425043897af",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26699149",
-      "published_utc": "2026-03-09T11:07:18Z",
-      "title_en": "Lebanon announced its readiness to resume negotiations with Israel",
-      "lead_en": "Lebanese President Joseph Aoun noted that the main goal is to stop attacks on the territory of the republic",
-      "title_raw": "Ливан заявил о готовности возобновить переговоры с Израилем",
-      "lead_raw": "Ливанский президент Джозеф Аун отметил, что главная цель - прекратить атаки на территорию республики",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "1fefc7ab58eb45f3bc384ccb34e16d23cd13381f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26699069",
-      "published_utc": "2026-03-09T10:53:20Z",
-      "title_en": "Meloni unsuccessfully tried to justify military action in Iran",
-      "lead_en": "The Italian Prime Minister pointed out the failure of diplomacy, speaking about the reason for the start of escalation in the Middle East",
-      "title_raw": "Мелони неудачно попыталась оправдать военную операцию в Иране",
-      "lead_raw": "Премьер-министр Италии указала на провал дипломатии, говоря о причине начала эскалации на Ближнем Востоке",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "0d0e824e71632a52e29ce7d08d5d48fc2830d437",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26698959",
-      "published_utc": "2026-03-09T10:25:00Z",
-      "title_en": "In Georgia, it is not ruled out that the opposition is working to end visa-free travel with the EU",
-      "lead_en": "The European Commission previously announced that it had suspended visa-free entry into the community for holders of diplomatic and service passports of the republic",
-      "title_raw": "В Грузии не исключили, что оппозиция работает над прекращением безвиза с ЕС",
-      "lead_raw": "Еврокомиссия ранее сообщила, что приостановила безвизовый въезд в сообщество для владельцев дипломатических и служебных паспортов республики",
-      "topic_scores": {
-        "diplomacy": 1,
         "military": 0,
         "energy": 0,
         "economy": 0,
@@ -1751,48 +777,6 @@
       "primary_topic": "energy"
     },
     {
-      "id": "2f2bb1b14b2be891d4ff5edb67e676069f2ff0db",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26698573",
-      "published_utc": "2026-03-09T09:31:37Z",
-      "title_en": "Iranian Foreign Ministry denies attacks on the territory of Azerbaijan, Cyprus and Turkey",
-      "lead_en": "There was no shelling from the Islamic Republic, ministry spokesman Esmail Bagai said.",
-      "title_raw": "МИД Ирана опроверг удары по территории Азербайджана, Кипра и Турции",
-      "lead_raw": "Обстрелов со стороны исламской республики не было, заявил официальный представитель министерства Эсмаил Багаи",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "3f8b965c681e8360d61895e449c669150003b556",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2098683",
-      "published_utc": "2026-03-09T04:26:36Z",
-      "title_en": "China's Special Envoy to work to reduce tensions around Iran — Chinese Embassy",
-      "lead_en": "Spokesperson for the Chinese Embassy in Washington, D.C. Liu Pengyu says that China will send Zhai Jun to work with all parties to the conflict",
-      "title_raw": "China's Special Envoy to work to reduce tensions around Iran — Chinese Embassy",
-      "lead_raw": "Spokesperson for the Chinese Embassy in Washington, D.C. Liu Pengyu says that China will send Zhai Jun to work with all parties to the conflict",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
       "id": "7e4758f91f57417d1c545d8e9f4c4b074c77bc7f",
       "source": "TASS (RU)",
       "url": "https://tass.ru/politika/26696585",
@@ -1824,69 +808,6 @@
       "lead_raw": "Совет Безопасности рекомендует всем заинтересованным странам в полной мере использовать политические и дипломатические средства, говорится в документе",
       "topic_scores": {
         "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "00be4ca5d42bc83ba50621ebe5401fd572714c1b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26696395",
-      "published_utc": "2026-03-09T00:26:11Z",
-      "title_en": "The State Department ordered some US diplomats to leave Saudi Arabia",
-      "lead_en": "The American foreign policy department called the reason \"security threat\"",
-      "title_raw": "Госдеп предписал части дипломатов США покинуть Саудовскую Аравию",
-      "lead_raw": "Американское внешнеполитическое ведомство назвало причиной \"угрозы безопасности\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "d0969de28832653ec6e4cb42ae3e5798e70082ab",
-      "source": "RT",
-      "url": "https://www.rt.com/news/634206-explosion-us-embassy-oslo-terrorist/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "published_utc": "2026-03-09T00:20:35Z",
-      "title_en": "Blast outside US Embassy in Oslo investigated as possible terrorist attack",
-      "lead_en": "Norwegian police are investigating an explosion outside the US Embassy in Oslo as a possible act of terrorism Read Full Article at RT.com",
-      "title_raw": "Blast outside US Embassy in Oslo investigated as possible terrorist attack",
-      "lead_raw": "Norwegian police are investigating an explosion outside the US Embassy in Oslo as a possible act of terrorism Read Full Article at RT.com",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "ef4bc6a6304fdf69dbef2f79a8cf8f8397ddc649",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/26696113",
-      "published_utc": "2026-03-08T21:45:44Z",
-      "title_en": "Milan beat Inter in the Italian Football Championship match",
-      "lead_en": "The meeting ended with the score 1:0",
-      "title_raw": "\"Милан\" обыграл \"Интер\" в матче чемпионата Италии по футболу",
-      "lead_raw": "Встреча завершилась со счетом 1:0",
-      "topic_scores": {
-        "diplomacy": 1,
         "military": 0,
         "energy": 0,
         "economy": 0,
