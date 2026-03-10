@@ -1,17 +1,118 @@
 {
-  "updated_at_utc": "2026-03-10T22:28:50Z",
+  "updated_at_utc": "2026-03-10T23:28:19Z",
   "keep_hours": 48,
-  "count": 250,
+  "count": 259,
   "articles": [
     {
-      "id": "c7df7e5d0fcb94bdad46766d49e0a8ec630c6b57",
+      "id": "c5129aac41a6aa5443657980001f696a7989405a",
       "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/26714659",
-      "published_utc": "2026-03-10T22:01:13Z",
-      "title_en": "Marochko: having liberated Golubovka, the Russian army is advancing in the direction of Kramatorsk",
-      "lead_en": "",
-      "title_raw": "Марочко: освободив Голубовку, армия РФ наступает в направлении Краматорска",
-      "lead_raw": "",
+      "url": "https://tass.ru/ekonomika/26714943",
+      "published_utc": "2026-03-10T23:16:25Z",
+      "title_en": "Expert Anisimov told which professions could be the first to disappear due to AI",
+      "lead_en": "The list includes document specialists, secretaries, IT specialists, copywriters, translators and SMM managers, said the dean of the sociological faculty of the Institute of Socio-Economic Sciences of the Russian State University for the Humanities.",
+      "title_raw": "Эксперт Анисимов рассказал, какие профессии первыми могут исчезнуть из-за ИИ",
+      "lead_raw": "В перечень входят документоведы, секретари, IT-специалисты, копирайтеры, переводчики и SMM-менеджеры, сообщил декан социологического факультета Института социально-экономических наук РГГУ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "5ea5624b8c7c763ad7ce2c4573291673fa3bbdc0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/26714885",
+      "published_utc": "2026-03-10T23:05:11Z",
+      "title_en": "Unmanned danger declared in Ulyanovsk region",
+      "lead_en": "This was reported to the Russian Ministry of Emergency Situations",
+      "title_raw": "В Ульяновской области объявили беспилотную опасность",
+      "lead_raw": "Об этом сообщили в МЧС России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "926b8bbd15c1661e87b00c1ce21463a34d7fd24f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/26714857",
+      "published_utc": "2026-03-10T23:00:49Z",
+      "title_en": "Marochko: The Russian Armed Forces are completing the liberation of Nikolaevka near Konstantinovka",
+      "lead_en": "Next, Russian troops will be able to cut off the logistics of the Ukrainian Armed Forces at Alekseevo-Druzhkovka, a military expert said",
+      "title_raw": "Марочко: ВС РФ завершают освобождение Николаевки под Константиновкой",
+      "lead_raw": "Далее российские войска смогут перерезать логистику ВСУ у Алексеево-Дружковки, сообщил военный эксперт",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "fcef9c2edf0608ead5774fe704cf04c4b7041ee7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/26714849",
+      "published_utc": "2026-03-10T23:00:27Z",
+      "title_en": "The Russian Ambassador said that the resumption of direct flights with Slovakia depends on the EU",
+      "lead_en": "In the republic, a significant part of the population remains interested in traveling to Russia, noted Sergei Andreev",
+      "title_raw": "Посол РФ сообщил, что возобновление прямых полетов со Словакией зависит от ЕС",
+      "lead_raw": "В республике у значительной части населения сохраняется интерес к поездкам в Россию, отметил Сергей Андреев",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "1d3e5a8e59d22b3c3942b6fd19cb766560a438ad",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26714829",
+      "published_utc": "2026-03-10T22:56:10Z",
+      "title_en": "The Slovak Parliament reported on the struggle to continue oil supplies from the Russian Federation",
+      "lead_en": "The country found itself in a very difficult situation after the outbreak of the conflict in the Middle East, noted the head of the international affairs committee of the Slovak National Council, MP from the ruling Smer party Marian Carey",
+      "title_raw": "В парламенте Словакии сообщили о борьбе за продолжение поставок нефти из РФ",
+      "lead_raw": "Страна оказалась в очень тяжелой ситуации после начала конфликта на Ближнем Востоке, отметил глава комитета по международным делам словацкого национального совета, депутат от правящей партии Smer Мариан Кэри",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "7ecf730035207e2a34546c4895f2706702a09448",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/26714817",
+      "published_utc": "2026-03-10T22:53:46Z",
+      "title_en": "Stepashin believes in restoring Russia's relations with Europe",
+      "lead_en": "At the same time, the former Russian prime minister believes that much will depend on European politicians",
+      "title_raw": "Степашин верит в восстановление отношений России с Европой",
+      "lead_raw": "При этом бывший российский премьер считает, что многое будет зависеть от европейских политиков",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
@@ -21,6 +122,148 @@
       },
       "topics": [],
       "primary_topic": null
+    },
+    {
+      "id": "4b00997387b692b1d714e5a671600587af7111ff",
+      "source": "RT",
+      "url": "https://www.rt.com/news/634436-witkoff-russia-us-ukraine-talks/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "published_utc": "2026-03-10T22:53:24Z",
+      "title_en": "Witkoff reveals plans for next round of Russia-US-Ukraine talks",
+      "lead_en": "Talks between Russia, Ukraine and the US could take place next week, US President Donald Trump’s special envoy, Steve Witkoff, has said Read Full Article at RT.com",
+      "title_raw": "Witkoff reveals plans for next round of Russia-US-Ukraine talks",
+      "lead_raw": "Talks between Russia, Ukraine and the US could take place next week, US President Donald Trump’s special envoy, Steve Witkoff, has said Read Full Article at RT.com",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "4739b944379a4d8891182efa716ca96482254f1b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/26714777",
+      "published_utc": "2026-03-10T22:35:27Z",
+      "title_en": "The Kremlin has not received proposals to organize a new summit between Putin and Trump",
+      "lead_en": "Also, there is no talk yet about whether Moscow considers Budapest as an acceptable venue for this meeting, noted Russian Presidential Press Secretary Dmitry Peskov",
+      "title_raw": "Кремль не получал предложений об организации нового саммита Путина с Трампом",
+      "lead_raw": "Также пока не идет речи о том, рассматривает ли Москва Будапешт в качестве приемлемой площадки для этой встречи, отметил пресс-секретарь президента РФ Дмитрий Песков",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "fdb556690d792b0e73aaa7cf6fc339089f3c1274",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/26714741",
+      "published_utc": "2026-03-10T22:31:38Z",
+      "title_en": "AmCham: US business is waiting for a peaceful settlement in Ukraine to return to the Russian Federation",
+      "lead_en": "The head of the American Chamber of Commerce in Russia, Robert Agee, said that Russia is an ideal place to locate data centers for US businesses",
+      "title_raw": "AmCham: бизнес США ждет мирного урегулирования на Украине для возвращения в РФ",
+      "lead_raw": "Глава Американской торговой палаты в России Роберт Эйджи заявил, что Россия является идеальным местом для размещения дата-центров бизнеса США",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "86c1168b916d7322c582acc9d58096b91d50026c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/26714689",
+      "published_utc": "2026-03-10T22:22:11Z",
+      "title_en": "The State Duma spoke about measures to encourage Russians who passed the GTO standards",
+      "lead_en": "For this, schoolchildren get points added to their Unified State Exam results, and adults receive a tax deduction, noted First Deputy Chairman of the Committee on Physical Culture and Sports Dmitry Svishchev",
+      "title_raw": "В ГД рассказали о мерах поощрения россиян, сдавших нормативы ГТО",
+      "lead_raw": "Школьникам за это добавляют баллы к результатам ЕГЭ, а взрослым оформляют налоговый вычет, отметил первый заместитель председателя комитета по физической культуре и спорту Дмитрий Свищев",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "99e449a90225345d569cb997032db8ce697bbe3f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/26714715",
+      "published_utc": "2026-03-10T22:15:45Z",
+      "title_en": "Russian Ambassador: Slovakia may refuse to support Ukraine’s accession to the EU",
+      "lead_en": "Bratislava, due to the situation with the Druzhba oil pipeline, also decided to terminate the agreement with Kiev on emergency supplies of electricity, noted Sergei Andreev",
+      "title_raw": "Посол РФ: Словакия может отказаться от поддержки вступления Украины в ЕС",
+      "lead_raw": "Братислава из-за ситуации с нефтепроводом \"Дружба\" также решила прекратить действие соглашения с Киевом об аварийных поставках электроэнергии, отметил Сергей Андреев",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "06aebc101f12370709a6890f5df0d9d419c0fd4e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/26714685",
+      "published_utc": "2026-03-10T22:06:45Z",
+      "title_en": "The OP of the Russian Federation proposed introducing state support for weddings",
+      "lead_en": "Decisions to close registry offices violate Russian values, said Sergei Rybalchenko, chairman of the commission on demography",
+      "title_raw": "В ОП РФ предложили ввести господдержку свадеб",
+      "lead_raw": "Решения о закрытии ЗАГСов нарушают российские ценности, отметил председатель комиссии по демографии Сергей Рыбальченко",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c7df7e5d0fcb94bdad46766d49e0a8ec630c6b57",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/26714659",
+      "published_utc": "2026-03-10T22:01:13Z",
+      "title_en": "Marochko: having liberated Golubovka, the Russian army is advancing in the direction of Kramatorsk",
+      "lead_en": "The Russian army is also advancing in the Minkovka area, a military expert said",
+      "title_raw": "Марочко: освободив Голубовку, армия РФ наступает в направлении Краматорска",
+      "lead_raw": "Российская армия также продвигается в районе Миньковки, сообщил военный эксперт",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
     },
     {
       "id": "008f7b5813c44c12d2ed9abd0faf92375f84d990",
@@ -255,7 +498,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/obschestvo/26714365",
       "published_utc": "2026-03-10T21:01:04Z",
-      "title_en": "Lavrov will take part in the conference of the International Organization for the Russian Language",
+      "title_en": "Lavrov will take part in the conference of the International Russian Language Organization",
       "lead_en": "The event will take place in Moscow",
       "title_raw": "Лавров примет участие в конференции Международной организации по русскому языку",
       "lead_raw": "Мероприятие пройдет в Москве",
@@ -951,7 +1194,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/politika/26711381",
       "published_utc": "2026-03-10T15:08:59Z",
-      "title_en": "Putin congratulates Bagiyan and Voronchikhin on gold at the Paralympics",
+      "title_en": "Putin congratulated Bagiyan and Voronchikhin on gold at the Paralympics",
       "lead_en": "The President of the Russian Federation noted that the country is proud of the athletes and their teammates who perform with dignity under the national flag",
       "title_raw": "Путин поздравил Багиян и Ворончихину с золотом на Паралимпиаде",
       "lead_raw": "Президент РФ отметил, что страна гордится спортсменками и их товарищами по команде, которые достойно выступают под национальным флагом",
@@ -2197,7 +2440,7 @@
       "url": "https://tass.ru/politika/26707937",
       "published_utc": "2026-03-10T10:39:44Z",
       "title_en": "Continuation of negotiations on Ukraine and restriction of communications. Topics of Peskov's briefing",
-      "lead_en": "A Kremlin representative announced the president’s schedule and also answered questions about the telephone conversation between the leaders of the Russian Federation and the United States and the situation in the Middle East",
+      "lead_en": "The Kremlin representative announced the president’s schedule and also answered questions about the telephone conversation between the leaders of the Russian Federation and the United States and the situation in the Middle East",
       "title_raw": "Продолжение переговоров по Украине и ограничение связи. Темы брифинга Пескова",
       "lead_raw": "Представитель Кремля анонсировал график президента, а также ответил на вопросы о телефонном разговоре лидеров РФ и США и ситуации на Ближнем Востоке",
       "topic_scores": {
@@ -4377,7 +4620,7 @@
       "url": "https://tass.ru/mezhdunarodnaya-panorama/26698607",
       "published_utc": "2026-03-09T09:35:38Z",
       "title_en": "Szijjártó: Hungary proposes to the EU to lift the ban on oil and gas from Russia",
-      "lead_en": "The EU must take immediate action, the head of the Hungarian Foreign Ministry noted",
+      "lead_en": "The European Union must take immediate action, the head of the Hungarian Foreign Ministry noted",
       "title_raw": "Сийярто: Венгрия предлагает ЕС отменить запрет на нефть и газ из России",
       "lead_raw": "Евросоюз должен незамедлительно принять меры, отметил глава венгерского МИД",
       "topic_scores": {
@@ -4900,7 +5143,7 @@
       "url": "https://tass.ru/politika/26696423",
       "published_utc": "2026-03-09T00:31:00Z",
       "title_en": "Russia calls for a ceasefire in the Middle East in a draft UN Security Council resolution",
-      "lead_en": "The document expresses deep concern about the current escalation of hostilities in the region and beyond.",
+      "lead_en": "The document expresses deep concern about the current escalation of hostilities in the region and beyond",
       "title_raw": "Россия в проекте резолюции СБ ООН призывает прекратить огонь на Ближнем Востоке",
       "lead_raw": "В документе выражается глубокая озабоченность нынешней эскалацией военных действий в регионе и за его пределами",
       "topic_scores": {
@@ -4924,65 +5167,6 @@
       "lead_en": "The dean of the Faculty of Tourism and Hospitality at the Institute of Eurasian and Oriental Studies of the Russian State University for the Humanities believes that the rise in prices will be most noticeable “at traditionally overloaded Russian resorts”",
       "title_raw": "Эксперт Акрамов спрогнозировал рост цен на летний отдых до 12%",
       "lead_raw": "Декан факультета туризма и гостеприимства Института евразийских и восточных исследований РГГУ считает, что подорожание будет заметнее всего \"на традиционно перегруженных российских курортах\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "899d8bd2a9ad15deb76bfcaf2af47e7d8af9bc06",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/26696275",
-      "published_utc": "2026-03-08T23:17:10Z",
-      "title_en": "OP: scammers use fake advertising on the Internet to deceive Russians",
-      "lead_en": "Member of the Public Chamber commission for public examination of bills and other regulations Evgeniy Masharov said that such links are posted on foreign platforms",
-      "title_raw": "ОП: мошенники используют фейковую рекламу в интернете для обмана россиян",
-      "lead_raw": "Член комиссии Общественной палаты по общественной экспертизе законопроектов и иных нормативных актов Евгений Машаров сообщил, что подобные ссылки размещаются на иностранных платформах",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "d9c7334758ff4a8ac4b9a3977d3b0f2062b0e7ed",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/26696247",
-      "published_utc": "2026-03-08T23:07:39Z",
-      "title_en": "Dmitriev: oil prices will expose the EU’s mistakes in limiting the Russian energy sector",
-      "lead_en": "The price of Brent oil previously exceeded $111 per barrel",
-      "title_raw": "Дмитриев: цены на нефть разоблачат ошибки ЕС по ограничению энергетики РФ",
-      "lead_raw": "Стоимость нефти марки Brent ранее превысила отметку $111 за баррель",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "ed31cf7c459998a11f2fd7ba56fad8b97d863551",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/26696205",
-      "published_utc": "2026-03-08T22:43:03Z",
-      "title_en": "TASS: a group of Russian tourists from airliners left Qatar on buses",
-      "lead_en": "The Russians have crossed the border and are heading through Saudi Arabia to Dubai, from where they will get to their destinations, the agency’s source said",
-      "title_raw": "ТАСС: группа российских туристов с лайнеров покинула Катар на автобусах",
-      "lead_raw": "Россияне пересекли границу и направляются через Саудовскую Аравию в Дубай, откуда уже будут добираться до своих пунктов назначения, сказал собеседник агентства",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
