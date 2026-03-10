@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Russian Media Narrative Tracker — Collector + Translator + JSON Store (48h rolling)
+Russian Media Narrative Tracker — Collector + Translator + Topic Splitter (48h rolling)
 
 Targets:
 - Meduza
@@ -11,14 +11,18 @@ Targets:
 - The Moscow Times
 
 Outputs:
-- data/articles_latest.json  (single rolling file)
+- data/articles_latest.json
+- data/articles_diplomacy.json
+- data/articles_military.json
+- data/articles_energy.json
+- data/articles_economy.json
+- data/articles_local_events.json
+
+Behavior:
 - Keeps only last 48 hours (relative to now in UTC)
 - Translates all text fields into English
-- Designed to run on a schedule (cron / GitHub Actions)
-
-Filter logic (your request):
-- Keep ONLY if the article mentions a Russia actor/signal (English or Russian)
-- Do NOT require a foreign actor mention
+- Keeps ONLY articles that mention a Russia actor/signal
+- Classifies kept articles into topic buckets
 """
 
 from __future__ import annotations
@@ -54,23 +58,15 @@ TIMEOUT = 20
 MAX_RETRIES = 3
 RETRY_SLEEP = 2.0
 
-# Rolling retention window
 KEEP_HOURS = int(os.getenv("KEEP_HOURS", "48"))
-
-# Output file (rolling JSON)
 OUT_JSON = Path(os.getenv("OUT_JSON", "data/articles_latest.json"))
-
-# Disable relevance filters if you’re debugging
 TEST_MODE = os.getenv("TEST_MODE", "0") == "1"
 
-# Exclude obvious noise
 KEYWORDS_EXCLUDE: List[str] = [
     "football", "hockey", "tennis", "soccer", "showbiz", "weather", "movie", "film festival",
     "футбол", "хоккей", "теннис", "шоу-бизнес", "погода", "кинофестиваль",
 ]
 
-# Your requested inclusion rule: keep only if "Russia actor signal" is present.
-# Use stems where useful (esp. Russian) to catch inflections.
 RUSSIA_ACTOR_TERMS: List[str] = [
     # English
     "russia", "russian",
@@ -85,13 +81,13 @@ RUSSIA_ACTOR_TERMS: List[str] = [
     "zakharova", "maria zakharova",
 
     # Russian stems / abbreviations
-    "росси",          # россия/россии/российский...
-    "кремл",          # кремль/кремля...
-    "мид",            # МИД
+    "росси",
+    "кремл",
+    "мид",
     "министерств иностранных дел",
-    "минобороны",     # Минобороны
+    "минобороны",
     "министерств обороны",
-    "совет безопасност",  # совет безопасности
+    "совет безопасност",
     "путин",
     "лавров",
     "шойгу",
@@ -99,7 +95,52 @@ RUSSIA_ACTOR_TERMS: List[str] = [
     "захарова",
 ]
 
-# Feeds (preferred). Some sites need HTML fallback.
+TOPIC_KEYWORDS = {
+    "diplomacy": [
+        "foreign ministry", "ministry of foreign affairs", "mfa",
+        "diplomacy", "diplomatic", "talks", "negotiations", "meeting",
+        "summit", "delegation", "envoy", "embassy", "ambassador",
+        "bilateral", "multilateral", "agreement", "treaty",
+        "strategic partnership", "joint statement", "consultations",
+        "мид", "дипломат", "переговор", "встреч", "саммит", "делегац",
+        "посол", "соглашен", "договор",
+    ],
+    "military": [
+        "defense ministry", "ministry of defense", "military",
+        "armed forces", "troops", "exercise", "drills", "deployment",
+        "missile", "air defense", "navy", "fleet", "submarine",
+        "weapons", "arms", "defense industry", "security",
+        "минобороны", "военн", "войск", "учени", "маневр",
+        "ракет", "пво", "флот", "оруж",
+    ],
+    "energy": [
+        "energy", "oil", "gas", "lng", "pipeline", "gazprom",
+        "rosneft", "novatek", "opec", "opec+", "refinery",
+        "electricity", "power grid", "nuclear power",
+        "coal", "fuel", "energy exports", "petroleum",
+        "энерг", "нефт", "газ", "спг", "газпром", "роснефт",
+        "новатэк", "опек", "атомн", "топлив",
+    ],
+    "economy": [
+        "economy", "economic", "gdp", "inflation", "interest rate",
+        "central bank", "trade", "exports", "imports", "industry",
+        "manufacturing", "investment", "budget", "deficit",
+        "banking", "ruble", "sanctions", "market", "employment",
+        "econom", "ввп", "инфляц", "центробанк", "торгов",
+        "экспорт", "импорт", "промышлен", "инвестиц", "бюджет",
+        "банк", "рубл", "санкц", "рын",
+    ],
+    "local_events": [
+        "fire", "flood", "earthquake", "storm", "wildfire",
+        "explosion", "accident", "crash", "evacuation",
+        "emergency", "disaster", "landslide", "outage",
+        "collapse", "rescue", "injured", "killed",
+        "пожар", "наводнен", "землетрясен", "шторм",
+        "взрыв", "авари", "крушен", "эвакуац",
+        "чс", "чрезвычайн", "бедств", "спасател",
+    ],
+}
+
 SOURCES: Dict[str, Dict] = {
     "TASS (EN)": {
         "type": "rss",
@@ -141,7 +182,6 @@ SOURCES: Dict[str, Dict] = {
         "base": "https://www.themoscowtimes.com",
     },
     "Sputnik": {
-        # RSS endpoints can be inconsistent/blocked; treat as HTML-first
         "type": "html",
         "base": "https://sputnikglobe.com",
         "start_urls": [
@@ -151,7 +191,6 @@ SOURCES: Dict[str, Dict] = {
             "https://sputnikglobe.com/military/",
             "https://sputnikglobe.com/economy/",
         ],
-        # optional RSS candidates (if they work in your environment)
         "feeds": [
             "https://sputnikglobe.com/export/rss2/index.xml",
             "https://sputnikglobe.com/export/rss2/archive/index.xml",
@@ -191,7 +230,6 @@ def fetch_text(url: str, referer: Optional[str] = None) -> Optional[str]:
     return None
 
 def _parse_entry_datetime(entry: dict) -> Optional[datetime]:
-    # 1) feedparser structured
     for key in ("published_parsed", "updated_parsed", "created_parsed"):
         st = entry.get(key)
         if st:
@@ -200,7 +238,6 @@ def _parse_entry_datetime(entry: dict) -> Optional[datetime]:
             except Exception:
                 pass
 
-    # 2) string parse fallback
     for key in ("published", "updated", "created", "pubDate", "date"):
         val = entry.get(key)
         if val:
@@ -215,13 +252,10 @@ def normalize_space(s: str) -> str:
     return " ".join((s or "").split()).strip()
 
 def two_sentence_lead(text: str) -> str:
-    """
-    Compress summary/description into ~2 sentences.
-    If no sentence boundaries, truncate to ~280 chars.
-    """
     t = normalize_space(re.sub(r"<[^>]+>", " ", text or ""))
     if not t:
         return ""
+
     parts = re.split(r"(?<=[.!?])\s+", t)
     parts = [p.strip() for p in parts if p.strip()]
     if len(parts) >= 2:
@@ -251,14 +285,40 @@ def within_hours(dt_utc: datetime, now_utc: datetime, keep_hours: int) -> bool:
     return dt_utc >= (now_utc - timedelta(hours=keep_hours))
 
 def mentions_russia_actor(article: dict) -> bool:
-    """
-    Your requested filter:
-    Keep if any Russia-actor term appears in title or lead (raw).
-    """
     txt = f"{article.get('title_raw','')} {article.get('lead_raw','')}".lower()
     if any(x in txt for x in KEYWORDS_EXCLUDE):
         return False
     return any(term in txt for term in RUSSIA_ACTOR_TERMS)
+
+def classify_topics(article: dict) -> dict:
+    txt = f"{article.get('title_raw','')} {article.get('lead_raw','')}".lower()
+
+    scores = {}
+    for topic, keywords in TOPIC_KEYWORDS.items():
+        scores[topic] = sum(1 for kw in keywords if kw in txt)
+
+    labels = []
+
+    if scores["diplomacy"] >= 1:
+        labels.append("diplomacy")
+    if scores["military"] >= 1:
+        labels.append("military")
+    if scores["energy"] >= 1:
+        labels.append("energy")
+    if scores["economy"] >= 2:
+        labels.append("economy")
+    if scores["local_events"] >= 2:
+        labels.append("local_events")
+
+    primary = None
+    if scores and any(v > 0 for v in scores.values()):
+        primary = max(scores, key=scores.get)
+
+    article["topic_scores"] = scores
+    article["topics"] = labels
+    article["primary_topic"] = primary
+
+    return article
 
 # ----------------- RSS collectors -----------------
 
@@ -279,7 +339,6 @@ def collect_from_rss(source_name: str, feeds: List[str]) -> List[dict]:
 
             dt = _parse_entry_datetime(e)
             if not dt:
-                # Skip undated items (hard to prune reliably)
                 continue
 
             rows.append({
@@ -291,7 +350,6 @@ def collect_from_rss(source_name: str, feeds: List[str]) -> List[dict]:
                 "collector": "rss",
             })
 
-        # if a feed works, you can stop early for that source to avoid duplicates
         if rows:
             break
 
@@ -327,17 +385,17 @@ def collect_sputnik_html(start_urls: List[str]) -> List[dict]:
             href = a.get("href", "")
             if not href:
                 continue
-            full = "https://sputnikglobe.com" + href if href.startswith("/") else href
 
+            full = "https://sputnikglobe.com" + href if href.startswith("/") else href
             pu = urlparse(full)
+
             if pu.netloc and "sputnikglobe.com" not in pu.netloc:
                 continue
-
             if not re.search(r"/\d{6,}/?$", pu.path):
                 continue
-
             if full in seen_urls:
                 continue
+
             seen_urls.add(full)
 
             if len(out) >= 60:
@@ -346,9 +404,9 @@ def collect_sputnik_html(start_urls: List[str]) -> List[dict]:
             art_html = fetch_text(full, referer=u)
             if not art_html:
                 continue
+
             art = BeautifulSoup(art_html, "html.parser")
 
-            # title
             title = ""
             h1 = art.select_one("h1")
             if h1:
@@ -358,10 +416,10 @@ def collect_sputnik_html(start_urls: List[str]) -> List[dict]:
                 if og and og.get("content"):
                     title = normalize_space(og["content"])
 
-            # time
             dt = None
             ttag = art.select_one("time")
             dt = _extract_time_from_tag(ttag) if ttag else None
+
             if not dt:
                 m = art.select_one("meta[property='article:published_time']")
                 if m and m.get("content"):
@@ -373,7 +431,6 @@ def collect_sputnik_html(start_urls: List[str]) -> List[dict]:
             if not title or not dt:
                 continue
 
-            # lead
             lead = ""
             md = art.select_one("meta[name='description']")
             if md and md.get("content"):
@@ -485,7 +542,6 @@ def main() -> int:
 
     collected: List[dict] = []
 
-    # 1) RSS sources
     for name, cfg in SOURCES.items():
         if cfg.get("type") != "rss":
             continue
@@ -495,7 +551,6 @@ def main() -> int:
         print(f"[INFO] RSS: {name}")
         collected.extend(collect_from_rss(name, feeds))
 
-    # 2) HTML sources (Sputnik)
     for name, cfg in SOURCES.items():
         if cfg.get("type") != "html":
             continue
@@ -507,16 +562,13 @@ def main() -> int:
         print("[WARN] No articles collected (all sources failed).")
         return 0
 
-    # Apply your requested filter: keep only if Russia-actor signal is present
     if not TEST_MODE:
         before = len(collected)
         collected = [r for r in collected if mentions_russia_actor(r)]
         print(f"[INFO] Russia-actor filter kept {len(collected)}/{before}")
 
-    # merge with existing store
     existing = load_existing_json(OUT_JSON)
 
-    # existing is enriched; convert to minimal for prune/dedupe
     existing_min = []
     for e in existing:
         existing_min.append({
@@ -531,16 +583,35 @@ def main() -> int:
     merged = existing_min + collected
     merged = prune_and_dedupe(merged, KEEP_HOURS)
     enriched = enrich_translate(merged)
+    classified = [classify_topics(a) for a in enriched]
 
     payload = {
         "updated_at_utc": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "keep_hours": KEEP_HOURS,
-        "count": len(enriched),
-        "articles": enriched,
+        "count": len(classified),
+        "articles": classified,
     }
 
     atomic_write_json(OUT_JSON, payload)
-    print(f"[OK] Wrote {len(enriched)} articles -> {OUT_JSON.as_posix()}")
+
+    topics = ["diplomacy", "military", "energy", "economy", "local_events"]
+
+    for topic in topics:
+        subset = [a for a in classified if topic in a.get("topics", [])]
+
+        topic_payload = {
+            "updated_at_utc": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "topic": topic,
+            "count": len(subset),
+            "articles": subset,
+        }
+
+        atomic_write_json(
+            Path(f"data/articles_{topic}.json"),
+            topic_payload
+        )
+
+    print(f"[OK] Wrote {len(classified)} articles -> {OUT_JSON.as_posix()}")
     return 0
 
 if __name__ == "__main__":
