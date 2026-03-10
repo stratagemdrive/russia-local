@@ -26,10 +26,8 @@ import requests
 import feedparser
 import pandas as pd
 from datetime import datetime, timedelta, timezone
-from urllib.parse import urlparse
 from pathlib import Path
 from typing import Dict, List, Optional
-from zoneinfo import ZoneInfo
 
 # ================= CONFIG =================
 
@@ -51,7 +49,6 @@ RETRY_SLEEP = 2.0
 KEEP_HOURS = int(os.getenv("KEEP_HOURS", "48"))
 OUT_JSON = Path(os.getenv("OUT_JSON", "data/articles_latest.json"))
 TEST_MODE = os.getenv("TEST_MODE", "0") == "1"
-
 
 SOURCES: Dict[str, Dict] = {
     "TASS (EN)": {
@@ -83,7 +80,6 @@ SOURCES: Dict[str, Dict] = {
     },
 }
 
-
 # ============ OPTIONAL TRANSLATION ============
 
 try:
@@ -91,7 +87,6 @@ try:
     HAS_TRANSLATOR = True
 except Exception:
     HAS_TRANSLATOR = False
-
 
 # ================= HELPERS =================
 
@@ -105,11 +100,12 @@ def fetch_text(url: str) -> Optional[str]:
 
     for attempt in range(1, MAX_RETRIES + 1):
         try:
-            r = sess.get(url, timeout=TIMEOUT)
+            r = sess.get(url, timeout=TIMEOUT, allow_redirects=True)
             if r.status_code == 200 and r.text:
                 return r.text
-        except requests.RequestException:
-            pass
+            print(f"[WARN] HTTP {r.status_code} from {url}")
+        except requests.RequestException as e:
+            print(f"[WARN] Fetch error ({attempt}/{MAX_RETRIES}) for {url}: {e}")
         time.sleep(RETRY_SLEEP * attempt)
 
     return None
@@ -128,7 +124,7 @@ def _parse_entry_datetime(entry: dict) -> Optional[datetime]:
         val = entry.get(key)
         if val:
             try:
-                return pd.to_datetime(val, utc=True).to_pydatetime()
+                return pd.to_datetime(val, utc=True, errors="raise").to_pydatetime()
             except Exception:
                 continue
 
@@ -147,8 +143,8 @@ def two_sentence_lead(text: str) -> str:
     parts = re.split(r"(?<=[.!?])\s+", t)
     parts = [p.strip() for p in parts if p.strip()]
     if len(parts) >= 2:
-        return f"{parts[0]} {parts[1]}"
-    return t[:280]
+        return f"{parts[0]} {parts[1]}".strip()
+    return t[:280].rstrip()
 
 
 def translate_text(text: str) -> str:
@@ -173,7 +169,6 @@ def hash_key(*parts: str) -> str:
 def within_hours(dt_utc: datetime, now_utc: datetime, keep_hours: int) -> bool:
     return dt_utc >= (now_utc - timedelta(hours=keep_hours))
 
-
 # ================= RSS COLLECTOR =================
 
 def collect_from_rss(source_name: str, feeds: List[str]) -> List[dict]:
@@ -189,7 +184,7 @@ def collect_from_rss(source_name: str, feeds: List[str]) -> List[dict]:
         for e in d.entries:
             title = normalize_space(e.get("title", ""))
             url = normalize_space(e.get("link", ""))
-            summary = e.get("summary", "") or ""
+            summary = e.get("summary", "") or e.get("description", "") or ""
 
             dt = _parse_entry_datetime(e)
             if not dt:
@@ -198,7 +193,7 @@ def collect_from_rss(source_name: str, feeds: List[str]) -> List[dict]:
             rows.append({
                 "source": source_name,
                 "url": url,
-                "published_utc": dt.strftime("%Y-%m-%dT%H:%M:%SZ"),
+                "published_utc": dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
                 "title_raw": title,
                 "lead_raw": two_sentence_lead(summary),
             })
@@ -208,7 +203,6 @@ def collect_from_rss(source_name: str, feeds: List[str]) -> List[dict]:
 
     return rows
 
-
 # ================= STORE LOGIC =================
 
 def load_existing_json(path: Path) -> List[dict]:
@@ -216,50 +210,60 @@ def load_existing_json(path: Path) -> List[dict]:
         return []
     try:
         data = json.loads(path.read_text(encoding="utf-8"))
-        return data.get("articles", [])
-    except Exception:
-        return []
+        if isinstance(data, dict) and isinstance(data.get("articles"), list):
+            return data["articles"]
+        if isinstance(data, list):
+            return data
+    except Exception as e:
+        print(f"[WARN] Failed loading existing JSON: {e}")
+    return []
 
 
 def prune_and_dedupe(rows: List[dict]) -> List[dict]:
     now = _utcnow()
-    kept = []
+    kept: List[dict] = []
 
     for r in rows:
         try:
-            dt = pd.to_datetime(r.get("published_utc"), utc=True)
+            dt = pd.to_datetime(r.get("published_utc"), utc=True, errors="raise").to_pydatetime()
         except Exception:
             continue
 
-        if within_hours(dt.to_pydatetime(), now, KEEP_HOURS):
+        if within_hours(dt, now, KEEP_HOURS):
             kept.append(r)
 
     best = {}
     for r in kept:
-        key = hash_key(r.get("source"), r.get("url"))
-        best[key] = r
+        key = hash_key(r.get("source", ""), r.get("url", ""))
+        prev = best.get(key)
+
+        if not prev:
+            best[key] = r
+        else:
+            if len(r.get("lead_raw", "") or "") > len(prev.get("lead_raw", "") or ""):
+                best[key] = r
 
     final = list(best.values())
-    final.sort(key=lambda x: x.get("published_utc"), reverse=True)
+    final.sort(key=lambda x: x.get("published_utc", ""), reverse=True)
     return final
 
 
 def enrich_translate(rows: List[dict]) -> List[dict]:
-    out = []
+    out: List[dict] = []
 
     for r in rows:
         title_en = translate_text(r.get("title_raw", ""))
         lead_en = translate_text(r.get("lead_raw", ""))
 
         out.append({
-            "id": hash_key(r.get("source"), r.get("url"), r.get("published_utc")),
-            "source": r.get("source"),
-            "url": r.get("url"),
-            "published_utc": r.get("published_utc"),
+            "id": hash_key(r.get("source", ""), r.get("url", ""), r.get("published_utc", "")),
+            "source": r.get("source", ""),
+            "url": r.get("url", ""),
+            "published_utc": r.get("published_utc", ""),
             "title_en": title_en,
             "lead_en": two_sentence_lead(lead_en),
-            "title_raw": r.get("title_raw"),
-            "lead_raw": r.get("lead_raw"),
+            "title_raw": r.get("title_raw", ""),
+            "lead_raw": r.get("lead_raw", ""),
         })
 
     return out
@@ -271,17 +275,19 @@ def atomic_write_json(path: Path, payload: dict) -> None:
     tmp.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     tmp.replace(path)
 
-
 # ================= MAIN =================
 
+def main() -> int:
     now = _utcnow()
     print(f"[INFO] Run at {now.strftime('%Y-%m-%dT%H:%M:%SZ')} | keep_hours={KEEP_HOURS}")
 
-    collected = []
+    collected: List[dict] = []
 
     for name, cfg in SOURCES.items():
         print(f"[INFO] RSS: {name}")
-        collected.extend(collect_from_rss(name, cfg["feeds"]))
+        rows = collect_from_rss(name, cfg["feeds"])
+        print(f"[INFO] {name}: {len(rows)} rows")
+        collected.extend(rows)
 
     if not collected:
         print("[WARN] No articles collected.")
