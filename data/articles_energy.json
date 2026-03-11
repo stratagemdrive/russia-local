@@ -1,9 +1,440 @@
 {
-  "updated_at_utc": "2026-03-10T22:05:17Z",
+  "updated_at_utc": "2026-03-11T14:38:11Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 34,
+  "count": 46,
   "articles": [
+    {
+      "id": "7620d0c43eb1c9baad8280d61081ff5db42370f7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/26726331",
+      "published_utc": "2026-03-11T14:35:33Z",
+      "title_en": "Russian Defense Ministry: Kyiv tried to disable the Beregovaya gas compressor station",
+      "lead_en": "",
+      "title_raw": "МО РФ: Киев попытался вывести из строя газокомпрессорную станцию \"Береговая\"",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "45177297e8c3ec2cc0b01a0b0802c3ffeb0deafc",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/26726099",
+      "published_utc": "2026-03-11T14:17:57Z",
+      "title_en": "Axios: It's harder for the US to support sanctions against Russian oil because of the operation in Iran",
+      "lead_en": "According to the portal, the reason is rising energy prices",
+      "title_raw": "Axios: США сложнее поддерживать санкции против нефти РФ из-за операции в Иране",
+      "lead_raw": "По данным портала, причиной является рост цен на энергоносители",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "aa4d16232118a1536a232645e008ce5a9e07248f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/26726071",
+      "published_utc": "2026-03-11T14:13:39Z",
+      "title_en": "Net sales of the 29 largest exporters of the Russian Federation in February decreased by 31% compared to January",
+      "lead_en": "The dynamics are due to a decrease in oil prices and an increase in the share of export revenues received in rubles",
+      "title_raw": "Чистые продажи 29 крупнейших экспортеров РФ в феврале сократились на 31% к январю",
+      "lead_raw": "Динамика обусловлена снижением цен на нефть, ростом доли экспортной выручки, поступающей в рублях",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "c9feeec2a7c8456a2ba6ad6cd2b6b1cf322e75e1",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/26726025",
+      "published_utc": "2026-03-11T14:11:43Z",
+      "title_en": "Gazprom reported 12 repelled attacks on gas pipeline infrastructure to Turkey",
+      "lead_en": "The holding also stated that on March 11, the Russkaya compressor station in southern Russia was once again attacked by air attacks.",
+      "title_raw": "\"Газпром\" сообщил о 12 отраженных атаках на инфраструктуру газопроводов в Турцию",
+      "lead_raw": "В холдинге также заявили, что 11 марта в очередной раз средствами воздушного нападения была атакована компрессорная станция \"Русская\" на юге России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "a95a1cd30509e829c19732f22918ad585b472cc2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/26725923",
+      "published_utc": "2026-03-11T14:06:37Z",
+      "title_en": "Zakharova called the attack on the gas carrier Arctic Metagaz a terrorist attack",
+      "lead_en": "According to the official representative of the Russian Foreign Ministry, it is noteworthy that this war crime was committed in close proximity to the shores of an EU member state, but so far no European state has condemned the incident",
+      "title_raw": "Захарова назвала терактом атаку на газовоз Arctic Metagaz",
+      "lead_raw": "По словам официального представителя МИД РФ, примечательно, что это военное преступление было совершено в непосредственной близости от берегов государства - члена ЕС, однако пока ни одно из европейских государств не осудило произошедшее",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "4d286d273a49281efd489a948a5a1db37821d2a7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26725799",
+      "published_utc": "2026-03-11T13:55:55Z",
+      "title_en": "Dodik called on the EU to lift sanctions on oil from Russia due to shortages",
+      "lead_en": "Brussels' ideological approach provokes fuel shortages and rising prices in neighboring countries, the Bosnian Serb leader said",
+      "title_raw": "Додик призвал ЕС снять санкции с нефти из РФ из-за дефицита",
+      "lead_raw": "Идеологизированный подход Брюсселя провоцирует дефицит топлива и рост цен в соседних странах, заявил лидер боснийских сербов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "9474cf9e2c86841565ff1b37a987759eedcf3c17",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/26725779",
+      "published_utc": "2026-03-11T13:55:05Z",
+      "title_en": "A Housing and Public Utilities Market Council will appear in Russia",
+      "lead_en": "It will include resource supply and non-profit organizations, uniting management organizations in the regions, electricity supply, gas supply, solid waste management and cleaning companies",
+      "title_raw": "В России появится Совет рынка ЖКХ",
+      "lead_raw": "В него войдут ресурсоснабжающие и некоммерческие организации, объединяющие управляющие организации в регионах, организации электроснабжения, газоснабжения, обращения с ТКО и клининговые компании",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "560e4a07812b109505fa0974ec56cba82d691c46",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/26722985",
+      "published_utc": "2026-03-11T11:10:01Z",
+      "title_en": "A preliminary design of a Russian LNG tanker of high ice class has been developed",
+      "lead_en": "A list of technologies has been compiled that will need to be mastered and launched to implement this project, said Andrey Zaitsev, Deputy Director of the Department of Regional Industrial Policy of the Ministry of Industry and Trade of the Russian Federation",
+      "title_raw": "Разработан эскизный проект российского СПГ-танкера высокого ледового класса",
+      "lead_raw": "Сформирован перечень технологий, которые необходимо будет освоить и запустить для реализации этого проекта, сообщил замдиректора департамента региональной промышленной политики Министерства промышленности и торговли РФ Андрей Зайцев",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "e746c8ed1b1a59baa6b78c382bbde6e8ee3953a1",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2099881",
+      "published_utc": "2026-03-11T10:39:34Z",
+      "title_en": "Dmitriev predicts huge energy crisis in Europe",
+      "lead_en": "The Russian Direct Investment Fund CEO said that predictions are easy when based on data and trends",
+      "title_raw": "Dmitriev predicts huge energy crisis in Europe",
+      "lead_raw": "The Russian Direct Investment Fund CEO said that predictions are easy when based on data and trends",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "9191e175cbf864d0d5e2bb3d5eabbc0568a124cd",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/pressreview/2099713",
+      "published_utc": "2026-03-11T10:00:01Z",
+      "title_en": "Press review: Trump floats sanctions relief as oil soars and Israel's nuclear shadow looms",
+      "lead_en": "Top stories from the Russian press on Wednesday, March 11th",
+      "title_raw": "Press review: Trump floats sanctions relief as oil soars and Israel's nuclear shadow looms",
+      "lead_raw": "Top stories from the Russian press on Wednesday, March 11th",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "e15eee22f8302517bbad1c63ac4bcf712baab78a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2099851",
+      "published_utc": "2026-03-11T09:58:19Z",
+      "title_en": "Hungarian experts travel to Ukraine to inspect Druzhba oil pipeline",
+      "lead_en": "The experts also plan to meet with EU representatives to discuss ending Ukraine’s blockade of oil supplies from Russia",
+      "title_raw": "Hungarian experts travel to Ukraine to inspect Druzhba oil pipeline",
+      "lead_raw": "The experts also plan to meet with EU representatives to discuss ending Ukraine’s blockade of oil supplies from Russia",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "69644bdc74b2faa0a4c237cc36dea5354da93cb0",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2099823",
+      "published_utc": "2026-03-11T09:40:43Z",
+      "title_en": "Russian expert explains why nukes can't simply be handed to Ukraine",
+      "lead_en": "Vasily Kashin noted that Britain itself was not a full-fledged nuclear power as it does not produce nuclear delivery options",
+      "title_raw": "Russian expert explains why nukes can't simply be handed to Ukraine",
+      "lead_raw": "Vasily Kashin noted that Britain itself was not a full-fledged nuclear power as it does not produce nuclear delivery options",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "f178eed17d587e83c9e03091286ce8ad9a30abbf",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2099735",
+      "published_utc": "2026-03-11T08:00:28Z",
+      "title_en": "Russia ready to supply resources to reliable counterparties — ambassador to Slovakia",
+      "lead_en": "The Slovak government is against termination of imports of Russian energy resources and did not support the relevant regulation in the EU Council, Sergey Andreev said",
+      "title_raw": "Russia ready to supply resources to reliable counterparties — ambassador to Slovakia",
+      "lead_raw": "The Slovak government is against termination of imports of Russian energy resources and did not support the relevant regulation in the EU Council, Sergey Andreev said",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "47bf5000ce6a5201d11c2a7028bafa850d431c4f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2099721",
+      "published_utc": "2026-03-11T07:18:28Z",
+      "title_en": "Russian stock market on the rise in early trading hours",
+      "lead_en": "The yuan gained 1.45 kopecks to 11.5 rubles",
+      "title_raw": "Russian stock market on the rise in early trading hours",
+      "lead_raw": "The yuan gained 1.45 kopecks to 11.5 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "c960ed923091562bf4dedbe20c37b8f16c0288ba",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/26717835",
+      "published_utc": "2026-03-11T07:00:18Z",
+      "title_en": "Experts: Japan may ease sanctions against Russia if the United States does so",
+      "lead_en": "Hitotsubashi University professor Kazuhiro Kumo noted that “if a crisis arises, for example, a suspension of oil imports from the Middle East, perhaps Japan will resume oil imports from Sakhalin.”",
+      "title_raw": "Эксперты: Япония может ослабить санкции против РФ, если это сделают США",
+      "lead_raw": "Профессор Университета Хитоцубаси Кадзухиро Кумо отметил, что \"если возникнет кризис, например, приостановка импорта нефти с Ближнего Востока, возможно, Япония возобновит импорт нефти с Сахалина\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "1373d51b3bae92c964d42336950fcc429daaf1b6",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2099623",
+      "published_utc": "2026-03-10T23:52:01Z",
+      "title_en": "Slovakia may refuse to support Ukraine's EU bid — Russian envoy",
+      "lead_en": "Sergey Andreyev noted that in response to Ukraine’s unfriendly actions the Slovak government has decided to terminate a Slovak-Ukrainian agreement on emergency electricity supplies",
+      "title_raw": "Slovakia may refuse to support Ukraine's EU bid — Russian envoy",
+      "lead_raw": "Sergey Andreyev noted that in response to Ukraine’s unfriendly actions the Slovak government has decided to terminate a Slovak-Ukrainian agreement on emergency electricity supplies",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "c3b945eaf78b648e4bb1a1ca5fc477ed4d3663a1",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2099607",
+      "published_utc": "2026-03-10T23:15:00Z",
+      "title_en": "Zelensky has things to hide about Druzhba pipeline — Russian envoy to Slovakia",
+      "lead_en": "Thus Sergey Andreyev commented on Vladimir Zelensky's rejection of the proposal to inspect the pipeline",
+      "title_raw": "Zelensky has things to hide about Druzhba pipeline — Russian envoy to Slovakia",
+      "lead_raw": "Thus Sergey Andreyev commented on Vladimir Zelensky's rejection of the proposal to inspect the pipeline",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "1d3e5a8e59d22b3c3942b6fd19cb766560a438ad",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26714829",
+      "published_utc": "2026-03-10T22:56:10Z",
+      "title_en": "The Slovak Parliament reported on the struggle to continue oil supplies from the Russian Federation",
+      "lead_en": "The country found itself in a very difficult situation after the outbreak of the conflict in the Middle East, noted the head of the international affairs committee of the Slovak National Council, MP from the ruling Smer party Marian Carey",
+      "title_raw": "В парламенте Словакии сообщили о борьбе за продолжение поставок нефти из РФ",
+      "lead_raw": "Страна оказалась в очень тяжелой ситуации после начала конфликта на Ближнем Востоке, отметил глава комитета по международным делам словацкого национального совета, депутат от правящей партии Smer Мариан Кэри",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "3569ec0fc5414ce079eb5d21697c713c29419a18",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2099599",
+      "published_utc": "2026-03-10T22:45:01Z",
+      "title_en": "Russia ready to pump oil via Druzhba pipeline — ambassador to Slovakia",
+      "lead_en": "Sergey Andreyev emphasized that Kiev's claims that Russia is allegedly attacking Druzhba are not true",
+      "title_raw": "Russia ready to pump oil via Druzhba pipeline — ambassador to Slovakia",
+      "lead_raw": "Sergey Andreyev emphasized that Kiev's claims that Russia is allegedly attacking Druzhba are not true",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "99e449a90225345d569cb997032db8ce697bbe3f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/26714715",
+      "published_utc": "2026-03-10T22:15:45Z",
+      "title_en": "Russian Ambassador: Slovakia may refuse to support Ukraine’s accession to the EU",
+      "lead_en": "Bratislava, due to the situation with the Druzhba oil pipeline, also decided to terminate the agreement with Kiev on emergency supplies of electricity, noted Sergei Andreev",
+      "title_raw": "Посол РФ: Словакия может отказаться от поддержки вступления Украины в ЕС",
+      "lead_raw": "Братислава из-за ситуации с нефтепроводом \"Дружба\" также решила прекратить действие соглашения с Киевом об аварийных поставках электроэнергии, отметил Сергей Андреев",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "89d727818b32b1c0ec682090d18166652e3c879d",
       "source": "TASS (RU)",
@@ -557,179 +988,6 @@
         "diplomacy",
         "energy",
         "economy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "0d319161c6da4e70dad8f3c2946542a1630dfd12",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2098793",
-      "published_utc": "2026-03-09T13:23:28Z",
-      "title_en": "Orban urges von der Leyen to suspend EU sanctions against Russian energy",
-      "lead_en": "The threat of rising energy prices in Europe has arisen not only because of military actions in the Middle East, but also as a result of Ukraine's suspension of the transit of Russian oil through the Druzhba pipeline, Orban noted",
-      "title_raw": "Orban urges von der Leyen to suspend EU sanctions against Russian energy",
-      "lead_raw": "The threat of rising energy prices in Europe has arisen not only because of military actions in the Middle East, but also as a result of Ukraine's suspension of the transit of Russian oil through the Druzhba pipeline, Orban noted",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 3,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "059c4ed2a2b7e42250dc977ff43d9fbd6af236ca",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26699071",
-      "published_utc": "2026-03-09T10:53:03Z",
-      "title_en": "Orban called on von der Leyen to suspend EU sanctions against Russian energy",
-      "lead_en": "The Hungarian Prime Minister made this proposal amid the threat of a sharp rise in oil and gas prices due to the conflict in the Middle East.",
-      "title_raw": "Орбан призвал фон дер Ляйен приостановить санкции ЕС против энергетики России",
-      "lead_raw": "Венгерский премьер-министр выступил с таким предложением на фоне угрозы резкого роста цен на нефть и газ из-за конфликта на Ближнем Востоке",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e140ee767be2f6df48f1561fef2367df0046f4ae",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2098755",
-      "published_utc": "2026-03-09T10:46:04Z",
-      "title_en": "Hungary proposes EU lift ban on Russian oil, gas — Szijjarto",
-      "lead_en": "\"A significant part of oil is withdrawn from the global market because of the war in the Middle East,\" Hungarian Minister of Foreign Affairs and Trade said",
-      "title_raw": "Hungary proposes EU lift ban on Russian oil, gas — Szijjarto",
-      "lead_raw": "\"A significant part of oil is withdrawn from the global market because of the war in the Middle East,\" Hungarian Minister of Foreign Affairs and Trade said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "aa352dc23941fec64bc8eb02354485fe7383c2c2",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26699005",
-      "published_utc": "2026-03-09T10:36:43Z",
-      "title_en": "Orban called on the EU to immediately lift sanctions against Russian energy",
-      "lead_en": "It is important to review and suspend restrictions, the Hungarian Prime Minister noted",
-      "title_raw": "Орбан призвал ЕС немедленно отменить санкции против энергетики России",
-      "lead_raw": "Важно пересмотреть и приостановить ограничения, отметил венгерский премьер-министр",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "47c962016907ec70ef387f7726428bd4825a0da0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26698607",
-      "published_utc": "2026-03-09T09:35:38Z",
-      "title_en": "Szijjártó: Hungary proposes to the EU to lift the ban on oil and gas from Russia",
-      "lead_en": "The EU must take immediate action, the head of the Hungarian Foreign Ministry noted",
-      "title_raw": "Сийярто: Венгрия предлагает ЕС отменить запрет на нефть и газ из России",
-      "lead_raw": "Евросоюз должен незамедлительно принять меры, отметил глава венгерского МИД",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "b368446343d5fe3d901d52c7ac3d3771a2503ff8",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/26698345",
-      "published_utc": "2026-03-09T09:04:40Z",
-      "title_en": "The Russian Armed Forces hit energy facilities supplying the Ukrainian Armed Forces",
-      "lead_en": "Russian forces also defeated temporary deployment points of Ukrainian armed forces and foreign mercenaries in 142 districts",
-      "title_raw": "ВС РФ поразили объекты энергетики, обеспечивающие ВСУ",
-      "lead_raw": "Российские силы также нанесли поражение пунктам временной дислокации украинских вооруженных формирований и иностранных наемников в 142 районах",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "16a96ed6d5aff8fc02cc626670771f885bbfff38",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/26696557",
-      "published_utc": "2026-03-09T01:22:28Z",
-      "title_en": "Dmitriev: with rising oil prices, Russia's voice is louder",
-      "lead_en": "The Special Representative of the President of the Russian Federation for investment and economic cooperation with foreign countries noted that the country is a systemically important energy supplier, without which neither global stability nor a sustainable model of global growth",
-      "title_raw": "Дмитриев: с повышением цен на нефть голос России звучит громче",
-      "lead_raw": "Спецпредставитель президента РФ по инвестиционно-экономическому сотрудничеству с зарубежными государствами отметил, что страна является системообразующим поставщиком энергии, без которого невозможны ни глобальная стабильность, ни устойчивая модель мирового роста",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "d9c7334758ff4a8ac4b9a3977d3b0f2062b0e7ed",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/26696247",
-      "published_utc": "2026-03-08T23:07:39Z",
-      "title_en": "Dmitriev: oil prices will expose the EU’s mistakes in limiting the Russian energy sector",
-      "lead_en": "The price of Brent oil previously exceeded $111 per barrel",
-      "title_raw": "Дмитриев: цены на нефть разоблачат ошибки ЕС по ограничению энергетики РФ",
-      "lead_raw": "Стоимость нефти марки Brent ранее превысила отметку $111 за баррель",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
       ],
       "primary_topic": "energy"
     }
