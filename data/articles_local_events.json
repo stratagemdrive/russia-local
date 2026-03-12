@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-03-12T17:38:40Z",
+  "updated_at_utc": "2026-03-12T21:06:07Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 21,
+  "count": 22,
   "articles": [
+    {
+      "id": "232272c158bb5c9dbf402f065a9257df120ca074",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/26743515",
+      "published_utc": "2026-03-12T19:43:08Z",
+      "title_en": "Aviation danger has been canceled in the Oryol region",
+      "lead_en": "This is reported in the application of the Ministry of Emergency Situations of Russia",
+      "title_raw": "В Орловской области отменили авиационную опасность",
+      "lead_raw": "Об этом сообщается в приложении МЧС России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "5fcdb11ff8556761c06d63d7ba4148910a741b13",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/03/12/punishing-the-crocus-perpetrators-the-closed-door-trial-over-russia-s-deadliest-terrorist-attack-in-decades-ends-with-15-life-sentences-and-lingering-questions",
+      "published_utc": "2026-03-12T17:57:17Z",
+      "title_en": "Punishing the Crocus perpetrators: The closed-door trial over Russia’s deadliest terrorist attack in decades ends with 15 life sentences and lingering questions",
+      "lead_en": "On March 22, 2024, a group of terrorists stormed the Crocus City Hall entertainment complex outside Moscow, opened fire on the crowd, and then set fire to the building. At least 150 people were killed, making this the deadliest terrorist attack in modern Russian history since the 2004 Beslan school siege.",
+      "title_raw": "Punishing the Crocus perpetrators: The closed-door trial over Russia’s deadliest terrorist attack in decades ends with 15 life sentences and lingering questions",
+      "lead_raw": "On March 22, 2024, a group of terrorists stormed the Crocus City Hall entertainment complex outside Moscow, opened fire on the crowd, and then set fire to the building. At least 150 people were killed, making this the deadliest terrorist attack in modern Russian history since the 2004 Beslan school siege.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "3ba233c33e1e308d13e207e3ed44ec54954a3fcb",
       "source": "TASS (RU)",
@@ -416,25 +456,6 @@
         "military",
         "local_events"
       ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "6bb62aa26668f8c76f00b37795fb27fc52180b9d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/26714023",
-      "published_utc": "2026-03-10T19:45:41Z",
-      "title_en": "Aviation danger has been canceled in the Oryol region",
-      "lead_en": "This information was reported in the application of the Ministry of Emergency Situations of Russia",
-      "title_raw": "В Орловской области отменили авиационную опасность",
-      "lead_raw": "Эту информацию сообщили в приложении МЧС России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
       "primary_topic": "local_events"
     }
   ]
