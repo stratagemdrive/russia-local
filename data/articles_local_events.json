@@ -1,9 +1,213 @@
 {
-  "updated_at_utc": "2026-03-11T14:38:11Z",
+  "updated_at_utc": "2026-03-12T17:38:40Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 16,
+  "count": 21,
   "articles": [
+    {
+      "id": "3ba233c33e1e308d13e207e3ed44ec54954a3fcb",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/26741071",
+      "published_utc": "2026-03-12T14:24:44Z",
+      "title_en": "Sakhalin's experience in drone data analytics is being replicated in other regions of Russia",
+      "lead_en": "We are talking about a variety of areas of application, ranging from the search for illegal landfills, ending with natural disasters, fires and floods.",
+      "title_raw": "Опыт Сахалина в аналитике данных с дронов тиражируют в других регионах России",
+      "lead_raw": "Речь идет о самых разных сферах применения, начиная от поиска незаконных свалок, заканчивая природными катаклизмами, пожарами и подтоплениями",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "3a049f4d848e1dd7884e1e9352ddf8bbc1469162",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/26738377",
+      "published_utc": "2026-03-12T11:37:15Z",
+      "title_en": "A special flight of the Russian Ministry of Emergency Situations delivered medicines for Iran to Azerbaijan",
+      "lead_en": "Humanitarian aid will be transferred to authorized representatives of the government of the Islamic Republic",
+      "title_raw": "Спецборт МЧС РФ доставил в Азербайджан медикаменты для Ирана",
+      "lead_raw": "Гумпомощь передадут уполномоченным представителям правительства исламской республики",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "622852b58860bb7f02e569e41ad638ab728c6c76",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2100433",
+      "published_utc": "2026-03-12T08:30:52Z",
+      "title_en": "Ukrainian drones strike Russian regions, spark oil depot fire, 80 downed",
+      "lead_en": "No casualties were reported",
+      "title_raw": "Ukrainian drones strike Russian regions, spark oil depot fire, 80 downed",
+      "lead_raw": "No casualties were reported",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "b5c989c37649c82893779779348c9d89b4d0a5c9",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2100415",
+      "published_utc": "2026-03-12T07:50:06Z",
+      "title_en": "Ukraine launches 54 artillery attacks on Russia’s Kursk Region in past day — governor",
+      "lead_en": "A national of Saint Kitts and Nevis was killed in an attack on a motor road near the village of Bolshoye Soldatskoye, Alexander Khinshtein said",
+      "title_raw": "Ukraine launches 54 artillery attacks on Russia’s Kursk Region in past day — governor",
+      "lead_raw": "A national of Saint Kitts and Nevis was killed in an attack on a motor road near the village of Bolshoye Soldatskoye, Alexander Khinshtein said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "7ea7313306fa7041fd204f553b8a2519dc9d73a2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/26732917",
+      "published_utc": "2026-03-12T07:19:13Z",
+      "title_en": "The FSB showed footage of preventing a terrorist attack in Crimea against a Russian military",
+      "lead_en": "A resident of Sevastopol received the task of eliminating a high-ranking military officer by planting a homemade radio-controlled explosive device under his car.",
+      "title_raw": "ФСБ показала кадры предотвращения теракта в Крыму против российского военного",
+      "lead_raw": "Житель Севастополя получил задание ликвидировать высокопоставленного военнослужащего путем закладки под его автомобиль самодельного радиоуправляемого взрывного устройства",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "c5b1553bb7ec8cba0ddf09fb2af0a4370fe42424",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2100361",
+      "published_utc": "2026-03-12T04:07:17Z",
+      "title_en": "Russia doesn’t plan to request UNSC meeting following Ukraine’s attack on Bryansk",
+      "lead_en": "The strikes killed seven and wounded 42 people",
+      "title_raw": "Russia doesn’t plan to request UNSC meeting following Ukraine’s attack on Bryansk",
+      "lead_raw": "The strikes killed seven and wounded 42 people",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "79c97c63b83c40f9a93884ebb3cdc124110b911f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/26729897",
+      "published_utc": "2026-03-11T21:21:18Z",
+      "title_en": "Nebenzya: the Ukrainian Armed Forces’ attack on Bryansk is another example of Kyiv’s cynicism",
+      "lead_en": "Russia's permanent representative to the UN said Ukraine used at least seven Storm Shadow missiles in the attack.",
+      "title_raw": "Небензя: удар ВСУ по Брянску представляет собой очередной пример цинизма Киева",
+      "lead_raw": "Постоянный представитель России при ООН заявил, что Украина использовала для атаки как минимум семь ракет Storm Shadow",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "85c68fd8df098a022af09a79f44a644f39a831a3",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/26729883",
+      "published_utc": "2026-03-11T21:20:01Z",
+      "title_en": "Unmanned danger declared in Ulyanovsk region",
+      "lead_en": "This was reported to the Russian Ministry of Emergency Situations",
+      "title_raw": "В Ульяновской области объявили беспилотную опасность",
+      "lead_raw": "Об этом сообщили в МЧС России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "69e6bd689203c2e0f569d5314cf75c4cb25634b6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/26727521",
+      "published_utc": "2026-03-11T15:59:49Z",
+      "title_en": "Russian Embassy: British intelligence indicated the targets of the attack on Bryansk",
+      "lead_en": "The attack was carried out by British Storm Shadow cruise missiles, the Russian diplomatic mission noted.",
+      "title_raw": "Посольство РФ: британская разведка указывала цели удара по Брянску",
+      "lead_raw": "Атака была совершена британскими крылатыми ракетами Storm Shadow, отметили в российском диппредставительстве",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "4229eba7ac972deceff2d9a7ef7b52d1df7a9998",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/03/11/did-the-mideast-conflict-just-rescue-russias-war-budget-a92187",
+      "published_utc": "2026-03-11T14:52:45Z",
+      "title_en": "Did the Mideast Conflict Just Rescue Russia’s War Budget?",
+      "lead_en": "Despite the surge in Russian oil prices, analysts caution that this boost in revenues is unlikely to fully reverse Russia’s economic woes.",
+      "title_raw": "Did the Mideast Conflict Just Rescue Russia’s War Budget?",
+      "lead_raw": "Despite the surge in Russian oil prices, analysts caution that this boost in revenues is unlikely to fully reverse Russia’s economic woes.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 1
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "832753400d62dea534cfe959b70985da78cefde6",
       "source": "TASS (RU)",
@@ -223,109 +427,6 @@
       "lead_en": "This information was reported in the application of the Ministry of Emergency Situations of Russia",
       "title_raw": "В Орловской области отменили авиационную опасность",
       "lead_raw": "Эту информацию сообщили в приложении МЧС России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "b9b6569d957bffe2978385c005eb3eb02bf9b8c2",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/03/10/widespread-mobile-internet-outages-are-lawful-and-needed-for-security-kremlin-says-a92174",
-      "published_utc": "2026-03-10T11:56:24Z",
-      "title_en": "Widespread Mobile Internet Outages Are Lawful and Needed for Security, Kremlin Says",
-      "lead_en": "Russians in Moscow and St. Petersburg have reported significant mobile internet outages in recent days, though disruptions to internet access have become a common occurrence throughout the country in recent years.",
-      "title_raw": "Widespread Mobile Internet Outages Are Lawful and Needed for Security, Kremlin Says",
-      "lead_raw": "Russians in Moscow and St. Petersburg have reported significant mobile internet outages in recent days, though disruptions to internet access have become a common occurrence throughout the country in recent years.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "371421216456b4ac1ace3f22fdbda73b0e4c00bb",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2099165",
-      "published_utc": "2026-03-10T11:31:36Z",
-      "title_en": "Russia’s small anti-submarine ship conducts live fire exercises in Baltic Sea",
-      "lead_en": "The crew of the Kabardino-Balkaria ship laid defensive minefields in designated areas using dummy bottom and moored mines",
-      "title_raw": "Russia’s small anti-submarine ship conducts live fire exercises in Baltic Sea",
-      "lead_raw": "The crew of the Kabardino-Balkaria ship laid defensive minefields in designated areas using dummy bottom and moored mines",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "6783ad8269373fd8ec9c734d8a8352e2c6844556",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/03/10/2-killed-in-belgorod-region-over-womens-day-weekend-a92172",
-      "published_utc": "2026-03-10T09:20:50Z",
-      "title_en": "2 Killed in Belgorod Region Over Women’s Day Weekend",
-      "lead_en": "At least 19 others were injured in the border region over Russia’s extended holiday weekend.",
-      "title_raw": "2 Killed in Belgorod Region Over Women’s Day Weekend",
-      "lead_raw": "At least 19 others were injured in the border region over Russia’s extended holiday weekend.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "e4c9662f87f2cc490bed9c7d9ac925cc2e48e633",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2098979",
-      "published_utc": "2026-03-10T05:21:44Z",
-      "title_en": "Ukrainian strikes kill 30, injure over 150 in Russia in one week — MFA",
-      "lead_en": "Rodion Miroshnik specified that most civilians had been injured by enemy strikes in the Belgorod, Kherson, and Zaporozhye regions, as well as in the DPR",
-      "title_raw": "Ukrainian strikes kill 30, injure over 150 in Russia in one week — MFA",
-      "lead_raw": "Rodion Miroshnik specified that most civilians had been injured by enemy strikes in the Belgorod, Kherson, and Zaporozhye regions, as well as in the DPR",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "3e52cc26fcbb085f0eb4c6ac09062a0f67d5efa4",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/03/09/putin-congratulates-iran-s-new-supreme-leader-and-reaffirms-russia-s-unwavering-support-for-tehran",
-      "published_utc": "2026-03-09T14:40:32Z",
-      "title_en": "Putin congratulates Iran’s new supreme leader and reaffirms Russia’s ‘unwavering support’ for Tehran",
-      "lead_en": "Russian President Vladimir Putin has sent his congratulations to Iran’s new supreme leader, Mojtaba Khamenei, following his selection to succeed his father, the recently killed Ayatollah Ali Khamenei.",
-      "title_raw": "Putin congratulates Iran’s new supreme leader and reaffirms Russia’s ‘unwavering support’ for Tehran",
-      "lead_raw": "Russian President Vladimir Putin has sent his congratulations to Iran’s new supreme leader, Mojtaba Khamenei, following his selection to succeed his father, the recently killed Ayatollah Ali Khamenei.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
