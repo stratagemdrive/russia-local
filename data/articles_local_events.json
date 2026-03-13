@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-03-13T05:05:23Z",
+  "updated_at_utc": "2026-03-13T10:00:35Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 16,
+  "count": 15,
   "articles": [
+    {
+      "id": "bf52b6695a29c2026fb7e39f950dfd2ec32d89ac",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/26750135",
+      "published_utc": "2026-03-13T09:44:35Z",
+      "title_en": "The Russian Embassy did not receive any requests from Russians after the earthquake in Turkey",
+      "lead_en": "The diplomatic mission is monitoring the development of the situation in Tokat",
+      "title_raw": "Посольство РФ не получало обращений от россиян после землетрясения в Турции",
+      "lead_raw": "Диппредставительство следит за развитием ситуации в Токате",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "232272c158bb5c9dbf402f065a9257df120ca074",
       "source": "TASS (RU)",
@@ -285,49 +306,6 @@
       },
       "topics": [
         "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "408202f47314265d7bf40320e95df15943aa39cc",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2099773",
-      "published_utc": "2026-03-11T09:03:42Z",
-      "title_en": "FACTBOX: What is known about aftermath of Ukrainian missile attack on Russia’s Bryansk",
-      "lead_en": "The attack killed six people and injured 42",
-      "title_raw": "FACTBOX: What is known about aftermath of Ukrainian missile attack on Russia’s Bryansk",
-      "lead_raw": "The attack killed six people and injured 42",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "90e7395be4bfedc5a7bf88a862c8018e036d7b9a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/26716929",
-      "published_utc": "2026-03-11T05:37:09Z",
-      "title_en": "In Primorye the number of natural and forest fires has decreased several times",
-      "lead_en": "Since the beginning of the year, 523 landscape fires have been registered in the supervisory departments of the Main Directorate of the Ministry of Emergency Situations of Russia in the Primorsky Territory",
-      "title_raw": "В Приморье в несколько раз сократилось число природных и лесных пожаров",
-      "lead_raw": "В подразделениях надзорной деятельности главного управления МЧС России по Приморскому краю с начала года зарегистрировали 523 ландшафтных пожара",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
         "local_events"
       ],
       "primary_topic": "local_events"
