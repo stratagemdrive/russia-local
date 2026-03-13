@@ -1,9 +1,51 @@
 {
-  "updated_at_utc": "2026-03-13T17:05:08Z",
+  "updated_at_utc": "2026-03-13T21:48:59Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 13,
+  "count": 15,
   "articles": [
+    {
+      "id": "38884cd13debe78bfbb3760ce92e2ff8d3d204de",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/26757011",
+      "published_utc": "2026-03-13T20:41:39Z",
+      "title_en": "Marochko: Ukrainian Armed Forces are focusing on drones due to lack of personnel",
+      "lead_en": "The expert also noted that the Russian Armed Forces are actively using the Rubicon complex and other drones involved in mine clearance, evacuation and supply of troops along the entire line of combat contact",
+      "title_raw": "Марочко: ВСУ делают акцент на беспилотниках из-за нехватки личного состава",
+      "lead_raw": "Эксперт также отметил, что ВС РФ вдоль всей линии боевого соприкосновения активно применяют комплекс \"Рубикон\" и другие дроны, задействованные в разминировании, эвакуации и снабжении войск",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "91aca0e427745d0263e3c813b468293879507f3f",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/03/13/a-ukrainian-attack-on-a-russian-missile-plant-killed-at-least-seven-civilians-locals-say-they-had-nowhere-to-hide",
+      "published_utc": "2026-03-13T17:04:54Z",
+      "title_en": "A Ukrainian attack on a Russian missile plant killed at least seven civilians. Locals say they had nowhere to hide.",
+      "lead_en": "On March 10, the Russian border city of Bryansk suffered its deadliest attack since the start of the full-scale war against Ukraine. Ukrainian forces struck the Kremniy El microelectronics plant, also damaging a nearby technical college and several residential buildings.",
+      "title_raw": "A Ukrainian attack on a Russian missile plant killed at least seven civilians. Locals say they had nowhere to hide.",
+      "lead_raw": "On March 10, the Russian border city of Bryansk suffered its deadliest attack since the start of the full-scale war against Ukraine. Ukrainian forces struck the Kremniy El microelectronics plant, also damaging a nearby technical college and several residential buildings.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "34e937dfb2a402e97ac06c593999d2d502e47f78",
       "source": "TASS (RU)",
@@ -43,6 +85,46 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
+    },
+    {
+      "id": "2741043636e57ba63a74bd77f164c60ef84db4f7",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2101227",
+      "published_utc": "2026-03-13T12:31:10Z",
+      "title_en": "Russia to answer Ukraine’s questions to IAEA chief on ceasefire for ZNPP — Rosatom",
+      "lead_en": "CEO Alexey Likhachev lauded the IAEA’s role in elaborating new international agreements",
+      "title_raw": "Russia to answer Ukraine’s questions to IAEA chief on ceasefire for ZNPP — Rosatom",
+      "lead_raw": "CEO Alexey Likhachev lauded the IAEA’s role in elaborating new international agreements",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "3600de81e7696613ac49b321103bd42006d4ad71",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2101159",
+      "published_utc": "2026-03-13T11:00:19Z",
+      "title_en": "Ten medical workers killed in Ukrainian attack on healthcare facility in DPR",
+      "lead_en": "The Russian Investigative Committee added that 10 people, including nine medical workers, sustained injuries",
+      "title_raw": "Ten medical workers killed in Ukrainian attack on healthcare facility in DPR",
+      "lead_raw": "The Russian Investigative Committee added that 10 people, including nine medical workers, sustained injuries",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
     },
     {
       "id": "bf52b6695a29c2026fb7e39f950dfd2ec32d89ac",
@@ -224,46 +306,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "79c97c63b83c40f9a93884ebb3cdc124110b911f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/26729897",
-      "published_utc": "2026-03-11T21:21:18Z",
-      "title_en": "Nebenzya: the Ukrainian Armed Forces’ attack on Bryansk is another example of Kyiv’s cynicism",
-      "lead_en": "Russia's permanent representative to the UN said Ukraine used at least seven Storm Shadow missiles in the attack.",
-      "title_raw": "Небензя: удар ВСУ по Брянску представляет собой очередной пример цинизма Киева",
-      "lead_raw": "Постоянный представитель России при ООН заявил, что Украина использовала для атаки как минимум семь ракет Storm Shadow",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "85c68fd8df098a022af09a79f44a644f39a831a3",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/26729883",
-      "published_utc": "2026-03-11T21:20:01Z",
-      "title_en": "Unmanned danger declared in Ulyanovsk region",
-      "lead_en": "This was reported to the Russian Ministry of Emergency Situations",
-      "title_raw": "В Ульяновской области объявили беспилотную опасность",
-      "lead_raw": "Об этом сообщили в МЧС России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }

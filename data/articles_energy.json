@@ -1,9 +1,51 @@
 {
-  "updated_at_utc": "2026-03-13T17:05:08Z",
+  "updated_at_utc": "2026-03-13T21:48:59Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 65,
+  "count": 73,
   "articles": [
+    {
+      "id": "1b3d940d28e1e38b3ee02989a9911741fc8d627b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2101479",
+      "published_utc": "2026-03-13T20:23:36Z",
+      "title_en": "Energy crisis in Europe cannot be overcome without Russia — Orban",
+      "lead_en": "Hungarian Prime Minister state that Brussels does not want to know anything about the suspension of sanctions against Russian energy",
+      "title_raw": "Energy crisis in Europe cannot be overcome without Russia — Orban",
+      "lead_raw": "Hungarian Prime Minister state that Brussels does not want to know anything about the suspension of sanctions against Russian energy",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "b1f355852ee8da5fc3a9fcc803b86544ac5f814b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26756771",
+      "published_utc": "2026-03-13T19:27:03Z",
+      "title_en": "Orban: the energy crisis in Europe cannot be overcome without Russian gas and oil",
+      "lead_en": "The Prime Minister of Hungary said that Brussels does not want to know anything about the suspension of sanctions against Russian energy resources",
+      "title_raw": "Орбан: энергокризис в Европе не преодолеть без российских газа и нефти",
+      "lead_raw": "Премьер-министр Венгрии заявил, что Брюссель не хочет ничего знать о приостановке санкций против энергоносителей РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "8eb0aa6ab2f8419483e6115b32251e0a0f5ac7ca",
       "source": "TASS (RU)",
@@ -26,6 +68,29 @@
       "primary_topic": "energy"
     },
     {
+      "id": "b10bcc7863a403994e031726bd39dd38542074fb",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2101409",
+      "published_utc": "2026-03-13T16:28:19Z",
+      "title_en": "Energy markets to 'punish' countries against sanctions’ softening — Dmitriev",
+      "lead_en": "The Special Envoy of the Russian President and chief executive of the Russian Direct Investment Fund noted that UK warmongers oppose oil market stability and peace",
+      "title_raw": "Energy markets to 'punish' countries against sanctions’ softening — Dmitriev",
+      "lead_raw": "The Special Envoy of the Russian President and chief executive of the Russian Direct Investment Fund noted that UK warmongers oppose oil market stability and peace",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
       "id": "3423fe393b4983d98af0050f1543e66accbb1e56",
       "source": "Meduza (EN)",
       "url": "https://meduza.io/en/news/2026/03/13/u-s-temporarily-lifts-sanctions-on-russian-oil-as-middle-east-war-drives-up-energy-prices",
@@ -34,6 +99,70 @@
       "lead_en": "The United States has temporarily eased sanctions on Russian oil that is currently at sea. The exemptions, issued by the Treasury Department on Thursday, will remain in effect until April 11.",
       "title_raw": "U.S. temporarily lifts sanctions on Russian oil as Middle East war drives up energy prices",
       "lead_raw": "The United States has temporarily eased sanctions on Russian oil that is currently at sea. The exemptions, issued by the Treasury Department on Thursday, will remain in effect until April 11.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "eef64311f6214c7120dc127c343f6a8113c37885",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2101371",
+      "published_utc": "2026-03-13T15:32:49Z",
+      "title_en": "Hungary demands EU pause Russian oil ban after US move — Szijjarto",
+      "lead_en": "The Hungarian foreign minister noted that the war in the Middle East is hindering the transportation of oil from the Persian Gulf, causing a shortage of raw materials and leading to higher prices for petroleum products worldwide",
+      "title_raw": "Hungary demands EU pause Russian oil ban after US move — Szijjarto",
+      "lead_raw": "The Hungarian foreign minister noted that the war in the Middle East is hindering the transportation of oil from the Persian Gulf, causing a shortage of raw materials and leading to higher prices for petroleum products worldwide",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "b4ae795eed98a559e2f7309282ff5fc2a7b3ece0",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2101345",
+      "published_utc": "2026-03-13T14:46:06Z",
+      "title_en": "Temporary lifting of oil sanctions to help Russia gain foothold in new markets — senator",
+      "lead_en": "Konstantin Basyuk said this is only a short-term, one-month permit for already loaded shipments, but experience shows that such \"temporary solutions\" often prove \"very sustainable\"",
+      "title_raw": "Temporary lifting of oil sanctions to help Russia gain foothold in new markets — senator",
+      "lead_raw": "Konstantin Basyuk said this is only a short-term, one-month permit for already loaded shipments, but experience shows that such \"temporary solutions\" often prove \"very sustainable\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "e4a0f2298814a95299010052b56be01dba610382",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2101343",
+      "published_utc": "2026-03-13T14:43:04Z",
+      "title_en": "Mongolia to buy 100% of petroleum products from Russia — vice minister",
+      "lead_en": "The situation in the Strait of Hormuz is driving up oil prices and could impact Mongolia, Mongolian Vice Minister of Industry and Mineral Resources Begzsuren Enkhtuvshin added",
+      "title_raw": "Mongolia to buy 100% of petroleum products from Russia — vice minister",
+      "lead_raw": "The situation in the Strait of Hormuz is driving up oil prices and could impact Mongolia, Mongolian Vice Minister of Industry and Mineral Resources Begzsuren Enkhtuvshin added",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
@@ -64,6 +193,182 @@
       },
       "topics": [
         "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "23f1a5d1fc2a7362ec4491152d33d3211b07ca10",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2101325",
+      "published_utc": "2026-03-13T14:22:09Z",
+      "title_en": "US recognizes role of Russian energy through oil sanctions softening — expert",
+      "lead_en": "Kyle Shostak added that easing of sanctions is dictated by opportunistic pragmatism and is not viewed by the US administration in the context of settling the conflict in Ukraine",
+      "title_raw": "US recognizes role of Russian energy through oil sanctions softening — expert",
+      "lead_raw": "Kyle Shostak added that easing of sanctions is dictated by opportunistic pragmatism and is not viewed by the US administration in the context of settling the conflict in Ukraine",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "2ea50707b502b68b8543cd24e1fe0171cf8f25f1",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2101311",
+      "published_utc": "2026-03-13T14:00:58Z",
+      "title_en": "Softening of US sanctions on Russian oil is step in right direction — expert",
+      "lead_en": "US authorities made such a step because of concerns regarding the inflation shock, primarily for the US economy, in connection with closing of the Strait of Hormuz, CEO of US-based Navigator Principal Investors Kyle Shostak noted",
+      "title_raw": "Softening of US sanctions on Russian oil is step in right direction — expert",
+      "lead_raw": "US authorities made such a step because of concerns regarding the inflation shock, primarily for the US economy, in connection with closing of the Strait of Hormuz, CEO of US-based Navigator Principal Investors Kyle Shostak noted",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "c950a063dc4c139f14f3aa71d690384928ac348c",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2101259",
+      "published_utc": "2026-03-13T13:07:59Z",
+      "title_en": "Asia-Pacific countries to actively buy Russian oil exempt from sanctions",
+      "lead_en": "India will have the strongest incremental growth of imports, which may increase it to last fall levels, Sergey Kaufman from Finam said",
+      "title_raw": "Asia-Pacific countries to actively buy Russian oil exempt from sanctions",
+      "lead_raw": "India will have the strongest incremental growth of imports, which may increase it to last fall levels, Sergey Kaufman from Finam said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "614b2e5a6375b6088c307aab6e31632808c13e8e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2101251",
+      "published_utc": "2026-03-13T12:57:30Z",
+      "title_en": "Stabilization of global energy markets impossible without Russian oil — Kremlin",
+      "lead_en": "Dmitry Peskov commented on the easing of US sanctions against Russian oil",
+      "title_raw": "Stabilization of global energy markets impossible without Russian oil — Kremlin",
+      "lead_raw": "Dmitry Peskov commented on the easing of US sanctions against Russian oil",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "47a7dfb2c3e8ef4a4e0eb19c7698f5ea9c07f9e7",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2101249",
+      "published_utc": "2026-03-13T12:52:48Z",
+      "title_en": "Shelling of Zaporozhye NPP, Iran's nuclear program: Rosatom CEO talks with IAEA chief",
+      "lead_en": "The IAEA has been operating at the Zaporozhye Nuclear Power Plant for five years under the difficult conditions of a military conflict, yet this has not prevented it from establishing cooperation with the Russian side",
+      "title_raw": "Shelling of Zaporozhye NPP, Iran's nuclear program: Rosatom CEO talks with IAEA chief",
+      "lead_raw": "The IAEA has been operating at the Zaporozhye Nuclear Power Plant for five years under the difficult conditions of a military conflict, yet this has not prevented it from establishing cooperation with the Russian side",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "27528042078797d316a7177ca2d60f46cc46b5b3",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2101231",
+      "published_utc": "2026-03-13T12:36:54Z",
+      "title_en": "Sri Lanka requested Russia to provide for energy supplies to country — Russian Embassy",
+      "lead_en": "The national government would be able to provide for continuous energy supplies during the coming two months only, President of Sri Lanka Anura Kumara Dissanayake said on Thursday",
+      "title_raw": "Sri Lanka requested Russia to provide for energy supplies to country — Russian Embassy",
+      "lead_raw": "The national government would be able to provide for continuous energy supplies during the coming two months only, President of Sri Lanka Anura Kumara Dissanayake said on Thursday",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "f116a261bb7eb99f33743f41284a4c9fd67c8327",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2101201",
+      "published_utc": "2026-03-13T11:54:47Z",
+      "title_en": "US decision to ease sanctions on Russian oil to deepen rift with EU — NYT",
+      "lead_en": "Brussels doesn’t want the economic pressure on Russia to ease",
+      "title_raw": "US decision to ease sanctions on Russian oil to deepen rift with EU — NYT",
+      "lead_raw": "Brussels doesn’t want the economic pressure on Russia to ease",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "1986bd6eed0b639ca5b5386e2a9398d05d630f9f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2101195",
+      "published_utc": "2026-03-13T11:54:01Z",
+      "title_en": "Easing US sanctions against Russian oil to help stabilize markets — Kremlin",
+      "lead_en": "Dmitry Peskov noted that that the interests of Russia and the United States in stabilizing global energy markets coincided",
+      "title_raw": "Easing US sanctions against Russian oil to help stabilize markets — Kremlin",
+      "lead_raw": "Dmitry Peskov noted that that the interests of Russia and the United States in stabilizing global energy markets coincided",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
       ],
       "primary_topic": "energy"
     },
@@ -188,6 +493,27 @@
         "military": 0,
         "energy": 1,
         "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "74224d344fb5d2ca9f3a56c24c1c948b148f6092",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2101147",
+      "published_utc": "2026-03-13T10:35:00Z",
+      "title_en": "Russia, US have similar interests in stabilizing energy markets now — Kremlin",
+      "lead_en": "Dmitry Peskov noted that the Kremlin sees the actions of the American side as an attempt to stabilize energy markets",
+      "title_raw": "Russia, US have similar interests in stabilizing energy markets now — Kremlin",
+      "lead_raw": "Dmitry Peskov noted that the Kremlin sees the actions of the American side as an attempt to stabilize energy markets",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
         "local_events": 0
       },
       "topics": [
@@ -1235,156 +1561,6 @@
         "military": 0,
         "energy": 1,
         "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "121f52d153a8a72e4ea27f30f7af012d7ebe0730",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/26730035",
-      "published_utc": "2026-03-11T21:46:48Z",
-      "title_en": "IIF: Russia's refusal of oil and gas weakened the EU before a price jump due to the war in Iran",
-      "lead_en": "",
-      "title_raw": "IIF: отказ от нефти и газа РФ ослабил ЕС перед скачком цен из-за войны в Иране",
-      "lead_raw": "",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "2759093252b1bdadb975b9924eb90494171ad4ac",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/26729785",
-      "published_utc": "2026-03-11T21:07:06Z",
-      "title_en": "Deputy Altukhov: Kyiv wants to weaken the European energy market with its attacks",
-      "lead_en": "The parliamentarian noted that the Russkaya compressor station, which came under attack, is a key element of the gas infrastructure",
-      "title_raw": "Депутат Алтухов: Киев хочет ослабить рынок энергоносителей Европы своими атаками",
-      "lead_raw": "Парламентарий отметил, что компрессорная станция \"Русская\", попавшая под удар, является ключевым элементом газовой инфраструктуры",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "c1011df204477077d70b3da8b501c75d7062d436",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/26729233",
-      "published_utc": "2026-03-11T20:01:23Z",
-      "title_en": "Russian Ambassador: Germany has no alternatives in case of refusal of Russian energy resources",
-      "lead_en": "Sergei Nechaev noted that Germany is gradually abandoning Russian oil and gas in order to reduce damage to the economy",
-      "title_raw": "Посол России: у Германии нет альтернатив в случае отказа от энергоносителей РФ",
-      "lead_raw": "Сергей Нечаев отметил, что ФРГ отказывается от российских нефти и газа постепенно, чтобы уменьшить ущерб для экономики",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 3,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "633752b3a0ce7ecddb2903091bbf349cdf2313ea",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26729139",
-      "published_utc": "2026-03-11T19:40:04Z",
-      "title_en": "Szijjártó: Ukraine's attack on Turkish Stream means an attack on Hungarian sovereignty",
-      "lead_en": "The head of the Republic's Foreign Ministry noted that he was \"notified of this by one of the Deputy Ministers of Energy of Russia\"",
-      "title_raw": "Сийярто: нападение Украины на \"Турецкий поток\" означает атаку на суверенитет Венгрии",
-      "lead_raw": "Глава МИД республики отметил, что его \"уведомил об этом один из заместителей министра энергетики России\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "673215411d490d307538281d6605bec0d5d6d7f0",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2100195",
-      "published_utc": "2026-03-11T17:46:08Z",
-      "title_en": "Bank of Russia raises dollar exchange rate to 79.07 rubles for March 12",
-      "lead_en": "The official euro exchange rate has been raised by 3.99 kopecks to 91.9378 rubles",
-      "title_raw": "Bank of Russia raises dollar exchange rate to 79.07 rubles for March 12",
-      "lead_raw": "The official euro exchange rate has been raised by 3.99 kopecks to 91.9378 rubles",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e0a971992294cf74c6ae0ae0601dbade8890e53c",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2100193",
-      "published_utc": "2026-03-11T17:45:36Z",
-      "title_en": "G7 leaders not to lift sanctions against Russia despite issues with oil supplies — Marcon",
-      "lead_en": "The French president noted that G7 states are working to mitigate the negative impact of the conflict on global markets",
-      "title_raw": "G7 leaders not to lift sanctions against Russia despite issues with oil supplies — Marcon",
-      "lead_raw": "The French president noted that G7 states are working to mitigate the negative impact of the conflict on global markets",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "6a4586e7b46ec969b51d109855673bc09d26276f",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/03/11/gazprom-says-ukrainian-drones-attacked-turkstream-blue-stream-pipeline-facilities-a92204",
-      "published_utc": "2026-03-11T17:12:23Z",
-      "title_en": "Gazprom Says Ukrainian Drones Attacked TurkStream, Blue Stream Pipeline Facilities",
-      "lead_en": "Gazprom said facilities tied to the pipelines in southern Russia had been targeted 12 times over the past two weeks.",
-      "title_raw": "Gazprom Says Ukrainian Drones Attacked TurkStream, Blue Stream Pipeline Facilities",
-      "lead_raw": "Gazprom said facilities tied to the pipelines in southern Russia had been targeted 12 times over the past two weeks.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
         "local_events": 0
       },
       "topics": [
