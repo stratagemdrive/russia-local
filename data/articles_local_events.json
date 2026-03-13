@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-03-13T11:57:27Z",
+  "updated_at_utc": "2026-03-13T17:05:08Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 13,
   "articles": [
+    {
+      "id": "34e937dfb2a402e97ac06c593999d2d502e47f78",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/26755883",
+      "published_utc": "2026-03-13T16:42:17Z",
+      "title_en": "Civil Code of the Russian Federation: one of the evacuation routes from the Middle East passes through Antalya",
+      "lead_en": "The Russian Consulate General in Antalya has not yet received any requests from Russians arriving from the Gulf countries",
+      "title_raw": "ГК РФ: один из маршрутов эвакуации с Ближнего Востока проходит через Анталью",
+      "lead_raw": "Генконсульство России в Анталье пока не получало обращений от прибывающих из стран Персидского залива россиян",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "9a60f4626059261ae587318eb36e8c13869393da",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/26755309",
+      "published_utc": "2026-03-13T15:31:41Z",
+      "title_en": "The Russian Embassy has not received any requests from those returning from the Gulf countries",
+      "lead_en": "Meanwhile, the diplomatic mission in Ankara “constantly monitors the situation related to the evacuation of Russian citizens from countries involved in the conflict and is in touch with the relevant departments” of Russia",
+      "title_raw": "Посольство РФ не получало обращений от возвращающихся из стран Персидского залива",
+      "lead_raw": "Между тем диппредставительство в Анкаре \"постоянно мониторит ситуацию, связанную с эвакуацией российских граждан из стран, вовлеченных в конфликт, находится на связи с профильными ведомствами\" России",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "bf52b6695a29c2026fb7e39f950dfd2ec32d89ac",
       "source": "TASS (RU)",
@@ -224,50 +264,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "69e6bd689203c2e0f569d5314cf75c4cb25634b6",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/26727521",
-      "published_utc": "2026-03-11T15:59:49Z",
-      "title_en": "Russian Embassy: British intelligence indicated the targets of the attack on Bryansk",
-      "lead_en": "The attack was carried out by British Storm Shadow cruise missiles, the Russian diplomatic mission noted.",
-      "title_raw": "Посольство РФ: британская разведка указывала цели удара по Брянску",
-      "lead_raw": "Атака была совершена британскими крылатыми ракетами Storm Shadow, отметили в российском диппредставительстве",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "4229eba7ac972deceff2d9a7ef7b52d1df7a9998",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/03/11/did-the-mideast-conflict-just-rescue-russias-war-budget-a92187",
-      "published_utc": "2026-03-11T14:52:45Z",
-      "title_en": "Did the Mideast Conflict Just Rescue Russia’s War Budget?",
-      "lead_en": "Despite the surge in Russian oil prices, analysts caution that this boost in revenues is unlikely to fully reverse Russia’s economic woes.",
-      "title_raw": "Did the Mideast Conflict Just Rescue Russia’s War Budget?",
-      "lead_raw": "Despite the surge in Russian oil prices, analysts caution that this boost in revenues is unlikely to fully reverse Russia’s economic woes.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 1
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
