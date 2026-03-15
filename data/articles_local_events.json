@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-03-15T07:57:01Z",
+  "updated_at_utc": "2026-03-15T11:00:52Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 7,
+  "count": 6,
   "articles": [
+    {
+      "id": "2f52b8eae53b946f65ed3168da4d1f81e82fb6af",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/26765531",
+      "published_utc": "2026-03-15T08:18:14Z",
+      "title_en": "A case was opened in the Voronezh region after the death of a woman from a gas explosion",
+      "lead_en": "Investigators and criminologists of the Investigative Committee of Russia are inspecting the scene of the incident with the involvement of specialists and experts",
+      "title_raw": "В Воронежской области завели дело после гибели женщины от взрыва газа",
+      "lead_raw": "Следователи и криминалисты СК России проводят осмотр места происшествия с привлечением специалистов и экспертов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "38884cd13debe78bfbb3760ce92e2ff8d3d204de",
       "source": "TASS (RU)",
@@ -95,46 +116,6 @@
       "lead_en": "CEO Alexey Likhachev lauded the IAEA’s role in elaborating new international agreements",
       "title_raw": "Russia to answer Ukraine’s questions to IAEA chief on ceasefire for ZNPP — Rosatom",
       "lead_raw": "CEO Alexey Likhachev lauded the IAEA’s role in elaborating new international agreements",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "3600de81e7696613ac49b321103bd42006d4ad71",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2101159",
-      "published_utc": "2026-03-13T11:00:19Z",
-      "title_en": "Ten medical workers killed in Ukrainian attack on healthcare facility in DPR",
-      "lead_en": "The Russian Investigative Committee added that 10 people, including nine medical workers, sustained injuries",
-      "title_raw": "Ten medical workers killed in Ukrainian attack on healthcare facility in DPR",
-      "lead_raw": "The Russian Investigative Committee added that 10 people, including nine medical workers, sustained injuries",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "bf52b6695a29c2026fb7e39f950dfd2ec32d89ac",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/26750135",
-      "published_utc": "2026-03-13T09:44:35Z",
-      "title_en": "The Russian Embassy did not receive any requests from Russians after the earthquake in Turkey",
-      "lead_en": "The diplomatic mission is monitoring the development of the situation in Tokat",
-      "title_raw": "Посольство РФ не получало обращений от россиян после землетрясения в Турции",
-      "lead_raw": "Диппредставительство следит за развитием ситуации в Токате",
       "topic_scores": {
         "diplomacy": 1,
         "military": 0,
