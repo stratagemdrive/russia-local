@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-03-16T14:47:44Z",
+  "updated_at_utc": "2026-03-16T21:03:31Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 26,
+  "count": 22,
   "articles": [
+    {
+      "id": "923664c53d9cbd23214a2eda70d228f97198a0af",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/03/16/russians-report-worsening-mental-health-amid-rising-economic-worries-ras-survey-a92240",
+      "published_utc": "2026-03-16T16:56:00Z",
+      "title_en": "Russians Report Worsening Mental Health Amid Rising Economic Worries – RAS Survey",
+      "lead_en": "The findings highlight mounting social strain as Russia’s war in Ukraine enters its fifth year and economic uncertainty persists.",
+      "title_raw": "Russians Report Worsening Mental Health Amid Rising Economic Worries – RAS Survey",
+      "lead_raw": "The findings highlight mounting social strain as Russia’s war in Ukraine enters its fifth year and economic uncertainty persists.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
     {
       "id": "f401726e2d4cf16f18bfa52341b75a9fb2ce80f4",
       "source": "RT",
@@ -429,105 +448,6 @@
         "economy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "bfb1f9a2e51fa27fc38fd41edb843aa6f1de4b94",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/26763483",
-      "published_utc": "2026-03-14T21:02:59Z",
-      "title_en": "E-commerce turnover in Russia has grown 5.5 times in seven years",
-      "lead_en": "In this regard, the number of requests regarding online purchases has tripled, noted Rospotrebnadzor.",
-      "title_raw": "Оборот электронной торговли в России вырос в 5,5 раза за семь лет",
-      "lead_raw": "В связи с этим втрое увеличилось количество обращений, касающихся онлайн-покупок, отметили в Роспотребнадзоре",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "dc1cc7985a991857de3435899414ddbec1acebbf",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26763367",
-      "published_utc": "2026-03-14T20:29:11Z",
-      "title_en": "The EU published the names of two people excluded from anti-Russian sanctions",
-      "lead_en": "The daughter of Transneft President Maya Tokareva and Dutch businessman Niels Troost were excluded from the list",
-      "title_raw": "ЕС опубликовал имена двух человек, исключенных из антироссийских санкций",
-      "lead_raw": "Из списка исключили дочь президента \"Транснефти\" Майю Токареву и нидерландского бизнесмена Нильса Трооста",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "3089e92a3d21651a1cea116793f2b523eca1d27c",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2101637",
-      "published_utc": "2026-03-14T16:22:10Z",
-      "title_en": "EU moves to prolong its Russia blacklist until mid-September",
-      "lead_en": "According to the document, \"In the context of the sanctions' review, the Council also decided not to renew the listings of two individuals and to remove five deceased persons from the list\"",
-      "title_raw": "EU moves to prolong its Russia blacklist until mid-September",
-      "lead_raw": "According to the document, \"In the context of the sanctions' review, the Council also decided not to renew the listings of two individuals and to remove five deceased persons from the list\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "2351d7a9fe533fa7df218bbaaae9c3394b575918",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/26762231",
-      "published_utc": "2026-03-14T16:20:12Z",
-      "title_en": "The Bank of Russia basketball team won the Spartakiad of the Trade Union Club",
-      "lead_en": "The Atomenergosbyt team took second place, representatives of the Ministry of Finance of the Russian Federation took third place.",
-      "title_raw": "Команда Банка России по баскетболу выиграла Спартакиаду Профсоюзного клуба",
-      "lead_raw": "Второе место заняла команда Атомэнергосбыта, третьими стали представители Министерства финансов РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "2e5e6b7962667b0190fb82308acc5d720ca5bac7",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/26762203",
-      "published_utc": "2026-03-14T16:16:18Z",
-      "title_en": "The EU Council excluded two people from the list of sanctions against the Russian Federation",
-      "lead_en": "Their last names are not mentioned",
-      "title_raw": "Совет ЕС исключил двух человек из списка санкций против РФ",
-      "lead_raw": "Их фамилии не называются",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
     }
   ]
 }
