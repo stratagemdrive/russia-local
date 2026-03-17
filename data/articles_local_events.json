@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-03-17T05:14:42Z",
+  "updated_at_utc": "2026-03-17T11:33:10Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 16,
   "articles": [
+    {
+      "id": "339bfebc3cee0c9e63033845564207c5ea93de41",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2102701",
+      "published_utc": "2026-03-17T08:07:43Z",
+      "title_en": "Ukraine attacks Russia’s Belgorod Region with more than 105 UAVs over past day",
+      "lead_en": "According to the regional emergency response center, five people were injured as a result of a drone detonation near a social facility in the city of Korocha",
+      "title_raw": "Ukraine attacks Russia’s Belgorod Region with more than 105 UAVs over past day",
+      "lead_raw": "According to the regional emergency response center, five people were injured as a result of a drone detonation near a social facility in the city of Korocha",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "7283fa0d021502a0622b74a163207f4e3524755b",
       "source": "TASS (EN)",
@@ -293,27 +314,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "2f52b8eae53b946f65ed3168da4d1f81e82fb6af",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/26765531",
-      "published_utc": "2026-03-15T08:18:14Z",
-      "title_en": "A case was opened in the Voronezh region after the death of a woman from a gas explosion",
-      "lead_en": "Investigators and criminologists of the Investigative Committee of Russia are inspecting the scene of the incident with the involvement of specialists and experts",
-      "title_raw": "В Воронежской области завели дело после гибели женщины от взрыва газа",
-      "lead_raw": "Следователи и криминалисты СК России проводят осмотр места происшествия с привлечением специалистов и экспертов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
