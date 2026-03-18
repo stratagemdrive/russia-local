@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-03-18T08:04:51Z",
+  "updated_at_utc": "2026-03-18T15:55:56Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 15,
+  "count": 11,
   "articles": [
+    {
+      "id": "ed2f2660f4c62c0d75c60be48039c83bdb04f728",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/26808413",
+      "published_utc": "2026-03-18T15:14:54Z",
+      "title_en": "In Denmark, a Russian was sentenced to eight years in prison for possession of explosives",
+      "lead_en": "The man was suspected of “manufacturing, storing and transporting, under particularly aggravating circumstances, about 1,000 grams of explosives,” which he himself handed over to the Billund Airport Police Department in April 2025",
+      "title_raw": "В Дании россиянина приговорили к восьми годам тюрьмы за хранение взрывчатки",
+      "lead_raw": "Мужчину подозревали в \"изготовлении, хранении и транспортировке при особо отягчающих обстоятельствах около 1 000 граммов взрывчатых веществ\", которые тот сам сдал в отдел полиции аэропорта Биллунна в апреле 2025 года",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "501f0f6afaabe5c8f30bee9ef80bcf9a48cd570d",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/03/18/wake-up-already-internet-disruptions-and-telegram-outages-fuel-growing-anger-among-russian-users",
+      "published_utc": "2026-03-18T12:32:28Z",
+      "title_en": "‘Wake up already’: Internet disruptions and Telegram outages fuel growing anger among Russian users",
+      "lead_en": "The Russian authorities appears to be blocking or throttling Telegram. According to the head of the Internet Protection Society, by the evening of March 16 the messenger’s availability had dropped to 75 percent, which means that one in four messages fails to reach its recipient.",
+      "title_raw": "‘Wake up already’: Internet disruptions and Telegram outages fuel growing anger among Russian users",
+      "lead_raw": "The Russian authorities appears to be blocking or throttling Telegram. According to the head of the Internet Protection Society, by the evening of March 16 the messenger’s availability had dropped to 75 percent, which means that one in four messages fails to reach its recipient.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "21986e1f960466520c9deab560387a305f4da20b",
       "source": "TASS (RU)",
@@ -175,125 +215,6 @@
       "lead_en": "Four children are among the injured",
       "title_raw": "Five injured in UAV attack on Russia’s Belgorod Region",
       "lead_raw": "Four children are among the injured",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "f97fbb2cb6f843eddddd990374b9a25187aee33a",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2102381",
-      "published_utc": "2026-03-16T15:11:39Z",
-      "title_en": "Surrendered Ukrainian troops make two to three motorized rifle divisions — Russian MP",
-      "lead_en": "The number of Kiev troops killed and wounded stands at more than 1.5 million, retired Major General Leonid Ivlev said",
-      "title_raw": "Surrendered Ukrainian troops make two to three motorized rifle divisions — Russian MP",
-      "lead_raw": "The number of Kiev troops killed and wounded stands at more than 1.5 million, retired Major General Leonid Ivlev said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "beae146216de230ca3341c8fc41f4f0dde9c4993",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/03/16/telegram-outages-reported-across-russia-as-block-rumors-swirl-a92233",
-      "published_utc": "2026-03-16T13:40:00Z",
-      "title_en": "Telegram Outages Reported Across Russia as Block Rumors Swirl",
-      "lead_en": "People in regions throughout the country say they can no longer open the messaging app without a VPN.",
-      "title_raw": "Telegram Outages Reported Across Russia as Block Rumors Swirl",
-      "lead_raw": "People in regions throughout the country say they can no longer open the messaging app without a VPN.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "577b53f45fd5f3c195f3fc83800af835ad4e18d3",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/03/16/a-russian-soccer-player-murdered-a-woman-after-phone-scammers-tricked-him-into-robbing-her-and-tricked-her-daughter-into-letting-him-in",
-      "published_utc": "2026-03-16T11:59:56Z",
-      "title_en": "A Russian soccer player murdered a woman after phone scammers tricked him into robbing her — and tricked her daughter into letting him in.",
-      "lead_en": "A Moscow woman was killed last week by a man allegedly manipulated by phone scammers into believing he was carrying out a police operation",
-      "title_raw": "A Russian soccer player murdered a woman after phone scammers tricked him into robbing her — and tricked her daughter into letting him in.",
-      "lead_raw": "A Moscow woman was killed last week by a man allegedly manipulated by phone scammers into believing he was carrying out a police operation",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "35f648ea8b8fbf8ddb3050a9e64841ffb8d5088c",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2102125",
-      "published_utc": "2026-03-16T10:11:03Z",
-      "title_en": "Ukraine fires artillery weapons 41 times on Russia’s Kursk Region in past day",
-      "lead_en": "Governor Alexander Khinshtein said that three people were injured in the attacks in the Korenevo settlement",
-      "title_raw": "Ukraine fires artillery weapons 41 times on Russia’s Kursk Region in past day",
-      "lead_raw": "Governor Alexander Khinshtein said that three people were injured in the attacks in the Korenevo settlement",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "de0a8005ba3087c2743bc7879d01ccfc9e7706fa",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/03/16/russia-s-long-anticipated-block-of-messenger-app-telegram-has-begun-experts-say",
-      "published_utc": "2026-03-16T09:48:03Z",
-      "title_en": "Russia’s long-anticipated block of messenger app Telegram has begun, experts say",
-      "lead_en": "Russia’s most popular messaging app, Telegram, has largely stopped working inside the country, according to user reports on outage-tracking websites.",
-      "title_raw": "Russia’s long-anticipated block of messenger app Telegram has begun, experts say",
-      "lead_raw": "Russia’s most popular messaging app, Telegram, has largely stopped working inside the country, according to user reports on outage-tracking websites.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "09d6b0a90ac442ccc253e8ce429e4b8d615ccada",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2102073",
-      "published_utc": "2026-03-16T09:24:00Z",
-      "title_en": "Ukraine attacks Russia’s Belgorod Region with more than 50 drones in past 24 hours",
-      "lead_en": "The regional government reported that a man was injured as a result of a drone detonation in the village of Moshchenoye",
-      "title_raw": "Ukraine attacks Russia’s Belgorod Region with more than 50 drones in past 24 hours",
-      "lead_raw": "The regional government reported that a man was injured as a result of a drone detonation in the village of Moshchenoye",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
