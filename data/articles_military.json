@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-03-20T07:58:54Z",
+  "updated_at_utc": "2026-03-20T11:57:41Z",
   "keep_hours": 48,
   "topic": "military",
-  "count": 46,
+  "count": 44,
   "articles": [
+    {
+      "id": "84e58de1bf7d6c2eed18ee95304872390983d0ce",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/26832279",
+      "published_utc": "2026-03-20T11:12:15Z",
+      "title_en": "29 Ukrainian drones were intercepted over Russian regions in three hours",
+      "lead_en": "Air defense systems operated from 11:00 to 14:00 Moscow time",
+      "title_raw": "Над регионами России за три часа перехватили 29 украинских беспилотников",
+      "lead_raw": "Средства ПВО работали с 11:00 до 14:00 мск",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "7a7948c868e958849c5efa088b9ac26b349707b4",
       "source": "TASS (RU)",
@@ -907,70 +928,6 @@
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "4446fbe7681692102f1252e59db6716f16f8dd82",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2103385",
-      "published_utc": "2026-03-18T11:51:03Z",
-      "title_en": "IAEA response to Bushehr NPP incident disproportionate — Russia’s envoy",
-      "lead_en": "According to Mikhail Ulyanov, the missile exploded 200 meters from an operational nuclear reactor",
-      "title_raw": "IAEA response to Bushehr NPP incident disproportionate — Russia’s envoy",
-      "lead_raw": "According to Mikhail Ulyanov, the missile exploded 200 meters from an operational nuclear reactor",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "e78bf2e55fa20bc6b62904e8cbf6151470e652fd",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2103383",
-      "published_utc": "2026-03-18T11:39:29Z",
-      "title_en": "Aquatic bioresource catch in Russia exceeds 1 mln tons since start of 2026",
-      "lead_en": "In the exclusive economic zones of foreign states, convention areas and the open part of the World Ocean, the Russian fishing fleet harvested about 45,500 tons",
-      "title_raw": "Aquatic bioresource catch in Russia exceeds 1 mln tons since start of 2026",
-      "lead_raw": "In the exclusive economic zones of foreign states, convention areas and the open part of the World Ocean, the Russian fishing fleet harvested about 45,500 tons",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "7f75735b07bca28ba0361d1bd5ca9e3f0efdc453",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2103299",
-      "published_utc": "2026-03-18T09:36:13Z",
-      "title_en": "Russian Pacific Fleet's submarine completes deep-sea dive in Japanese waters",
-      "lead_en": "The event was conducted as part of scheduled combat training",
-      "title_raw": "Russian Pacific Fleet's submarine completes deep-sea dive in Japanese waters",
-      "lead_raw": "The event was conducted as part of scheduled combat training",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
         "energy": 0,
         "economy": 0,
         "local_events": 0
