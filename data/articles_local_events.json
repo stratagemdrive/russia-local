@@ -1,9 +1,68 @@
 {
-  "updated_at_utc": "2026-03-20T23:00:25Z",
+  "updated_at_utc": "2026-03-21T07:10:19Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 10,
+  "count": 11,
   "articles": [
+    {
+      "id": "93d9ecf659f651781ca912f131a4358f2ccf1a8d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/26840065",
+      "published_utc": "2026-03-21T06:12:26Z",
+      "title_en": "The drone threat regime has been lifted in the Ulyanovsk region",
+      "lead_en": "This is reported in the application of the Ministry of Emergency Situations of Russia",
+      "title_raw": "В Ульяновской области сняли режим беспилотной опасности",
+      "lead_raw": "Об этом сообщается в приложении МЧС России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "6961d2ec4b3321e692c30839b35b5248e8fec59d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/26839885",
+      "published_utc": "2026-03-21T05:42:16Z",
+      "title_en": "Fighter Doc: Russian troops use the Impulse-M platform for evacuation and delivery",
+      "lead_en": "The load capacity of this machine is 500 kg",
+      "title_raw": "Боец Док: войска РФ используют платформу \"Импульс-М\" для эвакуации и доставки",
+      "lead_raw": "Грузоподъемность такой машины составляет 500 кг",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "9badeef1e13ef77d4b4f21d1b11b712834e2c227",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/26839569",
+      "published_utc": "2026-03-21T04:13:02Z",
+      "title_en": "In most of the south of the Russian Federation, the start of the fire season has been delayed due to weather.",
+      "lead_en": "In Kuban in 2026, the fire danger period began 1.5 weeks later than 2025",
+      "title_raw": "На большей части юга РФ из-за погоды сдвинулось начало пожароопасного сезона",
+      "lead_raw": "На Кубани в 2026 году период пожарной опасности начался на 1,5 недели позже 2025 года",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "72b24f3656ece2239b930bf12693a634de2142f8",
       "source": "RT",
@@ -159,44 +218,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "198208001a2fe7c786335e13748928c3175d4305",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/26813747",
-      "published_utc": "2026-03-19T04:46:50Z",
-      "title_en": "Unmanned danger declared in Tatarstan",
-      "lead_en": "This was reported in the application of the Ministry of Emergency Situations of Russia",
-      "title_raw": "В Татарстане объявили беспилотную опасность",
-      "lead_raw": "Об этом сообщили в приложении МЧС России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "7164a5a681ea1f87d1df74f4c855ec1dee185273",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/26813475",
-      "published_utc": "2026-03-19T03:59:07Z",
-      "title_en": "In the Ulyanovsk region and Tatarstan, the unmanned threat was canceled",
-      "lead_en": "This was reported in the application of the Ministry of Emergency Situations of Russia",
-      "title_raw": "В Ульяновской области и Татарстане отменили беспилотную опасность",
-      "lead_raw": "Об этом сообщили в приложении МЧС России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
