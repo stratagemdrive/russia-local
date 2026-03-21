@@ -1,9 +1,72 @@
 {
-  "updated_at_utc": "2026-03-21T13:54:19Z",
+  "updated_at_utc": "2026-03-21T15:51:30Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 12,
+  "count": 13,
   "articles": [
+    {
+      "id": "b6033b123f44a69e04c6d861e72a7b1e443e2595",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2105145",
+      "published_utc": "2026-03-21T13:45:51Z",
+      "title_en": "Ukrainian strike kills two people, leaves one injured in Russia’s Belgorod Region",
+      "lead_en": "According to the regional governor, the attack destroyed the social facility and a nearby commercial site",
+      "title_raw": "Ukrainian strike kills two people, leaves one injured in Russia’s Belgorod Region",
+      "lead_raw": "According to the regional governor, the attack destroyed the social facility and a nearby commercial site",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "d33a2ed45b2fd35e0920463490eaff46cdccc2d2",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2105139",
+      "published_utc": "2026-03-21T13:19:00Z",
+      "title_en": "Four injured in fuel tanker accident in Russia’s Rostov Region hospitalized",
+      "lead_en": "The regional Emergencies Ministry press service earlier reported that three people died and four were injured when a fuel tanker collided with four passenger cars on the R-280 highway in the Rostov region’s Neklinovsky district",
+      "title_raw": "Four injured in fuel tanker accident in Russia’s Rostov Region hospitalized",
+      "lead_raw": "The regional Emergencies Ministry press service earlier reported that three people died and four were injured when a fuel tanker collided with four passenger cars on the R-280 highway in the Rostov region’s Neklinovsky district",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "9aa07d1a2a5dfa2cc289727c43a41813357e1a8b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2105133",
+      "published_utc": "2026-03-21T12:08:47Z",
+      "title_en": "At least 3 dead, 4 injured in collision between fuel tanker, 4 cars in Russia",
+      "lead_en": "The tanker caught fire over an area of 200 square meters",
+      "title_raw": "At least 3 dead, 4 injured in collision between fuel tanker, 4 cars in Russia",
+      "lead_raw": "The tanker caught fire over an area of 200 square meters",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "1310db0b252ba1d1f3f81a1b6d63c29be68e0990",
       "source": "TASS (RU)",
@@ -186,46 +249,6 @@
       "lead_en": "Gladkov said he had raised the issue of regular mobile internet outages in recent meetings with federal authorities in Moscow.",
       "title_raw": "Internet Outages Costing Russian Lives, Belgorod Governor Warns",
       "lead_raw": "Gladkov said he had raised the issue of regular mobile internet outages in recent meetings with federal authorities in Moscow.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "e9f804235b2f033bff706262aba158c0cb5f39b5",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/society/2104229",
-      "published_utc": "2026-03-19T14:57:16Z",
-      "title_en": "Russia doesn't need ceasefire so that West can rearm Kiev, restart war — diplomat",
-      "lead_en": "\"The Kiev junta is digging in its heels, obviously with the support of the Europeans,\" Georgy Muradov said",
-      "title_raw": "Russia doesn't need ceasefire so that West can rearm Kiev, restart war — diplomat",
-      "lead_raw": "\"The Kiev junta is digging in its heels, obviously with the support of the Europeans,\" Georgy Muradov said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "e0c6086db061983e3186862d0ffdd3ff98ed1bb5",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/03/19/rt-crew-narrowly-escapes-israeli-strike-in-lebanon-during-live-broadcast-a92269",
-      "published_utc": "2026-03-19T14:27:12Z",
-      "title_en": "RT Crew Narrowly Escapes Israeli Strike in Lebanon During Live Broadcast",
-      "lead_en": "Russia’s Foreign Ministry claimed the strike was “not accidental” and called for an international response to the incident.",
-      "title_raw": "RT Crew Narrowly Escapes Israeli Strike in Lebanon During Live Broadcast",
-      "lead_raw": "Russia’s Foreign Ministry claimed the strike was “not accidental” and called for an international response to the incident.",
       "topic_scores": {
         "diplomacy": 1,
         "military": 0,

@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-03-21T13:54:19Z",
+  "updated_at_utc": "2026-03-21T15:51:30Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 38,
+  "count": 39,
   "articles": [
+    {
+      "id": "d33a2ed45b2fd35e0920463490eaff46cdccc2d2",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2105139",
+      "published_utc": "2026-03-21T13:19:00Z",
+      "title_en": "Four injured in fuel tanker accident in Russia’s Rostov Region hospitalized",
+      "lead_en": "The regional Emergencies Ministry press service earlier reported that three people died and four were injured when a fuel tanker collided with four passenger cars on the R-280 highway in the Rostov region’s Neklinovsky district",
+      "title_raw": "Four injured in fuel tanker accident in Russia’s Rostov Region hospitalized",
+      "lead_raw": "The regional Emergencies Ministry press service earlier reported that three people died and four were injured when a fuel tanker collided with four passenger cars on the R-280 highway in the Rostov region’s Neklinovsky district",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "c8b93bf2eeaeafb33e2b756b6d6353e9b31388f8",
       "source": "TASS (RU)",
@@ -46,6 +68,50 @@
         "energy"
       ],
       "primary_topic": "energy"
+    },
+    {
+      "id": "9aa07d1a2a5dfa2cc289727c43a41813357e1a8b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2105133",
+      "published_utc": "2026-03-21T12:08:47Z",
+      "title_en": "At least 3 dead, 4 injured in collision between fuel tanker, 4 cars in Russia",
+      "lead_en": "The tanker caught fire over an area of 200 square meters",
+      "title_raw": "At least 3 dead, 4 injured in collision between fuel tanker, 4 cars in Russia",
+      "lead_raw": "The tanker caught fire over an area of 200 square meters",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "d17071296f2eb3ce4545fd7a0084dcb82fd60eeb",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2105121",
+      "published_utc": "2026-03-21T10:24:15Z",
+      "title_en": "Russian air defense forces down 668 Ukrainian drones over past day",
+      "lead_en": "According to the ministry, the Russian military also downed 9 guided aerial bombs and struck Ukrainian energy and transport infrastructure used by the Ukrainian armed forces, hitting UAV control points and temporary deployment points of Ukrainian formations and foreign mercenarie",
+      "title_raw": "Russian air defense forces down 668 Ukrainian drones over past day",
+      "lead_raw": "According to the ministry, the Russian military also downed 9 guided aerial bombs and struck Ukrainian energy and transport infrastructure used by the Ukrainian armed forces, hitting UAV control points and temporary deployment points of Ukrainian formations and foreign mercenarie",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 4,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
     },
     {
       "id": "edd9c9f747c9e10869570cb059f7cf7350246590",
@@ -771,49 +837,6 @@
         "local_events": 0
       },
       "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e20f3db60fe8221f142e73615643102cd3016694",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2104207",
-      "published_utc": "2026-03-19T14:30:28Z",
-      "title_en": "India’s pragmatism in energy provides opportunity to expand cooperation with Russia",
-      "lead_en": "In the future, Moscow and New Delhi \"need to focus not only on commodity or finished goods trading, but also on the joint development of new products, new equipment, and technologies,\" Russia’s First Deputy Energy Minister Pavel Sorokin said",
-      "title_raw": "India’s pragmatism in energy provides opportunity to expand cooperation with Russia",
-      "lead_raw": "In the future, Moscow and New Delhi \"need to focus not only on commodity or finished goods trading, but also on the joint development of new products, new equipment, and technologies,\" Russia’s First Deputy Energy Minister Pavel Sorokin said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "d8070111b8b9023a03069b152deee2a8d6a36eb6",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2104191",
-      "published_utc": "2026-03-19T14:15:25Z",
-      "title_en": "India to buy liquefied petroleum gas from Russia if possible — MFA",
-      "lead_en": "India wants \"to have a wide range of options,\" Randhir Jaiswal noted",
-      "title_raw": "India to buy liquefied petroleum gas from Russia if possible — MFA",
-      "lead_raw": "India wants \"to have a wide range of options,\" Randhir Jaiswal noted",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
         "energy"
       ],
       "primary_topic": "energy"
