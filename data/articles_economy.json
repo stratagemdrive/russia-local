@@ -1,9 +1,73 @@
 {
-  "updated_at_utc": "2026-03-22T14:57:39Z",
+  "updated_at_utc": "2026-03-22T16:59:53Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 33,
+  "count": 19,
   "articles": [
+    {
+      "id": "d444052ce6b21d8092320b4e7ea12a2ab3241120",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/26847077",
+      "published_utc": "2026-03-22T16:39:32Z",
+      "title_en": "The United States believes that Russia's profits from easing sanctions against oil will not exceed $2 billion",
+      "lead_en": "This is one day of the Russian budget, noted US Treasury Secretary Scott Bessent",
+      "title_raw": "США считают, что прибыль РФ от смягчения санкций против нефти не превысит $2 млрд",
+      "lead_raw": "это один день бюджета России, отметил американский министр финансов Скотт Бессент",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "4f5fd3981deea0bdf267ccb4ffac4603f2b682be",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/26847093",
+      "published_utc": "2026-03-22T16:37:45Z",
+      "title_en": "\"Strana\" predicts a pivot of the EU towards Russia",
+      "lead_en": "Rising energy prices and the cost of producing fertilizers and helium in the Middle East will reduce demand in different regions of the world and hit economic growth on a global scale, the publication notes.",
+      "title_raw": "\"Страна\" прогнозирует разворот ЕС в сторону России",
+      "lead_raw": "Повышение цен на энергоресурсы и себестоимости производства удобрений и гелия на Ближнем Востоке сократит спрос в разных регионах мира и нанесет удар по экономическому росту в глобальном масштабе, отмечает издание",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "51eeb2b3a2b12d22ffd565686de9d4a54e17d968",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26846831",
+      "published_utc": "2026-03-22T15:21:32Z",
+      "title_en": "AfD leader: the conflict in Ukraine must end through diplomacy",
+      "lead_en": "Anti-Russian sanctions only harm Europe, says Alice Weidel, co-chairman of the Alternative for Germany party.",
+      "title_raw": "Лидер АдГ: конфликт на Украине должен завершиться путем дипломатии",
+      "lead_raw": "Европе лишь вредят антироссийские санкции, считает сопредседатель партии \"Альтернатива для Германии\" Алис Вайдель",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "299411eedb8b364a14754a2e97b3beecf39ad22b",
       "source": "TASS (RU)",
@@ -111,7 +175,7 @@
       "url": "https://tass.ru/politika/26841891",
       "published_utc": "2026-03-21T12:43:34Z",
       "title_en": "Lavrov: The United States welcomes Russia’s marginalization in energy markets",
-      "lead_en": "The head of the Russian Foreign Ministry noted that Washington openly shows its desire to dominate the whole world and all regions",
+      "lead_en": "The head of the Russian Foreign Ministry noted that Washington openly shows its desire to dominate the whole world and in all regions",
       "title_raw": "Лавров: США приветствуют маргинализацию России на энергорынках",
       "lead_raw": "Глваа МИД РФ отметил, что Вашингтон открыто показывает желание доминировать во всем мире и во всех регионах",
       "topic_scores": {
@@ -329,355 +393,6 @@
         "local_events": 0
       },
       "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "8469a6d34878b3b740e0d161b0b21306d9a14526",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/26836763",
-      "published_utc": "2026-03-20T16:48:08Z",
-      "title_en": "The Russian stock market closed with mixed dynamics",
-      "lead_en": "The yuan exchange rate dropped to 12.019 rubles",
-      "title_raw": "Российский рынок акций закрылся разнонаправленной динамикой",
-      "lead_raw": "Курс юаня снизился до 12,019 рубля",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "0a6e98255a42e80c9290e0e94577e4fccbb4cf02",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/26836637",
-      "published_utc": "2026-03-20T16:47:25Z",
-      "title_en": "Central Bank: the capital adequacy of Russian banks in the stress scenario will decrease by 2.6 percentage points.",
-      "lead_en": "The bottom-up method is a stress test implemented by financial institutions themselves using internal data and models, but with the same scenario determined by the regulator",
-      "title_raw": "ЦБ: достаточность капитала банков РФ в стресс-сценарии снизится на 2,6 п.п.",
-      "lead_raw": "Метод bottom-up - стресс-тест, реализуемый самими финансовыми институтами с использованием внутренних данных и моделей, но с одинаковым сценарием, определяемым регулятором",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "08f2538b5efeb4e7974e653a4e6846933725b93a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/26836735",
-      "published_utc": "2026-03-20T16:45:06Z",
-      "title_en": "The average monthly income of a Bank of Russia employee increased to 264.6 thousand rubles",
-      "lead_en": "Income increased by 14% compared to 2024",
-      "title_raw": "Среднемесячный доход служащего Банка России вырос до 264,6 тыс. рублей",
-      "lead_raw": "Доход увеличился в сравнении с 2024 годом на 14%",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "b33dbbae0fe6e7f0b53b3006ef095308386c2388",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/26836785",
-      "published_utc": "2026-03-20T16:15:24Z",
-      "title_en": "The largest server control panels decided to leave the Russian Federation from the end of March",
-      "lead_en": "A TASS source on the market noted that similar restrictions apply to Belarusian clients",
-      "title_raw": "Крупнейшие панели управления серверами решили уйти из РФ с конца марта",
-      "lead_raw": "Источник ТАСС на рынке отметил, что аналогичные ограничения применены и к белорусским клиентам",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "e9cbdc490dae3c4f85eee97a02c85b25af6b6168",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26836749",
-      "published_utc": "2026-03-20T16:13:47Z",
-      "title_en": "Switzerland removed seven people from the list of sanctions against Russia",
-      "lead_en": "Their identities are not revealed",
-      "title_raw": "Швейцария исключила семь человек из списка санкций против России",
-      "lead_raw": "Их личности не раскрываются",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "2e6a56634949f2d4b12ee05b50c90dda54fc2ffa",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/26836577",
-      "published_utc": "2026-03-20T15:57:44Z",
-      "title_en": "18.3 billion transactions were carried out through SBP in 2025",
-      "lead_en": "The total amount amounted to 103 trillion rubles, according to the annual report of the Bank of Russia",
-      "title_raw": "Через СБП в 2025 году провели 18,3 млрд операций",
-      "lead_raw": "Общая сумма составила 103 трлн рублей, говорится в годовом отчете Банка России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "39c66d150384950d2d80a146befcf10200e16afb",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26836451",
-      "published_utc": "2026-03-20T15:47:39Z",
-      "title_en": "Lukashenko approved a draft agreement with the Russian Federation on the exchange of mutual trade statistics",
-      "lead_en": "The National Statistical Committee is authorized to conduct negotiations on the draft agreement and sign it",
-      "title_raw": "Лукашенко одобрил проект договора с РФ об обмене статистикой взаимной торговли",
-      "lead_raw": "На проведение переговоров по проекту договора и его подписание уполномочен Национальный статистический комитет",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "f4ad59782153277b2c8f5655a4ff8423cf702230",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2104925",
-      "published_utc": "2026-03-20T15:46:50Z",
-      "title_en": "Russia and Serbia preparing five-year economic cooperation program — ministry",
-      "lead_en": "The comprehensive document will cover all areas of interaction",
-      "title_raw": "Russia and Serbia preparing five-year economic cooperation program — ministry",
-      "lead_raw": "The comprehensive document will cover all areas of interaction",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "2fb2b98d5e081b81e071e973f8fbb0809b0610fd",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/26836429",
-      "published_utc": "2026-03-20T15:44:49Z",
-      "title_en": "Russian banks in 2025 have reduced the share of loans to people with high debt loads",
-      "lead_en": "Lenders have begun to switch to more accurate methods of assessing borrowers’ income when calculating their debt burden, the Central Bank indicated",
-      "title_raw": "Банки РФ в 2025 году сократили долю кредитов людям с высокой долговой нагрузкой",
-      "lead_raw": "Кредиторы начали переходить на более точные способы оценки доходов заемщиков при расчете их долговой нагрузки, указали в ЦБ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "bf21627723ab6d4a4f2a79f24ac8ac605297f781",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2104923",
-      "published_utc": "2026-03-20T15:38:29Z",
-      "title_en": "Vucic discuss energy security risks with Russian economy minister",
-      "lead_en": "The situation evolved requires \"agreements clearly determined and resilient in the long run to maintain energy stability of the country, the Serbian president noted",
-      "title_raw": "Vucic discuss energy security risks with Russian economy minister",
-      "lead_raw": "The situation evolved requires \"agreements clearly determined and resilient in the long run to maintain energy stability of the country, the Serbian president noted",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "7e62c82022c7b4ed9cbfc9482f0b38b5869a4d7e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/26836197",
-      "published_utc": "2026-03-20T15:27:10Z",
-      "title_en": "By the end of 2025, the Central Bank recorded about 100 thousand transactions with the digital ruble",
-      "lead_en": "The Bank of Russia also announced that it continued to interact with foreign financial market regulators on the issue of cross-border settlements using digital currencies of central banks",
-      "title_raw": "ЦБ к концу 2025 года зафиксировал около 100 тыс. операций с цифровым рублем",
-      "lead_raw": "Банк России также сообщил, что продолжил взаимодействие с иностранными регуляторами финансового рынка по вопросу проведения трансграничных расчетов с использованием цифровых валют центральных банков",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "faf52b92e26ee393c1f4cbd6083d5fc6f0da3cf0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/26836127",
-      "published_utc": "2026-03-20T15:23:24Z",
-      "title_en": "The volume of transactions through the Central Bank payment system exceeded 4.8 quadrillion rubles in 2025",
-      "lead_en": "In the total volume of transactions, 89.3% were transfers using the urgent transfer service, the Bank of Russia indicated",
-      "title_raw": "Объем операций через платежную систему ЦБ превысил 4,8 квадрлн рублей в 2025 году",
-      "lead_raw": "В общем объеме операций 89,3% заняли переводы с использованием сервиса срочного перевода, указали в Банке России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "498f0abe5962582bd04e3e44d17d516e509098d1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/26836107",
-      "published_utc": "2026-03-20T15:21:21Z",
-      "title_en": "Central Bank: in 2025, the digital financial market managed to attract 1.7 trillion rubles",
-      "lead_en": "The total volume of attractions over the four years of the market’s existence exceeded 2.3 trillion rubles, the Bank of Russia reported",
-      "title_raw": "ЦБ: в 2025 году на рынок ЦФА удалось привлечь 1,7 трлн рублей",
-      "lead_raw": "Суммарный объем привлечения за четыре года существования рынка превысил 2,3 трлн рублей, сообщили в Банке России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "9f22ee849be445fe84a2f35259f6a341b8dff08a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/26836101",
-      "published_utc": "2026-03-20T15:20:42Z",
-      "title_en": "The Central Bank's loss for 2025 amounted to 184.8 billion rubles",
-      "lead_en": "Bank of Russia revenues amounted to 942 billion rubles against expenses of 1.12 trillion rubles, the regulator reported",
-      "title_raw": "Убыток ЦБ за 2025 год составил 184,8 млрд рублей",
-      "lead_raw": "Доходы Банка России составили 942 млрд рублей против расходов в 1,12 трлн рублей, сообщил регулятор",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "eff795ada0931e5ee5728c3a57946907de5f8212",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/26836093",
-      "published_utc": "2026-03-20T15:20:17Z",
-      "title_en": "In 2025, the total portfolio of retail investors grew by 1.9 trillion rubles",
-      "lead_en": "The main volume of transactions accounted for qualified investors, noted the Bank of Russia",
-      "title_raw": "В 2025 году совокупный портфель розничных инвесторов вырос на 1,9 трлн рублей",
-      "lead_raw": "Основной объем сделок приходился на квалифицированных инвесторов, отметили в Банке России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "fc3cce1fe406efb67df532d572345ef3b210bd36",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/26836079",
-      "published_utc": "2026-03-20T15:19:13Z",
-      "title_en": "The Central Bank called the main task to draw a line under the period of high inflation",
-      "lead_en": "This is a tangible contribution of the regulator to the growth of real incomes of citizens and to the ability of businesses to develop, said the head of the Bank of Russia, Elvira Nabiullina.",
-      "title_raw": "В ЦБ назвали главной задачей подведение черты под периодом высокой инфляции",
-      "lead_raw": "Это осязаемый вклад регулятора в рост реальных доходов граждан и в возможности бизнеса развиваться, заявила глава Банка России Эльвира Набиуллина",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "5add75bcae34ac9e8055ca5aeff7f0df0dfd2175",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/26836063",
-      "published_utc": "2026-03-20T15:17:07Z",
-      "title_en": "The Central Bank submitted its annual report for 2025 to the State Duma",
-      "lead_en": "The report provides information on the activities of the Bank of Russia and an analysis of the state of the economy",
-      "title_raw": "ЦБ представил в Госдуму годовой отчет за 2025 год",
-      "lead_raw": "В отчете представлены информация о деятельности Банка России и анализ состояния экономики",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
       "primary_topic": "economy"
     }
   ]
