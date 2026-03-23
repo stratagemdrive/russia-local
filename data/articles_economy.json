@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-03-23T15:40:30Z",
+  "updated_at_utc": "2026-03-23T20:57:53Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 20,
+  "count": 21,
   "articles": [
+    {
+      "id": "13b82c8257bb9384cfdb3ace0d8ebf56b326e08f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26859523",
+      "published_utc": "2026-03-23T18:32:14Z",
+      "title_en": "Socialists propose to discuss the lifting of anti-Russian sanctions in the Bulgarian parliament",
+      "lead_en": "According to coalition candidate Valery Zhablyanov, “Bulgaria does not have the ability to finance the European Union’s war in Ukraine.”",
+      "title_raw": "Социалисты предлагают обсудить в парламенте Болгарии отмену антироссийских санкций",
+      "lead_raw": "По мнению кандидата в депутаты от коалиции Валерия Жаблянова, \"Болгария не имеет возможности финансировать войну Европейского союза на Украине\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "a0a12acc4f8617ce0ce2363e783517fc74a05c06",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/26859631",
+      "published_utc": "2026-03-23T17:52:40Z",
+      "title_en": "The Russian stock market closed with multidirectional changes in stock indices",
+      "lead_en": "The yuan exchange rate dropped to 11.91 rubles",
+      "title_raw": "Российский рынок акций закрылся разнонаправленным изменением биржевых индексов",
+      "lead_raw": "Курс юаня снизился до 11,91 рубля",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "396b6b907541d31e421198f4e05b22e25c3ee872",
       "source": "TASS (EN)",
@@ -391,28 +431,6 @@
       },
       "topics": [],
       "primary_topic": "economy"
-    },
-    {
-      "id": "c214389135c6c19ed3b4991d0844e7010e1bc1b1",
-      "source": "RT",
-      "url": "https://www.rt.com/news/635748-how-far-could-gulf-conflict-spread/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "published_utc": "2026-03-21T18:20:28Z",
-      "title_en": "How far could the Gulf conflict spread? A Kremlin aide has a warning",
-      "lead_en": "Russia’s Nikolay Patrushev says the Strait of Hormuz disruption signals a deeper shift in energy markets, and maritime security systems. Read Full Article at RT.com",
-      "title_raw": "How far could the Gulf conflict spread? A Kremlin aide has a warning",
-      "lead_raw": "Russia’s Nikolay Patrushev says the Strait of Hormuz disruption signals a deeper shift in energy markets, and maritime security systems. Read Full Article at RT.com",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
