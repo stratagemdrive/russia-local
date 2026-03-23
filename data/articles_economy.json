@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-03-23T08:39:00Z",
+  "updated_at_utc": "2026-03-23T11:33:30Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 16,
+  "count": 15,
   "articles": [
+    {
+      "id": "e16d63e70200fe0c467686842f31249837b4b21a",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/03/23/ukraine-strikes-primorsk-port-in-northwestern-russia-damaging-fuel-reservoirs-a92302",
+      "published_utc": "2026-03-23T09:44:00Z",
+      "title_en": "Ukraine Strikes Primorsk Port in Northwestern Russia, Damaging Fuel Reservoirs",
+      "lead_en": "Industry sources told Reuters that Primorsk port, one of Russia’s largest oil export hubs, had suspended operations on Monday.",
+      "title_raw": "Ukraine Strikes Primorsk Port in Northwestern Russia, Damaging Fuel Reservoirs",
+      "lead_raw": "Industry sources told Reuters that Primorsk port, one of Russia’s largest oil export hubs, had suspended operations on Monday.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "ded49b965d3d96eb018a7939a86a80ba0cd5ee06",
       "source": "TASS (RU)",
@@ -293,47 +314,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "595053dbee45459dba1387f8b3eec57f79fec126",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/26841481",
-      "published_utc": "2026-03-21T11:19:33Z",
-      "title_en": "Expert Firstov: Russian manufacturers provide 80% of the country’s elevator market",
-      "lead_en": "At the same time, the Chinese production of elevators is larger than the Russian one, noted the financial director of the Shcherbinsky Elevator Plant",
-      "title_raw": "Эксперт Фирстов: российские производители обеспечивают 80% рынка лифтов в стране",
-      "lead_raw": "При этом китайское производство лифтов больше российского, отметил финансовый директор Щербинского лифтостроительного завода",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "edd9c9f747c9e10869570cb059f7cf7350246590",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/26841019",
-      "published_utc": "2026-03-21T09:46:30Z",
-      "title_en": "Zakharova: Germany is leading its people “to the edge of the abyss” by refusing energy resources to the Russian Federation",
-      "lead_en": "An official representative of the Russian Foreign Ministry noted that such steps led “not only to an increase in the cost of operating enterprises, but also ultimately predetermined a wave of bankruptcies that overwhelmed both entrepreneurs and ordinary citizens.”",
-      "title_raw": "Захарова: ФРГ отказом от энергоносителей РФ ведут свой народ \"к краю пропасти\"",
-      "lead_raw": "Официальный представитель МИД России отметила, что такие шаги привели \"не только к удорожанию работы предприятий, но и в конечном счете предопределил волну банкротств, захлестнувшую как предпринимателей, так и простых граждан\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
