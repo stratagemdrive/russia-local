@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-03-23T11:33:30Z",
+  "updated_at_utc": "2026-03-23T15:40:30Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 6,
+  "count": 4,
   "articles": [
+    {
+      "id": "dd3d41c9173e562dfa394effbdf4835ae7426453",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2105777",
+      "published_utc": "2026-03-23T13:02:31Z",
+      "title_en": "Russian air defenses down over 70 UAVs over Leningrad Region — governor",
+      "lead_en": "According to Alexander Drozdenko, fire extinguishing operations around oil tanks at the port of Primorsk continue",
+      "title_raw": "Russian air defenses down over 70 UAVs over Leningrad Region — governor",
+      "lead_raw": "According to Alexander Drozdenko, fire extinguishing operations around oil tanks at the port of Primorsk continue",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "959d47bd7a3ae8b04b86d37a5b2c0c1ad674b7d8",
       "source": "TASS (EN)",
@@ -59,69 +81,6 @@
         "local_events": 1
       },
       "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "b6033b123f44a69e04c6d861e72a7b1e443e2595",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2105145",
-      "published_utc": "2026-03-21T13:45:51Z",
-      "title_en": "Ukrainian strike kills two people, leaves one injured in Russia’s Belgorod Region",
-      "lead_en": "According to the regional governor, the attack destroyed the social facility and a nearby commercial site",
-      "title_raw": "Ukrainian strike kills two people, leaves one injured in Russia’s Belgorod Region",
-      "lead_raw": "According to the regional governor, the attack destroyed the social facility and a nearby commercial site",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "d33a2ed45b2fd35e0920463490eaff46cdccc2d2",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2105139",
-      "published_utc": "2026-03-21T13:19:00Z",
-      "title_en": "Four injured in fuel tanker accident in Russia’s Rostov Region hospitalized",
-      "lead_en": "The regional Emergencies Ministry press service earlier reported that three people died and four were injured when a fuel tanker collided with four passenger cars on the R-280 highway in the Rostov region’s Neklinovsky district",
-      "title_raw": "Four injured in fuel tanker accident in Russia’s Rostov Region hospitalized",
-      "lead_raw": "The regional Emergencies Ministry press service earlier reported that three people died and four were injured when a fuel tanker collided with four passenger cars on the R-280 highway in the Rostov region’s Neklinovsky district",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "energy",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "9aa07d1a2a5dfa2cc289727c43a41813357e1a8b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2105133",
-      "published_utc": "2026-03-21T12:08:47Z",
-      "title_en": "At least 3 dead, 4 injured in collision between fuel tanker, 4 cars in Russia",
-      "lead_en": "The tanker caught fire over an area of 200 square meters",
-      "title_raw": "At least 3 dead, 4 injured in collision between fuel tanker, 4 cars in Russia",
-      "lead_raw": "The tanker caught fire over an area of 200 square meters",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "energy",
-        "local_events"
-      ],
       "primary_topic": "local_events"
     }
   ]
