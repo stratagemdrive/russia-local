@@ -1,9 +1,74 @@
 {
-  "updated_at_utc": "2026-03-22T23:56:56Z",
+  "updated_at_utc": "2026-03-23T08:39:00Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 29,
+  "count": 30,
   "articles": [
+    {
+      "id": "6c5a08fea745c5f583144d312fd9298e76bed378",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/26851427",
+      "published_utc": "2026-03-23T07:46:16Z",
+      "title_en": "Expert Khiukau assessed the possibility of Russian oil supplies to Thailand",
+      "lead_en": "It may in the future become the main replacement for supplies to the kingdom from the Gulf countries, says a Thai oil and gas trader",
+      "title_raw": "Эксперт Кхиукэу оценил возможность поставок российской нефти в Таиланд",
+      "lead_raw": "Она может в будущем стать основной заменой поставок королевству из стран Персидского залива, считает таиландский нефтегазовый трейдер",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "6853a3ace1e4d8a12f3257846b82666a36eb3b56",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2105503",
+      "published_utc": "2026-03-23T07:08:03Z",
+      "title_en": "Russia’s Battlegroup North destroys over 1,000 Ukrainian targets over past week",
+      "lead_en": "Troops carried out precision strikes on UAV control centers, ammunition and fuel and lubricant storage depots, river crossing sites, and command posts",
+      "title_raw": "Russia’s Battlegroup North destroys over 1,000 Ukrainian targets over past week",
+      "lead_raw": "Troops carried out precision strikes on UAV control centers, ammunition and fuel and lubricant storage depots, river crossing sites, and command posts",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "cb6c530d66d9c2392f1aa40d5b61513fefd7944e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2105483",
+      "published_utc": "2026-03-23T05:35:33Z",
+      "title_en": "EU last in line for Russian energy supplies — Putin’s envoy",
+      "lead_en": "Kirill Dmitriev commented on a post by the BRICS News account during Vietnamese Prime Minister Pham Minh Chinh’s visit to Russia",
+      "title_raw": "EU last in line for Russian energy supplies — Putin’s envoy",
+      "lead_raw": "Kirill Dmitriev commented on a post by the BRICS News account during Vietnamese Prime Minister Pham Minh Chinh’s visit to Russia",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "f5c2ccf0bd78df3faaad9448f6e45242ae0bbdd5",
       "source": "TASS (RU)",
@@ -582,50 +647,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "250fdd1c3a70b3cc78b07cd6590dc932263f3ca8",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/26839937",
-      "published_utc": "2026-03-21T05:51:00Z",
-      "title_en": "VTB: a cautious mood remained on the Russian stock market during the week",
-      "lead_en": "In general, among the favorites this week are the shares of Gazprom, Lukoil, Surgutneftegaz, Phosagro, Sberbank",
-      "title_raw": "ВТБ: на российском рынке акций в течение недели сохранялся осторожный настрой",
-      "lead_raw": "В целом среди фаворитов на этой неделе - акции \"Газпрома\", \"Лукойла\", \"Сургутнефтегаза\", \"Фосагро\", Сбербанка",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "8d4463a89ed7adb85e134da81c2bf0e0738ca72a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/26839583",
-      "published_utc": "2026-03-21T04:10:00Z",
-      "title_en": "\"Russian Standard\": Russians spent the most money on supermarkets in winter",
-      "lead_en": "The average amount in stores using bank cards was 814 rubles, according to a study by a financial organization",
-      "title_raw": "\"Русский стандарт\": больше всего зимой россияне тратили деньги на супермаркеты",
-      "lead_raw": "Средняя сумма в магазинах по картам банка составила 814 рублей, говорится в исследовании финансовой организации",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }

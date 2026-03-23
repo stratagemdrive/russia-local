@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-03-22T23:56:56Z",
+  "updated_at_utc": "2026-03-23T08:39:00Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 9,
+  "count": 6,
   "articles": [
+    {
+      "id": "959d47bd7a3ae8b04b86d37a5b2c0c1ad674b7d8",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2105513",
+      "published_utc": "2026-03-23T07:21:31Z",
+      "title_en": "Fire in port of Primorsk, 249 UAVs: aftermath of attack on Russian regions",
+      "lead_en": "An apartment was damaged as a result of drone fragments hitting a multi-story building in the Tver Region",
+      "title_raw": "Fire in port of Primorsk, 249 UAVs: aftermath of attack on Russian regions",
+      "lead_raw": "An apartment was damaged as a result of drone fragments hitting a multi-story building in the Tver Region",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "fdc6cfd7a712761d24e847134c16373c8ba2e82e",
       "source": "The Moscow Times",
@@ -103,84 +122,6 @@
         "energy",
         "local_events"
       ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "1310db0b252ba1d1f3f81a1b6d63c29be68e0990",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/26840581",
-      "published_utc": "2026-03-21T07:58:44Z",
-      "title_en": "In Udmurtia, the drone danger signal was canceled",
-      "lead_en": "This is reported in the application of the Ministry of Emergency Situations of Russia",
-      "title_raw": "В Удмуртии отменили сигнал беспилотной опасности",
-      "lead_raw": "Об этом сообщается в приложении МЧС России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "93d9ecf659f651781ca912f131a4358f2ccf1a8d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/26840065",
-      "published_utc": "2026-03-21T06:12:26Z",
-      "title_en": "The drone threat regime has been lifted in the Ulyanovsk region",
-      "lead_en": "This is reported in the application of the Ministry of Emergency Situations of Russia",
-      "title_raw": "В Ульяновской области сняли режим беспилотной опасности",
-      "lead_raw": "Об этом сообщается в приложении МЧС России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "6961d2ec4b3321e692c30839b35b5248e8fec59d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/26839885",
-      "published_utc": "2026-03-21T05:42:16Z",
-      "title_en": "Fighter Doc: Russian troops use the Impulse-M platform for evacuation and delivery",
-      "lead_en": "The load capacity of this machine is 500 kg",
-      "title_raw": "Боец Док: войска РФ используют платформу \"Импульс-М\" для эвакуации и доставки",
-      "lead_raw": "Грузоподъемность такой машины составляет 500 кг",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "9badeef1e13ef77d4b4f21d1b11b712834e2c227",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/26839569",
-      "published_utc": "2026-03-21T04:13:02Z",
-      "title_en": "In most of the south of the Russian Federation, the start of the fire season has been delayed due to weather.",
-      "lead_en": "In Kuban in 2026, the fire danger period began 1.5 weeks later than 2025",
-      "title_raw": "На большей части юга РФ из-за погоды сдвинулось начало пожароопасного сезона",
-      "lead_raw": "На Кубани в 2026 году период пожарной опасности начался на 1,5 недели позже 2025 года",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
       "primary_topic": "local_events"
     }
   ]
