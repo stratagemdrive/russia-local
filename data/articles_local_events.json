@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-03-24T15:46:45Z",
+  "updated_at_utc": "2026-03-24T21:55:26Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 6,
+  "count": 9,
   "articles": [
+    {
+      "id": "6238a00c213d056fd5ac15159974fef64d5695f9",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/26873783",
+      "published_utc": "2026-03-24T18:46:53Z",
+      "title_en": "Aviation danger has been canceled in the Oryol region",
+      "lead_en": "This is reported in the official application of the Ministry of Emergency Situations of Russia",
+      "title_raw": "В Орловской области отменили авиационную опасность",
+      "lead_raw": "Об этом сообщается в официальном приложении МЧС России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "9bb5f0cfd416167d5d357df4932057096b79b73d",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2106423",
+      "published_utc": "2026-03-24T16:38:58Z",
+      "title_en": "About 3,500 Russians injured or killed by Ukrainian drone attacks in 2025 — diplomat",
+      "lead_en": "The number includes about 200 children",
+      "title_raw": "About 3,500 Russians injured or killed by Ukrainian drone attacks in 2025 — diplomat",
+      "lead_raw": "The number includes about 200 children",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "4b14f7e165e3e2c2bc63d8879910796cfef8b399",
       "source": "TASS (RU)",
@@ -60,6 +100,27 @@
       },
       "topics": [],
       "primary_topic": "local_events"
+    },
+    {
+      "id": "656171d89b42edbb79096166b0413ca5da199541",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2106263",
+      "published_utc": "2026-03-24T11:42:29Z",
+      "title_en": "Over 160 people injured in Iranian strikes against UAE — Defense Ministry",
+      "lead_en": "According to the ministry, those injured include citizens of nearly 30 countries, with no Russians among them",
+      "title_raw": "Over 160 people injured in Iranian strikes against UAE — Defense Ministry",
+      "lead_raw": "According to the ministry, those injured include citizens of nearly 30 countries, with no Russians among them",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
     },
     {
       "id": "7cf5745c749be8d969527de81110f8ff5ceca1f3",
