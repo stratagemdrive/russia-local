@@ -1,9 +1,53 @@
 {
-  "updated_at_utc": "2026-03-23T20:57:53Z",
+  "updated_at_utc": "2026-03-23T23:58:41Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 24,
+  "count": 28,
   "articles": [
+    {
+      "id": "3b330b94f439bbf6faee572eb33730da717fb880",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/26861261",
+      "published_utc": "2026-03-23T23:30:55Z",
+      "title_en": "Ambassador Jagaryan: Russia and Sri Lanka are working on energy supplies to the island",
+      "lead_en": "This topic requires additional coordination, the diplomat noted",
+      "title_raw": "Посол Джагарян: РФ и Шри-Ланка прорабатывают поставки на остров энергоносителей",
+      "lead_raw": "Эта тема требует дополнительного согласования, отметил дипломат",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "66ad4c707a45140003a8e0f5db384943871b06a8",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/26861015",
+      "published_utc": "2026-03-23T22:05:45Z",
+      "title_en": "Russian Ambassador: the situation with the oil spill in Sri Lanka is under control",
+      "lead_en": "There are no significant negative consequences, said Levan Dzhagaryan",
+      "title_raw": "Посол РФ: ситуация с разливом нефтепродуктов у Шри-Ланки контролируемая",
+      "lead_raw": "Существенных негативных последствий нет, заявил Леван Джагарян",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "a223274fce1fe236eb5b9346feeca8c68ffe8d57",
       "source": "TASS (RU)",
@@ -26,6 +70,50 @@
       "primary_topic": "energy"
     },
     {
+      "id": "2006fee498ff4fe856879979c36c02c4130ef6f7",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2105941",
+      "published_utc": "2026-03-23T18:30:23Z",
+      "title_en": "Russian stock market closes mixed on Monday",
+      "lead_en": "The yuan dropped by ten kopecks to 11.91 rubles",
+      "title_raw": "Russian stock market closes mixed on Monday",
+      "lead_raw": "The yuan dropped by ten kopecks to 11.91 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "cbed3b34131866bb83b390052e83dae5ec6ca51d",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2105937",
+      "published_utc": "2026-03-23T18:19:13Z",
+      "title_en": "Vietnam to have nuclear power generation capacity by 2034-2035 — Rosatom CEO",
+      "lead_en": "On March 23, Russia and Vietnam signed the intergovernmental agreement on cooperation in building the first nuclear power plant in Vietnam",
+      "title_raw": "Vietnam to have nuclear power generation capacity by 2034-2035 — Rosatom CEO",
+      "lead_raw": "On March 23, Russia and Vietnam signed the intergovernmental agreement on cooperation in building the first nuclear power plant in Vietnam",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
       "id": "bc35d01b4d512e8c70ef6bdb820f2491f67d1b0a",
       "source": "The Moscow Times",
       "url": "https://www.themoscowtimes.com/2026/03/23/russia-vietnam-advance-plans-for-first-nuclear-power-plant-a92314",
@@ -38,6 +126,27 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "a6287fd9def4cd9de83ed8f0061a5901d2f5f201",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2105869",
+      "published_utc": "2026-03-23T16:00:25Z",
+      "title_en": "Oil refining depth in Russia reach 84.2% in 2025 — Energy Ministry",
+      "lead_en": "The light oil products yield gained 10 percentage points over that period and totaled 65.8%",
+      "title_raw": "Oil refining depth in Russia reach 84.2% in 2025 — Energy Ministry",
+      "lead_raw": "The light oil products yield gained 10 percentage points over that period and totaled 65.8%",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
         "economy": 0,
         "local_events": 0
       },
@@ -309,7 +418,7 @@
       "url": "https://tass.ru/obschestvo/26847625",
       "published_utc": "2026-03-22T19:23:10Z",
       "title_en": "Rossiya Airlines flight landed safely in Pulkovo",
-      "lead_en": "The plane requested to land due to low fuel level",
+      "lead_en": "The plane requested to land due to low fuel levels",
       "title_raw": "Рейс авиакомпании \"Россия\" благополучно приземлился в Пулкове",
       "lead_raw": "Самолет запрашивал посадку из-за низкого уровня топлива",
       "topic_scores": {
@@ -494,28 +603,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "c18db466fe119bc3511d6bb6040b15daec40595c",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2105195",
-      "published_utc": "2026-03-21T20:58:00Z",
-      "title_en": "Moscow's envoy expects EU countries to join line for Russian energy",
-      "lead_en": "Thus Kirill Dmitriev commented on apost by economist Christophe Barraud, which listed the measures that EU countries are taking to contain rising energy prices",
-      "title_raw": "Moscow's envoy expects EU countries to join line for Russian energy",
-      "lead_raw": "Thus Kirill Dmitriev commented on apost by economist Christophe Barraud, which listed the measures that EU countries are taking to contain rising energy prices",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }

@@ -1,16 +1,73 @@
 {
-  "updated_at_utc": "2026-03-23T20:57:53Z",
+  "updated_at_utc": "2026-03-23T23:58:41Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 21,
+  "count": 25,
   "articles": [
+    {
+      "id": "71b4b1ea9c9cc1165e055b267ecbd84cd9298ef0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/26861109",
+      "published_utc": "2026-03-23T22:41:51Z",
+      "title_en": "The State Duma called for setting the minimum salary for teachers at 140 thousand rubles",
+      "lead_en": "The leader of the A Just Russia party, Sergei Mironov, noted that teachers should receive a salary twice the average",
+      "title_raw": "В ГД призвали установить минимальную зарплату учителей в 140 тыс. рублей",
+      "lead_raw": "Лидер партии \"Справедливая Россия\" Сергей Миронов отметил, что учителя должны получать зарплату в два раза выше средней",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "96f0a00781d66646c979b2bf9b663e7cc187deb5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/26860777",
+      "published_utc": "2026-03-23T21:37:41Z",
+      "title_en": "Expert Kuznetsov: Russia needs to start extracting resources on the Moon",
+      "lead_en": "The Earth's satellite could become the core of a new space economy, says CEO of the venture fund Digital Evolution Ventures",
+      "title_raw": "Эксперт Кузнецов: России нужно заняться добычей ресурсов на Луне",
+      "lead_raw": "Спутник Земли может стать основной новой космической экономики, считает генеральный директор венчурного фонда Digital Evolution Ventures",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "77a1273bcc0341bf062e3d1040c0e96377668cac",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/26860607",
+      "published_utc": "2026-03-23T20:53:47Z",
+      "title_en": "An employee of the Russian Academy of Sciences research center received 9.5 years for financing terrorism.",
+      "lead_en": "Ivan Frolov was found guilty of transferring 2.8 thousand rubles to the account of the terrorist organization Artpodgotovka recognized in the Russian Federation.",
+      "title_raw": "Сотрудник исследовательского центра РАН получил 9,5 года за финансирование терроризма",
+      "lead_raw": "Ивана Фролова признали виновным в переводе 2,8 тыс. рублей на счет признанной в РФ террористической организации \"Артподготовка\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
     {
       "id": "13b82c8257bb9384cfdb3ace0d8ebf56b326e08f",
       "source": "TASS (RU)",
       "url": "https://tass.ru/mezhdunarodnaya-panorama/26859523",
       "published_utc": "2026-03-23T18:32:14Z",
       "title_en": "Socialists propose to discuss the lifting of anti-Russian sanctions in the Bulgarian parliament",
-      "lead_en": "According to coalition candidate Valery Zhablyanov, “Bulgaria does not have the ability to finance the European Union’s war in Ukraine.”",
+      "lead_en": "According to coalition candidate Valery Zhablyanov, “Bulgaria does not have the ability to finance the European Union’s war in Ukraine”",
       "title_raw": "Социалисты предлагают обсудить в парламенте Болгарии отмену антироссийских санкций",
       "lead_raw": "По мнению кандидата в депутаты от коалиции Валерия Жаблянова, \"Болгария не имеет возможности финансировать войну Европейского союза на Украине\"",
       "topic_scores": {
@@ -21,6 +78,28 @@
         "local_events": 0
       },
       "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "2006fee498ff4fe856879979c36c02c4130ef6f7",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2105941",
+      "published_utc": "2026-03-23T18:30:23Z",
+      "title_en": "Russian stock market closes mixed on Monday",
+      "lead_en": "The yuan dropped by ten kopecks to 11.91 rubles",
+      "title_raw": "Russian stock market closes mixed on Monday",
+      "lead_raw": "The yuan dropped by ten kopecks to 11.91 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
       "primary_topic": "economy"
     },
     {
