@@ -1,9 +1,91 @@
 {
-  "updated_at_utc": "2026-03-25T11:29:08Z",
+  "updated_at_utc": "2026-03-25T18:38:04Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 8,
+  "count": 10,
   "articles": [
+    {
+      "id": "2d002e5d93eafb80ba1ab50de5b29c3a576d1493",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2107007",
+      "published_utc": "2026-03-25T15:50:17Z",
+      "title_en": "Attack on Russian tanker risks environmental disaster in Mediterranean — official",
+      "lead_en": "Nickolay Patrushev said the tanker is drifting southeast of the coast of Italy",
+      "title_raw": "Attack on Russian tanker risks environmental disaster in Mediterranean — official",
+      "lead_raw": "Nickolay Patrushev said the tanker is drifting southeast of the coast of Italy",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "b324cb588ec13f453cd5b08f4da2e0652429c8df",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2106849",
+      "published_utc": "2026-03-25T12:29:22Z",
+      "title_en": "Ukrainian attacks cause over 130 civilian casualties in past week — Russian MFA",
+      "lead_en": "Fourteen people were killed, Maria Zakharova said",
+      "title_raw": "Ukrainian attacks cause over 130 civilian casualties in past week — Russian MFA",
+      "lead_raw": "Fourteen people were killed, Maria Zakharova said",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "2cdf258b577c9b923837a98931efe1f1306babe5",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/society/2106771",
+      "published_utc": "2026-03-25T10:34:10Z",
+      "title_en": "FSB nabs man tricked by Ukraine into firebomb plot at training base in southern Russia",
+      "lead_en": "According to the Federal Security Service, the young man was persuaded to attempt a terrorist attack via telephone scam",
+      "title_raw": "FSB nabs man tricked by Ukraine into firebomb plot at training base in southern Russia",
+      "lead_raw": "According to the Federal Security Service, the young man was persuaded to attempt a terrorist attack via telephone scam",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "3d0a96eb2a6497752d97f271ccf7a67ea5e69190",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2106703",
+      "published_utc": "2026-03-25T09:37:29Z",
+      "title_en": "Ukraine’s military attacks Russia’s Belgorod Region with nearly 120 UAVs in past day",
+      "lead_en": "The regional crisis response center reported that two men were injured in an FPV drone attack in the village of Zamostye",
+      "title_raw": "Ukraine’s military attacks Russia’s Belgorod Region with nearly 120 UAVs in past day",
+      "lead_raw": "The regional crisis response center reported that two men were injured in an FPV drone attack in the village of Zamostye",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "6238a00c213d056fd5ac15159974fef64d5695f9",
       "source": "TASS (RU)",
@@ -119,49 +201,6 @@
       },
       "topics": [
         "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "7cf5745c749be8d969527de81110f8ff5ceca1f3",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/03/23/russia-allows-private-security-firms-to-use-firearms-to-counter-drone-attacks-a92313",
-      "published_utc": "2026-03-23T16:41:02Z",
-      "title_en": "Russia Allows Private Security Firms to Use Firearms to Counter Drone Attacks",
-      "lead_en": "The measure reflects growing concern in Moscow over the vulnerability of key assets to unmanned aerial strikes.",
-      "title_raw": "Russia Allows Private Security Firms to Use Firearms to Counter Drone Attacks",
-      "lead_raw": "The measure reflects growing concern in Moscow over the vulnerability of key assets to unmanned aerial strikes.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "dd3d41c9173e562dfa394effbdf4835ae7426453",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2105777",
-      "published_utc": "2026-03-23T13:02:31Z",
-      "title_en": "Russian air defenses down over 70 UAVs over Leningrad Region — governor",
-      "lead_en": "According to Alexander Drozdenko, fire extinguishing operations around oil tanks at the port of Primorsk continue",
-      "title_raw": "Russian air defenses down over 70 UAVs over Leningrad Region — governor",
-      "lead_raw": "According to Alexander Drozdenko, fire extinguishing operations around oil tanks at the port of Primorsk continue",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military",
-        "energy"
       ],
       "primary_topic": "military"
     }
