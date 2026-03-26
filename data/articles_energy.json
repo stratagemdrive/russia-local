@@ -1,9 +1,74 @@
 {
-  "updated_at_utc": "2026-03-25T18:38:04Z",
+  "updated_at_utc": "2026-03-25T23:00:51Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 56,
+  "count": 57,
   "articles": [
+    {
+      "id": "acd8e7d404902244659c56d4da849ceb201920b9",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2107149",
+      "published_utc": "2026-03-25T21:55:01Z",
+      "title_en": "Serbian president says hopes to discuss gas contract extension with Putin within days",
+      "lead_en": "The current contract for supplies of gas from Russia to Serbia expires on March 31",
+      "title_raw": "Serbian president says hopes to discuss gas contract extension with Putin within days",
+      "lead_raw": "The current contract for supplies of gas from Russia to Serbia expires on March 31",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "e05f77bfff8edf3ddc8e16d50fe71c98f41d1351",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/26889735",
+      "published_utc": "2026-03-25T21:37:31Z",
+      "title_en": "Vucic hopes to discuss the conclusion of a new gas contract with Putin one of these days",
+      "lead_en": "The Serbian President hopes for successful negotiations with his Russian counterpart",
+      "title_raw": "Вучич надеется на днях обсудить с Путиным заключение нового контракта по газу",
+      "lead_raw": "Президент Сербии рассчитывает на успешные переговоры с российским коллегой",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "134da2c49a9f4e9f9cba07cc5183c59edf528b68",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kultura/26888973",
+      "published_utc": "2026-03-25T19:40:27Z",
+      "title_en": "The Russian Museum became the best in 2025 according to The Art Newspaper Russia",
+      "lead_en": "The award ceremony took place at the Moscow Theater \"Pyotr Fomenko Workshop\"",
+      "title_raw": "Русский музей стал лучшим в 2025 году по версии газеты The Art Newspaper Russia",
+      "lead_raw": "Церемония вручения премии прошла в Московском театре \"Мастерская Петра Фоменко\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "2fb9f393e484ab583f57b6b09283e147604e2c77",
       "source": "TASS (RU)",
@@ -1151,49 +1216,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "66ad4c707a45140003a8e0f5db384943871b06a8",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/26861015",
-      "published_utc": "2026-03-23T22:05:45Z",
-      "title_en": "Russian Ambassador: the situation with the oil spill in Sri Lanka is under control",
-      "lead_en": "There are no significant negative consequences, said Levan Dzhagaryan",
-      "title_raw": "Посол РФ: ситуация с разливом нефтепродуктов у Шри-Ланки контролируемая",
-      "lead_raw": "Существенных негативных последствий нет, заявил Леван Джагарян",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "a223274fce1fe236eb5b9346feeca8c68ffe8d57",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/26860337",
-      "published_utc": "2026-03-23T20:10:55Z",
-      "title_en": "Nebenzya: Europe responds with silence to Kyiv’s energy blackmail",
-      "lead_en": "The closure of the Druzhba oil pipeline clearly demonstrates Ukraine’s desire to “use infrastructure as a tool of pressure and political play,” said Russia’s permanent representative to the UN",
-      "title_raw": "Небензя: Европа отвечает тишиной на энергетический шантаж Киева",
-      "lead_raw": "Перекрытие нефтепровода \"Дружба\" отчетливо демонстрирует стремление Украины \"использовать инфраструктуру как инструмент давления и политической игры\", заявил постоянный представитель России при ООН",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
