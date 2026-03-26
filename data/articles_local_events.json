@@ -1,8 +1,8 @@
 {
-  "updated_at_utc": "2026-03-26T15:57:37Z",
+  "updated_at_utc": "2026-03-26T21:05:26Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 10,
+  "count": 11,
   "articles": [
     {
       "id": "3a1e132acbcbfe5a0058bd04a0f9529fdaa6656f",
@@ -24,6 +24,70 @@
         "economy"
       ],
       "primary_topic": "economy"
+    },
+    {
+      "id": "cf5eebb30d6d213965c2c44a1540dc382ec623bd",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2107611",
+      "published_utc": "2026-03-26T14:39:38Z",
+      "title_en": "China, Russia should cooperate to de-escalate Middle East tensions — envoy",
+      "lead_en": "According to Igor Morgulov, as permanent members of the UN Security Council, China and Russia support a ceasefire and the start of peace talks",
+      "title_raw": "China, Russia should cooperate to de-escalate Middle East tensions — envoy",
+      "lead_raw": "According to Igor Morgulov, as permanent members of the UN Security Council, China and Russia support a ceasefire and the start of peace talks",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "42e95630ce66b708ed92700db0d434ee46191d8b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2107463",
+      "published_utc": "2026-03-26T11:37:56Z",
+      "title_en": "Another 163 Russians evacuated from Bushehr nuclear power plant",
+      "lead_en": "According to Rosatom CEO Alexey Likhachev, two more evacuation waves are planned for early April",
+      "title_raw": "Another 163 Russians evacuated from Bushehr nuclear power plant",
+      "lead_raw": "According to Rosatom CEO Alexey Likhachev, two more evacuation waves are planned for early April",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "7798a06e5dcfaaac14d8365cd18a77fb40d31c2e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2107279",
+      "published_utc": "2026-03-26T08:38:20Z",
+      "title_en": "Turkish tanker carrying oil from Russia damaged in Black Sea drone attack — TV",
+      "lead_en": "The vessel sailing under the flag of Sierra Leone sustained damage to its superstructure and the captain’s bridge as a result of the explosion",
+      "title_raw": "Turkish tanker carrying oil from Russia damaged in Black Sea drone attack — TV",
+      "lead_raw": "The vessel sailing under the flag of Sierra Leone sustained damage to its superstructure and the captain’s bridge as a result of the explosion",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
     },
     {
       "id": "fc34d51c6ae835f8ed01b5707e77072d07b345cc",
@@ -163,46 +227,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "6238a00c213d056fd5ac15159974fef64d5695f9",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/26873783",
-      "published_utc": "2026-03-24T18:46:53Z",
-      "title_en": "Aviation danger has been canceled in the Oryol region",
-      "lead_en": "This is reported in the official application of the Ministry of Emergency Situations of Russia",
-      "title_raw": "В Орловской области отменили авиационную опасность",
-      "lead_raw": "Об этом сообщается в официальном приложении МЧС России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "9bb5f0cfd416167d5d357df4932057096b79b73d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2106423",
-      "published_utc": "2026-03-24T16:38:58Z",
-      "title_en": "About 3,500 Russians injured or killed by Ukrainian drone attacks in 2025 — diplomat",
-      "lead_en": "The number includes about 200 children",
-      "title_raw": "About 3,500 Russians injured or killed by Ukrainian drone attacks in 2025 — diplomat",
-      "lead_raw": "The number includes about 200 children",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
     }
   ]
 }
