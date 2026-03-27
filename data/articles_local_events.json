@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-03-27T14:32:12Z",
+  "updated_at_utc": "2026-03-27T18:01:53Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 12,
   "articles": [
+    {
+      "id": "3a390101cee64af34c28830c6beb08acf82320b6",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2108149",
+      "published_utc": "2026-03-27T15:00:28Z",
+      "title_en": "Russian MFA summons Czech ambassador over firebombing of Russian center in Prague",
+      "lead_en": "Moscow demands that the Czech side immediately investigate the attack on the Russian center in Prague",
+      "title_raw": "Russian MFA summons Czech ambassador over firebombing of Russian center in Prague",
+      "lead_raw": "Moscow demands that the Czech side immediately investigate the attack on the Russian center in Prague",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "aadf8881aebcae3bce7a7d1407553b0dfa5b56d0",
       "source": "The Moscow Times",
@@ -216,25 +237,6 @@
       "lead_en": "This was reported in the application of the Ministry of Emergency Situations of Russia",
       "title_raw": "В Ярославской области объявили беспилотную опасность",
       "lead_raw": "Об этом сообщили в приложении МЧС России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "2d002e5d93eafb80ba1ab50de5b29c3a576d1493",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2107007",
-      "published_utc": "2026-03-25T15:50:17Z",
-      "title_en": "Attack on Russian tanker risks environmental disaster in Mediterranean — official",
-      "lead_en": "Nickolay Patrushev said the tanker is drifting southeast of the coast of Italy",
-      "title_raw": "Attack on Russian tanker risks environmental disaster in Mediterranean — official",
-      "lead_raw": "Nickolay Patrushev said the tanker is drifting southeast of the coast of Italy",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
