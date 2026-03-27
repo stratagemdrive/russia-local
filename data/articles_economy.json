@@ -1,9 +1,73 @@
 {
-  "updated_at_utc": "2026-03-27T18:01:53Z",
+  "updated_at_utc": "2026-03-27T20:04:28Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 66,
+  "count": 67,
   "articles": [
+    {
+      "id": "282700a609e183fcfb174db131288e3ccbc0d4a2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/26917335",
+      "published_utc": "2026-03-27T19:35:50Z",
+      "title_en": "Fidan: Russia and China are in contact with Turkey to obtain an objective picture",
+      "lead_en": "The head of the Turkish Foreign Ministry noted that the conflict around Iran imposes significant costs and burdens on the economies and domestic policies of states",
+      "title_raw": "Фидан: РФ и КНР контактируют с Турцией для получения объективной картины",
+      "lead_raw": "Глава турецкого МИД отметил, что конфликт вокруг Ирана накладывает значительные издержки и бремя на экономики и внутреннюю политику государств",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "a921327eda1b3e6555ccada65193a38bf244bb3f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/26916763",
+      "published_utc": "2026-03-27T18:18:42Z",
+      "title_en": "Rubio: US allows changes in sanctions regime against Russian oil",
+      "lead_en": "The President did not express a desire to permanently lift any sanctions, the US Secretary of State said",
+      "title_raw": "Рубио: США допускают изменения в санкционном режиме против российской нефти",
+      "lead_raw": "Президент не изъявлял желания окончательно отменить какие-либо санкции, заявил госсекретарь США",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "957ff3d730c72505df3550e73d2d9d9b2a7a7b3d",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/03/27/russia-drops-budget-cut-plans-as-oil-price-surge-boosts-revenues-bloomberg-a92361",
+      "published_utc": "2026-03-27T18:02:28Z",
+      "title_en": "Russia Drops Budget Cut Plans as Oil Price Surge Boosts Revenues – Bloomberg",
+      "lead_en": "Authorities could channel the windfall oil revenues into spending on the war in Ukraine, Bloomberg’s sources said.",
+      "title_raw": "Russia Drops Budget Cut Plans as Oil Price Surge Boosts Revenues – Bloomberg",
+      "lead_raw": "Authorities could channel the windfall oil revenues into spending on the war in Ukraine, Bloomberg’s sources said.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "7c8e20061841a7d1e3d1334a2e90d81f34d90e5d",
       "source": "TASS (RU)",
@@ -1305,44 +1369,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "5682929e49177a2c4b6e43b83b3624e7fc8cdbc0",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2107123",
-      "published_utc": "2026-03-25T20:04:00Z",
-      "title_en": "Only US, Israel, Argentina vote against UN resolution on slave trade",
-      "lead_en": "123 states, including Russia and China, voted in favor of the resolution",
-      "title_raw": "Only US, Israel, Argentina vote against UN resolution on slave trade",
-      "lead_raw": "123 states, including Russia and China, voted in favor of the resolution",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "3b0cd2870dfcfe186fc41e5887de36ffaa4bbc69",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/26887065",
-      "published_utc": "2026-03-25T18:32:04Z",
-      "title_en": "Inflation in Russia from March 17 to March 23 amounted to 0.19%",
-      "lead_en": "A week earlier, inflation was 0.08%",
-      "title_raw": "Инфляция в России с 17 по 23 марта составила 0,19%",
-      "lead_raw": "Неделей ранее инфляция равнялась 0,08%",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
     }
   ]
 }
