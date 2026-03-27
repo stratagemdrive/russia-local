@@ -1,9 +1,51 @@
 {
-  "updated_at_utc": "2026-03-26T21:05:26Z",
+  "updated_at_utc": "2026-03-27T00:02:03Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 70,
+  "count": 71,
   "articles": [
+    {
+      "id": "5f24624c998ddebfb046faf64e7124e28df0f3d6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/26905921",
+      "published_utc": "2026-03-26T23:16:54Z",
+      "title_en": "Nikonov: The Russian Federation is ready to exclude some members of Congress from the sanctions lists",
+      "lead_en": "According to the first deputy chairman of the State Duma Committee on International Affairs, the deputies’ visit to the United States became possible, among other things, due to the fact that American legislators achieved the lifting of bans on members of the Russian delegation",
+      "title_raw": "Никонов: РФ готова исключить из санкционных списков некоторых членов Конгресса",
+      "lead_raw": "По словам первого зампреда комитета ГД по международным делам, визит депутатов в США стал возможен в том числе благодаря тому, что американские законодатели добились снятия запретов для членов российской делегации",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "cf19ac19bb216706c2e856a6ee91e5b53d56b88b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/26905475",
+      "published_utc": "2026-03-26T21:17:00Z",
+      "title_en": "A vulnerability was found in Russian video cameras for counting people",
+      "lead_en": "This created a risk of unauthorized persons gaining remote access to data, as follows from the threat database of the FSTEC of Russia",
+      "title_raw": "В российских видеокамерах для подсчета посетителей нашли уязвимость",
+      "lead_raw": "Это создавало риск получения неавторизованными лицами удаленного доступа к данным, следует из банка данных угроз ФСТЭК России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "1c86ae3dc03392a9a9f843c511687d33bf987468",
       "source": "TASS (RU)",
@@ -1414,25 +1456,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "7d652f8cd78464d8a9c0a72936950ea628dc54b6",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/26874599",
-      "published_utc": "2026-03-24T21:07:11Z",
-      "title_en": "ACRA: 23 cases of bond defaults were recorded in the Russian financial market in 2025",
-      "lead_en": "At the same time, the default rate remains below the 5% threshold and is fully within the agency’s forecasts",
-      "title_raw": "АКРА: на финрынке РФ зафиксировали 23 случая дефолтов по облигациям в 2025 году",
-      "lead_raw": "В то же время уровень дефолтности остается ниже порога в 5% и полностью укладывается в прогнозы агентства",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
     }
   ]
 }
