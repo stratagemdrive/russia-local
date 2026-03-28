@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-03-28T11:03:15Z",
+  "updated_at_utc": "2026-03-28T17:05:26Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 9,
+  "count": 7,
   "articles": [
+    {
+      "id": "61fba4c46960bddc176748e1087097a2371b1e3c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/26923331",
+      "published_utc": "2026-03-28T16:53:12Z",
+      "title_en": "The danger of a UAV attack has been announced in the Voronezh region",
+      "lead_en": "The governor of the region, Alexander Gusev, urged to monitor further notifications from the regional government or from the Russian Ministry of Emergency Situations",
+      "title_raw": "В Воронежской области объявили опасность атаки БПЛА",
+      "lead_raw": "Губернатор региона Александр Гусев призвал следить за дальнейшими оповещениями от правительства области или от МЧС России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "30bc60182866f80f426663c8be1eba5f09aa1119",
       "source": "TASS (RU)",
@@ -125,70 +144,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "3a1e132acbcbfe5a0058bd04a0f9529fdaa6656f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26901829",
-      "published_utc": "2026-03-26T15:53:23Z",
-      "title_en": "Trump extended several sanctions against Russia for a year",
-      "lead_en": "Russian activities pose an unusual and extraordinary threat to US national security, foreign policy and the economy, Federal Register says",
-      "title_raw": "Трамп продлил на год действие несколько санкций против РФ",
-      "lead_raw": "Деятельность России представляет необычную и чрезвычайную угрозу национальной безопасности, внешней политике и экономике США, говорится в Федеральном реестре",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 1
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "cf5eebb30d6d213965c2c44a1540dc382ec623bd",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2107611",
-      "published_utc": "2026-03-26T14:39:38Z",
-      "title_en": "China, Russia should cooperate to de-escalate Middle East tensions — envoy",
-      "lead_en": "According to Igor Morgulov, as permanent members of the UN Security Council, China and Russia support a ceasefire and the start of peace talks",
-      "title_raw": "China, Russia should cooperate to de-escalate Middle East tensions — envoy",
-      "lead_raw": "According to Igor Morgulov, as permanent members of the UN Security Council, China and Russia support a ceasefire and the start of peace talks",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "42e95630ce66b708ed92700db0d434ee46191d8b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2107463",
-      "published_utc": "2026-03-26T11:37:56Z",
-      "title_en": "Another 163 Russians evacuated from Bushehr nuclear power plant",
-      "lead_en": "According to Rosatom CEO Alexey Likhachev, two more evacuation waves are planned for early April",
-      "title_raw": "Another 163 Russians evacuated from Bushehr nuclear power plant",
-      "lead_raw": "According to Rosatom CEO Alexey Likhachev, two more evacuation waves are planned for early April",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
