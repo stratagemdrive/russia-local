@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-03-27T20:04:28Z",
+  "updated_at_utc": "2026-03-27T23:56:05Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 47,
+  "count": 46,
   "articles": [
+    {
+      "id": "d076dc87a9fcba10c28cb61dbc9fbebee255306a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2108269",
+      "published_utc": "2026-03-27T20:31:58Z",
+      "title_en": "US may change sanctions against Russian oil — Rubio",
+      "lead_en": "The US secretary of state says that the president did not express desire to lift any sanctions permanently",
+      "title_raw": "US may change sanctions against Russian oil — Rubio",
+      "lead_raw": "The US secretary of state says that the president did not express desire to lift any sanctions permanently",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "c8d40c5a5d3e2f6b5858bc0a81c29a6c305593a9",
       "source": "TASS (EN)",
@@ -963,49 +984,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "acd8e7d404902244659c56d4da849ceb201920b9",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2107149",
-      "published_utc": "2026-03-25T21:55:01Z",
-      "title_en": "Serbian president says hopes to discuss gas contract extension with Putin within days",
-      "lead_en": "The current contract for supplies of gas from Russia to Serbia expires on March 31",
-      "title_raw": "Serbian president says hopes to discuss gas contract extension with Putin within days",
-      "lead_raw": "The current contract for supplies of gas from Russia to Serbia expires on March 31",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e05f77bfff8edf3ddc8e16d50fe71c98f41d1351",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/26889735",
-      "published_utc": "2026-03-25T21:37:31Z",
-      "title_en": "Vucic hopes to discuss the conclusion of a new gas contract with Putin one of these days",
-      "lead_en": "The Serbian President hopes for successful negotiations with his Russian counterpart",
-      "title_raw": "Вучич надеется на днях обсудить с Путиным заключение нового контракта по газу",
-      "lead_raw": "Президент Сербии рассчитывает на успешные переговоры с российским коллегой",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
