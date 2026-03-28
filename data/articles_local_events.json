@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-03-28T07:57:05Z",
+  "updated_at_utc": "2026-03-28T11:03:15Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 10,
+  "count": 9,
   "articles": [
+    {
+      "id": "30bc60182866f80f426663c8be1eba5f09aa1119",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/26920943",
+      "published_utc": "2026-03-28T08:24:30Z",
+      "title_en": "The Russian Embassy announced the evacuation of 164 Rosatom employees from the Bushehr nuclear power plant.",
+      "lead_en": "Along with the Russians who took off on a special flight from Yerevan to Moscow, citizens of Belarus, Tajikistan and Uzbekistan were also taken out",
+      "title_raw": "Посольство РФ заявило об эвакуации 164 сотрудников \"Росатома\" с АЭС \"Бушер\"",
+      "lead_raw": "Наряду с россиянами, вылетевшими спецрейсом из Еревана в Москву, были вывезены также граждане Белоруссии, Таджикистана и Узбекистана",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "3a390101cee64af34c28830c6beb08acf82320b6",
       "source": "TASS (EN)",
@@ -168,46 +189,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "7798a06e5dcfaaac14d8365cd18a77fb40d31c2e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2107279",
-      "published_utc": "2026-03-26T08:38:20Z",
-      "title_en": "Turkish tanker carrying oil from Russia damaged in Black Sea drone attack — TV",
-      "lead_en": "The vessel sailing under the flag of Sierra Leone sustained damage to its superstructure and the captain’s bridge as a result of the explosion",
-      "title_raw": "Turkish tanker carrying oil from Russia damaged in Black Sea drone attack — TV",
-      "lead_raw": "The vessel sailing under the flag of Sierra Leone sustained damage to its superstructure and the captain’s bridge as a result of the explosion",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "fc34d51c6ae835f8ed01b5707e77072d07b345cc",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/interviews/26883059",
-      "published_utc": "2026-03-26T08:00:01Z",
-      "title_en": "Kurenkov: The Ministry of Emergency Situations plans to increase the number of its sappers five times",
-      "lead_en": "Since 2022, the pyrotechnic units of the Ministry of Emergency Situations have been engaged in demining the territories of Donbass, Novorossiya and the border areas affected by shelling by the Ukrainian Armed Forces. The head of the Russian Ministry of Emergency Situations, Alexander Kurenkov, spoke in an interview with TASS about the scope and specifics of this work, the need for legislative changes and how to ensure that mine clearance does not take 100 years.",
-      "title_raw": "Куренков: МЧС планирует увеличить численность своих саперов в пять раз",
-      "lead_raw": "Пиротехнические подразделения МЧС с 2022 года занимаются разминированием территорий Донбасса, Новороссии и приграничья, пострадавших от обстрелов ВСУ. Об объемах и специфике этой работы, о необходимости законодательных изменений и как сделать так, чтобы разминирование не растянулось на 100 лет, в интервью ТАСС рассказал глава МЧС России Александр Куренков",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
