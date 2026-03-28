@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-03-28T17:05:26Z",
+  "updated_at_utc": "2026-03-28T19:44:09Z",
   "keep_hours": 48,
   "topic": "economy",
   "count": 51,
   "articles": [
+    {
+      "id": "86eba8f7cabf0b97f8d0763d50946eb6e607399b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/26923721",
+      "published_utc": "2026-03-28T19:12:20Z",
+      "title_en": "Dmitriev compared ignoring the crisis in the EU to postponing the alarm clock",
+      "lead_en": "Awareness of the crisis situation in the energy sector is gradually beginning to reach people, noted the special representative of the Russian President for investment and economic cooperation with foreign countries",
+      "title_raw": "Дмитриев сравнил игнорирование кризиса в ЕС с откладыванием звонка будильника",
+      "lead_raw": "Осознание кризисной ситуации в энергетике постепенно начинает доходить до людей, отметил спецпредставитель президента РФ по инвестиционно-экономическому сотрудничеству с зарубежными странами",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "5ac775408c4d53f579209927b5f74ab42c77fd8c",
       "source": "TASS (RU)",
@@ -1029,25 +1051,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "cea71d9168fd352d99afb733ee7e0375a39094d9",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2107715",
-      "published_utc": "2026-03-26T18:59:38Z",
-      "title_en": "Trump extends certain US sanctions against Russia for one year",
-      "lead_en": "The document refers in particular to restrictions imposed under the guise of the alleged Russian meddling in electing processes in the US",
-      "title_raw": "Trump extends certain US sanctions against Russia for one year",
-      "lead_raw": "The document refers in particular to restrictions imposed under the guise of the alleged Russian meddling in electing processes in the US",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
     }
   ]
 }

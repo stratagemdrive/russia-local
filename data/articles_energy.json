@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-03-28T17:05:26Z",
+  "updated_at_utc": "2026-03-28T19:44:09Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 30,
   "articles": [
+    {
+      "id": "86eba8f7cabf0b97f8d0763d50946eb6e607399b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/26923721",
+      "published_utc": "2026-03-28T19:12:20Z",
+      "title_en": "Dmitriev compared ignoring the crisis in the EU to postponing the alarm clock",
+      "lead_en": "Awareness of the crisis situation in the energy sector is gradually beginning to reach people, noted the special representative of the Russian President for investment and economic cooperation with foreign countries",
+      "title_raw": "Дмитриев сравнил игнорирование кризиса в ЕС с откладыванием звонка будильника",
+      "lead_raw": "Осознание кризисной ситуации в энергетике постепенно начинает доходить до людей, отметил спецпредставитель президента РФ по инвестиционно-экономическому сотрудничеству с зарубежными странами",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "5ac775408c4d53f579209927b5f74ab42c77fd8c",
       "source": "TASS (RU)",
@@ -622,28 +644,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "4b860145bc13555fdecec3319f8c445acaf6e499",
-      "source": "RT",
-      "url": "https://www.rt.com/news/636290-eu-uk-energy-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "published_utc": "2026-03-26T18:28:57Z",
-      "title_en": "Most powerful energy crisis in human history is looming – Putin envoy",
-      "lead_en": "The EU and the UK are unprepared and face deindustrialization after rejecting Russian energy, Kremlin envoy Kirill Dmitriev has said Read Full Article at RT.com",
-      "title_raw": "Most powerful energy crisis in human history is looming – Putin envoy",
-      "lead_raw": "The EU and the UK are unprepared and face deindustrialization after rejecting Russian energy, Kremlin envoy Kirill Dmitriev has said Read Full Article at RT.com",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
