@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-03-29T11:55:26Z",
+  "updated_at_utc": "2026-03-29T15:59:40Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 3,
+  "count": 4,
   "articles": [
+    {
+      "id": "95318ebbc37026e15ae271aa1189ea050a9d9513",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/26928357",
+      "published_utc": "2026-03-29T14:59:23Z",
+      "title_en": "In Chuvashia, the danger of a UAV attack has been announced",
+      "lead_en": "This was reported in the application of the Ministry of Emergency Situations of Russia",
+      "title_raw": "В Чувашии объявили опасность атаки БПЛА",
+      "lead_raw": "Об этом сообщили в приложении МЧС России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "79f90eaef3e42193205927968063626b89200cbe",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/03/29/russia-reports-fire-in-strike-on-major-baltic-port-a92365",
+      "published_utc": "2026-03-29T09:30:00Z",
+      "title_en": "Russia Reports Fire in Strike on Major Baltic Port",
+      "lead_en": "The northwestern port suffered damage this week when it was targeted by drones in an attack claimed by Ukraine's military.",
+      "title_raw": "Russia Reports Fire in Strike on Major Baltic Port",
+      "lead_raw": "The northwestern port suffered damage this week when it was targeted by drones in an attack claimed by Ukraine's military.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "61fba4c46960bddc176748e1087097a2371b1e3c",
       "source": "TASS (RU)",
@@ -34,27 +74,6 @@
       "lead_raw": "Наряду с россиянами, вылетевшими спецрейсом из Еревана в Москву, были вывезены также граждане Белоруссии, Таджикистана и Узбекистана",
       "topic_scores": {
         "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "3a390101cee64af34c28830c6beb08acf82320b6",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2108149",
-      "published_utc": "2026-03-27T15:00:28Z",
-      "title_en": "Russian MFA summons Czech ambassador over firebombing of Russian center in Prague",
-      "lead_en": "Moscow demands that the Czech side immediately investigate the attack on the Russian center in Prague",
-      "title_raw": "Russian MFA summons Czech ambassador over firebombing of Russian center in Prague",
-      "lead_raw": "Moscow demands that the Czech side immediately investigate the attack on the Russian center in Prague",
-      "topic_scores": {
-        "diplomacy": 2,
         "military": 0,
         "energy": 0,
         "economy": 0,
