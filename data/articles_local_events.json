@@ -1,9 +1,92 @@
 {
-  "updated_at_utc": "2026-03-30T06:18:37Z",
+  "updated_at_utc": "2026-03-30T14:54:19Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 11,
+  "count": 14,
   "articles": [
+    {
+      "id": "6d80b231003b23fc018d93af5a5d4b760a92dc3a",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/03/30/zelensky-calls-for-easter-ceasefire-with-russia-a92373",
+      "published_utc": "2026-03-30T12:14:30Z",
+      "title_en": "Zelensky Calls for Easter Ceasefire With Russia",
+      "lead_en": "He also said Ukraine and Russia should agree to a mutual halt on strikes against energy infrastructure to help relieve pressure building in oil and gas markets.",
+      "title_raw": "Zelensky Calls for Easter Ceasefire With Russia",
+      "lead_raw": "He also said Ukraine and Russia should agree to a mutual halt on strikes against energy infrastructure to help relieve pressure building in oil and gas markets.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "b9c6dc4a37cc5d7da2e6f8bce0314d4591a42a73",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2108873",
+      "published_utc": "2026-03-30T10:16:08Z",
+      "title_en": "Russian air defenses downed 39 Ukrainian drones in Kursk Region over past 24 hours",
+      "lead_en": "The Ukrainian armed forces fired artillery 17 times on evacuated areas",
+      "title_raw": "Russian air defenses downed 39 Ukrainian drones in Kursk Region over past 24 hours",
+      "lead_raw": "The Ukrainian armed forces fired artillery 17 times on evacuated areas",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "3757e8353f3840a159d892e38cab4a3921a7de6c",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2108773",
+      "published_utc": "2026-03-30T08:28:31Z",
+      "title_en": "One person killed, 11 others injured: aftermath of Kiev’s night attack on Russia’s south",
+      "lead_en": "Overnight, air defenses shot down Ukrainian drones over the Belgorod, Kursk, Voronezh, Rostov, Volgograd, Penza, Ulyanovsk, Samara and Krasnodar Regions, the Azov Sea and Crimea",
+      "title_raw": "One person killed, 11 others injured: aftermath of Kiev’s night attack on Russia’s south",
+      "lead_raw": "Overnight, air defenses shot down Ukrainian drones over the Belgorod, Kursk, Voronezh, Rostov, Volgograd, Penza, Ulyanovsk, Samara and Krasnodar Regions, the Azov Sea and Crimea",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "e78cd6f7cfcc74d8401ef3c7fbf7ceea5f7e0168",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2108727",
+      "published_utc": "2026-03-30T06:45:52Z",
+      "title_en": "Zelensky may be killed for negotiating with Russia as he does not head Ukraine — expert",
+      "lead_en": "US political analyst Garland Nixon stressed that Zelensky was simply an operative for Western imperialism",
+      "title_raw": "Zelensky may be killed for negotiating with Russia as he does not head Ukraine — expert",
+      "lead_raw": "US political analyst Garland Nixon stressed that Zelensky was simply an operative for Western imperialism",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "ac2e6e435207c36cf22f8f622c81a0e59db0473a",
       "source": "TASS (RU)",
@@ -197,27 +280,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "30bc60182866f80f426663c8be1eba5f09aa1119",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/26920943",
-      "published_utc": "2026-03-28T08:24:30Z",
-      "title_en": "The Russian Embassy announced the evacuation of 164 Rosatom employees from the Bushehr nuclear power plant.",
-      "lead_en": "Along with the Russians who took off on a special flight from Yerevan to Moscow, citizens of Belarus, Tajikistan and Uzbekistan were also taken out",
-      "title_raw": "Посольство РФ заявило об эвакуации 164 сотрудников \"Росатома\" с АЭС \"Бушер\"",
-      "lead_raw": "Наряду с россиянами, вылетевшими спецрейсом из Еревана в Москву, были вывезены также граждане Белоруссии, Таджикистана и Узбекистана",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
