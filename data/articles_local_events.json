@@ -1,9 +1,172 @@
 {
-  "updated_at_utc": "2026-03-31T12:07:58Z",
+  "updated_at_utc": "2026-03-31T19:58:11Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 23,
+  "count": 28,
   "articles": [
+    {
+      "id": "53a47874badfb4b9f1abddf9c995a6a6adcc58f9",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2109751",
+      "published_utc": "2026-03-31T16:53:38Z",
+      "title_en": "Death toll from fire in Russia’s Tatarstan Republic rises to three",
+      "lead_en": "Emergency services said that search operations are being conducted for six people who are missing in connection with the fire at the Nizhnekamskneftekhim enterprise",
+      "title_raw": "Death toll from fire in Russia’s Tatarstan Republic rises to three",
+      "lead_raw": "Emergency services said that search operations are being conducted for six people who are missing in connection with the fire at the Nizhnekamskneftekhim enterprise",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "196acb37cf9c4b169ec89b858160b599dac4120a",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/03/31/finland-probes-new-unmanned-aircraft-crash-near-russian-border-a92394",
+      "published_utc": "2026-03-31T16:36:30Z",
+      "title_en": "Finland Probes New 'Unmanned Aircraft' Crash Near Russian Border",
+      "lead_en": "An \"unmanned fixed-wing aircraft\" was detected on the ice of Lake Pyhajarvi in eastern Finland, near the border with Russia, during a morning patrol.",
+      "title_raw": "Finland Probes New 'Unmanned Aircraft' Crash Near Russian Border",
+      "lead_raw": "An \"unmanned fixed-wing aircraft\" was detected on the ice of Lake Pyhajarvi in eastern Finland, near the border with Russia, during a morning patrol.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "0bef4e7a7907c7234a707a18f203d4d74f46a159",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2109733",
+      "published_utc": "2026-03-31T16:30:00Z",
+      "title_en": "Russia demands investigation into Israeli strike that injured RT crew in Lebanon",
+      "lead_en": "Russian Permanent Representative to the United Nations Vasily Nebenzya said the deliberate strike hit right next to where they were filming, with no military facilities anywhere in the vicinity, which can be seen clearly from the footage of ammunition explosions shot by the crew’",
+      "title_raw": "Russia demands investigation into Israeli strike that injured RT crew in Lebanon",
+      "lead_raw": "Russian Permanent Representative to the United Nations Vasily Nebenzya said the deliberate strike hit right next to where they were filming, with no military facilities anywhere in the vicinity, which can be seen clearly from the footage of ammunition explosions shot by the crew’",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "3864d2bdf054afebf03f9e9108e6771b72f9fbd9",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2109703",
+      "published_utc": "2026-03-31T15:11:44Z",
+      "title_en": "Russian envoy describes strikes on Iranian nuke plant as 'playing with fire'",
+      "lead_en": "Alexey Dedov pointed out that three such incidents had taken place",
+      "title_raw": "Russian envoy describes strikes on Iranian nuke plant as 'playing with fire'",
+      "lead_raw": "Alexey Dedov pointed out that three such incidents had taken place",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "46c4b657de2dc45f5a09c5af70c933d0fd56d71c",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2109645",
+      "published_utc": "2026-03-31T14:05:36Z",
+      "title_en": "Strait of Hormuz closure halts 50% of global fertilizer exports — Russian Security Council",
+      "lead_en": "Deputy Secretary of the Russian Security Council Alexander Venediktov said the logistics and trade-economic architecture, as well as global energy and food security, are on the brink of collapse",
+      "title_raw": "Strait of Hormuz closure halts 50% of global fertilizer exports — Russian Security Council",
+      "lead_raw": "Deputy Secretary of the Russian Security Council Alexander Venediktov said the logistics and trade-economic architecture, as well as global energy and food security, are on the brink of collapse",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 3,
+        "local_events": 1
+      },
+      "topics": [
+        "military",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "9294cff2de193b46553eba85f14db78c03167919",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2109589",
+      "published_utc": "2026-03-31T13:14:51Z",
+      "title_en": "Fire at petrochemical plant in Russia's Nizhnekamsk claims one live",
+      "lead_en": "There are currently 50 reported injuries of varying severity",
+      "title_raw": "Fire at petrochemical plant in Russia's Nizhnekamsk claims one live",
+      "lead_raw": "There are currently 50 reported injuries of varying severity",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "1a5ada1190f303fb1aab838c67cc5ee801b67f57",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2109581",
+      "published_utc": "2026-03-31T13:04:53Z",
+      "title_en": "Fire at Nizhnekamskneftekhim plant contained",
+      "lead_en": "One person died and fifty others sustained injuries as a result of the equipment failure and the subsequent fire outbreak at Nizhnekamskneftekhim, a Sibur plant, in Russia’s Tatarstan Republic",
+      "title_raw": "Fire at Nizhnekamskneftekhim plant contained",
+      "lead_raw": "One person died and fifty others sustained injuries as a result of the equipment failure and the subsequent fire outbreak at Nizhnekamskneftekhim, a Sibur plant, in Russia’s Tatarstan Republic",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "1e9086d8d4573849677c6d63da2c6c22e869b95c",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2109539",
+      "published_utc": "2026-03-31T12:17:01Z",
+      "title_en": "Russia needs lasting peace in Ukraine instead of ceasefire — Kremlin",
+      "lead_en": "Dmitry Peskov also said that Vladimir Zelensky’s Easter ceasefire proposal did not actually represent a clear initiative",
+      "title_raw": "Russia needs lasting peace in Ukraine instead of ceasefire — Kremlin",
+      "lead_raw": "Dmitry Peskov also said that Vladimir Zelensky’s Easter ceasefire proposal did not actually represent a clear initiative",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "6d7b60007fa534a3a622dcfa7fc633aec96c8030",
       "source": "TASS (EN)",
@@ -391,63 +554,6 @@
       "lead_en": "According to the Governor Yury Slyusar, local residents have been evacuated from the area where drone debris came down",
       "title_raw": "One person killed in drone attack on southern Russian city of Taganrog",
       "lead_raw": "According to the Governor Yury Slyusar, local residents have been evacuated from the area where drone debris came down",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "648f77690a43010569436f325522ea4efe202fb0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/26928809",
-      "published_utc": "2026-03-29T17:05:11Z",
-      "title_en": "In Chechnya, 557 houses were freed from water after bad weather",
-      "lead_en": "Employees of the Russian Ministry of Emergency Situations and public utilities are working to pump out water",
-      "title_raw": "В Чечне после непогоды освобождены от воды 557 домов",
-      "lead_raw": "Сотрудники МЧС России и коммунальные службы проводят работу по откачке воды",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "95318ebbc37026e15ae271aa1189ea050a9d9513",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/26928357",
-      "published_utc": "2026-03-29T14:59:23Z",
-      "title_en": "In Chuvashia, the danger of a UAV attack has been announced",
-      "lead_en": "This was reported in the application of the Ministry of Emergency Situations of Russia",
-      "title_raw": "В Чувашии объявили опасность атаки БПЛА",
-      "lead_raw": "Об этом сообщили в приложении МЧС России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "540fd004d68ab131780bf274101e649aee286919",
-      "source": "RT",
-      "url": "https://www.rt.com/news/636654-suspected-ukrainian-drones-crash-finland-pm/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "published_utc": "2026-03-29T14:14:55Z",
-      "title_en": "Ukrainian drones crash in Finland",
-      "lead_en": "Ukraine has apologized to Finland after two of its drones crashed in the country amid Kiev’s ongoing attacks on Russia’s Leningrad Region Read Full Article at RT.com",
-      "title_raw": "Ukrainian drones crash in Finland",
-      "lead_raw": "Ukraine has apologized to Finland after two of its drones crashed in the country amid Kiev’s ongoing attacks on Russia’s Leningrad Region Read Full Article at RT.com",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
