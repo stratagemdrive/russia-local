@@ -1,9 +1,549 @@
 {
-  "updated_at_utc": "2026-04-01T10:37:33Z",
+  "updated_at_utc": "2026-04-01T21:10:52Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 62,
+  "count": 70,
   "articles": [
+    {
+      "id": "cb3f326dc772e33760a313b9616d8593528431f0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/26970359",
+      "published_utc": "2026-04-01T21:02:21Z",
+      "title_en": "Expenditures on pensions in Russia for 2025 amounted to 12.5 trillion rubles",
+      "lead_en": "According to the Accounts Chamber, they increased by 1.4 trillion rubles compared to 2024",
+      "title_raw": "Расходы на пенсии в России за 2025 год составили 12,5 трлн рублей",
+      "lead_raw": "По информации Счетной палаты, они выросли на 1,4 трлн рублей по сравнению с 2024 годом",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "5e7435bdec9cb44883091f65062bbfc7327a5974",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/26970353",
+      "published_utc": "2026-04-01T21:01:20Z",
+      "title_en": "Large Russian banks continue to reduce rates on deposits and savings accounts",
+      "lead_en": "",
+      "title_raw": "Крупные российские банки продолжают снижать ставки по вкладам и накопительным счетам",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "22a066a193f350cf38c749fa41c45bd2b141717e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2110471",
+      "published_utc": "2026-04-01T18:03:25Z",
+      "title_en": "Russian envoy lists EU countries which suffer most from Gulf oil shock",
+      "lead_en": "According to Kirill Dmitriev, Italy is highly dependent on gas ports, while Germany relies on imports and has a high demand for energy",
+      "title_raw": "Russian envoy lists EU countries which suffer most from Gulf oil shock",
+      "lead_raw": "According to Kirill Dmitriev, Italy is highly dependent on gas ports, while Germany relies on imports and has a high demand for energy",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 3,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "e91877e057e5093ef84de74b8503bdac7dbb4136",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2110469",
+      "published_utc": "2026-04-01T17:57:04Z",
+      "title_en": "Inflation in Russia was 0.17% from March 24 to 30 — statistics",
+      "lead_en": "Consumer prices gained 0.58% since early March and 2.95% year to date",
+      "title_raw": "Inflation in Russia was 0.17% from March 24 to 30 — statistics",
+      "lead_raw": "Consumer prices gained 0.58% since early March and 2.95% year to date",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "b94c6182358cb283dbcf253e547c9a1d951a5991",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2110467",
+      "published_utc": "2026-04-01T17:55:47Z",
+      "title_en": "Capital investments in Russia down 2.3% annually in 2025 — statistics",
+      "lead_en": "Rosstat informed earlier that capital investments in Russia edged up by 0.5% year on year as of the end of January–September 2025",
+      "title_raw": "Capital investments in Russia down 2.3% annually in 2025 — statistics",
+      "lead_raw": "Rosstat informed earlier that capital investments in Russia edged up by 0.5% year on year as of the end of January–September 2025",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "6c28ce7cf9aac5cc4707764291cb2ad379290127",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2110463",
+      "published_utc": "2026-04-01T17:47:26Z",
+      "title_en": "Annual inflation in Russia reach 5.86% as of March 30 — Economy Ministry",
+      "lead_en": "Prices continued growing at a moderate pace for foods",
+      "title_raw": "Annual inflation in Russia reach 5.86% as of March 30 — Economy Ministry",
+      "lead_raw": "Prices continued growing at a moderate pace for foods",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "6dd75317206cb0b1262368f0350cab4f40062433",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/26969023",
+      "published_utc": "2026-04-01T17:03:52Z",
+      "title_en": "The Russian stock market closed with multidirectional changes in stock indices",
+      "lead_en": "The yuan exchange rate fell to 11.682 rubles",
+      "title_raw": "Российский рынок акций закрылся разнонаправленным изменением биржевых индексов",
+      "lead_raw": "Курс юаня снизился до 11,682 рубля",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "7d7f5c2e83ab822badbf5de7d40b3815ca4dc64a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/26968801",
+      "published_utc": "2026-04-01T16:32:29Z",
+      "title_en": "Deputy Prime Minister of Cuba noted an increase in payments in rubles with the Russian Federation",
+      "lead_en": "Moscow is Havana's sixth trading partner in Europe, said Oscar Perez-Oliva Fraga",
+      "title_raw": "Вице-премьер Кубы отметил увеличение расчетов в рублях с РФ",
+      "lead_raw": "Москва является шестым торговым партнером Гаваны в Европе, заявил Оскар Перес-Олива Фрага",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "5ee98931863aef4ec62dc3f2f3e6efeb36d58d29",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/04/01/kamaz-may-cut-its-workweek-to-4-days-again-as-russian-truck-sales-fall-and-chinese-surplus-weighs-on-market",
+      "published_utc": "2026-04-01T16:12:16Z",
+      "title_en": "KamAZ may cut its workweek to 4 days again as Russian truck sales fall and Chinese surplus weighs on market",
+      "lead_en": "KamAZ may cut its workweek to four days starting June 1 as heavy truck sales in Russia fall, the company’s press service told the Russian business news outlet RBC.",
+      "title_raw": "KamAZ may cut its workweek to 4 days again as Russian truck sales fall and Chinese surplus weighs on market",
+      "lead_raw": "KamAZ may cut its workweek to four days starting June 1 as heavy truck sales in Russia fall, the company’s press service told the Russian business news outlet RBC.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "2dbd5d2d747e04ae388dbb151f2a9e01d17e679d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/26968521",
+      "published_utc": "2026-04-01T16:03:11Z",
+      "title_en": "In Russia, annual inflation as of March 30 was recorded at 5.86%",
+      "lead_en": "From March 24 to March 30 it slowed to 0.17%",
+      "title_raw": "В России годовая инфляция на 30 марта зафиксирована на уровне 5,86%",
+      "lead_raw": "С 24 по 30 марта она замедлилась до 0,17%",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "dbc95719894629b4ea15a364c0551646e58e7950",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/26968527",
+      "published_utc": "2026-04-01T16:02:52Z",
+      "title_en": "Russia's annual GDP fell by 1.5% in February",
+      "lead_en": "Economic dynamics for the second month in a row is largely due to the calendar factor",
+      "title_raw": "Годовой ВВП России в феврале снизился на 1,5%",
+      "lead_raw": "Динамика экономики второй месяц подряд в значительной степени обусловлена календарным фактором",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "67b4c429fcab2c39b534e1157e77c942ba41476f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/26968487",
+      "published_utc": "2026-04-01T16:02:41Z",
+      "title_en": "In Russia, the average salary in January exceeded 103 thousand rubles",
+      "lead_en": "Over the year it grew by 15%",
+      "title_raw": "В России средний размер зарплаты в январе превысил 103 тыс. рублей",
+      "lead_raw": "За год он вырос на 15%",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "ed8a51307baaf2c33605725cf7822cc0c00b4291",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/26968483",
+      "published_utc": "2026-04-01T16:02:32Z",
+      "title_en": "In Russia, the average pension in February was 25,262 rubles",
+      "lead_en": "Over the year it increased by 2,034 rubles",
+      "title_raw": "В России средний размер пенсий в феврале составил 25 262 рубля",
+      "lead_raw": "За год она выросла на 2 034 рубля",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "32292288b6bb4fdd36045a3d76fb4e11b00f4f64",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/26968477",
+      "published_utc": "2026-04-01T16:02:21Z",
+      "title_en": "In Russia, retail trade turnover increased by 0.3% in February",
+      "lead_en": "It amounted to 4.784 trillion rubles",
+      "title_raw": "В России оборот розничной торговли в феврале вырос на 0,3%",
+      "lead_raw": "Он составил 4,784 трлн рублей",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "7b7313341ffe23c1503e38e0b042b5240fbd67fd",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/26968471",
+      "published_utc": "2026-04-01T16:02:14Z",
+      "title_en": "In Russia, the turnover of catering establishments increased by 6.8% in February",
+      "lead_en": "It amounted to 366.9 billion rubles",
+      "title_raw": "В России оборот заведений общепита в феврале вырос на 6,8%",
+      "lead_raw": "Он составил 366,9 млрд рублей",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "afe1fefb65793fbc147c4a30405cf5a5ab3a2eef",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/26968421",
+      "published_utc": "2026-04-01T16:01:16Z",
+      "title_en": "In Russia, gasoline prices rose by an average of 18 kopecks over the week",
+      "lead_en": "Average consumer prices for it increased to 66.73 rubles per 1 liter",
+      "title_raw": "В России бензин за неделю подорожал в среднем на 18 копеек",
+      "lead_raw": "Средние потребительские цены на него выросли до 66,73 рубля за 1 л",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "417304b81a2e699c9bcc16201b0e5241ce27b0d7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/26968415",
+      "published_utc": "2026-04-01T16:01:05Z",
+      "title_en": "In Russia, investment in fixed capital in 2025 decreased by 2.3%",
+      "lead_en": "They amounted to 42 trillion 640 billion rubles",
+      "title_raw": "В России инвестиции в основной капитал в 2025 году снизились на 2,3%",
+      "lead_raw": "Они составили 42 трлн 640 млрд рублей",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "3d71520dc953143ec9181e1e8a6358ad085ba4b9",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/26968409",
+      "published_utc": "2026-04-01T16:00:54Z",
+      "title_en": "In Russia, inflation from March 24 to March 30 was 0.17%",
+      "lead_en": "Since the beginning of March, consumer prices in the country have increased by 0.58%",
+      "title_raw": "В России инфляция с 24 по 30 марта составила 0,17%",
+      "lead_raw": "С начала марта потребительские цены в стране выросли на 0,58%",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "267e5fed54bd20e0c088ae6885f02d6507a6dacd",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2110403",
+      "published_utc": "2026-04-01T16:00:52Z",
+      "title_en": "Trade turnover with Armenia reach $6.4 bln last year — Putin",
+      "lead_en": "The head of state noted that Russia's trade turnover with Azerbaijan is less than $5 billion",
+      "title_raw": "Trade turnover with Armenia reach $6.4 bln last year — Putin",
+      "lead_raw": "The head of state noted that Russia's trade turnover with Azerbaijan is less than $5 billion",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "99e84c17c566c9aa9ad8302db00e01958097d19a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2110327",
+      "published_utc": "2026-04-01T14:38:46Z",
+      "title_en": "Passenger ship orders portfolio amounts to 63 — Russian Ministry of Industry",
+      "lead_en": "The demand for them by 2035 is estimated at 484 units",
+      "title_raw": "Passenger ship orders portfolio amounts to 63 — Russian Ministry of Industry",
+      "lead_raw": "The demand for them by 2035 is estimated at 484 units",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "392c4f4a18a1423762cb0399321cc3c2f92e6d5a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2110319",
+      "published_utc": "2026-04-01T14:35:22Z",
+      "title_en": "Russian business continues developing interaction with foreign partners",
+      "lead_en": "Head of the Russian Chamber of Commerce and Industry Sergey Katyrin said that Russia's entrepreneurs consistently stand for keeping business communications",
+      "title_raw": "Russian business continues developing interaction with foreign partners",
+      "lead_raw": "Head of the Russian Chamber of Commerce and Industry Sergey Katyrin said that Russia's entrepreneurs consistently stand for keeping business communications",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "f2863fc9dca6d41010f0750211a40eeea5678ab9",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2110287",
+      "published_utc": "2026-04-01T13:51:16Z",
+      "title_en": "Google files 24 trademark applications in Russia, including YouTube and Pixel",
+      "lead_en": "According to data of the Federal Service for Intellectual Property, all applications were filed in late March by Google LLC",
+      "title_raw": "Google files 24 trademark applications in Russia, including YouTube and Pixel",
+      "lead_raw": "According to data of the Federal Service for Intellectual Property, all applications were filed in late March by Google LLC",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "1c4423777c1bc96ca6625daf24359278145bf32f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2110239",
+      "published_utc": "2026-04-01T12:45:47Z",
+      "title_en": "Rise in global markets reflects optimism over end of Iran conflict",
+      "lead_en": "According to the report, the \"easing of tensions\" in global markets is driven by the possibility of a ceasefire scenario through diplomatic efforts by China aimed at restoring shipping in the Strait of Hormuz, as well as the suspension of sanctions on Russian oil",
+      "title_raw": "Rise in global markets reflects optimism over end of Iran conflict",
+      "lead_raw": "According to the report, the \"easing of tensions\" in global markets is driven by the possibility of a ceasefire scenario through diplomatic efforts by China aimed at restoring shipping in the Strait of Hormuz, as well as the suspension of sanctions on Russian oil",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "b7808495a6efa2026442e20e83f6063ae772b2b2",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/04/01/us-lifts-sanctions-on-3-russian-cargo-vessels-linked-to-exports-from-occupied-ukraine-a92397",
+      "published_utc": "2026-04-01T12:35:00Z",
+      "title_en": "U.S. Lifts Sanctions on 3 Russian Cargo Vessels Linked to Exports From Occupied Ukraine",
+      "lead_en": "The vessels are reported to have ties to Russian war finance, government insiders and the export of resources extracted from occupied Ukraine.",
+      "title_raw": "U.S. Lifts Sanctions on 3 Russian Cargo Vessels Linked to Exports From Occupied Ukraine",
+      "lead_raw": "The vessels are reported to have ties to Russian war finance, government insiders and the export of resources extracted from occupied Ukraine.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "0c839903e667560e76970d628b7ba28ae7bef6f9",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2110201",
+      "published_utc": "2026-04-01T11:58:30Z",
+      "title_en": "US extends sanctions waiver for transit of Russian oil to China via Kazakhstan until 2027",
+      "lead_en": "The issue of increasing transportation volumes is being discussed between the energy ministries of Kazakhstan and the Russian Federation",
+      "title_raw": "US extends sanctions waiver for transit of Russian oil to China via Kazakhstan until 2027",
+      "lead_raw": "The issue of increasing transportation volumes is being discussed between the energy ministries of Kazakhstan and the Russian Federation",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "f992ce096457b4648c74e83f3507627c14365cc4",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2110187",
+      "published_utc": "2026-04-01T11:36:33Z",
+      "title_en": "Bank of Russia chief says structural changes in economy are accelerating",
+      "lead_en": "Elvira Nabiullina noted that any structural change meant that companies operating on old technologies were increasingly being pushed out of the market and replaced by new, more technologically advanced service providers",
+      "title_raw": "Bank of Russia chief says structural changes in economy are accelerating",
+      "lead_raw": "Elvira Nabiullina noted that any structural change meant that companies operating on old technologies were increasingly being pushed out of the market and replaced by new, more technologically advanced service providers",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "59a0925ee4db04297effcdf7ee85013a2188a5bd",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2110167",
+      "published_utc": "2026-04-01T11:27:14Z",
+      "title_en": "Russia’s gas exports to Europe via TurkStream up by 10% in 1Q to 4.9 bcm",
+      "lead_en": "The average daily capacity of the TurkStream pipeline in the European direction in March was 21% higher than in March 2025 and 1% higher than in February",
+      "title_raw": "Russia’s gas exports to Europe via TurkStream up by 10% in 1Q to 4.9 bcm",
+      "lead_raw": "The average daily capacity of the TurkStream pipeline in the European direction in March was 21% higher than in March 2025 and 1% higher than in February",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "f8fc834ae3b4ec8bd55c59f89fb14c26da54c46a",
       "source": "TASS (RU)",
@@ -868,399 +1408,6 @@
       },
       "topics": [],
       "primary_topic": "economy"
-    },
-    {
-      "id": "d822bb9010841c0a835d7f6dee4030592ff82546",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/26941681",
-      "published_utc": "2026-03-30T21:02:16Z",
-      "title_en": "Accounts Chamber: Russia's national debt in 2025 increased by 21%",
-      "lead_en": "It amounted to 35.1 trillion rubles",
-      "title_raw": "Счетная палата: госдолг России за 2025 год вырос на 21%",
-      "lead_raw": "Он составил 35,1 трлн рублей",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "cacbda07e9f0fe68ab116012bc7219f2776800e2",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/26941511",
-      "published_utc": "2026-03-30T20:19:02Z",
-      "title_en": "Zakharova: the EU strategy to drive less to save money is strikingly progressive",
-      "lead_en": "This is how the official representative of the Russian Foreign Ministry commented on the words of the European Commissioner for Energy Dan Jorgensen, who proposed thus reducing the volume of fuel use against the backdrop of the crisis due to the military operation against Iran",
-      "title_raw": "Захарова: стратегия ЕС меньше ездить для экономии поражает прогрессивностью",
-      "lead_raw": "Так официальный представитель МИД РФ прокомментировала слова еврокомиссара по энергетике Дана Йоргенсена, который предложил таким образом сократить объемы использования топлива на фоне кризиса из-за военной операции против Ирана",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e661f0e39501b0b7410063672ed0de628c0ee8f5",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2109123",
-      "published_utc": "2026-03-30T17:35:51Z",
-      "title_en": "Russian stock indices in the green as main trading session on Moscow Exchange closes",
-      "lead_en": "The BCS World of Investments expects the rates of the dollar and the yuan against the ruble on Tuesday will be 82 rubles and 11.9 rubles, respectively",
-      "title_raw": "Russian stock indices in the green as main trading session on Moscow Exchange closes",
-      "lead_raw": "The BCS World of Investments expects the rates of the dollar and the yuan against the ruble on Tuesday will be 82 rubles and 11.9 rubles, respectively",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "4ff4efc59e5a07b7edb488a695ed43a307095bc8",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/03/30/french-court-sentences-russia-linked-tanker-captain-to-1-year-in-jail-a92381",
-      "published_utc": "2026-03-30T15:48:56Z",
-      "title_en": "French Court Sentences Russia-Linked Tanker Captain to 1 Year in Jail",
-      "lead_en": "The vessel, claiming to be flagged in Benin, was thought to be part of a fleet transporting Russian oil in violation of Western sanctions.",
-      "title_raw": "French Court Sentences Russia-Linked Tanker Captain to 1 Year in Jail",
-      "lead_raw": "The vessel, claiming to be flagged in Benin, was thought to be part of a fleet transporting Russian oil in violation of Western sanctions.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "afd20098aff79b46720977bbf172c75fce8f209e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2109079",
-      "published_utc": "2026-03-30T15:35:14Z",
-      "title_en": "Russia may find its niche in addressing Nepal’s energy problems — embassy",
-      "lead_en": "According to Russian Charge d’Affaires in Kathmandu Rinchen Rakshaev, trade and economic relations between Russia and Nepal have significant potential",
-      "title_raw": "Russia may find its niche in addressing Nepal’s energy problems — embassy",
-      "lead_raw": "According to Russian Charge d’Affaires in Kathmandu Rinchen Rakshaev, trade and economic relations between Russia and Nepal have significant potential",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "a21d9591c00615bbabfadbbf4af472c1178cae4e",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/03/30/georgias-only-refinery-to-replace-russian-crude-with-turkmen-kazakh-oil-a92379",
-      "published_utc": "2026-03-30T15:21:41Z",
-      "title_en": "Georgia’s Only Refinery to Replace Russian Crude With Turkmen, Kazakh Oil",
-      "lead_en": "The strategic shift comes nearly a month after the Kulevi oil terminal on the Black Sea coast narrowly avoided being added to an EU list of sanctions against Russia over its invasion of Ukraine.",
-      "title_raw": "Georgia’s Only Refinery to Replace Russian Crude With Turkmen, Kazakh Oil",
-      "lead_raw": "The strategic shift comes nearly a month after the Kulevi oil terminal on the Black Sea coast narrowly avoided being added to an EU list of sanctions against Russia over its invasion of Ukraine.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "594832276c815c987bfd820dca2ac3d7473a9999",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2109063",
-      "published_utc": "2026-03-30T15:04:28Z",
-      "title_en": "Bank of Russia raises dollar rate for March 31 to 81.30 rubles",
-      "lead_en": "The official euro exchange rate rose by 1.22 kopecks to 93.4369 rubles",
-      "title_raw": "Bank of Russia raises dollar rate for March 31 to 81.30 rubles",
-      "lead_raw": "The official euro exchange rate rose by 1.22 kopecks to 93.4369 rubles",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "65fa8a5788f3dcc71ce40f7714e0f7e1ff043d5f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/26938917",
-      "published_utc": "2026-03-30T14:22:24Z",
-      "title_en": "The US Department of Commerce extended export restrictions against Aviastar-TU airline",
-      "lead_en": "According to the ministry, in 2025 Aviastar-TU continued to operate domestic flights within the Russian Federation and to India using American aircraft subject to Washington's export restrictions on Russia",
-      "title_raw": "Минторг США продлил экспортные ограничения против авиакомпании \"Авиастар-ТУ\"",
-      "lead_raw": "Как утверждает министерство, в 2025 году \"Авиастар-ТУ\" продолжила осуществлять внутренние рейсы по территории РФ и в Индию с использованием американских самолетов, подпадающих под экспортные ограничения Вашингтона в отношении России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "f917a74cd102607ab1f098c0eb79a051819ec782",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/03/30/south-korea-revives-naphtha-imports-from-russia-amid-looming-shortage-a92375",
-      "published_utc": "2026-03-30T14:13:12Z",
-      "title_en": "South Korea Revives Naphtha Imports From Russia Amid Looming Shortage",
-      "lead_en": "LG Chem bought 27,000 metric tons of naphtha, South Korean media reported, with shipments expected to arrive on Monday.",
-      "title_raw": "South Korea Revives Naphtha Imports From Russia Amid Looming Shortage",
-      "lead_raw": "LG Chem bought 27,000 metric tons of naphtha, South Korean media reported, with shipments expected to arrive on Monday.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "82b12e6227fc4e92fc0d7c7e498af29bc9ac71a3",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2109033",
-      "published_utc": "2026-03-30T14:11:26Z",
-      "title_en": "Sri Lanka to propose Russian investment in Colombo port during Russian deputy FM visit",
-      "lead_en": "According to the publication, Russian Deputy Foreign Minister Andrey Rudenko will arrive in Sri Lanka on April 2 for high-level talks",
-      "title_raw": "Sri Lanka to propose Russian investment in Colombo port during Russian deputy FM visit",
-      "lead_raw": "According to the publication, Russian Deputy Foreign Minister Andrey Rudenko will arrive in Sri Lanka on April 2 for high-level talks",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "6050da4bf989a0ac93e24618cfaa5319d97805b6",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/26938723",
-      "published_utc": "2026-03-30T14:00:13Z",
-      "title_en": "Novinky: The Prague court refused to unblock the account of Goszagranprosperty",
-      "lead_en": "The bank account of an enterprise that manages many foreign real estate properties owned by the Russian Federation was blocked after it was included in the national sanctions list",
-      "title_raw": "Novinky: суд Праги отказал \"Госзагрансобственности\" в разблокировке счета",
-      "lead_raw": "Банковский счет предприятия, управляющего многими объектами зарубежной недвижимости, находящимися в собственности РФ, был заблокирован после его внесения в национальный санкционный список",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "2a1eb8b88d13d91ac82618e64d25cfd30a8fd65d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/26938715",
-      "published_utc": "2026-03-30T13:58:59Z",
-      "title_en": "Putin signed a decree on the creation of the Russian Biological Industrial Company",
-      "lead_en": "The priority goal has been to ensure the production of medicines and preparations for veterinary use",
-      "title_raw": "Путин подписал указ о создании Российской биологической промышленной компании",
-      "lead_raw": "В качестве приоритетной цели установлено в том числе обеспечение производств лекарственных средств и препаратов для ветеринарного применения",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "695470b8928381e8f0ab56e4dbe43da451125bb0",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2109019",
-      "published_utc": "2026-03-30T13:39:59Z",
-      "title_en": "South Korean company imports naphtha from Russia — agency",
-      "lead_en": "On March 30, a special committee of the ruling Toburo Democratic Party met to address the economic fallout from the US-Iran conflict",
-      "title_raw": "South Korean company imports naphtha from Russia — agency",
-      "lead_raw": "On March 30, a special committee of the ruling Toburo Democratic Party met to address the economic fallout from the US-Iran conflict",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "b69e9133d4a11a1047412a99e922ff3e17ab501a",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2109009",
-      "published_utc": "2026-03-30T13:20:17Z",
-      "title_en": "UK fines Apple over $500k for violating anti-Russian sanctions — OFSI",
-      "lead_en": "The penalty imposed was for \"making funds available to a designated person without a license\"",
-      "title_raw": "UK fines Apple over $500k for violating anti-Russian sanctions — OFSI",
-      "lead_raw": "The penalty imposed was for \"making funds available to a designated person without a license\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "a782c6468856e3a074c97d45626892f1a1d584ad",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/03/30/russia-expels-british-diplomat-over-alleged-economic-espionage-a92371",
-      "published_utc": "2026-03-30T12:47:25Z",
-      "title_en": "Russia Expels British Diplomat Over Alleged Economic Espionage",
-      "lead_en": "The British Embassy in Moscow dismissed the spying allegations and called the expulsion “completely unacceptable.”",
-      "title_raw": "Russia Expels British Diplomat Over Alleged Economic Espionage",
-      "lead_raw": "The British Embassy in Moscow dismissed the spying allegations and called the expulsion “completely unacceptable.”",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "abc43a40be3685eeecaa8bb5109cd9e96f5888d3",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2108985",
-      "published_utc": "2026-03-30T12:33:43Z",
-      "title_en": "Russia’s container market loses 3.1% in January-February — Fesco",
-      "lead_en": "The company said that imports decreased by 3% to 449,000 TEU",
-      "title_raw": "Russia’s container market loses 3.1% in January-February — Fesco",
-      "lead_raw": "The company said that imports decreased by 3% to 449,000 TEU",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "c56a3ae92dc8ab0b05380a8c78e56d6d416b7f77",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2108983",
-      "published_utc": "2026-03-30T12:32:51Z",
-      "title_en": "LG Chem imports 27,000 tons of naphtha from Russia — Yonhap",
-      "lead_en": "The shipment will arrive at the Daesan petrochemical complex in South Chungcheong Province on March 30",
-      "title_raw": "LG Chem imports 27,000 tons of naphtha from Russia — Yonhap",
-      "lead_raw": "The shipment will arrive at the Daesan petrochemical complex in South Chungcheong Province on March 30",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "6d80b231003b23fc018d93af5a5d4b760a92dc3a",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/03/30/zelensky-calls-for-easter-ceasefire-with-russia-a92373",
-      "published_utc": "2026-03-30T12:14:30Z",
-      "title_en": "Zelensky Calls for Easter Ceasefire With Russia",
-      "lead_en": "He also said Ukraine and Russia should agree to a mutual halt on strikes against energy infrastructure to help relieve pressure building in oil and gas markets.",
-      "title_raw": "Zelensky Calls for Easter Ceasefire With Russia",
-      "lead_raw": "He also said Ukraine and Russia should agree to a mutual halt on strikes against energy infrastructure to help relieve pressure building in oil and gas markets.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 1,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "5986e51202291d66ba7ad143eecd2fc9e4bfe211",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2108967",
-      "published_utc": "2026-03-30T12:11:38Z",
-      "title_en": "Russia's non-resource non-energy exports up by 10% year-on-year by end of 2025 — governor",
-      "lead_en": "Alexander Tsybulsky noted that the geography of supplies had changed, with 86% now going to friendly markets",
-      "title_raw": "Russia's non-resource non-energy exports up by 10% year-on-year by end of 2025 — governor",
-      "lead_raw": "Alexander Tsybulsky noted that the geography of supplies had changed, with 86% now going to friendly markets",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
