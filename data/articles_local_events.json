@@ -1,9 +1,92 @@
 {
-  "updated_at_utc": "2026-04-02T09:41:36Z",
+  "updated_at_utc": "2026-04-02T19:38:21Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 23,
+  "count": 15,
   "articles": [
+    {
+      "id": "6d4f8c3608f1ee87af4ea3a8ef71f68b4c0d8180",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/04/02/russian-tanker-out-of-control-after-failed-towing-libyan-authorities-say-a92415",
+      "published_utc": "2026-04-02T16:00:27Z",
+      "title_en": "Russian Tanker 'Out of Control' After Failed Towing, Libyan Authorities Say",
+      "lead_en": "The Arctic Metagaz was abandoned in the Mediterranean after it was hit by a series of explosions while it was ferrying a consignment LNG from Russia to Egypt.",
+      "title_raw": "Russian Tanker 'Out of Control' After Failed Towing, Libyan Authorities Say",
+      "lead_raw": "The Arctic Metagaz was abandoned in the Mediterranean after it was hit by a series of explosions while it was ferrying a consignment LNG from Russia to Egypt.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "8f2adb33ac4a1475e9a7455295dd4824e7aa2ba6",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2111029",
+      "published_utc": "2026-04-02T14:56:29Z",
+      "title_en": "Russia to request observance of ceasefire during evacuation of staff from Bushehr NPP",
+      "lead_en": "Alexey Likhachev did not specify the exact date for the start of the next wave of evacuation",
+      "title_raw": "Russia to request observance of ceasefire during evacuation of staff from Bushehr NPP",
+      "lead_raw": "Alexey Likhachev did not specify the exact date for the start of the next wave of evacuation",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "55502de81a998584b8ff8677ce1996b274243432",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/04/02/regions-calling-spring-floods-catch-russian-officials-off-guard-a92413",
+      "published_utc": "2026-04-02T14:41:00Z",
+      "title_en": "Regions Calling: Spring Floods Catch Russian Officials Off Guard",
+      "lead_en": "The North Caucasus republics of Chechnya and Dagestan are grappling with catastrophic floods after experiencing their heaviest rainfall in decades.",
+      "title_raw": "Regions Calling: Spring Floods Catch Russian Officials Off Guard",
+      "lead_raw": "The North Caucasus republics of Chechnya and Dagestan are grappling with catastrophic floods after experiencing their heaviest rainfall in decades.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "d26b853f007b16f46069684004a4172250eabe20",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/04/02/bbc-russia-reports-russian-northern-fleet-general-killed-in-an-26-crash",
+      "published_utc": "2026-04-02T14:16:14Z",
+      "title_en": "BBC Russia reports Russian Northern Fleet general killed in An-26 crash",
+      "lead_en": "BBC Russia reported that Lt. Gen.",
+      "title_raw": "BBC Russia reports Russian Northern Fleet general killed in An-26 crash",
+      "lead_raw": "BBC Russia reported that Lt. Gen.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "f366cf13bab031e6208722b08926985693bca4b6",
       "source": "TASS (RU)",
@@ -228,249 +311,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "53a47874badfb4b9f1abddf9c995a6a6adcc58f9",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2109751",
-      "published_utc": "2026-03-31T16:53:38Z",
-      "title_en": "Death toll from fire in Russia’s Tatarstan Republic rises to three",
-      "lead_en": "Emergency services said that search operations are being conducted for six people who are missing in connection with the fire at the Nizhnekamskneftekhim enterprise",
-      "title_raw": "Death toll from fire in Russia’s Tatarstan Republic rises to three",
-      "lead_raw": "Emergency services said that search operations are being conducted for six people who are missing in connection with the fire at the Nizhnekamskneftekhim enterprise",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "196acb37cf9c4b169ec89b858160b599dac4120a",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/03/31/finland-probes-new-unmanned-aircraft-crash-near-russian-border-a92394",
-      "published_utc": "2026-03-31T16:36:30Z",
-      "title_en": "Finland Probes New 'Unmanned Aircraft' Crash Near Russian Border",
-      "lead_en": "An \"unmanned fixed-wing aircraft\" was detected on the ice of Lake Pyhajarvi in eastern Finland, near the border with Russia, during a morning patrol.",
-      "title_raw": "Finland Probes New 'Unmanned Aircraft' Crash Near Russian Border",
-      "lead_raw": "An \"unmanned fixed-wing aircraft\" was detected on the ice of Lake Pyhajarvi in eastern Finland, near the border with Russia, during a morning patrol.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "0bef4e7a7907c7234a707a18f203d4d74f46a159",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2109733",
-      "published_utc": "2026-03-31T16:30:00Z",
-      "title_en": "Russia demands investigation into Israeli strike that injured RT crew in Lebanon",
-      "lead_en": "Russian Permanent Representative to the United Nations Vasily Nebenzya said the deliberate strike hit right next to where they were filming, with no military facilities anywhere in the vicinity, which can be seen clearly from the footage of ammunition explosions shot by the crew’",
-      "title_raw": "Russia demands investigation into Israeli strike that injured RT crew in Lebanon",
-      "lead_raw": "Russian Permanent Representative to the United Nations Vasily Nebenzya said the deliberate strike hit right next to where they were filming, with no military facilities anywhere in the vicinity, which can be seen clearly from the footage of ammunition explosions shot by the crew’",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "3864d2bdf054afebf03f9e9108e6771b72f9fbd9",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2109703",
-      "published_utc": "2026-03-31T15:11:44Z",
-      "title_en": "Russian envoy describes strikes on Iranian nuke plant as 'playing with fire'",
-      "lead_en": "Alexey Dedov pointed out that three such incidents had taken place",
-      "title_raw": "Russian envoy describes strikes on Iranian nuke plant as 'playing with fire'",
-      "lead_raw": "Alexey Dedov pointed out that three such incidents had taken place",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "46c4b657de2dc45f5a09c5af70c933d0fd56d71c",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2109645",
-      "published_utc": "2026-03-31T14:05:36Z",
-      "title_en": "Strait of Hormuz closure halts 50% of global fertilizer exports — Russian Security Council",
-      "lead_en": "Deputy Secretary of the Russian Security Council Alexander Venediktov said the logistics and trade-economic architecture, as well as global energy and food security, are on the brink of collapse",
-      "title_raw": "Strait of Hormuz closure halts 50% of global fertilizer exports — Russian Security Council",
-      "lead_raw": "Deputy Secretary of the Russian Security Council Alexander Venediktov said the logistics and trade-economic architecture, as well as global energy and food security, are on the brink of collapse",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 3,
-        "local_events": 1
-      },
-      "topics": [
-        "military",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "9294cff2de193b46553eba85f14db78c03167919",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2109589",
-      "published_utc": "2026-03-31T13:14:51Z",
-      "title_en": "Fire at petrochemical plant in Russia's Nizhnekamsk claims one live",
-      "lead_en": "There are currently 50 reported injuries of varying severity",
-      "title_raw": "Fire at petrochemical plant in Russia's Nizhnekamsk claims one live",
-      "lead_raw": "There are currently 50 reported injuries of varying severity",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "1a5ada1190f303fb1aab838c67cc5ee801b67f57",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2109581",
-      "published_utc": "2026-03-31T13:04:53Z",
-      "title_en": "Fire at Nizhnekamskneftekhim plant contained",
-      "lead_en": "One person died and fifty others sustained injuries as a result of the equipment failure and the subsequent fire outbreak at Nizhnekamskneftekhim, a Sibur plant, in Russia’s Tatarstan Republic",
-      "title_raw": "Fire at Nizhnekamskneftekhim plant contained",
-      "lead_raw": "One person died and fifty others sustained injuries as a result of the equipment failure and the subsequent fire outbreak at Nizhnekamskneftekhim, a Sibur plant, in Russia’s Tatarstan Republic",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "1e9086d8d4573849677c6d63da2c6c22e869b95c",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2109539",
-      "published_utc": "2026-03-31T12:17:01Z",
-      "title_en": "Russia needs lasting peace in Ukraine instead of ceasefire — Kremlin",
-      "lead_en": "Dmitry Peskov also said that Vladimir Zelensky’s Easter ceasefire proposal did not actually represent a clear initiative",
-      "title_raw": "Russia needs lasting peace in Ukraine instead of ceasefire — Kremlin",
-      "lead_raw": "Dmitry Peskov also said that Vladimir Zelensky’s Easter ceasefire proposal did not actually represent a clear initiative",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "6d7b60007fa534a3a622dcfa7fc633aec96c8030",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2109519",
-      "published_utc": "2026-03-31T11:58:26Z",
-      "title_en": "Equipment failure caused fire at Nizhnekamskneftekhim",
-      "lead_en": "More than sixty people and nineteen vehicles of the Russian Ministry of Emergencies are now involved in firefighting",
-      "title_raw": "Equipment failure caused fire at Nizhnekamskneftekhim",
-      "lead_raw": "More than sixty people and nineteen vehicles of the Russian Ministry of Emergencies are now involved in firefighting",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "1643a6e98d3c2f0e45439f202458adb4fd962915",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2109517",
-      "published_utc": "2026-03-31T11:57:00Z",
-      "title_en": "Old world order coming apart, ceasefire in Iran: Lavrov’s statements",
-      "lead_en": "Russia’s top diplomat stressed that Moscow calls for an immediate end to US and Israeli aggression against Iran, described the use of military force against civilians and civilian infrastructure as unacceptable",
-      "title_raw": "Old world order coming apart, ceasefire in Iran: Lavrov’s statements",
-      "lead_raw": "Russia’s top diplomat stressed that Moscow calls for an immediate end to US and Israeli aggression against Iran, described the use of military force against civilians and civilian infrastructure as unacceptable",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "b3ab967f4ed0b91c80d5bbc9c43b77d3396918bf",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/26949223",
-      "published_utc": "2026-03-31T10:59:46Z",
-      "title_en": "Unmanned danger declared in Tatarstan",
-      "lead_en": "This information was reported to the Russian Ministry of Emergency Situations",
-      "title_raw": "В Татарстане объявили беспилотную опасность",
-      "lead_raw": "Эту информацию сообщили в МЧС России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "07b618a132ac2a99506ccfc69f6a1f2a4e160083",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2109447",
-      "published_utc": "2026-03-31T10:43:37Z",
-      "title_en": "Kiev attacking Zaporozhye NPP to trigger accident and blame Russia — expert",
-      "lead_en": "Vladimir Karasev believes that attacks on the plant and energy infrastructure will stop only \"when the state of Ukraine ceases to exist on the political map of the world\"",
-      "title_raw": "Kiev attacking Zaporozhye NPP to trigger accident and blame Russia — expert",
-      "lead_raw": "Vladimir Karasev believes that attacks on the plant and energy infrastructure will stop only \"when the state of Ukraine ceases to exist on the political map of the world\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
