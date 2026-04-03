@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-04-03T11:25:20Z",
+  "updated_at_utc": "2026-04-03T17:01:52Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 14,
+  "count": 13,
   "articles": [
+    {
+      "id": "61e45e900d33c64a466b8a2e790f257fa0575f59",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/04/03/sberbank-says-services-have-been-restored-after-outages-hit-major-russian-bank-apps",
+      "published_utc": "2026-04-03T16:11:32Z",
+      "title_en": "Sberbank says services have been restored after outages hit major Russian bank apps",
+      "lead_en": "Apps for Sberbank, VTB, and T-Bank experienced major disruptions, according to Downdetector and Sboy.rf.",
+      "title_raw": "Sberbank says services have been restored after outages hit major Russian bank apps",
+      "lead_raw": "Apps for Sberbank, VTB, and T-Bank experienced major disruptions, according to Downdetector and Sboy.rf.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "10838b1502eed67f0cbeddc4c01c6fb82491beda",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/04/03/russian-fighter-jet-crashes-in-annexed-crimea-a92419",
+      "published_utc": "2026-04-03T11:45:42Z",
+      "title_en": "Russian Fighter Jet Crashes in Annexed Crimea",
+      "lead_en": "It marks the second military plane crash in the Black Sea peninsula this week.",
+      "title_raw": "Russian Fighter Jet Crashes in Annexed Crimea",
+      "lead_raw": "It marks the second military plane crash in the Black Sea peninsula this week.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "e4b1d0e98255f2d45465d35c7da23aa83667ea02",
       "source": "TASS (RU)",
@@ -226,70 +266,6 @@
         "military"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "851c9d008fe569861bc1092c665ab122f04c0fc6",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/04/01/northern-fleet-personnel-among-29-killed-in-russian-military-transport-crash-in-crimea",
-      "published_utc": "2026-04-01T12:56:38Z",
-      "title_en": "Northern Fleet personnel among 29 killed in Russian military transport crash in Crimea",
-      "lead_en": "Among those killed when a military transport aircraft crashed in Crimea were servicemembers of Russia’s Northern Fleet, Murmansk Governor Andrei Chibis said. He did not specify how many Northern Fleet personnel died in the crash.",
-      "title_raw": "Northern Fleet personnel among 29 killed in Russian military transport crash in Crimea",
-      "lead_raw": "Among those killed when a military transport aircraft crashed in Crimea were servicemembers of Russia’s Northern Fleet, Murmansk Governor Andrei Chibis said. He did not specify how many Northern Fleet personnel died in the crash.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "1c4423777c1bc96ca6625daf24359278145bf32f",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2110239",
-      "published_utc": "2026-04-01T12:45:47Z",
-      "title_en": "Rise in global markets reflects optimism over end of Iran conflict",
-      "lead_en": "According to the report, the \"easing of tensions\" in global markets is driven by the possibility of a ceasefire scenario through diplomatic efforts by China aimed at restoring shipping in the Strait of Hormuz, as well as the suspension of sanctions on Russian oil",
-      "title_raw": "Rise in global markets reflects optimism over end of Iran conflict",
-      "lead_raw": "According to the report, the \"easing of tensions\" in global markets is driven by the possibility of a ceasefire scenario through diplomatic efforts by China aimed at restoring shipping in the Strait of Hormuz, as well as the suspension of sanctions on Russian oil",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "239836c26abf89131a12cc6cb7993498407de807",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2110213",
-      "published_utc": "2026-04-01T12:17:31Z",
-      "title_en": "Russia, China plan to launch drone cargo transport between two countries this summer",
-      "lead_en": "Drones in the form of the Firebird on the Russian side and the Phoenix on the Chinese side will cross the border over the Amur River as part of the ‘Shores of Taste’ festival",
-      "title_raw": "Russia, China plan to launch drone cargo transport between two countries this summer",
-      "lead_raw": "Drones in the form of the Firebird on the Russian side and the Phoenix on the Chinese side will cross the border over the Amur River as part of the ‘Shores of Taste’ festival",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
