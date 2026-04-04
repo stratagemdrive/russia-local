@@ -1,9 +1,53 @@
 {
-  "updated_at_utc": "2026-04-04T05:14:31Z",
+  "updated_at_utc": "2026-04-04T10:06:02Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 54,
   "articles": [
+    {
+      "id": "5e6b1bdff50878a948710f77ee60e736813726cc",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27000999",
+      "published_utc": "2026-04-04T09:17:00Z",
+      "title_en": "The Russian Armed Forces hit Ukrainian military-industrial complex and energy facilities used in the interests of the Armed Forces of Ukraine",
+      "lead_en": "All designated targets were hit, the Ministry of Defense reported.",
+      "title_raw": "ВС РФ ударили по объектам ВПК и энергетики Украины, используемым в интересах ВСУ",
+      "lead_raw": "Все назначенные цели были поражены, сообщили в Минобороны",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "06b37f2a8431a1b84c9d67ce0fb9ae363b6c1fd3",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27000521",
+      "published_utc": "2026-04-04T07:49:30Z",
+      "title_en": "Abkhazia and Russia signed an agreement on cooperation in the energy sector",
+      "lead_en": "The key provisions of the document are coordination of joint work of energy systems, interaction in emergency situations, assistance in concluding agreements between specialized organizations, the Ministry of Energy of the Republic reported",
+      "title_raw": "Абхазия и Россия подписали соглашение о сотрудничестве в сфере энергетики",
+      "lead_raw": "Ключевыми положениями документа являются координация совместной работы энергетических систем, взаимодействие при аварийных ситуациях, содействие заключению договоров между профильными организациями, сообщило Минэнерго республики",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "eec4e7017eb09cef45a518e33f83f14ba45aa04f",
       "source": "TASS (EN)",
@@ -1114,49 +1158,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "d0d4bb9ad8d82d01e72d11801ecdcd417dc75894",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/26977343",
-      "published_utc": "2026-04-02T09:14:57Z",
-      "title_en": "The Russian Armed Forces hit a Ukrainian military-industrial complex",
-      "lead_en": "Russian forces also attacked the country’s energy, transport and port infrastructure facilities used in the interests of the Ukrainian Armed Forces.",
-      "title_raw": "ВС РФ поразили предприятие ВПК Украины",
-      "lead_raw": "Российские силы также атаковали используемые в интересах ВСУ объекты энергетической, транспортной и портовой инфраструктуры страны",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "98480a575bad486436679f5425ca29be052e211a",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2110699",
-      "published_utc": "2026-04-02T08:23:48Z",
-      "title_en": "Moscow open to talks with Colombo on floating small modular NPP — Deputy Foreign Minister",
-      "lead_en": "According to Andrey Rudenko, \"many Southeast Asian countries are showing keen interest in benefiting from Russia's experience in developing small modular nuclear power plants\"",
-      "title_raw": "Moscow open to talks with Colombo on floating small modular NPP — Deputy Foreign Minister",
-      "lead_raw": "According to Andrey Rudenko, \"many Southeast Asian countries are showing keen interest in benefiting from Russia's experience in developing small modular nuclear power plants\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
