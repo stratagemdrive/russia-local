@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-04-04T11:55:17Z",
+  "updated_at_utc": "2026-04-04T15:59:31Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 18,
+  "count": 17,
   "articles": [
+    {
+      "id": "93bcec46f940b7b75295b20a073ff5b7211254dc",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2111923",
+      "published_utc": "2026-04-04T15:51:13Z",
+      "title_en": "Russian Consulate General in Dubai has no reports of Russians injured in Iran strikes",
+      "lead_en": "Earlier, the UAE Defense Ministry said in its daily report that a total of 217 people had been injured as a result of the strikes",
+      "title_raw": "Russian Consulate General in Dubai has no reports of Russians injured in Iran strikes",
+      "lead_raw": "Earlier, the UAE Defense Ministry said in its daily report that a total of 217 people had been injured as a result of the strikes",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "0b7ba8d70e5637485f4427d11068af1eca4b1b44",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2111911",
+      "published_utc": "2026-04-04T14:54:02Z",
+      "title_en": "Number of injured in Iran’s attacks on UAE rises to 217, including Russian citizens",
+      "lead_en": "The previous day, 203 injured were reported, and there were no Russian citizens among them",
+      "title_raw": "Number of injured in Iran’s attacks on UAE rises to 217, including Russian citizens",
+      "lead_raw": "The previous day, 203 injured were reported, and there were no Russian citizens among them",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "06b37f2a8431a1b84c9d67ce0fb9ae363b6c1fd3",
       "source": "TASS (RU)",
@@ -305,68 +345,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "8f2adb33ac4a1475e9a7455295dd4824e7aa2ba6",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2111029",
-      "published_utc": "2026-04-02T14:56:29Z",
-      "title_en": "Russia to request observance of ceasefire during evacuation of staff from Bushehr NPP",
-      "lead_en": "Alexey Likhachev did not specify the exact date for the start of the next wave of evacuation",
-      "title_raw": "Russia to request observance of ceasefire during evacuation of staff from Bushehr NPP",
-      "lead_raw": "Alexey Likhachev did not specify the exact date for the start of the next wave of evacuation",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "55502de81a998584b8ff8677ce1996b274243432",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/04/02/regions-calling-spring-floods-catch-russian-officials-off-guard-a92413",
-      "published_utc": "2026-04-02T14:41:00Z",
-      "title_en": "Regions Calling: Spring Floods Catch Russian Officials Off Guard",
-      "lead_en": "The North Caucasus republics of Chechnya and Dagestan are grappling with catastrophic floods after experiencing their heaviest rainfall in decades.",
-      "title_raw": "Regions Calling: Spring Floods Catch Russian Officials Off Guard",
-      "lead_raw": "The North Caucasus republics of Chechnya and Dagestan are grappling with catastrophic floods after experiencing their heaviest rainfall in decades.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "d26b853f007b16f46069684004a4172250eabe20",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/04/02/bbc-russia-reports-russian-northern-fleet-general-killed-in-an-26-crash",
-      "published_utc": "2026-04-02T14:16:14Z",
-      "title_en": "BBC Russia reports Russian Northern Fleet general killed in An-26 crash",
-      "lead_en": "BBC Russia reported that Lt. Gen.",
-      "title_raw": "BBC Russia reports Russian Northern Fleet general killed in An-26 crash",
-      "lead_raw": "BBC Russia reported that Lt. Gen.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
     }
   ]
 }
