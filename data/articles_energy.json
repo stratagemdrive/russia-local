@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-04-03T21:50:45Z",
+  "updated_at_utc": "2026-04-04T05:14:31Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 52,
+  "count": 54,
   "articles": [
+    {
+      "id": "eec4e7017eb09cef45a518e33f83f14ba45aa04f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2111767",
+      "published_utc": "2026-04-03T22:35:01Z",
+      "title_en": "Iran war puts Europe in difficult position amid rejection of Russian resources — media",
+      "lead_en": "With the escalation of tensions in the Middle East, European countries are seeing \"a second important source of energy supplies dry up,\" the newspaper said",
+      "title_raw": "Iran war puts Europe in difficult position amid rejection of Russian resources — media",
+      "lead_raw": "With the escalation of tensions in the Middle East, European countries are seeing \"a second important source of energy supplies dry up,\" the newspaper said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "7b12d3321c50e302dd96f6c6a22208cee3615ce8",
       "source": "TASS (RU)",
@@ -45,6 +66,50 @@
         "energy"
       ],
       "primary_topic": "energy"
+    },
+    {
+      "id": "6c80385b88bc9629150690565152917412c3bb37",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2111731",
+      "published_utc": "2026-04-03T19:37:19Z",
+      "title_en": "Europe needs Brussels to lift ban on Russian energy, not its advice — Szijjarto",
+      "lead_en": "If this happened, Europe would be able to avoid a sharp increase in prices and a shortage of energy resources, as well as a weakening of energy security, the Hungarian Foreign Minister said",
+      "title_raw": "Europe needs Brussels to lift ban on Russian energy, not its advice — Szijjarto",
+      "lead_raw": "If this happened, Europe would be able to avoid a sharp increase in prices and a shortage of energy resources, as well as a weakening of energy security, the Hungarian Foreign Minister said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "d32ae768c5e1ea7b1f6bbd3a07ee44f36aa0f7c3",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2111701",
+      "published_utc": "2026-04-03T18:11:21Z",
+      "title_en": "Russian stock market closed mixed on Friday",
+      "lead_en": "The yuan rate fell by 11.95 kopecks to 11.5 rubles",
+      "title_raw": "Russian stock market closed mixed on Friday",
+      "lead_raw": "The yuan rate fell by 11.95 kopecks to 11.5 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
     },
     {
       "id": "5ee886dc2a03e8d35d4139c6a1be0a32b4406d5a",
@@ -1092,27 +1157,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "a54e3881125ee90c6a466c192e4fba6e03fa29ad",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2110551",
-      "published_utc": "2026-04-01T21:53:14Z",
-      "title_en": "Oil from Russian tanker to ease fuel shortage in Cuba in coming weeks — president",
-      "lead_en": "Miguel Diaz-Canel thanked Russia's leader Vladimir Putin for sending the tanker to the island",
-      "title_raw": "Oil from Russian tanker to ease fuel shortage in Cuba in coming weeks — president",
-      "lead_raw": "Miguel Diaz-Canel thanked Russia's leader Vladimir Putin for sending the tanker to the island",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
