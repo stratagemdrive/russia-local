@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-04-04T15:59:31Z",
+  "updated_at_utc": "2026-04-04T19:45:56Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 17,
   "articles": [
+    {
+      "id": "f6d67d715075450be5fa6f1e03349d82ed92d6c9",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/04/04/russia-begins-emergency-hepatitis-a-vaccination-in-flood-hit-region-as-more-than-30-people-are-poisoned-by-drinking-water-in-nearby-city",
+      "published_utc": "2026-04-04T17:16:11Z",
+      "title_en": "Russia begins emergency hepatitis A vaccination in flood-hit region as more than 30 people are poisoned by drinking water",
+      "lead_en": "Russia’s consumer health watchdog has launched an emergency hepatitis A vaccination campaign in flood-affected areas of Dagestan.",
+      "title_raw": "Russia begins emergency hepatitis A vaccination in flood-hit region as more than 30 people are poisoned by drinking water",
+      "lead_raw": "Russia’s consumer health watchdog has launched an emergency hepatitis A vaccination campaign in flood-affected areas of Dagestan.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "93bcec46f940b7b75295b20a073ff5b7211254dc",
       "source": "TASS (EN)",
@@ -324,27 +345,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "6d4f8c3608f1ee87af4ea3a8ef71f68b4c0d8180",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/04/02/russian-tanker-out-of-control-after-failed-towing-libyan-authorities-say-a92415",
-      "published_utc": "2026-04-02T16:00:27Z",
-      "title_en": "Russian Tanker 'Out of Control' After Failed Towing, Libyan Authorities Say",
-      "lead_en": "The Arctic Metagaz was abandoned in the Mediterranean after it was hit by a series of explosions while it was ferrying a consignment LNG from Russia to Egypt.",
-      "title_raw": "Russian Tanker 'Out of Control' After Failed Towing, Libyan Authorities Say",
-      "lead_raw": "The Arctic Metagaz was abandoned in the Mediterranean after it was hit by a series of explosions while it was ferrying a consignment LNG from Russia to Egypt.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
