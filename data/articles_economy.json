@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-04-06T17:32:24Z",
+  "updated_at_utc": "2026-04-06T22:05:32Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 26,
+  "count": 27,
   "articles": [
+    {
+      "id": "f3274502ae1733cc6a4d258622f6681a61154431",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27021159",
+      "published_utc": "2026-04-06T20:48:49Z",
+      "title_en": "There was a short-term glitch in the work of Runet",
+      "lead_en": "According to the service Failure. Russia, problems were observed in the work of banks, Internet services and mobile operators",
+      "title_raw": "В работе Рунета произошел кратковременный сбой",
+      "lead_raw": "По данным сервиса Сбой. РФ, неполадки наблюдались в работе банков, интернет-сервисов и мобильных операторов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "89cf2cc14d1d6cbeff025596f7ec84c6c71c2cd4",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/04/06/former-russian-governor-gets-14-year-prison-sentence-for-taking-bribes-tied-to-border-fortifications",
+      "published_utc": "2026-04-06T18:03:07Z",
+      "title_en": "Former Russian governor gets 14-year prison sentence for taking bribes tied to border fortifications",
+      "lead_en": "A court in Kursk has sentenced former regional Governor Alexei Smirnov to 14 years in a maximum-security prison and fined him 400 million rubles, the regional court’s press service said.",
+      "title_raw": "Former Russian governor gets 14-year prison sentence for taking bribes tied to border fortifications",
+      "lead_raw": "A court in Kursk has sentenced former regional Governor Alexei Smirnov to 14 years in a maximum-security prison and fined him 400 million rubles, the regional court’s press service said.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "2630012c31ce1699eb1d4076b9521bd4306ebe93",
       "source": "TASS (RU)",
@@ -511,27 +551,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "7436bccbf266ff5e1df153339b34f0c5db980410",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27003167",
-      "published_utc": "2026-04-04T17:55:07Z",
-      "title_en": "AKORT: prices for tomatoes in large retail chains of the Russian Federation correspond to seasonal trends",
-      "lead_en": "The cost of vegetables starts from 249 rubles per kilogram, noted the chairman of the association’s presidium Stanislav Bogdanov",
-      "title_raw": "АКОРТ: цены на томаты в крупных торговых сетях РФ соответствуют сезонным трендам",
-      "lead_raw": "Стоимость овоща начинается от 249 рублей за килограмм, отметил председатель президиума ассоциации Станислав Богданов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
