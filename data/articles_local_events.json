@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-04-06T14:16:22Z",
+  "updated_at_utc": "2026-04-06T17:32:24Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 12,
+  "count": 10,
   "articles": [
+    {
+      "id": "c48771f66e8fbe14198c5c137a691b7bdfbb177b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27019311",
+      "published_utc": "2026-04-06T15:46:24Z",
+      "title_en": "Student teams took part in eliminating the consequences of the flood in Dagestan",
+      "lead_en": "The work of volunteers was organized in cooperation with the Russian Ministry of Emergency Situations",
+      "title_raw": "Студотряды приняли участие в ликвидации последствий паводка в Дагестане",
+      "lead_raw": "Работа добровольцев была организована во взаимодействии с МЧС России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "c8e03e0f8ee93d2c53931b38a751ee3b0e96a40e",
       "source": "TASS (RU)",
@@ -190,67 +209,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "f6d67d715075450be5fa6f1e03349d82ed92d6c9",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/04/04/russia-begins-emergency-hepatitis-a-vaccination-in-flood-hit-region-as-more-than-30-people-are-poisoned-by-drinking-water-in-nearby-city",
-      "published_utc": "2026-04-04T17:16:11Z",
-      "title_en": "Russia begins emergency hepatitis A vaccination in flood-hit region as more than 30 people are poisoned by drinking water",
-      "lead_en": "Russia’s consumer health watchdog has launched an emergency hepatitis A vaccination campaign in flood-affected areas of Dagestan.",
-      "title_raw": "Russia begins emergency hepatitis A vaccination in flood-hit region as more than 30 people are poisoned by drinking water",
-      "lead_raw": "Russia’s consumer health watchdog has launched an emergency hepatitis A vaccination campaign in flood-affected areas of Dagestan.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "93bcec46f940b7b75295b20a073ff5b7211254dc",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2111923",
-      "published_utc": "2026-04-04T15:51:13Z",
-      "title_en": "Russian Consulate General in Dubai has no reports of Russians injured in Iran strikes",
-      "lead_en": "Earlier, the UAE Defense Ministry said in its daily report that a total of 217 people had been injured as a result of the strikes",
-      "title_raw": "Russian Consulate General in Dubai has no reports of Russians injured in Iran strikes",
-      "lead_raw": "Earlier, the UAE Defense Ministry said in its daily report that a total of 217 people had been injured as a result of the strikes",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "0b7ba8d70e5637485f4427d11068af1eca4b1b44",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2111911",
-      "published_utc": "2026-04-04T14:54:02Z",
-      "title_en": "Number of injured in Iran’s attacks on UAE rises to 217, including Russian citizens",
-      "lead_en": "The previous day, 203 injured were reported, and there were no Russian citizens among them",
-      "title_raw": "Number of injured in Iran’s attacks on UAE rises to 217, including Russian citizens",
-      "lead_raw": "The previous day, 203 injured were reported, and there were no Russian citizens among them",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
