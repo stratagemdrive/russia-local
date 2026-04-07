@@ -1,9 +1,47 @@
 {
-  "updated_at_utc": "2026-04-07T05:29:44Z",
+  "updated_at_utc": "2026-04-07T09:52:02Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 16,
+  "count": 17,
   "articles": [
+    {
+      "id": "c4d8b4231c2c624d287678ec692cabe8632dee1f",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/04/07/ukrainian-drone-strike-kills-family-of-3-including-12-year-old-in-russia",
+      "published_utc": "2026-04-07T07:46:03Z",
+      "title_en": "Ukrainian drone strike kills family of 3, including 12-year-old, in Russia",
+      "lead_en": "A Ukrainian drone strike killed two adults and their 12-year-old child in the Alexandrovsky District of Russia’s Vladimir region, the region’s governor, Alexander Avdeyev, said.",
+      "title_raw": "Ukrainian drone strike kills family of 3, including 12-year-old, in Russia",
+      "lead_raw": "A Ukrainian drone strike killed two adults and their 12-year-old child in the Alexandrovsky District of Russia’s Vladimir region, the region’s governor, Alexander Avdeyev, said.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "ffc801f632b687bf732f6f360f837617ca5859d9",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2112751",
+      "published_utc": "2026-04-07T07:28:26Z",
+      "title_en": "Ukrainian attacks kill 25 Russian civilians in past week, diplomat says",
+      "lead_en": "According to Rodion Miroshnik, civilians in Russia are mostly injured in Ukrainian drone strikes",
+      "title_raw": "Ukrainian attacks kill 25 Russian civilians in past week, diplomat says",
+      "lead_raw": "According to Rodion Miroshnik, civilians in Russia are mostly injured in Ukrainian drone strikes",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "8e3e4181d2f47a883ee9b7372f968c3ac5a74f5e",
       "source": "TASS (EN)",
@@ -308,28 +346,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "a3990edb1031531ed87cbd177a77af2b82928795",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/04/05/ukrainian-drones-damage-oil-pipeline-near-russian-port-and-spark-fire-at-refinery",
-      "published_utc": "2026-04-05T07:23:52Z",
-      "title_en": "Ukrainian drones damage oil pipeline near Russian port and spark fire at refinery",
-      "lead_en": "Ukrainian drones struck Russia’s Leningrad and Nizhny Novgorod regions overnight on April 5, regional governors reported. Air defenses shot down 19 drones over the Leningrad region, Governor Alexander Drozdenko said.",
-      "title_raw": "Ukrainian drones damage oil pipeline near Russian port and spark fire at refinery",
-      "lead_raw": "Ukrainian drones struck Russia’s Leningrad and Nizhny Novgorod regions overnight on April 5, regional governors reported. Air defenses shot down 19 drones over the Leningrad region, Governor Alexander Drozdenko said.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
