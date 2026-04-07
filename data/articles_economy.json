@@ -1,9 +1,70 @@
 {
-  "updated_at_utc": "2026-04-07T16:36:04Z",
+  "updated_at_utc": "2026-04-07T20:00:05Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 49,
+  "count": 50,
   "articles": [
+    {
+      "id": "2a5369e7b2ff70c8504b9e1362813952ce2019af",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2113241",
+      "published_utc": "2026-04-07T18:02:25Z",
+      "title_en": "Bank of Russia sets dollar rate at 78.75 rubles for April 8",
+      "lead_en": "The official euro rate was increased by 2.45 kopecks to 91.0279 rubles",
+      "title_raw": "Bank of Russia sets dollar rate at 78.75 rubles for April 8",
+      "lead_raw": "The official euro rate was increased by 2.45 kopecks to 91.0279 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "daaa18bc3cc735f951585c9d8efbf534c8379215",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27033681",
+      "published_utc": "2026-04-07T17:33:58Z",
+      "title_en": "Rosselkhoznadzor: the Russian Federation has increased wheat exports by 63% since the beginning of the year",
+      "lead_en": "The figure amounted to 11.2 million tons, the department reported.",
+      "title_raw": "Россельхознадзор: РФ с начала года увеличила экспорт пшеницы на 63%",
+      "lead_raw": "Показатель составил 11,2 млн тонн, сообщило ведомство",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "e5920ae765087c53ac7b4c1b7054259fdb9e4ef2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27033597",
+      "published_utc": "2026-04-07T17:25:54Z",
+      "title_en": "The Russian stock market closed in the green zone",
+      "lead_en": "The yuan exchange rate dropped to 11.39 rubles",
+      "title_raw": "Российский рынок акций закрылся в \"зеленой\" зоне",
+      "lead_raw": "Курс юаня снизился до 11,39 рубля",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "959efc69615abd836c2b1a5cd9157bf0fd65458f",
       "source": "TASS (RU)",
@@ -943,44 +1004,6 @@
       "topics": [
         "economy"
       ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "ce1814c8ccca8d34034d9383e54daa5b368b2d96",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27008659",
-      "published_utc": "2026-04-05T17:27:17Z",
-      "title_en": "Pushilin: The Russian Armed Forces are advancing towards Konstantinovka in the area of ​​Ilinovka and Novodmitrovka",
-      "lead_en": "According to the head of the DPR, in Konstantinovka itself the Ukrainian Armed Forces are trying to stay in the industrial zone",
-      "title_raw": "Пушилин: ВС РФ продвигаются к Константиновке в районе Илиновки и Новодмитровки",
-      "lead_raw": "По словам главы ДНР, в самой Константиновке ВСУ пытаются удержаться в промышленной зоне",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "e398042b93b7db550354279370c12322ce8d688d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27008589",
-      "published_utc": "2026-04-05T17:20:34Z",
-      "title_en": "Pushilin: The Russian Armed Forces took up new positions in the area of ​​liberated Aleksandrovka",
-      "lead_en": "Russian fighters also took up new positions in the area of ​​​​the village of Krynki",
-      "title_raw": "Пушилин: ВС РФ заняли новые позиции в районе освобожденной Александровки",
-      "lead_raw": "Также российские бойцы заняли новые позиции в районе населенного пункта Крынки",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
       "primary_topic": "economy"
     }
   ]
