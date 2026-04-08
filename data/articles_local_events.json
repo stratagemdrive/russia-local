@@ -1,9 +1,71 @@
 {
-  "updated_at_utc": "2026-04-08T05:30:37Z",
+  "updated_at_utc": "2026-04-08T09:52:17Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 22,
+  "count": 23,
   "articles": [
+    {
+      "id": "ea0e1519b0894d8b9c6a8e65962ce26c1507924c",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/04/08/cameroon-says-16-of-its-citizens-were-killed-fighting-for-russia-in-ukraine-a92451",
+      "published_utc": "2026-04-08T07:57:05Z",
+      "title_en": "Cameroon Says 16 of Its Citizens Were Killed Fighting for Russia in Ukraine",
+      "lead_en": "Cameroon's government said the Russian Embassy in Yaounde provided it with a list of Cameroonian nationals killed in the war.",
+      "title_raw": "Cameroon Says 16 of Its Citizens Were Killed Fighting for Russia in Ukraine",
+      "lead_raw": "Cameroon's government said the Russian Embassy in Yaounde provided it with a list of Cameroonian nationals killed in the war.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "bef5a63dbbf082621a3416a606697be619b8524f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2113465",
+      "published_utc": "2026-04-08T07:42:21Z",
+      "title_en": "Three injured in Lugansk, 73 downed Ukrainian drones: overnight attack on Russian regions",
+      "lead_en": "The aftermath of the attack is being eliminated",
+      "title_raw": "Three injured in Lugansk, 73 downed Ukrainian drones: overnight attack on Russian regions",
+      "lead_raw": "The aftermath of the attack is being eliminated",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "fd18f00be2b7ad850da1db8eb4c3165b0d1e6557",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2113461",
+      "published_utc": "2026-04-08T07:25:19Z",
+      "title_en": "EU to face austerity amid absence of cheap oil — Russian security official",
+      "lead_en": "Commenting on the situation in the Middle East in the context of the concluded ceasefire between Iran and the US, Dmitry Medvedev pointed out that there are not two \"players\" in this conflict, but three",
+      "title_raw": "EU to face austerity amid absence of cheap oil — Russian security official",
+      "lead_raw": "Commenting on the situation in the Middle East in the context of the concluded ceasefire between Iran and the US, Dmitry Medvedev pointed out that there are not two \"players\" in this conflict, but three",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "ec7d3348275681e2f6a1996f0e534a093d884077",
       "source": "TASS (RU)",
@@ -398,47 +460,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "e884da447210ae790cb934a052d934270c85212f",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/04/06/murmansk-governor-confirms-russian-navy-generals-death-in-crimea-plane-crash-a92428",
-      "published_utc": "2026-04-06T09:37:38Z",
-      "title_en": "Murmansk Governor Confirms Russian Navy General’s Death in Crimea Plane Crash",
-      "lead_en": "All 29 people on board an Antonov An-26 military transport plane were killed when it crashed into a cliff near the port city of Sevastopol on March 31.",
-      "title_raw": "Murmansk Governor Confirms Russian Navy General’s Death in Crimea Plane Crash",
-      "lead_raw": "All 29 people on board an Antonov An-26 military transport plane were killed when it crashed into a cliff near the port city of Sevastopol on March 31.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "e59f422b0e2a7c780d7fb4cd9d0876652b149d16",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2112203",
-      "published_utc": "2026-04-06T06:32:49Z",
-      "title_en": "FACTBOX: Fifty UAVs target Russian regions, leaving eight injured in Novorossiysk",
-      "lead_en": "The UAVs were also intercepted over the Belgorod, Bryansk, Rostov, and Krasnodar regions, as well as over the Azov and Black seas",
-      "title_raw": "FACTBOX: Fifty UAVs target Russian regions, leaving eight injured in Novorossiysk",
-      "lead_raw": "The UAVs were also intercepted over the Belgorod, Bryansk, Rostov, and Krasnodar regions, as well as over the Azov and Black seas",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
