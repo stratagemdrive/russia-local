@@ -1,9 +1,53 @@
 {
-  "updated_at_utc": "2026-04-08T16:44:22Z",
+  "updated_at_utc": "2026-04-08T20:02:57Z",
   "keep_hours": 48,
   "topic": "military",
-  "count": 55,
+  "count": 63,
   "articles": [
+    {
+      "id": "882bac43fdea42a58b55f149e8c0439449837d22",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2113999",
+      "published_utc": "2026-04-08T17:43:07Z",
+      "title_en": "EU complicity in attacks on Russia, Middle East peace process: MFA statements",
+      "lead_en": "Moscow sees that many European countries are showing increased interest in either fielding nuclear weapons or coming under the protection of nations who already have them, Maria Zakharova noted",
+      "title_raw": "EU complicity in attacks on Russia, Middle East peace process: MFA statements",
+      "lead_raw": "Moscow sees that many European countries are showing increased interest in either fielding nuclear weapons or coming under the protection of nations who already have them, Maria Zakharova noted",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "d3313082994a445f37ebddb747f5d25d2451132c",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2113987",
+      "published_utc": "2026-04-08T17:15:03Z",
+      "title_en": "Ceasefire to cover all locations of Middle East conflict — Russian Foreign Ministry",
+      "lead_en": "Owing \"to the sound position of the UN Security Council, formed at the insistence of Russia and China, required conditions were managed to be provided for reaching understandings of ceasefire and negotiating process start,\" the ministry noted",
+      "title_raw": "Ceasefire to cover all locations of Middle East conflict — Russian Foreign Ministry",
+      "lead_raw": "Owing \"to the sound position of the UN Security Council, formed at the insistence of Russia and China, required conditions were managed to be provided for reaching understandings of ceasefire and negotiating process start,\" the ministry noted",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "52c41a4bdc707112222f10e2d12b12d4f5d527f5",
       "source": "TASS (RU)",
@@ -13,6 +57,113 @@
       "lead_en": "The match took place on the eve of the Russian Space Forum",
       "title_raw": "Хоккеисты \"Русской ракеты\" выиграли у \"Союза\" в гала-матче",
       "lead_raw": "Матч прошел накануне Российского космического форума",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "803d3510849eb928f3e4b5628a4adc2ce924d1cd",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2113915",
+      "published_utc": "2026-04-08T15:04:53Z",
+      "title_en": "Artillerymen of 201st Russian Military Base destroy simulated enemy in Tajikistan",
+      "lead_en": "During the exercise, special attention was paid to camouflaging equipment and personnel using terrain, as well as quickly changing firing positions and coordinating artillery crews when operating with drones",
+      "title_raw": "Artillerymen of 201st Russian Military Base destroy simulated enemy in Tajikistan",
+      "lead_raw": "During the exercise, special attention was paid to camouflaging equipment and personnel using terrain, as well as quickly changing firing positions and coordinating artillery crews when operating with drones",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "2eaf8a38d03cb7f58fa9edd487640561b23fd202",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2113905",
+      "published_utc": "2026-04-08T14:58:03Z",
+      "title_en": "Ukraine's actions threaten to turn Mediterranean into new hotbed — Zakharova",
+      "lead_en": "Maria Zakharova highlighted a recent report by Intelligence Online, which details how Ukrainian military intelligence, specifically the unit called Group 13 - an entity specializing in covert maritime operations - has utilized a dry cargo ship to track Russia’s so-called shadow f",
+      "title_raw": "Ukraine's actions threaten to turn Mediterranean into new hotbed — Zakharova",
+      "lead_raw": "Maria Zakharova highlighted a recent report by Intelligence Online, which details how Ukrainian military intelligence, specifically the unit called Group 13 - an entity specializing in covert maritime operations - has utilized a dry cargo ship to track Russia’s so-called shadow f",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "d439d4863b2ccf0710efe3bcceff7328eec9ca08",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2113897",
+      "published_utc": "2026-04-08T14:50:16Z",
+      "title_en": "India to purchase Russian oil regardless of duration of US sanctions suspension — source",
+      "lead_en": "\"India needs to ensure energy security for the benefit of its people,\" the source said",
+      "title_raw": "India to purchase Russian oil regardless of duration of US sanctions suspension — source",
+      "lead_raw": "\"India needs to ensure energy security for the benefit of its people,\" the source said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "5953e8271d772877ca84816424ff4c71c991605d",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2113871",
+      "published_utc": "2026-04-08T14:33:26Z",
+      "title_en": "EU seems much more interested in nuclear protection lately — Russian MFA",
+      "lead_en": "\"Every day there is another remark by European officials speaking about how good it would be to obtain such weapons,\" Maria Zakharova noted",
+      "title_raw": "EU seems much more interested in nuclear protection lately — Russian MFA",
+      "lead_raw": "\"Every day there is another remark by European officials speaking about how good it would be to obtain such weapons,\" Maria Zakharova noted",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "50c215b77830740ae009f0f222046091dc6e6703",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2113867",
+      "published_utc": "2026-04-08T14:27:00Z",
+      "title_en": "Ukrainians in Hungary promised $6,000 to take part in antigovernment rallies — Russia",
+      "lead_en": "According to the source in Russia’s security departments, former head of Vladimir Zelensky’s office Andrey Yermak looks for people who speak fluent Hungarian, are physically fit, and can handle stress",
+      "title_raw": "Ukrainians in Hungary promised $6,000 to take part in antigovernment rallies — Russia",
+      "lead_raw": "According to the source in Russia’s security departments, former head of Vladimir Zelensky’s office Andrey Yermak looks for people who speak fluent Hungarian, are physically fit, and can handle stress",
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
@@ -66,6 +217,72 @@
         "military"
       ],
       "primary_topic": "military"
+    },
+    {
+      "id": "88502cab403bc97978bd16d39f5e0caac9fc27cf",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2113771",
+      "published_utc": "2026-04-08T13:31:54Z",
+      "title_en": "Russian troops hammer Ukrainian army’s energy, port infrastructure over past day",
+      "lead_en": "The Ukrainian army lost roughly 1,110 troops in battles with Russian forces in all the frontline areas over the past 24 hours",
+      "title_raw": "Russian troops hammer Ukrainian army’s energy, port infrastructure over past day",
+      "lead_raw": "The Ukrainian army lost roughly 1,110 troops in battles with Russian forces in all the frontline areas over the past 24 hours",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "6fe30759ff2998ebf6b4535bee101c5f670823f4",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2113809",
+      "published_utc": "2026-04-08T13:02:20Z",
+      "title_en": "MFA calls designation of vessels as Russia’s shadow fleet violation of international law",
+      "lead_en": "The West is \"actively trying to reshape the legal framework to suit its own needs to untie the hands of its security forces,\" Maria Zakharova said",
+      "title_raw": "MFA calls designation of vessels as Russia’s shadow fleet violation of international law",
+      "lead_raw": "The West is \"actively trying to reshape the legal framework to suit its own needs to untie the hands of its security forces,\" Maria Zakharova said",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "8b8a7ba425b50ac3859f45a04073c7c770d0905a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2113699",
+      "published_utc": "2026-04-08T11:34:18Z",
+      "title_en": "Russia-Korea ties to be irreparably damaged if Seoul provides Kiev with arms — envoy",
+      "lead_en": "According to Georgy Zinovyev, \"the South Korean government does not want to see such a scenario play out\"",
+      "title_raw": "Russia-Korea ties to be irreparably damaged if Seoul provides Kiev with arms — envoy",
+      "lead_raw": "According to Georgy Zinovyev, \"the South Korean government does not want to see such a scenario play out\"",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
     },
     {
       "id": "b9ab2bb23e16e051a5bd0456c0ff0a294c202d6e",
@@ -1133,49 +1350,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "89cf2cc14d1d6cbeff025596f7ec84c6c71c2cd4",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/04/06/former-russian-governor-gets-14-year-prison-sentence-for-taking-bribes-tied-to-border-fortifications",
-      "published_utc": "2026-04-06T18:03:07Z",
-      "title_en": "Former Russian governor gets 14-year prison sentence for taking bribes tied to border fortifications",
-      "lead_en": "A court in Kursk has sentenced former regional Governor Alexei Smirnov to 14 years in a maximum-security prison and fined him 400 million rubles, the regional court’s press service said.",
-      "title_raw": "Former Russian governor gets 14-year prison sentence for taking bribes tied to border fortifications",
-      "lead_raw": "A court in Kursk has sentenced former regional Governor Alexei Smirnov to 14 years in a maximum-security prison and fined him 400 million rubles, the regional court’s press service said.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "536242dfb2ad3da6db2bbf835c89d49f887c4c26",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/04/06/murmansk-governor-confirms-russian-general-killed-in-an-26-crash-in-crimea",
-      "published_utc": "2026-04-06T17:44:25Z",
-      "title_en": "Murmansk governor confirms Russian general killed in An-26 crash in Crimea",
-      "lead_en": "Murmansk Governor Andrei Chibis has confirmed that Lieutenant General Alexander Otroshchenko was among those killed when an An-26 military transport plane crashed in Russian-occupied Crimea on March 31. There were no survivors.",
-      "title_raw": "Murmansk governor confirms Russian general killed in An-26 crash in Crimea",
-      "lead_raw": "Murmansk Governor Andrei Chibis has confirmed that Lieutenant General Alexander Otroshchenko was among those killed when an An-26 military transport plane crashed in Russian-occupied Crimea on March 31. There were no survivors.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
     }
   ]
 }
