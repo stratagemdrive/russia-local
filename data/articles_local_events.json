@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-04-08T09:52:17Z",
+  "updated_at_utc": "2026-04-08T12:08:09Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 23,
   "articles": [
+    {
+      "id": "d8d50116c46249fc2863548f434e8111f44f2436",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27043963",
+      "published_utc": "2026-04-08T11:55:18Z",
+      "title_en": "Gazizov: the action in support of Dagestan shows the unification of the football family",
+      "lead_en": "At the upcoming matches of the Russian Cup, RPL and First League, the RFU will hold a charity event “Strong Together” in support of flood victims in Dagestan",
+      "title_raw": "Газизов: акция в поддержку Дагестана показывает объединение футбольной семьи",
+      "lead_raw": "РФС на ближайших матчах Кубка России, РПЛ и Первой лиги проведет благотворительную акцию \"Сильные вместе\" в поддержку пострадавших от наводнения в Дагестане",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "ea0e1519b0894d8b9c6a8e65962ce26c1507924c",
       "source": "The Moscow Times",
@@ -166,7 +187,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/ekonomika/27031273",
       "published_utc": "2026-04-07T14:59:08Z",
-      "title_en": "Yakushev called for a quick assessment of damage to housing after the flood in Dagestan",
+      "title_en": "Yakushev called for a prompt assessment of damage to housing after the flood in Dagestan",
       "lead_en": "The Secretary of the General Council of United Russia noted that to carry out this work it is necessary to create groups of representatives of the local administration with the involvement of specialists from the regional Ministry of Construction",
       "title_raw": "Якушев призвал оперативно оценить ущерб жилью после наводнения в Дагестане",
       "lead_raw": "Секретарь генсовета \"Единой России\" отметил, что для проведения этой работы необходимо создать группы из представителей местной администрации с привлечением специалистов регионального Минстроя",
@@ -439,27 +460,6 @@
         "military"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "bdbfd4a043b22f8ae55ed6b30ba1ac5309ea8fb4",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/04/06/ukrainian-drone-attack-triggers-fire-at-key-russian-black-sea-oil-terminal-reports-a92430",
-      "published_utc": "2026-04-06T10:15:48Z",
-      "title_en": "Ukrainian Drone Attack Triggers Fire at Key Russian Black Sea Oil Terminal – Reports",
-      "lead_en": "It is the latest strike on infrastructure critical to Moscow’s energy revenues since the U.S.-Israeli war with Iran has caused global oil prices to surge.",
-      "title_raw": "Ukrainian Drone Attack Triggers Fire at Key Russian Black Sea Oil Terminal – Reports",
-      "lead_raw": "It is the latest strike on infrastructure critical to Moscow’s energy revenues since the U.S.-Israeli war with Iran has caused global oil prices to surge.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
