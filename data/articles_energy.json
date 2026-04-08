@@ -1,9 +1,74 @@
 {
-  "updated_at_utc": "2026-04-07T22:02:57Z",
+  "updated_at_utc": "2026-04-08T05:30:37Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 51,
+  "count": 52,
   "articles": [
+    {
+      "id": "1fab9282c13260903dbee7db772c2b7fb586f543",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27037361",
+      "published_utc": "2026-04-08T04:43:02Z",
+      "title_en": "Expert Yan: The EU has become dependent and vulnerable after abandoning Russian oil",
+      "lead_en": "Instead of the expected “freedom,” the EU has achieved only dependence on liquefied natural gas from the United States, noted a researcher at the Center for the Study of the European Union at Sichuan University",
+      "title_raw": "Эксперт Янь: ЕС стал зависимым и уязвимым после отказа от российской нефти",
+      "lead_raw": "Вместо ожидаемой \"свободы\" ЕС добился только зависимости от сжиженного природного газа из США, отметил научный сотрудник Центра по изучению Евросоюза при Сычуаньском университете",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "03105d3fcb054cb389e70780a956ec0079385886",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27037223",
+      "published_utc": "2026-04-08T04:11:00Z",
+      "title_en": "Russian Ambassador: There is information in the media about the purchase of Russian naphtha by a South Korean company",
+      "lead_en": "It is unknown whether the republic’s traders will still import Russian oil and petroleum products, noted Georgy Zinoviev",
+      "title_raw": "Посол России: в СМИ есть данные о покупке южнокорейской компанией нафты РФ",
+      "lead_raw": "Неизвестно, будут ли трейдеры республики еще импортировать российские нефть и нефтепродукты, отметил Георгий Зиновьев",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "058077adc2c986618ff23c12ed24788358cbab0a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27037145",
+      "published_utc": "2026-04-08T04:05:35Z",
+      "title_en": "Dmitriev: Hungary's approaches to politics make EU bureaucrats look stupid",
+      "lead_en": "As the special representative of the Russian President stated, the European Union “hates the correctness of the Hungarian approaches to sovereignty, migration and energy security.”",
+      "title_raw": "Дмитриев: подходы Венгрии к политике выставляют бюрократов ЕС глупыми",
+      "lead_raw": "Как заявил спецпредставитель президента РФ, в Евросоюзе \"ненавидят правильность венгерских подходов к суверенитету, миграции и энергетической безопасности\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "2a5369e7b2ff70c8504b9e1362813952ce2019af",
       "source": "TASS (EN)",
@@ -1036,50 +1101,6 @@
       "lead_en": "Kirill Dmitriev also commented on an Economist article about new energy deals between Russia and Asian countries in Asia being \"a telling marker\" of the West’s failure to isolate Moscow",
       "title_raw": "EU’s move to abandon Russian energy signals 'tough times' for Europe — Russian envoy",
       "lead_raw": "Kirill Dmitriev also commented on an Economist article about new energy deals between Russia and Asian countries in Asia being \"a telling marker\" of the West’s failure to isolate Moscow",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "a1a8e98baea59b32e4a78ee2ce7f3eb99bc97964",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2112169",
-      "published_utc": "2026-04-05T23:52:16Z",
-      "title_en": "London prioritizes fueling conflict over saving lives in Ukraine, says Russian ambassador",
-      "lead_en": "According to Andrey Kelin, the recent strikes in Bryansk clearly demonstrate London's intentions",
-      "title_raw": "London prioritizes fueling conflict over saving lives in Ukraine, says Russian ambassador",
-      "lead_raw": "According to Andrey Kelin, the recent strikes in Bryansk clearly demonstrate London's intentions",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "7335d616e327705cff50b1f0adb2c80a6100e2ce",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/04/06/hungary-hints-at-ukraine-s-role-in-serbia-pipeline-explosives-find-kyiv-denies",
-      "published_utc": "2026-04-05T22:14:30Z",
-      "title_en": "Hungary hints at Ukraine’s role in Serbia pipeline explosives find; Kyiv denies",
-      "lead_en": "Ukraine’s Foreign Ministry rejected any suggestion that Kyiv was behind the discovery of explosives near the TurkStream pipeline in Serbia. Spokesperson Heorhii Tykhyi said Ukraine had no involvement in the incident and called it a Russian false-flag operation carried out as part of Moscow’s broader interference in Hungary’s elections.",
-      "title_raw": "Hungary hints at Ukraine’s role in Serbia pipeline explosives find; Kyiv denies",
-      "lead_raw": "Ukraine’s Foreign Ministry rejected any suggestion that Kyiv was behind the discovery of explosives near the TurkStream pipeline in Serbia. Spokesperson Heorhii Tykhyi said Ukraine had no involvement in the incident and called it a Russian false-flag operation carried out as part of Moscow’s broader interference in Hungary’s elections.",
       "topic_scores": {
         "diplomacy": 1,
         "military": 0,

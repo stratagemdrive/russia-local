@@ -1,9 +1,74 @@
 {
-  "updated_at_utc": "2026-04-07T22:02:57Z",
+  "updated_at_utc": "2026-04-08T05:30:37Z",
   "keep_hours": 48,
   "topic": "diplomacy",
-  "count": 70,
+  "count": 71,
   "articles": [
+    {
+      "id": "5f1f48ba20e43656b13cb5b117b07cb2e6581036",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27037585",
+      "published_utc": "2026-04-08T05:10:25Z",
+      "title_en": "Russian Ambassador: partnership with the DPRK contributes to the balance of power on the Korean Peninsula",
+      "lead_en": "The mutually beneficial strengthening of comprehensive strategic relations is not directed against third countries, noted Georgy Zinoviev",
+      "title_raw": "Посол РФ: партнерство с КНДР способствует балансу сил на Корейском полуострове",
+      "lead_raw": "Взаимовыгодное укрепление всеобъемлющих стратегических отношений не направлено против третьих стран, отметил Георгий Зиновьев",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "58411f9a28e6b72573ad9925539f71bea95c1005",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27037567",
+      "published_utc": "2026-04-08T05:09:11Z",
+      "title_en": "Zakharova: The Russian Federation has already emphasized that the situation in the Middle East has no military solution",
+      "lead_en": "Russia initially stated the need to immediately stop the aggression of the United States and Israel against Iran, noted the official representative of the Russian Foreign Ministry",
+      "title_raw": "Захарова: РФ уже подчеркивала, что у ситуации на Ближнем Востоке нет военного решения",
+      "lead_raw": "Россия изначально заявляла о необходимости незамедлительно прекратить агрессию США и Израиля против Ирана, отметила официальный представитель МИД РФ",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "03105d3fcb054cb389e70780a956ec0079385886",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27037223",
+      "published_utc": "2026-04-08T04:11:00Z",
+      "title_en": "Russian Ambassador: There is information in the media about the purchase of Russian naphtha by a South Korean company",
+      "lead_en": "It is unknown whether the republic’s traders will still import Russian oil and petroleum products, noted Georgy Zinoviev",
+      "title_raw": "Посол России: в СМИ есть данные о покупке южнокорейской компанией нафты РФ",
+      "lead_raw": "Неизвестно, будут ли трейдеры республики еще импортировать российские нефть и нефтепродукты, отметил Георгий Зиновьев",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "718820bc6899fdafec9716a88b6e0984a65f83d1",
       "source": "TASS (RU)",
@@ -1446,50 +1511,6 @@
       "lead_en": "Kirill Dmitriev also commented on an Economist article about new energy deals between Russia and Asian countries in Asia being \"a telling marker\" of the West’s failure to isolate Moscow",
       "title_raw": "EU’s move to abandon Russian energy signals 'tough times' for Europe — Russian envoy",
       "lead_raw": "Kirill Dmitriev also commented on an Economist article about new energy deals between Russia and Asian countries in Asia being \"a telling marker\" of the West’s failure to isolate Moscow",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "a1a8e98baea59b32e4a78ee2ce7f3eb99bc97964",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2112169",
-      "published_utc": "2026-04-05T23:52:16Z",
-      "title_en": "London prioritizes fueling conflict over saving lives in Ukraine, says Russian ambassador",
-      "lead_en": "According to Andrey Kelin, the recent strikes in Bryansk clearly demonstrate London's intentions",
-      "title_raw": "London prioritizes fueling conflict over saving lives in Ukraine, says Russian ambassador",
-      "lead_raw": "According to Andrey Kelin, the recent strikes in Bryansk clearly demonstrate London's intentions",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "7335d616e327705cff50b1f0adb2c80a6100e2ce",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/04/06/hungary-hints-at-ukraine-s-role-in-serbia-pipeline-explosives-find-kyiv-denies",
-      "published_utc": "2026-04-05T22:14:30Z",
-      "title_en": "Hungary hints at Ukraine’s role in Serbia pipeline explosives find; Kyiv denies",
-      "lead_en": "Ukraine’s Foreign Ministry rejected any suggestion that Kyiv was behind the discovery of explosives near the TurkStream pipeline in Serbia. Spokesperson Heorhii Tykhyi said Ukraine had no involvement in the incident and called it a Russian false-flag operation carried out as part of Moscow’s broader interference in Hungary’s elections.",
-      "title_raw": "Hungary hints at Ukraine’s role in Serbia pipeline explosives find; Kyiv denies",
-      "lead_raw": "Ukraine’s Foreign Ministry rejected any suggestion that Kyiv was behind the discovery of explosives near the TurkStream pipeline in Serbia. Spokesperson Heorhii Tykhyi said Ukraine had no involvement in the incident and called it a Russian false-flag operation carried out as part of Moscow’s broader interference in Hungary’s elections.",
       "topic_scores": {
         "diplomacy": 1,
         "military": 0,
