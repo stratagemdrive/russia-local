@@ -1,9 +1,70 @@
 {
-  "updated_at_utc": "2026-04-09T06:05:50Z",
+  "updated_at_utc": "2026-04-09T16:06:46Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 17,
+  "count": 14,
   "articles": [
+    {
+      "id": "b6524f620230c0d56bb7ec1aff7b98ae4d99a974",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27058967",
+      "published_utc": "2026-04-09T16:02:38Z",
+      "title_en": "The situation in Dagestan and Chechnya was classified as a federal level emergency",
+      "lead_en": "This was announced by the Head of the Ministry of Emergency Situations of Russia Alexander Kurenkov at a meeting of the government commission in Makhachkala",
+      "title_raw": "Ситуацию в Дагестане и Чечне отнесли к ЧС федерального уровня",
+      "lead_raw": "Об этом объявил Глава МЧС России Александр Куренков на заседании правительственной комиссии в Махачкале",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "55fed681d40c5c4182ef8c3cfd55c2acd1479c0d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27058499",
+      "published_utc": "2026-04-09T15:09:40Z",
+      "title_en": "The head of the Ministry of Emergency Situations holds the first meeting of the government commission in Makhachkala",
+      "lead_en": "It was formed on behalf of Russian President Vladimir Putin",
+      "title_raw": "Глава МЧС проводит в Махачкале первое заседание правкомиссии",
+      "lead_raw": "Она была сформирована по поручению президента России Владимира Путина",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "2f9ca139d121182098d31823b07920b9f972a488",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/04/09/floods-in-russia-s-dagestan-have-affected-thousands-experts-say-the-disaster-reflects-not-just-extreme-weather-but-deep-infrastructure-failures",
+      "published_utc": "2026-04-09T14:20:17Z",
+      "title_en": "Floods in Russia’s Dagestan have affected thousands. Experts say the disaster reflects not just extreme weather, but deep infrastructure failures.",
+      "lead_en": "More than 6,200 people were affected by a series of floods in Dagestan, the region’s head, Sergey Melikov, said on April 7. The hardest-hit areas were Makhachkala, Kaspiysk, and the Khasavyurtovsky and Derbentsky districts, though the situation is now “stabilizing,” according to Melikov.",
+      "title_raw": "Floods in Russia’s Dagestan have affected thousands. Experts say the disaster reflects not just extreme weather, but deep infrastructure failures.",
+      "lead_raw": "More than 6,200 people were affected by a series of floods in Dagestan, the region’s head, Sergey Melikov, said on April 7. The hardest-hit areas were Makhachkala, Kaspiysk, and the Khasavyurtovsky and Derbentsky districts, though the situation is now “stabilizing,” according to Melikov.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "d3313082994a445f37ebddb747f5d25d2451132c",
       "source": "TASS (EN)",
@@ -217,120 +278,6 @@
       "lead_en": "The response level will be increased to the federal one soon",
       "title_raw": "State of emergency introduced in Russia’s Dagestan",
       "lead_raw": "The response level will be increased to the federal one soon",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "b6b6475ec143bb1c2f31dd3b1fe03beff9f72ab6",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/04/07/russia-s-internet-regulator-blames-rostelecom-network-fault-for-widespread-outages",
-      "published_utc": "2026-04-07T15:06:09Z",
-      "title_en": "Russia’s internet regulator blames Rostelecom network fault for widespread outages",
-      "lead_en": "Roskomnadzor told the St. Petersburg-based news outlet Fontanka that a fault on Rostelecom’s backbone network caused the widespread disruption to bank websites and apps, telecom operators, and other services in Russia on the evening of April 6.",
-      "title_raw": "Russia’s internet regulator blames Rostelecom network fault for widespread outages",
-      "lead_raw": "Roskomnadzor told the St. Petersburg-based news outlet Fontanka that a fault on Rostelecom’s backbone network caused the widespread disruption to bank websites and apps, telecom operators, and other services in Russia on the evening of April 6.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "2a529f2aa15976b31259e783582adf42f9ae8528",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27031273",
-      "published_utc": "2026-04-07T14:59:08Z",
-      "title_en": "Yakushev called for a prompt assessment of damage to housing after the flood in Dagestan",
-      "lead_en": "The Secretary of the General Council of United Russia noted that to carry out this work it is necessary to create groups of representatives of the local administration with the involvement of specialists from the regional Ministry of Construction",
-      "title_raw": "Якушев призвал оперативно оценить ущерб жилью после наводнения в Дагестане",
-      "lead_raw": "Секретарь генсовета \"Единой России\" отметил, что для проведения этой работы необходимо создать группы из представителей местной администрации с привлечением специалистов регионального Минстроя",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "1681ad79882d4ec6d1fb5b31c5285577477cd459",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27028785",
-      "published_utc": "2026-04-07T11:45:40Z",
-      "title_en": "SIC of the Ministry of Transport is developing an AI assistant to predict the consequences of floods",
-      "lead_en": "Every year 40-70 major floods occur in Russia",
-      "title_raw": "СИЦ Минтранса разрабатывает ИИ-помощника для прогнозирования последствий паводков",
-      "lead_raw": "Ежегодно в России происходит 40-70 крупных наводнений",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "fbe48d9d83487cb9e781242e897d07344fdf5f92",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27027937",
-      "published_utc": "2026-04-07T11:43:24Z",
-      "title_en": "Insurers are carrying out prompt settlement of losses in regions where a state of emergency has been declared",
-      "lead_en": "The most critical situation due to bad weather has developed in Dagestan and Chechnya, the All-Russian Union of Insurers said in a statement.",
-      "title_raw": "Страховщики проводят оперативное урегулирование убытков в регионах, где объявлен режим ЧС",
-      "lead_raw": "Наиболее критическая ситуация из-за непогоды сложилась в Дагестане и Чечне, говорится в сообщении Всероссийского союза страховщиков",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "c4d8b4231c2c624d287678ec692cabe8632dee1f",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/04/07/ukrainian-drone-strike-kills-family-of-3-including-12-year-old-in-russia",
-      "published_utc": "2026-04-07T07:46:03Z",
-      "title_en": "Ukrainian drone strike kills family of 3, including 12-year-old, in Russia",
-      "lead_en": "A Ukrainian drone strike killed two adults and their 12-year-old child in the Alexandrovsky District of Russia’s Vladimir region, the region’s governor, Alexander Avdeyev, said.",
-      "title_raw": "Ukrainian drone strike kills family of 3, including 12-year-old, in Russia",
-      "lead_raw": "A Ukrainian drone strike killed two adults and their 12-year-old child in the Alexandrovsky District of Russia’s Vladimir region, the region’s governor, Alexander Avdeyev, said.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "ffc801f632b687bf732f6f360f837617ca5859d9",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2112751",
-      "published_utc": "2026-04-07T07:28:26Z",
-      "title_en": "Ukrainian attacks kill 25 Russian civilians in past week, diplomat says",
-      "lead_en": "According to Rodion Miroshnik, civilians in Russia are mostly injured in Ukrainian drone strikes",
-      "title_raw": "Ukrainian attacks kill 25 Russian civilians in past week, diplomat says",
-      "lead_raw": "According to Rodion Miroshnik, civilians in Russia are mostly injured in Ukrainian drone strikes",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
