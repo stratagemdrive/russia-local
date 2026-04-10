@@ -1,9 +1,50 @@
 {
-  "updated_at_utc": "2026-04-10T07:28:17Z",
+  "updated_at_utc": "2026-04-10T09:09:45Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 18,
   "articles": [
+    {
+      "id": "4d6d793d0b11fe6a598ad5fc390cdd092cafbbba",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2114793",
+      "published_utc": "2026-04-10T08:06:17Z",
+      "title_en": "FACTBOX: One person killed, oil products on fire, 151 drones downed in Russia overnight",
+      "lead_en": "More than 50 drones were destroyed in 10 districts of the Rostov Region, with no casualties reported, Governor Yury Slyusar said",
+      "title_raw": "FACTBOX: One person killed, oil products on fire, 151 drones downed in Russia overnight",
+      "lead_raw": "More than 50 drones were destroyed in 10 districts of the Rostov Region, with no casualties reported, Governor Yury Slyusar said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "694646015b6e2df3481e14428481301691693d4a",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/04/10/russia-and-ukraine-agree-to-easter-ceasefire-a92465",
+      "published_utc": "2026-04-10T07:32:12Z",
+      "title_en": "Russia and Ukraine Agree to Easter Ceasefire",
+      "lead_en": "The 32-hour truce this weekend will mark a rare respite in the war that has dragged on for more than four years.",
+      "title_raw": "Russia and Ukraine Agree to Easter Ceasefire",
+      "lead_raw": "The 32-hour truce this weekend will mark a rare respite in the war that has dragged on for more than four years.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "b8577eaf68685a9580e2f4f77eb5f7db83634e6d",
       "source": "TASS (RU)",
@@ -328,46 +369,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "ea0e1519b0894d8b9c6a8e65962ce26c1507924c",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/04/08/cameroon-says-16-of-its-citizens-were-killed-fighting-for-russia-in-ukraine-a92451",
-      "published_utc": "2026-04-08T07:57:05Z",
-      "title_en": "Cameroon Says 16 of Its Citizens Were Killed Fighting for Russia in Ukraine",
-      "lead_en": "Cameroon's government said the Russian Embassy in Yaounde provided it with a list of Cameroonian nationals killed in the war.",
-      "title_raw": "Cameroon Says 16 of Its Citizens Were Killed Fighting for Russia in Ukraine",
-      "lead_raw": "Cameroon's government said the Russian Embassy in Yaounde provided it with a list of Cameroonian nationals killed in the war.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "bef5a63dbbf082621a3416a606697be619b8524f",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2113465",
-      "published_utc": "2026-04-08T07:42:21Z",
-      "title_en": "Three injured in Lugansk, 73 downed Ukrainian drones: overnight attack on Russian regions",
-      "lead_en": "The aftermath of the attack is being eliminated",
-      "title_raw": "Three injured in Lugansk, 73 downed Ukrainian drones: overnight attack on Russian regions",
-      "lead_raw": "The aftermath of the attack is being eliminated",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
