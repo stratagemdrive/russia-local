@@ -1,9 +1,87 @@
 {
-  "updated_at_utc": "2026-04-09T16:06:46Z",
+  "updated_at_utc": "2026-04-10T02:34:12Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 14,
+  "count": 17,
   "articles": [
+    {
+      "id": "66e76ecd2e1d07a0c527291344cdd2ac9265c32c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27061939",
+      "published_utc": "2026-04-10T01:11:48Z",
+      "title_en": "In Kamchatka, the search for a missing tour group is difficult due to a snowstorm",
+      "lead_en": "The issue of involving aviation from the Russian Ministry of Emergency Situations is being considered",
+      "title_raw": "На Камчатке поиски пропавшей тургруппы затруднены из-за низовой метели",
+      "lead_raw": "Рассматривается вопрос о привлечении авиации МЧС России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "91546e416a927464bd249b62253df4f85cc538ef",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27061855",
+      "published_utc": "2026-04-10T00:48:19Z",
+      "title_en": "High fire danger and strong winds are expected in several regions of the Russian Federation",
+      "lead_en": "Weather phenomena are predicted in the Novgorod and Volgograd regions, as well as in the south of the Trans-Baikal Territory",
+      "title_raw": "В нескольких регионах РФ ожидаются высокая пожарная опасность и сильный ветер",
+      "lead_raw": "Погодные явления прогнозируют в Новгородской и Волгоградской областях, а также на юге Забайкальского края",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "7868e31c2939786ca6c4a29a827aa226f6bff780",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/04/09/russia-declares-federal-emergency-in-2-regions-amid-severe-flooding",
+      "published_utc": "2026-04-09T19:28:04Z",
+      "title_en": "Russia declares federal emergency in 2 regions amid severe flooding",
+      "lead_en": "Russia’s Emergency Situations Minister Alexander Kurenkov declared a federal state of emergency in Dagestan and Chechnya on April 9 following severe flooding in both regions.",
+      "title_raw": "Russia declares federal emergency in 2 regions amid severe flooding",
+      "lead_raw": "Russia’s Emergency Situations Minister Alexander Kurenkov declared a federal state of emergency in Dagestan and Chechnya on April 9 following severe flooding in both regions.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "401f45cfad9a321b82d7c506e8b86d2c0a74a956",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/04/09/putin-declares-easter-ceasefire-in-ukraine",
+      "published_utc": "2026-04-09T19:10:03Z",
+      "title_en": "Putin orders Easter ceasefire, calls on Ukraine to follow",
+      "lead_en": "Russian President Vladimir Putin declared an “Easter ceasefire” from 4:00 p.m. on April 11 through the end of the day on April 12, the Kremlin announced on April 9.",
+      "title_raw": "Putin orders Easter ceasefire, calls on Ukraine to follow",
+      "lead_raw": "Russian President Vladimir Putin declared an “Easter ceasefire” from 4:00 p.m. on April 11 through the end of the day on April 12, the Kremlin announced on April 9.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "b6524f620230c0d56bb7ec1aff7b98ae4d99a974",
       "source": "TASS (RU)",
@@ -45,6 +123,27 @@
       "primary_topic": "military"
     },
     {
+      "id": "d4af6c676fddc09ca0f8cf65cccc7d5fc36dcac1",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2114537",
+      "published_utc": "2026-04-09T14:56:30Z",
+      "title_en": "Israeli actions risk derailing negotiations in Middle East — Russian MFA",
+      "lead_en": "Maria Zakharova noted that the attacks were carried out almost immediately after a US-Iran agreement on a two-week ceasefire came into effect",
+      "title_raw": "Israeli actions risk derailing negotiations in Middle East — Russian MFA",
+      "lead_raw": "Maria Zakharova noted that the attacks were carried out almost immediately after a US-Iran agreement on a two-week ceasefire came into effect",
+      "topic_scores": {
+        "diplomacy": 3,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
       "id": "2f9ca139d121182098d31823b07920b9f972a488",
       "source": "Meduza (EN)",
       "url": "https://meduza.io/en/feature/2026/04/09/floods-in-russia-s-dagestan-have-affected-thousands-experts-say-the-disaster-reflects-not-just-extreme-weather-but-deep-infrastructure-failures",
@@ -64,6 +163,46 @@
         "local_events"
       ],
       "primary_topic": "local_events"
+    },
+    {
+      "id": "87ccba61d05c674ad9aaf2daa443d910466ebd44",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/science/2114323",
+      "published_utc": "2026-04-09T10:52:06Z",
+      "title_en": "Bauman University develops prototype cosmonaut evacuation system — newspaper",
+      "lead_en": "The development was presented during Russia’s Space Week 2026, dedicated to the 65th anniversary of the first human spaceflight",
+      "title_raw": "Bauman University develops prototype cosmonaut evacuation system — newspaper",
+      "lead_raw": "The development was presented during Russia’s Space Week 2026, dedicated to the 65th anniversary of the first human spaceflight",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "7ffbfb5106c0394657cabe8c069a31a751558ff6",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2114315",
+      "published_utc": "2026-04-09T10:49:33Z",
+      "title_en": "IN BRIEF: Kremlin spokesman comments on Easter ceasefire, piracy issue in daily briefing",
+      "lead_en": "According to Dmitry Peskov, Moscow does not pose a threat to any country that does not intend to undermine Russia’s security",
+      "title_raw": "IN BRIEF: Kremlin spokesman comments on Easter ceasefire, piracy issue in daily briefing",
+      "lead_raw": "According to Dmitry Peskov, Moscow does not pose a threat to any country that does not intend to undermine Russia’s security",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
     },
     {
       "id": "d3313082994a445f37ebddb747f5d25d2451132c",
@@ -211,82 +350,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "ec7d3348275681e2f6a1996f0e534a093d884077",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27035199",
-      "published_utc": "2026-04-07T21:19:11Z",
-      "title_en": "In the Ulyanovsk region, the unmanned threat was canceled",
-      "lead_en": "This was reported in the application of the Ministry of Emergency Situations of Russia",
-      "title_raw": "В Ульяновской области отменили беспилотную опасность",
-      "lead_raw": "Об этом сообщили в приложении МЧС России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "3ce18ff17fba31c917c82f0e2dc3db30c88a05ec",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2113173",
-      "published_utc": "2026-04-07T16:30:27Z",
-      "title_en": "Shelling attack on school in Zaporozhye Region morally reprehensible — Russian MP",
-      "lead_en": "According to the region’s governor, Yevgeny Balitsky, six people, including five children were injured",
-      "title_raw": "Shelling attack on school in Zaporozhye Region morally reprehensible — Russian MP",
-      "lead_raw": "According to the region’s governor, Yevgeny Balitsky, six people, including five children were injured",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "1d4e86b1ba7023e2cf47b98f10cc591cd99df611",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27032011",
-      "published_utc": "2026-04-07T16:30:00Z",
-      "title_en": "Medical examination of housing: how the fate of aged and unsafe houses in Russia is decided",
-      "lead_en": "More than half of all residential buildings in Russia were built in the second half of the last century. Over these decades, many of them have reached the end of their service life.",
-      "title_raw": "Диспансеризация жилья: как решается судьба возрастных и аварийных домов в России",
-      "lead_raw": "Более половины всех жилых зданий в России были построены во второй половине прошлого века. За эти десятилетия многие из них исчерпали срок своей службы.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "ba2398d53b1ae298904b46221af25f7c045a71ff",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2113161",
-      "published_utc": "2026-04-07T16:10:33Z",
-      "title_en": "State of emergency introduced in Russia’s Dagestan",
-      "lead_en": "The response level will be increased to the federal one soon",
-      "title_raw": "State of emergency introduced in Russia’s Dagestan",
-      "lead_raw": "The response level will be increased to the federal one soon",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
