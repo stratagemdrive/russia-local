@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-04-10T05:25:33Z",
+  "updated_at_utc": "2026-04-10T07:28:17Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 17,
+  "count": 18,
   "articles": [
+    {
+      "id": "b8577eaf68685a9580e2f4f77eb5f7db83634e6d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27064549",
+      "published_utc": "2026-04-10T07:24:56Z",
+      "title_en": "Russian Railways announced the readiness of batteries for the VSM train for serial production",
+      "lead_en": "They ensure the operation of control and communication systems, lighting, fire-fighting equipment and other low-voltage systems, Russian Railways reported.",
+      "title_raw": "РЖД заявили о готовности аккумуляторных батарей для поезда ВСМ к серийному выпуску",
+      "lead_raw": "Они обеспечивают работу систем управления и связи, освещения, противопожарного оборудования и других низковольтных систем, сообщили в \"Российских железных дорогах\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "70e7ea59188f9722f58e924b83858e461ab5a3f2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27063665",
+      "published_utc": "2026-04-10T06:23:15Z",
+      "title_en": "A woman and a teenager died in a fire in a private house in the Orenburg region",
+      "lead_en": "Investigators from the Russian Ministry of Emergency Situations will determine the cause of the fire.",
+      "title_raw": "В Оренбургской области при пожаре в частном доме погибли женщина и подросток",
+      "lead_raw": "Причину пожара установят дознаватели МЧС России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "66e76ecd2e1d07a0c527291344cdd2ac9265c32c",
       "source": "TASS (RU)",
@@ -328,28 +368,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "fd18f00be2b7ad850da1db8eb4c3165b0d1e6557",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2113461",
-      "published_utc": "2026-04-08T07:25:19Z",
-      "title_en": "EU to face austerity amid absence of cheap oil — Russian security official",
-      "lead_en": "Commenting on the situation in the Middle East in the context of the concluded ceasefire between Iran and the US, Dmitry Medvedev pointed out that there are not two \"players\" in this conflict, but three",
-      "title_raw": "EU to face austerity amid absence of cheap oil — Russian security official",
-      "lead_raw": "Commenting on the situation in the Middle East in the context of the concluded ceasefire between Iran and the US, Dmitry Medvedev pointed out that there are not two \"players\" in this conflict, but three",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
