@@ -1,8 +1,8 @@
 {
-  "updated_at_utc": "2026-04-10T15:53:54Z",
+  "updated_at_utc": "2026-04-10T16:51:29Z",
   "keep_hours": 48,
   "topic": "diplomacy",
-  "count": 62,
+  "count": 61,
   "articles": [
     {
       "id": "8592fcafb26534fb4ec0a888cfbd3dedbbe1261d",
@@ -15,6 +15,48 @@
       "lead_raw": "Россия надеется, что украинская сторона выполнит договоренности, сообщила уполномоченный по правам человека в РФ Татьяна Москалькова",
       "topic_scores": {
         "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "86ffc54a7a96feb87ee6633cc8d2090b4c106dbc",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2115121",
+      "published_utc": "2026-04-10T15:06:44Z",
+      "title_en": "Baltic states deny Ukraine access to their airspace for attacks on Russia's territory",
+      "lead_en": "The joint declaration by the foreign ministers of the Baltic States claims that Lithuania, Latvia, and Estonia officially informed Russian embassy representatives in their countries about this matter",
+      "title_raw": "Baltic states deny Ukraine access to their airspace for attacks on Russia's territory",
+      "lead_raw": "The joint declaration by the foreign ministers of the Baltic States claims that Lithuania, Latvia, and Estonia officially informed Russian embassy representatives in their countries about this matter",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "7afe29933d597043a729a87702feb51b0b623971",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2115109",
+      "published_utc": "2026-04-10T15:03:23Z",
+      "title_en": "Russia’s envoy labels US stance on Iran’s uranium enrichment as counterproductive",
+      "lead_en": "According to Mikhail Ulyanov, the current US position on uranium enrichment in Iran goes contrary to the nuclear non-proliferation values based on the Nuclear Non-Proliferation Treaty, as well as the interests of normalization of the situation in the Middle East",
+      "title_raw": "Russia’s envoy labels US stance on Iran’s uranium enrichment as counterproductive",
+      "lead_raw": "According to Mikhail Ulyanov, the current US position on uranium enrichment in Iran goes contrary to the nuclear non-proliferation values based on the Nuclear Non-Proliferation Treaty, as well as the interests of normalization of the situation in the Middle East",
+      "topic_scores": {
+        "diplomacy": 2,
         "military": 0,
         "energy": 0,
         "economy": 0,
@@ -1255,70 +1297,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "8274d24c2413a4388ff4b855df294c42dabb6a88",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27047607",
-      "published_utc": "2026-04-08T16:40:35Z",
-      "title_en": "The Deputy Foreign Minister of the Russian Federation discussed upcoming intergovernmental contacts with the Ambassador of Azerbaijan",
-      "lead_en": "",
-      "title_raw": "Замглавы МИД РФ обсудил с послом Азербайджана предстоящие межправительственные контакты",
-      "lead_raw": "",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "c8b3cf9de3ed96b04059e1e053a3bb23906946de",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2113953",
-      "published_utc": "2026-04-08T16:25:42Z",
-      "title_en": "US to conclude peace treaty with Iran by end of April, Russian expert predicts",
-      "lead_en": "According to Yegor Toropov, the US ceasefire with Iran is a logical consequence of US President Donald Trump’s unwavering negotiating strategy and tactics",
-      "title_raw": "US to conclude peace treaty with Iran by end of April, Russian expert predicts",
-      "lead_raw": "According to Yegor Toropov, the US ceasefire with Iran is a logical consequence of US President Donald Trump’s unwavering negotiating strategy and tactics",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "ef64b20cea2cb8539184b7e7822b34a2a6784e3e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2113949",
-      "published_utc": "2026-04-08T16:01:34Z",
-      "title_en": "Russia to rely on investigation into attempt to blow up gas pipeline in Serbia — MFA",
-      "lead_en": "Maria Zakharova also highlighted that \"targeted attacks on energy infrastructure have become a hallmark of the Kiev regime\"",
-      "title_raw": "Russia to rely on investigation into attempt to blow up gas pipeline in Serbia — MFA",
-      "lead_raw": "Maria Zakharova also highlighted that \"targeted attacks on energy infrastructure have become a hallmark of the Kiev regime\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
