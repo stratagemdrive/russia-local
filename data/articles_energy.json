@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-04-11T09:39:52Z",
+  "updated_at_utc": "2026-04-11T10:34:27Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 44,
   "articles": [
+    {
+      "id": "4774cfb8374929ace5d56a645da301ee04833366",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27076293",
+      "published_utc": "2026-04-11T09:48:27Z",
+      "title_en": "Rudnevo launched production of equipment for the Russian energy complex",
+      "lead_en": "The products are created on the basis of domestic components, noted Moscow Mayor Sergei Sobyanin",
+      "title_raw": "В \"Руднево\" запустили производство оборудования для энергокомплекса России",
+      "lead_raw": "Продукция создана на базе отечественных комплектующих, отметил мэр Москвы Сергей Собянин",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "b84a6557abb584b5e1e05c48fcb297812ced1b7c",
       "source": "TASS (RU)",
@@ -918,27 +939,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "434942630988f806bf7cdbfca369d97cc95c9d35",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2114301",
-      "published_utc": "2026-04-09T10:34:11Z",
-      "title_en": "EU ban on Russian energy imports condemns Europe to severe crisis — Russian diplomat",
-      "lead_en": "As Dmitry Lyubinsky noted, the social consequences were not long in coming",
-      "title_raw": "EU ban on Russian energy imports condemns Europe to severe crisis — Russian diplomat",
-      "lead_raw": "As Dmitry Lyubinsky noted, the social consequences were not long in coming",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
