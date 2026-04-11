@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-04-11T10:34:27Z",
+  "updated_at_utc": "2026-04-11T12:58:24Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 24,
+  "count": 23,
   "articles": [
+    {
+      "id": "7912b258bce71d8abc3177785770f336ad22bc94",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27076837",
+      "published_utc": "2026-04-11T11:25:54Z",
+      "title_en": "The head of Avialesookhrana told when fire-hazardous weather will come to Novorossiya",
+      "lead_en": "Hot weather, which can lead to forest fires, is expected in the Donbass and Novorossiya in May, said Alexey Panov",
+      "title_raw": "Глава \"Авиалесоохраны\" рассказал, когда в Новороссию придет пожароопасная погода",
+      "lead_raw": "Жаркая погода, которая может привести к лесным пожарам, ожидается в Донбассе и Новороссии уже в мае, сообщил Алексей Панов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "bef96d89fde6c87e7b4651dbef74a90918ca34f7",
       "source": "TASS (RU)",
@@ -448,46 +467,6 @@
         "local_events"
       ],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "87ccba61d05c674ad9aaf2daa443d910466ebd44",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/science/2114323",
-      "published_utc": "2026-04-09T10:52:06Z",
-      "title_en": "Bauman University develops prototype cosmonaut evacuation system — newspaper",
-      "lead_en": "The development was presented during Russia’s Space Week 2026, dedicated to the 65th anniversary of the first human spaceflight",
-      "title_raw": "Bauman University develops prototype cosmonaut evacuation system — newspaper",
-      "lead_raw": "The development was presented during Russia’s Space Week 2026, dedicated to the 65th anniversary of the first human spaceflight",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "7ffbfb5106c0394657cabe8c069a31a751558ff6",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2114315",
-      "published_utc": "2026-04-09T10:49:33Z",
-      "title_en": "IN BRIEF: Kremlin spokesman comments on Easter ceasefire, piracy issue in daily briefing",
-      "lead_en": "According to Dmitry Peskov, Moscow does not pose a threat to any country that does not intend to undermine Russia’s security",
-      "title_raw": "IN BRIEF: Kremlin spokesman comments on Easter ceasefire, piracy issue in daily briefing",
-      "lead_raw": "According to Dmitry Peskov, Moscow does not pose a threat to any country that does not intend to undermine Russia’s security",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
