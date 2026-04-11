@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-04-11T16:37:23Z",
+  "updated_at_utc": "2026-04-11T18:44:52Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 38,
+  "count": 37,
   "articles": [
+    {
+      "id": "a688d271f0d2885f7955711105760041c5a3833d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27078705",
+      "published_utc": "2026-04-11T18:12:31Z",
+      "title_en": "Szijjártó: The Hungarian government will maintain its policy course if it wins the elections",
+      "lead_en": "The country will fight for the return of Russian oil and gas to Europe, noted the head of the Hungarian Foreign Ministry",
+      "title_raw": "Сийярто: правительство Венгрии сохранит курс в политике при победе на выборах",
+      "lead_raw": "Страна будет бороться за возвращение российских нефти и газа в Европу, отметил глава венгерского МИД",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "66d75d70fe42f78209b5efbdc4fa172a91930f17",
       "source": "TASS (RU)",
@@ -767,48 +789,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "26083778ace6344c6aa8027cfe3699778e950dfd",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2114619",
-      "published_utc": "2026-04-09T18:33:14Z",
-      "title_en": "Damaged Russian gas carrier Arctic Metagaz taken under tow again",
-      "lead_en": "Khaled Ghulam noted that this outcome was achieved through intensive administrative and technical coordination among various Libyan institutions across different regions of Libya aimed at protecting the marine environment",
-      "title_raw": "Damaged Russian gas carrier Arctic Metagaz taken under tow again",
-      "lead_raw": "Khaled Ghulam noted that this outcome was achieved through intensive administrative and technical coordination among various Libyan institutions across different regions of Libya aimed at protecting the marine environment",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "2fd7cfa28c23c91a5442bb04d8aaf45df27afa60",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2114585",
-      "published_utc": "2026-04-09T16:47:01Z",
-      "title_en": "Bank of Russia lowers dollar exchange rate to 77.84 rubles for April 10",
-      "lead_en": "The official euro exchange rate was lowered by 68.28 kopecks to 90.8813 rubles",
-      "title_raw": "Bank of Russia lowers dollar exchange rate to 77.84 rubles for April 10",
-      "lead_raw": "The official euro exchange rate was lowered by 68.28 kopecks to 90.8813 rubles",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
