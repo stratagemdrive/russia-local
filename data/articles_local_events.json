@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-04-12T17:34:48Z",
+  "updated_at_utc": "2026-04-12T18:51:04Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 11,
+  "count": 10,
   "articles": [
+    {
+      "id": "0a3f77a675ed9a81e519b645bcd18609355f5645",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2115775",
+      "published_utc": "2026-04-12T18:16:45Z",
+      "title_en": "Kiev wants to extend ceasefire to buy time to rearm — Russian MP",
+      "lead_en": "According to Leonid Slutsky, Zelensky’s initiatives on extending the ceasefire are a provocation to draw attention of his European sponsors",
+      "title_raw": "Kiev wants to extend ceasefire to buy time to rearm — Russian MP",
+      "lead_raw": "According to Leonid Slutsky, Zelensky’s initiatives on extending the ceasefire are a provocation to draw attention of his European sponsors",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "a19a79ee6fbe795a374daf33d3728666ed07e963",
       "source": "TASS (RU)",
@@ -184,46 +203,6 @@
         "military"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "f2d2afb6e2cf069251685298b4faa19b70733789",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27072463",
-      "published_utc": "2026-04-10T18:46:43Z",
-      "title_en": "In Vladikavkaz, an open fire was eliminated at a pyrotechnics warehouse",
-      "lead_en": "This was reported to the Russian Ministry of Emergency Situations",
-      "title_raw": "Во Владикавказе на складе с пиротехникой ликвидировали открытое горение",
-      "lead_raw": "Об этом сообщили в МЧС России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "365bc4080e0f47ce0c300f487614abc27e57124e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2115195",
-      "published_utc": "2026-04-10T17:52:35Z",
-      "title_en": "Russian MP suggests Kiev trying to disrupt Easter truce with Bryansk attack",
-      "lead_en": "Russia is fully prepared to fence off such provocations and all the vile attempts to use the ceasefire for military purposes, Leonid Slutsky said",
-      "title_raw": "Russian MP suggests Kiev trying to disrupt Easter truce with Bryansk attack",
-      "lead_raw": "Russia is fully prepared to fence off such provocations and all the vile attempts to use the ceasefire for military purposes, Leonid Slutsky said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
