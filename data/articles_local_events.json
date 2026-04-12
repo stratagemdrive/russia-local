@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-04-12T10:38:42Z",
+  "updated_at_utc": "2026-04-12T11:34:10Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 12,
+  "count": 11,
   "articles": [
+    {
+      "id": "9043ce3fe1bffe20e71b3ab868f6f71ca211ef47",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/nauka/27081895",
+      "published_utc": "2026-04-12T10:46:16Z",
+      "title_en": "The Russian Federation is developing a method of extinguishing fires using UAV bombers",
+      "lead_en": "The head of the Federal Budgetary Institution \"Avialesookhrana\" Alexey Panov noted that there are no such drones yet that will carry bombs with a special powder",
+      "title_raw": "В РФ разрабатывают метод тушения пожаров с помощью БПЛА-бомбардировщиков",
+      "lead_raw": "Начальник ФБУ \"Авиалесоохрана\" Алексей Панов отметил, что пока нет таких дронов, которые будут носить на себе бомбы со специальным порошком",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "c649850d3fc12fdad6eaa39080ad2af00b81e50c",
       "source": "TASS (RU)",
@@ -206,44 +225,6 @@
       "topics": [
         "local_events"
       ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "228b2a1bed3597e10237264d0ad1801955810adc",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2114959",
-      "published_utc": "2026-04-10T11:22:34Z",
-      "title_en": "Kremlin spokesman comments on Easter ceasefire, lasting peace in Ukraine in daily briefing",
-      "lead_en": "Peace between Russia and Ukraine \"could be established today,\" if only Vladimir Zelensky made a decision to take the responsibility it requires, Dmitry Peskov noted",
-      "title_raw": "Kremlin spokesman comments on Easter ceasefire, lasting peace in Ukraine in daily briefing",
-      "lead_raw": "Peace between Russia and Ukraine \"could be established today,\" if only Vladimir Zelensky made a decision to take the responsibility it requires, Dmitry Peskov noted",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "c81351adf33e08e20815ea98762f55eebc85c9ad",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2114935",
-      "published_utc": "2026-04-10T11:05:12Z",
-      "title_en": "IN BRIEF: What we know about reaction to Russia’s Easter ceasefire initiative",
-      "lead_en": "Vladimir Zelensky, after Putin’s announcement of an Easter truce, said Ukraine is ready to reciprocate the move",
-      "title_raw": "IN BRIEF: What we know about reaction to Russia’s Easter ceasefire initiative",
-      "lead_raw": "Vladimir Zelensky, after Putin’s announcement of an Easter truce, said Ukraine is ready to reciprocate the move",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
       "primary_topic": "local_events"
     }
   ]
