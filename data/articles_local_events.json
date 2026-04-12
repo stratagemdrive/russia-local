@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-04-12T07:14:36Z",
+  "updated_at_utc": "2026-04-12T08:49:44Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 15,
+  "count": 13,
   "articles": [
+    {
+      "id": "c649850d3fc12fdad6eaa39080ad2af00b81e50c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27080933",
+      "published_utc": "2026-04-12T08:05:06Z",
+      "title_en": "In the Russian Federation, forest protection increases firefighting zones due to climate change",
+      "lead_en": "Thanks to such actions, the situation is becoming more and more stabilized every year in those regions affected by warming, said Alexey Panov, head of the FBU Avialesookhrana.",
+      "title_raw": "В РФ лесная охрана увеличивает зоны тушения пожаров в связи с изменением климата",
+      "lead_raw": "Благодаря таким действиям ситуация с каждым годом все больше стабилизируется в тех регионах, которых коснулось потепление, заявил начальник ФБУ \"Авиалесоохрана\" Алексей Панов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "dd84cd45c1fbb8e47d965908729014526b476efc",
       "source": "TASS (RU)",
@@ -236,66 +255,6 @@
       "lead_en": "Top stories from the Russian press on Friday, April 10th",
       "title_raw": "Press review: Iran-US ceasefire falters while Russia announces Easter truce in Ukraine",
       "lead_raw": "Top stories from the Russian press on Friday, April 10th",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "4d6d793d0b11fe6a598ad5fc390cdd092cafbbba",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2114793",
-      "published_utc": "2026-04-10T08:06:17Z",
-      "title_en": "FACTBOX: One person killed, oil products on fire, 151 drones downed in Russia overnight",
-      "lead_en": "More than 50 drones were destroyed in 10 districts of the Rostov Region, with no casualties reported, Governor Yury Slyusar said",
-      "title_raw": "FACTBOX: One person killed, oil products on fire, 151 drones downed in Russia overnight",
-      "lead_raw": "More than 50 drones were destroyed in 10 districts of the Rostov Region, with no casualties reported, Governor Yury Slyusar said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "energy",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "694646015b6e2df3481e14428481301691693d4a",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/04/10/russia-and-ukraine-agree-to-easter-ceasefire-a92465",
-      "published_utc": "2026-04-10T07:32:12Z",
-      "title_en": "Russia and Ukraine Agree to Easter Ceasefire",
-      "lead_en": "The 32-hour truce this weekend will mark a rare respite in the war that has dragged on for more than four years.",
-      "title_raw": "Russia and Ukraine Agree to Easter Ceasefire",
-      "lead_raw": "The 32-hour truce this weekend will mark a rare respite in the war that has dragged on for more than four years.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "b8577eaf68685a9580e2f4f77eb5f7db83634e6d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27064549",
-      "published_utc": "2026-04-10T07:24:56Z",
-      "title_en": "Russian Railways announced the readiness of batteries for the VSM train for serial production",
-      "lead_en": "They ensure the operation of control and communication systems, lighting, fire-fighting equipment and other low-voltage systems, Russian Railways reported.",
-      "title_raw": "РЖД заявили о готовности аккумуляторных батарей для поезда ВСМ к серийному выпуску",
-      "lead_raw": "Они обеспечивают работу систем управления и связи, освещения, противопожарного оборудования и других низковольтных систем, сообщили в \"Российских железных дорогах\"",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
