@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-04-12T05:24:05Z",
+  "updated_at_utc": "2026-04-12T07:14:36Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 15,
   "articles": [
+    {
+      "id": "dd84cd45c1fbb8e47d965908729014526b476efc",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27080427",
+      "published_utc": "2026-04-12T06:14:36Z",
+      "title_en": "In the Russian Federation, a standard for monitoring the driver’s condition using AI will come into force on June 15",
+      "lead_en": "Its use will help reduce accidents and increase the level of protection for road users, Rosstandart said",
+      "title_raw": "В РФ с 15 июня вступит в силу стандарт по мониторингу состояния водителя с помощью ИИ",
+      "lead_raw": "Его применение будет способствовать снижению аварийности и повышению уровня защищенности участников дорожного движения, заявили в Росстандарте",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "7912b258bce71d8abc3177785770f336ad22bc94",
       "source": "TASS (RU)",
@@ -285,27 +304,6 @@
         "local_events": 1
       },
       "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "70e7ea59188f9722f58e924b83858e461ab5a3f2",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27063665",
-      "published_utc": "2026-04-10T06:23:15Z",
-      "title_en": "A woman and a teenager died in a fire in a private house in the Orenburg region",
-      "lead_en": "Investigators from the Russian Ministry of Emergency Situations will determine the cause of the fire.",
-      "title_raw": "В Оренбургской области при пожаре в частном доме погибли женщина и подросток",
-      "lead_raw": "Причину пожара установят дознаватели МЧС России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
       "primary_topic": "local_events"
     }
   ]
