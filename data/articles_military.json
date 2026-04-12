@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-04-12T21:35:08Z",
+  "updated_at_utc": "2026-04-12T22:34:33Z",
   "keep_hours": 48,
   "topic": "military",
   "count": 66,
   "articles": [
+    {
+      "id": "19dadb17da623b5d1b8f9e76e0dfc2fea02fbc1a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2115805",
+      "published_utc": "2026-04-12T21:56:57Z",
+      "title_en": "Easter ceasefire declared by Russia expires",
+      "lead_en": "All Russian battlegroups in the zone of the special military operation strictly observed the ceasefire from 1:00 p.m. GMT on April 11 and remained at their previously held positions",
+      "title_raw": "Easter ceasefire declared by Russia expires",
+      "lead_raw": "All Russian battlegroups in the zone of the special military operation strictly observed the ceasefire from 1:00 p.m. GMT on April 11 and remained at their previously held positions",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "5123f7e1816af6ef8f3b6ecccbe08cbabc9fa21f",
       "source": "TASS (RU)",
@@ -1377,28 +1398,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "2d08e92723ae0efcbd0e3c392d1bcda368b19fba",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2115307",
-      "published_utc": "2026-04-10T22:05:30Z",
-      "title_en": "Russia unlikely to grant Kiev longer ceasefire — MFA",
-      "lead_en": "Rodion Miroshnik says a longer pause could be used by Kiev \"to regroup, build fortifications, build up military capacity, and launch a new escalation\"",
-      "title_raw": "Russia unlikely to grant Kiev longer ceasefire — MFA",
-      "lead_raw": "Rodion Miroshnik says a longer pause could be used by Kiev \"to regroup, build fortifications, build up military capacity, and launch a new escalation\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
