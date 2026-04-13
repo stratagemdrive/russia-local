@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-04-13T18:00:44Z",
+  "updated_at_utc": "2026-04-13T20:05:13Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 46,
+  "count": 45,
   "articles": [
+    {
+      "id": "8030ec83e679925e3f272e71d2545c7c034c7d6c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27094691",
+      "published_utc": "2026-04-13T18:53:26Z",
+      "title_en": "Dmitriev called Germany's refusal of Russian gas the cause of energy problems",
+      "lead_en": "Thus, the head of the RDIF commented on the speech of German Chancellor Friedrich Merz, according to whom the US war with Iran is the main cause of the problems the country faces",
+      "title_raw": "Дмитриев назвал отказ ФРГ от газа РФ причиной энергопроблем",
+      "lead_raw": "Таким образом глава РФПИ прокомментировал выступление канцлера Германии Фридриха Мерца, по словам которого, война США с Ираном является основной причиной проблем, с которыми сталкивается страна",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "3273f940cc7096815565ae668a3077672ef8a117",
       "source": "TASS (EN)",
@@ -936,49 +957,6 @@
         "local_events": 0
       },
       "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e80bc3e61af869b83c8c42a8a12bb600796ee78b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2115489",
-      "published_utc": "2026-04-11T19:03:13Z",
-      "title_en": "Hungarian government to keep foreign policy, if it wins elections — Szijjarto",
-      "lead_en": "It will fight for the return of Russian energy to Europe, the foreign minister said",
-      "title_raw": "Hungarian government to keep foreign policy, if it wins elections — Szijjarto",
-      "lead_raw": "It will fight for the return of Russian energy to Europe, the foreign minister said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "a688d271f0d2885f7955711105760041c5a3833d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27078705",
-      "published_utc": "2026-04-11T18:12:31Z",
-      "title_en": "Szijjártó: The Hungarian government will maintain its policy course if it wins the elections",
-      "lead_en": "The country will fight for the return of Russian oil and gas to Europe, noted the head of the Hungarian Foreign Ministry",
-      "title_raw": "Сийярто: правительство Венгрии сохранит курс в политике при победе на выборах",
-      "lead_raw": "Страна будет бороться за возвращение российских нефти и газа в Европу, отметил глава венгерского МИД",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
         "energy"
       ],
       "primary_topic": "energy"
