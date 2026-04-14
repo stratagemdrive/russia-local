@@ -1,9 +1,68 @@
 {
-  "updated_at_utc": "2026-04-14T05:23:53Z",
+  "updated_at_utc": "2026-04-14T07:46:39Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 60,
+  "count": 61,
   "articles": [
+    {
+      "id": "53c3e210f43861d234ed5507fbd83df29d136e90",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27098589",
+      "published_utc": "2026-04-14T07:43:31Z",
+      "title_en": "Maltsev: returning the flag will give additional motivation to athletes",
+      "lead_en": "Previously, the International Swimming Federation lifted sanctions from Russian and Belarusian athletes and allowed them to compete under its auspices with the flag and anthem",
+      "title_raw": "Мальцев: возвращение флага придаст дополнительную мотивацию спортсменам",
+      "lead_raw": "Ранее Международная федерация плавания сняла санкции с российских и белорусских спортсменов и допустила их до соревнований под своей эгидой с флагом и гимном",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "e0b9581a83bffb95f90748455b32b0091490ab3a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27098007",
+      "published_utc": "2026-04-14T07:01:37Z",
+      "title_en": "The Russian stock market switched to a decline after growth at the beginning of trading",
+      "lead_en": "The yuan fell to 11.13 rubles",
+      "title_raw": "Рынок акций РФ перешел к снижению после роста в начале торгов",
+      "lead_raw": "Курс юаня падал до 11,13 рубля",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "e024bd9f50b7738898c54684bda2d5c23a1795d4",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27097411",
+      "published_utc": "2026-04-14T06:48:06Z",
+      "title_en": "Flower supplies from Kenya to Russia in 2026 correspond to the figure for 2025",
+      "lead_en": "As of April 12, imports of floral material into the Russian Federation decreased by 2.7%",
+      "title_raw": "Поставки цветов из Кении в Россию в 2026 году соответствуют показателю 2025-го",
+      "lead_raw": "По состоянию на 12 апреля, импорт цветочного материала в РФ снизился на 2,7%",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
     {
       "id": "4319125be564f03302fed6036b40ac41948cd1e3",
       "source": "TASS (RU)",
@@ -1167,46 +1226,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "cb4ecc0748ba578884827256e654b6ca90ad8c3c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27080713",
-      "published_utc": "2026-04-12T07:24:57Z",
-      "title_en": "In the Russian Federation, the average amount of one online purchase was 2.3 times higher than offline",
-      "lead_en": "The indicator was 2,523 rubles versus 1,078 rubles",
-      "title_raw": "В РФ средняя сумма одной покупки онлайн оказалась в 2,3 раза выше, чем в офлайне",
-      "lead_raw": "Показатель составил 2 523 рубля против 1 078 рублей",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "f627a85a944fab40891ddf2cd4b91039ce5c7621",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27080547",
-      "published_utc": "2026-04-12T06:48:00Z",
-      "title_en": "Mishustin congratulated workers of the Russian rocket and space industry on Cosmonautics Day",
-      "lead_en": "This is a professional holiday of domestic science and industry, the head of government noted",
-      "title_raw": "Мишустин поздравил работников ракетно-космической отрасли РФ с Днем космонавтики",
-      "lead_raw": "Это профессиональный праздник отечественной науки и промышленности, отметил глава правительства",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
