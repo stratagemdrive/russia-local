@@ -1,9 +1,51 @@
 {
-  "updated_at_utc": "2026-04-15T02:33:09Z",
+  "updated_at_utc": "2026-04-15T07:46:41Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 18,
+  "count": 17,
   "articles": [
+    {
+      "id": "d959df083bb422d6a9c075a5a1cafab890289beb",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/04/15/fire-breaks-out-at-russia-s-oldest-gunpowder-plant-injuring-several",
+      "published_utc": "2026-04-15T07:09:28Z",
+      "title_en": "Fire breaks out at Russia’s oldest gunpowder plant, injuring several",
+      "lead_en": "A fire broke out at the Kazan Gunpowder Plant on April 14, the press service of Tatarstan’s regional head said. Some structural elements partially collapsed in the blaze, which authorities attributed to a technical malfunction.",
+      "title_raw": "Fire breaks out at Russia’s oldest gunpowder plant, injuring several",
+      "lead_raw": "A fire broke out at the Kazan Gunpowder Plant on April 14, the press service of Tatarstan’s regional head said. Some structural elements partially collapsed in the blaze, which authorities attributed to a technical malfunction.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "3e2c131d816198fb23417e39967e2d03a5adb7bf",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27109951",
+      "published_utc": "2026-04-15T04:03:20Z",
+      "title_en": "Russian Foreign Ministry: Baku and Yerevan provided significant assistance in the evacuation of Russians from Iran",
+      "lead_en": "As noted by the director of the consular department of the Russian diplomatic department, Aleksey Klimov, Baku allowed the use of the Astara border crossing, which has been closed for individual crossings since 2020.",
+      "title_raw": "МИД РФ: Баку и Ереван оказали значительную помощь в эвакуации россиян из Ирана",
+      "lead_raw": "Как отметил директор консульского департамента российского дипведомства Алексей Климов, Баку позволил воспользоваться закрытым с 2020 года для индивидуального пересечения погранпереходом \"Астара\"",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "66f3330a3f1ee678a27ab4446fed657146d0a16e",
       "source": "TASS (RU)",
@@ -300,65 +342,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "d5441fde7372dd5d862e039ef551afc1b0a8ba3c",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2115853",
-      "published_utc": "2026-04-13T06:04:32Z",
-      "title_en": "Russian senator sees ideal storm coming for EU in wake of Sunday’s election in Hungary",
-      "lead_en": "The anti-European economy 'diversified' to cater to the needs of the United States will only aggravate problems facing the unified Europe under pressure from the anti-Russian policy course, Konstantin Kosachev noted",
-      "title_raw": "Russian senator sees ideal storm coming for EU in wake of Sunday’s election in Hungary",
-      "lead_raw": "The anti-European economy 'diversified' to cater to the needs of the United States will only aggravate problems facing the unified Europe under pressure from the anti-Russian policy course, Konstantin Kosachev noted",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "b8242e8af51f4860dedd0fe4f8626677a7198486",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27085379",
-      "published_utc": "2026-04-13T04:46:35Z",
-      "title_en": "Kosachev said that a “perfect storm” is coming for the European Union",
-      "lead_en": "The economic problems of the European Union will only increase under the pressure of anti-Russian policies, says the Deputy Chairman of the Federation Council",
-      "title_raw": "Косачев заявил, что для Евросоюза наступает \"идеальный шторм\"",
-      "lead_raw": "Экономические проблемы Евросоюза будут только нарастать под давлением антироссийской политики, считает заместитель председателя Совета Федерации",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "221c99c61dbabc51cbc7fb87d9a9deff1b46780b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2115839",
-      "published_utc": "2026-04-13T03:29:11Z",
-      "title_en": "Russian presidential envoy says EU collapse will accelerate after elections in Hungary",
-      "lead_en": "Kirill Dmitriev also said that it would become clear in four months whether his forecast was correct",
-      "title_raw": "Russian presidential envoy says EU collapse will accelerate after elections in Hungary",
-      "lead_raw": "Kirill Dmitriev also said that it would become clear in four months whether his forecast was correct",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
