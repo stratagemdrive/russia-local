@@ -1,9 +1,32 @@
 {
-  "updated_at_utc": "2026-04-15T14:44:40Z",
+  "updated_at_utc": "2026-04-15T16:05:25Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 20,
   "articles": [
+    {
+      "id": "2d72ae0ced870056989e81414157ee71b4d9c379",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/04/15/russia-agrees-to-pay-damages-for-azerbaijan-plane-crash-that-killed-38-a92509",
+      "published_utc": "2026-04-15T15:01:50Z",
+      "title_en": "Russia Agrees to Pay Damages for Azerbaijan Plane Crash That Killed 38",
+      "lead_en": "A joint statement formally acknowledged that the crash was the result of an “unintentional strike by an air defense system in Russian airspace.”",
+      "title_raw": "Russia Agrees to Pay Damages for Azerbaijan Plane Crash That Killed 38",
+      "lead_raw": "A joint statement formally acknowledged that the crash was the result of an “unintentional strike by an air defense system in Russian airspace.”",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "ed0adfff7579381e621885f0050f13a5a5dba413",
       "source": "Meduza (EN)",
@@ -374,25 +397,6 @@
       "lead_en": "Russian law enforcement agencies reported that the Ukrainian command in official replies complains about the lack of evacuation transport",
       "title_raw": "ТАСС: десятки тел погибших солдат ВСУ складированы в жилых строениях Мирополья",
       "lead_raw": "В российских силовых структурах сообщили, что украинское командование в официальных отписках жалуется на отсутствие эвакуационного транспорта",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "7ae3a8ffa01f7dc372f9f1fe195c801788c20bef",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27092689",
-      "published_utc": "2026-04-13T15:00:00Z",
-      "title_en": "Certificate for demolition: how it is proposed to resettle residents of dilapidated buildings",
-      "lead_en": "Over six years - from 2019 to 2025 - more than 829 thousand people from 14 million square meters were resettled from dilapidated houses in the Russian Federation.",
-      "title_raw": "Сертификат за снос: как предлагается расселять жильцов аварийных домов",
-      "lead_raw": "За шесть лет — с 2019 по 2025 год — из аварийных домов в РФ было переселено более 829 тыс. человек из 14 млн кв.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
