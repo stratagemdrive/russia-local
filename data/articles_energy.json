@@ -1,18 +1,82 @@
 {
-  "updated_at_utc": "2026-04-15T18:04:55Z",
+  "updated_at_utc": "2026-04-15T20:02:55Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 53,
+  "count": 56,
   "articles": [
+    {
+      "id": "d9fccb6fe8e8a28d53e3e4f233b8de0829d053ac",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2117781",
+      "published_utc": "2026-04-15T18:57:06Z",
+      "title_en": "Bank of Russia sets dollar rate at 75.23 rubles for April 16",
+      "lead_en": "The official yuan rate was reduced by 5.76 kopecks to 11.03 rubles",
+      "title_raw": "Bank of Russia sets dollar rate at 75.23 rubles for April 16",
+      "lead_raw": "The official yuan rate was reduced by 5.76 kopecks to 11.03 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "0a21a6f30476d946cf4c6ccec40622df9a6630c3",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27121109",
+      "published_utc": "2026-04-15T18:46:05Z",
+      "title_en": "US Treasury: exemptions from Russian oil sanctions helped stabilize the market",
+      "lead_en": "Washington, through temporary exceptions to the sanctions regime, actually helped its allies get this oil, noted US Treasury Secretary Scott Bessent",
+      "title_raw": "Минфин США: изъятия из санкций против нефти РФ помогли стабилизации рынка",
+      "lead_raw": "Вашингтон за счет временных исключений из режима санкций фактически помог получить эту нефть своим союзникам, отметил американский министр финансов Скотт Бессент",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "77b021a7212632c6189f295a4af5a0ca3291eaca",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2117769",
+      "published_utc": "2026-04-15T18:38:44Z",
+      "title_en": "US not going to renew exceptions in respect of Russian, Iranian oil",
+      "lead_en": "According to US Secretary of Treasury Scott Bessent, the from sanctions included oil that was on the water prior to March 11",
+      "title_raw": "US not going to renew exceptions in respect of Russian, Iranian oil",
+      "lead_raw": "According to US Secretary of Treasury Scott Bessent, the from sanctions included oil that was on the water prior to March 11",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "5e6dc3ac82d0ac733c14500abc68b1c548e3145a",
       "source": "TASS (RU)",
       "url": "https://tass.ru/ekonomika/27120811",
       "published_utc": "2026-04-15T17:52:47Z",
-      "title_en": "The United States does not intend to extend exceptions to sanctions against Russian and Iranian oil",
-      "lead_en": "",
-      "title_raw": "США не намерены продлевать исключения из санкций против нефти РФ и Ирана",
-      "lead_raw": "",
+      "title_en": "The US Treasury does not intend to extend exceptions from sanctions against oil of the Russian Federation and Iran",
+      "lead_en": "All oil loaded onto ships before March 11 has been used, US Treasury Secretary Scott Bessent noted.",
+      "title_raw": "Минфин США не намерен продлевать исключения из санкций против нефти РФ и Ирана",
+      "lead_raw": "Нефть, загруженная на суда до 11 марта, вся использована, отметил министр финансов США Скотт Бессент",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
@@ -64,6 +128,28 @@
       },
       "topics": [
         "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "5362b8023637a82c2298d7b95db48f8351336d70",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2117689",
+      "published_utc": "2026-04-15T16:37:44Z",
+      "title_en": "Russia remains reliable energy supplier for partner countries — Kremlin",
+      "lead_en": "The global economy will experience consequences of war in the Middle East during a long period of time, including in terms of the oil market and delivery of goods, Dmitry Peskov stressed",
+      "title_raw": "Russia remains reliable energy supplier for partner countries — Kremlin",
+      "lead_raw": "The global economy will experience consequences of war in the Middle East during a long period of time, including in terms of the oil market and delivery of goods, Dmitry Peskov stressed",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
       ],
       "primary_topic": "energy"
     },
@@ -1114,27 +1200,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "8030ec83e679925e3f272e71d2545c7c034c7d6c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27094691",
-      "published_utc": "2026-04-13T18:53:26Z",
-      "title_en": "Dmitriev called Germany's refusal of Russian gas the cause of energy problems",
-      "lead_en": "Thus, the head of the RDIF commented on the speech of German Chancellor Friedrich Merz, according to whom the US war with Iran is the main cause of the problems the country faces",
-      "title_raw": "Дмитриев назвал отказ ФРГ от газа РФ причиной энергопроблем",
-      "lead_raw": "Таким образом глава РФПИ прокомментировал выступление канцлера Германии Фридриха Мерца, по словам которого, война США с Ираном является основной причиной проблем, с которыми сталкивается страна",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
