@@ -1,9 +1,52 @@
 {
-  "updated_at_utc": "2026-04-16T05:30:51Z",
+  "updated_at_utc": "2026-04-16T07:46:41Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 60,
+  "count": 61,
   "articles": [
+    {
+      "id": "cb2672fef2608781c8f264860e6128270bf57d63",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27125303",
+      "published_utc": "2026-04-16T07:39:08Z",
+      "title_en": "FAS called on petrochemical producers to focus on Russian price indicators",
+      "lead_en": "Linking to foreign indicators may lead to an increase in production costs both for consumers who use raw materials in production activities and for citizens",
+      "title_raw": "ФАС призвала производителей нефтехимии ориентироваться на ценовые показатели РФ",
+      "lead_raw": "Привязка к зарубежным индикаторам может повлечь увеличение себестоимости продукции как для потребителей, которые используют сырье в производственной деятельности, так и для граждан",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "2f296175c21d0b088becafa179c3a8df769dee9d",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2117919",
+      "published_utc": "2026-04-16T07:28:26Z",
+      "title_en": "Russian stock market rises at start of main trading session",
+      "lead_en": "The yuan gained 1.3 kopecks compared to the previous session’s close to trade at 11.074 rubles",
+      "title_raw": "Russian stock market rises at start of main trading session",
+      "lead_raw": "The yuan gained 1.3 kopecks compared to the previous session’s close to trade at 11.074 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "05ac0f2cd393d2020d2d2845cbe2701c0dd8137d",
       "source": "TASS (RU)",
@@ -1262,28 +1305,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "a2947fded8515c561e9eb179f3ad2ab4dced426f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27097711",
-      "published_utc": "2026-04-14T06:23:26Z",
-      "title_en": "Indonesia announced agreements with Russia in the field of energy and minerals",
-      "lead_en": "Indonesian President Prabowo Subianto met with Russian leader Vladimir Putin",
-      "title_raw": "Индонезия заявила о соглашениях с Россией в сфере энергетики и полезных ископаемых",
-      "lead_raw": "Индонезийский президент Прабово Субианто встретился с российским лидером Владимиром Путиным",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }

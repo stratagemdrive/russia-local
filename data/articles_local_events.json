@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-04-16T05:30:51Z",
+  "updated_at_utc": "2026-04-16T07:46:41Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 21,
+  "count": 19,
   "articles": [
+    {
+      "id": "ebda3381758456be02d283fe44ae330cbac81adb",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/04/16/2-children-killed-in-ukrainian-drone-strike-on-russia",
+      "published_utc": "2026-04-16T07:16:40Z",
+      "title_en": "2 children killed in Ukrainian drone strike on Russia",
+      "lead_en": "Two children — ages 5 and 14 — were killed in a Ukrainian drone attack on Tuapse, Krasnodar Region Governor Veniamin Kondratyev said. Two adults were also injured.",
+      "title_raw": "2 children killed in Ukrainian drone strike on Russia",
+      "lead_raw": "Two children — ages 5 and 14 — were killed in a Ukrainian drone attack on Tuapse, Krasnodar Region Governor Veniamin Kondratyev said. Two adults were also injured.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "73983b51199522755139fb4e4d0f09a23183b341",
       "source": "TASS (RU)",
@@ -366,65 +387,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "8e55ca4d249ec083df1cbe426886cceb5047c9df",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/04/14/woman-killed-5-injured-as-ukrainian-drones-strike-russia",
-      "published_utc": "2026-04-14T07:44:06Z",
-      "title_en": "Woman killed, 5 injured as Ukrainian drones strike Russia",
-      "lead_en": "A woman was killed when Ukrainian drones struck the city of Yelets in Russia’s Lipetsk region, Governor Igor Artamonov said.",
-      "title_raw": "Woman killed, 5 injured as Ukrainian drones strike Russia",
-      "lead_raw": "A woman was killed when Ukrainian drones struck the city of Yelets in Russia’s Lipetsk region, Governor Igor Artamonov said.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "f293a0adacb9fed2cb0aebd9649b414d0798243c",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2116607",
-      "published_utc": "2026-04-14T07:42:36Z",
-      "title_en": "Ukrainian attacks kill nearly 30 Russians, including three children, over week — diplomat",
-      "lead_en": "Rodion Miroshnik added that 170 people were injured",
-      "title_raw": "Ukrainian attacks kill nearly 30 Russians, including three children, over week — diplomat",
-      "lead_raw": "Rodion Miroshnik added that 170 people were injured",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "2d9398b3c6206fc9de1e8c79fd390368dfe3d23b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27098121",
-      "published_utc": "2026-04-14T07:07:43Z",
-      "title_en": "A Russian woman was sentenced to 22 years for an attempt on the life of an employee of the Main Directorate of the Federal Penitentiary Service of Russia for the DPR",
-      "lead_en": "Victoria Kotlyar installed an explosive device and detonated it",
-      "title_raw": "Россиянку осудили на 22 года за покушение на сотрудника ГУ ФСИН России по ДНР",
-      "lead_raw": "Виктория Котляр установила взрывное устройство и привела его в действие",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
