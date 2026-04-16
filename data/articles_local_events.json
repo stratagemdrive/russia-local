@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-04-16T13:44:53Z",
+  "updated_at_utc": "2026-04-16T15:25:49Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 21,
+  "count": 23,
   "articles": [
+    {
+      "id": "356f8513fa56783d390ee1daa2be2a608665d9da",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2118065",
+      "published_utc": "2026-04-16T11:36:20Z",
+      "title_en": "Over 120 Ukrainian UAVs strike Russia’s Belgorod Region in past day",
+      "lead_en": "In Gruzskoye, a man was injured by a detonating drone",
+      "title_raw": "Over 120 Ukrainian UAVs strike Russia’s Belgorod Region in past day",
+      "lead_raw": "In Gruzskoye, a man was injured by a detonating drone",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "5c41fc42f91f02b1bc6afd274aba240685d3c6eb",
       "source": "The Moscow Times",
@@ -26,6 +45,28 @@
       "primary_topic": "energy"
     },
     {
+      "id": "7b26b838e0baa0e195044db47106fd579c608c9b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2118035",
+      "published_utc": "2026-04-16T10:53:23Z",
+      "title_en": "Kremlin says `nothing to add’ to MFA\"s statement regarding settlement over AZAL with Baku",
+      "lead_en": "News came on Wednesday that Moscow and Baku have settled all issues, including the payment of compensation, regarding the impact from the AZAL crash following the unintentional operation of air defense systems within Russian airspace",
+      "title_raw": "Kremlin says `nothing to add’ to MFA\"s statement regarding settlement over AZAL with Baku",
+      "lead_raw": "News came on Wednesday that Moscow and Baku have settled all issues, including the payment of compensation, regarding the impact from the AZAL crash following the unintentional operation of air defense systems within Russian airspace",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
       "id": "40a66e5612b22165fbd9dadfa84eb2d4933d3551",
       "source": "Meduza (EN)",
       "url": "https://meduza.io/en/news/2026/04/16/volunteers-in-russia-rescue-oil-soaked-birds-as-new-petroleum-slick-hits-black-sea-coast",
@@ -45,6 +86,27 @@
         "energy"
       ],
       "primary_topic": "energy"
+    },
+    {
+      "id": "eba06021289245dc198a7d90e94cf66a5403801f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/pressreview/2117907",
+      "published_utc": "2026-04-16T10:00:00Z",
+      "title_en": "Press review: Pakistan advances US-Iran ceasefire as Russia joins Hormuz talks",
+      "lead_en": "Top stories from the Russian press on Thursday, April 16th",
+      "title_raw": "Press review: Pakistan advances US-Iran ceasefire as Russia joins Hormuz talks",
+      "lead_raw": "Top stories from the Russian press on Thursday, April 16th",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
     },
     {
       "id": "4245762375d06cc99170592d7b060ed2935f3aaf",
@@ -408,27 +470,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "d6cca9f1cc12f9de9b02ff420b95ac14a3f2d035",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/04/14/russian-missile-strike-on-dnipro-kills-5-wounds-22",
-      "published_utc": "2026-04-14T14:09:55Z",
-      "title_en": "Russian missile strike on Dnipro kills 5, wounds 22",
-      "lead_en": "Five people were killed in a Russian missile strike on Dnipro, regional military administration head Oleksandr Ganzha said.",
-      "title_raw": "Russian missile strike on Dnipro kills 5, wounds 22",
-      "lead_raw": "Five people were killed in a Russian missile strike on Dnipro, regional military administration head Oleksandr Ganzha said.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
