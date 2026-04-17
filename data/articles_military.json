@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-04-17T22:39:01Z",
+  "updated_at_utc": "2026-04-17T23:39:20Z",
   "keep_hours": 48,
   "topic": "military",
   "count": 123,
   "articles": [
+    {
+      "id": "7c24045707b842c77bf4f2f2d2f1b31bab1609c1",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27146679",
+      "published_utc": "2026-04-17T23:03:02Z",
+      "title_en": "Marochko: The Russian Armed Forces have secured new positions near Berestok",
+      "lead_en": "The military expert noted that Russian forces have expanded the zone of control in the Konstantinovsky area",
+      "title_raw": "Марочко: ВС РФ закрепились на новых позициях у Берестка",
+      "lead_raw": "Военный эксперт отметил, что российские силы расширили зону контроля на константиновском участке",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "578388879026002f41d29ba8fe4061d57fe8fd59",
       "source": "TASS (EN)",
@@ -2604,27 +2625,6 @@
         "military"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "c659a4a77331dbf0ec54499fec3cb7fea4582296",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27121927",
-      "published_utc": "2026-04-15T23:00:59Z",
-      "title_en": "Marochko: The Russian Armed Forces are advancing in the center of Konstantinovka, expanding the zone of control",
-      "lead_en": "Advancement of the Russian military is observed in the areas of Ilyinovka and Stepanovka, the expert added",
-      "title_raw": "Марочко: ВС РФ наступают в центре Константиновки, расширяя зону контроля",
-      "lead_raw": "Продвижение у российских военных наблюдается в районах Ильиновки и Степановки, добавил эксперт",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
