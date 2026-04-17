@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-04-17T05:27:57Z",
+  "updated_at_utc": "2026-04-17T07:46:49Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 24,
+  "count": 22,
   "articles": [
+    {
+      "id": "bb38d5daef796c1b35215fe39264288727a0c2df",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2118489",
+      "published_utc": "2026-04-17T07:36:31Z",
+      "title_en": "FACTBOX: What we know about search for police shooter in Russia’s Orenburg Region",
+      "lead_en": "The man who opened fire on police officers in the Orenburg Region may be hiding in a mountainous area",
+      "title_raw": "FACTBOX: What we know about search for police shooter in Russia’s Orenburg Region",
+      "lead_raw": "The man who opened fire on police officers in the Orenburg Region may be hiding in a mountainous area",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "558e47075a6a500de306e66ebb3450811f72a5da",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/04/17/soldier-kills-guard-escorting-him-back-to-his-unit-in-st-petersburg-then-is-detained-again",
+      "published_utc": "2026-04-17T07:27:25Z",
+      "title_en": "Soldier kills guard escorting him back to his unit in St. Petersburg, then is detained again",
+      "lead_en": "A soldier who fled his unit and was detained by military police killed one of the guards escorting him back to his base in St. Petersburg, Russia’s federal Investigative Committee reported.",
+      "title_raw": "Soldier kills guard escorting him back to his unit in St. Petersburg, then is detained again",
+      "lead_raw": "A soldier who fled his unit and was detained by military police killed one of the guards escorting him back to his base in St. Petersburg, Russia’s federal Investigative Committee reported.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "000554fcc5ad06f09ab28bec6377086423763d3c",
       "source": "TASS (RU)",
@@ -403,86 +443,6 @@
       "lead_en": "According to the post, a man was injured after a drone hit a Gazel van in the village of Meshkovoye in the Shebekino District",
       "title_raw": "Ukrainians attack Russia’s Belgorod region with over 40 drones in past day",
       "lead_raw": "According to the post, a man was injured after a drone hit a Gazel van in the village of Meshkovoye in the Shebekino District",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "127d5f9d6a6f3392263a84595d67a6c2eb90b56a",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2117211",
-      "published_utc": "2026-04-15T07:30:05Z",
-      "title_en": "Russian special forces use latest camouflage cloaks during night ambush in special op zone",
-      "lead_en": "According to the source, a moving Ukrainian military vehicle was hit by small arms fire and a controlled mine detonation",
-      "title_raw": "Russian special forces use latest camouflage cloaks during night ambush in special op zone",
-      "lead_raw": "According to the source, a moving Ukrainian military vehicle was hit by small arms fire and a controlled mine detonation",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "60d1ab3205d20c324623c6a8da01741dc6fa1490",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2117203",
-      "published_utc": "2026-04-15T07:17:01Z",
-      "title_en": "IN BRIEF: What we know about incident at gunpowder factory in Russia’s Kazan",
-      "lead_en": "The incident left a man dead, while two people had been injured",
-      "title_raw": "IN BRIEF: What we know about incident at gunpowder factory in Russia’s Kazan",
-      "lead_raw": "The incident left a man dead, while two people had been injured",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "d959df083bb422d6a9c075a5a1cafab890289beb",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/04/15/fire-breaks-out-at-russia-s-oldest-gunpowder-plant-injuring-several",
-      "published_utc": "2026-04-15T07:09:28Z",
-      "title_en": "Fire breaks out at Russia’s oldest gunpowder plant, injuring several",
-      "lead_en": "A fire broke out at the Kazan Gunpowder Plant on April 14, the press service of Tatarstan’s regional head said. Some structural elements partially collapsed in the blaze, which authorities attributed to a technical malfunction.",
-      "title_raw": "Fire breaks out at Russia’s oldest gunpowder plant, injuring several",
-      "lead_raw": "A fire broke out at the Kazan Gunpowder Plant on April 14, the press service of Tatarstan’s regional head said. Some structural elements partially collapsed in the blaze, which authorities attributed to a technical malfunction.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "7eb86d12bc579d13729bacd03cccf7e4de508976",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2117159",
-      "published_utc": "2026-04-15T06:00:37Z",
-      "title_en": "Russia-China ties remain 'unshakable amid any storms' — Lavrov",
-      "lead_en": "\"This is not just a slogan, but a statement of fact already proven by a number of developments in which Russia and China play a stabilizing role in the trends currently competing to prevail in international affairs,\" the Russian foreign minister said",
-      "title_raw": "Russia-China ties remain 'unshakable amid any storms' — Lavrov",
-      "lead_raw": "\"This is not just a slogan, but a statement of fact already proven by a number of developments in which Russia and China play a stabilizing role in the trends currently competing to prevail in international affairs,\" the Russian foreign minister said",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
