@@ -1,9 +1,53 @@
 {
-  "updated_at_utc": "2026-04-17T07:46:49Z",
+  "updated_at_utc": "2026-04-17T09:18:00Z",
   "keep_hours": 48,
   "topic": "military",
   "count": 126,
   "articles": [
+    {
+      "id": "868a770e034c568fc2007a098fcfe95be02875d3",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2118525",
+      "published_utc": "2026-04-17T08:58:01Z",
+      "title_en": "UK’s move to send record drones to Kiev may prolong sufferings in Ukraine — Russian envoy",
+      "lead_en": "Andrey Kelin added that Britain had been reluctant to discuss broader European security issues",
+      "title_raw": "UK’s move to send record drones to Kiev may prolong sufferings in Ukraine — Russian envoy",
+      "lead_raw": "Andrey Kelin added that Britain had been reluctant to discuss broader European security issues",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "2ccebe4b9ca0b0f06d8b5569ac346b5d05f73d9c",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2118495",
+      "published_utc": "2026-04-17T07:48:12Z",
+      "title_en": "Yolka UAV is highly effective interceptor — Russian serviceman",
+      "lead_en": "The Defense Ministry recalled the operating principle of the latest Russian interceptor drone, emphasizing that it carries no warhead and that it destroys targets with kinetic energy in a direct collision",
+      "title_raw": "Yolka UAV is highly effective interceptor — Russian serviceman",
+      "lead_raw": "The Defense Ministry recalled the operating principle of the latest Russian interceptor drone, emphasizing that it carries no warhead and that it destroys targets with kinetic energy in a direct collision",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "558e47075a6a500de306e66ebb3450811f72a5da",
       "source": "Meduza (EN)",
@@ -2643,49 +2687,6 @@
         "military"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "341b90042439699d8b86d720d082799955a74810",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27113133",
-      "published_utc": "2026-04-15T08:43:35Z",
-      "title_en": "Stars and Stripes: Lieutenant Colonel of the US Armed Forces pleaded guilty to arms smuggling allegedly from the Russian Federation",
-      "lead_en": "Frank Ross Talbert faces up to 20 years in prison and a fine of up to $1 million.",
-      "title_raw": "Stars and Stripes: подполковник ВС США признал вину в контрабанде оружия якобы из РФ",
-      "lead_raw": "Фрэнку Россу Талберту грозит тюремное заключение на срок до 20 лет и штраф в размере до $1 млн",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "f82c52c90abe4826612f5a95941c144348901f35",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2117231",
-      "published_utc": "2026-04-15T08:28:17Z",
-      "title_en": "Potential Ukraine military bloc, EU ban on Russian energy: remarks by top Russian diplomat",
-      "lead_en": "Sergey Lavrov warned Europe that a full abandonment of Russian energy supplies would only make it dependent on another country",
-      "title_raw": "Potential Ukraine military bloc, EU ban on Russian energy: remarks by top Russian diplomat",
-      "lead_raw": "Sergey Lavrov warned Europe that a full abandonment of Russian energy supplies would only make it dependent on another country",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
