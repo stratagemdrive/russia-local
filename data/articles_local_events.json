@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-04-17T02:35:41Z",
+  "updated_at_utc": "2026-04-17T05:27:57Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 24,
   "articles": [
+    {
+      "id": "000554fcc5ad06f09ab28bec6377086423763d3c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27136113",
+      "published_utc": "2026-04-17T04:01:16Z",
+      "title_en": "Expert Kochmar: Moldova’s exit from the CIS will be the first step towards the loss of sovereignty",
+      "lead_en": "The retired envoy extraordinary and plenipotentiary of the Russian Foreign Ministry believes that this will be followed by the complete absorption of the country by Romania through a referendum",
+      "title_raw": "Эксперт Кочмарь: выход Молдавии из СНГ станет первым шагом к потере суверенитета",
+      "lead_raw": "Чрезвычайный и полномочный посланник МИД России в отставке считает, что вслед за этим последует полное поглощение страны Румынией через проведение референдума",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "8a17d9605497de9f9febf1e2f138a2376045da58",
       "source": "Meduza (EN)",
@@ -471,27 +492,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "3e2c131d816198fb23417e39967e2d03a5adb7bf",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27109951",
-      "published_utc": "2026-04-15T04:03:20Z",
-      "title_en": "Russian Foreign Ministry: Baku and Yerevan provided significant assistance in the evacuation of Russians from Iran",
-      "lead_en": "As noted by the director of the consular department of the Russian diplomatic department, Aleksey Klimov, Baku allowed the use of the Astara border crossing, which has been closed for individual crossings since 2020.",
-      "title_raw": "МИД РФ: Баку и Ереван оказали значительную помощь в эвакуации россиян из Ирана",
-      "lead_raw": "Как отметил директор консульского департамента российского дипведомства Алексей Климов, Баку позволил воспользоваться закрытым с 2020 года для индивидуального пересечения погранпереходом \"Астара\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
