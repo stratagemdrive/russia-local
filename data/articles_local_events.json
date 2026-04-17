@@ -1,9 +1,94 @@
 {
-  "updated_at_utc": "2026-04-17T09:18:00Z",
+  "updated_at_utc": "2026-04-17T13:20:19Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 22,
+  "count": 25,
   "articles": [
+    {
+      "id": "04fb7fb2cb3f928988a9497c1f8953221c441561",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27142863",
+      "published_utc": "2026-04-17T13:17:21Z",
+      "title_en": "The Security Council called the Ministry of Emergency Situations an effective agency for emergency prevention",
+      "lead_en": "Secretary of the Russian Security Council Sergei Shoigu has created the most effective agency for preventing emergencies and eliminating the consequences of natural disasters, the department noted",
+      "title_raw": "В Совбезе назвали МЧС эффективным ведомством по предотвращению ЧС",
+      "lead_raw": "Секретарь СБ России Сергей Шойгу создал самое эффективное ведомство по предотвращению чрезвычайных ситуаций и ликвидации последствий стихийных бедствий, отметили в ведомстве",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "f84277359c1d220e5c2ad884f1d53059a63ccfd1",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27142601",
+      "published_utc": "2026-04-17T12:58:16Z",
+      "title_en": "Missile danger declared in Kaluga region",
+      "lead_en": "This is reported in the application of the Ministry of Emergency Situations of Russia",
+      "title_raw": "В Калужской области объявили ракетную опасность",
+      "lead_raw": "Об этом сообщается в приложении МЧС России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "745ad3eb8a1206a10b7ffb5239a212f961cdec6a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2118601",
+      "published_utc": "2026-04-17T10:39:00Z",
+      "title_en": "Ukrainian attacks on Russia’s Belgorod Region leave 1 killed, 11 others injured — governor",
+      "lead_en": "The Ukrainian armed forces used almost 170 drones and about 50 munitions",
+      "title_raw": "Ukrainian attacks on Russia’s Belgorod Region leave 1 killed, 11 others injured — governor",
+      "lead_raw": "The Ukrainian armed forces used almost 170 drones and about 50 munitions",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "34b40499cd2a244191552c601173dfecc6d9ec50",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/pressreview/2118471",
+      "published_utc": "2026-04-17T10:00:00Z",
+      "title_en": "Press review: Israel-Lebanon ceasefire may fail and US reinstates oil sanctions on Russia",
+      "lead_en": "Top stories from the Russian press on Friday, April 17th",
+      "title_raw": "Press review: Israel-Lebanon ceasefire may fail and US reinstates oil sanctions on Russia",
+      "lead_raw": "Top stories from the Russian press on Friday, April 17th",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "792880bfa5d76206bdb33754a47d885a97c738e7",
       "source": "TASS (EN)",
@@ -197,6 +282,27 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 2,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "a37875ad5088a24e4003654fb6278551d62f6a51",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/04/16/smoke-plume-rises-above-krasnodar-oil-depot-after-ukraine-and-russia-trade-deadly-barrages-a92515",
+      "published_utc": "2026-04-16T10:56:00Z",
+      "title_en": "Smoke Plume Rises Above Krasnodar Oil Depot After Ukraine and Russia Trade Deadly Barrages",
+      "lead_en": "Authorities in Krasnodar said a woman and a teenage girl were killed in a Ukrainian drone attack on the port town of Tuapse.",
+      "title_raw": "Smoke Plume Rises Above Krasnodar Oil Depot After Ukraine and Russia Trade Deadly Barrages",
+      "lead_raw": "Authorities in Krasnodar said a woman and a teenage girl were killed in a Ukrainian drone attack on the port town of Tuapse.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
         "economy": 1,
         "local_events": 1
       },
@@ -411,47 +517,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "9821b0fefa6a2e6a5492f1a9578f418dfb28bd1d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2117461",
-      "published_utc": "2026-04-15T12:58:24Z",
-      "title_en": "Russia, Azerbaijan reach agreement on resolving aftermath of AZAL plane crash",
-      "lead_en": "The crash resulted from an unintentional strike by an air defense system in the airspace of the Russian Federation, the statement said",
-      "title_raw": "Russia, Azerbaijan reach agreement on resolving aftermath of AZAL plane crash",
-      "lead_raw": "The crash resulted from an unintentional strike by an air defense system in the airspace of the Russian Federation, the statement said",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "64acaca7ab793b949f535b1738a2de1514f93bd2",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/04/15/ukrainian-drones-strike-petrochemical-plant-in-russia-sparking-fire",
-      "published_utc": "2026-04-15T09:29:37Z",
-      "title_en": "Ukrainian drones strike petrochemical plant in Russia, sparking fire",
-      "lead_en": "Ukrainian drones struck Russia’s republic of Bashkortostan on the morning of April 15, the region’s head, Radiy Khabirov, said. Several drones were shot down over an industrial zone in the city of Sterlitamak, he said.",
-      "title_raw": "Ukrainian drones strike petrochemical plant in Russia, sparking fire",
-      "lead_raw": "Ukrainian drones struck Russia’s republic of Bashkortostan on the morning of April 15, the region’s head, Radiy Khabirov, said. Several drones were shot down over an industrial zone in the city of Sterlitamak, he said.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
