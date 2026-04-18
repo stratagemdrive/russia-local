@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-04-18T07:08:15Z",
+  "updated_at_utc": "2026-04-18T08:51:35Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 27,
+  "count": 26,
   "articles": [
+    {
+      "id": "c979c9798bdd4f0357fa19c77a844114cdfeb838",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/society/2119061",
+      "published_utc": "2026-04-18T07:25:33Z",
+      "title_en": "Attacker who killed police officer, injured 3 others detained in Russia’s Orenburg region",
+      "lead_en": "The suspect put up armed resistance during his arrest",
+      "title_raw": "Attacker who killed police officer, injured 3 others detained in Russia’s Orenburg region",
+      "lead_raw": "The suspect put up armed resistance during his arrest",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "fb89bd688713416d563b25b60feb45559bad8b7e",
       "source": "TASS (RU)",
@@ -513,48 +534,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "4245762375d06cc99170592d7b060ed2935f3aaf",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/04/16/2-killed-in-drone-attack-on-krasnodar-region-as-ukraine-and-russia-trade-deadly-barrages-a92515",
-      "published_utc": "2026-04-16T07:56:48Z",
-      "title_en": "2 Killed in Drone Attack on Krasnodar Region as Ukraine and Russia Trade Deadly Barrages",
-      "lead_en": "Unconfirmed reports suggested that the Tuapse Oil Refinery was likely targeted and set ablaze in the Ukrainian strike.",
-      "title_raw": "2 Killed in Drone Attack on Krasnodar Region as Ukraine and Russia Trade Deadly Barrages",
-      "lead_raw": "Unconfirmed reports suggested that the Tuapse Oil Refinery was likely targeted and set ablaze in the Ukrainian strike.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "ebda3381758456be02d283fe44ae330cbac81adb",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/04/16/2-children-killed-in-ukrainian-drone-strike-on-russia",
-      "published_utc": "2026-04-16T07:16:40Z",
-      "title_en": "2 children killed in Ukrainian drone strike on Russia",
-      "lead_en": "Two children — ages 5 and 14 — were killed in a Ukrainian drone attack on Tuapse, Krasnodar Region Governor Veniamin Kondratyev said. Two adults were also injured.",
-      "title_raw": "2 children killed in Ukrainian drone strike on Russia",
-      "lead_raw": "Two children — ages 5 and 14 — were killed in a Ukrainian drone attack on Tuapse, Krasnodar Region Governor Veniamin Kondratyev said. Two adults were also injured.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
     }
   ]
 }
