@@ -1,23 +1,67 @@
 {
-  "updated_at_utc": "2026-04-18T16:40:47Z",
+  "updated_at_utc": "2026-04-18T18:52:37Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 52,
   "articles": [
+    {
+      "id": "875fd6b8c117e118acd1cd2d2d3c370a65a2b5e8",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27152129",
+      "published_utc": "2026-04-18T18:18:41Z",
+      "title_en": "Dmitriev called those who criticized the US decision on Russian oil as warmongers",
+      "lead_en": "The Special Representative of the Russian President for Investment and Economic Cooperation with Foreign Countries cited quotes from Western media that criticize the easing of sanctions against Russian oil and petroleum products",
+      "title_raw": "Дмитриев назвал разжигателями войны раскритиковавших решение США по нефти РФ",
+      "lead_raw": "Спецпредставитель президента России по инвестиционно-экономическому сотрудничеству с зарубежными странами привел цитаты из западных СМИ, которые критикуют ослабление санкций против российской нефти и нефтепродуктов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "23d241220f7f7915446ba05f6dad7b1f7f65c23d",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2119177",
+      "published_utc": "2026-04-18T17:24:08Z",
+      "title_en": "Zakharova: West has not abandoned idea of seizing Ukrainian black soil, Russian oil",
+      "lead_en": "This refers to revanchism, \"which assumes that they now want to carry out that very revenge that will allow them to still win in this very division of the world, the redrawing of the world’s resources for themselves,\" Russian Foreign Ministry Spokeswoman added",
+      "title_raw": "Zakharova: West has not abandoned idea of seizing Ukrainian black soil, Russian oil",
+      "lead_raw": "This refers to revanchism, \"which assumes that they now want to carry out that very revenge that will allow them to still win in this very division of the world, the redrawing of the world’s resources for themselves,\" Russian Foreign Ministry Spokeswoman added",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "7ebbd5c08af4c7de0071bd6f28e6fc3cfbc40f5d",
       "source": "TASS (RU)",
       "url": "https://tass.ru/ekonomika/27151925",
       "published_utc": "2026-04-18T16:36:00Z",
       "title_en": "Italian Deputy Prime Minister calls for a return to gas purchases from Russia",
-      "lead_en": "",
+      "lead_en": "Matteo Salvini also called for the suspension of the Stability Pact, the basic EU document regulating economic indicators and standards that European economies must comply with.",
       "title_raw": "Вице-премьер Италии призвал вернуться к закупкам газа в РФ",
-      "lead_raw": "",
+      "lead_raw": "Маттео Сальвини выступил также за приостановку действия Пакта стабильности, базового документа ЕС, регулирующего экономические показатели и нормы, которым должны соответствовать европейские экономики",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
         "energy": 1,
-        "economy": 0,
+        "economy": 1,
         "local_events": 0
       },
       "topics": [
@@ -804,7 +848,7 @@
       "url": "https://tass.ru/ekonomika/27142289",
       "published_utc": "2026-04-17T12:35:14Z",
       "title_en": "Russia will launch a control system for the supply of goods from the EAEU",
-      "lead_en": "The system for confirming the expectation of delivery of goods does not apply, in particular, to currency, securities and foreign currency valuables, traveler's checks, oil and oil products, electricity",
+      "lead_en": "The system for confirming the expectation of delivery of goods does not apply, in particular, to currency, securities and currency valuables, traveler's checks, oil and oil products, electricity",
       "title_raw": "В России запустят систему контроля поставок товаров из ЕАЭС",
       "lead_raw": "Система подтверждения ожидания поставки товаров не распространяется, в частности, на валюту, ценные бумаги и валютные ценности, дорожные чеки, нефть и нефтепродукты, электроэнергию",
       "topic_scores": {
@@ -1061,48 +1105,6 @@
       "lead_en": "According to the newspaper's sources, we are talking about those whose accounts consistently receive transfers from different persons and recurring amounts",
       "title_raw": "\"Известия\": около 10 млн россиян могут попасть под контроль ФНС из-за переводов",
       "lead_raw": "По информации источников газеты, речь идет о тех, кому на счета стабильно поступают переводы от разных лиц и повторяющиеся суммы",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "57fd0e737665c935ec883da600f08ac99bfa4bdb",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2118329",
-      "published_utc": "2026-04-16T17:50:46Z",
-      "title_en": "Bank of Russia set dollar rate at 76.09 rubles for April 17",
-      "lead_en": "The official yuan rate was set at 11.17 rubles, up 13.66 kopecks",
-      "title_raw": "Bank of Russia set dollar rate at 76.09 rubles for April 17",
-      "lead_raw": "The official yuan rate was set at 11.17 rubles, up 13.66 kopecks",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "4a72a201eb3379f7b88ebcae2901ab1ab9868c7d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2118315",
-      "published_utc": "2026-04-16T17:27:25Z",
-      "title_en": "Russia becomes top sunflower oil exporter globally — Agroexport",
-      "lead_en": "Russia exported almost eleven million tons of oils and fats as of the end of 2025, head of the Agroexport federal center Ilya Ilyushin said",
-      "title_raw": "Russia becomes top sunflower oil exporter globally — Agroexport",
-      "lead_raw": "Russia exported almost eleven million tons of oils and fats as of the end of 2025, head of the Agroexport federal center Ilya Ilyushin said",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
