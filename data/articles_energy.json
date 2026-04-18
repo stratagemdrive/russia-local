@@ -1,9 +1,95 @@
 {
-  "updated_at_utc": "2026-04-18T10:40:27Z",
+  "updated_at_utc": "2026-04-18T13:02:55Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 59,
+  "count": 55,
   "articles": [
+    {
+      "id": "13ead095292bcb5de697e385ec3f07f1fd4cdfec",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27150485",
+      "published_utc": "2026-04-18T11:33:44Z",
+      "title_en": "AfD leader calls for purchases of oil and gas from Russia and Asia",
+      "lead_en": "This happened due to high fuel prices",
+      "title_raw": "Лидер АдГ призвал к закупкам нефти и газа из РФ и Азии",
+      "lead_raw": "Это произошло из-за высоких цен на топливо",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "445b5c47b927e496b3ccd1690fd4ebdb162b1e97",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27150229",
+      "published_utc": "2026-04-18T10:58:54Z",
+      "title_en": "Lavrov called Russia's trade relations with China balanced",
+      "lead_en": "Cooperation between the countries is actively developing in the oil and gas sector, in nuclear energy and high technologies, including space, as well as in other areas, said the Russian Foreign Minister",
+      "title_raw": "Лавров назвал сбалансированными торговые отношения РФ с Китаем",
+      "lead_raw": "Между странами активно развивается сотрудничество в нефтегазовой сфере, в ядерной энергетике и высоких технологиях, включая космос, а также в других областях, заявил министр иностранных дел России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "29cb5f39f80ab956ebc526a1855c7353c2245832",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27150065",
+      "published_utc": "2026-04-18T10:42:30Z",
+      "title_en": "Lavrov called Zelensky’s words about damage to the Druzhba oil pipeline a lie",
+      "lead_en": "The head of the Russian Foreign Ministry recalled that “this story has been going on for two months”",
+      "title_raw": "Лавров назвал ложью слова Зеленского о повреждениях нефтепровода \"Дружба\"",
+      "lead_raw": "Глава МИД РФ напомнил, что \"эта история тянется уже два месяца\"",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "622fa6bbbfcaf52cabc61f3d2e9656b866f27274",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27150013",
+      "published_utc": "2026-04-18T10:42:06Z",
+      "title_en": "The head of the Turkish Ministry of Energy announced the study of the possibility of purchasing LNG from Russia",
+      "lead_en": "Alparslan Bayraktar recalled that “the contract for the supply of Iranian gas to Turkey is coming to an end”",
+      "title_raw": "Глава Минэнерго Турции заявил об изучении возможности закупки СПГ у России",
+      "lead_raw": "Алпарслан Байрактар напомнил, что \"срок действия контракта на поставки в Турцию иранского газа подходит к концу\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "cdcd67eff059a332b530f273bab197739c2eedf4",
       "source": "TASS (RU)",
@@ -675,7 +761,7 @@
       "url": "https://tass.ru/ekonomika/27142289",
       "published_utc": "2026-04-17T12:35:14Z",
       "title_en": "Russia will launch a control system for the supply of goods from the EAEU",
-      "lead_en": "The system for confirming the expectation of delivery of goods does not apply, in particular, to currency, securities and foreign currency valuables, traveler's checks, oil and oil products, electricity",
+      "lead_en": "The system for confirming the expectation of delivery of goods does not apply, in particular, to currency, securities and currency valuables, traveler's checks, oil and oil products, electricity",
       "title_raw": "В России запустят систему контроля поставок товаров из ЕАЭС",
       "lead_raw": "Система подтверждения ожидания поставки товаров не распространяется, в частности, на валюту, ценные бумаги и валютные ценности, дорожные чеки, нефть и нефтепродукты, электроэнергию",
       "topic_scores": {
@@ -1093,177 +1179,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "2a59b75e5ceee9ed4fc4a1ad40bffffd84752ad1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27129713",
-      "published_utc": "2026-04-16T12:35:44Z",
-      "title_en": "Magyar will discuss oil supplies to Hungary with the head of MOL",
-      "lead_en": "In recent days, the leader of the Tisa party has repeatedly noted that the country will not yet be able to do without Russian oil, and expressed hope that Ukraine, in accordance with its promises, will resume transit along the Druzhba at the end of April",
-      "title_raw": "Мадьяр обсудит с главой MOL поставки нефти в Венгрию",
-      "lead_raw": "В последние дни лидер партии \"Тиса\" неоднократно отмечал, что страна пока не сможет обойтись без российской нефти, и выражал надежду, что Украина в соответствии со своими обещаниями возобновит транзит по \"Дружбе\" в конце апреля",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "c30d9b400b6e67b17eb189ea70216851787659e5",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2118083",
-      "published_utc": "2026-04-16T11:55:58Z",
-      "title_en": "Russian troops hammer Ukrainian army’s fuel and energy infrastructure in massive strike",
-      "lead_en": "Russia’s Battlegroup West inflicted roughly 190 casualties on Ukrainian troops and destroyed two enemy armored combat vehicles in its area of responsibility over the past day, the Defense Ministry reported",
-      "title_raw": "Russian troops hammer Ukrainian army’s fuel and energy infrastructure in massive strike",
-      "lead_raw": "Russia’s Battlegroup West inflicted roughly 190 casualties on Ukrainian troops and destroyed two enemy armored combat vehicles in its area of responsibility over the past day, the Defense Ministry reported",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "588757cf657f0abf2b783442313afa2f2af180d7",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2118063",
-      "published_utc": "2026-04-16T11:28:24Z",
-      "title_en": "Kremlin spokesman comments on Russian oil sanctions, economic issues in daily briefing",
-      "lead_en": "Russia has been under sanctions for several years so it knows how to minimize their consequences, Dmitry Peskov said",
-      "title_raw": "Kremlin spokesman comments on Russian oil sanctions, economic issues in daily briefing",
-      "lead_raw": "Russia has been under sanctions for several years so it knows how to minimize their consequences, Dmitry Peskov said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "cdef7e181458a4a0b5c24bd022320cf08cdfda35",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2118049",
-      "published_utc": "2026-04-16T11:06:10Z",
-      "title_en": "Spain purchased record large gas volume from Russia — newspaper",
-      "lead_en": "According to Enagas energy company, Spain purchased the equivalent of 9,807 GWh of LNG from Russia",
-      "title_raw": "Spain purchased record large gas volume from Russia — newspaper",
-      "lead_raw": "According to Enagas energy company, Spain purchased the equivalent of 9,807 GWh of LNG from Russia",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "5c41fc42f91f02b1bc6afd274aba240685d3c6eb",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/04/16/smoke-plume-rises-above-krasnodar-oil-refinery-after-ukraine-and-russia-trade-deadly-barrages-a92515",
-      "published_utc": "2026-04-16T10:56:00Z",
-      "title_en": "Smoke Plume Rises Above Krasnodar Oil Refinery After Ukraine and Russia Trade Deadly Barrages",
-      "lead_en": "Authorities in Krasnodar said a woman and a teenage girl were killed in a Ukrainian drone attack on the port town of Tuapse.",
-      "title_raw": "Smoke Plume Rises Above Krasnodar Oil Refinery After Ukraine and Russia Trade Deadly Barrages",
-      "lead_raw": "Authorities in Krasnodar said a woman and a teenage girl were killed in a Ukrainian drone attack on the port town of Tuapse.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "a37875ad5088a24e4003654fb6278551d62f6a51",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/04/16/smoke-plume-rises-above-krasnodar-oil-depot-after-ukraine-and-russia-trade-deadly-barrages-a92515",
-      "published_utc": "2026-04-16T10:56:00Z",
-      "title_en": "Smoke Plume Rises Above Krasnodar Oil Depot After Ukraine and Russia Trade Deadly Barrages",
-      "lead_en": "Authorities in Krasnodar said a woman and a teenage girl were killed in a Ukrainian drone attack on the port town of Tuapse.",
-      "title_raw": "Smoke Plume Rises Above Krasnodar Oil Depot After Ukraine and Russia Trade Deadly Barrages",
-      "lead_raw": "Authorities in Krasnodar said a woman and a teenage girl were killed in a Ukrainian drone attack on the port town of Tuapse.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "73817cda81cb6f9668a3dbd6d7a6abc0ea8b223a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27128273",
-      "published_utc": "2026-04-16T10:45:11Z",
-      "title_en": "Sanctions against Russian oil and the economy. Topics of Peskov's briefing",
-      "lead_en": "The Kremlin has seen a video message from blogger Victoria Boni, many problems are raised there, but the authorities are already working hard on them, the presidential press secretary said",
-      "title_raw": "Санкции против российской нефти и экономика. Темы брифинга Пескова",
-      "lead_raw": "Кремль видел видеообращение блогера Виктории Бони, там затронуты многие проблемы, но власти и так ведут по ним кропотливую работу, указал пресс-секретарь президента",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "40a66e5612b22165fbd9dadfa84eb2d4933d3551",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/04/16/volunteers-in-russia-rescue-oil-soaked-birds-as-new-petroleum-slick-hits-black-sea-coast",
-      "published_utc": "2026-04-16T10:41:01Z",
-      "title_en": "Volunteers in Russia rescue oil-soaked birds as new petroleum slick hits Black Sea coast",
-      "lead_en": "Volunteers in Anapa are again rescuing birds contaminated by petroleum products, and the worker leading the effort says the pollution comes from a new spill. Goar Avanesova, a volunteer with the bird rescue team, told the Russian news outlet Podyom the substance is not the same as what washed ashore last year.",
-      "title_raw": "Volunteers in Russia rescue oil-soaked birds as new petroleum slick hits Black Sea coast",
-      "lead_raw": "Volunteers in Anapa are again rescuing birds contaminated by petroleum products, and the worker leading the effort says the pollution comes from a new spill. Goar Avanesova, a volunteer with the bird rescue team, told the Russian news outlet Podyom the substance is not the same as what washed ashore last year.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
