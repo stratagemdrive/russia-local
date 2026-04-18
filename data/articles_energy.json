@@ -1,9 +1,96 @@
 {
-  "updated_at_utc": "2026-04-18T02:26:39Z",
+  "updated_at_utc": "2026-04-18T05:06:39Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 64,
+  "count": 65,
   "articles": [
+    {
+      "id": "a1aac1782d42e60346a33ab253252b5e21bc6635",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27147885",
+      "published_utc": "2026-04-18T05:00:11Z",
+      "title_en": "The first “Made in Russia” store with a full-service bakery opened in Shanghai",
+      "lead_en": "The opening ceremony featured humanoid robots that danced in front of the store and interacted with passers-by to attract attention.",
+      "title_raw": "В Шанхае открылся первый магазин \"Сделано в России\" с пекарней полного цикла",
+      "lead_raw": "Церемония открытия прошла с участием человекоподобных роботов, которые танцевали перед магазином и взаимодействовали с прохожими для привлечения внимания",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "39d9696dd06a63f890a4702c3d31580d6f12193c",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2119045",
+      "published_utc": "2026-04-18T04:48:11Z",
+      "title_en": "US extends suspension of sanctions, affects over 100 mln barrels of Russian oil — Dmitriev",
+      "lead_en": "The official added that \"more and more countries,\" including the US, are recognizing the systemic importance of Russian oil and gas for the global economy",
+      "title_raw": "US extends suspension of sanctions, affects over 100 mln barrels of Russian oil — Dmitriev",
+      "lead_raw": "The official added that \"more and more countries,\" including the US, are recognizing the systemic importance of Russian oil and gas for the global economy",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "8e23dd804849fd0f9d4f20e643e6b144952d215b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2119041",
+      "published_utc": "2026-04-18T04:09:51Z",
+      "title_en": "US extends permission for Russian oil sales despite political opposition — Russian envoy",
+      "lead_en": "Kirill Dmitriev also said that Russia maintained contacts with the US on economic and energy issues",
+      "title_raw": "US extends permission for Russian oil sales despite political opposition — Russian envoy",
+      "lead_raw": "Kirill Dmitriev also said that Russia maintained contacts with the US on economic and energy issues",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "27b1718e9b30fa80df34f0145bd0dab5130e34cc",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27147355",
+      "published_utc": "2026-04-18T02:51:58Z",
+      "title_en": "Dmitriev: over 100 million barrels of oil on the way will be affected by the lifting of sanctions on Russian raw materials",
+      "lead_en": "The Special Representative of the Russian President for Investment and Economic Cooperation with Foreign Countries noted that “all warmongers vehemently opposed the US decision”",
+      "title_raw": "Дмитриев: свыше 100 млн баррелей нефти в пути затронет снятие санкций с сырья РФ",
+      "lead_raw": "Спецпредставитель президента России по инвестиционно-экономическому сотрудничеству с зарубежными странами отметил, что против решения США \"яро выступали все поджигатели войны\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "26707798da2db86ca45831850254f9af83e1a559",
       "source": "TASS (RU)",
@@ -30,15 +117,15 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/politika/27147255",
       "published_utc": "2026-04-18T02:21:49Z",
-      "title_en": "Dmitriev: extension of the lifting of US sanctions on Russian oil will cause hysteria in the EU",
-      "lead_en": "",
-      "title_raw": "Дмитриев: продление снятия санций США в отношении нефти РФ вызовет истерику в ЕС",
-      "lead_raw": "",
+      "title_en": "Dmitriev: extending the lifting of US sanctions on Russian oil will cause EU hysteria",
+      "lead_en": "The head of the RDIF noted that more and more countries, including the United States, are realizing the system-forming role of Russian hydrocarbons",
+      "title_raw": "Дмитриев: продление снятия санкций США в отношении нефти РФ вызовет истерику ЕС",
+      "lead_raw": "Глава РФПИ отметил, что все больше стран, включая США, осознают системообразующую роль российских углеводородов",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
         "energy": 1,
-        "economy": 0,
+        "economy": 1,
         "local_events": 0
       },
       "topics": [
@@ -1303,70 +1390,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "05ac0f2cd393d2020d2d2845cbe2701c0dd8137d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27123427",
-      "published_utc": "2026-04-16T04:29:17Z",
-      "title_en": "Ambassador: Russia is ready to supply India with as much energy as it needs",
-      "lead_en": "",
-      "title_raw": "Посол: РФ готова поставлять Индии столько энергоресуров, сколько ей требуется",
-      "lead_raw": "",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "1308d52b055fe62a9d1cec15f5f90cf599f2fea7",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27123281",
-      "published_utc": "2026-04-16T04:08:41Z",
-      "title_en": "TASS: The Russian Federation in January - February reduced pipeline gas supplies to Turkey by 27%",
-      "lead_en": "The pumping of Russian gas through pipelines to Turkey reached 3.8 billion cubic meters. m per period",
-      "title_raw": "ТАСС: РФ в январе - феврале снизила на 27% трубопроводные поставки газа в Турцию",
-      "lead_raw": "Прокачка российского газа по трубопроводам в Турцию достигла 3,8 млрд куб. м за период",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "06f9ef157e72fa6fa2e29aad64700f3e048f2d27",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27123227",
-      "published_utc": "2026-04-16T04:01:22Z",
-      "title_en": "Azarov pointed out Merkel’s mistakes in politics",
-      "lead_en": "During the work of the ex-chancellor, Germany began to refuse Russian energy resources, noted the ex-prime minister of Ukraine",
-      "title_raw": "Азаров указал на ошибки Меркель в политике",
-      "lead_raw": "Во время работы экс-канцлера Германия начала отказываться от российских энергоносителей, отметил экс-премьер Украины",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
