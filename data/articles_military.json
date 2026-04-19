@@ -1,9 +1,75 @@
 {
-  "updated_at_utc": "2026-04-19T14:40:09Z",
+  "updated_at_utc": "2026-04-19T15:37:15Z",
   "keep_hours": 48,
   "topic": "military",
-  "count": 61,
+  "count": 62,
   "articles": [
+    {
+      "id": "6c6946c77b4d5ec7fa7d2d9879510d9f3bd49638",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27155707",
+      "published_utc": "2026-04-19T15:01:05Z",
+      "title_en": "Miroshnik called the visits of Western guests to Kyiv a shortcoming of the Russian Federation",
+      "lead_en": "They “are coming to touch this radicalization, to demonstrate their commitment to preparing for war with Russia,” said the Ambassador at Large of the Russian Foreign Ministry",
+      "title_raw": "Мирошник назвал недоработкой РФ визиты западных гостей в Киев",
+      "lead_raw": "Они \"едут прикоснуться к этой радикализации, продемонстрировать свою приверженность подготовке к войне с Россией\", заявил посол по особым поручениям МИД РФ",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "afd53f4c03c117bbdd38a19b7d3ca91004b1459d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kosmos/27155685",
+      "published_utc": "2026-04-19T14:54:16Z",
+      "title_en": "Astronomer Yazev: the asteroid Apophis will pass over Russia during its approach to the Earth",
+      "lead_en": "It can be seen with the naked eye, said a leading researcher at the Institute of Solar-Terrestrial Physics SB RAS",
+      "title_raw": "Астроном Язев: астероид Апофис во время сближения с Землей пройдет над Россией",
+      "lead_raw": "Его можно будет увидеть невооруженным глазом, сообщил ведущий научный сотрудник Института солнечно-земной физики СО РАН",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "8861fedd9b4d1e46886eaa9eb48a64bdc49c1a7d",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2119291",
+      "published_utc": "2026-04-19T11:36:02Z",
+      "title_en": "Extension of US sanctions relief on Russian oil supports India's energy security — expert",
+      "lead_en": "This plays a key role in ensuring the short-term energy security of the South Asian republic, according to an Indian international trade expert",
+      "title_raw": "Extension of US sanctions relief on Russian oil supports India's energy security — expert",
+      "lead_raw": "This plays a key role in ensuring the short-term energy security of the South Asian republic, according to an Indian international trade expert",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 2,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "e4de843f3965863e29b8595f21d870ac19a12d1f",
       "source": "TASS (EN)",
@@ -1242,48 +1308,6 @@
       "lead_en": "Russian President Vladimir Putin instructed the government to consider the issue of state support for films dedicated to participants in a special military operation, recalled Deputy Chairman of the Federation Council Yuri Vorobyov",
       "title_raw": "В СФ заявили, что героизм бойцов СВО находит отражение в искусстве",
       "lead_raw": "Президент РФ Владимир Путин поручил правительству рассмотреть вопрос о господдержке фильмов, посвященных участникам специальной военной операции, напомнил заместитель председателя Совета Федерации Юрий Воробьев",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "7cd5ca349e5483ba9932857d502b1345d7b3df11",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2118851",
-      "published_utc": "2026-04-17T14:58:32Z",
-      "title_en": "Russian MP calls on EU to heed Russia’s warnings about arms supplies to Kiev",
-      "lead_en": "Leonid Slutsky pointed out that Europe was not only arming the Kiev regime but also actively building up its own military potential in preparation for a conflict with Russia",
-      "title_raw": "Russian MP calls on EU to heed Russia’s warnings about arms supplies to Kiev",
-      "lead_raw": "Leonid Slutsky pointed out that Europe was not only arming the Kiev regime but also actively building up its own military potential in preparation for a conflict with Russia",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "1d92c00e1e92595f2f527f17fff83e6ebd81652c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27144317",
-      "published_utc": "2026-04-17T14:50:08Z",
-      "title_en": "Lukashenko signed a decree on conscription of reserve officers for military service",
-      "lead_en": "The implementation of the decree will allow, in particular, to increase the level of staffing of primary military officer positions, the press service of the Belarusian president noted",
-      "title_raw": "Лукашенко подписал указ о призыве офицеров запаса на военную службу",
-      "lead_raw": "Реализация указа позволит, в частности, повысить уровень укомплектованности первичных воинских должностей офицерского состава, отметили в пресс-службе белорусского президента",
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,

@@ -1,18 +1,40 @@
 {
-  "updated_at_utc": "2026-04-19T14:40:09Z",
+  "updated_at_utc": "2026-04-19T15:37:15Z",
   "keep_hours": 48,
   "topic": "diplomacy",
-  "count": 81,
+  "count": 80,
   "articles": [
+    {
+      "id": "6c6946c77b4d5ec7fa7d2d9879510d9f3bd49638",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27155707",
+      "published_utc": "2026-04-19T15:01:05Z",
+      "title_en": "Miroshnik called the visits of Western guests to Kyiv a shortcoming of the Russian Federation",
+      "lead_en": "They “are coming to touch this radicalization, to demonstrate their commitment to preparing for war with Russia,” said the Ambassador at Large of the Russian Foreign Ministry",
+      "title_raw": "Мирошник назвал недоработкой РФ визиты западных гостей в Киев",
+      "lead_raw": "Они \"едут прикоснуться к этой радикализации, продемонстрировать свою приверженность подготовке к войне с Россией\", заявил посол по особым поручениям МИД РФ",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "39c240028cc73dff54ed65bed357f47a6868a6ff",
       "source": "TASS (RU)",
       "url": "https://tass.ru/proisshestviya/27155433",
       "published_utc": "2026-04-19T13:56:57Z",
-      "title_en": "Russian Embassy: a Russian tourist was hit and killed by a train in Sri Lanka",
-      "lead_en": "According to reports, a Russian woman crossed railway tracks on an electric motorcycle",
-      "title_raw": "Посольство РФ: на Шри-Ланке поезд насмерть сбил туристку из России",
-      "lead_raw": "По имеющимся данным, россиянка переезжала железнодорожные пути на электрическом мотоцикле",
+      "title_en": "The Russian Embassy in Sri Lanka reported the death of a Russian woman",
+      "lead_en": "A tourist was reportedly hit by a train while crossing train tracks on an electric motorcycle.",
+      "title_raw": "Посольство РФ на Шри-Ланке сообщило о гибели россиянки",
+      "lead_raw": "По имеющимся данным, туристку сбил поезд, когда она переезжала железнодорожные пути на электрическом мотоцикле",
       "topic_scores": {
         "diplomacy": 1,
         "military": 0,
@@ -1676,50 +1698,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "12353944ed7aed1e41de912c7f846c9533c8bdf5",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27144657",
-      "published_utc": "2026-04-17T15:02:33Z",
-      "title_en": "The Russian Foreign Ministry welcomes the agreement on a truce in Lebanon",
-      "lead_en": "Moscow hopes that the ceasefire will be observed, says diplomatic representative Maria Zakharova in a commentary",
-      "title_raw": "МИД РФ приветствует договоренность о перемирии в Ливане",
-      "lead_raw": "Москва надеется на соблюдение режима прекращения огня, говорится в комментарии официального представителя дипведомства Марии Захаровой",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "9a86c558a9646a9b65a57ef6f375eb0efa2bbf3b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2118835",
-      "published_utc": "2026-04-17T14:44:57Z",
-      "title_en": "Russian gas crucial for preserving Europe’s industry — envoy",
-      "lead_en": "Kirill Dmitriev made the comment in response to a post by Slovak Prime Minister Robert Fico, who said that Slovakia is filing a lawsuit with the Court of Justice of the European Union over the ban on imports of Russian gas",
-      "title_raw": "Russian gas crucial for preserving Europe’s industry — envoy",
-      "lead_raw": "Kirill Dmitriev made the comment in response to a post by Slovak Prime Minister Robert Fico, who said that Slovakia is filing a lawsuit with the Court of Justice of the European Union over the ban on imports of Russian gas",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
