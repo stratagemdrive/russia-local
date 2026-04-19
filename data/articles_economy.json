@@ -1,8 +1,8 @@
 {
-  "updated_at_utc": "2026-04-19T09:47:23Z",
+  "updated_at_utc": "2026-04-19T10:38:57Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 55,
+  "count": 54,
   "articles": [
     {
       "id": "2f1cc0b2d55e3f19c7cbf58f45dd9e42a17b053b",
@@ -25,6 +25,27 @@
         "energy"
       ],
       "primary_topic": "military"
+    },
+    {
+      "id": "bacf6280e7814a5d02f93c57045590a2a40c9973",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2119255",
+      "published_utc": "2026-04-19T08:07:22Z",
+      "title_en": "US sanctions relief on Russian oil extension important but not critical for India — expert",
+      "lead_en": "However, it is not critical, according to a researcher and senior advisor at the Indian Institute of Energy and Resources",
+      "title_raw": "US sanctions relief on Russian oil extension important but not critical for India — expert",
+      "lead_raw": "However, it is not critical, according to a researcher and senior advisor at the Indian Institute of Energy and Resources",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
     },
     {
       "id": "e98494296bf5db0932349364aa88c41e58ffabe8",
@@ -1079,48 +1100,6 @@
       },
       "topics": [],
       "primary_topic": "economy"
-    },
-    {
-      "id": "89e0a6813d33b7ee7a885a6a43a715961d8a87d0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27140065",
-      "published_utc": "2026-04-17T10:01:17Z",
-      "title_en": "Indonesia intends to start importing oil from Russia in April",
-      "lead_en": "As the head of the Ministry of Energy of the Asian republic Bahlil Lahadalia noted, discussions on supply volumes are still ongoing",
-      "title_raw": "Индонезия намерена начать импорт нефти из России в апреле",
-      "lead_raw": "Как отметил глава Минэнерго азиатской республики Бахлил Лахадалиа, обсуждения объемов поставок еще продолжаются",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "34b40499cd2a244191552c601173dfecc6d9ec50",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/pressreview/2118471",
-      "published_utc": "2026-04-17T10:00:00Z",
-      "title_en": "Press review: Israel-Lebanon ceasefire may fail and US reinstates oil sanctions on Russia",
-      "lead_en": "Top stories from the Russian press on Friday, April 17th",
-      "title_raw": "Press review: Israel-Lebanon ceasefire may fail and US reinstates oil sanctions on Russia",
-      "lead_raw": "Top stories from the Russian press on Friday, April 17th",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }

@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-04-19T09:47:23Z",
+  "updated_at_utc": "2026-04-19T10:38:57Z",
   "keep_hours": 48,
   "topic": "military",
-  "count": 73,
+  "count": 74,
   "articles": [
+    {
+      "id": "e4de843f3965863e29b8595f21d870ac19a12d1f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2119289",
+      "published_utc": "2026-04-19T10:11:20Z",
+      "title_en": "Russian air defense forces shoot down 274 Ukrainian UAVs over past day",
+      "lead_en": "Six guided aerial bombs were shot down by air defense systems",
+      "title_raw": "Russian air defense forces shoot down 274 Ukrainian UAVs over past day",
+      "lead_raw": "Six guided aerial bombs were shot down by air defense systems",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "2f1cc0b2d55e3f19c7cbf58f45dd9e42a17b053b",
       "source": "The Moscow Times",
@@ -23,6 +44,27 @@
       "topics": [
         "military",
         "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "e90715ad453ae952734afc56d9e7416c9689f6b4",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2119263",
+      "published_utc": "2026-04-19T08:10:57Z",
+      "title_en": "World knows Russia would use entire arsenal of weapons to defend Belarus — Lukashenko",
+      "lead_en": "The Belarusian leader reminded us that Minsk and Moscow are legally bound together",
+      "title_raw": "World knows Russia would use entire arsenal of weapons to defend Belarus — Lukashenko",
+      "lead_raw": "The Belarusian leader reminded us that Minsk and Moscow are legally bound together",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
       ],
       "primary_topic": "military"
     },
@@ -1529,28 +1571,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "745ad3eb8a1206a10b7ffb5239a212f961cdec6a",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2118601",
-      "published_utc": "2026-04-17T10:39:00Z",
-      "title_en": "Ukrainian attacks on Russia’s Belgorod Region leave 1 killed, 11 others injured — governor",
-      "lead_en": "The Ukrainian armed forces used almost 170 drones and about 50 munitions",
-      "title_raw": "Ukrainian attacks on Russia’s Belgorod Region leave 1 killed, 11 others injured — governor",
-      "lead_raw": "The Ukrainian armed forces used almost 170 drones and about 50 munitions",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
     }
   ]
 }
