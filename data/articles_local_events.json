@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-04-19T11:35:13Z",
+  "updated_at_utc": "2026-04-19T13:01:51Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 10,
   "articles": [
+    {
+      "id": "41309b4f6b9caff50a3c3e87f6dae617f60e872f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27154969",
+      "published_utc": "2026-04-19T12:03:24Z",
+      "title_en": "The State Duma proposed increasing the number of school psychologists",
+      "lead_en": "This is necessary to counteract bullying and prevent emergencies at school, stressed the chairman of A Just Russia, Sergei Mironov.",
+      "title_raw": "В ГД предложили увеличить число школьных психологов",
+      "lead_raw": "Это нужно для противодействия травле и профилактики чрезвычайных случаев в школе, подчеркнул председатель \"Справедливой России\" Сергей Миронов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "c979c9798bdd4f0357fa19c77a844114cdfeb838",
       "source": "TASS (EN)",
@@ -184,27 +203,6 @@
         "local_events"
       ],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "f84277359c1d220e5c2ad884f1d53059a63ccfd1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27142601",
-      "published_utc": "2026-04-17T12:58:16Z",
-      "title_en": "Missile danger declared in Kaluga region",
-      "lead_en": "This is reported in the application of the Ministry of Emergency Situations of Russia",
-      "title_raw": "В Калужской области объявили ракетную опасность",
-      "lead_raw": "Об этом сообщается в приложении МЧС России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
