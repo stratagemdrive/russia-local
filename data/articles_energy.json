@@ -1,9 +1,52 @@
 {
-  "updated_at_utc": "2026-04-19T07:20:02Z",
+  "updated_at_utc": "2026-04-19T09:47:23Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 53,
+  "count": 54,
   "articles": [
+    {
+      "id": "2f1cc0b2d55e3f19c7cbf58f45dd9e42a17b053b",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/04/19/zelensky-says-oil-sanctions-relief-provides-billions-for-russian-military-a92539",
+      "published_utc": "2026-04-19T08:45:32Z",
+      "title_en": "Zelensky Says Oil Sanctions Relief Provides Billions for Russian Military",
+      "lead_en": "\"Every dollar paid for Russian oil is money for the war,\" Zelensky said.",
+      "title_raw": "Zelensky Says Oil Sanctions Relief Provides Billions for Russian Military",
+      "lead_raw": "\"Every dollar paid for Russian oil is money for the war,\" Zelensky said.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "8fe7e2ed04d0ddd024d093fecbf604d73d0bd8c9",
+      "source": "RT",
+      "url": "https://www.rt.com/news/638694-us-renew-russia-oil-sanctions-waiver/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "published_utc": "2026-04-19T07:56:02Z",
+      "title_en": "US reverses on pledge not to renew Russian oil waiver",
+      "lead_en": "The US Treasury has extended its waiver on Russian oil in transit through mid-May to offset the price shock from the Iran war Read Full Article at RT.com",
+      "title_raw": "US reverses on pledge not to renew Russian oil waiver",
+      "lead_raw": "The US Treasury has extended its waiver on Russian oil in transit through mid-May to offset the price shock from the Iran war Read Full Article at RT.com",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "c3c9dbf5e3612cd3ed10c775bc350461af9a9c5d",
       "source": "RT",
@@ -1114,28 +1157,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "2ccebe4b9ca0b0f06d8b5569ac346b5d05f73d9c",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2118495",
-      "published_utc": "2026-04-17T07:48:12Z",
-      "title_en": "Yolka UAV is highly effective interceptor — Russian serviceman",
-      "lead_en": "The Defense Ministry recalled the operating principle of the latest Russian interceptor drone, emphasizing that it carries no warhead and that it destroys targets with kinetic energy in a direct collision",
-      "title_raw": "Yolka UAV is highly effective interceptor — Russian serviceman",
-      "lead_raw": "The Defense Ministry recalled the operating principle of the latest Russian interceptor drone, emphasizing that it carries no warhead and that it destroys targets with kinetic energy in a direct collision",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }

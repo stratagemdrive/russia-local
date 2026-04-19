@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-04-19T07:20:02Z",
+  "updated_at_utc": "2026-04-19T09:47:23Z",
   "keep_hours": 48,
   "topic": "economy",
   "count": 55,
   "articles": [
+    {
+      "id": "2f1cc0b2d55e3f19c7cbf58f45dd9e42a17b053b",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/04/19/zelensky-says-oil-sanctions-relief-provides-billions-for-russian-military-a92539",
+      "published_utc": "2026-04-19T08:45:32Z",
+      "title_en": "Zelensky Says Oil Sanctions Relief Provides Billions for Russian Military",
+      "lead_en": "\"Every dollar paid for Russian oil is money for the war,\" Zelensky said.",
+      "title_raw": "Zelensky Says Oil Sanctions Relief Provides Billions for Russian Military",
+      "lead_raw": "\"Every dollar paid for Russian oil is money for the war,\" Zelensky said.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "e98494296bf5db0932349364aa88c41e58ffabe8",
       "source": "TASS (RU)",
@@ -1099,27 +1121,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "132bf12c76ec0805dbcb2dffe26bdc099676dbe8",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2118553",
-      "published_utc": "2026-04-17T09:28:33Z",
-      "title_en": "Russian banks’ net profits up 14.2% in March — Central Bank",
-      "lead_en": "Core profit of the banking sector was almost flat, the regulator said",
-      "title_raw": "Russian banks’ net profits up 14.2% in March — Central Bank",
-      "lead_raw": "Core profit of the banking sector was almost flat, the regulator said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
