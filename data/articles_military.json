@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-04-19T10:38:57Z",
+  "updated_at_utc": "2026-04-19T11:35:13Z",
   "keep_hours": 48,
   "topic": "military",
   "count": 74,
@@ -22,6 +22,28 @@
       },
       "topics": [
         "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "7e2a80723c71611a6c90abd85b6d41d8795b7711",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27154317",
+      "published_utc": "2026-04-19T09:09:25Z",
+      "title_en": "The Russian Armed Forces hit energy facilities used by the Armed Forces of Ukraine",
+      "lead_en": "The strike was carried out by operational-tactical aviation, attack unmanned aerial vehicles, missile forces and artillery",
+      "title_raw": "ВС РФ ударили по объектам энергетики, используемым ВСУ",
+      "lead_raw": "Удар был нанесен оперативно-тактической авиацией, ударными беспилотными летательными аппаратами, ракетными войсками и артиллерией",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
       ],
       "primary_topic": "military"
     },
@@ -59,6 +81,27 @@
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "0560e18f48cf2fb77ace75ca10bc56d1fc17e1e6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27154093",
+      "published_utc": "2026-04-19T08:02:11Z",
+      "title_en": "Soldiers of the Russian Armed Forces destroyed fortified shelters of the Ukrainian Armed Forces",
+      "lead_en": "When using an FPV drone, a fortification structure was destroyed along with the manpower and military equipment located in it",
+      "title_raw": "Бойцы ВС РФ уничтожили укрепленные укрытия ВСУ",
+      "lead_raw": "При применении FPV-дрона было уничтожено фортификационное сооружение вместе с находившейся в нем живой силой и военным имуществом",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
         "energy": 0,
         "economy": 0,
         "local_events": 0
@@ -1520,49 +1563,6 @@
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "7c7c67662fb6a64e5d06c26dfa01a5b2c0217a38",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/04/17/czech-foreign-ministry-summons-russian-ambassador-over-russian-military-threats-a92529",
-      "published_utc": "2026-04-17T11:29:53Z",
-      "title_en": "Czech Foreign Ministry Summons Russian Ambassador Over Russian Military Threats",
-      "lead_en": "Dmitry Medvedev, Russia’s former president and current Security Council deputy chairman, had earlier said that production facilities in the Czech Republic were “potential targets for the Russian armed forces.”",
-      "title_raw": "Czech Foreign Ministry Summons Russian Ambassador Over Russian Military Threats",
-      "lead_raw": "Dmitry Medvedev, Russia’s former president and current Security Council deputy chairman, had earlier said that production facilities in the Czech Republic were “potential targets for the Russian armed forces.”",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 3,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "2ed854a4b3825b5d9e84d54bed0ea02f64948573",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2118633",
-      "published_utc": "2026-04-17T11:20:59Z",
-      "title_en": "Lavrov says no specific initiatives so far toward resolving Ukraine conflict",
-      "lead_en": "The foreign minister stressed that Russian armed forces had been accomplishing objectives set by the supreme commander-in-chief as part of the special military operation",
-      "title_raw": "Lavrov says no specific initiatives so far toward resolving Ukraine conflict",
-      "lead_raw": "The foreign minister stressed that Russian armed forces had been accomplishing objectives set by the supreme commander-in-chief as part of the special military operation",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
         "energy": 0,
         "economy": 0,
         "local_events": 0

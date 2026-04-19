@@ -1,9 +1,96 @@
 {
-  "updated_at_utc": "2026-04-19T10:38:57Z",
+  "updated_at_utc": "2026-04-19T11:35:13Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 51,
+  "count": 53,
   "articles": [
+    {
+      "id": "01ea46a5aeb26466c224ccb8c4259801be951d99",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27154849",
+      "published_utc": "2026-04-19T11:11:34Z",
+      "title_en": "Pushkov: Trump is not interested in economic strangulation of Russia",
+      "lead_en": "The head of the Federation Council Commission on Information Policy commented on the US President’s decision to ease sanctions on transactions with Russian oil",
+      "title_raw": "Пушков: Трамп не заинтересован в экономическом удушении России",
+      "lead_raw": "Глава комиссии Совета Федерации по информационной политике прокомментировал решение президента США ослабить санкции по сделкам с российской нефтью",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "8409db47baf4684a457146ac8ab806efe7943520",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27154377",
+      "published_utc": "2026-04-19T09:27:40Z",
+      "title_en": "Expert Pipil explained how the extension of the lifting of US sanctions on Russian oil affects India",
+      "lead_en": "This plays a key role in ensuring the South Asian republic's short-term energy security, an Indian international trade expert said",
+      "title_raw": "Эксперт Пипил рассказала, как продление снятия санкций США на нефть РФ влияет на Индию",
+      "lead_raw": "Это играет ключевую роль в обеспечении краткосрочной энергетической безопасности южноазиатской республики, заявила индийский эксперт в области международной торговли",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "10c6fede48b2c29be280d73fc81b9e7ae879d70a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27154273",
+      "published_utc": "2026-04-19T09:14:05Z",
+      "title_en": "Lut: the rise in world gas prices will not affect Russian fertilizer producers",
+      "lead_en": "The volumes of raw materials and production capacities are at a sufficient level, said the Minister of Agriculture of Russia",
+      "title_raw": "Лут: рост мировых цен на газ не затронет российских производителей удобрений",
+      "lead_raw": "Объемы сырья, и производственные мощности находятся на достаточном уровне, заявила министр сельского хозяйства России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "7e2a80723c71611a6c90abd85b6d41d8795b7711",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27154317",
+      "published_utc": "2026-04-19T09:09:25Z",
+      "title_en": "The Russian Armed Forces hit energy facilities used by the Armed Forces of Ukraine",
+      "lead_en": "The strike was carried out by operational-tactical aviation, attack unmanned aerial vehicles, missile forces and artillery",
+      "title_raw": "ВС РФ ударили по объектам энергетики, используемым ВСУ",
+      "lead_raw": "Удар был нанесен оперативно-тактической авиацией, ударными беспилотными летательными аппаратами, ракетными войсками и артиллерией",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "2f1cc0b2d55e3f19c7cbf58f45dd9e42a17b053b",
       "source": "The Moscow Times",
@@ -25,6 +112,28 @@
         "energy"
       ],
       "primary_topic": "military"
+    },
+    {
+      "id": "22b6979d4330de643770319f9a95b6c5e33fbfb9",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27154113",
+      "published_utc": "2026-04-19T08:18:11Z",
+      "title_en": "Malaysia may agree with Russia on oil purchases",
+      "lead_en": "Relations with Russia are still good, Prime Minister Anwar Ibrahim emphasized.",
+      "title_raw": "Малайзия может договориться с РФ о закупках нефти",
+      "lead_raw": "Отношения с Россией по-прежнему хорошие, подчеркнул премьер страны Анвар Ибрагим",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
     },
     {
       "id": "bacf6280e7814a5d02f93c57045590a2a40c9973",
@@ -996,7 +1105,7 @@
       "url": "https://tass.ru/ekonomika/27142289",
       "published_utc": "2026-04-17T12:35:14Z",
       "title_en": "Russia will launch a control system for the supply of goods from the EAEU",
-      "lead_en": "The system for confirming the expectation of delivery of goods does not apply, in particular, to currency, securities and foreign currency valuables, traveler's checks, oil and oil products, electricity",
+      "lead_en": "The system for confirming the expectation of delivery of goods does not apply, in particular, to currency, securities and currency valuables, traveler's checks, oil and oil products, electricity",
       "title_raw": "В России запустят систему контроля поставок товаров из ЕАЭС",
       "lead_raw": "Система подтверждения ожидания поставки товаров не распространяется, в частности, на валюту, ценные бумаги и валютные ценности, дорожные чеки, нефть и нефтепродукты, электроэнергию",
       "topic_scores": {
@@ -1024,69 +1133,6 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "4aa1156679a75151eec5a18163b2b84271ada690",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27141089",
-      "published_utc": "2026-04-17T11:11:15Z",
-      "title_en": "Magyar: the head of MOL will discuss oil supplies to Hungary via Druzhba in Russia",
-      "lead_en": "Zsolt Hernadi plans to travel to the Russian Federation",
-      "title_raw": "Мадьяр: глава компании MOL обсудит в России поставки нефти в Венгрию по \"Дружбе\"",
-      "lead_raw": "Жолт Хернади планирует совершить поездку в РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "ee261325291917ee258c817684e703974b693f4d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2118615",
-      "published_utc": "2026-04-17T10:56:51Z",
-      "title_en": "EU’s purchases of Russian pipeline gas, LNG down two-fold in January-February",
-      "lead_en": "The main importers were France, Spain, and the Netherlands",
-      "title_raw": "EU’s purchases of Russian pipeline gas, LNG down two-fold in January-February",
-      "lead_raw": "The main importers were France, Spain, and the Netherlands",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "5204d5b5240b09c35e2703d1f389f2669094adb0",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2118609",
-      "published_utc": "2026-04-17T10:50:50Z",
-      "title_en": "Russia ranked second after US in terms of cost of LNG supplies to EU in February",
-      "lead_en": "The European Union purchased LNG worth around 454 mln euros from Russia in the reporting period",
-      "title_raw": "Russia ranked second after US in terms of cost of LNG supplies to EU in February",
-      "lead_raw": "The European Union purchased LNG worth around 454 mln euros from Russia in the reporting period",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
         "economy": 0,
         "local_events": 0
       },
