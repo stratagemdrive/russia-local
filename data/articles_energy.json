@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-04-20T14:50:49Z",
+  "updated_at_utc": "2026-04-20T16:09:40Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 43,
   "articles": [
+    {
+      "id": "cd41e4c79b436bceadd72a944991be6fa6fbf6bb",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2119785",
+      "published_utc": "2026-04-20T14:51:08Z",
+      "title_en": "Magyar calls on Zelensky to stop blackmail, resume Druzhba oil flows to Hungary",
+      "lead_en": "The Tisza Party leader also expressed hope that Russia would continue supplying crude oil through this pipeline",
+      "title_raw": "Magyar calls on Zelensky to stop blackmail, resume Druzhba oil flows to Hungary",
+      "lead_raw": "The Tisza Party leader also expressed hope that Russia would continue supplying crude oil through this pipeline",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "b421bd199bc434578e9e6f5516564c8f6114be43",
       "source": "TASS (EN)",
@@ -415,7 +436,7 @@
       "url": "https://tass.ru/ekonomika/27156419",
       "published_utc": "2026-04-19T19:57:32Z",
       "title_en": "Russian Embassy: oil products from a Russian tanker are distributed throughout Cuba",
-      "lead_en": "The diplomatic mission noted that the total volume of petroleum products received will cover approximately a third of the Caribbean republic’s needs for a month",
+      "lead_en": "The diplomatic mission noted that the total volume of petroleum products received will cover approximately a third of the needs of the Caribbean republic within a month",
       "title_raw": "Посольство России: продукция из нефти с танкера РФ распределяется по всей Кубе",
       "lead_raw": "В диппредставительстве отметили, что общий объем полученных нефтепродуктов покроет примерно треть потребностей карибской республики в течение месяца",
       "topic_scores": {
@@ -902,28 +923,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "3573c73958d17d882acf817d4e5625996cb47832",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27151745",
-      "published_utc": "2026-04-18T16:04:07Z",
-      "title_en": "Zakharova: The West has not abandoned the idea of ​​getting its hands on Ukrainian black soil and Russian oil",
-      "lead_en": "According to the official representative of the Russian Foreign Ministry, we are talking about revanchism",
-      "title_raw": "Захарова: Запад не оставил идею прибрать к рукам украинский чернозем и нефть РФ",
-      "lead_raw": "По словам официального представителя МИД России, речь идет о реваншизме",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
