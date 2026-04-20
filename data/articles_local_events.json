@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-04-20T08:07:49Z",
+  "updated_at_utc": "2026-04-20T10:48:26Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 4,
+  "count": 6,
   "articles": [
+    {
+      "id": "99b5e6c31ddc9f8db20eb8181ba0602c083e49b7",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/04/20/russian-governor-fires-regional-agriculture-minister-over-livestock-disease-outbreak-and-other-complaints",
+      "published_utc": "2026-04-20T08:21:28Z",
+      "title_en": "Russian governor fires regional agriculture minister over livestock disease outbreak and other complaints",
+      "lead_en": "Novosibirsk Governor Andrei Travnikov has fired his regional agriculture minister, Andrei Shindelov, the regional government’s press service announced.",
+      "title_raw": "Russian governor fires regional agriculture minister over livestock disease outbreak and other complaints",
+      "lead_raw": "Novosibirsk Governor Andrei Travnikov has fired his regional agriculture minister, Andrei Shindelov, the regional government’s press service announced.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "f358e3fc769fac16ef62573516cf5b4dcaf10a58",
       "source": "Meduza (EN)",
@@ -42,6 +61,27 @@
         "local_events": 1
       },
       "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "a82507652fea1db2d06a7530f18e26f24644b15f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2119393",
+      "published_utc": "2026-04-20T03:51:29Z",
+      "title_en": "At least one killed, another wounded in Ukrainian drone attack on Russia’s Tuapse",
+      "lead_en": "A fire broke out at the seaport following the drone attack",
+      "title_raw": "At least one killed, another wounded in Ukrainian drone attack on Russia’s Tuapse",
+      "lead_raw": "A fire broke out at the seaport following the drone attack",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
       "primary_topic": "local_events"
     },
     {
