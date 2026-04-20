@@ -1,9 +1,70 @@
 {
-  "updated_at_utc": "2026-04-20T17:57:39Z",
+  "updated_at_utc": "2026-04-20T20:47:00Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 8,
+  "count": 11,
   "articles": [
+    {
+      "id": "e66287a06d67e7be31f293b9dd8bdd1937749125",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27167265",
+      "published_utc": "2026-04-20T20:29:09Z",
+      "title_en": "A special flight of the Russian Ministry of Emergency Situations will deliver humanitarian aid to Lebanon and take Russians out of the country",
+      "lead_en": "Il-76 will transport 27 tons of cargo, including mobile power plants, food and tents",
+      "title_raw": "Спецборт МЧС РФ доставит в Ливан гуманитарную помощь и вывезет из страны россиян",
+      "lead_raw": "Ил-76 перевезет 27 тонн груза, в том числе передвижные электростанции, продукты питания и палатки",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "9d661b12ac83e305ee718397f3ef532a3498d4ff",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27166881",
+      "published_utc": "2026-04-20T18:48:40Z",
+      "title_en": "Yakushev announced the readiness of United Russia volunteers to help the Ministry of Emergency Situations after the oil spill near Tuapse",
+      "lead_en": "Party activists have the necessary skills for such work, said Secretary of the General Council of United Russia Vladimir Yakushev",
+      "title_raw": "Якушев заявил о готовности волонтеров ЕР помочь МЧС после разлива нефти у Туапсе",
+      "lead_raw": "Активисты партии обладают необходимыми навыками для такой работы, заявил секретарь генсовета \"Единой России\" Владимир Якушев",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "1b8eed364091260b0382251cd72589c4b0879f60",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27166733",
+      "published_utc": "2026-04-20T18:20:13Z",
+      "title_en": "Grossi calls nuclear arms race his 'worst nightmare'",
+      "lead_en": "A world with 20 or more nuclear powers would be extremely dangerous, says IAEA chief",
+      "title_raw": "Гросси назвал ядерную гонку вооружений своим \"самым страшным кошмаром\"",
+      "lead_raw": "Мир с 20 или более ядерными державами был бы чрезвычайно опасен, считает глава МАГАТЭ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "1da7b04f3960ea329dd5fecb1c46a32bef9cae40",
       "source": "TASS (RU)",
