@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-04-20T05:41:36Z",
+  "updated_at_utc": "2026-04-20T08:07:49Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 3,
+  "count": 4,
   "articles": [
+    {
+      "id": "f358e3fc769fac16ef62573516cf5b4dcaf10a58",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/04/20/ukrainian-drones-strike-russian-port-killing-1-and-setting-oil-refinery-on-fire",
+      "published_utc": "2026-04-20T08:04:29Z",
+      "title_en": "Ukrainian drones strike Russian port, killing 1 and setting oil refinery on fire",
+      "lead_en": "Ukrainian drones struck the port of Tuapse overnight on April 20, killing one person and injuring another, Krasnodar Krai Governor Veniamin Kondratyev said. A fire broke out at the seaport, he wrote on social media.",
+      "title_raw": "Ukrainian drones strike Russian port, killing 1 and setting oil refinery on fire",
+      "lead_raw": "Ukrainian drones struck the port of Tuapse overnight on April 20, killing one person and injuring another, Krasnodar Krai Governor Veniamin Kondratyev said. A fire broke out at the seaport, he wrote on social media.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "a6f0ab3c337c171f6a342f035f50e6e3c9dda4e4",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27159577",
+      "published_utc": "2026-04-20T07:48:16Z",
+      "title_en": "Medvedev called the restoration of the border area the most important task",
+      "lead_en": "The Chairman of United Russia noted that it is important to monitor regional programs for relocating citizens from dilapidated housing",
+      "title_raw": "Медведев назвал восстановление приграничья важнейшей задачей",
+      "lead_raw": "Председатель \"Единой России\" отметил, что важно вести мониторинг региональных программ переселения граждан из аварийного жилья",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "4937ae2aec111251654b19bc49e8c734b1f84638",
       "source": "TASS (RU)",
@@ -42,27 +82,6 @@
         "local_events": 1
       },
       "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "c979c9798bdd4f0357fa19c77a844114cdfeb838",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/society/2119061",
-      "published_utc": "2026-04-18T07:25:33Z",
-      "title_en": "Attacker who killed police officer, injured 3 others detained in Russia’s Orenburg region",
-      "lead_en": "The suspect put up armed resistance during his arrest",
-      "title_raw": "Attacker who killed police officer, injured 3 others detained in Russia’s Orenburg region",
-      "lead_raw": "The suspect put up armed resistance during his arrest",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
       "primary_topic": "local_events"
     }
   ]
