@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-04-20T16:09:40Z",
+  "updated_at_utc": "2026-04-20T17:57:39Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 43,
+  "count": 42,
   "articles": [
+    {
+      "id": "1c9c70261e8acd4df0833434df287d36237ba85b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27166139",
+      "published_utc": "2026-04-20T16:33:00Z",
+      "title_en": "Bangladesh has taken steps to import fuel from Russia",
+      "lead_en": "Despite the rise in fuel prices in the country, inflation will not increase significantly, noted the Minister of Trade of the South Asian republic, Khandaker Abdul Muktadir.",
+      "title_raw": "Бангладеш предпринял шаги для импорта топлива из России",
+      "lead_raw": "Несмотря на рост цен на топливо в стране, инфляция не возрастет существенно, отметил министр торговли южноазиатской республики Хандакер Абдул Муктадир",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "cd41e4c79b436bceadd72a944991be6fa6fbf6bb",
       "source": "TASS (EN)",
@@ -436,7 +458,7 @@
       "url": "https://tass.ru/ekonomika/27156419",
       "published_utc": "2026-04-19T19:57:32Z",
       "title_en": "Russian Embassy: oil products from a Russian tanker are distributed throughout Cuba",
-      "lead_en": "The diplomatic mission noted that the total volume of petroleum products received will cover approximately a third of the needs of the Caribbean republic within a month",
+      "lead_en": "The diplomatic mission noted that the total volume of petroleum products received will cover approximately a third of the Caribbean republic’s needs for a month",
       "title_raw": "Посольство России: продукция из нефти с танкера РФ распределяется по всей Кубе",
       "lead_raw": "В диппредставительстве отметили, что общий объем полученных нефтепродуктов покроет примерно треть потребностей карибской республики в течение месяца",
       "topic_scores": {
@@ -880,49 +902,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "23d241220f7f7915446ba05f6dad7b1f7f65c23d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2119177",
-      "published_utc": "2026-04-18T17:24:08Z",
-      "title_en": "Zakharova: West has not abandoned idea of seizing Ukrainian black soil, Russian oil",
-      "lead_en": "This refers to revanchism, \"which assumes that they now want to carry out that very revenge that will allow them to still win in this very division of the world, the redrawing of the world’s resources for themselves,\" Russian Foreign Ministry Spokeswoman added",
-      "title_raw": "Zakharova: West has not abandoned idea of seizing Ukrainian black soil, Russian oil",
-      "lead_raw": "This refers to revanchism, \"which assumes that they now want to carry out that very revenge that will allow them to still win in this very division of the world, the redrawing of the world’s resources for themselves,\" Russian Foreign Ministry Spokeswoman added",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "7ebbd5c08af4c7de0071bd6f28e6fc3cfbc40f5d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27151925",
-      "published_utc": "2026-04-18T16:36:00Z",
-      "title_en": "Italian Deputy Prime Minister calls for a return to gas purchases from Russia",
-      "lead_en": "Matteo Salvini also called for the suspension of the Stability Pact, the basic EU document regulating economic indicators and standards that European economies must comply with.",
-      "title_raw": "Вице-премьер Италии призвал вернуться к закупкам газа в РФ",
-      "lead_raw": "Маттео Сальвини выступил также за приостановку действия Пакта стабильности, базового документа ЕС, регулирующего экономические показатели и нормы, которым должны соответствовать европейские экономики",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
