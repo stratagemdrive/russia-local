@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-04-21T11:06:51Z",
+  "updated_at_utc": "2026-04-21T13:27:26Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 41,
+  "count": 40,
   "articles": [
+    {
+      "id": "479e7004f4c9c657e385f502df33e8aa8762310d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27176131",
+      "published_utc": "2026-04-21T13:13:54Z",
+      "title_en": "Putin said that the level of gasification in the Russian Federation should approach 85% by 2030.",
+      "lead_en": "The average level of gasification in the country is 70-75%, the head of state emphasized",
+      "title_raw": "Путин заявил, что уровень газификации РФ к 2030 году должен приблизиться к 85%",
+      "lead_raw": "Средний уровень газификации по стране составляет 70-75%, подчеркнул глава государства",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "5b54c14b780ce3f9a513e2b84a6cd5405d553c25",
       "source": "TASS (RU)",
@@ -695,7 +716,7 @@
       "url": "https://tass.ru/ekonomika/27156419",
       "published_utc": "2026-04-19T19:57:32Z",
       "title_en": "Russian Embassy: oil products from a Russian tanker are distributed throughout Cuba",
-      "lead_en": "The diplomatic mission noted that the total volume of petroleum products received will cover approximately a third of the Caribbean republic’s needs for a month",
+      "lead_en": "The diplomatic mission noted that the total volume of petroleum products received will cover approximately a third of the needs of the Caribbean republic within a month",
       "title_raw": "Посольство России: продукция из нефти с танкера РФ распределяется по всей Кубе",
       "lead_raw": "В диппредставительстве отметили, что общий объем полученных нефтепродуктов покроет примерно треть потребностей карибской республики в течение месяца",
       "topic_scores": {
@@ -837,51 +858,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "8861fedd9b4d1e46886eaa9eb48a64bdc49c1a7d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2119291",
-      "published_utc": "2026-04-19T11:36:02Z",
-      "title_en": "Extension of US sanctions relief on Russian oil supports India's energy security — expert",
-      "lead_en": "This plays a key role in ensuring the short-term energy security of the South Asian republic, according to an Indian international trade expert",
-      "title_raw": "Extension of US sanctions relief on Russian oil supports India's energy security — expert",
-      "lead_raw": "This plays a key role in ensuring the short-term energy security of the South Asian republic, according to an Indian international trade expert",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "01ea46a5aeb26466c224ccb8c4259801be951d99",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27154849",
-      "published_utc": "2026-04-19T11:11:34Z",
-      "title_en": "Pushkov: Trump is not interested in economic strangulation of Russia",
-      "lead_en": "The head of the Federation Council Commission on Information Policy commented on the US President’s decision to ease sanctions on transactions with Russian oil",
-      "title_raw": "Пушков: Трамп не заинтересован в экономическом удушении России",
-      "lead_raw": "Глава комиссии Совета Федерации по информационной политике прокомментировал решение президента США ослабить санкции по сделкам с российской нефтью",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
