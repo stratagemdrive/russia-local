@@ -1,9 +1,50 @@
 {
-  "updated_at_utc": "2026-04-21T20:53:19Z",
+  "updated_at_utc": "2026-04-21T22:37:44Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 84,
+  "count": 85,
   "articles": [
+    {
+      "id": "df51079c08887d0d29f0c9643bb2c60b85b002fe",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2120559",
+      "published_utc": "2026-04-21T20:17:24Z",
+      "title_en": "Russian stock market in the green on Tuesday — market data",
+      "lead_en": "The MOEX Russia Index gained 0.15% to 2,757.7 points",
+      "title_raw": "Russian stock market in the green on Tuesday — market data",
+      "lead_raw": "The MOEX Russia Index gained 0.15% to 2,757.7 points",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "01c232f9f1dd498bd2dd16251199acdef47a10b5",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2120557",
+      "published_utc": "2026-04-21T20:10:46Z",
+      "title_en": "Systematically wrong decisions restrain European development — Dmitriev",
+      "lead_en": "The Russian special envoy says the reforms should include admitting and correcting numerous mistakes on migration, warmongering, energy, and economic policies",
+      "title_raw": "Systematically wrong decisions restrain European development — Dmitriev",
+      "lead_raw": "The Russian special envoy says the reforms should include admitting and correcting numerous mistakes on migration, warmongering, energy, and economic policies",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "72b326d5769d0de57299b3300c2483b279240468",
       "source": "TASS (RU)",
@@ -1663,25 +1704,6 @@
       "topics": [
         "economy"
       ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "0e237e95636714d0fa5fc952adbae19392a4c769",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27156599",
-      "published_utc": "2026-04-19T21:01:13Z",
-      "title_en": "It is proposed to create equal conditions on marketplaces for Russian and foreign sellers",
-      "lead_en": "The initiative belongs to the Council of Light Industry under the Commissioner for the Protection of the Rights of Entrepreneurs of the City of Moscow",
-      "title_raw": "Для российских и иностранных продавцов предлагают создать равные условия на маркетплейсах",
-      "lead_raw": "Инициатива принадлежит совету легкой промышленности при уполномоченном по защите прав предпринимателей города Москвы",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
       "primary_topic": "economy"
     }
   ]
