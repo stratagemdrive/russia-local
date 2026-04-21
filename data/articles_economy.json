@@ -1,9 +1,108 @@
 {
-  "updated_at_utc": "2026-04-21T15:13:21Z",
+  "updated_at_utc": "2026-04-21T17:02:09Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 77,
+  "count": 78,
   "articles": [
+    {
+      "id": "4d754e618f60f5396c20adc53a74e227c2a2d70a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2120489",
+      "published_utc": "2026-04-21T16:20:21Z",
+      "title_en": "EU foreign ministers resolve to renew approval of anti-Russian sanctions",
+      "lead_en": "EU High Representative for Foreign Affairs Kaja Kallas said there is a new momentum",
+      "title_raw": "EU foreign ministers resolve to renew approval of anti-Russian sanctions",
+      "lead_raw": "EU High Representative for Foreign Affairs Kaja Kallas said there is a new momentum",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "d610c7c9b262600129d9ce799215de7c3bc8f7b0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27178193",
+      "published_utc": "2026-04-21T16:01:47Z",
+      "title_en": "Kallas: EU foreign ministers decided to resume approval of the 20th package of sanctions against the Russian Federation",
+      "lead_en": "The head of the European diplomatic service said that she expects a positive decision on €90 billion for Kyiv within the next 24 hours",
+      "title_raw": "Каллас: главы МИД ЕС решили возобновить утверждение 20 пакета санкций против РФ",
+      "lead_raw": "Глава европейской дипслужбы сообщила, что ожидает позитивного решения о €90 млрд для Киева в течение ближайших 24 часов",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "46dc8caea27dab67abe2477a5b936bdcd900cd09",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27178377",
+      "published_utc": "2026-04-21T15:52:04Z",
+      "title_en": "Kosachev thanked Turkey for refusing to participate in anti-Russian sanctions",
+      "lead_en": "The Deputy Chairman of the Federation Council also expressed gratitude for the restrained, consistent and very responsible position on the Ukrainian conflict",
+      "title_raw": "Косачев поблагодарил Турцию за отказ от участия в антироссийских санкциях",
+      "lead_raw": "Зампред СФ также выразил благодарность за сдержанную, последовательную и очень ответственную позицию по украинскому конфликту",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "5e9dc6a2b8881675683c4294841fc3b1ab4f8da1",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/04/21/russian-man-fined-for-posting-photo-of-cat-that-resembles-hitler",
+      "published_utc": "2026-04-21T15:45:12Z",
+      "title_en": "Russian man fined for posting photo of cat that resembles Hitler",
+      "lead_en": "A district court in Sochi has fined a local resident 1,000 rubles on an administrative charge of publicly displaying Nazi symbols. The case was flagged by the independent Russian news outlet Verstka and the independent Russian news outlet Mediazona.",
+      "title_raw": "Russian man fined for posting photo of cat that resembles Hitler",
+      "lead_raw": "A district court in Sochi has fined a local resident 1,000 rubles on an administrative charge of publicly displaying Nazi symbols. The case was flagged by the independent Russian news outlet Verstka and the independent Russian news outlet Mediazona.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "be0f9a2a2c408979f44b71dfdbbaceac9b82262a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27178165",
+      "published_utc": "2026-04-21T15:34:39Z",
+      "title_en": "Grushko: Germany and Britain want colonial control over Bosnia and Herzegovina",
+      "lead_en": "According to the Deputy Foreign Minister of the Russian Federation, Moscow and Banja Luka are “fully aware” that illegal Western sanctions cannot harm bilateral relations",
+      "title_raw": "Грушко: ФРГ и Британия хотят колониального контроля над Боснией и Герцеговиной",
+      "lead_raw": "По словам замглавы МИД РФ, в Москве и Баня-Луке \"полностью осознают\", что незаконные санкции Запада не могут нанести ущерб двусторонним отношениям",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "23a655f1872855be02ab2ac70bb7f73c865b72a9",
       "source": "TASS (EN)",
@@ -1454,84 +1553,6 @@
       "lead_en": "Using the development, you can analyze the economic, social, infrastructural-spatial and analytical-forecast levels in the tourism sector",
       "title_raw": "В России разработали ИИ-модель, прогнозирующую кадровые потребности в туризме",
       "lead_raw": "С помощью разработки можно анализировать экономический, социальный, инфраструктурно-пространственный и аналитико-прогнозный уровни в туристической сфере",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "ad3413a4162c92924e797533dd3e312b5dd31d66",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27155911",
-      "published_utc": "2026-04-19T16:51:00Z",
-      "title_en": "Vulin: The EU will want to use the army and defense industry of Serbia against the Russian Federation",
-      "lead_en": "The founder of the Socialist Movement also emphasized that when joining the European Union, Serbs will have to forget about the traditional family and the special position of the Serbian Orthodox Church",
-      "title_raw": "Вулин: ЕС захочет задействовать армию и оборонную промышленность Сербии против РФ",
-      "lead_raw": "Основатель \"Движения социалистов\" также подчеркнул, что при вступлении в Евросоюз сербам придется забыть о традиционной семье и особом положении Сербской православной церкви",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "dc050c9636489898598c61802dca3d67966246c8",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2119339",
-      "published_utc": "2026-04-19T16:37:42Z",
-      "title_en": "US Energy Secretary says sanctions against Russian oil will be resumed",
-      "lead_en": "Chris Wright said that the issuance of a license for operations with Russian oil and its extension were temporary measures",
-      "title_raw": "US Energy Secretary says sanctions against Russian oil will be resumed",
-      "lead_raw": "Chris Wright said that the issuance of a license for operations with Russian oil and its extension were temporary measures",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "21d0f73f38ba9b263b506caa5c41e32c37962ebc",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27155901",
-      "published_utc": "2026-04-19T16:31:17Z",
-      "title_en": "Yanchuk believes that tennis player Rublev played unstable against Fis",
-      "lead_en": "The Russian lost in the final of the tournament in Barcelona",
-      "title_raw": "Янчук считает, что теннисист Рублев играл нестабильно против Фиса",
-      "lead_raw": "Россиянин уступил в финале турнира в Барселоне",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "6f4ed472d5a9440af7a53ee2ea362bdafe1cfb77",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27155805",
-      "published_utc": "2026-04-19T15:51:39Z",
-      "title_en": "Rublev lost in the final of the tennis tournament in Barcelona",
-      "lead_en": "In the decisive match, the Russian lost to the Frenchman Arthur Fis",
-      "title_raw": "Рублев проиграл в финале теннисного турнира в Барселоне",
-      "lead_raw": "В решающем матче россиянин уступил французу Артюру Фису",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
