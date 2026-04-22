@@ -1,9 +1,53 @@
 {
-  "updated_at_utc": "2026-04-22T07:48:05Z",
+  "updated_at_utc": "2026-04-22T09:20:42Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 44,
+  "count": 45,
   "articles": [
+    {
+      "id": "f74e56faa83d61f43b1fe65e816899d8f9e41671",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27184683",
+      "published_utc": "2026-04-22T08:13:17Z",
+      "title_en": "TASS: The EC intends to adopt the 20th package of sanctions without a ban on the transportation of Russian oil",
+      "lead_en": "The European Commission invited EU countries to urgently accept this package in a reduced form, a diplomatic source in Brussels said",
+      "title_raw": "ТАСС: ЕК намерена принять 20-й пакет санкций без запрета на перевозку нефти РФ",
+      "lead_raw": "Еврокомиссия предложила странам ЕС срочно принять этот пакет в урезанном виде, сообщил дипломатический источник в Брюсселе",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "3f0217108ede42c0e95f7641bfe68caa9f8a7613",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/04/22/ukraine-repairs-druzhba-pipeline-clearing-way-for-russian-oil-flows-to-europe-a92564",
+      "published_utc": "2026-04-22T07:49:47Z",
+      "title_en": "Ukraine Repairs Druzhba Pipeline, Clearing Way for Russian Oil Flows to Europe",
+      "lead_en": "The pipeline, which carries crude to Hungary and Slovakia, has been at the center of a monthslong diplomatic standoff.",
+      "title_raw": "Ukraine Repairs Druzhba Pipeline, Clearing Way for Russian Oil Flows to Europe",
+      "lead_raw": "The pipeline, which carries crude to Hungary and Slovakia, has been at the center of a monthslong diplomatic standoff.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "b18c787b49471dbe85c66bbb7aae3058758a8897",
       "source": "TASS (RU)",
@@ -353,7 +397,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/ekonomika/27176131",
       "published_utc": "2026-04-21T13:13:54Z",
-      "title_en": "Putin said that the level of gasification in the Russian Federation should approach 85% by 2030",
+      "title_en": "Putin said that the level of gasification in the Russian Federation should approach 85% by 2030.",
       "lead_en": "The average level of gasification in the country is 70-75%, the head of state emphasized",
       "title_raw": "Путин заявил, что уровень газификации РФ к 2030 году должен приблизиться к 85%",
       "lead_raw": "Средний уровень газификации по стране составляет 70-75%, подчеркнул глава государства",
@@ -923,27 +967,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "f358e3fc769fac16ef62573516cf5b4dcaf10a58",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/04/20/ukrainian-drones-strike-russian-port-killing-1-and-setting-oil-refinery-on-fire",
-      "published_utc": "2026-04-20T08:04:29Z",
-      "title_en": "Ukrainian drones strike Russian port, killing 1 and setting oil refinery on fire",
-      "lead_en": "Ukrainian drones struck the port of Tuapse overnight on April 20, killing one person and injuring another, Krasnodar Krai Governor Veniamin Kondratyev said. A fire broke out at the seaport, he wrote on social media.",
-      "title_raw": "Ukrainian drones strike Russian port, killing 1 and setting oil refinery on fire",
-      "lead_raw": "Ukrainian drones struck the port of Tuapse overnight on April 20, killing one person and injuring another, Krasnodar Krai Governor Veniamin Kondratyev said. A fire broke out at the seaport, he wrote on social media.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
