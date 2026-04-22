@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-04-22T05:25:59Z",
+  "updated_at_utc": "2026-04-22T07:48:05Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 44,
   "articles": [
+    {
+      "id": "b18c787b49471dbe85c66bbb7aae3058758a8897",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27183579",
+      "published_utc": "2026-04-22T06:40:55Z",
+      "title_en": "Russian Foreign Ministry: The Northern Sea Route will contribute to strengthening the energy stability of the Asia-Pacific region",
+      "lead_en": "The route can almost halve the time it takes to transport goods from Europe to Asia, noted Russian Deputy Foreign Minister Alexander Alimov",
+      "title_raw": "МИД РФ: Северный морской путь внесет вклад в укрепление энергостабильности АТР",
+      "lead_raw": "Маршрут способен почти в два раза сократить время перевозки грузов из Европы в Азию, отметил замминистра иностранных дел России Александр Алимов",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "f096bed55b46ca41c78c50fc88b74f43f6b70e96",
       "source": "TASS (RU)",
@@ -922,29 +944,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "b3e56b8aec9b5e405ba43a112296acfa7075a2fa",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2119419",
-      "published_utc": "2026-04-20T07:17:40Z",
-      "title_en": "Iran plans future of its nuclear program within NPT framework — ambassador to Russia",
-      "lead_en": "The Islamic Republic of Iran has the right to the peaceful use of nuclear energy in accordance with the Treaty on the Non-Proliferation of Nuclear Weapons, Kazem Jalali said",
-      "title_raw": "Iran plans future of its nuclear program within NPT framework — ambassador to Russia",
-      "lead_raw": "The Islamic Republic of Iran has the right to the peaceful use of nuclear energy in accordance with the Treaty on the Non-Proliferation of Nuclear Weapons, Kazem Jalali said",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }

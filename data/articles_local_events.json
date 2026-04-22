@@ -1,9 +1,89 @@
 {
-  "updated_at_utc": "2026-04-22T05:25:59Z",
+  "updated_at_utc": "2026-04-22T07:48:05Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 21,
+  "count": 25,
   "articles": [
+    {
+      "id": "ba14b6479efe937cd75141d25dbe42d89fed5682",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27184193",
+      "published_utc": "2026-04-22T07:35:34Z",
+      "title_en": "The regime of unmanned danger has been canceled in Tatarstan",
+      "lead_en": "This was reported by the Main Directorate of the Ministry of Emergency Situations of Russia for the republic.",
+      "title_raw": "В Татарстане отменили режим беспилотной опасности",
+      "lead_raw": "Об этом сообщило ГУ МЧС России по республике",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "c786eeba406849754eab0a2d33ca98e3e969048e",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/04/22/ukrainian-drone-strike-hits-residential-building-in-russia-injuring-11",
+      "published_utc": "2026-04-22T07:07:50Z",
+      "title_en": "Ukrainian drone strike hits residential building in Russia, injuring 11",
+      "lead_en": "A Ukrainian drone struck a four-story residential building in Syzran in the early hours of April 22, the Emergency Situations Ministry’s regional office for Samara Region said. One entrance of the building was destroyed.",
+      "title_raw": "Ukrainian drone strike hits residential building in Russia, injuring 11",
+      "lead_raw": "A Ukrainian drone struck a four-story residential building in Syzran in the early hours of April 22, the Emergency Situations Ministry’s regional office for Samara Region said. One entrance of the building was destroyed.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "1db5b435eeb670879cafabc855f74bf3b8b96515",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27183645",
+      "published_utc": "2026-04-22T06:48:07Z",
+      "title_en": "A person planning an explosion near Defense Ministry facilities was arrested in Moscow.",
+      "lead_en": "The attacker proactively established contacts with militants and, on their instructions, arrived in the capital of the Russian Federation to commit a terrorist attack using an IED, after which he was promised travel to Ukraine",
+      "title_raw": "В Москве арестовали планировавшего взрыв у объектов Минобороны",
+      "lead_raw": "Злоумышленник инициативно установил контакты с боевиками и по их заданию прибыл в столицу РФ для совершения теракта с использованием СВУ, после которого ему был обещан выезд на Украину",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "31ee428c05b8edbbd93ea644c17f7184d3e860b6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27183447",
+      "published_utc": "2026-04-22T06:28:14Z",
+      "title_en": "Putin congratulated the All-Russian Student Rescue Corps on its 25th anniversary",
+      "lead_en": "The head of state noted the contribution of the organization to support residents of Donbass and its contribution to eliminating the consequences of the flood in Dagestan",
+      "title_raw": "Путин поздравил Всероссийский студенческий корпус спасателей с 25-летием",
+      "lead_raw": "Глава государства отметил вклад организации по поддержке жителей Донбасса и вклад в ликвидацию последствий наводнения в Дагестане",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "607bdfba622531dfc93738b1cfa44e4fee47d379",
       "source": "TASS (RU)",
