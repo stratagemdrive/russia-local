@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-04-22T09:20:42Z",
+  "updated_at_utc": "2026-04-22T11:05:25Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 26,
+  "count": 25,
   "articles": [
+    {
+      "id": "b468dd2608bc3ce3ed3423dcbbc6e0b30150b521",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27186753",
+      "published_utc": "2026-04-22T10:47:54Z",
+      "title_en": "The Ministry of Emergency Situations reported that six regions of the Russian Federation are not ready for the fire season",
+      "lead_en": "We are talking about the republics of Altai, Tyva, Buryatia, Khabarovsk Territory, Amur and Zaporozhye regions",
+      "title_raw": "В МЧС сообщили, что шесть регионов РФ не готовы к пожароопасному сезону",
+      "lead_raw": "Речь идет о республиках Алтай, Тыва, Бурятия, Хабаровском крае, Амурской и Запорожской областях",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "f6b142626c2ba3bb3a75eeba068378caa210bb5a",
       "source": "TASS (EN)",
@@ -483,44 +504,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "1da7b04f3960ea329dd5fecb1c46a32bef9cae40",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/nauka/27162501",
-      "published_utc": "2026-04-20T11:02:15Z",
-      "title_en": "Expert Morozov: earthquakes on Sakhalin and Japan are not related",
-      "lead_en": "According to a leading researcher at the seismic hazard laboratory of the Institute of Earth Physics of the Russian Academy of Sciences, aftershocks are not expected on Sakhalin",
-      "title_raw": "Эксперт Морозов: землетрясения на Сахалине и в Японии не связаны между собой",
-      "lead_raw": "По словам ведущего научного сотрудника лаборатории сейсмической опасности Института физики Земли РАН, повторные толчки на Сахалине не ожидаются",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "6edfd3592677651c83a90876747be34041407d24",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/04/20/tiger-walks-into-audience-at-russian-circus-after-safety-net-collapses",
-      "published_utc": "2026-04-20T10:55:16Z",
-      "title_en": "Tiger walks into audience at Russian circus after safety net collapses",
-      "lead_en": "A tiger escaped into the audience during a circus performance in Rostov-on-Don after a protective net around the ring collapsed.",
-      "title_raw": "Tiger walks into audience at Russian circus after safety net collapses",
-      "lead_raw": "A tiger escaped into the audience during a circus performance in Rostov-on-Don after a protective net around the ring collapsed.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
