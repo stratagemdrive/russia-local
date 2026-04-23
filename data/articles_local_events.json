@@ -1,9 +1,108 @@
 {
-  "updated_at_utc": "2026-04-23T07:53:18Z",
+  "updated_at_utc": "2026-04-23T09:28:27Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 24,
+  "count": 29,
   "articles": [
+    {
+      "id": "16b6eff113e5bd1911328ac298a3534faff7d73a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27196805",
+      "published_utc": "2026-04-23T09:03:53Z",
+      "title_en": "In Russia in the first quarter, the number of accidents at railway crossings increased by 51%",
+      "lead_en": "Over three months, 71 accidents occurred, Russian Railways reported.",
+      "title_raw": "В России в I квартале число ДТП на железнодорожных переездах выросло на 51%",
+      "lead_raw": "За три месяца произошла 71 авария, сообщили в РЖД",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "18b89ee695503bb82c5fde8193ec02ebf457bc8b",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/04/23/3-killed-in-ukrainian-drone-strikes-across-russia-a92578",
+      "published_utc": "2026-04-23T08:31:00Z",
+      "title_en": "3 Killed in Ukrainian Drone Strikes Across Russia",
+      "lead_en": "A deadly attack in the Samara region came days after an oil refinery in the area was reportedly forced to halt operations due to previous strikes.",
+      "title_raw": "3 Killed in Ukrainian Drone Strikes Across Russia",
+      "lead_raw": "A deadly attack in the Samara region came days after an oil refinery in the area was reportedly forced to halt operations due to previous strikes.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "d0f5e651f29dd9d4b12e85680b626c774b9fdfc4",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/04/23/air-quality-in-russian-port-city-deteriorates-as-fire-from-drone-strike-burns-for-3rd-day",
+      "published_utc": "2026-04-23T08:18:41Z",
+      "title_en": "Air quality in Russian port city deteriorates as fire from drone strike burns for 3rd day",
+      "lead_en": "Air quality in Tuapse has deteriorated sharply after a major fire ignited at the city’s marine terminal three days ago by a Ukrainian drone strike, the Krasnodar Krai operational headquarters said.",
+      "title_raw": "Air quality in Russian port city deteriorates as fire from drone strike burns for 3rd day",
+      "lead_raw": "Air quality in Tuapse has deteriorated sharply after a major fire ignited at the city’s marine terminal three days ago by a Ukrainian drone strike, the Krasnodar Krai operational headquarters said.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "fffd7d4e2942f5eefe45fc72e0908c73b7d2396c",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/04/23/russian-drone-attack-on-dnipro-kills-3-wounds-10-and-damages-residential-building",
+      "published_utc": "2026-04-23T08:13:31Z",
+      "title_en": "Russian drone attack on Dnipro kills 3, wounds 10 and damages residential building",
+      "lead_en": "A Russian drone attack on Dnipro in the early hours of April 23 killed two people and wounded 10, Dnipropetrovsk Region head Oleksandr Hanzha said.",
+      "title_raw": "Russian drone attack on Dnipro kills 3, wounds 10 and damages residential building",
+      "lead_raw": "A Russian drone attack on Dnipro in the early hours of April 23 killed two people and wounded 10, Dnipropetrovsk Region head Oleksandr Hanzha said.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "5d8267a4924489586e9f038eb7d52391ec3c5908",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/04/23/ukrainian-drones-kill-1-injure-others-at-petrochemical-plant-in-russia",
+      "published_utc": "2026-04-23T08:02:08Z",
+      "title_en": "Ukrainian drones kill 1, injure others at petrochemical plant in Russia",
+      "lead_en": "A Ukrainian drone strike on an industrial facility in Novokuybyshevsk, in Russia’s Samara Region, killed one person and injured others, the region’s governor, Vyacheslav Fedorishchev, said. He did not identify the facility.",
+      "title_raw": "Ukrainian drones kill 1, injure others at petrochemical plant in Russia",
+      "lead_raw": "A Ukrainian drone strike on an industrial facility in Novokuybyshevsk, in Russia’s Samara Region, killed one person and injured others, the region’s governor, Vyacheslav Fedorishchev, said. He did not identify the facility.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "6b96c7426e2fa06b8ad78f761c9d30439ea73e3e",
       "source": "TASS (EN)",
