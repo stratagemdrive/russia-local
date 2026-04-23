@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-04-23T19:08:53Z",
+  "updated_at_utc": "2026-04-23T20:52:58Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 30,
   "articles": [
+    {
+      "id": "1c70061842262f11cd7f46756917e687e35f7b5b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2121765",
+      "published_utc": "2026-04-23T19:51:08Z",
+      "title_en": "Two doctors injured in knife attack at hospital in Russia’s Dagestan",
+      "lead_en": "The injured doctors were a traumatologist and a surgeon on duty, Dagestan’s Health Ministry said on Max",
+      "title_raw": "Two doctors injured in knife attack at hospital in Russia’s Dagestan",
+      "lead_raw": "The injured doctors were a traumatologist and a surgeon on duty, Dagestan’s Health Ministry said on Max",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "26f526f5b99fbc8ff20410fd6bcb2b1e717e8991",
       "source": "TASS (EN)",
@@ -577,25 +596,6 @@
       "topics": [
         "local_events"
       ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "80dcd1875b966fd6e1de8aab386829c105e306e4",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27179747",
-      "published_utc": "2026-04-21T19:30:20Z",
-      "title_en": "Russians who fled Lebanon due to hostilities were transported by special plane to Moscow",
-      "lead_en": "The Il-76 plane of the Ministry of Emergency Situations delivered 73 people from Beirut, including 33 children",
-      "title_raw": "Покинувшие Ливан из-за боевых действий россияне доставлены спецбортом в Москву",
-      "lead_raw": "Самолет Ил-76 МЧС доставил из Бейрута 73 человека, в том числе 33 ребенка",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
       "primary_topic": "local_events"
     }
   ]
