@@ -1,9 +1,335 @@
 {
-  "updated_at_utc": "2026-04-23T15:53:18Z",
+  "updated_at_utc": "2026-04-23T19:08:53Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 108,
+  "count": 114,
   "articles": [
+    {
+      "id": "1082a2ebf4a8e00d5ff07af46a3d52c66b17b1e2",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/04/23/eu-approves-large-loan-to-ukraine-and-20th-sanctions-package-against-russia-after-hungary-drops-opposition",
+      "published_utc": "2026-04-23T19:04:59Z",
+      "title_en": "EU approves large loan to Ukraine and 20th sanctions package against Russia after Hungary drops opposition",
+      "lead_en": "Meduza has condemned Russia’s invasion of Ukraine from the very start, and we are committed to reporting objectively on a war we firmly oppose. Join Meduza in its mission to challenge the Kremlin’s censorship with the truth.",
+      "title_raw": "EU approves large loan to Ukraine and 20th sanctions package against Russia after Hungary drops opposition",
+      "lead_raw": "Meduza has condemned Russia’s invasion of Ukraine from the very start, and we are committed to reporting objectively on a war we firmly oppose. Join Meduza in its mission to challenge the Kremlin’s censorship with the truth.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "d2c55a24c00e7904ed1dedc8789c7f2eae47a561",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27203997",
+      "published_utc": "2026-04-23T18:55:23Z",
+      "title_en": "Deputy head of the Ministry of Natural Resources Butsaev resigned",
+      "lead_en": "Denis Butsaev supervised the circular economy department, the digitalization department and the public law company \"Russian Environmental Operator\"",
+      "title_raw": "Замглавы Минприроды Буцаев ушел в отставку",
+      "lead_raw": "Денис Буцаев курировал департамент экономики замкнутого цикла, управление цифровизации и публично-правовую компанию \"Российский экологический оператор\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "28c561e6443d558e6c5e4c41e150999a0e0dff8c",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2121729",
+      "published_utc": "2026-04-23T17:49:50Z",
+      "title_en": "Bank of Russia sets dollar rate at 74.83 rubles for April 24",
+      "lead_en": "The official yuan rate is fixed at 10.94 rubles, down 4.9 kopecks",
+      "title_raw": "Bank of Russia sets dollar rate at 74.83 rubles for April 24",
+      "lead_raw": "The official yuan rate is fixed at 10.94 rubles, down 4.9 kopecks",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "5b6307a1c76132230f4c36d7d3d7c9e26078011f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2121721",
+      "published_utc": "2026-04-23T17:31:38Z",
+      "title_en": "Russia shoots to be second-largest exporter of arms globally despite sanctions — Rostec",
+      "lead_en": "Rostec CEO Sergey Chemezov stressed that MGIMO’s experience and research could help the state corporation develop export relations with countries of the CSTO, BRICS and SCO, as well as with partners in Asia, Africa and Latin America",
+      "title_raw": "Russia shoots to be second-largest exporter of arms globally despite sanctions — Rostec",
+      "lead_raw": "Rostec CEO Sergey Chemezov stressed that MGIMO’s experience and research could help the state corporation develop export relations with countries of the CSTO, BRICS and SCO, as well as with partners in Asia, Africa and Latin America",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "025c1912b9ea9be305e1c007ddced225bb0e7726",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2121719",
+      "published_utc": "2026-04-23T17:30:03Z",
+      "title_en": "New sanctions package comprises 36 export bans for Russian energy sector",
+      "lead_en": "According to the European Commission, the package targets emerging players which have recently increased their export market share",
+      "title_raw": "New sanctions package comprises 36 export bans for Russian energy sector",
+      "lead_raw": "According to the European Commission, the package targets emerging players which have recently increased their export market share",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "df22edeea2a9051b7fcc736ac61cc8ce5c745c3f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2121717",
+      "published_utc": "2026-04-23T17:25:31Z",
+      "title_en": "Russian stock market ends Thursday’s session in the green",
+      "lead_en": "The yuan-to-ruble rate gained 12 kopecks to reach 11.07 rubles",
+      "title_raw": "Russian stock market ends Thursday’s session in the green",
+      "lead_raw": "The yuan-to-ruble rate gained 12 kopecks to reach 11.07 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "dfc8b54d58ff52e14c5ee3641d552fd6804a027e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27203367",
+      "published_utc": "2026-04-23T17:11:54Z",
+      "title_en": "Expert Kustova: business development in Mariupol indicates a return to peaceful life",
+      "lead_en": "The products of city manufacturers are filled with the spirit of Russian culture, noted a teacher at the Higher School of Economics",
+      "title_raw": "Эксперт Кустова: развитие бизнеса Мариуполя говорит о возвращении к мирной жизни",
+      "lead_raw": "Продукция производителей города наполнена духом русской культуры, отметила преподаватель Высшей школы экономики",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "f669a1209e363bf0247ba046c3c99df9ff29fdf2",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2121711",
+      "published_utc": "2026-04-23T17:11:38Z",
+      "title_en": "EU imposes sanctions against Belarusian Oil Company",
+      "lead_en": "The restrictions were introduced as part of the approved 20th package of anti-Russian sanctions",
+      "title_raw": "EU imposes sanctions against Belarusian Oil Company",
+      "lead_raw": "The restrictions were introduced as part of the approved 20th package of anti-Russian sanctions",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "06efc94beedab5109f6f322b796a4758a1e6d9b9",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2121701",
+      "published_utc": "2026-04-23T17:01:39Z",
+      "title_en": "EU to ban LNG terminal services for Russian companies since 2027",
+      "lead_en": "The 20th package of sanctions \"bans the provision of maintenance and other services for Russian liquified natural gas tankers and ice-breakers\"",
+      "title_raw": "EU to ban LNG terminal services for Russian companies since 2027",
+      "lead_raw": "The 20th package of sanctions \"bans the provision of maintenance and other services for Russian liquified natural gas tankers and ice-breakers\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "4c2916e52eef5c101c3e9315079bcdd97a34f490",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27203323",
+      "published_utc": "2026-04-23T17:00:13Z",
+      "title_en": "The Russian stock market closed with growth in the main indices",
+      "lead_en": "The Moscow Exchange index grew by 0.36%, the RTS - by 0.58%",
+      "title_raw": "Российский рынок акций закрылся ростом основных индексов",
+      "lead_raw": "Индекс Мосбиржи вырос на 0,36%, РТС - на 0,58%",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "6d0a97d60697a6392c5ab07dc97b35dabc2940d0",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2121697",
+      "published_utc": "2026-04-23T16:50:27Z",
+      "title_en": "EU sanctions Russian oil producers, refineries",
+      "lead_en": "Sanctions affected Tuapse, Komsomolsk, Angarsk, Achinsk, Syzran, Ryazan and Afipsky refineries",
+      "title_raw": "EU sanctions Russian oil producers, refineries",
+      "lead_raw": "Sanctions affected Tuapse, Komsomolsk, Angarsk, Achinsk, Syzran, Ryazan and Afipsky refineries",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "b34ff65b49733efc9ad500031fed91681041e81d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27203097",
+      "published_utc": "2026-04-23T16:39:38Z",
+      "title_en": "The European Union has introduced new restrictions on the import of some Russian metals",
+      "lead_en": "It is prohibited to import unprocessed platinum, refined and unrefined copper, nickel powders and nickel scrap, molybdenum, aluminum powders, magnesium carbonate, as well as quicklime and slaked lime.",
+      "title_raw": "Евросоюз ввел новые ограничения на импорт некоторых российских металлов",
+      "lead_raw": "Запрещается импорт необработанной платины, рафинированной и нерафинированный меди, никелевых порошков и лома никеля, молибдена, алюминиевых порошков, карбоната магния, а также негашеной и гашеной извести",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "715e135ee7398bcc6919505dde5056dd90bcc32b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2121677",
+      "published_utc": "2026-04-23T16:15:06Z",
+      "title_en": "Investments in Russia's Arctic zone to exceed $396 bln over next 10 years",
+      "lead_en": "Deputy Prime Minister Yury Trutnev stressed that the authorities had created the most attractive conditions for investment in the Arctic",
+      "title_raw": "Investments in Russia's Arctic zone to exceed $396 bln over next 10 years",
+      "lead_raw": "Deputy Prime Minister Yury Trutnev stressed that the authorities had created the most attractive conditions for investment in the Arctic",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "d0b34a3c7735e04a57bb6296235fbdfed17ff5c0",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2121659",
+      "published_utc": "2026-04-23T16:00:01Z",
+      "title_en": "EU bans provision of LNG terminal services to Russian companies from 2027",
+      "lead_en": "The new sanctions also prohibit the provision of technical maintenance and other services to Russian LNG tankers and icebreakers",
+      "title_raw": "EU bans provision of LNG terminal services to Russian companies from 2027",
+      "lead_raw": "The new sanctions also prohibit the provision of technical maintenance and other services to Russian LNG tankers and icebreakers",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "2e0ad8707ea953e83321e43f1db9a0eea9edf50d",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2121665",
+      "published_utc": "2026-04-23T15:59:04Z",
+      "title_en": "Inflation slowdown in Russia becomes stable trend — Economy Minister",
+      "lead_en": "Inflation geared down to 5.6% as of the last year-end, Maxim Reshetnikov said",
+      "title_raw": "Inflation slowdown in Russia becomes stable trend — Economy Minister",
+      "lead_raw": "Inflation geared down to 5.6% as of the last year-end, Maxim Reshetnikov said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "32aedeb992fd3ca803e60ef27a176de8d45ddfa0",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2121667",
+      "published_utc": "2026-04-23T15:57:45Z",
+      "title_en": "Russian economy open, stable — Economy Minister",
+      "lead_en": "Risks existing in global trade are growing protectionism and volatility in financial markets, Maxim Reshetnikov noted",
+      "title_raw": "Russian economy open, stable — Economy Minister",
+      "lead_raw": "Risks existing in global trade are growing protectionism and volatility in financial markets, Maxim Reshetnikov noted",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "64fb51180b3bf4307ea68ca3f9e9bc41f4342b17",
       "source": "TASS (RU)",
@@ -1983,207 +2309,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "5d34e6997c1945572b4009a07fd3f464b5b7a308",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27179635",
-      "published_utc": "2026-04-21T19:08:38Z",
-      "title_en": "Dutch military intelligence recognized the growing power of the Russian Armed Forces despite sanctions",
-      "lead_en": "The Russian army has become not only larger, but also more effective than before the conflict in Ukraine, according to a report by the Dutch Military Intelligence and Security Service.",
-      "title_raw": "Нидерландская военная разведка признала рост мощи ВС РФ вопреки санкциям",
-      "lead_raw": "Российская армия стала не только больше, но и эффективнее, чем до конфликта на Украине, говорится в отчете Службы военной разведки и безопасности Нидерландов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "dd2b79f2bd3f57babfd7177d179507fc50cffe20",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27179553",
-      "published_utc": "2026-04-21T18:55:32Z",
-      "title_en": "Dmitriev: Europe is held back by systematically erroneous and ideological decisions",
-      "lead_en": "Reforms must include recognizing and correcting numerous mistakes in the field of migration, warmongering, energy and economic policy, said the special representative of the Russian President",
-      "title_raw": "Дмитриев: Европу сдерживают систематически ошибочные и идеологизированные решения",
-      "lead_raw": "Реформы должны включать признание и исправление многочисленных ошибок в области миграции, разжигания войны, энергетики и экономической политики, заявил спецпредставитель президента РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "3b45a189bf5d934aa2fecb704c8c44a21cb872c8",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27179111",
-      "published_utc": "2026-04-21T17:41:57Z",
-      "title_en": "Accused of evading payment of 1.1 billion rubles in taxes was deported to the Russian Federation",
-      "lead_en": "The deportee was a beneficial co-owner and actual manager of a commercial enterprise",
-      "title_raw": "Обвиняемого в уклонении от уплаты 1,1 млрд рублей налогов депортировали в РФ",
-      "lead_raw": "Депортированный был бенефициарным совладельцем и фактическим руководителем коммерческого предприятия",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "c722f4105e69359ed4c195b5ba183524a174dc74",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27179015",
-      "published_utc": "2026-04-21T17:31:13Z",
-      "title_en": "The Russian stock market closed with growth in the main indices",
-      "lead_en": "The Moscow Exchange index rose by 0.15% following the results of the main trading on April 21",
-      "title_raw": "Российский рынок акций закрылся ростом основных индексов",
-      "lead_raw": "Индекс Мосбиржи по итогам основных торгов 21 апреля вырос на 0,15%",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "7c38d1db178e1a8a4a0b59694f9e83d68d0bd379",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27178971",
-      "published_utc": "2026-04-21T17:21:36Z",
-      "title_en": "Dmitriev: von der Leyen is imposing costly wrong decisions on everyone",
-      "lead_en": "Thus, the special representative of the Russian President for investment and economic cooperation with foreign countries commented on the publication of the Politico newspaper that the EC wants to resume coordinated gas purchases throughout the EU, since the war in Iran raises co",
-      "title_raw": "Дмитриев: фон дер Ляйен навязывает всем дорогостоящие неверные решения",
-      "lead_raw": "Так спецпредставитель президента РФ по инвестиционно-экономическому сотрудничеству с зарубежными странами прокомментировал публикацию газеты Politico о том, что ЕК хочет возобновить скоординированные закупки газа в масштабах всего ЕС, поскольку война в Иране вызывает опасения по",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "0b8453ce4db51b3e338f52d3a047653cfb71c11a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27178963",
-      "published_utc": "2026-04-21T17:14:01Z",
-      "title_en": "Russia intends to develop a “partnership standard” for export development",
-      "lead_en": "Chairman of Business Russia Alexey Repik pointed out that the Russian Federation has a serious competitive advantage because domestic entrepreneurs know how to work in difficult conditions and quickly adapt solutions to a specific country",
-      "title_raw": "В России намерены разработать \"стандарт партнерства\" для развития экспорта",
-      "lead_raw": "Председатель \"Деловой России\" Алексей Репик указал, что у РФ есть серьезное конкурентное преимущество, потому что отечественные предприниматели умеют работать в сложных условиях и быстро адаптировать решения под конкретную страну",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "6fedc60b02f6f5f0056015d8a33d17564b7ea573",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27178955",
-      "published_utc": "2026-04-21T17:12:21Z",
-      "title_en": "Fesikov: Russian swimmers will be ready for any situation at the European Championships",
-      "lead_en": "On April 13, the International Swimming Federation lifted sanctions from Russian and Belarusian athletes and allowed them to compete under its auspices with the flag and anthem.",
-      "title_raw": "Фесиков: российские пловцы будут готовы к любым ситуациям на ЧЕ",
-      "lead_raw": "13 апреля Международная федерация плавания сняла санкции с российских и белорусских спортсменов и допустила их до соревнований под своей эгидой с флагом и гимном.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "674316f1a4bbbcfb7f710a17038d55f67d001b87",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27178909",
-      "published_utc": "2026-04-21T17:05:56Z",
-      "title_en": "Russian swimmers did not receive confirmation of admission to the European Championships with the flag and anthem",
-      "lead_en": "On April 13, the International Swimming Federation lifted sanctions from Russian and Belarusian athletes and allowed them to compete under its auspices with the flag and anthem",
-      "title_raw": "Российские пловцы не получили подтверждения о допуске на ЧЕ с флагом и гимном",
-      "lead_raw": "13 апреля Международная федерация плавания сняла санкции с российских и белорусских спортсменов и допустила их до соревнований под своей эгидой с флагом и гимном",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "4d754e618f60f5396c20adc53a74e227c2a2d70a",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2120489",
-      "published_utc": "2026-04-21T16:20:21Z",
-      "title_en": "EU foreign ministers resolve to renew approval of anti-Russian sanctions",
-      "lead_en": "EU High Representative for Foreign Affairs Kaja Kallas said there is a new momentum",
-      "title_raw": "EU foreign ministers resolve to renew approval of anti-Russian sanctions",
-      "lead_raw": "EU High Representative for Foreign Affairs Kaja Kallas said there is a new momentum",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "d610c7c9b262600129d9ce799215de7c3bc8f7b0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27178193",
-      "published_utc": "2026-04-21T16:01:47Z",
-      "title_en": "Kallas: EU foreign ministers decided to resume approval of the 20th package of sanctions against the Russian Federation",
-      "lead_en": "The head of the European diplomatic service said that she expects a positive decision on €90 billion for Kyiv within the next 24 hours",
-      "title_raw": "Каллас: главы МИД ЕС решили возобновить утверждение 20 пакета санкций против РФ",
-      "lead_raw": "Глава европейской дипслужбы сообщила, что ожидает позитивного решения о €90 млрд для Киева в течение ближайших 24 часов",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
