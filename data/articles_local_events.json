@@ -1,9 +1,91 @@
 {
-  "updated_at_utc": "2026-04-24T11:57:12Z",
+  "updated_at_utc": "2026-04-24T13:48:36Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 25,
+  "count": 27,
   "articles": [
+    {
+      "id": "5190109ae3b470d705c2eea3859f815a2c2e42ab",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27213589",
+      "published_utc": "2026-04-24T12:55:23Z",
+      "title_en": "The Central Bank monitors banks’ assistance to people during emergencies",
+      "lead_en": "The head of the Bank of Russia, Elvira Nabiullina, said that the regulator is ready “to work in a targeted manner, on individual cases, when signals are received.”",
+      "title_raw": "ЦБ следит за помощью банков людям при ЧС",
+      "lead_raw": "Глава Банка России Эльвира Набиуллина заявила, что регулятор готов \"при поступлении сигналов работать точечно, по отдельным случаям\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "9f07d8b7d0196da524be9282df72819e61dd41e4",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/04/24/man-claiming-to-be-ukrainian-soldier-crashes-russian-university-s-student-recruitment-call",
+      "published_utc": "2026-04-24T12:48:00Z",
+      "title_en": "Man claiming to be Ukrainian soldier crashes Russian university’s student recruitment call",
+      "lead_en": "A man claiming to be a Ukrainian serviceman crashed a video conference at Kuban State Agrarian University in which students were being urged to sign contracts with Russia’s Defense Ministry and go to war.",
+      "title_raw": "Man claiming to be Ukrainian soldier crashes Russian university’s student recruitment call",
+      "lead_raw": "A man claiming to be a Ukrainian serviceman crashed a video conference at Kuban State Agrarian University in which students were being urged to sign contracts with Russia’s Defense Ministry and go to war.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "e084ffdb744bc64bfc9fa36d5c32483a6e987dad",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/nauka/27213063",
+      "published_utc": "2026-04-24T12:45:39Z",
+      "title_en": "The Russian Federation presented a report on the prospects for overcoming the consequences of the Chernobyl accident",
+      "lead_en": "The work was prepared by key institutes that have real information, noted the scientific director of the Research and Design Institute of Energy Engineering named after. N.",
+      "title_raw": "В РФ представили доклад о перспективах преодоления последствий аварии на ЧАЭС",
+      "lead_raw": "Работу подготовили ключевые институты, которые имеют реальную информацию, отметил научный руководитель Научно-исследовательского и конструкторского института энерготехники им. Н.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "5f379aa19fed7d1a8ec626b5ba5151155c029f97",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/04/24/black-rain-toxic-air-and-bird-deaths-russian-black-sea-town-reels-from-refinery-strike-a92581",
+      "published_utc": "2026-04-24T11:48:00Z",
+      "title_en": "Black Rain, Toxic Air and Bird Deaths: Russian Black Sea Town Reels From Refinery Strike",
+      "lead_en": "The scene in Tuapse has turned apocalyptic in recent days after strikes on a local oil refinery sparked major fires and caused an oil spill.",
+      "title_raw": "Black Rain, Toxic Air and Bird Deaths: Russian Black Sea Town Reels From Refinery Strike",
+      "lead_raw": "The scene in Tuapse has turned apocalyptic in recent days after strikes on a local oil refinery sparked major fires and caused an oil spill.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "84131d61c535eac16e6fe8aa5ac749bac0319976",
       "source": "TASS (EN)",
@@ -447,44 +529,6 @@
       "lead_en": "The Interstate Aviation Committee noted an improvement in aviation safety indicators in 2025 compared with 2024, when 46 aviation accidents were recorded",
       "title_raw": "Russia records 27 aviation accidents, 73 fatalities in 2025",
       "lead_raw": "The Interstate Aviation Committee noted an improvement in aviation safety indicators in 2025 compared with 2024, when 46 aviation accidents were recorded",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "a25f6e4a945185ae5c61e0e015480924ffec5a97",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27188037",
-      "published_utc": "2026-04-22T12:38:12Z",
-      "title_en": "Chernyshenko and Falkov congratulated the student rescue corps on their 25th anniversary",
-      "lead_en": "The Deputy Prime Minister of the Russian Federation noted that the corps is strengthening interaction with government authorities",
-      "title_raw": "Чернышенко и Фальков поздравили студенческий корпус спасателей с 25-летием",
-      "lead_raw": "Заместитель председателя правительства РФ отметил, что корпус укрепляет взаимодействие с органами государственной власти",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "80bf88035cad4021a042d5f41dc3b685436f5800",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2120921",
-      "published_utc": "2026-04-22T11:59:13Z",
-      "title_en": "Two people, including teenager, injured in drone attacks on Russia’s Belgorod Region",
-      "lead_en": "Governor Vyacheslav Gladkov said that a 15-year-old boy, who was nearby during the attack, received penetrating shrapnel wounds to the abdomen",
-      "title_raw": "Two people, including teenager, injured in drone attacks on Russia’s Belgorod Region",
-      "lead_raw": "Governor Vyacheslav Gladkov said that a 15-year-old boy, who was nearby during the attack, received penetrating shrapnel wounds to the abdomen",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
