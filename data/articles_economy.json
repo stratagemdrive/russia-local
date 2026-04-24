@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-04-24T20:49:14Z",
+  "updated_at_utc": "2026-04-24T21:47:57Z",
   "keep_hours": 48,
   "topic": "economy",
   "count": 131,
   "articles": [
+    {
+      "id": "4546d189f4aeb99337ba4d8a97a0e10523af88e9",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27217503",
+      "published_utc": "2026-04-24T21:04:05Z",
+      "title_en": "Europe stops importing Russian LNG under short-term contracts",
+      "lead_en": "The official ban came into force on April 25, but a significant reduction in supplies may not occur until 2027",
+      "title_raw": "Европа прекращает импорт российского СПГ по краткосрочным контрактам",
+      "lead_raw": "Официальный запрет вступил в силу 25 апреля, но значительное снижение поставок может произойти лишь в 2027 году",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "0ce0ab7a9e3a2b48973fad8818de8eb15267e9e6",
       "source": "TASS (EN)",
@@ -2623,28 +2644,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "21deeae907a0564c021c3b3638dfd3342b0f52e2",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27192665",
-      "published_utc": "2026-04-22T21:46:09Z",
-      "title_en": "Russian Foreign Ministry: Russia always assumes the worst-case scenario for US sanctions",
-      "lead_en": "Deputy Head of the Ministry of Foreign Affairs Alexander Pankin thus commented on Washington’s suspension of restrictions against Russian oil",
-      "title_raw": "МИД РФ: Россия всегда исходит из худшего сценария по санкциям США",
-      "lead_raw": "Замглавы министерства иностранных дел Александр Панкин таким образом прокомментировал приостановку Вашингтоном рестрикций против российской нефти",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
