@@ -1,9 +1,53 @@
 {
-  "updated_at_utc": "2026-04-24T16:57:29Z",
+  "updated_at_utc": "2026-04-24T18:52:56Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 72,
+  "count": 73,
   "articles": [
+    {
+      "id": "8a082d976e3a80ff22b2d10388abb860d692fd19",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27216283",
+      "published_utc": "2026-04-24T17:39:52Z",
+      "title_en": "EC: The US assured that it will not extend the lifting of restrictions on transactions with Russian oil",
+      "lead_en": "The measure was taken due to the fact that several low-income countries find themselves in an extremely difficult situation, noted European Commissioner for Trade Policy and Economic Security Maros Šefčović",
+      "title_raw": "ЕК: США заверили, что не продлят отмену ограничений на сделки с нефтью России",
+      "lead_raw": "Мера была принята из-за того, что несколько стран с низким уровнем доходов оказались в чрезвычайно сложной ситуации, отметил еврокомиссар по торговой политике и экономической безопасности Марош Шефчович",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 1
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "88fbccd7c9077c940864c365c755f4bbff90da95",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2122259",
+      "published_utc": "2026-04-24T17:31:39Z",
+      "title_en": "Russian stock market closes lower as major indices retreat",
+      "lead_en": "The yuan edged down by 9 kopecks to 10.98 rubles",
+      "title_raw": "Russian stock market closes lower as major indices retreat",
+      "lead_raw": "The yuan edged down by 9 kopecks to 10.98 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "1d95c79984a97734e4374a36f5d0fbdad1de7eac",
       "source": "Meduza (EN)",
@@ -1519,28 +1563,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "7e8593d38805097d5ee4184134bbe6216e0eadb0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27191587",
-      "published_utc": "2026-04-22T18:03:50Z",
-      "title_en": "Peskov: there are more and more problems in global energy markets every day",
-      "lead_en": "The world economy and energy markets are in a fever, noted the press secretary of the President of the Russian Federation",
-      "title_raw": "Песков: на мировых энергорынках с каждым днем все больше проблем",
-      "lead_raw": "Мировую экономику и энергетические рынки лихорадит, отметил пресс-секретарь президента РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
