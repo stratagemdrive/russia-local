@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-04-24T21:47:57Z",
+  "updated_at_utc": "2026-04-24T22:38:53Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 131,
+  "count": 132,
   "articles": [
+    {
+      "id": "92c02ac078fd86e368fd679f8a2c379d6aea79de",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27217781",
+      "published_utc": "2026-04-24T22:32:24Z",
+      "title_en": "US Treasury Secretary rules out new extension of lifting sanctions on Russian oil",
+      "lead_en": "",
+      "title_raw": "Министр финансов США исключил новое продление снятия санкций с нефти РФ",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "cdbd4940c9c292d92412823ece3fe5acdfae1793",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27217713",
+      "published_utc": "2026-04-24T22:16:30Z",
+      "title_en": "Bailiffs began the procedure for transferring Timur Ivanov’s property to the state",
+      "lead_en": "The value of the property of the former Deputy Minister of Defense of the Russian Federation converted into the country's income is about 1.2 billion rubles",
+      "title_raw": "Приставы начали процедуру передачи имущества Тимура Иванова государству",
+      "lead_raw": "Стоимость обращаемой в доход страны собственности бывшего заместителя министра обороны РФ составляет порядка 1,2 млрд рублей",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
     {
       "id": "4546d189f4aeb99337ba4d8a97a0e10523af88e9",
       "source": "TASS (RU)",
@@ -2623,27 +2663,6 @@
       },
       "topics": [],
       "primary_topic": "economy"
-    },
-    {
-      "id": "7c8297c35693cb6ccc3d640ff8a39fe06270d86f",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2121223",
-      "published_utc": "2026-04-22T22:35:01Z",
-      "title_en": "Russia says always proceeds from worst-case scenario for US sanctions",
-      "lead_en": "Thus, Alexander Pankin commented on the possibility of a new extension by Washington of the suspension of US sanctions against Russian oil",
-      "title_raw": "Russia says always proceeds from worst-case scenario for US sanctions",
-      "lead_raw": "Thus, Alexander Pankin commented on the possibility of a new extension by Washington of the suspension of US sanctions against Russian oil",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
