@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-04-26T11:39:10Z",
+  "updated_at_utc": "2026-04-26T13:07:07Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 25,
+  "count": 23,
   "articles": [
+    {
+      "id": "9ac617ec5dffe2c0e7b1fbf73d7c92cabc51ea87",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2122597",
+      "published_utc": "2026-04-26T10:50:17Z",
+      "title_en": "Russian forces strike Ukrainian transport, energy infrastructure over past day",
+      "lead_en": "Operational-tactical aviation also struck temporary deployment sites of Ukrainian armed forces and foreign mercenaries in 140 districts, the statement said",
+      "title_raw": "Russian forces strike Ukrainian transport, energy infrastructure over past day",
+      "lead_raw": "Operational-tactical aviation also struck temporary deployment sites of Ukrainian armed forces and foreign mercenaries in 140 districts, the statement said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "476a37fb6fa4956fb8b5a130fa8cc69663f882ef",
       "source": "TASS (RU)",
@@ -471,72 +493,6 @@
         "energy": 2,
         "economy": 0,
         "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "4585c112d3e09850bc35671d093507aeb5160f8f",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2122091",
-      "published_utc": "2026-04-24T12:46:36Z",
-      "title_en": "Brussel undermines its energy security by imposing sanctions on Russian hydrocarbons",
-      "lead_en": "Russian Foreign Ministry Spokeswoman Maria Zakharova pointed to the attempts to further destabilize global energy markets",
-      "title_raw": "Brussel undermines its energy security by imposing sanctions on Russian hydrocarbons",
-      "lead_raw": "Russian Foreign Ministry Spokeswoman Maria Zakharova pointed to the attempts to further destabilize global energy markets",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "e084ffdb744bc64bfc9fa36d5c32483a6e987dad",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/nauka/27213063",
-      "published_utc": "2026-04-24T12:45:39Z",
-      "title_en": "The Russian Federation presented a report on the prospects for overcoming the consequences of the Chernobyl accident",
-      "lead_en": "The work was prepared by key institutes that have real information, noted the scientific director of the Research and Design Institute of Energy Engineering named after. N.",
-      "title_raw": "В РФ представили доклад о перспективах преодоления последствий аварии на ЧАЭС",
-      "lead_raw": "Работу подготовили ключевые институты, которые имеют реальную информацию, отметил научный руководитель Научно-исследовательского и конструкторского института энерготехники им. Н.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "5f379aa19fed7d1a8ec626b5ba5151155c029f97",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/04/24/black-rain-toxic-air-and-bird-deaths-russian-black-sea-town-reels-from-refinery-strike-a92581",
-      "published_utc": "2026-04-24T11:48:00Z",
-      "title_en": "Black Rain, Toxic Air and Bird Deaths: Russian Black Sea Town Reels From Refinery Strike",
-      "lead_en": "The scene in Tuapse has turned apocalyptic in recent days after strikes on a local oil refinery sparked major fires and caused an oil spill.",
-      "title_raw": "Black Rain, Toxic Air and Bird Deaths: Russian Black Sea Town Reels From Refinery Strike",
-      "lead_raw": "The scene in Tuapse has turned apocalyptic in recent days after strikes on a local oil refinery sparked major fires and caused an oil spill.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 1
       },
       "topics": [
         "energy"
