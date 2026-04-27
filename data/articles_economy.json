@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-04-27T13:54:06Z",
+  "updated_at_utc": "2026-04-27T15:48:34Z",
   "keep_hours": 48,
   "topic": "economy",
   "count": 24,
   "articles": [
+    {
+      "id": "b8cb60015cf36b269e85cf020b8c8cf58c1907b1",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/04/27/russia-mfa-expands-entry-ban-list-in-response-to-new-eu-sanctions-a92615",
+      "published_utc": "2026-04-27T14:57:35Z",
+      "title_en": "Russia MFA Expands Entry Ban List in Response to New EU Sanctions",
+      "lead_en": "Officials in Moscow did not disclose how many people were added to the entry ban list or their names.",
+      "title_raw": "Russia MFA Expands Entry Ban List in Response to New EU Sanctions",
+      "lead_raw": "Officials in Moscow did not disclose how many people were added to the entry ban list or their names.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "87909238a5b66ec1482e71baffd36dab341d1de8",
       "source": "TASS (RU)",
@@ -457,27 +478,6 @@
         "local_events": 0
       },
       "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "ed51b0ac20f8c623e6c69c6da4b34212563e938b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27221387",
-      "published_utc": "2026-04-25T15:23:50Z",
-      "title_en": "Expert Gureev: construction will attract investment in other sectors of the Donbass economy",
-      "lead_en": "Anton Gureev gave the example of Crimea, which quickly integrated into the Russian economic space, including thanks to the construction",
-      "title_raw": "Эксперт Гуреев: стройка привлечет инвестиции в другие секторы экономики Донбасса",
-      "lead_raw": "Антон Гуреев привел пример Крыма, который быстро интегрировался в российское экономическое пространство, в том числе благодаря строительству",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
       "primary_topic": "economy"
     }
   ]
