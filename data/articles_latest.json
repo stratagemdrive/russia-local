@@ -1,8 +1,504 @@
 {
-  "updated_at_utc": "2026-04-27T17:22:07Z",
+  "updated_at_utc": "2026-04-27T19:22:07Z",
   "keep_hours": 48,
-  "count": 390,
+  "count": 400,
   "articles": [
+    {
+      "id": "ae53aa62b5211f0bba40e27959efb6a354d5d854",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27238091",
+      "published_utc": "2026-04-27T19:20:36Z",
+      "title_en": "30 Ukrainian UAVs were shot down over Russian regions in 12 hours",
+      "lead_en": "",
+      "title_raw": "Над регионами России сбили 30 украинских БПЛА за 12 часов",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "6152166bb0eff244247cb34e14be46fa8450a4b6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27238049",
+      "published_utc": "2026-04-27T19:03:49Z",
+      "title_en": "The Ukrainian Foreign Ministry summoned the Israeli Ambassador",
+      "lead_en": "The ambassador is summoned due to the arrival of a second ship with Russian grain at the port of Haifa",
+      "title_raw": "МИД Украины вызвал посла Израиля",
+      "lead_raw": "Посла вызывают из-за прибытия в порт Хайфы второго судна с российским зерном",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "944c1e6ce33b0f40750ab7b8943c9dce142dc2bd",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27238003",
+      "published_utc": "2026-04-27T19:01:36Z",
+      "title_en": "Dmitriev: EU arrogance could lead to its demise",
+      "lead_en": "The Special Representative of the Russian President for Investment and Economic Cooperation with Foreign Countries commented on the words of German Chancellor Friedrich Merz that the United States will not be able to quickly complete the military operation against Iran",
+      "title_raw": "Дмитриев: высокомерие ЕС может привести к его упадку",
+      "lead_raw": "Спецпредставитель президента РФ по инвестиционно-экономическому сотрудничеству с зарубежными странами прокомментировал слова канцлера Германии Фридриха Мерца, что США не удастся быстро завершить военную операцию против Ирана",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "678a5abafdf7150815e61c7469eebbc1aabe5bfc",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27237967",
+      "published_utc": "2026-04-27T18:59:57Z",
+      "title_en": "Mironov: the economic structure of the country cannot be divorced from the culture of the people",
+      "lead_en": "The leader of the A Just Russia party noted that every nation must independently choose its own path of development",
+      "title_raw": "Миронов: экономический уклад страны не может быть оторван от культуры народа",
+      "lead_raw": "Лидер партии \"Справедливая Россия\" отметил, что каждый народ должен самостоятельно выбирать свой путь развития",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "2ba4e34b3400420f292da1fa04fa291e84cd9ef0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kultura/27237961",
+      "published_utc": "2026-04-27T18:58:02Z",
+      "title_en": "Medinsky urged not to “devalue” the title of writer because of graphomaniacs",
+      "lead_en": "The Chairman of the Writers' Union of Russia noted that membership in it should be a “privilege”",
+      "title_raw": "Мединский призвал не \"девальвировать\" звание писателя из-за графоманов",
+      "lead_raw": "Председатель Союза писателей России отметил, что членство в нем должно быть \"привилегией\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c4c31c7ba068865ed4bbb7363309fe6b0bb1ec5c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27237949",
+      "published_utc": "2026-04-27T18:50:02Z",
+      "title_en": "TASS: The Ukrainian Armed Forces brigade is conducting checks to find those responsible for the failure near Volchansk",
+      "lead_en": "Russian law enforcement agencies note a high probability that the result of verification activities will be the transfer of the unit to the barrage detachments",
+      "title_raw": "ТАСС: в бригаде ВСУ проводят проверки для поиска виновных в провале у Волчанска",
+      "lead_raw": "В российских силовых структурах отмечают высокую вероятность того, что итогом проверочных мероприятий станет перевод подразделения в состав заградительных отрядов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "1aea0690055b21ab5973a965843421495058a095",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27237933",
+      "published_utc": "2026-04-27T18:45:24Z",
+      "title_en": "TASS: Paramilitary forces are operating in Ukraine to kill civilians",
+      "lead_en": "Russian security forces managed to confirm information about the presence of Ukrainian Armed Forces barrage detachments in the Krasnopolsky district of the Sumy region",
+      "title_raw": "ТАСС: на Украине действуют военизированные формирования для убийства гражданских",
+      "lead_raw": "Российским силовым структурам удалось подтвердить информацию о нахождении в Краснопольском районе Сумской области заградительных отрядов ВСУ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "a87a866b28899d9c6c778dd5367df86de44e7ca9",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27237915",
+      "published_utc": "2026-04-27T18:40:58Z",
+      "title_en": "Nebenzya called for abandoning plans to resume war in the Middle East",
+      "lead_en": "The Permanent Representative of the Russian Federation to the UN said that Moscow firmly stands for a ceasefire and a return to the political and diplomatic process",
+      "title_raw": "Небензя призвал отказаться от планов возобновления войны на Ближнем Востоке",
+      "lead_raw": "Постоянный представитель РФ при ООН заявил, что Москва твердо выступает за прекращение огня и возвращение к политико-дипломатическому процессу",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "8bca4b90906dcb8c3c4c20a0c05a77483e9d71ed",
+      "source": "RT",
+      "url": "https://www.rt.com/news/639165-eu-russia-dialogue-estonia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "published_utc": "2026-04-27T18:39:05Z",
+      "title_en": "EU country’s president calls for dialogue with Russia – media",
+      "lead_en": "Estonian President Alar Karis has reportedly said the EU should prepare for talks with Russia in case the Ukraine conflict ends suddenly Read Full Article at RT.com",
+      "title_raw": "EU country’s president calls for dialogue with Russia – media",
+      "lead_raw": "Estonian President Alar Karis has reportedly said the EU should prepare for talks with Russia in case the Ukraine conflict ends suddenly Read Full Article at RT.com",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "6629ae29e08a1eeaf9722563effbf9dd891c032b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27236769",
+      "published_utc": "2026-04-27T18:31:05Z",
+      "title_en": "The President of the Republic of Congo went on an official visit to Russia",
+      "lead_en": "As part of the trip, it is expected that Denis Sassou Nguesso will hold talks with Russian President Vladimir Putin",
+      "title_raw": "Президент Республики Конго отправился с официальным визитом в Россию",
+      "lead_raw": "В рамках поездки предполагается, что Дени Сассу-Нгессо проведет переговоры с президентом РФ Владимиром Путиным",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "d1aee8fcd9020e4043f4ae434ff5e7a98cf08e25",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27236931",
+      "published_utc": "2026-04-27T18:22:16Z",
+      "title_en": "Patrushev discussed maritime law issues with the Egyptian Foreign Minister",
+      "lead_en": "The Chairman of the Maritime Board of the Russian Federation and Badr Abdel Aty also talked about joint work at international platforms",
+      "title_raw": "Патрушев обсудил с главой МИД Египта вопросы морского права",
+      "lead_raw": "Председатель Морской коллегии РФ и Бадр Абдель Аты также поговорили о совместной работе на международных площадках",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "6af545eb412153f8d9409b733820aad337d5ce1f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27237395",
+      "published_utc": "2026-04-27T18:17:02Z",
+      "title_en": "Reshetnikov: the volume of trade between the Russian Federation and Oman has quadrupled since the beginning of the year",
+      "lead_en": "The Russian Minister of Economic Development noted that Russian exports to the Sultanate have increased 10 times",
+      "title_raw": "Решетников: объем торговли между РФ и Оманом увеличился вчетверо с начала года",
+      "lead_raw": "Министр экономического развития России отметил, что российский экспорт в султанат вырос в 10 раз",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "ad6a01ee30422d8f6c518e62bc1a402bed865835",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kultura/27237799",
+      "published_utc": "2026-04-27T18:11:54Z",
+      "title_en": "Museum and theater projects have been prepared for the 130th anniversary of the All-Russian Industrial Exhibition",
+      "lead_en": "A documentary and artistic reconstruction, a multimedia show, a conference and a reading performance will be held in the Nizhny Novgorod region",
+      "title_raw": "К 130-летию Всероссийской промвыставки подготовили музейные и театральные проекты",
+      "lead_raw": "В Нижегородской области пройдут документально-художественная реконструкция, мультимедийное шоу, конференция и спектакль-читка",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "0f719df850a1c57ea094996d5aa8f1e6d5fae9fd",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27228907",
+      "published_utc": "2026-04-27T18:03:23Z",
+      "title_en": "Expert Sorokin: Sandu and Zelensky discussed coordination with intelligence services",
+      "lead_en": "According to the head of the Russian-Moldovan Center for Friendship and Cooperation, the parties actually considered scenarios for Odessa and Transnistria",
+      "title_raw": "Эксперт Сорокин: Санду и Зеленский обсудили координацию с разведслужбами",
+      "lead_raw": "По словам руководителя Русско-молдавского центра дружбы и сотрудничества, стороны фактически рассматривали сценарии по Одессе и Приднестровью",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "3084a2fcf5eaa728a662f1e478e77e403c4c083c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27237773",
+      "published_utc": "2026-04-27T18:02:32Z",
+      "title_en": "The UK called the main message of education the formation of patriotism from childhood",
+      "lead_en": "Chairman of the Investigative Committee of Russia Alexander Bastrykin held a working meeting with members of the Military Military District and combat veterans, relatives and friends of military personnel, as well as representatives of public organizations",
+      "title_raw": "В СК назвали основным посылом воспитания формирование патриотизма с детских лет",
+      "lead_raw": "Председатель Следственного комитета России Александр Бастрыкин провел рабочую встречу с участниками СВО и ветеранами боевых действий, родными и близкими военнослужащих, а также представителями общественных организаций",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "e09565dfbb32dae62a2c90f60608abf054eb243b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27232107",
+      "published_utc": "2026-04-27T18:00:21Z",
+      "title_en": "Expert Sorokin: Moldova is assembling electronic warfare systems and drones for the Armed Forces of Ukraine",
+      "lead_en": "The country risks becoming a party to the conflict, noted the head of the Russian-Moldovan Center for Friendship and Cooperation",
+      "title_raw": "Эксперт Сорокин: Молдавия собирает системы РЭБ и дроны для ВСУ",
+      "lead_raw": "Страна рискует стать стороной конфликта, отметил руководитель Русско-молдавского центра дружбы и сотрудничества",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "448009c0a1f3c3af8cba5e3cf6ad844416f1050a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27237775",
+      "published_utc": "2026-04-27T17:57:12Z",
+      "title_en": "Flowers will be displayed on the facades of TV towers in Russian cities on May 1",
+      "lead_en": "A dynamic video depicting a blooming apple orchard will be broadcast on the media facade of the Ostankino TV tower",
+      "title_raw": "На фасадах телебашен в городах России покажут цветы 1 мая",
+      "lead_raw": "На медиафасаде Останкинской телебашни будет транслироваться динамический ролик с изображением цветущего яблоневого сада",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ccb5c74ee9a7a8d77a2328591edbe11c5c7fea3c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27237089",
+      "published_utc": "2026-04-27T17:53:58Z",
+      "title_en": "Rospotrebnadzor will help eliminate an outbreak of an unknown disease in Burundi",
+      "lead_en": "Specialists will conduct research on biomaterial samples using modern Russian test systems and reagents designed to diagnose more than 20 different infections",
+      "title_raw": "Роспотребнадзор поможет ликвидировать вспышку неизвестного заболевания в Бурунди",
+      "lead_raw": "Специалисты проведут исследования проб биоматериала с использованием современных российских тест-систем и реагентов, предназначенных для диагностики более 20 различных инфекций",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "67ff38108b7ba051251fb32dbbdc98c2a3beff19",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27237751",
+      "published_utc": "2026-04-27T17:51:46Z",
+      "title_en": "The Ministry of Education included textbooks edited by Medvedev in the federal list",
+      "lead_en": "The list is supplemented by a textbook on social studies for the 9th grade, as well as basic-level textbooks on social studies for the 10th and 11th grades, edited by the deputy chairman of the Security Council of the Russian Federation",
+      "title_raw": "Минпросвещения включило учебники под редакцией Медведева в федеральный перечень",
+      "lead_raw": "Перечень дополнен учебником по обществознанию для 9-го класса, а также учебниками базового уровня по обществознанию для 10-го и 11-го классов под редакцией зампреда Совбеза РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "759a21519b1417d540bde2d94d8b8f14452425be",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27237739",
+      "published_utc": "2026-04-27T17:51:45Z",
+      "title_en": "A festival with tasting of dishes of the peoples of Russia will be held in Adygea",
+      "lead_en": "The organizers of the event plan to pay special attention to the regional brand - Adyghe cheese",
+      "title_raw": "В Адыгее пройдет фестиваль с дегустацией блюд народов России",
+      "lead_raw": "Организаторы мероприятия планируют уделить особое внимание региональному бренду - адыгейскому сыру",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ea06a3b70b72ed1395cb9a6f0936dcf124b410e0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27237755",
+      "published_utc": "2026-04-27T17:48:38Z",
+      "title_en": "Dynamo Moscow volleyball players became Russian champions for the fifth time",
+      "lead_en": "In the final series, the blue and whites beat Zenit Kazan",
+      "title_raw": "Волейболисты московского \"Динамо\" в пятый раз стали чемпионами России",
+      "lead_raw": "В финальной серии бело-голубые переиграли казанский \"Зенит\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ec45d4156f9d4bf7c93cb0ad64875a96ac73fe9f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27237719",
+      "published_utc": "2026-04-27T17:44:26Z",
+      "title_en": "UMMC basketball players won the Russian Championship for the fourth time in a row",
+      "lead_en": "In the final, the Ekaterinburg team was stronger than Dynamo Kursk",
+      "title_raw": "Баскетболистки УГМК в четвертый раз подряд выиграли чемпионат России",
+      "lead_raw": "В финале екатеринбургская команда оказалась сильнее курского \"Динамо\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "7866cb0b0748671121cd45909e43610762d48321",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27237689",
+      "published_utc": "2026-04-27T17:40:03Z",
+      "title_en": "Snow and wind expected in central Russia on April 28",
+      "lead_en": "The air temperature will be minus 3-4 degrees at night, during the day in the northern half from 0 to plus 7 degrees, in the southern half - plus 4-11 degrees",
+      "title_raw": "В центральной части России 28 апреля ожидаются снег и ветер",
+      "lead_raw": "Температура воздуха составит ночью минус 3-4 градуса, днем в северной половине от 0 до плюс 7 градусов, в южной половине - плюс 4-11 градусов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "d8d40d60c1ea0af2023791e6d72df34dea25a298",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27236237",
+      "published_utc": "2026-04-27T17:39:25Z",
+      "title_en": "\"Autostat\" predicts an increase in sales of new passenger cars in the Russian Federation in April",
+      "lead_en": "The figure could be 115-120 thousand units",
+      "title_raw": "\"Автостат\" прогнозирует рост продаж новых легковых авто в РФ в апреле",
+      "lead_raw": "Показатель может составить 115-120 тыс. единиц",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "bce3335ef1d004476517ca51b293a234c0c62e33",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27237631",
+      "published_utc": "2026-04-27T17:24:54Z",
+      "title_en": "Miroshnik: Ukraine has no chance of getting into the EU",
+      "lead_en": "If earlier there was an appeal enshrined in the constitution, now Kyiv has no real opportunities for integration, noted the Ambassador at Large of the Russian Foreign Ministry",
+      "title_raw": "Мирошник: у Украины нет шансов попасть в ЕС",
+      "lead_raw": "Если раньше было воззвание, закрепленное в конституции, то теперь у Киева нет реальных возможностей для интеграции, отметил посол по особым поручениям МИД РФ",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "129f57a05959b03ae9ff45ad86cd3d9191d15ba3",
       "source": "TASS (EN)",
@@ -7439,297 +7935,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "0d402d2dddcccf5132db7bb23bfed32fb7dffb6e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27222137",
-      "published_utc": "2026-04-25T19:21:32Z",
-      "title_en": "Pushilin: the appearance of “green stuff” at the front benefits both the RF Armed Forces and the Armed Forces of Ukraine",
-      "lead_en": "The seasonal appearance of foliage on the line of combat contact gives the Russian military “the opportunity to move more unnoticed meter by meter,” the head of the DPR pointed out.",
-      "title_raw": "Пушилин: появление \"зеленки\" на фронте идет на пользу как ВС РФ, так и ВСУ",
-      "lead_raw": "Сезонное появление листвы на линии боевого соприкосновения дает российским военным \"возможность более незаметно перемещаться метр за метром\", указал глава ДНР",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "f0212b6ddf4d5d34b7504719c11a69f1ff6f8518",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27222109",
-      "published_utc": "2026-04-25T19:15:02Z",
-      "title_en": "Restrictions have been introduced at four Russian airports",
-      "lead_en": "We are talking about the airports of Vnukovo, Nizhny Novgorod, Cherepovets and Yaroslavl, reported the Federal Air Transport Agency.",
-      "title_raw": "В четырех российских аэропортах ввели ограничения",
-      "lead_raw": "Речь идет об аэропортах Внуково, Нижнего Новгорода, Череповца и Ярославля, сообщили в Росавиации",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "2e5f36959ae8db48cdac08d45eee15767130675c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27222057",
-      "published_utc": "2026-04-25T18:52:15Z",
-      "title_en": "Alexey Miranchuk scored a goal from a free kick in the MLS match with Toronto",
-      "lead_en": "For the Russian midfielder, this goal was the fifth in the current MLS season",
-      "title_raw": "Алексей Миранчук забил гол со штрафного в матче MLS с \"Торонто\"",
-      "lead_raw": "Для российского полузащитника этот забитый мяч стал пятым в текущем сезоне MLS",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "ccb57b7ea29e54a9fbc2988a510417ba41daf414",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27222045",
-      "published_utc": "2026-04-25T18:51:29Z",
-      "title_en": "The RFU explained the reason for canceling the Russian national team's tour of South America",
-      "lead_en": "In September 2025, RFU Secretary General Mitrofanov announced plans to organize several games with the participation of the Russian national team in South America in June 2026",
-      "title_raw": "В РФС объяснили причину отмены турне сборной России по Южной Америке",
-      "lead_raw": "В сентябре 2025 года генсек РФС Митрофанов заявлял о планах организовать несколько игр с участием российской национальной команды в Южной Америке в июне 2026 года",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "caf3f246b806741dbd79577cea64101d01e360ff",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27222023",
-      "published_utc": "2026-04-25T18:39:46Z",
-      "title_en": "Sadulayev intends to compete at the Russian Freestyle Wrestling Championship",
-      "lead_en": "The tournament will be held in Moscow from July 29 to August 2",
-      "title_raw": "Садулаев намерен выступить на чемпионате России по вольной борьбе",
-      "lead_raw": "Турнир пройдет в Москве с 29 июля по 2 августа",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "3da232172d3e9ffe75a4226f9560d5c68ffb6b68",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27222019",
-      "published_utc": "2026-04-25T18:34:55Z",
-      "title_en": "Wrestler Sadulayev said he is “hungry” for international competitions",
-      "lead_en": "The Russian athlete won the European Championship in Albania in the weight category up to 97 kg",
-      "title_raw": "Борец Садулаев заявил, что \"голоден\" до международных соревнований",
-      "lead_raw": "Российский спортсмен выиграл чемпионат Европы в Албании в весовой категории до 97 кг",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "eb458b7874595878dd09e1ea3963aa7d4dfa8f86",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/society/2122463",
-      "published_utc": "2026-04-25T18:23:57Z",
-      "title_en": "Elbe linkup anniversary marked in Beilrode, eastern Germany",
-      "lead_en": "The ceremony was attended by representatives from the Russia House in Berlin, local officials, and residents of Saxony",
-      "title_raw": "Elbe linkup anniversary marked in Beilrode, eastern Germany",
-      "lead_raw": "The ceremony was attended by representatives from the Russia House in Berlin, local officials, and residents of Saxony",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "1d0261db51c3a839165301feae70fbfaa32c0397",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27221949",
-      "published_utc": "2026-04-25T18:18:54Z",
-      "title_en": "Sadulaev won the European Freestyle Wrestling Championship for the first time since 2020",
-      "lead_en": "The Russian defeated Batyrbek Tsakulov from Slovakia in the final",
-      "title_raw": "Садулаев впервые с 2020 года выиграл чемпионат Европы по вольной борьбе",
-      "lead_raw": "Россиянин в финале победил Батырбека Цакулова из Словакии",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "2a187fe16beb0155254c56a0e0438e668c1c7184",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27221873",
-      "published_utc": "2026-04-25T18:02:53Z",
-      "title_en": "Titov called it logical to reduce the key rate of the Central Bank",
-      "lead_en": "It would be extremely strange to see a reverse process, said the special representative of the Russian President for relations with international organizations to achieve sustainable development goals",
-      "title_raw": "Титов назвал логичным снижение ключевой ставки ЦБ",
-      "lead_raw": "Видеть обратный процесс было бы крайне странно, заявил спецпредставитель президента РФ по связям с международными организациями для достижения целей устойчивого развития",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "faae0368811ae05018193d31b49016878521cbcd",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27221857",
-      "published_utc": "2026-04-25T17:58:03Z",
-      "title_en": "The anniversary of the meeting on the Elbe was celebrated in Beilrod",
-      "lead_en": "Representatives of the Russian House laid flowers at the restored monument to Soviet soldiers",
-      "title_raw": "В Байльроде отметили годовщину встречи на Эльбе",
-      "lead_raw": "Представители Русского дома возложили цветы к восстановленному памятнику советским воинам",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "948842c6150eda39c6ebc46a5107c44003bcd303",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27221849",
-      "published_utc": "2026-04-25T17:49:54Z",
-      "title_en": "Russian wrestler Usmanov became three-time European champion",
-      "lead_en": "He won the gold medal in the up to 79 kg weight category",
-      "title_raw": "Российский борец Усманов стал трехкратным чемпионом Европы",
-      "lead_raw": "Он выиграл золотую награду в весовой категории до 79 кг",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "6fed0c2fe8113808964b33b5346e1ec31da935bd",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27221819",
-      "published_utc": "2026-04-25T17:35:40Z",
-      "title_en": "Russian skier Sergei Volkov conducts a training camp in Alaska",
-      "lead_en": "The athlete was not included in the national team for the next season",
-      "title_raw": "Российский лыжник Сергей Волков проводит тренировочный сбор на Аляске",
-      "lead_raw": "Спортсмена не включили в состав национальной команды на следующий сезон",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "4378db926facf7f00f4237a428047f69866d2739",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27221797",
-      "published_utc": "2026-04-25T17:31:47Z",
-      "title_en": "Kolokoltsev: the safety of Russian tourists in the DPRK is in the area of ​​attention of the Ministry of Internal Affairs",
-      "lead_en": "The head of the department noted that the republic’s concept of policing opens up opportunities for international cooperation",
-      "title_raw": "Колокольцев: безопасность российских туристов в КНДР в зоне внимания МВД",
-      "lead_raw": "Глава ведомства отметил, что концепция республики по охране порядка открывает возможности для международного сотрудничества",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "ed33761f0ab2ca9c3b2f3897a573f88727aad21a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27221781",
-      "published_utc": "2026-04-25T17:27:24Z",
-      "title_en": "Russian Baev became a two-time European champion in freestyle wrestling",
-      "lead_en": "He excelled in the weight category up to 70 kg",
-      "title_raw": "Россиянин Баев стал двукратным чемпионом Европы по вольной борьбе",
-      "lead_raw": "Он первенствовал в весовой категории до 70 кг",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "12cd0c843ced2b59ee133ee2403580e51b18b219",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27221761",
-      "published_utc": "2026-04-25T17:23:02Z",
-      "title_en": "22 Ukrainian drones shot down over Russian regions",
-      "lead_en": "Air defense forces worked",
-      "title_raw": "Над регионами России сбили 22 украинских беспилотника",
-      "lead_raw": "Работали силы ПВО",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
