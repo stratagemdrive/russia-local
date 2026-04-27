@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-04-27T11:04:30Z",
+  "updated_at_utc": "2026-04-27T13:54:06Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 12,
   "articles": [
+    {
+      "id": "25150a4b25dae8351d856b028243e255818b3eef",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27234997",
+      "published_utc": "2026-04-27T13:14:29Z",
+      "title_en": "A child died and 31 people were injured. Consequences of bad weather in Russian regions",
+      "lead_en": "More than 76 thousand people remain without energy supply",
+      "title_raw": "Ребенок погиб, 31 человек пострадал. Последствия непогоды в российских регионах",
+      "lead_raw": "Без энергоснабжения остаются более 76 тыс. человек",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "1cc4621483f2de87bd1da8fadb6132d0563aa0a0",
       "source": "TASS (EN)",
@@ -237,28 +258,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "81d6b6390be936fdff9fe8e1823637af11955716",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27220813",
-      "published_utc": "2026-04-25T12:23:15Z",
-      "title_en": "In Kuban, the number of houses supplied with gas under the social program will exceed 100 thousand in the summer.",
-      "lead_en": "The regional authorities are implementing a gasification program on behalf of Russian President Vladimir Putin",
-      "title_raw": "На Кубани число газифицированных по соцпрограмме домов летом превысит 100 тыс.",
-      "lead_raw": "Власти региона реализуют программу догазификации по поручению президента РФ Владимира Путина",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
