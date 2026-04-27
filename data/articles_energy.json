@@ -1,9 +1,52 @@
 {
-  "updated_at_utc": "2026-04-27T08:25:39Z",
+  "updated_at_utc": "2026-04-27T11:04:30Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 11,
+  "count": 12,
   "articles": [
+    {
+      "id": "1cc4621483f2de87bd1da8fadb6132d0563aa0a0",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2122903",
+      "published_utc": "2026-04-27T10:52:45Z",
+      "title_en": "Oil purchases from Russia by India confidential — agency",
+      "lead_en": "Petroleum Planning and Analysis Cell under the Indian Ministry of Petroleum and Natural Gas refused to publish information on oil imports from Russia from June 2022 to June 2025",
+      "title_raw": "Oil purchases from Russia by India confidential — agency",
+      "lead_raw": "Petroleum Planning and Analysis Cell under the Indian Ministry of Petroleum and Natural Gas refused to publish information on oil imports from Russia from June 2022 to June 2025",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "d314bb3aa51b51c067150413f1a9a7e8a70a20b5",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2122879",
+      "published_utc": "2026-04-27T10:30:53Z",
+      "title_en": "US relations with Brussels, London increasingly unpredictable — Russian Foreign Ministry",
+      "lead_en": "Director of the First CIS Department at the Russian Foreign Ministry Mikael Agasandyan said that both the US and European countries are facing significant socio-economic challenges themselves",
+      "title_raw": "US relations with Brussels, London increasingly unpredictable — Russian Foreign Ministry",
+      "lead_raw": "Director of the First CIS Department at the Russian Foreign Ministry Mikael Agasandyan said that both the US and European countries are facing significant socio-economic challenges themselves",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "eabd7182d7568ba1529e97b9b8a15dc007672271",
       "source": "TASS (RU)",
@@ -216,28 +259,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "73247091f355045280b11e6a45641b367fad02f6",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2122399",
-      "published_utc": "2026-04-25T09:00:35Z",
-      "title_en": "Settlement in Ukraine based on coalition’s proposals nothing more than fantasy — MFA",
-      "lead_en": "Neither France nor other EU countries are currently participants in the negotiation process, the Russian Foreign Ministry said",
-      "title_raw": "Settlement in Ukraine based on coalition’s proposals nothing more than fantasy — MFA",
-      "lead_raw": "Neither France nor other EU countries are currently participants in the negotiation process, the Russian Foreign Ministry said",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
