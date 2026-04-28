@@ -1,9 +1,52 @@
 {
-  "updated_at_utc": "2026-04-28T02:54:32Z",
+  "updated_at_utc": "2026-04-28T06:07:23Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 17,
+  "count": 18,
   "articles": [
+    {
+      "id": "2d9394c9864e55c57a80d10eb8920700687abbe4",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27240629",
+      "published_utc": "2026-04-28T05:56:31Z",
+      "title_en": "Estonian Foreign Ministry: The 21st package of EU sanctions against the Russian Federation will be aimed at energy resources",
+      "lead_en": "",
+      "title_raw": "МИД Эстонии: 21-й пакет санкций ЕС против РФ будет направлен на энергоносители",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "a6614eeefb9b8ca46733ffa1fb736be7b44547ae",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/nauka/27240281",
+      "published_utc": "2026-04-28T05:02:52Z",
+      "title_en": "A way has been found to increase the efficiency of coal fuel by 10%",
+      "lead_en": "The addition of sawdust and oil lowered the temperature and accelerated the process of thermal decomposition to 26%, noted the Ministry of Education and Science of the Russian Federation",
+      "title_raw": "Найден способ повысить эффективность топлива из угля на 10%",
+      "lead_raw": "Добавление опилок и масла снизило температуру и ускорило процесс термического разложения до 26%, отметили в Минобрнауки РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "45314d9ff60de295485011ff01bf02cbf3277f37",
       "source": "TASS (RU)",
@@ -345,27 +388,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "24d7571aa59a1ec36248268ab9ff7e5c23b8a3d5",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27223601",
-      "published_utc": "2026-04-26T04:40:16Z",
-      "title_en": "The principle of defense in depth was called the basis of nuclear safety",
-      "lead_en": "This was the main result of a revision of the attitude towards protection in nuclear energy after the Chernobyl accident, according to the National Report “Forty years of the Chernobyl accident. Results and prospects for overcoming its consequences in Russia”",
-      "title_raw": "Основой атомной безопасности назвали принцип глубокоэшелонированной защиты",
-      "lead_raw": "Это стало главным результатом пересмотра отношения к защите в ядерной энергетике после чернобыльской аварии, говорится в Национальном докладе \"Сорок лет чернобыльской аварии. Итоги и перспективы преодоления ее последствий в России\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
