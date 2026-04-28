@@ -1,9 +1,71 @@
 {
-  "updated_at_utc": "2026-04-28T11:44:54Z",
+  "updated_at_utc": "2026-04-28T16:51:21Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 10,
+  "count": 11,
   "articles": [
+    {
+      "id": "63a16bfa33f290c2d7040424f79da0c1c1bbaadf",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2123707",
+      "published_utc": "2026-04-28T14:48:08Z",
+      "title_en": "IN BRIEF: What we know about consequences of drone attack on Tuapse refinery",
+      "lead_en": "On Russian President Vladimir Putin's instructions, Emergencies Minister Alexander Kurenkov flew to the Krasnodar Region to control the extinguishing of a fire at the oil refinery",
+      "title_raw": "IN BRIEF: What we know about consequences of drone attack on Tuapse refinery",
+      "lead_raw": "On Russian President Vladimir Putin's instructions, Emergencies Minister Alexander Kurenkov flew to the Krasnodar Region to control the extinguishing of a fire at the oil refinery",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "021fdfb8431328b0a2283b11c1239958735552a5",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2123663",
+      "published_utc": "2026-04-28T14:02:32Z",
+      "title_en": "Death toll in fire in Moscow building under construction up to eight",
+      "lead_en": "The Russian Investigative Committee reported that investigators and forensic experts began examining the scene",
+      "title_raw": "Death toll in fire in Moscow building under construction up to eight",
+      "lead_raw": "The Russian Investigative Committee reported that investigators and forensic experts began examining the scene",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "21e0b9586c8264b765e33da6a8560347920349d8",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/04/28/drone-debris-strikes-russian-oil-refinery-prompting-evacuation-of-nearby-residents",
+      "published_utc": "2026-04-28T11:46:35Z",
+      "title_en": "Drone debris sparks fire at Russian oil refinery, prompting evacuation of nearby residents",
+      "lead_en": "Drone debris struck an oil refinery in Tuapse in the early hours of April 28, setting it on fire, the operational headquarters of Krasnodar Krai reported.",
+      "title_raw": "Drone debris sparks fire at Russian oil refinery, prompting evacuation of nearby residents",
+      "lead_raw": "Drone debris struck an oil refinery in Tuapse in the early hours of April 28, setting it on fire, the operational headquarters of Krasnodar Krai reported.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "ccc618e6624cf9abe7c798f382535c7ae2ab0a73",
       "source": "TASS (EN)",
@@ -158,48 +220,6 @@
       "lead_raw": "Iranian Foreign Minister Abbas Araghchi planned \"to hold consultations with the Russian authorities on the current situation in the talks, the ceasefire and developments around the conflict\" in the Middle East\"",
       "topic_scores": {
         "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "145b36d3e06cf93c20efcdb5e4c30045012d7023",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/04/26/russian-parliament-speaker-thanks-north-koreas-kim-for-liberation-of-kursk-a92607",
-      "published_utc": "2026-04-26T11:58:56Z",
-      "title_en": "Russian Parliament Speaker Thanks North Korea’s Kim for ‘Liberation of Kursk'",
-      "lead_en": "A Russian delegation arrived in Pyongyang to attend the opening of a memorial complex honoring those killed while supporting Moscow's war against Ukraine.",
-      "title_raw": "Russian Parliament Speaker Thanks North Korea’s Kim for ‘Liberation of Kursk'",
-      "lead_raw": "A Russian delegation arrived in Pyongyang to attend the opening of a memorial complex honoring those killed while supporting Moscow's war against Ukraine.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "25c73597980809e0b8dce3fed09e4bcadab7988a",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/04/26/state-duma-speaker-thanks-north-koreas-kim-for-liberation-of-kursk-a92607",
-      "published_utc": "2026-04-26T11:58:00Z",
-      "title_en": "State Duma Speaker Thanks North Korea’s Kim for ‘Liberation of Kursk’",
-      "lead_en": "A Russian delegation arrived in Pyongyang to attend the opening of a memorial complex honoring those killed while supporting Moscow's war against Ukraine.",
-      "title_raw": "State Duma Speaker Thanks North Korea’s Kim for ‘Liberation of Kursk’",
-      "lead_raw": "A Russian delegation arrived in Pyongyang to attend the opening of a memorial complex honoring those killed while supporting Moscow's war against Ukraine.",
-      "topic_scores": {
-        "diplomacy": 1,
         "military": 0,
         "energy": 0,
         "economy": 0,
