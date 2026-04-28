@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-04-28T09:21:25Z",
+  "updated_at_utc": "2026-04-28T11:44:54Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 14,
+  "count": 10,
   "articles": [
+    {
+      "id": "ccc618e6624cf9abe7c798f382535c7ae2ab0a73",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2123383",
+      "published_utc": "2026-04-28T09:57:35Z",
+      "title_en": "Russian troops strike Ukrainian mobile fire group by Geran drones in Dnepropetrovsk Region",
+      "lead_en": "The strike was carried out near the city of Dneprodzerzhinsk",
+      "title_raw": "Russian troops strike Ukrainian mobile fire group by Geran drones in Dnepropetrovsk Region",
+      "lead_raw": "The strike was carried out near the city of Dneprodzerzhinsk",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "61beef340c21a5f0384e7bfef8f71c9726fdaede",
       "source": "TASS (EN)",
@@ -188,103 +209,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "b1ea5a3b1c72b37657338e3afd047ad8fe477c1e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27225143",
-      "published_utc": "2026-04-26T11:11:08Z",
-      "title_en": "The Russian National Guard called it the duty of Russians to always remember the events of Chernobyl",
-      "lead_en": "At the Mitinskoe cemetery, a memorial ceremony was held for the rendering of military honors during the laying of wreaths and flowers at the memorial to the liquidators of the Chernobyl nuclear power plant accident.",
-      "title_raw": "В Росгвардии назвали долгом россиян всегда помнить о событиях Чернобыля",
-      "lead_raw": "На Митинском кладбище прошла памятная церемония отдания воинских почестей при возложении венков и цветов к мемориалу ликвидаторам аварии на Чернобыльской АЭС",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "e4a119695222c3ce38c1186c4f0fb96841977bdf",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27224081",
-      "published_utc": "2026-04-26T11:04:27Z",
-      "title_en": "In Belarus, after the Chernobyl accident, hundreds of thousands of hectares of land were returned to economic use.",
-      "lead_en": "According to expert Sergei Zhuk, the disaster that occurred 40 years ago was the second greatest existential challenge for the Belarusian people in the 20th century after the Great Patriotic War.",
-      "title_raw": "В Белоруссии после аварии на ЧАЭС в хозоборот вернули сотни тысяч гектаров земли",
-      "lead_raw": "По словам эксперта Сергея Жука, произошедшая 40 лет назад катастрофа явилась вторым по силе после Великой Отечественной войны экзистенциальным вызовом для белорусского народа в XX веке",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "38f170e9874f02d961077b65c80e3286c7ddf567",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/interviews/27199923",
-      "published_utc": "2026-04-26T11:00:00Z",
-      "title_en": "Liquidator of the consequences of the accident at the Chernobyl nuclear power plant: for us the word “scary” is a bit strange",
-      "lead_en": "Every year on April 26, Russia and the world celebrate the Day of Remembrance for Victims of Radiation Accidents and Disasters. The memorable date is dedicated to the anniversary of the explosion at the Chernobyl nuclear power plant.",
-      "title_raw": "Ликвидатор последствий аварии на Чернобыльской АЭС: для нас слово \"страшно\" диковато",
-      "lead_raw": "Ежегодно 26 апреля в России и мире отмечают День памяти жертв радиационных аварий и катастроф. Памятная дата приурочена к годовщине взрыва на Чернобыльской АЭС.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "42b85efb36d1132a35f058780f56f17a8d5f2f42",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27224869",
-      "published_utc": "2026-04-26T10:06:29Z",
-      "title_en": "Glazyev: The Russian Federation and Belarus will continue to revive the lands affected by the Chernobyl accident",
-      "lead_en": "Moscow and Minsk are jointly carrying out measures to treat and improve the health of people living in radiation-contaminated areas, noted the State Secretary of the Union State",
-      "title_raw": "Глазьев: РФ и Белоруссия продолжат возрождать пострадавшие от чернобыльской аварии земли",
-      "lead_raw": "Москва и Минск вместе проводят мероприятия по лечению и оздоровлению людей, проживающих на радиационно загрязненных территориях, отметил государственный секретарь Союзного государства",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "2d214462d67377e2379d2ed929199a02033cd813",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/04/26/zelensky-accuses-russia-of-nuclear-terrorism-on-chernobyl-anniversary-a92605",
-      "published_utc": "2026-04-26T09:57:16Z",
-      "title_en": "Zelensky Accuses Russia of ‘Nuclear Terrorism’ on Chernobyl Anniversary",
-      "lead_en": "Ukraine marked the 40th anniversary of the Chernobyl nuclear disaster amid new deadly drone attacks by Russia.",
-      "title_raw": "Zelensky Accuses Russia of ‘Nuclear Terrorism’ on Chernobyl Anniversary",
-      "lead_raw": "Ukraine marked the 40th anniversary of the Chernobyl nuclear disaster amid new deadly drone attacks by Russia.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
