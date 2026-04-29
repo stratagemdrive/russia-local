@@ -1,9 +1,71 @@
 {
-  "updated_at_utc": "2026-04-29T05:54:56Z",
+  "updated_at_utc": "2026-04-29T08:19:47Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 15,
+  "count": 17,
   "articles": [
+    {
+      "id": "1a934ec8fb0a428d2789d4c93769ffc0ba2dc239",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/04/29/ukrainian-drones-strike-oil-facilities-in-russia-sparking-fires",
+      "published_utc": "2026-04-29T07:58:52Z",
+      "title_en": "Ukrainian drones reportedly strike oil facilities in Russia, sparking fires",
+      "lead_en": "A Ukrainian drone struck “one of the industrial sites” in the Perm municipal district and started a fire, Perm Krai Governor Dmitry Makhonin said.",
+      "title_raw": "Ukrainian drones reportedly strike oil facilities in Russia, sparking fires",
+      "lead_raw": "A Ukrainian drone struck “one of the industrial sites” in the Perm municipal district and started a fire, Perm Krai Governor Dmitry Makhonin said.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "73cbc5ce7e5c22c3c0e3b80fa9eec03fc786ec9e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27255881",
+      "published_utc": "2026-04-29T07:18:15Z",
+      "title_en": "The FSB showed footage of the arrest of a Russian who was preparing terrorist attacks in Crimea",
+      "lead_en": "They found in his possession a ready-to-use radio-controlled high-explosive fragmentation device weighing about 2 kg, as well as foreign-made explosives and components for the manufacture of two more similar devices",
+      "title_raw": "ФСБ показала кадры задержания россиянина, готовившего теракты в Крыму",
+      "lead_raw": "У него обнаружили готовое к использованию радиоуправляемое взрывное устройство осколочно-фугасного типа массой около 2 кг, а также взрывчатые вещества и комплектующие иностранного производства для изготовления еще двух аналогичных устройств",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "24b64c5c680e786c4cd06527a40cd53bc3869949",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/04/29/russia-says-burning-oil-spill-at-refinery-struck-by-ukrainian-drones-has-been-contained",
+      "published_utc": "2026-04-29T07:02:49Z",
+      "title_en": "Russia says burning oil spill at refinery struck by Ukrainian drones has been contained",
+      "lead_en": "Russia has contained the spill of burning oil that spread through Tuapse after Ukrainian drone strikes on an oil refinery there, Emergency Situations Ministry head Alexander Kurenkov said at an operational headquarters meeting in the city.",
+      "title_raw": "Russia says burning oil spill at refinery struck by Ukrainian drones has been contained",
+      "lead_raw": "Russia has contained the spill of burning oil that spread through Tuapse after Ukrainian drone strikes on an oil refinery there, Emergency Situations Ministry head Alexander Kurenkov said at an operational headquarters meeting in the city.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "cab5547f44398fd66582e238a0515b7ba90a2126",
       "source": "TASS (RU)",
@@ -293,27 +355,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "e8741b3154a66992d8b27a58a0bc64c0fa9eba3d",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/04/27/putin-signs-laws-giving-widows-and-widowers-of-fallen-russian-soldiers-free-university-enrollment-and-extending-other-war-benefits",
-      "published_utc": "2026-04-27T07:27:07Z",
-      "title_en": "Putin signs laws giving widows and widowers of fallen Russian soldiers free university enrollment and extending other war benefits",
-      "lead_en": "Russian President Vladimir Putin on April 25 signed three laws extending benefits to the families of servicemen killed in the war, seriously wounded Rosgvardiya personnel, and workers who have returned from military service.",
-      "title_raw": "Putin signs laws giving widows and widowers of fallen Russian soldiers free university enrollment and extending other war benefits",
-      "lead_raw": "Russian President Vladimir Putin on April 25 signed three laws extending benefits to the families of servicemen killed in the war, seriously wounded Rosgvardiya personnel, and workers who have returned from military service.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
