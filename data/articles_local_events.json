@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-04-29T10:56:26Z",
+  "updated_at_utc": "2026-04-29T15:13:05Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 18,
+  "count": 17,
   "articles": [
+    {
+      "id": "00f7d41c77a5e2e9746dfcb9ec5bb2bf46bdbc98",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27263075",
+      "published_utc": "2026-04-29T15:00:07Z",
+      "title_en": "Nalchik and Minsk will cooperate in the field of economics and education",
+      "lead_en": "The agreement was signed by representatives of the mayor's offices of both cities after a meeting between the head of Kabardino-Balkaria and the Ambassador Extraordinary and Plenipotentiary of the Republic of Belarus to the Russian Federation Yuri Seliverstov",
+      "title_raw": "Нальчик и Минск будут сотрудничать в области экономики и образования",
+      "lead_raw": "Соглашение подписали представители мэрий обоих городов после встречи главы Кабардино-Балкарии и чрезвычайного и полномочного посла Республики Беларусь в РФ Юрия Селиверстова",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "7816064c363684edaf3148a91041d7d8613817ba",
       "source": "TASS (RU)",
@@ -332,48 +353,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "3e0191705b4039c02119d93b12a6dccca281bb8d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2123019",
-      "published_utc": "2026-04-27T13:06:51Z",
-      "title_en": "Russian troops in Tajikistan thwart mock enemy act of sabotage against Russian base",
-      "lead_en": "During the exercise, personnel practiced covert movement between firing positions, firing from various positions and cover, and engaging in crossfire",
-      "title_raw": "Russian troops in Tajikistan thwart mock enemy act of sabotage against Russian base",
-      "lead_raw": "During the exercise, personnel practiced covert movement between firing positions, firing from various positions and cover, and engaging in crossfire",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "cf274f46c6110019643deda3d024b2817139c50b",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/04/27/putin-fires-head-of-russias-cultural-diplomacy-agency-a92614",
-      "published_utc": "2026-04-27T12:04:00Z",
-      "title_en": "Putin Fires Head of Russia’s Cultural Diplomacy Agency",
-      "lead_en": "Igor Chaika, the son of Russia’s former chief prosecutor, replaced Yevgeny Primakov as the head of Rossotrudnichestvo.",
-      "title_raw": "Putin Fires Head of Russia’s Cultural Diplomacy Agency",
-      "lead_raw": "Igor Chaika, the son of Russia’s former chief prosecutor, replaced Yevgeny Primakov as the head of Rossotrudnichestvo.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
