@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-04-28T23:01:18Z",
+  "updated_at_utc": "2026-04-29T02:52:42Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 14,
   "articles": [
+    {
+      "id": "baa835bcbca2d7b359dfe728979b28b7f021edd4",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/04/29/ukrainian-drone-strike-on-russian-port-causes-fire-toxic-smoke-as-locals-fault-officials-for-withholding-public-health-information",
+      "published_utc": "2026-04-28T23:34:46Z",
+      "title_en": "Ukrainian drone strike on Russian port causes fire, toxic smoke as locals fault officials for withholding public health information",
+      "lead_en": "Ukrainian drones struck the oil-loading infrastructure at the port of Tuapse overnight, sparking a large fire after debris fell at the site. The Krasnodar Krai operational headquarters said no one was injured.",
+      "title_raw": "Ukrainian drone strike on Russian port causes fire, toxic smoke as locals fault officials for withholding public health information",
+      "lead_raw": "Ukrainian drones struck the oil-loading infrastructure at the port of Tuapse overnight, sparking a large fire after debris fell at the site. The Krasnodar Krai operational headquarters said no one was injured.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "0fda22ddb15a4dee89a14b272ec2a653aea62ce1",
       "source": "Meduza (EN)",
@@ -273,27 +295,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "d393e227c2074a5353e0d35b5eaab854ca66115c",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2122709",
-      "published_utc": "2026-04-27T02:20:00Z",
-      "title_en": "Top Iranian diplomat to visit Russia on Monday, meet with Putin",
-      "lead_en": "Iranian Foreign Minister Abbas Araghchi planned \"to hold consultations with the Russian authorities on the current situation in the talks, the ceasefire and developments around the conflict\" in the Middle East\"",
-      "title_raw": "Top Iranian diplomat to visit Russia on Monday, meet with Putin",
-      "lead_raw": "Iranian Foreign Minister Abbas Araghchi planned \"to hold consultations with the Russian authorities on the current situation in the talks, the ceasefire and developments around the conflict\" in the Middle East\"",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
