@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-04-30T21:01:05Z",
+  "updated_at_utc": "2026-04-30T22:53:07Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 32,
+  "count": 31,
   "articles": [
+    {
+      "id": "cb733321aa4972143a2e7eb6d636fc79ca8ab287",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2125251",
+      "published_utc": "2026-04-30T21:43:00Z",
+      "title_en": "Two teens killed in Ukrainian drone attack on Russia’s Belgorod Region",
+      "lead_en": "Governor Vyacheslav Gladkov conveyed his condolences to their families and friends",
+      "title_raw": "Two teens killed in Ukrainian drone attack on Russia’s Belgorod Region",
+      "lead_raw": "Governor Vyacheslav Gladkov conveyed his condolences to their families and friends",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "c4f1f57f7cb474a18a54124d1d949e66ddd5bc1c",
       "source": "TASS (EN)",
@@ -596,50 +615,6 @@
         "local_events"
       ],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "0fda22ddb15a4dee89a14b272ec2a653aea62ce1",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/04/29/boiling-oil-spills-onto-street-outside-russian-refinery-after-drone-strike-ignites-storage-tank",
-      "published_utc": "2026-04-28T22:22:01Z",
-      "title_en": "Boiling oil spills onto street outside Russian refinery after drone strike ignites storage tank",
-      "lead_en": "Boiling oil spilled onto a street outside an oil refinery in Tuapse, Krasnodar Krai, after a storage tank boiled over during a fire there on April 28. Alexei Klushin, head of the regional Emergency Situations Ministry office, described the incident to Governor Veniamin Kondratyev in a conversation posted to the governor’s Telegram channel.",
-      "title_raw": "Boiling oil spills onto street outside Russian refinery after drone strike ignites storage tank",
-      "lead_raw": "Boiling oil spilled onto a street outside an oil refinery in Tuapse, Krasnodar Krai, after a storage tank boiled over during a fire there on April 28. Alexei Klushin, head of the regional Emergency Situations Ministry office, described the incident to Governor Veniamin Kondratyev in a conversation posted to the governor’s Telegram channel.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "energy",
-        "local_events"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e55d5d3cbea800e2f8b9777fac6a9847c1549ae3",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/04/29/ukrainian-strikes-on-russian-oil-refinery-send-smoke-across-black-sea-coast-as-state-of-emergency-is-declared",
-      "published_utc": "2026-04-28T21:14:44Z",
-      "title_en": "Ukrainian strikes on Russian oil refinery send smoke across Black Sea coast as state of emergency is declared",
-      "lead_en": "In the early hours of April 28, Ukrainian forces struck the oil infrastructure in Tuapse for the third time in two weeks. The first fire at the oil terminal burned for four days before it was extinguished.",
-      "title_raw": "Ukrainian strikes on Russian oil refinery send smoke across Black Sea coast as state of emergency is declared",
-      "lead_raw": "In the early hours of April 28, Ukrainian forces struck the oil infrastructure in Tuapse for the third time in two weeks. The first fire at the oil terminal burned for four days before it was extinguished.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "energy",
-        "local_events"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
