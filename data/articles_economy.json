@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-04-30T19:21:40Z",
+  "updated_at_utc": "2026-04-30T21:01:05Z",
   "keep_hours": 48,
   "topic": "economy",
   "count": 104,
   "articles": [
+    {
+      "id": "8dc02244a25f237c883d7c9eb1098f818d0b6911",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27280667",
+      "published_utc": "2026-04-30T20:16:38Z",
+      "title_en": "Georgia explains Western threats to the country",
+      "lead_en": "Secretary General of the ruling Georgian Dream - Democratic Georgia party Kakha Kaladze said that Western countries are spreading false threats due to the fact that the republic has not joined sanctions against Russia",
+      "title_raw": "В Грузии объяснили угрозы Запада в адрес страны",
+      "lead_raw": "Генеральный секретарь правящей партии \"Грузинская мечта - Демократическая Грузия\" Каха Каладзе заявил, что страны Запада распространяют лживые угрозы из-за того, что республика не присоединилась к санкциям против России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
     {
       "id": "c1ab5d2812d94d1ac4ee75a722620cfceb98c5fb",
       "source": "TASS (RU)",
@@ -2084,28 +2103,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "b9e4b760bd85da73b331edd767c14def28ef7edb",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27252499",
-      "published_utc": "2026-04-28T20:43:24Z",
-      "title_en": "Zakharova: Russia plans to increase oil exports to India",
-      "lead_en": "This corresponds to the interests of both countries, noted the official representative of the Ministry of Foreign Affairs",
-      "title_raw": "Захарова: Россия планирует наращивать экспорт нефти в Индию",
-      "lead_raw": "Это соответствует интересам обеих стран, отметила официальный представитель МИД",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
