@@ -1,9 +1,87 @@
 {
-  "updated_at_utc": "2026-04-30T11:27:47Z",
+  "updated_at_utc": "2026-04-30T13:55:30Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 31,
+  "count": 34,
   "articles": [
+    {
+      "id": "23def1fb01f4af5fde2a55096d977190f233e949",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2125051",
+      "published_utc": "2026-04-30T13:51:05Z",
+      "title_en": "Russia needs no reaction from Kiev to Putin’s proposed V-Day ceasefire — Kremlin",
+      "lead_en": "\"It was a decision made by the Russian president and it will be observed,\" Dmitry Peskov stressed",
+      "title_raw": "Russia needs no reaction from Kiev to Putin’s proposed V-Day ceasefire — Kremlin",
+      "lead_raw": "\"It was a decision made by the Russian president and it will be observed,\" Dmitry Peskov stressed",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "61b985bb2c87e6c10af73685ceaed220af1eeba7",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/04/30/kremlin-says-ukraine-s-agreement-not-needed-for-victory-day-ceasefire-putin-has-decided-and-it-will-happen",
+      "published_utc": "2026-04-30T13:20:03Z",
+      "title_en": "Kremlin says Ukraine’s agreement not needed for Victory Day ceasefire — Putin has decided and it will happen",
+      "lead_en": "Russia will halt hostilities for Victory Day whether or not Ukraine agrees to a temporary ceasefire, Kremlin spokesman Dmitry Peskov said at a press briefing on April 30.",
+      "title_raw": "Kremlin says Ukraine’s agreement not needed for Victory Day ceasefire — Putin has decided and it will happen",
+      "lead_raw": "Russia will halt hostilities for Victory Day whether or not Ukraine agrees to a temporary ceasefire, Kremlin spokesman Dmitry Peskov said at a press briefing on April 30.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "9a13cd3cf0864345afd3933c5095574a02da9db1",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/04/30/zelensky-says-ukraine-wants-a-long-term-ceasefire-not-a-few-hours-of-safety-for-a-parade-in-moscow",
+      "published_utc": "2026-04-30T12:14:21Z",
+      "title_en": "Zelensky says Ukraine wants a long-term ceasefire, not ‘a few hours of safety for a parade in Moscow’",
+      "lead_en": "Volodymyr Zelensky said he had directed his team to reach out to the U.S. president’s staff to learn the details of Russia’s Victory Day ceasefire proposal.",
+      "title_raw": "Zelensky says Ukraine wants a long-term ceasefire, not ‘a few hours of safety for a parade in Moscow’",
+      "lead_raw": "Volodymyr Zelensky said he had directed his team to reach out to the U.S. president’s staff to learn the details of Russia’s Victory Day ceasefire proposal.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "da5c8bad260a68e6777fb2466865c2af8946cef7",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2124921",
+      "published_utc": "2026-04-30T11:41:23Z",
+      "title_en": "Putin-Trump conversation, Victory Day ceasefire, economy: key topics of Peskov’s briefing",
+      "lead_en": "Dmitry Peskov said that the Russian president will announce the dates of the Victory Day ceasefire later",
+      "title_raw": "Putin-Trump conversation, Victory Day ceasefire, economy: key topics of Peskov’s briefing",
+      "lead_raw": "Dmitry Peskov said that the Russian president will announce the dates of the Victory Day ceasefire later",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
     {
       "id": "0cd55642fc741e94e8675bcbcb3b5340a5dc9951",
       "source": "TASS (EN)",
@@ -604,28 +682,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "21e0b9586c8264b765e33da6a8560347920349d8",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/04/28/drone-debris-strikes-russian-oil-refinery-prompting-evacuation-of-nearby-residents",
-      "published_utc": "2026-04-28T11:46:35Z",
-      "title_en": "Drone debris sparks fire at Russian oil refinery, prompting evacuation of nearby residents",
-      "lead_en": "Drone debris struck an oil refinery in Tuapse in the early hours of April 28, setting it on fire, the operational headquarters of Krasnodar Krai reported.",
-      "title_raw": "Drone debris sparks fire at Russian oil refinery, prompting evacuation of nearby residents",
-      "lead_raw": "Drone debris struck an oil refinery in Tuapse in the early hours of April 28, setting it on fire, the operational headquarters of Krasnodar Krai reported.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "energy",
-        "local_events"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
