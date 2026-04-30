@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-04-30T13:55:30Z",
+  "updated_at_utc": "2026-04-30T15:47:51Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 34,
+  "count": 33,
   "articles": [
+    {
+      "id": "c4f1f57f7cb474a18a54124d1d949e66ddd5bc1c",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2125069",
+      "published_utc": "2026-04-30T13:55:41Z",
+      "title_en": "Kremlin comments on potential timeframes of Victory Day ceasefire",
+      "lead_en": "Russia last announced a ceasefire for the Easter weekend",
+      "title_raw": "Kremlin comments on potential timeframes of Victory Day ceasefire",
+      "lead_raw": "Russia last announced a ceasefire for the Easter weekend",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "23def1fb01f4af5fde2a55096d977190f233e949",
       "source": "TASS (EN)",
@@ -642,46 +661,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "63a16bfa33f290c2d7040424f79da0c1c1bbaadf",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2123707",
-      "published_utc": "2026-04-28T14:48:08Z",
-      "title_en": "IN BRIEF: What we know about consequences of drone attack on Tuapse refinery",
-      "lead_en": "On Russian President Vladimir Putin's instructions, Emergencies Minister Alexander Kurenkov flew to the Krasnodar Region to control the extinguishing of a fire at the oil refinery",
-      "title_raw": "IN BRIEF: What we know about consequences of drone attack on Tuapse refinery",
-      "lead_raw": "On Russian President Vladimir Putin's instructions, Emergencies Minister Alexander Kurenkov flew to the Krasnodar Region to control the extinguishing of a fire at the oil refinery",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "021fdfb8431328b0a2283b11c1239958735552a5",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2123663",
-      "published_utc": "2026-04-28T14:02:32Z",
-      "title_en": "Death toll in fire in Moscow building under construction up to eight",
-      "lead_en": "The Russian Investigative Committee reported that investigators and forensic experts began examining the scene",
-      "title_raw": "Death toll in fire in Moscow building under construction up to eight",
-      "lead_raw": "The Russian Investigative Committee reported that investigators and forensic experts began examining the scene",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }

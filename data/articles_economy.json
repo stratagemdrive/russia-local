@@ -1,15 +1,116 @@
 {
-  "updated_at_utc": "2026-04-30T13:55:30Z",
+  "updated_at_utc": "2026-04-30T15:47:51Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 100,
+  "count": 104,
   "articles": [
+    {
+      "id": "3bbb6c57bc9de12afcdeb90bc3244404648cd5eb",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2125141",
+      "published_utc": "2026-04-30T15:32:20Z",
+      "title_en": "EU threatens sanctions on third countries for importing grain from Donbass, Novorossiya",
+      "lead_en": "The European Commission’s Spokesperson Anouar El Anouni reiterated the position of the EU’s executive arm that he had said remained steadfast in \"pressuring Russia\"",
+      "title_raw": "EU threatens sanctions on third countries for importing grain from Donbass, Novorossiya",
+      "lead_raw": "The European Commission’s Spokesperson Anouar El Anouni reiterated the position of the EU’s executive arm that he had said remained steadfast in \"pressuring Russia\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "d307f26cdbf251c359493071ac147fa0aeed4596",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27278493",
+      "published_utc": "2026-04-30T15:16:31Z",
+      "title_en": "Exports from South Ossetia to the Russian Federation increased by more than 30% over the year",
+      "lead_en": "New enterprises that work for export are appearing in the republic, noted the region’s trade representative in the Russian Federation, Taimuraz Goginov.",
+      "title_raw": "Экспорт из Южной Осетии в РФ вырос более чем на 30% за год",
+      "lead_raw": "В республике появляются новые предприятия, которые работают на экспорт, отметил торговый представитель региона в РФ Таймураз Гогинов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "2157d3ac00d00d4ab894701a49f92b078c2a0bcc",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27278119",
+      "published_utc": "2026-04-30T15:14:47Z",
+      "title_en": "Novak: private investment in the North Caucasus reached 800 billion rubles in 2025",
+      "lead_en": "According to the Deputy Prime Minister of the Russian Federation, investment activity in the macroregion continues to grow",
+      "title_raw": "Новак: частные инвестиции на Северном Кавказе достигли 800 млрд рублей в 2025 году",
+      "lead_raw": "По словам вице-премьера РФ, инвестиционная активность в макрорегионе продолжает расти",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "b250891decc43db009aba7fad98eee854e6f3ac5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27278297",
+      "published_utc": "2026-04-30T14:55:59Z",
+      "title_en": "Nebenzya: UN Security Council sanctions against North Korea have lost their relevance",
+      "lead_en": "According to the permanent representative of the Russian Federation to the world organization, history has clearly shown that the UN Security Council sanctions regime against Pyongyang is counterproductive",
+      "title_raw": "Небензя: санкции СБ ООН против КНДР утратили свою актуальность",
+      "lead_raw": "По словам постоянного представителя РФ при всемирной организации, история наглядно показала, что санкционный режим Совета Безопасности ООН в отношении Пхеньяна контрпродуктивен",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "003447f6009ad4af701ee9aac6d897efd4477fd7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27278029",
+      "published_utc": "2026-04-30T14:36:44Z",
+      "title_en": "EC: EU promises sanctions against third countries for grain purchases in Donbass and Novorossiya",
+      "lead_en": "Representative of the European Commission Anwar al-Anuni emphasized that “one of the ambassadors of the EU countries also addressed the Israeli Foreign Ministry on this issue.”",
+      "title_raw": "ЕК: ЕС обещает санкции против третьих стран за закупки зерна в Донбассе и Новороссии",
+      "lead_raw": "Представитель Еврокомиссии Анвар аль-Ануни подчеркнул, что \"один из послов стран ЕС также обратился по этому вопросу к МИД Израиля\"",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "56612fa994f326289dee79672c99c85f12b6f22d",
       "source": "TASS (RU)",
       "url": "https://tass.ru/ekonomika/27277399",
       "published_utc": "2026-04-30T13:36:20Z",
-      "title_en": "Novak: the total volume of investments in the regions of the North Caucasian Federal District in 2025 amounted to 1.4 trillion rubles",
+      "title_en": "Novak: the total volume of investments in the regions of the North Caucasus Federal District in 2025 amounted to 1.4 trillion rubles",
       "lead_en": "Deputy Prime Minister of the Russian Federation noted high potential",
       "title_raw": "Новак: общий объем инвестиций в регионах СКФО в 2025 году составил 1,4 трлн рублей",
       "lead_raw": "Вице-премьер РФ отметил высокий потенциал",
@@ -1997,27 +2098,6 @@
       },
       "topics": [],
       "primary_topic": "economy"
-    },
-    {
-      "id": "f182142606adc374e83f2ba243253d3715b16e26",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2123653",
-      "published_utc": "2026-04-28T13:56:27Z",
-      "title_en": "US bars Russian representative from participating in pre-G20 summit events — Russian MFA",
-      "lead_en": "Speaking at a meeting of the International Council for Cooperation and Investment, the diplomat said that \"the Americans had made a technical error\"",
-      "title_raw": "US bars Russian representative from participating in pre-G20 summit events — Russian MFA",
-      "lead_raw": "Speaking at a meeting of the International Council for Cooperation and Investment, the diplomat said that \"the Americans had made a technical error\"",
-      "topic_scores": {
-        "diplomacy": 3,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
