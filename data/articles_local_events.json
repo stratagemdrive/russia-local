@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-05-01T06:36:11Z",
+  "updated_at_utc": "2026-05-01T09:00:43Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 30,
+  "count": 28,
   "articles": [
+    {
+      "id": "3004c0ad8a2e532e24476916a75ad4f6844cd133",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27282537",
+      "published_utc": "2026-05-01T06:48:54Z",
+      "title_en": "Underground: The Russian Armed Forces hit the Okean unmanned boat plant in Nikolaev",
+      "lead_en": "The attack hit the workshop where BECs are armed, so the explosion was powerful, said Sergei Lebedev, coordinator of the Nikolaev underground",
+      "title_raw": "Подполье: ВС РФ ударили по заводу безэкипажных катеров \"Океан\" в Николаеве",
+      "lead_raw": "Атака пришлась по цеху, где БЭКи вооружают, поэтому взрыв был мощным, рассказал координатор николаевского подполья Сергей Лебедев",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "f831b5ba96cc962ef21ddb12218e4c46fa190a16",
       "source": "TASS (RU)",
@@ -531,68 +552,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "1a934ec8fb0a428d2789d4c93769ffc0ba2dc239",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/04/29/ukrainian-drones-strike-oil-facilities-in-russia-sparking-fires",
-      "published_utc": "2026-04-29T07:58:52Z",
-      "title_en": "Ukrainian drones reportedly strike oil facilities in Russia, sparking fires",
-      "lead_en": "A Ukrainian drone struck “one of the industrial sites” in the Perm municipal district and started a fire, Perm Krai Governor Dmitry Makhonin said.",
-      "title_raw": "Ukrainian drones reportedly strike oil facilities in Russia, sparking fires",
-      "lead_raw": "A Ukrainian drone struck “one of the industrial sites” in the Perm municipal district and started a fire, Perm Krai Governor Dmitry Makhonin said.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "73cbc5ce7e5c22c3c0e3b80fa9eec03fc786ec9e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27255881",
-      "published_utc": "2026-04-29T07:18:15Z",
-      "title_en": "The FSB showed footage of the arrest of a Russian who was preparing terrorist attacks in Crimea",
-      "lead_en": "They found in his possession a ready-to-use radio-controlled high-explosive fragmentation device weighing about 2 kg, as well as foreign-made explosives and components for the manufacture of two more similar devices",
-      "title_raw": "ФСБ показала кадры задержания россиянина, готовившего теракты в Крыму",
-      "lead_raw": "У него обнаружили готовое к использованию радиоуправляемое взрывное устройство осколочно-фугасного типа массой около 2 кг, а также взрывчатые вещества и комплектующие иностранного производства для изготовления еще двух аналогичных устройств",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "24b64c5c680e786c4cd06527a40cd53bc3869949",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/04/29/russia-says-burning-oil-spill-at-refinery-struck-by-ukrainian-drones-has-been-contained",
-      "published_utc": "2026-04-29T07:02:49Z",
-      "title_en": "Russia says burning oil spill at refinery struck by Ukrainian drones has been contained",
-      "lead_en": "Russia has contained the spill of burning oil that spread through Tuapse after Ukrainian drone strikes on an oil refinery there, Emergency Situations Ministry head Alexander Kurenkov said at an operational headquarters meeting in the city.",
-      "title_raw": "Russia says burning oil spill at refinery struck by Ukrainian drones has been contained",
-      "lead_raw": "Russia has contained the spill of burning oil that spread through Tuapse after Ukrainian drone strikes on an oil refinery there, Emergency Situations Ministry head Alexander Kurenkov said at an operational headquarters meeting in the city.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
