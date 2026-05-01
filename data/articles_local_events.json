@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-05-01T09:00:43Z",
+  "updated_at_utc": "2026-05-01T13:18:50Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 28,
   "articles": [
+    {
+      "id": "43fbd83b5471fe26a6e8c6f8f7efa2a39fdf31a5",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/05/01/8-trapped-after-permafrost-thaw-triggers-coal-mine-collapse-in-russias-far-east-a92659",
+      "published_utc": "2026-05-01T10:25:39Z",
+      "title_en": "8 Trapped After Permafrost Thaw Triggers Coal Mine Collapse in Russia’s Far East",
+      "lead_en": "The CEO of the mining company that operates the site said the accident was likely caused by the thawing of a “lens” — a localized underground pocket of ice or unstable rock.",
+      "title_raw": "8 Trapped After Permafrost Thaw Triggers Coal Mine Collapse in Russia’s Far East",
+      "lead_raw": "The CEO of the mining company that operates the site said the accident was likely caused by the thawing of a “lens” — a localized underground pocket of ice or unstable rock.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "3004c0ad8a2e532e24476916a75ad4f6844cd133",
       "source": "TASS (RU)",
@@ -533,25 +555,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "7816064c363684edaf3148a91041d7d8613817ba",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27258799",
-      "published_utc": "2026-04-29T10:17:07Z",
-      "title_en": "Peskov: Kurenkov gave all assessments of the situation in Tuapse",
-      "lead_en": "The Russian leader's press secretary called the head of the Ministry of Emergency Situations \"the most competent person in this case\"",
-      "title_raw": "Песков: Куренков дал все оценки ситуации в Туапсе",
-      "lead_raw": "Пресс-секретарь российского лидера назвал главу МЧС \"наиболее компетентным человеком в данном случае\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
