@@ -1,9 +1,72 @@
 {
-  "updated_at_utc": "2026-05-01T23:52:29Z",
+  "updated_at_utc": "2026-05-02T02:41:57Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 56,
+  "count": 57,
   "articles": [
+    {
+      "id": "3dc6b1c0747eb1d718bea58f82b906e2b3dd1805",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27287417",
+      "published_utc": "2026-05-02T01:42:50Z",
+      "title_en": "Dmitriev warned of a deadly blow to EU industry",
+      "lead_en": "As the special representative of the Russian President explained, this will be caused by the energy crisis and high tariffs by US President Donald Trump on cars and trucks imported from the European Union",
+      "title_raw": "Дмитриев предупредил о смертельном ударе по промышленности ЕС",
+      "lead_raw": "Как пояснил спецпредставитель президента РФ, к этому приведут энергетический кризис и высокие тарифы президента США Дональда Трампа на автомобили и грузовики, импортируемые из Евросоюза",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "7dd58b7111d5c652d82b2029a44c3617a7eeccff",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27287227",
+      "published_utc": "2026-05-02T00:30:34Z",
+      "title_en": "The difference between average pensions in Russian regions exceeded 23 thousand rubles",
+      "lead_en": "The highest average pension in the country is noted in Chukotka, the lowest - in Dagestan",
+      "title_raw": "Разница между средними пенсиями в регионах России превысила 23 тыс. рублей",
+      "lead_raw": "Наибольшая средняя пенсия в стране отмечена на Чукотке, наиболее низкая - в Дагестане",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "ac83e80053ad83b71045a008565f55ebc7ec6629",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27287147",
+      "published_utc": "2026-05-02T00:00:30Z",
+      "title_en": "Miroshnik called sanctions against Lukashenko’s sons Zelensky’s trick",
+      "lead_en": "Vladimir Zelensky did this out of powerlessness, said the Ambassador at Large of the Russian Foreign Ministry",
+      "title_raw": "Мирошник назвал санкции против сыновей Лукашенко выходкой Зеленского",
+      "lead_raw": "Владимир Зеленский пошел на это от бессилия, заявил посол по особым поручениям МИД России",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "6ca163c8d3521d828c62f7e699693e18f86898b5",
       "source": "RT",
@@ -1097,46 +1160,6 @@
         "economy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "ef65d36f06f354afd3b6d3efc8d0bb640cc616f4",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2124587",
-      "published_utc": "2026-04-30T02:20:42Z",
-      "title_en": "Finland to be legitimate target for Russian missile forces if it imports nuke arms",
-      "lead_en": "Sergey Lipovoy, chairman of the Officers of Russia organization, said that the \"NATO leadership is currently trying to drag Finland into an arms race it does not need\"",
-      "title_raw": "Finland to be legitimate target for Russian missile forces if it imports nuke arms",
-      "lead_raw": "Sergey Lipovoy, chairman of the Officers of Russia organization, said that the \"NATO leadership is currently trying to drag Finland into an arms race it does not need\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "1a47599467467999bd27009de2fc3be2ad3957b5",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27267685",
-      "published_utc": "2026-04-30T01:34:50Z",
-      "title_en": "Mironov proposed doubling expenses to increase the birth rate",
-      "lead_en": "According to the chairman of the A Just Russia party, the costs of implementing such programs should be 3% of GDP",
-      "title_raw": "Миронов предложил в два раза увеличить расходы для повышения рождаемости",
-      "lead_raw": "По мнению председателя партии \"Справедливая Россия\", затраты на реализацию таких программ должны составлять 3% ВВП",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
     }
   ]
 }
