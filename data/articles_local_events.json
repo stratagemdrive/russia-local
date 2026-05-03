@@ -1,8 +1,8 @@
 {
-  "updated_at_utc": "2026-05-03T15:47:21Z",
+  "updated_at_utc": "2026-05-03T16:51:23Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 10,
+  "count": 9,
   "articles": [
     {
       "id": "a109f6bc424d46961d476972018eeca6781465a5",
@@ -83,6 +83,28 @@
       "primary_topic": "energy"
     },
     {
+      "id": "50a2cb3485d6c4616c4706de70bb874d517557ec",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/05/03/ukraine-hits-russian-oil-sites-as-8-killed-in-both-countries-a92667",
+      "published_utc": "2026-05-03T07:37:00Z",
+      "title_en": "Ukraine Hits Russian Oil Sites as 8 Killed in Both Countries",
+      "lead_en": "Ukraine said Sunday it had hit several Russian ships as both sides fired hundreds of drones.",
+      "title_raw": "Ukraine Hits Russian Oil Sites as 8 Killed in Both Countries",
+      "lead_raw": "Ukraine said Sunday it had hit several Russian ships as both sides fired hundreds of drones.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
       "id": "32547515b3167b374cf4b33d55ba3e9648684831",
       "source": "TASS (RU)",
       "url": "https://tass.ru/obschestvo/27292629",
@@ -161,48 +183,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "2e07355b3414cab6fcc90d42dc6224f1d31e907c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27285961",
-      "published_utc": "2026-05-01T16:46:09Z",
-      "title_en": "TASS: The bodies of Ukrainian Armed Forces soldiers are rotting in black bags due to a lack of evacuation means",
-      "lead_en": "The servicemen themselves are listed as missing, Russian security forces said.",
-      "title_raw": "ТАСС: тела солдат ВСУ гниют в черных пакетах из-за нехватки средств эвакуации",
-      "lead_raw": "Сами военнослужащие числятся пропавшими без вести, заявили в российских силовых структурах",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "b7c34a315e40db0311b026ea43118fa0fb7358b1",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2125385",
-      "published_utc": "2026-05-01T15:51:28Z",
-      "title_en": "Number of those injured in hard landing helicopter incident in Russia’s Usinsk rises to 10",
-      "lead_en": "Rosaviatsiya defined the accident as a crash",
-      "title_raw": "Number of those injured in hard landing helicopter incident in Russia’s Usinsk rises to 10",
-      "lead_raw": "Rosaviatsiya defined the accident as a crash",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
     }
   ]
 }

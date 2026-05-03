@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-05-03T15:47:21Z",
+  "updated_at_utc": "2026-05-03T16:51:23Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 22,
@@ -152,6 +152,28 @@
         "energy"
       ],
       "primary_topic": "energy"
+    },
+    {
+      "id": "50a2cb3485d6c4616c4706de70bb874d517557ec",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/05/03/ukraine-hits-russian-oil-sites-as-8-killed-in-both-countries-a92667",
+      "published_utc": "2026-05-03T07:37:00Z",
+      "title_en": "Ukraine Hits Russian Oil Sites as 8 Killed in Both Countries",
+      "lead_en": "Ukraine said Sunday it had hit several Russian ships as both sides fired hundreds of drones.",
+      "title_raw": "Ukraine Hits Russian Oil Sites as 8 Killed in Both Countries",
+      "lead_raw": "Ukraine said Sunday it had hit several Russian ships as both sides fired hundreds of drones.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
     },
     {
       "id": "2d674797569cb4c8733c26bf393061f1aad9dd82",
@@ -454,27 +476,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "dbe0d593b75e8db73904175c3dbdf293d0785b6f",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2125383",
-      "published_utc": "2026-05-01T15:49:25Z",
-      "title_en": "Japan purchases Russian oil amid situation in Hormuz Strait — TASS reporter",
-      "lead_en": "The oil tanker Voyager is expected to arrive at the port of Kikuma on Shikoku Island where a Taiyo Oil refinery is located on May 3",
-      "title_raw": "Japan purchases Russian oil amid situation in Hormuz Strait — TASS reporter",
-      "lead_raw": "The oil tanker Voyager is expected to arrive at the port of Kikuma on Shikoku Island where a Taiyo Oil refinery is located on May 3",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
