@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-05-03T06:05:42Z",
+  "updated_at_utc": "2026-05-03T08:46:08Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 9,
   "articles": [
+    {
+      "id": "1ab4c51c3fe71cf68f4eff659ba828934886562b",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/05/03/4-killed-oil-tankers-hit-in-russian-and-ukrainian-drone-strikes-a92667",
+      "published_utc": "2026-05-03T07:37:45Z",
+      "title_en": "4 Killed, Oil Tankers Hit in Russian and Ukrainian Drone Strikes",
+      "lead_en": "Russian drone strikes on Ukraine killed three people, while Ukrainian attacks killed one near Moscow.",
+      "title_raw": "4 Killed, Oil Tankers Hit in Russian and Ukrainian Drone Strikes",
+      "lead_raw": "Russian drone strikes on Ukraine killed three people, while Ukrainian attacks killed one near Moscow.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "32547515b3167b374cf4b33d55ba3e9648684831",
       "source": "TASS (RU)",
@@ -166,27 +187,6 @@
         "local_events"
       ],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "3004c0ad8a2e532e24476916a75ad4f6844cd133",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27282537",
-      "published_utc": "2026-05-01T06:48:54Z",
-      "title_en": "Underground: The Russian Armed Forces hit the Okean unmanned boat plant in Nikolaev",
-      "lead_en": "The attack hit the workshop where BECs are armed, so the explosion was powerful, said Sergei Lebedev, coordinator of the Nikolaev underground",
-      "title_raw": "Подполье: ВС РФ ударили по заводу безэкипажных катеров \"Океан\" в Николаеве",
-      "lead_raw": "Атака пришлась по цеху, где БЭКи вооружают, поэтому взрыв был мощным, рассказал координатор николаевского подполья Сергей Лебедев",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
