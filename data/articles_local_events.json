@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-05-03T10:04:29Z",
+  "updated_at_utc": "2026-05-03T11:42:04Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 11,
   "articles": [
+    {
+      "id": "a109f6bc424d46961d476972018eeca6781465a5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27294345",
+      "published_utc": "2026-05-03T11:37:31Z",
+      "title_en": "The OP told where to complain about barbecue violators",
+      "lead_en": "You can complain about them to the Ministry of Emergency Situations or call the police, said Evgeny Masharov, a member of the Commission of the Public Chamber of the Russian Federation for public examination of bills and other regulations.",
+      "title_raw": "В ОП рассказали, куда жаловаться на мангальщиков-нарушителей",
+      "lead_raw": "На них можно пожаловаться в МЧС или вызвать полицию, сообщил член комиссии Общественной палаты РФ по общественной экспертизе законопроектов и иных нормативных актов Евгений Машаров",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "2740db1461067d7d58b1a812d84c1debb18ed3fe",
       "source": "TASS (EN)",
@@ -202,28 +221,6 @@
         "local_events": 1
       },
       "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "43fbd83b5471fe26a6e8c6f8f7efa2a39fdf31a5",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/05/01/8-trapped-after-permafrost-thaw-triggers-coal-mine-collapse-in-russias-far-east-a92659",
-      "published_utc": "2026-05-01T10:25:39Z",
-      "title_en": "8 Trapped After Permafrost Thaw Triggers Coal Mine Collapse in Russia’s Far East",
-      "lead_en": "The CEO of the mining company that operates the site said the accident was likely caused by the thawing of a “lens” — a localized underground pocket of ice or unstable rock.",
-      "title_raw": "8 Trapped After Permafrost Thaw Triggers Coal Mine Collapse in Russia’s Far East",
-      "lead_raw": "The CEO of the mining company that operates the site said the accident was likely caused by the thawing of a “lens” — a localized underground pocket of ice or unstable rock.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "energy",
-        "local_events"
-      ],
       "primary_topic": "local_events"
     }
   ]
