@@ -1,17 +1,475 @@
 {
-  "updated_at_utc": "2026-05-03T02:54:23Z",
+  "updated_at_utc": "2026-05-03T06:05:42Z",
   "keep_hours": 48,
-  "count": 325,
+  "count": 315,
   "articles": [
+    {
+      "id": "548e54e517ad6440acdcfd86643719f3e4086f45",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27292799",
+      "published_utc": "2026-05-03T06:02:32Z",
+      "title_en": "Russian Ambassador: Negotiations between Brussels and Skopje on accession to the EU have not begun",
+      "lead_en": "Dmitry Zykov pointed out that the experience of North Macedonia clearly demonstrates the huge variety of demands put forward by countries",
+      "title_raw": "Посол РФ: переговоры Брюсселя и Скопье по вступлению в ЕС так и не начались",
+      "lead_raw": "Дмитрий Зыков указал, что опыт Северной Македонии наглядно демонстрирует огромное разнообразие выдвигаемых странами требований",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "b25fd10d821e194abe734520556ba8c1c0ae9e89",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27292729",
+      "published_utc": "2026-05-03T05:47:58Z",
+      "title_en": "ATOR: tourists from the Middle East have massively canceled trips to Russia",
+      "lead_en": "According to the association’s forecast, the flow of foreign tourists to the Russian Federation in 2026 may decrease by 19-20% compared to 2025",
+      "title_raw": "АТОР: туристы с Ближнего Востока массово отменили поездки в Россию",
+      "lead_raw": "По прогнозу ассоциации, турпоток иностранцев в РФ в 2026 году может сократиться на 19-20% по сравнению с 2025 годом",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "45b05967f7efb215059ad29dd5d06dc89a5d20aa",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27292685",
+      "published_utc": "2026-05-03T05:31:08Z",
+      "title_en": "Synchronized swimmers from the Russian Federation became third at the KM stage in the free program of duets",
+      "lead_en": "Bronze medalists in mixed duet competitions were Arina Tumkina and Vladimir Pershin",
+      "title_raw": "Синхронисты из РФ стали третьими на этапе КМ в произвольной программе дуэтов",
+      "lead_raw": "Бронзовыми призерами в соревнованиях микст-дуэтов стали Арина Тумкина и Владимир Першин",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "32547515b3167b374cf4b33d55ba3e9648684831",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27292629",
+      "published_utc": "2026-05-03T05:18:24Z",
+      "title_en": "More than 1.5 thousand explosive objects were destroyed in the LPR",
+      "lead_en": "Also, Russian Guards, during joint events with law enforcement agencies, detained 45 people suspected of committing crimes",
+      "title_raw": "В ЛНР уничтожили более 1,5 тыс. взрывоопасных предметов",
+      "lead_raw": "Также росгвардейцы в ходе совместных мероприятий с правоохранительными органами задержали 45 человек, подозреваемых в совершении преступлений",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "f267de0d79592f7f7fec7d383bdc69f01e008eae",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27292637",
+      "published_utc": "2026-05-03T05:18:13Z",
+      "title_en": "\"X5 Club\": more than half of Russians include recipes from social networks in their diet",
+      "lead_en": "According to a loyalty program study, 90% of respondents look at recipes on social networks",
+      "title_raw": "\"X5 клуб\": более половины россиян включают рецепты из соцсетей в свой рацион",
+      "lead_raw": "По данным исследования программы лояльности, 90% опрошенных смотрят рецепты блюд в социальных сетях",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "e98ed270ca01777595ae94c36bba477e6cadf2c2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27292601",
+      "published_utc": "2026-05-03T05:14:01Z",
+      "title_en": "Expert Zheng: the cross years of the Russian Federation and the People's Republic of China have strengthened the public base of mutual trust",
+      "lead_en": "According to a researcher at the Center for Russian Studies at East China Normal University, in the current international environment, Western countries often use the concept of a clash of civilizations to explain global conflicts and resort to civilizational approaches.",
+      "title_raw": "Эксперт Чжэн: перекрестные годы РФ и КНР укрепили общественную базу взаимного доверия",
+      "lead_raw": "По словам научного сотрудника Центра по изучению России при Восточно-Китайском педагогическом университете, в нынешней международной обстановке западные страны часто используют концепцию столкновения цивилизаций для объяснения глобальных конфликтов и прибегают к цивилизационным р",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "0a25044d28bdc3cc4dc774cccaf206941abf8319",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27292583",
+      "published_utc": "2026-05-03T05:07:02Z",
+      "title_en": "In Russia, courts handed down more than 200 verdicts in treason cases in 2025",
+      "lead_en": "Most of the convicts were sentenced to 10 to 15 years in prison, 31 - from 15 to 20 years, and 29 people - to terms from 5 to 10 years.",
+      "title_raw": "В России суды в 2025 году вынесли более 200 приговоров по делам о госизмене",
+      "lead_raw": "Большинству осужденных назначили наказание от 10 до 15 лет лишения свободы, 31 - от 15 до 20 лет и 29 лицам - на сроки от 5 до 10 лет",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "026a20e9b50deb2c25e31b95dbc2161f25baedef",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27292581",
+      "published_utc": "2026-05-03T05:06:01Z",
+      "title_en": "Russian gymnasts will go to Turkey for a recovery camp on May 5",
+      "lead_en": "",
+      "title_raw": "Российские гимнасты 5 мая отправятся на восстановительный сбор в Турцию",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "2f28f0bf737ffde5d07fcb10c2b03e7399262b7a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27292529",
+      "published_utc": "2026-05-03T04:34:31Z",
+      "title_en": "Russians were reminded of the dangers of undercooked kebab",
+      "lead_en": "Raw meat can become a source of intestinal infection, said endocrinologist and nutritionist Daria Podchinenova",
+      "title_raw": "Россиянам напомнили, чем опасен недожаренный шашлык",
+      "lead_raw": "Сырое мясо может стать источником кишечной инфекции, сообщила врач-эндокринолог и диетолог Дарья Подчиненова",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "a8f40314569ddb087a366bb1d8e48ac88d7d7095",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27292521",
+      "published_utc": "2026-05-03T04:33:19Z",
+      "title_en": "Commander Map: The Russian Armed Forces destroyed more than 730 Ukrainian Armed Forces militants in the Kharkov region in April",
+      "lead_en": "The enemy's manpower was destroyed during fire strikes both on the line of combat contact and at temporary deployment points, said the head of the planning and counteraction department of the BPS of the 11th corps of the North group of forces.",
+      "title_raw": "Командир Карта: ВС РФ уничтожили в апреле более 730 боевиков ВСУ на Харьковщине",
+      "lead_raw": "Живую силу противника уничтожали во время нанесения огневого поражения как на линии боевого соприкосновения, так и в пунктах временной дислокации, рассказал начальник отделения планирования и противодействия БПС 11-го корпуса группировки войск \"Север\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "cd9782b2a57b29148d7d1bb2c7073884be2953bb",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27292511",
+      "published_utc": "2026-05-03T04:31:28Z",
+      "title_en": "Russian Ambassador: Azerbaijani gas has begun to flow regularly to North Macedonia",
+      "lead_en": "At the same time, fuel from Azerbaijan costs twice as much as Russian fuel, noted Dmitry Zykov",
+      "title_raw": "Посол РФ: азербайджанский газ начал регулярно поступать в Северную Македонию",
+      "lead_raw": "При этом топливо из Азербайджана обходится в два раза дороже российского, отметил Дмитрий Зыков",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "5d30e9cea82330fe3a38846049bff3e7e927fc82",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27292491",
+      "published_utc": "2026-05-03T04:27:29Z",
+      "title_en": "334 Ukrainian UAVs shot down over Russian regions",
+      "lead_en": "Air defense systems on duty were operating",
+      "title_raw": "Над регионами России сбили 334 украинских БПЛА",
+      "lead_raw": "Работали дежурные средства ПВО",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "2383eba84a7291ee5b742d0acb52f0ced7158c44",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27292477",
+      "published_utc": "2026-05-03T04:27:09Z",
+      "title_en": "A ban on the entry of cars from the Russian Federation with more than 200 liters of fuel has come into force in Lithuania.",
+      "lead_en": "The country's customs department claims that \"excess fuel\" is being dumped for resale.",
+      "title_raw": "В Литве вступил в силу запрет на въезд машин из РФ с более чем 200 л топлива",
+      "lead_raw": "Таможенный департамент страны утверждает, что \"избыточное горючее\" сливают для перепродажи",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "c81ff30f35306fd0d8bd022bf4a704f37fe297b7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27292473",
+      "published_utc": "2026-05-03T04:24:35Z",
+      "title_en": "NTech: the popularity of large milk packages is growing in Russia",
+      "lead_en": "This packaging becomes more suitable and convenient for the buyer, the analytical company reported",
+      "title_raw": "NTech: в России растет популярность больших упаковок молока",
+      "lead_raw": "Такая фасовка становится более подходящей и удобной для покупателя, сообщили в аналитической компании",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "0aa37d179965c20bdcf37e22c53ed4c6772741e1",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27292465",
+      "published_utc": "2026-05-03T04:19:10Z",
+      "title_en": "TASS: The Ukrainian Armed Forces are transferring reserves to Sumy in ambulances",
+      "lead_en": "The Ukrainian command is sending units of the 110th separate mechanized brigade to this section of the front, Russian security forces reported",
+      "title_raw": "ТАСС: ВСУ перебрасывают резервы к Сумам на машинах скорой помощи",
+      "lead_raw": "Украинское командование отправляет на этот участок фронта подразделения 110-й отдельной мехбригады, сообщили в российских силовых структурах",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ec079efcdec6066a9fef4d35ff5012f9a1299ab1",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27292449",
+      "published_utc": "2026-05-03T04:16:28Z",
+      "title_en": "TASS: A punitive detachment of the Ukrainian Armed Forces was deployed near Sumy",
+      "lead_en": "Previously, the unit was part of the Smerch formation, Russian law enforcement agencies reported.",
+      "title_raw": "ТАСС: под Сумы перебросили карательный отряд ВСУ",
+      "lead_raw": "Ранее подразделение состояло в формировании \"Смерч\", сообщили в российских силовых структурах",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "72deea81c6df6fd8795a63536aadacb0bf3e4002",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27292421",
+      "published_utc": "2026-05-03T04:12:52Z",
+      "title_en": "Expert Kermedchieva: about 10 Korean beauty brands can enter the Russian market",
+      "lead_en": "This could happen before the end of 2026, said the vice president for new brands of the Union of Shopping Centers",
+      "title_raw": "Эксперт Кермедчиева: около 10 корейских бьюти-брендов могут выйти на рынок РФ",
+      "lead_raw": "Это может произойти до конца 2026 года, сообщила вице-президент по новым брендам Союза торговых центров",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "ca88467130b62a599dfc7823688e781bbb048dc6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27292395",
+      "published_utc": "2026-05-03T04:07:06Z",
+      "title_en": "OneTwoTrip talked about the “travel discoveries” of Russians in May 2026",
+      "lead_en": "Residents of Russia began to travel to Cape Verde, Bosnia and Herzegovina, Romania, Nepal and Namibia, the study says",
+      "title_raw": "В OneTwoTrip рассказали о \"тревел открытиях\" россиян в мае 2026 года",
+      "lead_raw": "Жители России стали путешествовать в Кабо-Верде, Боснию и Герцеговину, Румынию, Непал и Намибию, говорится в исследовании",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "4b1c1ecfd35b250f946e93c8557736e1e48c6fb8",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27292317",
+      "published_utc": "2026-05-03T03:33:41Z",
+      "title_en": "Academician Bockeria: doctors in Russia can continuously improve their qualifications",
+      "lead_en": "The chief freelance specialist in cardiovascular surgery of the Ministry of Health noted that medicine is constantly developing and being supplemented with new methods",
+      "title_raw": "Академик Бокерия: врачи в России могут непрерывно повышать квалификацию",
+      "lead_raw": "Главный внештатный специалист сердечно-сосудистой хирургии Минздрава отметил, что медицина постоянно развивается и дополняется новыми методами",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "2bb1d1ec4cf90f88305642e079d6a72bb99c4c3c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27292311",
+      "published_utc": "2026-05-03T03:28:19Z",
+      "title_en": "ATOR: the number of tourist trips by Russians in the Russian Federation and abroad will decrease by at least 10%",
+      "lead_en": "In connection with events in the world, there has been a slowdown in consumer demand in Russian tourism, said Maya Lomidze, executive director of the Association of Tour Operators of Russia.",
+      "title_raw": "АТОР: число турпоездок россиян по РФ и за рубеж снизится минимум на 10%",
+      "lead_raw": "В связи с событиями в мире в российском туризме произошло замедление потребительского спроса, сообщила исполнительный директор Ассоциации туроператоров России Майя Ломидзе",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "4595145e44a28bfed7dbae4b12997935564b6f6a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27292295",
+      "published_utc": "2026-05-03T03:09:00Z",
+      "title_en": "Russian Ambassador: Dreams about the EU do not solve the problems of North Macedonia",
+      "lead_en": "The history of the expansion of the European Union shows the illusory nature of such hopes, noted Dmitry Zykov",
+      "title_raw": "Посол РФ: мечты о ЕС не решают проблем Северной Македонии",
+      "lead_raw": "История расширения Евросоюза показывает иллюзорность подобных надежд, отметил Дмитрий Зыков",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "6856339b63131b98417534894bc093c6b70dbd6a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kosmos/27292241",
+      "published_utc": "2026-05-03T03:06:40Z",
+      "title_en": "NAS: Belarusian cosmonaut can conduct research on ROS",
+      "lead_en": "The implementation of such a prospect is possible when decisions are made at the level of the country's top leadership, said Vladimir Karanik, Chairman of the Presidium of the National Academy of Sciences",
+      "title_raw": "НАН: белорусский космонавт может провести исследования на РОС",
+      "lead_raw": "Реализация такой перспективы возможна при принятии решений на уровне высшего руководства страны, сообщил председатель президиума Национальной академии наук Владимир Караник",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "94a21cbeb0b87a497d7459cca37a3ea639517379",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27292279",
+      "published_utc": "2026-05-03T03:03:43Z",
+      "title_en": "Commander Multik: the crew of the Sever UAV destroyed 17 hexacopters of the Ukrainian Armed Forces in the Sumy region",
+      "lead_en": "Russian military personnel eliminated drones of the Ukrainian army in April",
+      "title_raw": "Командир Мультик: расчет БПЛА \"Севера\" уничтожил 17 гексакоптеров ВСУ на сумщине",
+      "lead_raw": "Российские военнослужащие ликвидировали дроны украинской армии в апреле",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "4236c6ac4398e306554c10e26f4694d416303b4e",
       "source": "TASS (RU)",
       "url": "https://tass.ru/armiya-i-opk/27292209",
       "published_utc": "2026-05-03T02:47:45Z",
       "title_en": "Balance: The Russian Armed Forces are suppressing single attempts by sabotage groups of the Armed Forces of Ukraine to cross the Dnieper",
-      "lead_en": "",
+      "lead_en": "The coast is under close control of the Russian army, the governor of the Kherson region said",
       "title_raw": "Сальдо: ВС РФ пресекают одиночные попытки диверсионных групп ВСУ пересечь Днепр",
-      "lead_raw": "",
+      "lead_raw": "Берег находится под плотным контролем российской армии, заявил губернатор Херсонской области",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
@@ -5833,643 +6291,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "54bb874a4731143797726d889d68803248e6118e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27282327",
-      "published_utc": "2026-05-01T06:04:25Z",
-      "title_en": "Aksakov: the downward trend in the key rate will continue",
-      "lead_en": "The Chairman of the State Duma Committee on the Financial Market admitted that at the next meeting of the Board of Directors the Bank of Russia may reduce it by 0.5 percentage points.",
-      "title_raw": "Аксаков: тенденция к снижению ключевой ставки сохранится",
-      "lead_raw": "Председатель комитета Госдумы по финансовому рынку допустил, что на следующем заседании совета директоров Банк России может снизить ее на 0,5 п.п.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "6939b1cfde8da6790154648a8d84ccf2fecdef21",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/nedvizhimost/27281773",
-      "published_utc": "2026-05-01T05:42:56Z",
-      "title_en": "The record holder for the longest name among geographical objects of Russia has been named",
-      "lead_en": "It became a village in the Moscow region, the name of which consists of 63 letters",
-      "title_raw": "Назван рекордсмен по длине названия среди географических объектов России",
-      "lead_raw": "Им стал поселок в Московской области, название которого состоит из 63 букв",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "6da46e4874fd5ee70f8a02699f2fdd019168bdf0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27282325",
-      "published_utc": "2026-05-01T05:39:59Z",
-      "title_en": "Kasimova: weightlifter Kuzminova will have time to recover for the Junior World Championships after the European Championships",
-      "lead_en": "On April 23, the Russian athlete won silver at the European Championships",
-      "title_raw": "Касимова: штангистка Кузьминова успеет восстановиться к юниорскому ЧМ после ЧЕ",
-      "lead_raw": "23 апреля российская спортсменка завоевала серебро чемпионата Европы",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "a4ba7ea9744b1ca5d3ff031b0ec729771372c7a0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27282301",
-      "published_utc": "2026-05-01T05:35:49Z",
-      "title_en": "The United States called on Europeans to moderate anti-Russian rhetoric at the UN",
-      "lead_en": "This is necessary for a settlement in Ukraine, says the draft protocol of the council’s section on institutional issues.",
-      "title_raw": "В США призвали европейцев умерить антироссийскую риторику в ООН",
-      "lead_raw": "Это необходимо для урегулирования по Украине, говорится в проекте протокола cекции совета по институциональным вопросам",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "9f273b00a0103ed5f9002f82b7309e9902bb8e3d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27282315",
-      "published_utc": "2026-05-01T05:32:35Z",
-      "title_en": "Almaz-Antey revealed the coverage area of ​​the smallest air navigation center in the Russian Federation",
-      "lead_en": "It is comparable to the size of France or Spain",
-      "title_raw": "\"Алмаз-Антей\" раскрыл площадь покрытия наименьшего из центров авианавигации РФ",
-      "lead_raw": "Она сопоставима с размерами Франции или Испании",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "be3cb4b7c43993ea30837aa8d4774c3d17378bb6",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27282229",
-      "published_utc": "2026-05-01T05:16:41Z",
-      "title_en": "A motor rally in honor of the 81st anniversary of the Victory has started in Israel.",
-      "lead_en": "Dozens of people take part in it on motorcycles decorated with St. George ribbons and cars with flags of the Red Army, Russia and Israel.",
-      "title_raw": "В Израиле стартовал автомотопробег в честь 81-й годовщины Победы",
-      "lead_raw": "В нем принимают участие десятки человек на украшенных георгиевскими лентами мотоциклах и автомобилях с флагами Красной армии, России и Израиля",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "193b8c2181800fd5bb318f30ca642435c9281b2e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27282211",
-      "published_utc": "2026-05-01T05:11:36Z",
-      "title_en": "The demand of Russians for holidays in the Krasnodar region during the May holidays decreased by 20%",
-      "lead_en": "Tatarstan is ahead of Kuban in the ranking of the most popular domestic destinations",
-      "title_raw": "Спрос россиян на отдых в Краснодарском крае на майские праздники снизился на 20%",
-      "lead_raw": "В рейтинге самых популярных внутренних направлений Татарстан опередил Кубань",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "c95bcaa1720da0d0bbae4d275f194fe92525524c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27282201",
-      "published_utc": "2026-05-01T05:10:45Z",
-      "title_en": "Expert Rodriguez: tourism of foreigners in the Russian Federation breaks stereotypes about the “anger” of Russians",
-      "lead_en": "Travel helps foreign tourists see the real life of the country, says the French organizer of tours in Russia",
-      "title_raw": "Эксперт Родригез: туризм иностранцев по РФ ломает стереотипы о \"злости\" россиян",
-      "lead_raw": "Путешествия помогают иностранным туристам увидеть реальную жизнь страны, считает французский организатор туров по России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "aafa1c1d781c439ad0133cea31ff290bad095a37",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27282159",
-      "published_utc": "2026-05-01T05:09:03Z",
-      "title_en": "Within a week, the Russian Armed Forces destroyed more than 20 communications equipment of the Armed Forces of Ukraine in the Kharkov region",
-      "lead_en": "The commander of a UAV platoon with the call sign Chiz noted that thanks to the work of crews of reconnaissance and attack drones, it is possible to open and destroy camouflaged enemy communication stations and communication centers",
-      "title_raw": "ВС РФ за неделю уничтожили более 20 средств связи ВСУ в Харьковской области",
-      "lead_raw": "Командир взвода БПЛА с позывным Чиз отметил, что благодаря работе расчетов разведывательных и ударных дронов удается вскрывать и уничтожать замаскированные станции связи и узлы связи противника",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "63406346107e64fbc25460f711d16a8a839c346f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27282185",
-      "published_utc": "2026-05-01T05:08:43Z",
-      "title_en": "TASS: villages in Ukraine were left without men due to mobilization into the Armed Forces of Ukraine",
-      "lead_en": "Middle-aged and elderly women have to do hard men's work in villages, Russian security forces reported",
-      "title_raw": "ТАСС: села на Украине остались без мужчин из-за мобилизации в ВСУ",
-      "lead_raw": "Женщинам среднего и пожилого возраста приходится выполнять тяжелую мужскую работу в деревнях, сообщили в российских силовых структурах",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "06d41d8a16e1b7361385d48ed90132637d3099f5",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27282241",
-      "published_utc": "2026-05-01T05:08:34Z",
-      "title_en": "Markoch: the Russian water polo team could not lose at the World Cup with the anthem and flag",
-      "lead_en": "Earlier, the Russians beat the Chinese team in the final match of the World Cup among second division teams",
-      "title_raw": "Маркоч: сборная РФ по водному поло не могла проиграть на КМ с гимном и флагом",
-      "lead_raw": "Ранее россиянки обыграли команду Китая в финальном матче Кубка мира среди команд второго дивизиона",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "599e819436eca267b67aa95c6bc8a98578451d9f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27281883",
-      "published_utc": "2026-05-01T05:07:26Z",
-      "title_en": "A copy of the Victory Banner was raised in Caracas",
-      "lead_en": "This reminds “of the strength of spirit, unity and determination of the peoples who managed to stop Nazism,” noted Russian Ambassador to Venezuela Sergei Melik-Bagdasarov",
-      "title_raw": "В Каракасе подняли копию Знамени Победы",
-      "lead_raw": "Это напоминает \"о силе духа, единстве и решимости народов, сумевших остановить нацизм\", отметил посол России в Венесуэле Сергей Мелик-Багдасаров",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "c07ecb54864744da49f6d274a756c9823854b2c0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27282145",
-      "published_utc": "2026-05-01T05:06:26Z",
-      "title_en": "Deputy Arshinov: the rehabilitation of fascists is happening in Lithuania, Moldova, Ukraine",
-      "lead_en": "The Russian parliamentarian said that fascism has no nationality, and its revival in any form is a threat to all the peoples of Europe",
-      "title_raw": "Депутат Аршинова: реабилитация фашистов происходит в Литве, Молдавии, на Украине",
-      "lead_raw": "Российский парламентарий заявила, что фашизм не имеет национальности, и его возрождение в любой форме - угроза для всех народов Европы",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "6694da5c00a7bfe85478b9737ec7ed4c4b4e03cb",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27282119",
-      "published_utc": "2026-05-01T04:56:40Z",
-      "title_en": "Deputy Sheremet: The EU will continue to put forward new conditions for Ukraine’s accession",
-      "lead_en": "Also, the European Union will continue to support the Kyiv regime to counter Russia, the parliamentarian is sure",
-      "title_raw": "Депутат Шеремет: ЕС продолжит выдвигать новые условия для вступления Украины",
-      "lead_raw": "Также Евросоюз по-прежнему будет поддерживать киевский режим для противодействия России, уверен парламентарий",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "acefb6577fa7ffac69ed682e4e2554ed2dfae16b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27282049",
-      "published_utc": "2026-05-01T04:39:12Z",
-      "title_en": "TASS: units of the Terrestrial Defense Brigade near Sumy were staffed by Ukrainians aged 18-22",
-      "lead_en": "This is evidenced by the analysis of obituaries, Russian security officials noted.",
-      "title_raw": "ТАСС: подразделения бригады теробороны у Сум укомплектовали украинцами 18-22 лет",
-      "lead_raw": "Об этом свидетельствует анализ некрологов, отметили российские силовики",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "0fb94d0b0df49c00a0e3f61ac88962447b3ed737",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27281997",
-      "published_utc": "2026-05-01T04:37:15Z",
-      "title_en": "Volodin congratulated Russians on May 1",
-      "lead_en": "Trade unions “do a lot to improve working conditions,” noted the Chairman of the State Duma",
-      "title_raw": "Володин поздравил россиян с 1 Мая",
-      "lead_raw": "Профсоюзы \"многое делают для улучшения условий труда\", отметил председатель Госдумы",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "90ec3f62819a96746a0bd1cd9759d18e44bc9ad0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27281991",
-      "published_utc": "2026-05-01T04:35:06Z",
-      "title_en": "Forecaster Makarov: the water on the sea coasts of Russia is gradually warming up",
-      "lead_en": "In Evpatoria, Anapa, Gelendzhik and Yeysk, the water temperature was 13 degrees",
-      "title_raw": "Синоптик Макарова: вода на морских побережьях России постепенно прогревается",
-      "lead_raw": "В Евпатории, Анапе, Геленджике и Ейске температура воды составила 13 градусов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "8a49b7d56d2db4cb6ee28e0b20f932e36cb86a2b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27282021",
-      "published_utc": "2026-05-01T04:32:59Z",
-      "title_en": "Almaz-Antey: The Unified Air Navigation System of the Russian Federation covers 26 million square meters. km",
-      "lead_en": "This is the largest figure in the world, said Dmitry Savitsky, deputy general director of the concern for products for the air navigation system and dual-use products.",
-      "title_raw": "\"Алмаз-Антей\": Единая система аэронавигации РФ покрывает 26 млн кв. км",
-      "lead_raw": "Это самый большой в мире показатель, рассказал заместитель генерального директора концерна по продукции для аэронавигационной системы и продукции двойного назначения Дмитрий Савицкий",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "3a1ecba0f898b70784240257e3619a9319d00a3b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27281983",
-      "published_utc": "2026-05-01T04:30:42Z",
-      "title_en": "TASS: nationalists from the “elite” brigade of the Ukrainian Armed Forces suffer losses near Kondratovka",
-      "lead_en": "Russian security forces noted that we are talking about the 78th separate air assault brigade",
-      "title_raw": "ТАСС: националисты из \"элитной\" бригады ВСУ несут потери у Кондратовки",
-      "lead_raw": "В российских силовых структурах отметили, что речь идет о 78-й отдельной десантно-штурмовой бригаде",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "ec3dc81ff85fdd181c2e930670cb07b394e27067",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27281971",
-      "published_utc": "2026-05-01T04:24:18Z",
-      "title_en": "TASS: Ukrainian Armed Forces instructors with ATO experience were transferred to Volchansk",
-      "lead_en": "Russian security forces said they were sent to “increase motivation” of personnel",
-      "title_raw": "ТАСС: под Волчанск перебросили инструкторов ВСУ с опытом АТО",
-      "lead_raw": "В российских силовых структурах сообщили, что их направили для \"повышения мотивации\" личного состава",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "b165733a7a536a70c84968a485f48aa8265ef53a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27281963",
-      "published_utc": "2026-05-01T04:23:09Z",
-      "title_en": "TASS: The Russian Armed Forces liquidated at least 17 officers and sergeants of the Armed Forces of Ukraine near Akhtyrka",
-      "lead_en": "The targets were destroyed during a strike on the command post, Russian security forces reported",
-      "title_raw": "ТАСС: ВС РФ у Ахтырки ликвидировали не менее 17 офицеров и сержантов ВСУ",
-      "lead_raw": "Цели были уничтожены при ударе по командному пункту, сообщили в российских силовых структурах",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "48521c704b08f37f1f79fa0e7a6886b2366bcc4b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27281919",
-      "published_utc": "2026-05-01T04:18:11Z",
-      "title_en": "TASS: SBU tried to use parents to provoke a captured soldier of the Ukrainian Armed Forces",
-      "lead_en": "Russian law enforcement agencies said that a military man who was being held captive by the Russian Armed Forces recorded a video message to his family with a request to contact him.",
-      "title_raw": "ТАСС: СБУ пытались использовать родителей для провокации пленного солдата ВСУ",
-      "lead_raw": "В российских силовых структурах рассказали, что военный, находящийся в плену у ВС РФ, записал видеообращение к семье с просьбой связаться с ним",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "424fff5de2371329f7b0372a4a153844db606294",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27281935",
-      "published_utc": "2026-05-01T04:18:04Z",
-      "title_en": "141 Ukrainian UAVs were shot down over Russian regions overnight",
-      "lead_en": "All drones were aircraft type",
-      "title_raw": "Над регионами России за ночь сбили 141 украинский БПЛА",
-      "lead_raw": "Все беспилотники были самолетного типа",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "ac702caea2de94c59cf099b38663c1fbc041d3d8",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27281827",
-      "published_utc": "2026-05-01T04:08:21Z",
-      "title_en": "Russian military officer convinced Ukrainian Armed Forces officer to surrender",
-      "lead_en": "Captured senior lieutenant of the Armed Forces of Ukraine Vladimir Antonyuk said that he remained alive thanks to the words of a serviceman of the Russian Armed Forces",
-      "title_raw": "Российский военный убедил офицера ВСУ сдаться",
-      "lead_raw": "Пленный старший лейтенант ВСУ Владимир Антонюк сообщил, что остался жив благодаря словам военнослужащего ВС РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "5796e137341a015e6b69263757fd820110a60690",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27281819",
-      "published_utc": "2026-05-01T04:06:34Z",
-      "title_en": "Commander Topaz: The Russian Armed Forces destroyed a group of Ukrainian Armed Forces numbering up to seven people",
-      "lead_en": "The commander of a company of unmanned systems said that the enemy was hit in the Sumy region",
-      "title_raw": "Командир Топаз: ВС РФ уничтожили группу ВСУ численностью до семи человек",
-      "lead_raw": "Командир роты беспилотных систем рассказал, что противника поразили в Сумской области",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "4f1de5c368668b7e81dd960a193dc63e4447d5cc",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27281811",
-      "published_utc": "2026-05-01T04:05:04Z",
-      "title_en": "Fighter Map: The Russian Armed Forces destroyed more than 55 delivery vehicles of the Ukrainian Armed Forces in the Kharkov region",
-      "lead_en": "The head of the BPS planning and counteraction department reported that the combat mission was carried out by the \"North\" group",
-      "title_raw": "Боец Карта: ВС РФ уничтожили более 55 средств доставки ВСУ в Харьковской области",
-      "lead_raw": "Начальник отделения планирования и противодействия БПС сообщил, что боевую задачу выполнила группировка \"Север\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "a0ad052f40a0bee2c519552a0660e670649b6a3e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27281805",
-      "published_utc": "2026-05-01T04:03:02Z",
-      "title_en": "Fraudsters began to deceive Russians under the pretext of raising pensions",
-      "lead_en": "The attackers introduce themselves as employees of the HR department of the company where the victim worked before, and ask to dictate a code from an SMS “to sign up for the pension fund,” the Ministry of Internal Affairs said.",
-      "title_raw": "Мошенники стали обманывать россиян под предлогом повышения пенсии",
-      "lead_raw": "Злоумышленники представляются работниками отдела кадров предприятия, на котором жертва работала прежде, и просят продиктовать код из СМС \"для записи в пенсионный фонд\", рассказали в МВД",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "b15c745d50a56d8fe75b77265997b6f6ad80c0f0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27281757",
-      "published_utc": "2026-05-01T03:52:39Z",
-      "title_en": "\"City21\": 40% of Russians would like to move to the suburbs due to proximity to nature",
-      "lead_en": "At the same time, 19% of respondents prefer life in the city, the company noted",
-      "title_raw": "\"Сити21\": 40% россиян хотели бы переехать в пригород из-за близости к природе",
-      "lead_raw": "При этом 19% опрошенных предпочитают жизнь в городе, отметили в компании",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "a3f04374ec74c09e42e3d04aee821f6881b2cb6a",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2125287",
-      "published_utc": "2026-05-01T03:50:00Z",
-      "title_en": "Russian presidential envoy commends German newspaper for report on Mindich case",
-      "lead_en": "Kirill Dmitriev stressed that \"legacy media’s silence speaks volumes about bias and a lack of genuine truth-seeking\"",
-      "title_raw": "Russian presidential envoy commends German newspaper for report on Mindich case",
-      "lead_raw": "Kirill Dmitriev stressed that \"legacy media’s silence speaks volumes about bias and a lack of genuine truth-seeking\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "54034ce2b33372d74314439d6bdefed749d1bdf0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27281713",
-      "published_utc": "2026-05-01T03:43:12Z",
-      "title_en": "Russians were given recommendations on choosing quality meat for barbecue",
-      "lead_en": "You should buy a product that is light red in color, without a sticky surface, with uniform fatty layers of white or slightly creamy color, said the Federal State Budgetary Institution \"Center for Quality Assessment of Agro-Industrial Products\"",
-      "title_raw": "Россиянам дали рекомендации по выбору качественного мяса для шашлыка",
-      "lead_raw": "Следует покупать продукт светло-красного цвета, без липкой поверхности, с равномерными жировыми прослойками белого или слегка кремового оттенка, рассказали в ФГБУ \"Центр оценки качества агропромышленной продукции\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "48695d4ff0302c82b525873938abbb538864701b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27281727",
-      "published_utc": "2026-05-01T03:35:09Z",
-      "title_en": "Volunteer Beric: Serbia prohibits citizens from fighting abroad for Russia",
-      "lead_en": "A participant in the hostilities in Donbass stressed that the country's authorities ignore cases when Serbs enlist in the French Foreign Legion or become employees of American PMCs",
-      "title_raw": "Доброволец Берич: в Сербии запрещают гражданам воевать за границей за Россию",
-      "lead_raw": "Участник боевых действий в Донбассе подчеркнул, что власти страны игнорируют случаи, когда сербы поступают на службу во Французский иностранный легион или становятся сотрудниками американских ЧВК",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "81575f083d1f616b7f74517ed122898ee15831c0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27281643",
-      "published_utc": "2026-05-01T03:04:51Z",
-      "title_en": "Russians warned of punishment for inappropriately posting photos of WWII heroes",
-      "lead_en": "Dirty or damaged portraits face a fine of 300 thousand rubles, as well as imprisonment for up to three years, said Mikhail Mikhailov, president of the Bryansk Region Bar Chamber.",
-      "title_raw": "Россиян предупредили о наказании за неподобающее размещение фото героев ВОВ",
-      "lead_raw": "За грязные или поврежденные портреты грозит штраф 300 тыс. рублей, а также лишение свободы на срок до трех лет, сообщил президент Адвокатской палаты Брянской области Михаил Михайлов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "f831b5ba96cc962ef21ddb12218e4c46fa190a16",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27281665",
-      "published_utc": "2026-05-01T03:02:48Z",
-      "title_en": "Astana will continue to investigate the AZAL crash after a statement from the Russian Federation and Azerbaijan",
-      "lead_en": "The Ministry of Transport of Kazakhstan, upon completion of the investigation, intends to submit a report outlining the reasons for the incident.",
-      "title_raw": "Астана продолжит расследовать крушение AZAL после заявления РФ и Азербайджана",
-      "lead_raw": "Министерство транспорта Казахстана по завершении расследования намерено представить отчет, где изложит причины произошедшего",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
