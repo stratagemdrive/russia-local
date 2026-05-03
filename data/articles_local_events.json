@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-05-03T02:54:23Z",
+  "updated_at_utc": "2026-05-03T06:05:42Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 9,
   "articles": [
+    {
+      "id": "32547515b3167b374cf4b33d55ba3e9648684831",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27292629",
+      "published_utc": "2026-05-03T05:18:24Z",
+      "title_en": "More than 1.5 thousand explosive objects were destroyed in the LPR",
+      "lead_en": "Also, Russian Guards, during joint events with law enforcement agencies, detained 45 people suspected of committing crimes",
+      "title_raw": "В ЛНР уничтожили более 1,5 тыс. взрывоопасных предметов",
+      "lead_raw": "Также росгвардейцы в ходе совместных мероприятий с правоохранительными органами задержали 45 человек, подозреваемых в совершении преступлений",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "3fab8bcfe63515fbbc43fe92711d8d9e9dfd738a",
       "source": "TASS (RU)",
@@ -168,25 +187,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "f831b5ba96cc962ef21ddb12218e4c46fa190a16",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27281665",
-      "published_utc": "2026-05-01T03:02:48Z",
-      "title_en": "Astana will continue to investigate the AZAL crash after a statement from the Russian Federation and Azerbaijan",
-      "lead_en": "The Ministry of Transport of Kazakhstan, upon completion of the investigation, intends to submit a report outlining the reasons for the incident.",
-      "title_raw": "Астана продолжит расследовать крушение AZAL после заявления РФ и Азербайджана",
-      "lead_raw": "Министерство транспорта Казахстана по завершении расследования намерено представить отчет, где изложит причины произошедшего",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
