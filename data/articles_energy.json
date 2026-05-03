@@ -1,9 +1,55 @@
 {
-  "updated_at_utc": "2026-05-02T23:43:04Z",
+  "updated_at_utc": "2026-05-03T02:54:23Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 17,
+  "count": 18,
   "articles": [
+    {
+      "id": "c5df2a646381cc6c99fc8fe84ed5624005dddcea",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2125647",
+      "published_utc": "2026-05-03T02:26:19Z",
+      "title_en": "North Macedonia reduces Russian gas imports for political reasons — Russian ambassador",
+      "lead_en": "According to Dmitry Zykov, the country is ready to act even against its own economic interests",
+      "title_raw": "North Macedonia reduces Russian gas imports for political reasons — Russian ambassador",
+      "lead_raw": "According to Dmitry Zykov, the country is ready to act even against its own economic interests",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "8d26805e9d25f52eec7ed8db28da0c790438c83c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27292043",
+      "published_utc": "2026-05-03T01:32:48Z",
+      "title_en": "Russian Ambassador: Skopje is reducing imports of Russian gas for political reasons",
+      "lead_en": "North Macedonia is ready to act even to the detriment of its economic interests, noted Dmitry Zykov",
+      "title_raw": "Посол РФ: Скопье по политическим мотивам сокращает импорт российского газа",
+      "lead_raw": "Северная Македония готова действовать даже в ущерб своим экономическим интересам, отметил Дмитрий Зыков",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "9ffef98a3eb9a51d8a7fbb4fbf2496ce1210fefe",
       "source": "The Moscow Times",
@@ -223,7 +269,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/sport/27283795",
       "published_utc": "2026-05-01T10:22:19Z",
-      "title_en": "Gazzaev considers it wrong to predict in advance the failures of the Russian team at the World Cup",
+      "title_en": "Gazzaev considers it wrong to predict the failures of the Russian team at the World Cup in advance",
       "lead_en": "Earlier, Andrei Arshavin expressed the opinion that the Russian national team will not win the World Cup in the next 50 years",
       "title_raw": "Газзаев считает неправильным загадывать наперед неудачи сборной России на ЧМ",
       "lead_raw": "Ранее Андрей Аршавин высказал мнение, что сборная России не выиграет чемпионат мира по футболу в ближайшие 50 лет",
@@ -337,27 +383,6 @@
         "military": 0,
         "energy": 4,
         "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "54f6e38953376eb2e9e90515abf22e63bc8a9c3f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27281411",
-      "published_utc": "2026-05-01T01:01:30Z",
-      "title_en": "The Russian Federation has created a shotgun cartridge to combat UAVs with a range of up to 100 m",
-      "lead_en": "The ratio of the mass of heavy pellets to the mass of the entire cartridge makes it possible to achieve the necessary energy of individual pellets, which makes it possible to destroy structural elements of drones",
-      "title_raw": "В РФ создали дробовой патрон для борьбы с БПЛА с дальностью поражения до 100 м",
-      "lead_raw": "Соотношение массы тяжелой дроби к массе всего патрона позволяет добиться необходимой энергии отдельных дробин, позволяющей разрушать элементы конструкции дронов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
         "local_events": 0
       },
       "topics": [
