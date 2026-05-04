@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-05-04T11:48:39Z",
+  "updated_at_utc": "2026-05-04T14:00:55Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 11,
+  "count": 13,
   "articles": [
+    {
+      "id": "4f3b59a47662c19a2add9387071de24564e5f563",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/nauka/27303203",
+      "published_utc": "2026-05-04T13:28:22Z",
+      "title_en": "Expert Rodin rejected the connection between weather changes in Russia and man-made accidents",
+      "lead_en": "Despite the seriousness and severe consequences of the incidents for the environment and human health, their scale is negligible against the backdrop of the Earth’s climate balance, noted the executive director of the scientific and technical center for monitoring the environment",
+      "title_raw": "Эксперт Родин отверг связь перепадов погоды в России с техногенными авариями",
+      "lead_raw": "При всей серьезности и тяжелых последствиях происшествий для экологии и здоровья людей их масштаб ничтожен на фоне климатического баланса Земли, отметил исполнительный директор научно-технического центра мониторинга окружающей среды и экологии МФТИ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "5f6e4fbc631e945dcacee45ff2c59cd1c3257c26",
+      "source": "RT",
+      "url": "https://www.rt.com/news/639422-poland-flood-ukrainian-weapons-smuggling/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "published_utc": "2026-05-04T12:47:58Z",
+      "title_en": "Poland braces for flood of Ukrainian guns – media",
+      "lead_en": "Poland is preparing for a “smuggling boom” of weapons trafficked from Ukraine to the EU after the end of the conflict with Russia Read Full Article at RT.com",
+      "title_raw": "Poland braces for flood of Ukrainian guns – media",
+      "lead_raw": "Poland is preparing for a “smuggling boom” of weapons trafficked from Ukraine to the EU after the end of the conflict with Russia Read Full Article at RT.com",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "c24cf8d699252d0a6aeabb397c8797788f6864bd",
       "source": "The Moscow Times",
