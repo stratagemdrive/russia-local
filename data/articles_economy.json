@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-05-04T16:45:51Z",
+  "updated_at_utc": "2026-05-04T20:15:00Z",
   "keep_hours": 48,
   "topic": "economy",
   "count": 34,
   "articles": [
+    {
+      "id": "c4d7c7370a88b4881a2465e39a5791c28fda5763",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2126353",
+      "published_utc": "2026-05-04T19:07:27Z",
+      "title_en": "Russian stock market closed in the red — Moscow Exchange",
+      "lead_en": "The yuan added four kopecks and reached 11.02 rubles",
+      "title_raw": "Russian stock market closed in the red — Moscow Exchange",
+      "lead_raw": "The yuan added four kopecks and reached 11.02 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "5527ec6ee1c667203a6d709fdf8e47ee0b462e74",
       "source": "TASS (RU)",
@@ -660,25 +682,6 @@
       "lead_en": "Among them are Khabarovsk Territory, Karelia, Arkhangelsk Region, Komi, Yakutia, Sakhalin Region, Murmansk Region, Yamalo-Nenets Autonomous Okrug, Khanty-Mansiysk Autonomous Okrug, Magadan Region, Kamchatka Territory, Nenets and Chukotka Autonomous Okrug",
       "title_raw": "Средняя пенсия неработающих пенсионеров превысила 30 тыс. рублей в 13 регионах РФ",
       "lead_raw": "Среди них Хабаровский край, Карелия, Архангельская область, Коми, Якутия, Сахалинская область, Мурманская область, Ямало-Ненецкий АО, Ханты-Мансийский АО, Магаданская область, Камчатский край, Ненецкий и Чукотский АО",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "960d3e8d0d667bb40fdbd5641a01bb91587fd6fa",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2125569",
-      "published_utc": "2026-05-02T17:04:30Z",
-      "title_en": "Zelensky imposes sanctions on two senior Russian sport officials",
-      "lead_en": "In all, five individuals, including three Russian nationals, have been targeted by the latest sanctions",
-      "title_raw": "Zelensky imposes sanctions on two senior Russian sport officials",
-      "lead_raw": "In all, five individuals, including three Russian nationals, have been targeted by the latest sanctions",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
