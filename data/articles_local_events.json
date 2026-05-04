@@ -1,9 +1,92 @@
 {
-  "updated_at_utc": "2026-05-04T06:13:54Z",
+  "updated_at_utc": "2026-05-04T11:48:39Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 8,
+  "count": 11,
   "articles": [
+    {
+      "id": "c24cf8d699252d0a6aeabb397c8797788f6864bd",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/05/04/all-8-miners-confirmed-dead-after-coal-mine-collapse-in-russias-far-east-a92670",
+      "published_utc": "2026-05-04T09:11:01Z",
+      "title_en": "All 8 Miners Confirmed Dead After Coal Mine Collapse in Russia’s Far East",
+      "lead_en": "The CEO of the mining company that operates the site said the collapse was likely caused by melting permafrost.",
+      "title_raw": "All 8 Miners Confirmed Dead After Coal Mine Collapse in Russia’s Far East",
+      "lead_raw": "The CEO of the mining company that operates the site said the collapse was likely caused by melting permafrost.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "d611453b884db2665a93f63446341d87db529fb8",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/society/2125915",
+      "published_utc": "2026-05-04T08:40:39Z",
+      "title_en": "FSB detains 150 illegal gunsmiths detained in 42 regions of Russia",
+      "lead_en": "Law enforcement confiscated 364 firearms",
+      "title_raw": "FSB detains 150 illegal gunsmiths detained in 42 regions of Russia",
+      "lead_raw": "Law enforcement confiscated 364 firearms",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "a3fe575e0a25b34197685fc10beb8355c93e0b7a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27299845",
+      "published_utc": "2026-05-04T08:40:09Z",
+      "title_en": "Expert Panteleev: updating the helicopter fleet will reduce the number of accidents",
+      "lead_en": "The executive director of the industry agency \"Airport\" noted that the accident of the Mi-8T helicopter in Usinsk \"again reminds us of the need to update the helicopter fleet in Russia, including those used for transporting shift workers.\"",
+      "title_raw": "Эксперт Пантелеев: обновление вертолетного парка сократит количество происшествий",
+      "lead_raw": "Исполнительный директор отраслевого агентства \"Авиапорт\" отметил, что авария вертолета Ми-8Т в Усинске \"снова напоминает о необходимости обновления вертолетного парка в России, в том числе используемого для перевозки вахтовиков\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "235c24fc4b2ae240c812fb697df40c21e59c7a74",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/05/04/russian-officials-bar-women-from-helping-clean-oil-fouled-beaches-citing-concern-for-reproductive-health",
+      "published_utc": "2026-05-04T07:30:46Z",
+      "title_en": "Russian officials bar women from helping clean oil-fouled beaches, citing concern for reproductive health",
+      "lead_en": "City officials in Tuapse and representatives of the Emergency Situations Ministry barred female volunteers from helping clean petroleum products from the shoreline, a Kommersant correspondent reported after attending a meeting between officials and volunteers.",
+      "title_raw": "Russian officials bar women from helping clean oil-fouled beaches, citing concern for reproductive health",
+      "lead_raw": "City officials in Tuapse and representatives of the Emergency Situations Ministry barred female volunteers from helping clean petroleum products from the shoreline, a Kommersant correspondent reported after attending a meeting between officials and volunteers.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "a76b9bad015e4936b2799feff070a105569a9e49",
       "source": "TASS (RU)",
@@ -132,25 +215,6 @@
       "lead_en": "Also, Russian Guards, during joint events with law enforcement agencies, detained 45 people suspected of committing crimes",
       "title_raw": "В ЛНР уничтожили более 1,5 тыс. взрывоопасных предметов",
       "lead_raw": "Также росгвардейцы в ходе совместных мероприятий с правоохранительными органами задержали 45 человек, подозреваемых в совершении преступлений",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "3fab8bcfe63515fbbc43fe92711d8d9e9dfd738a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27289775",
-      "published_utc": "2026-05-02T11:39:46Z",
-      "title_en": "Unmanned danger declared in Tatarstan",
-      "lead_en": "This was reported by the Main Directorate of the Ministry of Emergency Situations of Russia for the republic.",
-      "title_raw": "В Татарстане объявили беспилотную опасность",
-      "lead_raw": "Об этом сообщило ГУ МЧС России по республике",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
