@@ -1,9 +1,74 @@
 {
-  "updated_at_utc": "2026-05-05T12:02:21Z",
+  "updated_at_utc": "2026-05-05T17:24:11Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 30,
+  "count": 31,
   "articles": [
+    {
+      "id": "51176f0d2d26b37e46eedcb6b865b2d836a07340",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2126867",
+      "published_utc": "2026-05-05T16:35:31Z",
+      "title_en": "Russian stock indices end in the green as Moscow Exchange closes",
+      "lead_en": "The yuan edged up 3.7 kopecks to 11.052 rubles",
+      "title_raw": "Russian stock indices end in the green as Moscow Exchange closes",
+      "lead_raw": "The yuan edged up 3.7 kopecks to 11.052 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "ff90b356604048274c0a7099a1d0606232c7f627",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/05/05/reuters-reports-ukraine-strikes-kinef-oil-refinery-in-russia-s-leningrad-region-forcing-shutdown",
+      "published_utc": "2026-05-05T15:36:45Z",
+      "title_en": "Reuters reports Ukraine strikes Kinef oil refinery in Russia’s Leningrad Region, forcing shutdown",
+      "lead_en": "Ukraine’s military struck the Kirishi oil refinery in Russia’s Leningrad Region, known as Kinef, forcing it to shut down, the Reuters news agency reported, citing sources.",
+      "title_raw": "Reuters reports Ukraine strikes Kinef oil refinery in Russia’s Leningrad Region, forcing shutdown",
+      "lead_raw": "Ukraine’s military struck the Kirishi oil refinery in Russia’s Leningrad Region, known as Kinef, forcing it to shut down, the Reuters news agency reported, citing sources.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "bea06e560f2f18a960bec07dff74886ea26152ae",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/05/05/russian-forces-kill-4-injure-over-30-in-strike-on-ukraine-s-poltava-region",
+      "published_utc": "2026-05-05T13:01:34Z",
+      "title_en": "Russian forces kill 4, injure over 30 in strike on Ukraine’s Poltava region",
+      "lead_en": "Russian forces struck the Poltava region with drones and missiles, killing four people and knocking out gas service for nearly 3,500 subscribers, regional military administration head Vitaliy Dyakivnych reported. Direct hits and debris were recorded at two locations in the Poltava district.",
+      "title_raw": "Russian forces kill 4, injure over 30 in strike on Ukraine’s Poltava region",
+      "lead_raw": "Russian forces struck the Poltava region with drones and missiles, killing four people and knocking out gas service for nearly 3,500 subscribers, regional military administration head Vitaliy Dyakivnych reported. Direct hits and debris were recorded at two locations in the Poltava district.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "b68f0b0b3331b5745f5d9713b47fc24d71f89992",
       "source": "TASS (EN)",
@@ -597,49 +662,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "559a9fd9b79ac3352fd26655e51cabeb9735d401",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2125749",
-      "published_utc": "2026-05-03T14:19:41Z",
-      "title_en": "Russia expects $2.667 bln in budgetary revenues amid oil prices rise — minister",
-      "lead_en": "The Finance Minister noted that \"the levels of revenue and under-revenue over the past two months are the same\"",
-      "title_raw": "Russia expects $2.667 bln in budgetary revenues amid oil prices rise — minister",
-      "lead_raw": "The Finance Minister noted that \"the levels of revenue and under-revenue over the past two months are the same\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "60bb8b4246ce63f877bdafe4442c245b5e54b081",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2125735",
-      "published_utc": "2026-05-03T13:32:48Z",
-      "title_en": "North Macedonia starts purchasing Azerbaijani gas on regular basis — Russian envoy",
-      "lead_en": "North Macedonia received gas from Azerbaijan \"through the Trans-Anatolian and the Trans Adriatic pipelines, then from Greece via Bulgaria\", Moscow’s Ambassador to the Balkan nation Dmitry Zykov said",
-      "title_raw": "North Macedonia starts purchasing Azerbaijani gas on regular basis — Russian envoy",
-      "lead_raw": "North Macedonia received gas from Azerbaijan \"through the Trans-Anatolian and the Trans Adriatic pipelines, then from Greece via Bulgaria\", Moscow’s Ambassador to the Balkan nation Dmitry Zykov said",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
