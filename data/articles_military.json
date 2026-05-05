@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-05-05T17:24:11Z",
+  "updated_at_utc": "2026-05-05T19:22:56Z",
   "keep_hours": 48,
   "topic": "military",
-  "count": 111,
+  "count": 110,
   "articles": [
+    {
+      "id": "784baf517a5a31c0137df04876ad162d00acc777",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27317195",
+      "published_utc": "2026-05-05T18:10:24Z",
+      "title_en": "93 Ukrainian UAVs shot down over Russian regions",
+      "lead_en": "Air defense forces destroyed the drones between 14:00 and 21:00 Moscow time",
+      "title_raw": "Над регионами России сбили 93 украинских БПЛА",
+      "lead_raw": "Силы ПВО уничтожили дроны в период с 14:00 до 21:00 мск",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "3634f37b650420349abfcc83815b7fcbbbdb5283",
       "source": "TASS (RU)",
@@ -567,7 +588,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/politika/27307997",
       "published_utc": "2026-05-05T04:02:19Z",
-      "title_en": "Ambassador of the Russian Federation: TASS report about the preparation of actions of the Armed Forces of Ukraine near Norway caused a resonance",
+      "title_en": "Russian Ambassador: TASS report on the preparation of Ukrainian Armed Forces actions near Norway caused a resonance",
       "lead_en": "As a military-diplomatic source previously stated, the Kiev regime plans to carry out terrorist attacks with the participation of Oslo",
       "title_raw": "Посол РФ: сообщение ТАСС о подготовке акций ВСУ близ Норвегии вызвало резонанс",
       "lead_raw": "Как заявлял ранее военно-дипломатический источник, киевский режим планирует совершить теракты при участии Осло",
@@ -2314,49 +2335,6 @@
         "military"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "5fc5924155e7433a438025c5400e37b41e2e1f72",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27295707",
-      "published_utc": "2026-05-03T18:22:23Z",
-      "title_en": "TASS: Ukraine may tighten mobilization",
-      "lead_en": "The TCC will check the documents of men near embassies and consulates while receiving services; raids on gyms are also planned, the Russian security forces emphasized",
-      "title_raw": "ТАСС: на Украине могут ужесточить мобилизацию",
-      "lead_raw": "ТЦК будут проверять документы у мужчин возле посольств и консульств во время получения услуг, планируются и рейды по спортзалам, подчеркнули в российских силовых структурах",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "bdc0a0288cd2a447a22d19a8965c01172c11c2d7",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27295481",
-      "published_utc": "2026-05-03T17:48:05Z",
-      "title_en": "SVT: Sweden launched a military satellite to monitor the Russian Federation",
-      "lead_en": "It is noted that the country plans to launch 10 satellites in total",
-      "title_raw": "SVT: Швеция запустила военный спутник для наблюдения за РФ",
-      "lead_raw": "Отмечается, что всего страна планирует запустить 10 спутников",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
