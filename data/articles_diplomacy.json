@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-05-05T08:09:31Z",
+  "updated_at_utc": "2026-05-05T10:45:56Z",
   "keep_hours": 48,
   "topic": "diplomacy",
   "count": 70,
@@ -13,6 +13,71 @@
       "lead_en": "The meeting will take place on May 6 at Lukoil Arena",
       "title_raw": "Левников будет главным судьей матча \"Спартак\" - ЦСКА в Кубке России",
       "lead_raw": "Встреча состоится 6 мая на \"Лукойл-Арене\"",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "629ac6ed332cefec1ffd438b867fab581b9036a0",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2126511",
+      "published_utc": "2026-05-05T07:57:33Z",
+      "title_en": "NATO expands Baltic-Arctic militarization — Russian ambassador to Norway",
+      "lead_en": "\"Northern European countries have seen an increase in the number of US military bases and NATO command centers,\" Nikolay Korchunov stressed",
+      "title_raw": "NATO expands Baltic-Arctic militarization — Russian ambassador to Norway",
+      "lead_raw": "\"Northern European countries have seen an increase in the number of US military bases and NATO command centers,\" Nikolay Korchunov stressed",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "21cdc6ee6bf119b5c0af6558fbfebd90edf48b5b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2126499",
+      "published_utc": "2026-05-05T07:32:19Z",
+      "title_en": "Russian embassy dismisses social media reports of nuclear submarine’s arrival in Cuba",
+      "lead_en": "The Russian embassy said that the photos that have emerged on social media were made in July 2024",
+      "title_raw": "Russian embassy dismisses social media reports of nuclear submarine’s arrival in Cuba",
+      "lead_raw": "The Russian embassy said that the photos that have emerged on social media were made in July 2024",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "a5e1cb2755809844a72870584322939fe175ccba",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2126487",
+      "published_utc": "2026-05-05T07:07:36Z",
+      "title_en": "Russia won't let Norway's threats go unanswered — ambassador to Oslo",
+      "lead_en": "Nikolay Korchunov emphasized that Russia threatens no one and is not interested in an armed or hybrid confrontation with Norway or any other NATO country",
+      "title_raw": "Russia won't let Norway's threats go unanswered — ambassador to Oslo",
+      "lead_raw": "Nikolay Korchunov emphasized that Russia threatens no one and is not interested in an armed or hybrid confrontation with Norway or any other NATO country",
       "topic_scores": {
         "diplomacy": 1,
         "military": 0,
@@ -200,7 +265,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/politika/27307997",
       "published_utc": "2026-05-05T04:02:19Z",
-      "title_en": "Russian Ambassador: TASS report on the preparation of Ukrainian Armed Forces actions near Norway caused a resonance",
+      "title_en": "Ambassador of the Russian Federation: TASS report about the preparation of actions of the Armed Forces of Ukraine near Norway caused a resonance",
       "lead_en": "As a military-diplomatic source previously stated, the Kiev regime plans to carry out terrorist attacks with the participation of Oslo",
       "title_raw": "Посол РФ: сообщение ТАСС о подготовке акций ВСУ близ Норвегии вызвало резонанс",
       "lead_raw": "Как заявлял ранее военно-дипломатический источник, киевский режим планирует совершить теракты при участии Осло",
@@ -1426,69 +1491,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "51e0e4afd06fd3d7050f894bd9282b09c589c369",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27294001",
-      "published_utc": "2026-05-03T10:16:59Z",
-      "title_en": "Lavrov: the United States has no reason to react negatively to the meeting between Putin and Argchi",
-      "lead_en": "The Russian Foreign Minister answered the corresponding question from Vesti journalist Pavel Zarubin.",
-      "title_raw": "Лавров: у США нет причин негативно реагировать на встречу Путина и Аргчи",
-      "lead_raw": "Глава МИД РФ так ответил на соответствующий вопрос журналиста \"Вестей\" Павла Зарубина",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "7a790e68cd22790404b82676ccca4360ddcc4d49",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27293885",
-      "published_utc": "2026-05-03T09:58:25Z",
-      "title_en": "Peskov: it is preferable for the Russian Federation to achieve goals in Ukraine through an agreement",
-      "lead_en": "If Kyiv is not inclined to this, Moscow will achieve this through the SVO, noted the press secretary of the head of state",
-      "title_raw": "Песков: для РФ предпочтительнее достижение целей по Украине через соглашение",
-      "lead_raw": "Если Киев к этому не склонен, Москва добьется этого путем СВО, отметил пресс-секретарь главы государства",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "a95d3908d0e9e6b85a9c9111a7036f684172ef12",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27293675",
-      "published_utc": "2026-05-03T09:17:45Z",
-      "title_en": "The Kremlin announced Putin's meetings with Fico and Lukashenko on Victory Day",
-      "lead_en": "The President of the Russian Federation will traditionally speak at the parade in honor of the holiday, and will also congratulate the Presidential Regiment on its 90th anniversary",
-      "title_raw": "Кремль анонсировал встречи Путина с Фицо и Лукашенко в День Победы",
-      "lead_raw": "Президент РФ традиционно выступит на параде в честь праздника, а также поздравит Президентский полк с 90-летним юбилеем",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
