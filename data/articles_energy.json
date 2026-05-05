@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-05-05T10:45:56Z",
+  "updated_at_utc": "2026-05-05T12:02:21Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 30,
   "articles": [
+    {
+      "id": "b68f0b0b3331b5745f5d9713b47fc24d71f89992",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2126637",
+      "published_utc": "2026-05-05T11:19:00Z",
+      "title_en": "Russian troops deliver precision strike on Ukrainian army’s energy sites in past day",
+      "lead_en": "The Ukrainian army lost roughly 1,210 troops in battles with Russian forces in all the frontline areas over the past 24 hours",
+      "title_raw": "Russian troops deliver precision strike on Ukrainian army’s energy sites in past day",
+      "lead_raw": "The Ukrainian army lost roughly 1,210 troops in battles with Russian forces in all the frontline areas over the past 24 hours",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "6a6481383cfab88fb1c58acf09297b62b5e35eb9",
       "source": "TASS (EN)",
@@ -618,27 +640,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "d39d6306ac10a1efddb31c094ec539907b16175d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2125715",
-      "published_utc": "2026-05-03T11:35:59Z",
-      "title_en": "Kiev’s attacks on Russian oil facilities may lead to further rise in prices, Kremlin warns",
-      "lead_en": "Oil supplies to the global market have greatly declined due to developments in the Strait of Hormuz, and if some of our oil supplies fail to reach the market, prices will grow even higher, while they have already reached the $120 per barrel level, Kremlin Spokesman Dmitry Peskov",
-      "title_raw": "Kiev’s attacks on Russian oil facilities may lead to further rise in prices, Kremlin warns",
-      "lead_raw": "Oil supplies to the global market have greatly declined due to developments in the Strait of Hormuz, and if some of our oil supplies fail to reach the market, prices will grow even higher, while they have already reached the $120 per barrel level, Kremlin Spokesman Dmitry Peskov",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }

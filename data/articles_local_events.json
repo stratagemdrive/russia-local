@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-05-05T10:45:56Z",
+  "updated_at_utc": "2026-05-05T12:02:21Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 21,
   "articles": [
+    {
+      "id": "40257dc2113625b81bed57a69c00b5c27a28c3e9",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2126623",
+      "published_utc": "2026-05-05T10:47:11Z",
+      "title_en": "Over 30 Russians, including two children, killed in Ukrainian strikes over week — envoy",
+      "lead_en": "Rodion Miroshnik specified that more than 90% of the total number of victims – 185 people – were injured in attacks by Ukrainian attack drones",
+      "title_raw": "Over 30 Russians, including two children, killed in Ukrainian strikes over week — envoy",
+      "lead_raw": "Rodion Miroshnik specified that more than 90% of the total number of victims – 185 people – were injured in attacks by Ukrainian attack drones",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "diplomacy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "50129e638acbcdef5e4e8be6b08e4d327ad267a3",
       "source": "The Moscow Times",
@@ -395,25 +417,6 @@
       "lead_en": "According to the financial marketplace Compare and Sberstrakhovanie, among other threats, respondents named damage to housing due to weather conditions and failures of engineering systems",
       "title_raw": "Россияне назвали кражи и пожары главными рисками для загородных домов",
       "lead_raw": "По данным финансового маркетплейса \"Сравни\" и \"Сберстрахования\", среди других угроз респонденты назвали повреждение жилья из-за погодных условий и сбои инженерных систем",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "a109f6bc424d46961d476972018eeca6781465a5",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27294345",
-      "published_utc": "2026-05-03T11:37:31Z",
-      "title_en": "The OP told where to complain about barbecue violators",
-      "lead_en": "You can complain about them to the Ministry of Emergency Situations or call the police, said Evgeny Masharov, a member of the Commission of the Public Chamber of the Russian Federation for public examination of bills and other regulations.",
-      "title_raw": "В ОП рассказали, куда жаловаться на мангальщиков-нарушителей",
-      "lead_raw": "На них можно пожаловаться в МЧС или вызвать полицию, сообщил член комиссии Общественной палаты РФ по общественной экспертизе законопроектов и иных нормативных актов Евгений Машаров",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
