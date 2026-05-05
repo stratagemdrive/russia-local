@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-05-04T23:53:44Z",
+  "updated_at_utc": "2026-05-05T02:44:00Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 34,
+  "count": 33,
   "articles": [
+    {
+      "id": "e98b6c4500b1661c6ade3fa433bd117779f9dd7f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27307363",
+      "published_utc": "2026-05-05T01:46:17Z",
+      "title_en": "Expert Krivelevich spoke about the possible advantages of building a bridge to Sakhalin",
+      "lead_en": "The bridge will be a stimulus for economic growth in the region and may lead to lower food prices, said Candidate of Economic Sciences, head of the Primorsky Laboratory of the Institute of Economic Research, Far Eastern Branch of the Russian Academy of Sciences",
+      "title_raw": "Эксперт Кривелевич рассказал о возможных плюсах строительства моста на Сахалин",
+      "lead_raw": "Мост станет стимулом для экономического роста в регионе и может привести к снижению цен на продукты, сообщил кандидат экономических наук, руководитель Приморской лаборатории Института экономических исследований ДВО РАН",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
     {
       "id": "9fa21bfe0d7949a392b4af9a80879740369b5f5c",
       "source": "TASS (RU)",
@@ -644,52 +663,6 @@
         "local_events": 0
       },
       "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "c5df2a646381cc6c99fc8fe84ed5624005dddcea",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2125647",
-      "published_utc": "2026-05-03T02:26:19Z",
-      "title_en": "North Macedonia reduces Russian gas imports for political reasons — Russian ambassador",
-      "lead_en": "According to Dmitry Zykov, the country is ready to act even against its own economic interests",
-      "title_raw": "North Macedonia reduces Russian gas imports for political reasons — Russian ambassador",
-      "lead_raw": "According to Dmitry Zykov, the country is ready to act even against its own economic interests",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "8d26805e9d25f52eec7ed8db28da0c790438c83c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27292043",
-      "published_utc": "2026-05-03T01:32:48Z",
-      "title_en": "Russian Ambassador: Skopje is reducing imports of Russian gas for political reasons",
-      "lead_en": "North Macedonia is ready to act even to the detriment of its economic interests, noted Dmitry Zykov",
-      "title_raw": "Посол РФ: Скопье по политическим мотивам сокращает импорт российского газа",
-      "lead_raw": "Северная Македония готова действовать даже в ущерб своим экономическим интересам, отметил Дмитрий Зыков",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy",
         "economy"
       ],
       "primary_topic": "economy"
