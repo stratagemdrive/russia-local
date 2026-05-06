@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-05-06T20:22:17Z",
+  "updated_at_utc": "2026-05-06T22:55:55Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 22,
+  "count": 21,
   "articles": [
+    {
+      "id": "c726e37829b9b79cc58809d6d563559c8eebaace",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27328101",
+      "published_utc": "2026-05-06T18:37:01Z",
+      "title_en": "Belarus reported the threat of a cross-border fire from Ukraine",
+      "lead_en": "As the Ministry of Forestry informed, there are only 2 km left to the Belarusian territory",
+      "title_raw": "В Белоруссии сообщили об угрозе трансграничного пожара со стороны Украины",
+      "lead_raw": "Как проинформировали в министерстве лесного хозяйства, до белорусской территории осталось всего 2 км",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "e0c6aec3a2c585c03706670a33c406160ab3d6a3",
       "source": "Meduza (EN)",
@@ -395,48 +414,6 @@
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "8b5c3e406e2731f3ce7e414287842039934fd098",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/05/04/ukraine-and-russia-declare-separate-truces-a92680",
-      "published_utc": "2026-05-04T20:29:00Z",
-      "title_en": "Ukraine and Russia Declare Separate Truces",
-      "lead_en": "The Russian Defense Ministry threatened a \"massive missile strike on the center of Kyiv\" if Ukraine violated its ceasefire.",
-      "title_raw": "Ukraine and Russia Declare Separate Truces",
-      "lead_raw": "The Russian Defense Ministry threatened a \"massive missile strike on the center of Kyiv\" if Ukraine violated its ceasefire.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "76e4563cf03d32f46b7970d2642197532d7d8b5a",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/05/04/ukraine-and-russia-declare-separate-temporary-ceasefires-a92680",
-      "published_utc": "2026-05-04T20:29:00Z",
-      "title_en": "Ukraine and Russia Declare Separate Temporary Ceasefires",
-      "lead_en": "The Russian Defense Ministry threatened a \"massive missile strike on the center of Kyiv\" if Ukraine violated its ceasefire.",
-      "title_raw": "Ukraine and Russia Declare Separate Temporary Ceasefires",
-      "lead_raw": "The Russian Defense Ministry threatened a \"massive missile strike on the center of Kyiv\" if Ukraine violated its ceasefire.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
         "energy": 0,
         "economy": 0,
         "local_events": 1
