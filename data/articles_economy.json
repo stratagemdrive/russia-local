@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-05-06T16:27:25Z",
+  "updated_at_utc": "2026-05-06T18:16:07Z",
   "keep_hours": 48,
   "topic": "economy",
   "count": 67,
   "articles": [
+    {
+      "id": "565f2c5280dc7ac9d867308a2b9a122bc53f7e25",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27327571",
+      "published_utc": "2026-05-06T16:59:13Z",
+      "title_en": "The Russian stock market closed with a decline in the main indices",
+      "lead_en": "Polyus shares showed noticeable strengthening",
+      "title_raw": "Российский рынок акций закрылся снижением основных индексов",
+      "lead_raw": "Заметное укрепление продемонстрировали бумаги \"Полюса\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
     {
       "id": "45eaf9eb20d0df89fbcf4bb4339621b0f89cfaad",
       "source": "TASS (RU)",
@@ -1322,27 +1341,6 @@
       },
       "topics": [
         "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "5527ec6ee1c667203a6d709fdf8e47ee0b462e74",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27304691",
-      "published_utc": "2026-05-04T16:27:56Z",
-      "title_en": "The Russian stock market closed with a decline in the main indices",
-      "lead_en": "The yuan exchange rate rose to 11.02 rubles",
-      "title_raw": "Российский рынок акций закрылся снижением основных индексов",
-      "lead_raw": "Курс юаня вырос до 11,02 рубля",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
         "economy"
       ],
       "primary_topic": "economy"

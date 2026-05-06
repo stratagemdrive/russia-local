@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-05-06T16:27:25Z",
+  "updated_at_utc": "2026-05-06T18:16:07Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 26,
   "articles": [
+    {
+      "id": "beed23c59edbabd94d6c97859562e4a8a26711db",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27327379",
+      "published_utc": "2026-05-06T16:30:33Z",
+      "title_en": "20 trucks from the Russian Federation and Belarus with more than 200 liters of fuel in the tank were not allowed into Lithuania",
+      "lead_en": "This ban came into force on May 3",
+      "title_raw": "В Литву не впустили 20 фур из РФ и Белоруссии с более чем 200 л топлива в баке",
+      "lead_raw": "Такой запрет вступил в силу 3 мая",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "b35b4fa8a36435fdafc61aee0dd3fc719c58edfa",
       "source": "TASS (EN)",
@@ -541,27 +562,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "60477f3ad08d7e3660a036427b0721d23580c937",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27305237",
-      "published_utc": "2026-05-04T17:31:29Z",
-      "title_en": "A group of energy workers from Donbass and Novorossia were awarded medals “For Bravery”",
-      "lead_en": "In the Zaporozhye region, medals were awarded to Kononenko, an electrician for servicing substations of the Pologovsky interdistrict district of electric networks \"Zaporozhyeenergo\" and an electrician for the operation of distribution networks of the Vasilyevsky interdistrict dis",
-      "title_raw": "Группа энергетиков Донбасса и Новороссии награждены медалями \"За храбрость\"",
-      "lead_raw": "В Запорожской области медалей удостоены электромонтер по обслуживанию подстанций Пологовского межрайонного района электрических сетей \"Запорожьеэнерго\" Кононенко и электромонтер эксплуатации распределительных сетей Васильевского межрайонного района электрических сетей \"Запорожьеэ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
