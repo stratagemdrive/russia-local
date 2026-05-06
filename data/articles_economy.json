@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-05-06T18:16:07Z",
+  "updated_at_utc": "2026-05-06T20:22:17Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 67,
+  "count": 66,
   "articles": [
+    {
+      "id": "e0c6aec3a2c585c03706670a33c406160ab3d6a3",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/05/06/russia-ukraine-victory-day-truce-collapses-as-moscow-and-kyiv-trade-accusations-of-violations",
+      "published_utc": "2026-05-06T18:19:25Z",
+      "title_en": "Russia–Ukraine Victory Day truce collapses as Moscow and Kyiv trade accusations of violations",
+      "lead_en": "On May 4, Russia and Ukraine announced they would temporarily halt fighting — but without coordinating their decisions. Russia’s Defense Ministry declared a temporary truce in honor of Victory Day, to run from May 8 through 9.",
+      "title_raw": "Russia–Ukraine Victory Day truce collapses as Moscow and Kyiv trade accusations of violations",
+      "lead_raw": "On May 4, Russia and Ukraine announced they would temporarily halt fighting — but without coordinating their decisions. Russia’s Defense Ministry declared a temporary truce in honor of Victory Day, to run from May 8 through 9.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "565f2c5280dc7ac9d867308a2b9a122bc53f7e25",
       "source": "TASS (RU)",
@@ -1303,47 +1324,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "0301f86ccc81b913c690c9cace5807acd9f001c6",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27305771",
-      "published_utc": "2026-05-04T19:35:32Z",
-      "title_en": "The GP, in a lawsuit against Moshkovich, demands to convert more than 10.5 billion rubles into the income of the Russian Federation",
-      "lead_en": "The amount is in the accounts of the founder of the company \"Rusagro\"",
-      "title_raw": "ГП по иску к Мошковичу требует обратить в доход РФ более 10,5 млрд рублей",
-      "lead_raw": "Сумма находится на счетах основателя компании \"Русагро\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "c4d7c7370a88b4881a2465e39a5791c28fda5763",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2126353",
-      "published_utc": "2026-05-04T19:07:27Z",
-      "title_en": "Russian stock market closed in the red — Moscow Exchange",
-      "lead_en": "The yuan added four kopecks and reached 11.02 rubles",
-      "title_raw": "Russian stock market closed in the red — Moscow Exchange",
-      "lead_raw": "The yuan added four kopecks and reached 11.02 rubles",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
