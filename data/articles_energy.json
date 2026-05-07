@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-05-07T14:08:28Z",
+  "updated_at_utc": "2026-05-07T16:50:01Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 27,
+  "count": 26,
   "articles": [
+    {
+      "id": "9340ff90d48f67b4c8fec1850bcdb35cdae1f84e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27341523",
+      "published_utc": "2026-05-07T14:47:55Z",
+      "title_en": "Degtyarev expressed disappointment with the IOC’s decision on the issue of restoring the ROC",
+      "lead_en": "The head of the Russian Olympic Committee noted that the Ministry of Sports and the ROC will continue vigorous diplomatic and legal work to fully restore the rights of all Russian athletes",
+      "title_raw": "Дегтярев заявил о разочаровании от решения МОК по вопросу восстановления ОКР",
+      "lead_raw": "Глава Олимпийского комитета России отметил, что Минспорт и ОКР продолжат энергичную дипломатическую и юридическую работу по полноценному восстановлению в правах всех российских спортсменов",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "623215b5cbf57e6f1062256e6a4bcfcbf9007db8",
       "source": "The Moscow Times",
@@ -538,49 +560,6 @@
       },
       "topics": [
         "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "51176f0d2d26b37e46eedcb6b865b2d836a07340",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2126867",
-      "published_utc": "2026-05-05T16:35:31Z",
-      "title_en": "Russian stock indices end in the green as Moscow Exchange closes",
-      "lead_en": "The yuan edged up 3.7 kopecks to 11.052 rubles",
-      "title_raw": "Russian stock indices end in the green as Moscow Exchange closes",
-      "lead_raw": "The yuan edged up 3.7 kopecks to 11.052 rubles",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "ff90b356604048274c0a7099a1d0606232c7f627",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/05/05/reuters-reports-ukraine-strikes-kinef-oil-refinery-in-russia-s-leningrad-region-forcing-shutdown",
-      "published_utc": "2026-05-05T15:36:45Z",
-      "title_en": "Reuters reports Ukraine strikes Kinef oil refinery in Russia’s Leningrad Region, forcing shutdown",
-      "lead_en": "Ukraine’s military struck the Kirishi oil refinery in Russia’s Leningrad Region, known as Kinef, forcing it to shut down, the Reuters news agency reported, citing sources.",
-      "title_raw": "Reuters reports Ukraine strikes Kinef oil refinery in Russia’s Leningrad Region, forcing shutdown",
-      "lead_raw": "Ukraine’s military struck the Kirishi oil refinery in Russia’s Leningrad Region, known as Kinef, forcing it to shut down, the Reuters news agency reported, citing sources.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
         "energy"
       ],
       "primary_topic": "energy"

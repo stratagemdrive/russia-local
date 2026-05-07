@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-05-07T14:08:28Z",
+  "updated_at_utc": "2026-05-07T16:50:01Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 20,
+  "count": 19,
   "articles": [
+    {
+      "id": "525f6e6da004004485475e9517a13fd7a795cb19",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/05/07/russians-turn-to-cash-and-paper-maps-as-internet-outages-spread-russia-s-central-bank-says",
+      "published_utc": "2026-05-07T16:34:54Z",
+      "title_en": "Russians turn to cash and paper maps as internet outages spread, Russia’s Central Bank says",
+      "lead_en": "Demand for cash among Russians rose in March and April, Russia’s central bank said in a summary of key rate discussions published on May 7.",
+      "title_raw": "Russians turn to cash and paper maps as internet outages spread, Russia’s Central Bank says",
+      "lead_raw": "Demand for cash among Russians rose in March and April, Russia’s central bank said in a summary of key rate discussions published on May 7.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
     {
       "id": "623215b5cbf57e6f1062256e6a4bcfcbf9007db8",
       "source": "The Moscow Times",
@@ -115,6 +134,27 @@
       "title_en": "At Least 1 Killed in Belgorod Region Amid Major Ukrainian Drone Barrage",
       "lead_en": "Russia’s military said it intercepted almost 350 Ukrainian drones across the country and in annexed Crimea between Wednesday and Thursday.",
       "title_raw": "At Least 1 Killed in Belgorod Region Amid Major Ukrainian Drone Barrage",
+      "lead_raw": "Russia’s military said it intercepted almost 350 Ukrainian drones across the country and in annexed Crimea between Wednesday and Thursday.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "a38c31d2f9e0da892772f9f5a80e46c0e05d9398",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/05/07/at-least-1-killed-in-belgorod-region-amid-ukrainian-drone-barrage-a92703",
+      "published_utc": "2026-05-07T09:12:00Z",
+      "title_en": "At Least 1 Killed in Belgorod Region Amid Ukrainian Drone Barrage",
+      "lead_en": "Russia’s military said it intercepted almost 350 Ukrainian drones across the country and in annexed Crimea between Wednesday and Thursday.",
+      "title_raw": "At Least 1 Killed in Belgorod Region Amid Ukrainian Drone Barrage",
       "lead_raw": "Russia’s military said it intercepted almost 350 Ukrainian drones across the country and in annexed Crimea between Wednesday and Thursday.",
       "topic_scores": {
         "diplomacy": 0,
@@ -336,70 +376,6 @@
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "ee1ed7654cba2b0081f66d318aa715fff14b805d",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/05/05/russian-strike-on-zaporizhzhia-kills-12-aerial-bomb-hits-kramatorsk-killing-5",
-      "published_utc": "2026-05-05T16:46:21Z",
-      "title_en": "Russian strike on Zaporizhzhia kills 12; aerial bomb hits Kramatorsk, killing 5",
-      "lead_en": "A Russian military strike on Zaporizhzhia on the afternoon of May 5 killed at least 12 people and wounded several others, Ivan Fedorov, head of the Zaporizhzhia regional military administration, said.",
-      "title_raw": "Russian strike on Zaporizhzhia kills 12; aerial bomb hits Kramatorsk, killing 5",
-      "lead_raw": "A Russian military strike on Zaporizhzhia on the afternoon of May 5 killed at least 12 people and wounded several others, Ivan Fedorov, head of the Zaporizhzhia regional military administration, said.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "9484e55f5ca1baa34ca15fb8db62e4a6525e7783",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2126875",
-      "published_utc": "2026-05-05T16:45:12Z",
-      "title_en": "Russian embassy slams UK’s new sanctions package as another hostile step",
-      "lead_en": "According to the embassy spokesman, it is London that is fanning the flames of the Ukrainian conflict by flooding the Kiev regime with money and weapons",
-      "title_raw": "Russian embassy slams UK’s new sanctions package as another hostile step",
-      "lead_raw": "According to the embassy spokesman, it is London that is fanning the flames of the Ukrainian conflict by flooding the Kiev regime with money and weapons",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "f22b122de16e1a16ed8c5b806feb8640ce4a6360",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/05/05/russia-announces-victory-day-ceasefire-threatens-missile-strike-on-kyiv-if-ukraine-disrupts-celebrations",
-      "published_utc": "2026-05-05T14:51:11Z",
-      "title_en": "Russia announces Victory Day ceasefire, threatens missile strike on Kyiv if Ukraine disrupts celebrations",
-      "lead_en": "Russia’s Defense Ministry announced on the evening of May 4 that Vladimir Putin had ordered a “ceasefire in honor of the Victory Day celebrations” on May 8 and 9. “We expect the Ukrainian side to follow this example,” the ministry said, warning that if Ukraine attempted to disrupt the celebrations, Russian armed forces would “deliver a retaliatory, massive missile strike on the center of Kyiv.”",
-      "title_raw": "Russia announces Victory Day ceasefire, threatens missile strike on Kyiv if Ukraine disrupts celebrations",
-      "lead_raw": "Russia’s Defense Ministry announced on the evening of May 4 that Vladimir Putin had ordered a “ceasefire in honor of the Victory Day celebrations” on May 8 and 9. “We expect the Ukrainian side to follow this example,” the ministry said, warning that if Ukraine attempted to disrupt the celebrations, Russian armed forces would “deliver a retaliatory, massive missile strike on the center of Kyiv.”",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
         "energy": 0,
         "economy": 0,
         "local_events": 1
