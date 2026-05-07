@@ -1,8 +1,8 @@
 {
-  "updated_at_utc": "2026-05-07T09:32:03Z",
+  "updated_at_utc": "2026-05-07T11:47:07Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 20,
+  "count": 18,
   "articles": [
     {
       "id": "572ae2054ec7f81ef39cfb6f07dfae339c75d4c0",
@@ -13,6 +13,27 @@
       "lead_en": "The Russian military said it intercepted 347 Ukrainian drones across the country and in annexed Crimea between Wednesday and Thursday.",
       "title_raw": "At Least 1 Killed in Belgorod Region Amid Major Ukrainian Drone Barrage Against Russia",
       "lead_raw": "The Russian military said it intercepted 347 Ukrainian drones across the country and in annexed Crimea between Wednesday and Thursday.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "a5e76e3aca27b0c63bdce0e407ee72aa3e852f35",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/05/07/at-least-1-killed-in-belgorod-region-amid-major-ukrainian-drone-barrage-a92703",
+      "published_utc": "2026-05-07T09:12:00Z",
+      "title_en": "At Least 1 Killed in Belgorod Region Amid Major Ukrainian Drone Barrage",
+      "lead_en": "Russia’s military said it intercepted almost 350 Ukrainian drones across the country and in annexed Crimea between Wednesday and Thursday.",
+      "title_raw": "At Least 1 Killed in Belgorod Region Amid Major Ukrainian Drone Barrage",
+      "lead_raw": "Russia’s military said it intercepted almost 350 Ukrainian drones across the country and in annexed Crimea between Wednesday and Thursday.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
@@ -334,68 +355,6 @@
       "lead_en": "Yakutsk’s chief architect, Semyon Sergeyev, told the Yakutsk-based news outlet YSIA that a monument to Dmitry Yegorov — a participant in the war in Ukraine killed in 2023 — will be erected at the intersection of Poyarkova and Kurashova streets. The site previously held a memorial to exiled Poles.",
       "title_raw": "Russia plans monument to soldier killed in Ukraine war at site of demolished memorial to exiled Poles",
       "lead_raw": "Yakutsk’s chief architect, Semyon Sergeyev, told the Yakutsk-based news outlet YSIA that a monument to Dmitry Yegorov — a participant in the war in Ukraine killed in 2023 — will be erected at the intersection of Poyarkova and Kurashova streets. The site previously held a memorial to exiled Poles.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "40257dc2113625b81bed57a69c00b5c27a28c3e9",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2126623",
-      "published_utc": "2026-05-05T10:47:11Z",
-      "title_en": "Over 30 Russians, including two children, killed in Ukrainian strikes over week — envoy",
-      "lead_en": "Rodion Miroshnik specified that more than 90% of the total number of victims – 185 people – were injured in attacks by Ukrainian attack drones",
-      "title_raw": "Over 30 Russians, including two children, killed in Ukrainian strikes over week — envoy",
-      "lead_raw": "Rodion Miroshnik specified that more than 90% of the total number of victims – 185 people – were injured in attacks by Ukrainian attack drones",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "diplomacy",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "50129e638acbcdef5e4e8be6b08e4d327ad267a3",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/05/05/mobile-internet-outages-reported-in-moscow-and-st-petersburg-amid-security-concerns-a92682",
-      "published_utc": "2026-05-05T10:01:00Z",
-      "title_en": "Mobile Internet Outages Reported in Moscow and St. Petersburg Amid ‘Security Concerns’",
-      "lead_en": "The Digital Ministry confirmed restrictions were introduced in the Russian capital on Tuesday morning, stating that they were a temporary measure.",
-      "title_raw": "Mobile Internet Outages Reported in Moscow and St. Petersburg Amid ‘Security Concerns’",
-      "lead_raw": "The Digital Ministry confirmed restrictions were introduced in the Russian capital on Tuesday morning, stating that they were a temporary measure.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "37e544f3e35445f82b97dc6543236f18cc6175b6",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/pressreview/2126485",
-      "published_utc": "2026-05-05T10:00:00Z",
-      "title_en": "Press review: Russia warns Ukraine over V-Day ceasefire as US Hormuz actions affect peace",
-      "lead_en": "Top stories from the Russian press on Tuesday, May 5th",
-      "title_raw": "Press review: Russia warns Ukraine over V-Day ceasefire as US Hormuz actions affect peace",
-      "lead_raw": "Top stories from the Russian press on Tuesday, May 5th",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
