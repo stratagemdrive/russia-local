@@ -1,9 +1,95 @@
 {
-  "updated_at_utc": "2026-05-08T11:15:21Z",
+  "updated_at_utc": "2026-05-08T13:47:44Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 26,
+  "count": 29,
   "articles": [
+    {
+      "id": "c9d0e330735a7718de61e3b19999a703871bf4f6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27352375",
+      "published_utc": "2026-05-08T13:21:13Z",
+      "title_en": "Zaporizhia NPP reported strikes by the Ukrainian Armed Forces on the Dnieper coastline in Energodar",
+      "lead_en": "All groups of Russian troops in the Northern Military District zone ceased hostilities in accordance with the declared truce",
+      "title_raw": "На ЗАЭС сообщили об ударах ВСУ по береговой линии Днепра в Энергодаре",
+      "lead_raw": "Все группировки российских войск в зоне СВО прекратили боевые действия в соответствии с объявленным перемирием",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "f986655950f9f6945563f06f51e052d5aceb8a08",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/05/08/second-japanese-refiner-buys-russian-oil-amid-global-supply-crunch-a92719",
+      "published_utc": "2026-05-08T13:18:11Z",
+      "title_en": "Second Japanese Refiner Buys Russian Oil Amid Global Supply Crunch",
+      "lead_en": "Idemitsu Kosan told TASS that the purchase was made at the request of Japan’s Agency for Natural Resources and Energy to “ensure a stable supply of petroleum products.”",
+      "title_raw": "Second Japanese Refiner Buys Russian Oil Amid Global Supply Crunch",
+      "lead_raw": "Idemitsu Kosan told TASS that the purchase was made at the request of Japan’s Agency for Natural Resources and Energy to “ensure a stable supply of petroleum products.”",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "e4b4456d8bb883a1b39dcc2ac3bc4904240f6cd2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27351877",
+      "published_utc": "2026-05-08T12:54:29Z",
+      "title_en": "Japan purchased a shipment of oil from Russia. What is known",
+      "lead_en": "Even a small amount of oil from Russia is important for Japan against the backdrop of the worsening situation around Iran and the closure of the Strait of Hormuz, said a representative of the Department of Natural Resources and Energy under the Ministry of Economy, Trade and Indu",
+      "title_raw": "Япония закупила партию нефти у России. Что известно",
+      "lead_raw": "Даже небольшой объем нефти из России важен для Японии на фоне обострения ситуации вокруг Ирана и перекрытия Ормузского пролива, заявлял представитель управления природных ресурсов и энергетики при Министерстве экономики, торговли и промышленности",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "8734833dc45a20c54c64aa304a8e341081c12fc4",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2128473",
+      "published_utc": "2026-05-08T12:01:26Z",
+      "title_en": "Japan's Idemitsu says it has bought cargo of Russian crude oil",
+      "lead_en": "The decision was made at the request of the Natural Resources and Energy Administration to ensure stable supplies of petroleum products",
+      "title_raw": "Japan's Idemitsu says it has bought cargo of Russian crude oil",
+      "lead_raw": "The decision was made at the request of the Natural Resources and Energy Administration to ensure stable supplies of petroleum products",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "0fbb364e91efee7ac58262c26c6250e056101d9f",
       "source": "TASS (EN)",
@@ -536,27 +622,6 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e47494cdf868f3e136c5994cae8bc49ba996768f",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/05/06/state-payments-to-oil-exporters-consume-nearly-half-of-russia-s-windfall-from-high-prices-data-show",
-      "published_utc": "2026-05-06T12:40:12Z",
-      "title_en": "State payments to oil exporters consume nearly half of Russia’s windfall from high prices, data show",
-      "lead_en": "Russia’s Finance Ministry released April oil and gas revenue figures showing taxes paid by exporters for March — the first full month of the U.S.-Israeli war with Iran, when oil prices spiked sharply. The independent Russian political newsletter Faridaily was among the first to flag the publication.",
-      "title_raw": "State payments to oil exporters consume nearly half of Russia’s windfall from high prices, data show",
-      "lead_raw": "Russia’s Finance Ministry released April oil and gas revenue figures showing taxes paid by exporters for March — the first full month of the U.S.-Israeli war with Iran, when oil prices spiked sharply. The independent Russian political newsletter Faridaily was among the first to flag the publication.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
         "economy": 0,
         "local_events": 0
       },
