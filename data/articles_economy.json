@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-05-08T13:47:44Z",
+  "updated_at_utc": "2026-05-08T15:21:39Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 58,
+  "count": 57,
   "articles": [
+    {
+      "id": "04d0f60f055c7692dcb99921a7837a8ae8f24734",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2128597",
+      "published_utc": "2026-05-08T15:18:26Z",
+      "title_en": "Bank of Russia lowers dollar rate for May 9-12 to 74.3 rubles",
+      "lead_en": "The official euro exchange rate was increased by 65.93 kopecks to 88.549 rubles",
+      "title_raw": "Bank of Russia lowers dollar rate for May 9-12 to 74.3 rubles",
+      "lead_raw": "The official euro exchange rate was increased by 65.93 kopecks to 88.549 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "b1e7d5974fa4393101b4e1c169f7ede078921aeb",
       "source": "TASS (RU)",
@@ -1131,46 +1152,6 @@
       "topics": [
         "economy"
       ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "b35b4fa8a36435fdafc61aee0dd3fc719c58edfa",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2127381",
-      "published_utc": "2026-05-06T15:16:48Z",
-      "title_en": "Bank of Russia lowers dollar rate for May 7 to 75.22 rubles",
-      "lead_en": "The official euro exchange rate was lowered by 28.63 kopecks to 88.06 rubles",
-      "title_raw": "Bank of Russia lowers dollar rate for May 7 to 75.22 rubles",
-      "lead_raw": "The official euro exchange rate was lowered by 28.63 kopecks to 88.06 rubles",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "9bb10fb34ae2f360dfb3f42cfa738ece3177fcf1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27322093",
-      "published_utc": "2026-05-06T14:00:01Z",
-      "title_en": "For the price of ink. 340 years ago Kyiv officially became part of Russia",
-      "lead_en": "At the same time, 146 thousand silver rubles were transferred to the Polish-Lithuanian state for the war with the Ottoman Empire",
-      "title_raw": "По цене чернил. 340 лет назад в состав России официально вошел Киев",
-      "lead_raw": "Одновременно Польско-Литовскому государству перечислялись 146 тыс. рублей серебром на войну с Османской империей",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
       "primary_topic": "economy"
     }
   ]
