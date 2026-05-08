@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-05-08T19:17:40Z",
+  "updated_at_utc": "2026-05-08T20:59:59Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 55,
+  "count": 57,
   "articles": [
+    {
+      "id": "84ceecd98d4bad3f64d0be9ef3ce4d19a66edc2d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27356117",
+      "published_utc": "2026-05-08T19:39:57Z",
+      "title_en": "Tokayev announced preparations for Putin’s visit to Kazakhstan",
+      "lead_en": "The President of Kazakhstan noted that Russia is the most important investor in the republic’s economy",
+      "title_raw": "Токаев сообщил о подготовке визита Путина в Казахстан",
+      "lead_raw": "Президент Казахстана отметил, что Россия является самым главным инвестором в экономику республики",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
     {
       "id": "c0197f90cd8c30ab99298d476912927f9cbec6da",
       "source": "TASS (RU)",
@@ -59,6 +78,28 @@
         "local_events": 0
       },
       "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "d8cc5af64b66226ed470f3d979e2ffb6b78a851e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2128645",
+      "published_utc": "2026-05-08T17:40:40Z",
+      "title_en": "Russian stock market ends week with declines in major indices",
+      "lead_en": "The yuan weakened by 2 kopecks to 10.92 rubles",
+      "title_raw": "Russian stock market ends week with declines in major indices",
+      "lead_raw": "The yuan weakened by 2 kopecks to 10.92 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
       "primary_topic": "economy"
     },
     {
