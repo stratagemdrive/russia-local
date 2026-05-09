@@ -1,9 +1,51 @@
 {
-  "updated_at_utc": "2026-05-09T10:57:30Z",
+  "updated_at_utc": "2026-05-09T13:17:59Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 27,
   "articles": [
+    {
+      "id": "1295cd786f6d0672daf8d90fcb72cc5c84b4d126",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2128917",
+      "published_utc": "2026-05-09T13:06:41Z",
+      "title_en": "Russia-US contacts intensified amid Kiev’s threats &mdash — Ushakov",
+      "lead_en": "As a result, an agreement on a ceasefire was reached",
+      "title_raw": "Russia-US contacts intensified amid Kiev’s threats &mdash — Ushakov",
+      "lead_raw": "As a result, an agreement on a ceasefire was reached",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "170e602627d931afaabb76d3c9418f755dd7bf81",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2128961",
+      "published_utc": "2026-05-09T12:39:16Z",
+      "title_en": "Russian troops continue strictly observing Victory Day ceasefire — top brass",
+      "lead_en": "Ukrainian troops continued delivering strikes on Russian army positions and civilian facilities in 18 Russian regions despite the Victory Day ceasefire, the Defense Ministry of Russia reported",
+      "title_raw": "Russian troops continue strictly observing Victory Day ceasefire — top brass",
+      "lead_raw": "Ukrainian troops continued delivering strikes on Russian army positions and civilian facilities in 18 Russian regions despite the Victory Day ceasefire, the Defense Ministry of Russia reported",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "b860db41e983a61532df6fd29e05558433fb85c9",
       "source": "RT",
@@ -501,46 +543,6 @@
         "local_events"
       ],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "a85c44b9296ab88aee004cd99bb0541f512ede4f",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/05/07/kremlin-says-it-has-no-plans-to-compensate-businesses-for-losses-from-internet-outages",
-      "published_utc": "2026-05-07T12:25:51Z",
-      "title_en": "Kremlin says it has no plans to compensate businesses for losses from internet outages",
-      "lead_en": "The Kremlin has no plans to compensate businesses for losses caused by internet outages, spokesman Dmitry Peskov told reporters, according to the Russian media outlet Vy Slushali. Support measures were “not under consideration,” he said.",
-      "title_raw": "Kremlin says it has no plans to compensate businesses for losses from internet outages",
-      "lead_raw": "The Kremlin has no plans to compensate businesses for losses caused by internet outages, spokesman Dmitry Peskov told reporters, according to the Russian media outlet Vy Slushali. Support measures were “not under consideration,” he said.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "8b85df86851cabb09fed1c304a001e944268c1ba",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2127805",
-      "published_utc": "2026-05-07T11:24:17Z",
-      "title_en": "Enhanced security measures, Victory Day, ceasefire: key topics of Kremlin’s briefing",
-      "lead_en": "Dmitry Peskov said that ensuring the safety of citizens is an absolute priority for the Russian authorities, and all measures are taken in accordance with the law",
-      "title_raw": "Enhanced security measures, Victory Day, ceasefire: key topics of Kremlin’s briefing",
-      "lead_raw": "Dmitry Peskov said that ensuring the safety of citizens is an absolute priority for the Russian authorities, and all measures are taken in accordance with the law",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
