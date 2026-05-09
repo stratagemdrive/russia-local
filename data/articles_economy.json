@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-05-09T05:49:02Z",
+  "updated_at_utc": "2026-05-09T07:56:24Z",
   "keep_hours": 48,
   "topic": "economy",
   "count": 56,
   "articles": [
+    {
+      "id": "9c521270f94052349cce3997b4811e53b9f2f054",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2128801",
+      "published_utc": "2026-05-09T06:32:54Z",
+      "title_en": "Trade turnover between China, Russia up 19.7% in January-April — customs",
+      "lead_en": "Russia's trade surplus with China reached $9.58 bln in the period, which is almost flat year-on-year",
+      "title_raw": "Trade turnover between China, Russia up 19.7% in January-April — customs",
+      "lead_raw": "Russia's trade surplus with China reached $9.58 bln in the period, which is almost flat year-on-year",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
     {
       "id": "15a7c21acf00896f3b83037fc754721fb0815b82",
       "source": "TASS (RU)",
@@ -1116,27 +1135,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "526180bd83888f99eee77f14a781a07d6714512d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2127609",
-      "published_utc": "2026-05-07T07:20:13Z",
-      "title_en": "Russia will destroy both Germany's industry, all Europe if war breaks out — Medvedev",
-      "lead_en": "Russian Security Council Deputy Chairman Dmitry Medvedev said that this is a clear signal to German elites",
-      "title_raw": "Russia will destroy both Germany's industry, all Europe if war breaks out — Medvedev",
-      "lead_raw": "Russian Security Council Deputy Chairman Dmitry Medvedev said that this is a clear signal to German elites",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
