@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-05-09T13:17:59Z",
+  "updated_at_utc": "2026-05-09T14:50:40Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 29,
+  "count": 27,
   "articles": [
+    {
+      "id": "6d30e18b5d01fcf5e818bd984161a4a400a7ea8f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2128999",
+      "published_utc": "2026-05-09T13:41:53Z",
+      "title_en": "Fico hopes to restore normal Slovakia-Russia relations",
+      "lead_en": "Slovakia receives \"significant resources,\" namely oil and gas, from Russia, Slovak Prime Minister said",
+      "title_raw": "Fico hopes to restore normal Slovakia-Russia relations",
+      "lead_raw": "Slovakia receives \"significant resources,\" namely oil and gas, from Russia, Slovak Prime Minister said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "430b96be5c486c210ffb29c9959df7b0f4974037",
       "source": "TASS (EN)",
@@ -562,73 +583,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "9340ff90d48f67b4c8fec1850bcdb35cdae1f84e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27341523",
-      "published_utc": "2026-05-07T14:47:55Z",
-      "title_en": "Degtyarev expressed disappointment with the IOC’s decision on the issue of restoring the ROC",
-      "lead_en": "The head of the Russian Olympic Committee noted that the Ministry of Sports and the ROC will continue vigorous diplomatic and legal work to fully restore the rights of all Russian athletes",
-      "title_raw": "Дегтярев заявил о разочаровании от решения МОК по вопросу восстановления ОКР",
-      "lead_raw": "Глава Олимпийского комитета России отметил, что Минспорт и ОКР продолжат энергичную дипломатическую и юридическую работу по полноценному восстановлению в правах всех российских спортсменов",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "eb8cbef29f432b044a0082136162cb518d10eb9e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2127993",
-      "published_utc": "2026-05-07T14:17:01Z",
-      "title_en": "Moscow ready to consider oil, LNG supplies to Bangladesh — ambassador",
-      "lead_en": "Alexander Khozin said the issue of supplying Russian energy resources to the South Asian republic was raised during meetings with Bangladeshi officials",
-      "title_raw": "Moscow ready to consider oil, LNG supplies to Bangladesh — ambassador",
-      "lead_raw": "Alexander Khozin said the issue of supplying Russian energy resources to the South Asian republic was raised during meetings with Bangladeshi officials",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "623215b5cbf57e6f1062256e6a4bcfcbf9007db8",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/05/07/russian-military-accuses-ukraine-of-launching-drone-attacks-from-latvian-airspace-a92711",
-      "published_utc": "2026-05-07T13:43:34Z",
-      "title_en": "Russian Military Accuses Ukraine of Launching Drone Attacks From Latvian Airspace",
-      "lead_en": "Latvian officials said two drones crashed on its territory early Thursday, with one sparking a brief fire at an oil storage facility.",
-      "title_raw": "Russian Military Accuses Ukraine of Launching Drone Attacks From Latvian Airspace",
-      "lead_raw": "Latvian officials said two drones crashed on its territory early Thursday, with one sparking a brief fire at an oil storage facility.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "energy",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
     }
   ]
 }
