@@ -1,9 +1,50 @@
 {
-  "updated_at_utc": "2026-05-09T09:22:21Z",
+  "updated_at_utc": "2026-05-09T10:57:30Z",
   "keep_hours": 48,
   "topic": "economy",
   "count": 55,
   "articles": [
+    {
+      "id": "0851b767c13a4b62ee89fbadb11642ce2e238566",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27361275",
+      "published_utc": "2026-05-09T10:27:24Z",
+      "title_en": "Rublev reached the third round of the Masters in Rome",
+      "lead_en": "In the second round, the Russian defeated the Serbian Miomir Kecmanovic",
+      "title_raw": "Рублев вышел в третий круг \"Мастерса\" в Риме",
+      "lead_raw": "Во втором круге россиянин победил серба Миомира Кецмановича",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "f87c3920a70adf73a793f238f099250198d3ff8f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27360597",
+      "published_utc": "2026-05-09T09:20:43Z",
+      "title_en": "The Russian Ambassador called on Japan to lift sanctions to resume oil supplies",
+      "lead_en": "Nikolai Nozdrev noted that Tokyo manages “to a certain extent” to defend the importance of maintaining participation in Russian energy projects in Sakhalin and the Arctic",
+      "title_raw": "Посол РФ призвал Японию отменить санкции для возобновления поставок нефти",
+      "lead_raw": "Николай Ноздрев отметил, что Токио удается \"в определенной степени\" отстаивать важность сохранения участия в российских энергопроектах на Сахалине и в Арктике",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "dedc3ae111911537bc9459d8cc8e0c789d2297cf",
       "source": "TASS (RU)",
@@ -1070,49 +1111,6 @@
         "local_events": 0
       },
       "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "16a23e38813db2eae752170ee087c1a9944bd95f",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2127773",
-      "published_utc": "2026-05-07T10:45:00Z",
-      "title_en": "Russia supports China’s decision not to comply with US sanctions — MFA",
-      "lead_en": "Russian Foreign Ministry Spokeswoman Maria Zakharova stressed that Moscow condemns unilateral sanctions",
-      "title_raw": "Russia supports China’s decision not to comply with US sanctions — MFA",
-      "lead_raw": "Russian Foreign Ministry Spokeswoman Maria Zakharova stressed that Moscow condemns unilateral sanctions",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "94185952c23c6442e90a3aab1210ee3edf37029b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/society/2127767",
-      "published_utc": "2026-05-07T10:39:43Z",
-      "title_en": "Dmitriev suggests hantavirus outbreak could be used to justify energy restrictions",
-      "lead_en": "The Russian presidential special representative for investment and economic cooperation commented on a report saying that Swiss authorities are urgently tracing contacts of a man hospitalized in Zurich with a strain of hantavirus capable of human-to-human transmission",
-      "title_raw": "Dmitriev suggests hantavirus outbreak could be used to justify energy restrictions",
-      "lead_raw": "The Russian presidential special representative for investment and economic cooperation commented on a report saying that Swiss authorities are urgently tracing contacts of a man hospitalized in Zurich with a strain of hantavirus capable of human-to-human transmission",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
         "economy"
       ],
       "primary_topic": "economy"
