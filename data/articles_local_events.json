@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-05-09T15:52:32Z",
+  "updated_at_utc": "2026-05-09T16:55:24Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 26,
+  "count": 24,
   "articles": [
+    {
+      "id": "bfe8b5623aa27d3c4ded9982f6bcead6a932feb4",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/05/09/russian-widows-mothers-of-soldiers-killed-in-ukraine-join-victory-day-march-in-chita-a92725",
+      "published_utc": "2026-05-09T16:08:48Z",
+      "title_en": "Russian Widows, Mothers of Soldiers Killed in Ukraine Join Victory Day March in Chita",
+      "lead_en": "Local media described the march as a first for the annual celebrations marking the Soviet victory over Nazi Germany in World War II.",
+      "title_raw": "Russian Widows, Mothers of Soldiers Killed in Ukraine Join Victory Day March in Chita",
+      "lead_raw": "Local media described the march as a first for the annual celebrations marking the Soviet victory over Nazi Germany in World War II.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "1295cd786f6d0672daf8d90fcb72cc5c84b4d126",
       "source": "TASS (EN)",
@@ -461,65 +480,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "27642068bee1e0d8896244e4e6467f843220562e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2128081",
-      "published_utc": "2026-05-07T16:46:12Z",
-      "title_en": "IN BRIEF: Russian military on upcoming Victory Day, warning of ceasefire break for Kiev",
-      "lead_en": "Russia urges Ukraine to observe and adhere to the announced ceasefire",
-      "title_raw": "IN BRIEF: Russian military on upcoming Victory Day, warning of ceasefire break for Kiev",
-      "lead_raw": "Russia urges Ukraine to observe and adhere to the announced ceasefire",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "525f6e6da004004485475e9517a13fd7a795cb19",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/05/07/russians-turn-to-cash-and-paper-maps-as-internet-outages-spread-russia-s-central-bank-says",
-      "published_utc": "2026-05-07T16:34:54Z",
-      "title_en": "Russians turn to cash and paper maps as internet outages spread, Russia’s Central Bank says",
-      "lead_en": "Demand for cash among Russians rose in March and April, Russia’s central bank said in a summary of key rate discussions published on May 7.",
-      "title_raw": "Russians turn to cash and paper maps as internet outages spread, Russia’s Central Bank says",
-      "lead_raw": "Demand for cash among Russians rose in March and April, Russia’s central bank said in a summary of key rate discussions published on May 7.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "8d853ebbb134a9752e2304c25c854f4b20982507",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2128061",
-      "published_utc": "2026-05-07T16:00:00Z",
-      "title_en": "Russia declares ceasefire from midnight May 8 until May 10",
-      "lead_en": "This timing includes the days of commemorating the 81st anniversary of the Victory of the Soviet people in the Great Patriotic War",
-      "title_raw": "Russia declares ceasefire from midnight May 8 until May 10",
-      "lead_raw": "This timing includes the days of commemorating the 81st anniversary of the Victory of the Soviet people in the Great Patriotic War",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
