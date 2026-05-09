@@ -1,9 +1,95 @@
 {
-  "updated_at_utc": "2026-05-09T16:55:24Z",
+  "updated_at_utc": "2026-05-09T19:01:24Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 29,
+  "count": 32,
   "articles": [
+    {
+      "id": "381e0ebde5b8ce23d4217057a1d11de59882fb3c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27365939",
+      "published_utc": "2026-05-09T18:40:43Z",
+      "title_en": "Putin: Russia and China have reached a high degree of agreement in oil and gas cooperation",
+      "lead_en": "",
+      "title_raw": "Путин: РФ и КНР достигли высокой степени договоренности в нефтегазовом сотрудничестве",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "4f51bc6196cd8404aa5d8e2872816f2d65eecd40",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27365823",
+      "published_utc": "2026-05-09T18:39:10Z",
+      "title_en": "Fico: Slovakia is interested in friendly relations with Russia",
+      "lead_en": "At a meeting with Russian President Vladimir Putin, the Prime Minister of the Republic paid special attention to the development of bilateral cooperation in the energy sector",
+      "title_raw": "Фицо: Словакия заинтересована в дружественных отношениях с Россией",
+      "lead_raw": "Премьер-министр республики на встрече с президентом РФ Владимиром Путиным особое внимание уделил развитию двустороннего сотрудничества в энергетике",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "f99d86bdc6b191ac31222505f362309c965df310",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27364923",
+      "published_utc": "2026-05-09T17:43:06Z",
+      "title_en": "Novak: Slovakia intends to continue cooperation with Russia on oil and gas",
+      "lead_en": "The Russian Deputy Prime Minister recalled that oil supplies go through the Druzhba pipeline",
+      "title_raw": "Новак: Словакия намерена продолжать сотрудничество с Россией по нефти и газу",
+      "lead_raw": "Вице-премьер РФ напомнил, что поставки нефти идут по трубопроводу \"Дружба\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "c86feaa9a38f10e1063166fc2028034a1b5c5f3a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27364885",
+      "published_utc": "2026-05-09T17:38:05Z",
+      "title_en": "Russian airlines have resumed some international flights through the South",
+      "lead_en": "Some flights are again operated through the Rostov air traffic control zone, which reduces flight time and saves fuel",
+      "title_raw": "Авиакомпании РФ возобновили часть международных рейсов через Юг",
+      "lead_raw": "Некоторые полеты вновь выполняются через ростовскую зону управления воздушным движением, что позволяет сократить время на перелет и сэкономить топливо",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "120dbe288c07dd2f3cf4e7500a07acb266a4c5f7",
       "source": "TASS (RU)",
@@ -605,28 +691,6 @@
         "economy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "d00533f45415ead2552a4be8145885e3de25b747",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2128109",
-      "published_utc": "2026-05-07T17:37:25Z",
-      "title_en": "Russian stock market closes mixed",
-      "lead_en": "The yuan edged up 0.4 kopecks to 10.95 rubles",
-      "title_raw": "Russian stock market closes mixed",
-      "lead_raw": "The yuan edged up 0.4 kopecks to 10.95 rubles",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }

@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-05-09T16:55:24Z",
+  "updated_at_utc": "2026-05-09T19:01:24Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 38,
+  "count": 37,
   "articles": [
+    {
+      "id": "c86feaa9a38f10e1063166fc2028034a1b5c5f3a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27364885",
+      "published_utc": "2026-05-09T17:38:05Z",
+      "title_en": "Russian airlines have resumed some international flights through the South",
+      "lead_en": "Some flights are again operated through the Rostov air traffic control zone, which reduces flight time and saves fuel",
+      "title_raw": "Авиакомпании РФ возобновили часть международных рейсов через Юг",
+      "lead_raw": "Некоторые полеты вновь выполняются через ростовскую зону управления воздушным движением, что позволяет сократить время на перелет и сэкономить топливо",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "f9a0f457f9ddd811b48ebf0223e83acfb3ee79b2",
       "source": "TASS (RU)",
@@ -732,47 +753,6 @@
         "local_events": 0
       },
       "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "a7a8922e1e6f5799249e916bcc88fbf11ae354b4",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/sports/2128123",
-      "published_utc": "2026-05-07T18:35:12Z",
-      "title_en": "Russian sports chief disappointed with IOC decision to uphold sanctions against Russia",
-      "lead_en": "Mikhail Degtyarev stressed that Russia would continue seeking full restitution of the rights for its athletes",
-      "title_raw": "Russian sports chief disappointed with IOC decision to uphold sanctions against Russia",
-      "lead_raw": "Mikhail Degtyarev stressed that Russia would continue seeking full restitution of the rights for its athletes",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "d00533f45415ead2552a4be8145885e3de25b747",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2128109",
-      "published_utc": "2026-05-07T17:37:25Z",
-      "title_en": "Russian stock market closes mixed",
-      "lead_en": "The yuan edged up 0.4 kopecks to 10.95 rubles",
-      "title_raw": "Russian stock market closes mixed",
-      "lead_raw": "The yuan edged up 0.4 kopecks to 10.95 rubles",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
       "primary_topic": "economy"
     }
   ]
