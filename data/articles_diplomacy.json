@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-05-10T08:53:27Z",
+  "updated_at_utc": "2026-05-10T10:15:29Z",
   "keep_hours": 48,
   "topic": "diplomacy",
-  "count": 173,
+  "count": 172,
   "articles": [
+    {
+      "id": "ab952be4120dc57bcb52988f630538f2555c0837",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2129227",
+      "published_utc": "2026-05-10T08:53:03Z",
+      "title_en": "Slovak PM to hold urgent meeting with Transpetrol company after visit to Russia",
+      "lead_en": "Robert Fico said that he had important information on prospects for cooperation with Russia in the energy sector",
+      "title_raw": "Slovak PM to hold urgent meeting with Transpetrol company after visit to Russia",
+      "lead_raw": "Robert Fico said that he had important information on prospects for cooperation with Russia in the energy sector",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "2bff8e8848c7cd2ebf9d79685e717b89f906aee9",
       "source": "TASS (RU)",
@@ -3613,49 +3635,6 @@
         "diplomacy",
         "military",
         "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "6dcd90230524764688e263ce09bc2d272e96fad5",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2128379",
-      "published_utc": "2026-05-08T09:49:49Z",
-      "title_en": "Kiev has stepped up attacks on Russia, no signs of observing the 'ceasefire' — envoy",
-      "lead_en": "Earlier, the Russian Defense Ministry reported that the Ukrainian armed forces carried out 887 strikes using UAVs on the night of May 8",
-      "title_raw": "Kiev has stepped up attacks on Russia, no signs of observing the 'ceasefire' — envoy",
-      "lead_raw": "Earlier, the Russian Defense Ministry reported that the Ukrainian armed forces carried out 887 strikes using UAVs on the night of May 8",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "d8bf652ddee31fce2821f203a394ada27db50573",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2128371",
-      "published_utc": "2026-05-08T09:34:43Z",
-      "title_en": "Russia coordinates efforts to deliver top-tier ASEAN Summit in Kazan — Kremlin aide",
-      "lead_en": "President Vladimir Putin ordered preparations to begin in late April and appointed Yury Ushakov to lead the organizing committee, with the Roscongress Foundation also providing support for the event",
-      "title_raw": "Russia coordinates efforts to deliver top-tier ASEAN Summit in Kazan — Kremlin aide",
-      "lead_raw": "President Vladimir Putin ordered preparations to begin in late April and appointed Yury Ushakov to lead the organizing committee, with the Roscongress Foundation also providing support for the event",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
       ],
       "primary_topic": "diplomacy"
     }
