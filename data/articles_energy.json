@@ -1,9 +1,52 @@
 {
-  "updated_at_utc": "2026-05-10T06:13:35Z",
+  "updated_at_utc": "2026-05-10T08:53:27Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 28,
+  "count": 29,
   "articles": [
+    {
+      "id": "2103620358b8619b248a6ec3545c650a6f49e447",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27368245",
+      "published_utc": "2026-05-10T08:06:43Z",
+      "title_en": "Following the meetings in Russia, Fico will hold an urgent meeting with Transpetrol",
+      "lead_en": "The Slovak Prime Minister reported on important information available on the prospects for cooperation with Russia in the energy sector",
+      "title_raw": "Фицо по итогам встреч в России проведет срочное совещание с Transpetrol",
+      "lead_raw": "Словацкий премьер министр сообщил о имеющейся важной информации о перспективах сотрудничества с Россией в сфере энергетики",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "8e78f5bebc89a4ea3c2558025ddd630c8192a029",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27368133",
+      "published_utc": "2026-05-10T07:42:27Z",
+      "title_en": "Meme Politician: EU desperately needs Russian energy",
+      "lead_en": "It would be wise to stop considering yourself more moral than others, said a member of the Finnish national conservative party Freedom Alliance.",
+      "title_raw": "Политик Мема: ЕС отчаянно нуждается в российских энергоносителях",
+      "lead_raw": "Было бы разумно перестать считать себя нравственнее остальных, отметил член финской национально-консервативной партии \"Альянс свободы\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "381e0ebde5b8ce23d4217057a1d11de59882fb3c",
       "source": "TASS (RU)",
@@ -584,27 +627,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "59a170a6f5fac9cf851e55a8b2cfbef317050ad4",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2128299",
-      "published_utc": "2026-05-08T07:44:11Z",
-      "title_en": "IN BRIEF: Operations suspended at 13 airports in southern Russia",
-      "lead_en": "According to the Transport Ministry, operations have been temporarily suspended at the airports in Astrakhan, Vladikavkaz, Volgograd, Gelendzhik, Grozny, Krasnodar, Makhachkala, Magas, Mineralnye Vody, Nalchik, Sochi, Stavropol, and Elista",
-      "title_raw": "IN BRIEF: Operations suspended at 13 airports in southern Russia",
-      "lead_raw": "According to the Transport Ministry, operations have been temporarily suspended at the airports in Astrakhan, Vladikavkaz, Volgograd, Gelendzhik, Grozny, Krasnodar, Makhachkala, Magas, Mineralnye Vody, Nalchik, Sochi, Stavropol, and Elista",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
