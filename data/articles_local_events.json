@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-05-10T13:18:29Z",
+  "updated_at_utc": "2026-05-10T14:52:53Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 14,
+  "count": 12,
   "articles": [
+    {
+      "id": "a2b57ccc4c6aa138a91a5144431de6fcb57b392a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2129275",
+      "published_utc": "2026-05-10T11:49:42Z",
+      "title_en": "Kremlin aide says US not dropping Ukraine issue, efforts continue",
+      "lead_en": "In particular, there is US President Donald Trump’s initiative on a ceasefire, which he proposed and which Russia supported, Yury Ushakov said",
+      "title_raw": "Kremlin aide says US not dropping Ukraine issue, efforts continue",
+      "lead_raw": "In particular, there is US President Donald Trump’s initiative on a ceasefire, which he proposed and which Russia supported, Yury Ushakov said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "a5caf3e4b3e40bbe45a409a27d3f078f7dbe4866",
       "source": "TASS (RU)",
@@ -222,65 +241,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "812d0e42437a8a410c77daa53946c6b43f8ac869",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/society/2128553",
-      "published_utc": "2026-05-08T14:20:09Z",
-      "title_en": "Russia’s radiation levels remain stable despite fire near Chernobyl NPP — watchdog",
-      "lead_en": "According to the statement, Russia’s consumer health regulator is conducting enhanced radiation monitoring",
-      "title_raw": "Russia’s radiation levels remain stable despite fire near Chernobyl NPP — watchdog",
-      "lead_raw": "According to the statement, Russia’s consumer health regulator is conducting enhanced radiation monitoring",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "e19ab1e2ed8f2101bbf8617dd908a144f387f4de",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27352841",
-      "published_utc": "2026-05-08T13:57:01Z",
-      "title_en": "Khinshtein presented security forces and volunteers with awards on the eve of Victory Day",
-      "lead_en": "Also, the governor of the Kursk region handed over the Order of Courage to the parents of a Russian Guard employee who died due to the explosion of an improvised explosive device of the Armed Forces of Ukraine in the border area",
-      "title_raw": "Хинштейн вручил силовикам и добровольцам награды в преддверии Дня Победы",
-      "lead_raw": "Также губернатор Курской области передал орден Мужества родителям сотрудника Росгвардии, погибшего из-за подрыва самодельного взрывного устройства ВСУ в приграничье",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "094eb93d78ce7548cb0eb5aa1af4235536bed7a7",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2128535",
-      "published_utc": "2026-05-08T13:47:42Z",
-      "title_en": "Russian troops liberate two communities in Ukraine operation over week before ceasefire",
-      "lead_en": "Russia’s Battlegroup North inflicted more than 1,535 casualties on Ukrainian troops and destroyed five enemy armored combat vehicles in its areas of responsibility, the Defense Ministry reported",
-      "title_raw": "Russian troops liberate two communities in Ukraine operation over week before ceasefire",
-      "lead_raw": "Russia’s Battlegroup North inflicted more than 1,535 casualties on Ukrainian troops and destroyed five enemy armored combat vehicles in its areas of responsibility, the Defense Ministry reported",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
