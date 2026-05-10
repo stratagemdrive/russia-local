@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-05-09T23:50:22Z",
+  "updated_at_utc": "2026-05-10T02:56:08Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 22,
+  "count": 24,
   "articles": [
+    {
+      "id": "a5caf3e4b3e40bbe45a409a27d3f078f7dbe4866",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27367269",
+      "published_utc": "2026-05-10T02:25:25Z",
+      "title_en": "The traffic police told us on what days road accidents most often occur in Russia",
+      "lead_en": "The majority of car accidents occur on Thursdays and Fridays, according to the department’s materials.",
+      "title_raw": "В ГАИ рассказали, в какие дни в России чаще всего происходят ДТП",
+      "lead_raw": "Больше всего автомобильных аварий случается по четвергам и пятницам, говорится в материалах ведомства",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "6865fb249d917602dc6688446913929ed17b81ac",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27367253",
+      "published_utc": "2026-05-10T02:02:54Z",
+      "title_en": "The Russian Armed Forces used an “electromagnetic gun” to clear mines in the DPR",
+      "lead_en": "The principle of its operation is based on the creation of a powerful electromagnetic pulse, which initiates the activation of magnetic sensors of fuses, the Ministry of Defense said",
+      "title_raw": "ВС РФ применили \"электромагнитную пушку\" для разминирования в ДНР",
+      "lead_raw": "Принцип ее действия основан на создании мощного электромагнитного импульса, который инициирует срабатывание магнитных датчиков взрывателей, рассказали в Минобороны",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "bfe8b5623aa27d3c4ded9982f6bcead6a932feb4",
       "source": "The Moscow Times",

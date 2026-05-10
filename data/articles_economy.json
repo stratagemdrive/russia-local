@@ -1,9 +1,50 @@
 {
-  "updated_at_utc": "2026-05-09T23:50:22Z",
+  "updated_at_utc": "2026-05-10T02:56:08Z",
   "keep_hours": 48,
   "topic": "economy",
   "count": 38,
   "articles": [
+    {
+      "id": "a93a1cda5a63dd2fdabc800d3f00932fe5e6dbae",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27367275",
+      "published_utc": "2026-05-10T02:36:00Z",
+      "title_en": "Russians were told how much the recalculation will increase pensions for working citizens",
+      "lead_en": "The payment will be increased by the actual number of accrued individual pension capital points, the cost of one of which is 156.76 rubles, said professor of the Russian Economic University. Plekhanova Yulia Finogenova",
+      "title_raw": "Россиянам рассказали, на сколько перерасчет увеличит пенсию работающим гражданам",
+      "lead_raw": "Выплата будет увеличена на фактическое число начисленных баллов индивидуального пенсионного капитала, стоимость одного из которых составляет 156,76 рубля, сообщила профессор РЭУ им. Плеханова Юлия Финогенова",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "052269bfb5283235a629ce6f0a8a9ffa3d958633",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27367015",
+      "published_utc": "2026-05-09T23:34:30Z",
+      "title_en": "Japan actually confirmed information about plans to send a delegation to the Russian Federation",
+      "lead_en": "However, at the same time, the Japanese Ministry of Economy, Trade and Industry tried to partially refute these allegations, according to reports from the department in X",
+      "title_raw": "В Японии фактически подтвердили информацию о планах отправить делегацию в РФ",
+      "lead_raw": "Однако при этом японское Министерство экономики, торговли и промышленности попыталось частично опровергнуть эти утверждения, следует из сообщений ведомства в X",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "0495855a3a45baf7aece27ff11c7667ae424b813",
       "source": "TASS (RU)",
@@ -728,50 +769,6 @@
         "local_events": 0
       },
       "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "145820e54748447bebd7d2fd0df1765d14b74418",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27344681",
-      "published_utc": "2026-05-08T02:06:09Z",
-      "title_en": "Dmitriev: the energy crisis has opened the EU's eyes wide shut",
-      "lead_en": "This is how the special representative of the Russian President for investment and economic cooperation with foreign countries commented on the Financial Times article on the EU’s preparation for potential negotiations with Russia",
-      "title_raw": "Дмитриев: энергетический кризис открыл широко закрытые глаза ЕС",
-      "lead_raw": "Так спецпредставитель президента РФ по инвестиционно-экономическому сотрудничеству с зарубежными странами прокомментировал статью газеты Financial Times о подготовке Евросоюза к потенциальным переговорам с Россией",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "d53c84aedd2c3656557ee1c4708049283a28a02d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/nedvizhimost/27344555",
-      "published_utc": "2026-05-08T01:10:31Z",
-      "title_en": "Expert Letenkov: in the Russian Federation, demand for the purchase of apartments has increased by 20% over the year",
-      "lead_en": "The buyer has become more careful and attentive to the transaction budget, said the general director of the Moscow Real Estate Investment Agency.",
-      "title_raw": "Эксперт Летенков: в РФ спрос на покупку квартир вырос на 20% за год",
-      "lead_raw": "Покупатель стал осторожнее и внимательнее относиться к бюджету сделки, сообщил генеральный директор \"Агентства инвестиций в недвижимость Москвы\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
       "primary_topic": "economy"
     }
   ]
