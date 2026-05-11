@@ -1,9 +1,52 @@
 {
-  "updated_at_utc": "2026-05-11T03:32:22Z",
+  "updated_at_utc": "2026-05-11T07:40:37Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 28,
+  "count": 29,
   "articles": [
+    {
+      "id": "23086400a8f7b502c7241cd1055307cf6d1ab9a3",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27372545",
+      "published_utc": "2026-05-11T06:58:56Z",
+      "title_en": "Trade Representative of the Russian Federation: in Thailand, retail chains are expanding the range of Russian goods",
+      "lead_en": "Grocery stores of the Tops and Villa Market chains already sell Borodino bread, herring, gingerbread, chocolate, baby food and Narzan and Essentuki mineral water, said Yuri Lyzhin",
+      "title_raw": "Торгпред РФ: в Таиланде торговые сети расширяют ассортимент российских товаров",
+      "lead_raw": "В продуктовых магазинах сетей Tops и Villa Market уже продаются бородинский хлеб, селедка, пряники, шоколад, детское питание и минеральная вода \"Нарзан\" и \"Ессентуки\", рассказал Юрий Лыжин",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "8f580cd5466d4d88106c11c0228586fa94218152",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27372141",
+      "published_utc": "2026-05-11T04:11:46Z",
+      "title_en": "Travelata named the cities where Russians most often rent hotels without flying",
+      "lead_en": "According to Oleg Kozyrev, marketing director of the online tour store, these are St. Petersburg and Sochi",
+      "title_raw": "В Travelata назвали города, где россияне чаще всего снимают отели без перелета",
+      "lead_raw": "По словам директора по маркетингу интернет-магазина туров Олега Козырева, это Санкт-Петербурге и Сочи",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "b22099c5ea18bf7314ea47b2e2faf78acb2a067f",
       "source": "TASS (RU)",
@@ -581,28 +624,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "7bb2ce201e9beb372f03528007d053061b6b4e85",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27358939",
-      "published_utc": "2026-05-09T07:05:08Z",
-      "title_en": "The parade on Red Square is for the first time commanded by the Commander-in-Chief of the Mordvich Land Forces",
-      "lead_en": "On May 22, 2025, the newspaper of the Russian Ministry of Defense \"Red Star\" reported that Defense Minister Andrei Belousov introduced the new Commander-in-Chief of the Ground Forces of the Russian Armed Forces - Hero of Russia, Colonel General Andrei Mordvichev to the personnel",
-      "title_raw": "Парадом на Красной площади впервые командует главком Сухопутных войск Мордвичев",
-      "lead_raw": "22 мая 2025 года газета Минобороны РФ \"Красная звезда\" сообщила, что министр обороны Андрей Белоусов представил личному составу нового главнокомандующего Сухопутными войсками ВС РФ - Героя России генерал-полковника Андрея Мордвичева и вручил ему штандарт",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
