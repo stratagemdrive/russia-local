@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-05-11T23:58:05Z",
+  "updated_at_utc": "2026-05-12T03:54:07Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 7,
+  "count": 6,
   "articles": [
+    {
+      "id": "da646e0df5e1f034d4ce71c105a44d2e194d1111",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27378723",
+      "published_utc": "2026-05-12T03:29:35Z",
+      "title_en": "TASS: The Main Intelligence Directorate transferred the military to the front line in Phoenix evacuation vehicles.",
+      "lead_en": "To support the cover story, on the way back, the drivers of the Ukrainian rescue corps evacuated several mobilized people, the Russian security forces clarified.",
+      "title_raw": "ТАСС: ГУР перебросило военных на передовую на эвакуационных машинах \"Феникса\"",
+      "lead_raw": "Чтобы поддержать легенду прикрытия, на обратном пути водители украинского корпуса спасателей эвакуировали нескольких мобилизованных, уточнили в российских силовых структурах",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "721d473ba5451eb778678622ce9a664d8ea6db75",
       "source": "TASS (EN)",
@@ -100,46 +122,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "a5caf3e4b3e40bbe45a409a27d3f078f7dbe4866",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27367269",
-      "published_utc": "2026-05-10T02:25:25Z",
-      "title_en": "The traffic police told us on what days road accidents most often occur in Russia",
-      "lead_en": "The majority of car accidents occur on Thursdays and Fridays, according to the department’s materials.",
-      "title_raw": "В ГАИ рассказали, в какие дни в России чаще всего происходят ДТП",
-      "lead_raw": "Больше всего автомобильных аварий случается по четвергам и пятницам, говорится в материалах ведомства",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "6865fb249d917602dc6688446913929ed17b81ac",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27367253",
-      "published_utc": "2026-05-10T02:02:54Z",
-      "title_en": "The Russian Armed Forces used an “electromagnetic gun” to clear mines in the DPR",
-      "lead_en": "The principle of its operation is based on the creation of a powerful electromagnetic pulse, which initiates the activation of magnetic sensors of fuses, the Ministry of Defense said",
-      "title_raw": "ВС РФ применили \"электромагнитную пушку\" для разминирования в ДНР",
-      "lead_raw": "Принцип ее действия основан на создании мощного электромагнитного импульса, который инициирует срабатывание магнитных датчиков взрывателей, рассказали в Минобороны",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
