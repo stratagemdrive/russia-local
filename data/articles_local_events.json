@@ -1,9 +1,70 @@
 {
-  "updated_at_utc": "2026-05-12T09:39:09Z",
+  "updated_at_utc": "2026-05-12T11:55:41Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 8,
+  "count": 10,
   "articles": [
+    {
+      "id": "be041fdbcc6e26452e43417c2a04e25b2531e235",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2129739",
+      "published_utc": "2026-05-12T11:12:04Z",
+      "title_en": "End of ceasefire, chance of Putin-Zelensky meeting: Kremlin delivers new press briefing",
+      "lead_en": "According to Dmitry Peskov, Russia remains open to dialogue and fully welcomes US mediation efforts to resolve the conflict in Ukraine",
+      "title_raw": "End of ceasefire, chance of Putin-Zelensky meeting: Kremlin delivers new press briefing",
+      "lead_raw": "According to Dmitry Peskov, Russia remains open to dialogue and fully welcomes US mediation efforts to resolve the conflict in Ukraine",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "a4867738b22c8ce37550112b7cfed083858179c7",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2129729",
+      "published_utc": "2026-05-12T10:53:30Z",
+      "title_en": "End of ceasefire, over 30,000 violations by Ukraine: Russian Defense Ministry statements",
+      "lead_en": "Following the end of the ceasefire, the Russian Armed Forces returned to the special military operation",
+      "title_raw": "End of ceasefire, over 30,000 violations by Ukraine: Russian Defense Ministry statements",
+      "lead_raw": "Following the end of the ceasefire, the Russian Armed Forces returned to the special military operation",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "a9a7830dc2677f2d705f027e28ce9a51c40290b3",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/05/12/report-ukrainian-drone-strikes-residential-building-in-russia-governor-confirms-damage",
+      "published_utc": "2026-05-12T10:03:09Z",
+      "title_en": "Report: Ukrainian drone strikes residential building in Russia, governor confirms damage",
+      "lead_en": "The Ukrainian Telegram channels Exilenova+ and Supernova+ reported an explosion in Orenburg. According to unconfirmed reports, a Ukrainian drone struck a residential building.",
+      "title_raw": "Report: Ukrainian drone strikes residential building in Russia, governor confirms damage",
+      "lead_raw": "The Ukrainian Telegram channels Exilenova+ and Supernova+ reported an explosion in Orenburg. According to unconfirmed reports, a Ukrainian drone struck a residential building.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "1f262c3f6251d48fdcc9914c3434feded1ae29be",
       "source": "TASS (RU)",
@@ -137,25 +198,6 @@
       "lead_en": "According to a ministry official, the men are in satisfactory condition",
       "title_raw": "Rescuers find tourists stranded on Elbrus — Russian Emergencies Ministry",
       "lead_raw": "According to a ministry official, the men are in satisfactory condition",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "a2b57ccc4c6aa138a91a5144431de6fcb57b392a",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2129275",
-      "published_utc": "2026-05-10T11:49:42Z",
-      "title_en": "Kremlin aide says US not dropping Ukraine issue, efforts continue",
-      "lead_en": "In particular, there is US President Donald Trump’s initiative on a ceasefire, which he proposed and which Russia supported, Yury Ushakov said",
-      "title_raw": "Kremlin aide says US not dropping Ukraine issue, efforts continue",
-      "lead_raw": "In particular, there is US President Donald Trump’s initiative on a ceasefire, which he proposed and which Russia supported, Yury Ushakov said",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
