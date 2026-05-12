@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-05-11T21:16:35Z",
+  "updated_at_utc": "2026-05-11T23:58:05Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 5,
+  "count": 7,
   "articles": [
+    {
+      "id": "721d473ba5451eb778678622ce9a664d8ea6db75",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2129493",
+      "published_utc": "2026-05-11T21:32:59Z",
+      "title_en": "Victory Day ceasefire expires",
+      "lead_en": "All Russian servicemen in the special military operation zone strictly observed the ceasefire",
+      "title_raw": "Victory Day ceasefire expires",
+      "lead_raw": "All Russian servicemen in the special military operation zone strictly observed the ceasefire",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "f8b183aa076de7859271330df30b6f9afe73c490",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/05/12/russia-ukraine-ceasefire-expires-after-3-days-with-both-sides-accusing-each-other-of-violations",
+      "published_utc": "2026-05-11T21:23:39Z",
+      "title_en": "Russia-Ukraine ceasefire expires after 3 days, with both sides accusing each other of violations",
+      "lead_en": "The three-day ceasefire that U.S. President Donald Trump proposed — and that Russia and Ukraine both agreed to — expired at midnight on May 12.",
+      "title_raw": "Russia-Ukraine ceasefire expires after 3 days, with both sides accusing each other of violations",
+      "lead_raw": "The three-day ceasefire that U.S. President Donald Trump proposed — and that Russia and Ukraine both agreed to — expired at midnight on May 12.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "05119afb2a637f7dc31c30a2fd046fbd93ee080c",
       "source": "TASS (RU)",

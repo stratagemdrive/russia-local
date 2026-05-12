@@ -1,29 +1,189 @@
 {
-  "updated_at_utc": "2026-05-11T21:16:35Z",
+  "updated_at_utc": "2026-05-11T23:58:05Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 49,
+  "count": 56,
   "articles": [
+    {
+      "id": "eeb8ddc623d584a59e38a409d7acc3ced0e043ee",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27377569",
+      "published_utc": "2026-05-11T23:12:33Z",
+      "title_en": "hh.ru: the average salary of teachers in the Russian Federation was over 60 thousand rubles in April",
+      "lead_en": "This is 2% more than in the same period in 2025, the company reported.",
+      "title_raw": "hh.ru: средняя зарплата учителей в РФ составила свыше 60 тыс. рублей в апреле",
+      "lead_raw": "Это на 2% больше, чем в аналогичный период 2025 года, сообщили в компании",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "8a021b2349f56490561771ce349bb4f0974c69d3",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27377525",
+      "published_utc": "2026-05-11T23:03:45Z",
+      "title_en": "Expert Smolenko: Ukraine lost its space rocket due to a conflict with the Russian Federation",
+      "lead_en": "Previously, the Zenit launch vehicle was recognized as the best in the world in terms of efficiency, price per kilogram of payload and ease of launch, noted the general director of the Russian division of the Ukrainian industrial company Yuzhmash.",
+      "title_raw": "Эксперт Смоленко: Украина лишилась космической ракеты из-за конфликта с РФ",
+      "lead_raw": "Ранее ракету-носитель \"Зенит\" признавали лучшей в мире по эффективности, цене за килограмм полезной нагрузки и удобству старта, отметил гендиректор российского дивизиона украинской промышленной компании \"Южмаш\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "7c4374b288a0317d172752e380d3dcd776ec9764",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27377473",
+      "published_utc": "2026-05-11T22:45:17Z",
+      "title_en": "Lawyer Moiseev reminded about responsibility for obscene language in transport",
+      "lead_en": "Those found guilty face a fine of up to 1 thousand rubles or arrest for up to 15 days, said Associate Professor of the Department of Civil Law Disciplines of the Russian Economic University.",
+      "title_raw": "Юрист Моисеев напомнил об ответственности за нецензурную брань в транспорте",
+      "lead_raw": "Провинившимся грозит штраф до 1 тыс. рублей или арест до 15 суток, сообщил доцент кафедры гражданско-правовых дисциплин РЭУ им.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "445d82a1ce1ecba6665e88efbf32e40cf262e0ba",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27377055",
+      "published_utc": "2026-05-11T21:15:50Z",
+      "title_en": "Novak explained how space is being created to normalize rates",
+      "lead_en": "According to the Deputy Prime Minister of the Russian Federation, this is facilitated by a predictable and sustainable budget policy",
+      "title_raw": "Новак рассказал, как создается пространство для нормализации ставок",
+      "lead_raw": "По словам вице-премьера РФ, этому способствует предсказуемая и устойчивая бюджетная политика",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "2abd4ce3b99d9496cc003d166c6d5baf4fdf4054",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27377111",
+      "published_utc": "2026-05-11T21:12:59Z",
+      "title_en": "Novak pointed to significant structural challenges in the economy",
+      "lead_en": "According to the Deputy Prime Minister of the Russian Federation, a structural shortage of personnel and a limited labor market remain",
+      "title_raw": "Новак указал на значимые структурные вызовы в экономике",
+      "lead_raw": "По словам вице-премьера РФ, сохраняется структурный дефицит кадров и ограниченность рынка труда",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "eb59bfd1fa5d0750cc4dc0b747aed42617e73ffa",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27376919",
+      "published_utc": "2026-05-11T21:05:38Z",
+      "title_en": "Novak: inflation in 2026 will approach 5.2%",
+      "lead_en": "Starting from 2027, the figure will be close to the target level of 4%, noted the Deputy Prime Minister of Russia",
+      "title_raw": "Новак: инфляция в 2026 году приблизится к 5,2%",
+      "lead_raw": "Начиная с 2027 года показатель будет находиться рядом с целевым уровнем в 4%, отметил вице-премьер России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "6d423125398ecbf02388efafc38db4a727f53479",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27376877",
+      "published_utc": "2026-05-11T21:04:49Z",
+      "title_en": "Novak: oil prices could fall sharply if the energy crisis drags on",
+      "lead_en": "The Deputy Prime Minister stressed that Russia does not consider the energy crisis as an additional source for solving budgetary and macroeconomic problems",
+      "title_raw": "Новак: цены на нефть могут сильно упасть, если энергокризис затянется",
+      "lead_raw": "Вице-премьер подчеркнул, что Россия не рассматривает энергокризис как дополнительный источник для решения бюджетных и макроэкономических задач",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "6b0c8fb6e5e922205733037dc17420efbb975cbd",
       "source": "TASS (RU)",
       "url": "https://tass.ru/ekonomika/27376849",
       "published_utc": "2026-05-11T21:03:49Z",
       "title_en": "Novak: The Russian Federation does not consider the energy crisis as a source of solving budget problems",
-      "lead_en": "",
+      "lead_en": "The Deputy Prime Minister explained that at the same time, additional inflation risks arise through the transfer of rising world prices to the domestic market",
       "title_raw": "Новак: РФ не рассматривает энергокризис как источник решения бюджетных задач",
-      "lead_raw": "",
+      "lead_raw": "Вице-премьер пояснил, что одновременно возникают дополнительные инфляционные риски через перенос роста мировых цен на внутренний рынок",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
         "energy": 1,
-        "economy": 1,
+        "economy": 3,
         "local_events": 0
       },
       "topics": [
-        "energy"
+        "energy",
+        "economy"
       ],
-      "primary_topic": "energy"
+      "primary_topic": "economy"
+    },
+    {
+      "id": "44b87db5e3a1dbf036ff15520dca93a556753cf8",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27376775",
+      "published_utc": "2026-05-11T21:01:41Z",
+      "title_en": "Novak: the departure of foreign companies contributed to the growth of production in the Russian Federation",
+      "lead_en": "According to the Deputy Prime Minister, in 2023-2024 the economy grew at a very high rate",
+      "title_raw": "Новак: уход иностранных компаний способствовал росту производства в РФ",
+      "lead_raw": "По словам вице-премьера, в 2023-2024 годах экономика росла очень высокими темпами",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
     },
     {
       "id": "d04b144e1ce6a67ad13d7f5ad5a98df18d45b5c5",
@@ -619,7 +779,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/interviews/27349987",
       "published_utc": "2026-05-11T05:00:00Z",
-      "title_en": "Ambassador of the Russian Federation: I feel optimistic when talking about the prospects for cooperation with Tajikistan",
+      "title_en": "Ambassador of the Russian Federation: I feel optimistic when talking about the prospects for interaction with Tajikistan",
       "lead_en": "34 years ago, Russia and Tajikistan established diplomatic relations. Russian Ambassador to Dushanbe Semyon Grigoriev, in the second part of his interview with TASS, spoke about the achievements with which the two countries have approached this date, how they cooperate in the field of economics and security, resolve migration issues, and also about how Moscow supports compatriots living in the republic",
       "title_raw": "Посол РФ: испытываю оптимизм, говоря о перспективах взаимодействия с Таджикистаном",
       "lead_raw": "34 года назад Россия и Таджикистан установили дипломатические отношения. Посол РФ в Душанбе Семен Григорьев во второй части интервью ТАСС рассказал о том, с какими достижениями две страны подошли к этой дате, как они сотрудничают в сфере экономики и безопасности, решают вопросы миграции, а также о том, как Москва поддерживает проживающих в республике соотечественников",
@@ -968,28 +1128,6 @@
         "local_events": 0
       },
       "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "052269bfb5283235a629ce6f0a8a9ffa3d958633",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27367015",
-      "published_utc": "2026-05-09T23:34:30Z",
-      "title_en": "Japan actually confirmed information about plans to send a delegation to the Russian Federation",
-      "lead_en": "However, at the same time, the Japanese Ministry of Economy, Trade and Industry tried to partially refute these allegations, according to reports from the department in X",
-      "title_raw": "В Японии фактически подтвердили информацию о планах отправить делегацию в РФ",
-      "lead_raw": "Однако при этом японское Министерство экономики, торговли и промышленности попыталось частично опровергнуть эти утверждения, следует из сообщений ведомства в X",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "economy"
-      ],
       "primary_topic": "economy"
     }
   ]
