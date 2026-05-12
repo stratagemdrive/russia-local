@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-05-12T19:52:10Z",
+  "updated_at_utc": "2026-05-12T21:19:58Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 111,
+  "count": 112,
   "articles": [
+    {
+      "id": "62e67b01d086fff2eff183c7aa43b4a8dad696da",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27389687",
+      "published_utc": "2026-05-12T21:15:06Z",
+      "title_en": "Expert Maitdinova: the number of budget places for Tajiks in Russian universities has increased",
+      "lead_en": "",
+      "title_raw": "Эксперт Майтдинова: в вузах РФ увеличилось число бюджетных мест для таджиков",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "2b7d4bcec83ce74ef59cbcf698ce3584b5590a86",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27389487",
+      "published_utc": "2026-05-12T20:10:53Z",
+      "title_en": "Trump did not rule out extending the exemption from Russian oil sanctions",
+      "lead_en": "The US leader said the US will \"do whatever it takes\" to help ease the energy crisis caused by the war with Iran.",
+      "title_raw": "Трамп не исключил, что продлит изъятие из санкций против нефти РФ",
+      "lead_raw": "Американский лидер заявил, что США будут \"делать все, что необходимо\", чтобы содействовать смягчению энергетического кризиса, вызванного войной с Ираном",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "6c5f991be057acb6c2f5d5667dac72856e11b0dc",
       "source": "TASS (RU)",
@@ -2234,27 +2274,6 @@
         "local_events": 0
       },
       "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "ff2a70d5fe763c61256faba86433bf7ec8a897ce",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2129347",
-      "published_utc": "2026-05-10T20:53:09Z",
-      "title_en": "Republika Srpska will never join sanctions against Russia — president",
-      "lead_en": "Sinisa Karan says the path to the EU cannot be based on \"political and economic means to pressure the independent policies\"",
-      "title_raw": "Republika Srpska will never join sanctions against Russia — president",
-      "lead_raw": "Sinisa Karan says the path to the EU cannot be based on \"political and economic means to pressure the independent policies\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
       "primary_topic": "economy"
     }
   ]
