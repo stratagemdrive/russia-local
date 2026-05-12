@@ -1,9 +1,255 @@
 {
-  "updated_at_utc": "2026-05-12T06:37:10Z",
+  "updated_at_utc": "2026-05-12T09:39:09Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 60,
+  "count": 71,
   "articles": [
+    {
+      "id": "7145c2be5e5c0456c4cf400b36168a083db661c7",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2129643",
+      "published_utc": "2026-05-12T09:35:36Z",
+      "title_en": "West seeks to inflict 'strategic defeat' on Russia via Central Asia — MFA",
+      "lead_en": "According to Alexander Sternik, the West does this using vague terms such as 'economic diversification' and 'protection against external threats'",
+      "title_raw": "West seeks to inflict 'strategic defeat' on Russia via Central Asia — MFA",
+      "lead_raw": "According to Alexander Sternik, the West does this using vague terms such as 'economic diversification' and 'protection against external threats'",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "ba29cf2712e02ed08022c6e5ebd5d25aec4370c8",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27382797",
+      "published_utc": "2026-05-12T09:31:40Z",
+      "title_en": "Peskov: the Russian economy cannot be completely immune from global volatility",
+      "lead_en": "",
+      "title_raw": "Песков: экономика России не может быть полностью застрахована от глобальной волатильности",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "21411e91a7a1ca8de785b8e22661e6bc272b5987",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/interviews/27376185",
+      "published_utc": "2026-05-12T09:30:00Z",
+      "title_en": "Ambassador to the Russian Federation: Pakistan will increase purchases of Russian oil",
+      "lead_en": "Pakistani Ambassador to Russia Faisal Niyaz Tirmizi in an interview with TASS reported on Islamabad's plans to expand imports of Russian oil, assessed the possibility of resuming a full-scale war in the Middle East and spoke about where a new round of negotiations between the US",
+      "title_raw": "Посол в РФ: Пакистан увеличит закупки российской нефти",
+      "lead_raw": "Посол Пакистана в России Файсал Нияз Тирмизи в интервью ТАСС сообщил о планах Исламабада расширить импорт российской нефти, оценил возможность возобновления полномасштабной войны на Ближнем Востоке и рассказал, где может пройти новый раунд переговоров между США и Ираном",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "4264a1aa411efa76dcf9208e030f56d46c91b329",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2129617",
+      "published_utc": "2026-05-12T09:18:54Z",
+      "title_en": "Oil prices could fall sharply if energy crisis drags on — Novak",
+      "lead_en": "\"According to various international agencies, the conflict will cause a decline in global GDP growth rates by 0.3-0.5 percentage points in 2026-2027, possibly even more, depending on its duration,\" the Russian deputy prime minister said",
+      "title_raw": "Oil prices could fall sharply if energy crisis drags on — Novak",
+      "lead_raw": "\"According to various international agencies, the conflict will cause a decline in global GDP growth rates by 0.3-0.5 percentage points in 2026-2027, possibly even more, depending on its duration,\" the Russian deputy prime minister said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "49845106ea3b144fba774dca072aa411d1991d60",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27382323",
+      "published_utc": "2026-05-12T09:14:53Z",
+      "title_en": "Telegram was fined 3.8 million rubles",
+      "lead_en": "The reason for the fine was the refusal to remove content prohibited in the Russian Federation.",
+      "title_raw": "Telegram оштрафовали на 3,8 млн рублей",
+      "lead_raw": "Причиной штрафа стал отказ удалить запрещенный на территории РФ контент",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "c5db9194c3e382593d56505c507bd1085bad0a45",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2129613",
+      "published_utc": "2026-05-12T09:05:05Z",
+      "title_en": "West needs Central Asia’s rare earths to militarize economy — Russian Foreign Ministry",
+      "lead_en": "Director of the Third CIS Department of the Russian Foreign Ministry Alexander Sternik noted that rare earth metals are used in advanced weapons and military equipment, laser systems and navigation systems",
+      "title_raw": "West needs Central Asia’s rare earths to militarize economy — Russian Foreign Ministry",
+      "lead_raw": "Director of the Third CIS Department of the Russian Foreign Ministry Alexander Sternik noted that rare earth metals are used in advanced weapons and military equipment, laser systems and navigation systems",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 2,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "c2c4aa6dd8452eb2ae135503616b236b4c1df1ff",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27381831",
+      "published_utc": "2026-05-12T08:48:57Z",
+      "title_en": "Russian Foreign Ministry: The West wants to inflict a “strategic defeat” on Russia through Central Asia",
+      "lead_en": "According to the director of the third department of the CIS countries, Alexander Sternik, this is done using euphemisms such as “diversification of the economy” and “protection from external threats.”",
+      "title_raw": "МИД РФ: Запад хочет нанести России \"стратегическое поражение\" через ЦА",
+      "lead_raw": "По словам директора третьего департамента стран СНГ ведомства Александра Стерника, делается это с использованием эвфемизмов, таких как \"диверсификация экономики\" и \"защита от внешних угроз\"",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "b39d413b00855947af42cb02ae11c9324ca856c2",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2129601",
+      "published_utc": "2026-05-12T08:36:50Z",
+      "title_en": "Russia ready to cooperate with Central Asia on rare earth metals — Foreign Ministry",
+      "lead_en": "The mining industry in Central Asia was largely inherited from Soviet times, Alexander Sternik said",
+      "title_raw": "Russia ready to cooperate with Central Asia on rare earth metals — Foreign Ministry",
+      "lead_raw": "The mining industry in Central Asia was largely inherited from Soviet times, Alexander Sternik said",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "71bdf13e94b2791abb89b283d916b474a8033e48",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2129587",
+      "published_utc": "2026-05-12T08:22:51Z",
+      "title_en": "Trade turnover in EAEU exceeds $95 bln in 2025 — Russian Deputy Foreign Minister Galuzin",
+      "lead_en": "Mikhail Galuzin said that foreign countries are paying attention to positive results of Eurasian economic integration and are striving to become partners of the EAEU",
+      "title_raw": "Trade turnover in EAEU exceeds $95 bln in 2025 — Russian Deputy Foreign Minister Galuzin",
+      "lead_raw": "Mikhail Galuzin said that foreign countries are paying attention to positive results of Eurasian economic integration and are striving to become partners of the EAEU",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "b19c429195fa91df4af55795064e6e7c62f7d7f6",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2129581",
+      "published_utc": "2026-05-12T08:10:03Z",
+      "title_en": "Sustainable budget policy creates room for rate normalization — Novak",
+      "lead_en": "According to the Russian deputy prime minister, the government faces the task of balancing the budget amid declining revenues",
+      "title_raw": "Sustainable budget policy creates room for rate normalization — Novak",
+      "lead_raw": "According to the Russian deputy prime minister, the government faces the task of balancing the budget amid declining revenues",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "4d06d0cb53b8d976f4fcd4aeb46726faa2ef340a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2129573",
+      "published_utc": "2026-05-12T07:56:37Z",
+      "title_en": "UAE’s exit from OPEC increases importance of OPEC+ for Russia — economist",
+      "lead_en": "Igbal Guliyev believes that \"under conditions of weakening internal discipline within OPEC, Russia will rely less on rigid collective restrictions and more on flexible coordination of production parameters and market signals with partners within OPEC+\"",
+      "title_raw": "UAE’s exit from OPEC increases importance of OPEC+ for Russia — economist",
+      "lead_raw": "Igbal Guliyev believes that \"under conditions of weakening internal discipline within OPEC, Russia will rely less on rigid collective restrictions and more on flexible coordination of production parameters and market signals with partners within OPEC+\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "9146d17fda70fe141090540e2deb009a04b96e05",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2129561",
+      "published_utc": "2026-05-12T07:25:50Z",
+      "title_en": "Russian stock market returns to growth after early session decline",
+      "lead_en": "As of 10:00 AM Moscow time, the MOEX and RTS indices were down 0.17%, to 2,654.48 and 1,124.67 points, respectively",
+      "title_raw": "Russian stock market returns to growth after early session decline",
+      "lead_raw": "As of 10:00 AM Moscow time, the MOEX and RTS indices were down 0.17%, to 2,654.48 and 1,124.67 points, respectively",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
     {
       "id": "4c63c6bd9c4c7356a56ba0e0b73575caed327a15",
       "source": "TASS (RU)",
@@ -1186,25 +1432,6 @@
       "lead_en": "The European path “cannot be based on downplaying independence or putting pressure on sovereignty,” said the entity’s president, Sinisa Karan.",
       "title_raw": "Республика Сербская заявила, что никогда не присоединится к санкциям против РФ",
       "lead_raw": "Европейский путь \"не может основываться на преуменьшении независимости или давлении на суверенитет\", отметил президент энтитета Синиша Каран",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "31db89b3928cb5a2c507b630087ce9317e9e5af4",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27368547",
-      "published_utc": "2026-05-10T09:18:10Z",
-      "title_en": "Putin will continue international contacts this week",
-      "lead_en": "The President of the Russian Federation will also hold a meeting on economic issues",
-      "title_raw": "Путин на неделе продолжит международные контакты",
-      "lead_raw": "Президент РФ также проведет совещание по экономическим вопросам",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
