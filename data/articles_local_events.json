@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-05-14T07:41:05Z",
+  "updated_at_utc": "2026-05-14T10:14:50Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 19,
   "articles": [
+    {
+      "id": "8e19634536b7bcdba31f5d484173efad0c746968",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/05/14/russia-strikes-kyiv-with-drones-and-missiles-partially-collapsing-a-residential-building-two-people-killed-40-injured",
+      "published_utc": "2026-05-14T07:43:53Z",
+      "title_en": "Russia strikes Kyiv with drones and missiles, partially collapsing a residential building. Two people killed, 40 injured.",
+      "lead_en": "Russian forces struck Kyiv overnight on May 14 with a combined drone and missile attack.",
+      "title_raw": "Russia strikes Kyiv with drones and missiles, partially collapsing a residential building. Two people killed, 40 injured.",
+      "lead_raw": "Russian forces struck Kyiv overnight on May 14 with a combined drone and missile attack.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "3dd4df770364051188c0984b423ffdca93b3724b",
       "source": "TASS (RU)",
@@ -360,25 +382,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "a9a7830dc2677f2d705f027e28ce9a51c40290b3",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/05/12/report-ukrainian-drone-strikes-residential-building-in-russia-governor-confirms-damage",
-      "published_utc": "2026-05-12T10:03:09Z",
-      "title_en": "Report: Ukrainian drone strikes residential building in Russia, governor confirms damage",
-      "lead_en": "The Ukrainian Telegram channels Exilenova+ and Supernova+ reported an explosion in Orenburg. According to unconfirmed reports, a Ukrainian drone struck a residential building.",
-      "title_raw": "Report: Ukrainian drone strikes residential building in Russia, governor confirms damage",
-      "lead_raw": "The Ukrainian Telegram channels Exilenova+ and Supernova+ reported an explosion in Orenburg. According to unconfirmed reports, a Ukrainian drone struck a residential building.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
