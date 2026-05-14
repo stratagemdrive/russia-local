@@ -1,9 +1,74 @@
 {
-  "updated_at_utc": "2026-05-14T12:24:23Z",
+  "updated_at_utc": "2026-05-14T15:18:02Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 63,
+  "count": 58,
   "articles": [
+    {
+      "id": "194f3061ac9cd8c6a27e06eb949c4ef5b0663a5c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27413655",
+      "published_utc": "2026-05-14T15:01:10Z",
+      "title_en": "Ambassador of the Arab League to the Russian Federation: The UAE remains an important member of the Arab League after leaving OPEC",
+      "lead_en": "",
+      "title_raw": "Посол ЛАГ в РФ: ОАЭ остаются важным членом Лиги арабских государств после выхода из ОПЕК",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "9f5043f811d34a1c84f897890cad83e0161e2cb5",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2130969",
+      "published_utc": "2026-05-14T14:33:04Z",
+      "title_en": "Bank of Russia lowers dollar exchange rate to 73.14 rubles for May 15",
+      "lead_en": "The official euro exchange rate has been raised by 38.82 kopecks to 86.2899 rubles",
+      "title_raw": "Bank of Russia lowers dollar exchange rate to 73.14 rubles for May 15",
+      "lead_raw": "The official euro exchange rate has been raised by 38.82 kopecks to 86.2899 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "7451dfcb7389a5be04c53f1f829f4d218d99aa94",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2130965",
+      "published_utc": "2026-05-14T14:15:36Z",
+      "title_en": "Imports in Mongolia’s foreign trade up due to petroleum products from Russia",
+      "lead_en": "Mongolia’s total foreign trade with 139 countries reached $10.5 bln",
+      "title_raw": "Imports in Mongolia’s foreign trade up due to petroleum products from Russia",
+      "lead_raw": "Mongolia’s total foreign trade with 139 countries reached $10.5 bln",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "d9dd602737121aa770b0b751889b5b89b86f5ddc",
       "source": "TASS (RU)",
@@ -47,11 +112,74 @@
       "primary_topic": "energy"
     },
     {
+      "id": "48c0d7bc9998bb87362ad8f27eb09dcef91f521d",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2130693",
+      "published_utc": "2026-05-14T09:24:05Z",
+      "title_en": "India has asked US to extend license to purchase oil from Russia — Bloomberg",
+      "lead_en": "The US Department of the Treasury’s authorization for the sale, transportation, and unloading of oil and petroleum products of Russian origin expires on May 16, the agency said",
+      "title_raw": "India has asked US to extend license to purchase oil from Russia — Bloomberg",
+      "lead_raw": "The US Department of the Treasury’s authorization for the sale, transportation, and unloading of oil and petroleum products of Russian origin expires on May 16, the agency said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "614361d8cf0315da243f8afb28fe75fb0a712b95",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2130685",
+      "published_utc": "2026-05-14T09:05:09Z",
+      "title_en": "Europe being disingenuous announcing ban on gas imports from Russia — senior Slovak MP",
+      "lead_en": "\"Those countries that are shouting about the need to completely ban energy imports from Russia have recently purchased record volumes of liquefied natural gas,\" Tibor Gaspar said",
+      "title_raw": "Europe being disingenuous announcing ban on gas imports from Russia — senior Slovak MP",
+      "lead_raw": "\"Those countries that are shouting about the need to completely ban energy imports from Russia have recently purchased record volumes of liquefied natural gas,\" Tibor Gaspar said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "5262542338cc2aab5ef82c215f50940dd6730a0b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2130645",
+      "published_utc": "2026-05-14T07:45:46Z",
+      "title_en": "Fuel situation in Cuba critical — energy minister",
+      "lead_en": "According to Vicente de la O Levy, 100,000 tons of Russian oil has been the only fuel supply to Cuba since December 2025",
+      "title_raw": "Fuel situation in Cuba critical — energy minister",
+      "lead_raw": "According to Vicente de la O Levy, 100,000 tons of Russian oil has been the only fuel supply to Cuba since December 2025",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
       "id": "b5637986a199581cd04fd7ea7bd3b48c277b1195",
       "source": "TASS (RU)",
       "url": "https://tass.ru/ekonomika/27404033",
       "published_utc": "2026-05-14T04:01:17Z",
-      "title_en": "Slovakia said that Europe is disingenuous when it announced a ban on gas imports from the Russian Federation",
+      "title_en": "Slovakia said that Europe is disingenuous when announcing a ban on gas imports from the Russian Federation",
       "lead_en": "",
       "title_raw": "В Словакии заявили, что Европа лукавит, заявляя о запрете импорта газа из РФ",
       "lead_raw": "",
@@ -1104,239 +1232,6 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "2e0041deebdc04399c51a0465937c867bfe954b8",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2129939",
-      "published_utc": "2026-05-12T15:05:14Z",
-      "title_en": "Oil production in Russia to remain at 511 mln tons in 2026, in line with 2025",
-      "lead_en": "Under the baseline scenario, the ministry expects production to rise to 516 mln tons in 2027",
-      "title_raw": "Oil production in Russia to remain at 511 mln tons in 2026, in line with 2025",
-      "lead_raw": "Under the baseline scenario, the ministry expects production to rise to 516 mln tons in 2027",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "22fe5dc32f4fd61105bec7c706d21bb6f17b874f",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2129929",
-      "published_utc": "2026-05-12T14:55:12Z",
-      "title_en": "Iran interested in expanding supplies of petroleum products from Russia — Roscongress",
-      "lead_en": "Russia and Iran are currently demonstrating an example of responsible partnership, Anton Kobyakov said",
-      "title_raw": "Iran interested in expanding supplies of petroleum products from Russia — Roscongress",
-      "lead_raw": "Russia and Iran are currently demonstrating an example of responsible partnership, Anton Kobyakov said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "71cb5c932334ce21b7210956d807af8e3da9aa03",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27386899",
-      "published_utc": "2026-05-12T14:13:04Z",
-      "title_en": "MER: Russia will increase oil exports by 2.8% in 2026",
-      "lead_en": "The figure will be 237.2 million tons",
-      "title_raw": "МЭР: Россия в 2026 году увеличит экспорт нефти на 2,8%",
-      "lead_raw": "Показатель составит 237,2 млн тонн",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "dfb20708bccfe114b2e254354f8590652ace1999",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27386939",
-      "published_utc": "2026-05-12T14:05:05Z",
-      "title_en": "The Ministry of Economic Development expects a decrease in exports of petroleum products from the Russian Federation in 2026 by 2.5%",
-      "lead_en": "",
-      "title_raw": "МЭР ожидает снижения экспорта нефтепродуктов из РФ в 2026 году на 2,5%",
-      "lead_raw": "",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "a6fdcecb27e2f19739f41f4b1c5722762f6cb435",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27386833",
-      "published_utc": "2026-05-12T14:04:29Z",
-      "title_en": "In the Russian Federation, wholesale gas prices will be indexed by 3 percentage points. higher than inflation",
-      "lead_en": "The increase in wholesale prices from October 1, 2026 is planned at 9.6% for all consumers",
-      "title_raw": "В РФ оптовые цены на газ проиндексируют на 3 п.п. выше инфляции",
-      "lead_raw": "Рост оптовых цен с 1 октября 2026 года запланирован на уровне 9,6% для всех потребителей",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "1ae9e592bdcfd79cd946fad8ac4bf52ff5875364",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27386921",
-      "published_utc": "2026-05-12T14:04:24Z",
-      "title_en": "Oil production in the Russian Federation will remain at the level of 2025 and amount to 511 million tons",
-      "lead_en": "According to the Ministry of Economic Development, in 2028 and 2029 the figure will be 525 million tons",
-      "title_raw": "Добыча нефти в РФ сохранится на уровне 2025 года и составит 511 млн тонн",
-      "lead_raw": "По данным Минэкономразвития, в 2028 и 2029 годах показатель составит 525 млн тонн",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "8d68e1074bc2f45ac40719ae43072596d435868b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27386805",
-      "published_utc": "2026-05-12T14:02:54Z",
-      "title_en": "Ministry of Economic Development: the estimate of gas production in Russia was reduced by 0.3%",
-      "lead_en": "The figure will increase to 688.4 billion cubic meters. m",
-      "title_raw": "МЭР: оценку добычи газа в России снизили на 0,3%",
-      "lead_raw": "Показатель вырастет до 688,4 млрд куб. м",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e9ecad1b5bcbc5733e547535c946a80e974670e3",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27386589",
-      "published_utc": "2026-05-12T13:57:58Z",
-      "title_en": "The Russian Federation is interested in cooperation with Indonesia in nuclear energy",
-      "lead_en": "We are talking about both the construction of high- and low-power power plants, as well as non-energy applications of the “peaceful atom,” said the First Deputy Prime Minister of Russia",
-      "title_raw": "РФ заинтересована в сотрудничестве с Индонезией в атомной энергетике",
-      "lead_raw": "Речь идет как о сооружении электростанций большой и малой мощности, так и о неэнергетических применениях \"мирного атома\", сообщил первый вице-премьер России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "b39facbb8bc92ae1127db1ea88560bbfc9894880",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27386569",
-      "published_utc": "2026-05-12T13:57:18Z",
-      "title_en": "Manturov: Russian companies are ready to offer Indonesia solutions in the fuel and energy sector",
-      "lead_en": "The First Deputy Prime Minister noted that we are talking about geological exploration and development of oil and gas fields",
-      "title_raw": "Мантуров: Российские компании готовы предложить Индонезии решения в сфере ТЭК",
-      "lead_raw": "Первый вице-премьер отметил, что речь идет о геологоразведке и освоении нефтегазовых месторождений",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "c6a4d1a4043fe0e56f96bcfcf1de25bfb2db97d7",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2129803",
-      "published_utc": "2026-05-12T13:22:40Z",
-      "title_en": "Japan's officials to travel to Russia in interests of Japanese firms operating there",
-      "lead_en": "Minister of Economy, Trade and Industry Ryosei Akazawa denied local media reports that the purpose of the upcoming trip was to discuss \"cooperation in the economic and energy fields after the end\" of the conflict in Ukraine",
-      "title_raw": "Japan's officials to travel to Russia in interests of Japanese firms operating there",
-      "lead_raw": "Minister of Economy, Trade and Industry Ryosei Akazawa denied local media reports that the purpose of the upcoming trip was to discuss \"cooperation in the economic and energy fields after the end\" of the conflict in Ukraine",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 4,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "c1fd41d04d847bcd3f3fffc4fdb95d8c23378b54",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2129783",
-      "published_utc": "2026-05-12T12:51:02Z",
-      "title_en": "Normality of economic slowdown and energy crisis: statements by Novak",
-      "lead_en": "The Russian deputy prime minister said that consumer activity will slow down this year, though the slowdown in demand will not \"limit long-term and sustainable economic growth\"",
-      "title_raw": "Normality of economic slowdown and energy crisis: statements by Novak",
-      "lead_raw": "The Russian deputy prime minister said that consumer activity will slow down this year, though the slowdown in demand will not \"limit long-term and sustainable economic growth\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
         "economy": 1,
         "local_events": 0
       },
