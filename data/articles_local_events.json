@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-05-13T23:58:45Z",
+  "updated_at_utc": "2026-05-14T04:06:06Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 20,
   "articles": [
+    {
+      "id": "2f5053e137557ca719713cfaeaa1c7eae576cf51",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27403191",
+      "published_utc": "2026-05-14T01:59:51Z",
+      "title_en": "Russians were told how to survive a night in the forest with the help of a fire and spruce branches",
+      "lead_en": "To do this, you need to dig a shallow hole the length of a man, light a fire in it for several hours, remove the coals, and make a flooring of dry earth and grass or spruce branches on top, said search and rescuer Yana Vilchinskaya",
+      "title_raw": "Россиянам рассказали, как пережить ночь в лесу при помощи костра и лапника",
+      "lead_raw": "Для этого нужно выкопать неглубокую яму длиной в человеческий рост, разжечь в ней огонь на несколько часов, вынуть угли, а сверху сделать настил из сухой земли и травы или еловых веток, сообщила поисковик-спасатель Яна Вильчинская",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "1272ff33127c84d5bfae4bfa11ee5ecc254466f4",
       "source": "TASS (RU)",
@@ -384,28 +403,6 @@
         "military"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "da646e0df5e1f034d4ce71c105a44d2e194d1111",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27378723",
-      "published_utc": "2026-05-12T03:29:35Z",
-      "title_en": "TASS: The Main Intelligence Directorate transferred the military to the front line in Phoenix evacuation vehicles.",
-      "lead_en": "To support the cover story, on the way back, the drivers of the Ukrainian rescue corps evacuated several mobilized people, the Russian security forces clarified.",
-      "title_raw": "ТАСС: ГУР перебросило военных на передовую на эвакуационных машинах \"Феникса\"",
-      "lead_raw": "Чтобы поддержать легенду прикрытия, на обратном пути водители украинского корпуса спасателей эвакуировали нескольких мобилизованных, уточнили в российских силовых структурах",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
     }
   ]
 }
