@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-05-14T04:06:06Z",
+  "updated_at_utc": "2026-05-14T07:41:05Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 20,
+  "count": 19,
   "articles": [
+    {
+      "id": "3dd4df770364051188c0984b423ffdca93b3724b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27405383",
+      "published_utc": "2026-05-14T06:46:59Z",
+      "title_en": "The Investigative Committee began an investigation after a fire on Vernisazhnaya Street in Moscow",
+      "lead_en": "Chairman of the Investigative Committee of the Russian Federation Alexander Bastrykin demanded a report",
+      "title_raw": "СК начал проверку после пожара на Вернисажной улице в Москве",
+      "lead_raw": "Председатель Следственного комитета РФ Александр Бастрыкин потребовал доклад",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "2f5053e137557ca719713cfaeaa1c7eae576cf51",
       "source": "TASS (RU)",
@@ -360,49 +379,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "1f262c3f6251d48fdcc9914c3434feded1ae29be",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27379347",
-      "published_utc": "2026-05-12T05:05:20Z",
-      "title_en": "Fighter Phase: sappers of the Russian Armed Forces recheck logistics routes three times a day",
-      "lead_en": "At the same time, the sapper of the 1194th motorized rifle regiment of the Southern Group of Forces emphasized that the Ukrainian military uses both conventional ammunition and improvised explosive devices",
-      "title_raw": "Боец Фаза: саперы ВС РФ перепроверяют маршруты логистики по три раза в день",
-      "lead_raw": "При этом сапер 1194-го мотострелкового полка Южной группировки войск подчеркнул, что украинские военные используют как обычные боеприпасы, так и самодельные взрывные устройства",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "cff936ffa8e00d8aa4191de9e0b750c26d5d0864",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2129535",
-      "published_utc": "2026-05-12T05:05:00Z",
-      "title_en": "Ukraine faces military collapse this year — retired US Army officer",
-      "lead_en": "David T. Pyne believes the EU cannot be trusted to negotiate a peace agreement ending NATO’s proxy war with Russia",
-      "title_raw": "Ukraine faces military collapse this year — retired US Army officer",
-      "lead_raw": "David T. Pyne believes the EU cannot be trusted to negotiate a peace agreement ending NATO’s proxy war with Russia",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }

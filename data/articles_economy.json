@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-05-14T04:06:06Z",
+  "updated_at_utc": "2026-05-14T07:41:05Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 128,
+  "count": 127,
   "articles": [
+    {
+      "id": "b5ed95814beaf37d2d43a184f2acee5e4b31d67f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27405757",
+      "published_utc": "2026-05-14T07:31:03Z",
+      "title_en": "In the LPR, the new head of government is expected to continue the integration of the region into the Russian Federation",
+      "lead_en": "The tasks will also include the development of the republic’s economy",
+      "title_raw": "В ЛНР от нового главы правительства ждут продолжения интеграции региона в РФ",
+      "lead_raw": "Также в число задач войдет развитие экономики республики",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "15a0a07b489316daa44330970ddca802832ea3af",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27405551",
+      "published_utc": "2026-05-14T07:02:11Z",
+      "title_en": "The Russian stock market is declining at the beginning of the main trading session",
+      "lead_en": "The yuan fell to 10.79 rubles",
+      "title_raw": "Российский рынок акций в начале основной торговой сессии снижается",
+      "lead_raw": "Курс юаня падал до 10,79 рубля",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "13271ee877ab3dc75fda54a2512e7992c216a890",
       "source": "TASS (RU)",
@@ -2562,67 +2602,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "9146d17fda70fe141090540e2deb009a04b96e05",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2129561",
-      "published_utc": "2026-05-12T07:25:50Z",
-      "title_en": "Russian stock market returns to growth after early session decline",
-      "lead_en": "As of 10:00 AM Moscow time, the MOEX and RTS indices were down 0.17%, to 2,654.48 and 1,124.67 points, respectively",
-      "title_raw": "Russian stock market returns to growth after early session decline",
-      "lead_raw": "As of 10:00 AM Moscow time, the MOEX and RTS indices were down 0.17%, to 2,654.48 and 1,124.67 points, respectively",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "4c63c6bd9c4c7356a56ba0e0b73575caed327a15",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27380039",
-      "published_utc": "2026-05-12T06:31:48Z",
-      "title_en": "Roscongress: Iran is interested in expanding supplies of petroleum products from Russia",
-      "lead_en": "Anton Kobyakov, executive secretary of the organizing committee of the St. Petersburg International Economic Forum, noted that Moscow and Tehran demonstrate an example of responsible partnership",
-      "title_raw": "Росконгресс: Иран заинтересован в расширении поставок нефтепродуктов из России",
-      "lead_raw": "Ответственный секретарь оргкомитета Петербургского международного экономического форума Антон Кобяков отметил, что Москва и Тегеран демонстрируют пример ответственного партнерства",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "307ec171be6858de9f312ee51352bb5dfa605d97",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27379287",
-      "published_utc": "2026-05-12T05:00:48Z",
-      "title_en": "Head of Department of the Russian Foreign Ministry: The EU demands that Georgia stop air flights with the Russian Federation",
-      "lead_en": "Mikhail Kalugin said that the leadership of the European Union also wants the Georgian authorities to join anti-Russian sanctions",
-      "title_raw": "Глава департамента МИД РФ: ЕС требует от Грузии прекратить авиаперелеты с РФ",
-      "lead_raw": "Михаил Калугин сообщил, что руководство Евросоюза также хочет, чтобы грузинские власти присоединились к антироссийским санкциям",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
