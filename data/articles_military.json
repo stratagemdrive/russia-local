@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-05-13T22:11:54Z",
+  "updated_at_utc": "2026-05-13T23:58:45Z",
   "keep_hours": 48,
   "topic": "military",
   "count": 105,
   "articles": [
+    {
+      "id": "bc82161d48b01ec3089be96a61e6e7b2f086b563",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kultura/27402647",
+      "published_utc": "2026-05-13T22:07:31Z",
+      "title_en": "A student play about besieged Leningrad will be shown at the Strastnoy Theater",
+      "lead_en": "Students of the workshop of People's Artists of the Russian Federation Olga Drozdova and Dmitry Pevtsov play in the production \"Actress\"",
+      "title_raw": "В Театре на Страстном покажут студенческий спектакль о блокадном Ленинграде",
+      "lead_raw": "В постановке \"Актриса\" играют ученики мастерской народных артистов РФ Ольги Дроздовой и Дмитрия Певцова",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "fabf6b12dd3a5323f4b90490292a2c381600b291",
       "source": "TASS (RU)",
@@ -74,7 +95,7 @@
       "url": "https://tass.ru/armiya-i-opk/27392997",
       "published_utc": "2026-05-13T21:00:00Z",
       "title_en": "Military operation in Ukraine. Online",
-      "lead_en": "Full-format peace negotiations between Russia and Ukraine will be very complex, with a large number of important details, said Russian Presidential Press Secretary Dmitry Peskov",
+      "lead_en": "Full-scale peace negotiations between Russia and Ukraine will be very complex, with a large number of important details, said Russian Presidential Press Secretary Dmitry Peskov",
       "title_raw": "Военная операция на Украине. Онлайн",
       "lead_raw": "Полноформатные мирные переговоры между Россией и Украиной будут очень сложными, с большим количеством важных деталей, заявил пресс-секретарь президента РФ Дмитрий Песков",
       "topic_scores": {
@@ -2210,27 +2231,6 @@
         "military"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "8a021b2349f56490561771ce349bb4f0974c69d3",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27377525",
-      "published_utc": "2026-05-11T23:03:45Z",
-      "title_en": "Expert Smolenko: Ukraine lost its space rocket due to a conflict with the Russian Federation",
-      "lead_en": "Previously, the Zenit launch vehicle was recognized as the best in the world in terms of efficiency, price per kilogram of payload and ease of launch, noted the general director of the Russian division of the Ukrainian industrial company Yuzhmash.",
-      "title_raw": "Эксперт Смоленко: Украина лишилась космической ракеты из-за конфликта с РФ",
-      "lead_raw": "Ранее ракету-носитель \"Зенит\" признавали лучшей в мире по эффективности, цене за килограмм полезной нагрузки и удобству старта, отметил гендиректор российского дивизиона украинской промышленной компании \"Южмаш\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
