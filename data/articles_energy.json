@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-05-15T17:27:07Z",
+  "updated_at_utc": "2026-05-15T21:00:20Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 29,
   "articles": [
+    {
+      "id": "e767b30f914154b8fcaf15fff1b36463613b32c5",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/05/15/ukrainian-drones-keep-straying-into-baltic-and-finnish-airspace-after-being-diverted-by-russian-electronic-warfare",
+      "published_utc": "2026-05-15T17:33:26Z",
+      "title_en": "Ukrainian drones keep straying into Baltic and Finnish airspace after being diverted by Russian electronic warfare",
+      "lead_en": "Russia’s war against Ukraine has begun to affect Northern Europe directly. Ukrainian forces launch drones against Russian oil refineries in the St.",
+      "title_raw": "Ukrainian drones keep straying into Baltic and Finnish airspace after being diverted by Russian electronic warfare",
+      "lead_raw": "Russia’s war against Ukraine has begun to affect Northern Europe directly. Ukrainian forces launch drones against Russian oil refineries in the St.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "c1c22eb3c17b7a163bc8911b5994eb90bf5050ca",
       "source": "TASS (EN)",
@@ -598,27 +619,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "8044ab725515d270d496476a400e0425ea955988",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2130495",
-      "published_utc": "2026-05-13T17:32:03Z",
-      "title_en": "Russian stocks close in the green on Wednesday",
-      "lead_en": "The yuan exchange rate against the ruble lost 3.35 kopecks to 10.82 rubles",
-      "title_raw": "Russian stocks close in the green on Wednesday",
-      "lead_raw": "The yuan exchange rate against the ruble lost 3.35 kopecks to 10.82 rubles",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
