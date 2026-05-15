@@ -1,9 +1,131 @@
 {
-  "updated_at_utc": "2026-05-15T10:23:10Z",
+  "updated_at_utc": "2026-05-15T15:12:48Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 16,
+  "count": 20,
   "articles": [
+    {
+      "id": "6575120c7fdfda3052e6fa7443c25fbeee1cfba4",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27425929",
+      "published_utc": "2026-05-15T13:39:59Z",
+      "title_en": "A man put on the international wanted list for an explosion at the South Ossetian Ministry of Internal Affairs was detained in the Russian Federation.",
+      "lead_en": "At the beginning of April 2006, in Tskhinvali, a man made an explosive, which two months later, together with his accomplices, he detonated in the building of the passport and visa service of the Ministry of Internal Affairs",
+      "title_raw": "В РФ задержали объявленного в международный розыск за взрыв в МВД Южной Осетии",
+      "lead_raw": "В начале апреля 2006 года в Цхинвале мужчина изготовил взрывчатку, которое спустя два месяца вместе с сообщниками привел в действие в здании паспортно-визовой службы МВД",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "d1747f5ac68b3d33755805eda573b60f9ed37202",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/05/15/24-people-killed-in-russian-strike-on-kyiv",
+      "published_utc": "2026-05-15T13:38:06Z",
+      "title_en": "24 people killed in Russian strike on Kyiv. Rescuers clear the rubble of a destroyed nine-story building. The city is in mourning.",
+      "lead_en": "Two days after the end of a truce that ran from May 9 to 11, Russian forces launched a massive strike on Ukraine, deploying 670 attack drones and 56 missiles. In Kyiv’s Darnytskyi district, a section of a residential building — floors one through nine — collapsed in the attack, destroying 18 apartments.",
+      "title_raw": "24 people killed in Russian strike on Kyiv. Rescuers clear the rubble of a destroyed nine-story building. The city is in mourning.",
+      "lead_raw": "Two days after the end of a truce that ran from May 9 to 11, Russian forces launched a massive strike on Ukraine, deploying 670 attack drones and 56 missiles. In Kyiv’s Darnytskyi district, a section of a residential building — floors one through nine — collapsed in the attack, destroying 18 apartments.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "c8df3b4604f4bfb3cffe15bf009b6a389124f631",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2131501",
+      "published_utc": "2026-05-15T12:36:11Z",
+      "title_en": "Top Iranian diplomat comments on Russia’s uranium proposal, attempts to derail talks",
+      "lead_en": "Abbas Araghchi pointed to the Iranian authorities' efforts to maintain a ceasefire with the US in order to resolve the conflict diplomatically",
+      "title_raw": "Top Iranian diplomat comments on Russia’s uranium proposal, attempts to derail talks",
+      "lead_raw": "Abbas Araghchi pointed to the Iranian authorities' efforts to maintain a ceasefire with the US in order to resolve the conflict diplomatically",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "9dd394b0ee35c36d8c802c9ecf57a34f28aa68f5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27424327",
+      "published_utc": "2026-05-15T12:29:39Z",
+      "title_en": "In the Volgograd region, the unmanned threat was canceled",
+      "lead_en": "This follows from the application of the Ministry of Emergency Situations of Russia",
+      "title_raw": "В Волгоградской области отменили беспилотную опасность",
+      "lead_raw": "Это следует из приложения МЧС России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "946930bca550342c9a4e0de177666019ae62e65b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2131491",
+      "published_utc": "2026-05-15T12:20:39Z",
+      "title_en": "Russia delivers 24 tons of humanitarian aid to Somalia — Emergencies Ministry",
+      "lead_en": "Russian rescuers delivered food, tents, and blankets",
+      "title_raw": "Russia delivers 24 tons of humanitarian aid to Somalia — Emergencies Ministry",
+      "lead_raw": "Russian rescuers delivered food, tents, and blankets",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "69f8ecf40981725f5927fbafc63d36d01242503c",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2131371",
+      "published_utc": "2026-05-15T10:13:13Z",
+      "title_en": "Ukrainian attacks killed 25 Russians during Zelensky’s 'pseudo-ceasefire' — Russian MFA",
+      "lead_en": "Foreign Ministry Spokeswoman Maria Zakharova added that 209 people were injured",
+      "title_raw": "Ukrainian attacks killed 25 Russians during Zelensky’s 'pseudo-ceasefire' — Russian MFA",
+      "lead_raw": "Foreign Ministry Spokeswoman Maria Zakharova added that 209 people were injured",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "diplomacy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "6440aab3b8c267eb6311b9bbce9952d46a09b609",
       "source": "TASS (RU)",
@@ -285,44 +407,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "10d610f9184f830c1fc682a582a4dbab6917e7a5",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/society/2130439",
-      "published_utc": "2026-05-13T14:43:01Z",
-      "title_en": "Russia to take timely action in case of Chernobyl NPP hazardous emission — expert",
-      "lead_en": "However, Yury Braslavsky noted predicting whether such a release will occur is quite difficult, as the exact boundaries of the current fire are unknown",
-      "title_raw": "Russia to take timely action in case of Chernobyl NPP hazardous emission — expert",
-      "lead_raw": "However, Yury Braslavsky noted predicting whether such a release will occur is quite difficult, as the exact boundaries of the current fire are unknown",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "33a557e7fb20cc9512c18009bbff292e71fc2906",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/05/13/at-least-3-killed-in-russian-drone-attacks-across-ukraine-a92747",
-      "published_utc": "2026-05-13T14:25:10Z",
-      "title_en": "At Least 3 Killed in Russian Drone Attacks Across Ukraine",
-      "lead_en": "The rare daytime attacks largely targeted regions in the western part of the country.",
-      "title_raw": "At Least 3 Killed in Russian Drone Attacks Across Ukraine",
-      "lead_raw": "The rare daytime attacks largely targeted regions in the western part of the country.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
