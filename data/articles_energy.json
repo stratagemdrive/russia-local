@@ -1,30 +1,94 @@
 {
-  "updated_at_utc": "2026-05-16T08:04:29Z",
+  "updated_at_utc": "2026-05-16T10:15:20Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 27,
+  "count": 26,
   "articles": [
+    {
+      "id": "49e1100ca526256d75bc1c5aea7b799aa6cd026a",
+      "source": "RT",
+      "url": "https://www.rt.com/news/640063-eu-sanctions-russia-china/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "published_utc": "2026-05-16T08:56:42Z",
+      "title_en": "The EU’s sanctions fever: From Russia to China, a crisis expands",
+      "lead_en": "What was once an instrument of discipline is becoming fuel on the fire of a continent-scale conflagration Read Full Article at RT.com",
+      "title_raw": "The EU’s sanctions fever: From Russia to China, a crisis expands",
+      "lead_raw": "What was once an instrument of discipline is becoming fuel on the fire of a continent-scale conflagration Read Full Article at RT.com",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "05e62714b2e5b72e9fc934565eb214d4c232a6bd",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27431471",
+      "published_utc": "2026-05-16T08:03:11Z",
+      "title_en": "Rosseti will consider proposals for the construction of electrical grid facilities in Tanzania",
+      "lead_en": "Minister of Economic Development of the Russian Federation Maxim Reshetnikov said that the scientific and technical center of the Unified Energy System has prepared proposals for cooperation in the field of power grids",
+      "title_raw": "\"Россети\" рассмотрят предложения по возведению электросетевых объектов в Танзании",
+      "lead_raw": "Министр экономического развития РФ Максим Решетников заявил, что научно-технический центр Единой энергетической системы подготовил предложения по сотрудничеству в области электросетевого хозяйства",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "2f950ccb81e65a39075765432d5f3c984ae172b4",
       "source": "TASS (RU)",
       "url": "https://tass.ru/ekonomika/27431391",
       "published_utc": "2026-05-16T07:52:37Z",
-      "title_en": "Reshetnikov: The Russian Federation is negotiating with the Tanzania Fuel Procurement Regulatory Agency",
-      "lead_en": "",
-      "title_raw": "Решетников: РФ ведет переговоры с Агентством по урегулированию закупок топлива Танзании",
-      "lead_raw": "",
+      "title_en": "Reshetnikov: Russian company is discussing accreditation as a market participant in Tanzania",
+      "lead_en": "The Russian side sees good prospects in the supply of petroleum products, said the Minister of Economic Development",
+      "title_raw": "Решетников: компания РФ обсуждает аккредитацию в роли участника рынка в Танзании",
+      "lead_raw": "Российская сторона видит хорошие перспективы в сфере поставок нефтепродуктов, заявил министр экономического развития",
       "topic_scores": {
-        "diplomacy": 1,
+        "diplomacy": 0,
         "military": 0,
         "energy": 1,
-        "economy": 0,
+        "economy": 2,
         "local_events": 0
       },
       "topics": [
-        "diplomacy",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "22e80dbfc29bf3dcab2eac9938e4dcbea0daa9d3",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27431383",
+      "published_utc": "2026-05-16T07:51:25Z",
+      "title_en": "Reshetnikov: Novatek is ready to participate in gas production projects in Tanzania",
+      "lead_en": "The Russian side expects information on the date of the fifth round of distribution of licenses for geological exploration blocks, as well as on the receipt of blocks outside the tender, said the Minister of Economic Development of the Russian Federation",
+      "title_raw": "Решетников: \"Новатэк\" готов к участию в проектах добычи газа в Танзании",
+      "lead_raw": "Российская сторона ожидает информацию о дате проведения пятого раунда распределения лицензий по геологоразведочным блокам, а также о получении блоков вне тендера, заявил министр экономического развития РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
         "energy"
       ],
-      "primary_topic": "diplomacy"
+      "primary_topic": "energy"
     },
     {
       "id": "b12bc2abacba2f3a1c140c743c599576bf0f3a2d",
@@ -494,90 +558,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "d9dd602737121aa770b0b751889b5b89b86f5ddc",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27408223",
-      "published_utc": "2026-05-14T09:30:32Z",
-      "title_en": "Shoigu: international organizations did not fully respond to the crisis in Gaza",
-      "lead_en": "The Secretary of the Security Council of the Russian Federation noted that the response of many international organizations to global crises, including those created many decades ago within the UN, raises questions",
-      "title_raw": "Шойгу: международные организации не в полной мере реагировали на кризис в Газе",
-      "lead_raw": "Секретарь Совета безопасности РФ отметил, что реагирование многих международных организаций на мировые кризисы, в том числе созданных многие десятилетия назад в рамках ООН, вызывает вопросы",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "0eb6ff79ce7ad498d8b64e9b12b021147de6a843",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/interviews/27396801",
-      "published_utc": "2026-05-14T09:30:01Z",
-      "title_en": "Vice Speaker of the Slovak Parliament: Some Europeans want the Ukrainian war to continue",
-      "lead_en": "Vice Speaker of the Slovak Parliament Tibor Gašpar, in an interview with TASS, explained how things are now with Russian gas supplies, assured that Bratislava will not give up its independent course in the EU, and explained how the course towards militarization affects European c",
-      "title_raw": "Вице-спикер парламента Словакии: часть европейцев хочет продолжения украинской войны",
-      "lead_raw": "Вице-спикер парламента Словакии Тибор Гашпар в интервью ТАСС рассказал, как сейчас обстоит дело с поставками российского газа, заверил, что Братислава не откажется от независимого курса в ЕС, и пояснил, каким образом курс на милитаризацию влияет на страны Европы",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "48c0d7bc9998bb87362ad8f27eb09dcef91f521d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2130693",
-      "published_utc": "2026-05-14T09:24:05Z",
-      "title_en": "India has asked US to extend license to purchase oil from Russia — Bloomberg",
-      "lead_en": "The US Department of the Treasury’s authorization for the sale, transportation, and unloading of oil and petroleum products of Russian origin expires on May 16, the agency said",
-      "title_raw": "India has asked US to extend license to purchase oil from Russia — Bloomberg",
-      "lead_raw": "The US Department of the Treasury’s authorization for the sale, transportation, and unloading of oil and petroleum products of Russian origin expires on May 16, the agency said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "614361d8cf0315da243f8afb28fe75fb0a712b95",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2130685",
-      "published_utc": "2026-05-14T09:05:09Z",
-      "title_en": "Europe being disingenuous announcing ban on gas imports from Russia — senior Slovak MP",
-      "lead_en": "\"Those countries that are shouting about the need to completely ban energy imports from Russia have recently purchased record volumes of liquefied natural gas,\" Tibor Gaspar said",
-      "title_raw": "Europe being disingenuous announcing ban on gas imports from Russia — senior Slovak MP",
-      "lead_raw": "\"Those countries that are shouting about the need to completely ban energy imports from Russia have recently purchased record volumes of liquefied natural gas,\" Tibor Gaspar said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
