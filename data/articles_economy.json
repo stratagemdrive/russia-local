@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-05-16T21:50:03Z",
+  "updated_at_utc": "2026-05-16T22:44:05Z",
   "keep_hours": 48,
   "topic": "economy",
   "count": 65,
   "articles": [
+    {
+      "id": "be68c4eb940562a260528185e58ff05ef3cfb51a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27434975",
+      "published_utc": "2026-05-16T22:35:31Z",
+      "title_en": "The average social pension in Russia has doubled over 10 years",
+      "lead_en": "Over ten years, the amount has increased by almost 8 thousand rubles, as follows from the Social Fund data",
+      "title_raw": "Средний размер социальной пенсии в России за 10 лет вырос в два раза",
+      "lead_raw": "За десять лет сумма выросла почти на 8 тыс. рублей, следует из данных Соцфонда",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
     {
       "id": "66bc528b452de9d4911bdd2137717af5beb5bdac",
       "source": "TASS (RU)",
@@ -1283,25 +1302,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "79804fc7deb2d6eca02327d810fc6c779a2e219c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27416191",
-      "published_utc": "2026-05-14T22:34:55Z",
-      "title_en": "The average pension above 30 thousand rubles was noted in 12 regions of Russia",
-      "lead_en": "We are talking about Chukotka, Karelia, Yakutia, the Komi Republic, Kamchatka Territory, Nenets, Khanty-Mansi and Yamalo-Nenets Autonomous Okrugs, Magadan, Murmansk, Sakhalin and Arkhangelsk regions",
-      "title_raw": "Средняя пенсия выше 30 тыс. рублей отмечена в 12 регионах России",
-      "lead_raw": "Речь идет о Чукотке, Карелии, Якутии, Республике Коми, Камчатском крае, Ненецком, Ханты-Мансийском и Ямало-Ненецком автономных округах, Магаданской, Мурманской, Сахалинской и Архангельской областях",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
     }
   ]
 }
