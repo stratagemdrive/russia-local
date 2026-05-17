@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-05-17T11:06:26Z",
+  "updated_at_utc": "2026-05-17T13:20:27Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 11,
+  "count": 9,
   "articles": [
+    {
+      "id": "01b855dac01c3f1eaffd336c29bc62d10c24bf3c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27437535",
+      "published_utc": "2026-05-17T10:08:52Z",
+      "title_en": "Fighter Kempei: The Russian Armed Forces are superior to the Ukrainian Armed Forces in the efficiency of evacuation and provision delivery",
+      "lead_en": "The serviceman noted that in addition to FPV drones, the Ukrainian Armed Forces are trying to complicate the delivery of supplies to the Russian military with magnetic mines",
+      "title_raw": "Боец Кемпей: ВС РФ превосходят ВСУ в эффективности эвакуации и доставке провизии",
+      "lead_raw": "Военнослужащий отметил, что кроме FPV-дронов ВСУ пытаются усложнить российским военным доставку припасов магнитными минами",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "d6f32f5d0af36bc2627f39efc131f8d206bb004f",
       "source": "TASS (EN)",
@@ -167,65 +188,6 @@
         "military",
         "local_events"
       ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "c8df3b4604f4bfb3cffe15bf009b6a389124f631",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2131501",
-      "published_utc": "2026-05-15T12:36:11Z",
-      "title_en": "Top Iranian diplomat comments on Russia’s uranium proposal, attempts to derail talks",
-      "lead_en": "Abbas Araghchi pointed to the Iranian authorities' efforts to maintain a ceasefire with the US in order to resolve the conflict diplomatically",
-      "title_raw": "Top Iranian diplomat comments on Russia’s uranium proposal, attempts to derail talks",
-      "lead_raw": "Abbas Araghchi pointed to the Iranian authorities' efforts to maintain a ceasefire with the US in order to resolve the conflict diplomatically",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "9dd394b0ee35c36d8c802c9ecf57a34f28aa68f5",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27424327",
-      "published_utc": "2026-05-15T12:29:39Z",
-      "title_en": "In the Volgograd region, the unmanned threat was canceled",
-      "lead_en": "This follows from the application of the Ministry of Emergency Situations of Russia",
-      "title_raw": "В Волгоградской области отменили беспилотную опасность",
-      "lead_raw": "Это следует из приложения МЧС России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "946930bca550342c9a4e0de177666019ae62e65b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2131491",
-      "published_utc": "2026-05-15T12:20:39Z",
-      "title_en": "Russia delivers 24 tons of humanitarian aid to Somalia — Emergencies Ministry",
-      "lead_en": "Russian rescuers delivered food, tents, and blankets",
-      "title_raw": "Russia delivers 24 tons of humanitarian aid to Somalia — Emergencies Ministry",
-      "lead_raw": "Russian rescuers delivered food, tents, and blankets",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
       "primary_topic": "local_events"
     }
   ]
