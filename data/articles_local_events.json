@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-05-17T21:54:54Z",
+  "updated_at_utc": "2026-05-17T23:57:06Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 7,
   "articles": [
+    {
+      "id": "c0ecde3ba973db6222b8eaad0a36f7059e1ac011",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2132077",
+      "published_utc": "2026-05-17T22:10:01Z",
+      "title_en": "No signal from Kiev regarding new round of talks, senior Russian diplomat says",
+      "lead_en": "Mikhail Galuzin noted that for successful negotiations Vladimir Zelensky will need to order the Ukrainian armed forces to cease fire and pull troops from Donbass",
+      "title_raw": "No signal from Kiev regarding new round of talks, senior Russian diplomat says",
+      "lead_raw": "Mikhail Galuzin noted that for successful negotiations Vladimir Zelensky will need to order the Ukrainian armed forces to cease fire and pull troops from Donbass",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "01b855dac01c3f1eaffd336c29bc62d10c24bf3c",
       "source": "TASS (RU)",
@@ -127,27 +149,6 @@
         "local_events"
       ],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "5ec45d69a590ea241e798bd1d80ba427f66b5f8d",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/05/16/drone-strikes-residential-building-in-russia-s-belgorod-injuring-nine",
-      "published_utc": "2026-05-15T23:39:15Z",
-      "title_en": "Drone strikes residential building in Russia’s Belgorod, injuring nine",
-      "lead_en": "A Ukrainian Armed Forces drone struck a multi-story residential building in Russia’s Belgorod region, the local emergency operations center reported on Friday. The Telegram channel Pepel (Ashes) identified the building as being on Vokzalnaya Street.",
-      "title_raw": "Drone strikes residential building in Russia’s Belgorod, injuring nine",
-      "lead_raw": "A Ukrainian Armed Forces drone struck a multi-story residential building in Russia’s Belgorod region, the local emergency operations center reported on Friday. The Telegram channel Pepel (Ashes) identified the building as being on Vokzalnaya Street.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
