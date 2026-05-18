@@ -1,9 +1,85 @@
 {
-  "updated_at_utc": "2026-05-17T23:57:06Z",
+  "updated_at_utc": "2026-05-18T04:08:05Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 7,
+  "count": 9,
   "articles": [
+    {
+      "id": "4934bade52aeab6f301d2e734745c24278054aa8",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27440637",
+      "published_utc": "2026-05-18T03:49:36Z",
+      "title_en": "In Chuvashia, the danger of a UAV attack has been canceled",
+      "lead_en": "This was reported in the application of the Ministry of Emergency Situations of Russia",
+      "title_raw": "В Чувашии отменили опасность атаки БПЛА",
+      "lead_raw": "Об этом сообщили в приложении МЧС России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "d2069641ce1b5c248d943884172ff393f2c43232",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27440593",
+      "published_utc": "2026-05-18T03:32:57Z",
+      "title_en": "In the Ulyanovsk region, the unmanned threat was canceled",
+      "lead_en": "This was reported in the application of the Ministry of Emergency Situations of Russia",
+      "title_raw": "В Ульяновской области отменили беспилотную опасность",
+      "lead_raw": "Об этом сообщили в приложении МЧС России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "25d28cdd8e8b0c31dca7ac052edd46038407fc6a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27440201",
+      "published_utc": "2026-05-18T01:28:38Z",
+      "title_en": "In Chuvashia, the danger of a UAV attack has been announced",
+      "lead_en": "This was reported in the application of the Ministry of Emergency Situations of the Russian Federation",
+      "title_raw": "В Чувашии объявили опасность атаки БПЛА",
+      "lead_raw": "Об этом сообщили в приложении МЧС РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "b882807ff01f9d2bc8396ece19af4eaa14433437",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27440197",
+      "published_utc": "2026-05-18T01:24:18Z",
+      "title_en": "Unmanned danger declared in the Ryazan region",
+      "lead_en": "This was reported in the application of the Ministry of Emergency Situations of Russia",
+      "title_raw": "В Рязанской области объявили беспилотную опасность",
+      "lead_raw": "Об этом сообщили в приложении МЧС России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "c0ecde3ba973db6222b8eaad0a36f7059e1ac011",
       "source": "TASS (EN)",
@@ -107,48 +183,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "b4f715a71f296378bfc19af094b16c45f41a657c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27429849",
-      "published_utc": "2026-05-16T02:01:13Z",
-      "title_en": "Ambassador to Kyrgyzstan: the Russian Federation is ready to conduct a search for the deceased climber Nagovitsyna",
-      "lead_en": "Sergei Vakunov also commented on the technical possibility of searching and evacuating the body of a Russian woman",
-      "title_raw": "Посол в Киргизии: РФ готова провести поиски погибшей альпинистки Наговицыной",
-      "lead_raw": "Сергей Вакунов также прокомментировал техническую возможность поиска и эвакуации тела россиянки",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "a086963f253cbeabd586bf5301ef884ac2c19ca3",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2131711",
-      "published_utc": "2026-05-16T00:50:42Z",
-      "title_en": "Four Russian civilians killed during Victory Day ceasefire — diplomat",
-      "lead_en": "According to Rodion Miroshnik, 47 civilians were injured in the period",
-      "title_raw": "Four Russian civilians killed during Victory Day ceasefire — diplomat",
-      "lead_raw": "According to Rodion Miroshnik, 47 civilians were injured in the period",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
     }
   ]
 }
