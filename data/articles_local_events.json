@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-05-19T09:42:18Z",
+  "updated_at_utc": "2026-05-19T12:38:13Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 12,
   "articles": [
+    {
+      "id": "5df0dff2fa06bd203e06d4eccfc2c9c486635b85",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/05/19/hovercraft-accident-kills-5-russian-tourists-on-lake-baikal-a92788",
+      "published_utc": "2026-05-19T12:18:09Z",
+      "title_en": "Hovercraft Accident Kills 5 Russian Tourists on Lake Baikal",
+      "lead_en": "Emergency service sources said the vehicle was believed to have been heavily overloaded beyond its passenger capacity when it capsized.",
+      "title_raw": "Hovercraft Accident Kills 5 Russian Tourists on Lake Baikal",
+      "lead_raw": "Emergency service sources said the vehicle was believed to have been heavily overloaded beyond its passenger capacity when it capsized.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "5dd6b24ac819590b6f942a1d65bbf66538c4a0c0",
       "source": "TASS (EN)",
@@ -219,27 +240,6 @@
         "military"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "01b855dac01c3f1eaffd336c29bc62d10c24bf3c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27437535",
-      "published_utc": "2026-05-17T10:08:52Z",
-      "title_en": "Fighter Kempei: The Russian Armed Forces are superior to the Ukrainian Armed Forces in the efficiency of evacuation and provision delivery",
-      "lead_en": "The serviceman noted that in addition to FPV drones, the Ukrainian Armed Forces are trying to complicate the delivery of supplies to the Russian military with magnetic mines",
-      "title_raw": "Боец Кемпей: ВС РФ превосходят ВСУ в эффективности эвакуации и доставке провизии",
-      "lead_raw": "Военнослужащий отметил, что кроме FPV-дронов ВСУ пытаются усложнить российским военным доставку припасов магнитными минами",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
