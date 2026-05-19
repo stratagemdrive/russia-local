@@ -1,9 +1,70 @@
 {
-  "updated_at_utc": "2026-05-19T12:38:13Z",
+  "updated_at_utc": "2026-05-19T16:19:40Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 71,
+  "count": 73,
   "articles": [
+    {
+      "id": "fc779e8fe8a452b620c50d2cff2400a284073b2a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27461929",
+      "published_utc": "2026-05-19T16:16:37Z",
+      "title_en": "The Russian stock market closed mixed",
+      "lead_en": "The yuan exchange rate dropped to 10.35 rubles",
+      "title_raw": "Российский рынок акций закрылся разнонаправленно",
+      "lead_raw": "Курс юаня снизился до 10,35 рубля",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "e556b22f3a9bdd74f731121ca45650fe2902254d",
+      "source": "RT",
+      "url": "https://www.rt.com/news/640183-eu-cow-manure-fertilizer-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "published_utc": "2026-05-19T15:49:33Z",
+      "title_en": "EU to rely on cow manure amid Iran war fertilizer crisis – Politico",
+      "lead_en": "The EU will rely on cow manure rather than suspending tariffs on Russian imports amid an Iran war fertilizer shortage, Politico has reported Read Full Article at RT.com",
+      "title_raw": "EU to rely on cow manure amid Iran war fertilizer crisis – Politico",
+      "lead_raw": "The EU will rely on cow manure rather than suspending tariffs on Russian imports amid an Iran war fertilizer shortage, Politico has reported Read Full Article at RT.com",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "c807504c32023d9589e16d8d6679a32109b4ff15",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27461225",
+      "published_utc": "2026-05-19T15:11:12Z",
+      "title_en": "The sentence of the former head of the scientific center of the Russian Defense Ministry was recognized as legal",
+      "lead_en": "Igor Rutko is accused of receiving bribes in the amount of 30.2 million rubles",
+      "title_raw": "Приговор экс-главе научного центра МО РФ признали законным",
+      "lead_raw": "Игорь Рутько обвиняется в получении взяток на сумму 30,2 млн рублей",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "60fbddacfe55b732f5dc857ec77e71abf8b3c0a4",
       "source": "TASS (RU)",
@@ -1410,25 +1471,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "55cef402fa9d406070890c43b6dae1f9c74f9c38",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27438435",
-      "published_utc": "2026-05-17T14:04:06Z",
-      "title_en": "Mishustin will come to CIPR in Nizhny Novgorod on May 18",
-      "lead_en": "The Prime Minister of the Russian Federation will take part in the conference \"Digital Industry of Industrial Russia\"",
-      "title_raw": "Мишустин 18 мая приедет на ЦИПР в Нижнем Новгороде",
-      "lead_raw": "Премьер-министр РФ примет участие в конференции \"Цифровая индустрия промышленной России\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
     }
   ]
 }
