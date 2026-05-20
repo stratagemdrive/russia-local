@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-05-20T05:04:52Z",
+  "updated_at_utc": "2026-05-20T09:34:09Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 11,
   "articles": [
+    {
+      "id": "6c2bf4a68af87cacacd8ec147911885abd65e69d",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/05/20/russian-strike-on-dnipro-kills-two-people-wounds-six-others",
+      "published_utc": "2026-05-20T07:40:09Z",
+      "title_en": "Russian strike on Dnipro kills two people, wounds six others",
+      "lead_en": "A Russian strike on Dnipro overnight on May 20 killed two people and wounded six others, three of them critically, Oleksandr Hanzha, the head of the regional military administration, said. A food warehouse and private homes were also damaged, he added.",
+      "title_raw": "Russian strike on Dnipro kills two people, wounds six others",
+      "lead_raw": "A Russian strike on Dnipro overnight on May 20 killed two people and wounded six others, three of them critically, Oleksandr Hanzha, the head of the regional military administration, said. A food warehouse and private homes were also damaged, he added.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "e9a1118dfdd74e8d123385a73df7ad5eba5e4c82",
       "source": "TASS (RU)",
@@ -196,27 +217,6 @@
         "local_events": 1
       },
       "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "613ea65d7df2a6512790b1b47946532ebbfc65ff",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27442673",
-      "published_utc": "2026-05-18T07:45:27Z",
-      "title_en": "Russia may expand the category of recipients of combat veteran status",
-      "lead_en": "It is proposed to grant this status to employees of the Ministry of Emergency Situations who took part during the SVO in carrying out work to search, neutralize and destroy explosive objects in the territories of historical regions",
-      "title_raw": "В России могут расширить категорию получателей статуса ветерана боевых действий",
-      "lead_raw": "Предлагается предоставлять такой статус сотрудникам МЧС, принимавшим участие в ходе СВО в проведении работ по поиску, обезвреживанию и уничтожению взрывоопасных предметов на территориях исторических регионов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
       "primary_topic": "local_events"
     }
   ]

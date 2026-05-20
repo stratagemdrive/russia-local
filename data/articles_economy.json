@@ -1,9 +1,90 @@
 {
-  "updated_at_utc": "2026-05-20T05:04:52Z",
+  "updated_at_utc": "2026-05-20T09:34:09Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 95,
+  "count": 90,
   "articles": [
+    {
+      "id": "dd6fb0c68dc01869605fcdee47dd7b25fdad0f08",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27471639",
+      "published_utc": "2026-05-20T09:25:20Z",
+      "title_en": "Russia received the right to export feed to China",
+      "lead_en": "The signing of the protocol took place as part of the visit of Russian President Vladimir Putin to Beijing, dedicated to the 25th anniversary of the Russian-Chinese Treaty of Good Neighbourliness, Friendship and Cooperation",
+      "title_raw": "Россия получила право на экспорт комбикормов в Китай",
+      "lead_raw": "Подписание протокола состоялось в рамках визита президента РФ Владимира Путина в Пекин, приуроченного к 25-летию российско-китайского Договора о добрососедстве, дружбе и сотрудничестве",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "c4ab1c7376f1bf73cdf79d42be2f9b46b1d2c6d0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27471123",
+      "published_utc": "2026-05-20T08:56:07Z",
+      "title_en": "The Ministry of Transport spoke about new rules for transporting power banks on airplanes in Russia",
+      "lead_en": "Batteries over 160 Wh are prohibited.",
+      "title_raw": "Минтранс рассказал о новых правилах провоза пауэрбанков в самолетах в России",
+      "lead_raw": "Батареи свыше 160 Вт·ч провозить запрещено",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "005569976c839e417ea6207b4df1155c38d25ddd",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27470815",
+      "published_utc": "2026-05-20T08:51:08Z",
+      "title_en": "The Russian Federation and China opposed the use of unilateral sanctions",
+      "lead_en": "Countries also spoke out against the discriminatory use of customs duties",
+      "title_raw": "РФ и КНР выступили против применения односторонних санкций",
+      "lead_raw": "Страны также высказались против дискриминационного использования таможенных пошлин",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "2ba5977455d1164c0d11716fb4ba77fdb7e3b359",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/05/20/uk-loosens-russian-oil-sanctions-amid-soaring-energy-costs-a92797",
+      "published_utc": "2026-05-20T08:44:29Z",
+      "title_en": "U.K. Loosens Russian Oil Sanctions Amid Soaring Energy Costs",
+      "lead_en": "A new trade license allows the U.K. to buy jet fuel and diesel refined from Russian crude oil in third-party countries.",
+      "title_raw": "U.K. Loosens Russian Oil Sanctions Amid Soaring Energy Costs",
+      "lead_raw": "A new trade license allows the U.K. to buy jet fuel and diesel refined from Russian crude oil in third-party countries.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "cde65754b35d59c650005ad34ef5e47466fcebf1",
       "source": "TASS (RU)",
@@ -1742,183 +1823,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "9302e4dc84f7c190a314d854b234b26dcb99317a",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2132187",
-      "published_utc": "2026-05-18T09:01:14Z",
-      "title_en": "More than half of Russian companies already implementing AI — PM",
-      "lead_en": "The integration of AI-based components into automated design and manufacturing management platforms is becoming standard, Mikhail Mishustin noted",
-      "title_raw": "More than half of Russian companies already implementing AI — PM",
-      "lead_raw": "The integration of AI-based components into automated design and manufacturing management platforms is becoming standard, Mikhail Mishustin noted",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "23c22ec2df40c588a9fa04ea0c288af98cc3f18d",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/05/18/us-allows-russian-oil-waiver-to-expire-again-a92773",
-      "published_utc": "2026-05-18T08:38:40Z",
-      "title_en": "U.S. Allows Russian Oil Waiver to Expire Again",
-      "lead_en": "Sanctions experts said they expect the U.S. to either issue a short-term extension or grant specific exemptions to major Asian refineries.",
-      "title_raw": "U.S. Allows Russian Oil Waiver to Expire Again",
-      "lead_raw": "Sanctions experts said they expect the U.S. to either issue a short-term extension or grant specific exemptions to major Asian refineries.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "101fffb83cf3a1fa929e727b8a8e78f91a3fa7ba",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27443509",
-      "published_utc": "2026-05-18T08:27:11Z",
-      "title_en": "Mishustin: the cloud services market in the Russian Federation has grown fourfold in six years",
-      "lead_en": "",
-      "title_raw": "Мишустин: рынок \"облачных\" сервисов в РФ вырос вчетверо за шесть лет",
-      "lead_raw": "",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "a7128780e773257ac2b33a69771801e6628f8ee2",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27443203",
-      "published_utc": "2026-05-18T08:15:02Z",
-      "title_en": "Mishustin: exports of Russian software abroad have grown by 15% since 2022",
-      "lead_en": "More and more specialists are coming to the industry, said the Prime Minister of the Russian Federation",
-      "title_raw": "Мишустин: экспорт российского софта за рубеж вырос на 15% с 2022 года",
-      "lead_raw": "В индустрию приходит все больше специалистов, заявил премьер-министр РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "42265536e57d02d4d65579d608eba7f6d0c90073",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27443159",
-      "published_utc": "2026-05-18T08:13:29Z",
-      "title_en": "Mishustin: the share of IT in the Russian economy has doubled in six years",
-      "lead_en": "Large companies are increasingly choosing Russian developments for implementation at enterprises, the prime minister noted",
-      "title_raw": "Мишустин: доля IT в экономике РФ за шесть лет удвоилась",
-      "lead_raw": "Крупные компании все чаще выбирают российские разработки для внедрения на предприятиях, отметил премьер",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "8f1bbd24924d1287997812a1d64e88e4a0c65d75",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27442949",
-      "published_utc": "2026-05-18T08:02:55Z",
-      "title_en": "Ambassador to the Russian Federation: a large delegation from Vietnam plans to take part in SPIEF",
-      "lead_en": "Dang Minh made this announcement on the sidelines of Vietnam Economy Day at the St. Petersburg State University of Economics",
-      "title_raw": "Посол в РФ: крупная делегация из Вьетнама планирует принять участие в ПМЭФ",
-      "lead_raw": "Данг Минь сделал такой анонс на полях Дня экономики Вьетнама в Санкт-Петербургском государственном экономическом университете",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "13d6970354f5d9863efca6ecc308825a4717497b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27442869",
-      "published_utc": "2026-05-18T08:01:24Z",
-      "title_en": "European Gymnastics will consider lifting sanctions from Russian athletes by the end of the week",
-      "lead_en": "Earlier, the Executive Committee of the International Gymnastics Federation lifted restrictions on Russian athletes and allowed them to participate in tournaments with the flag and anthem",
-      "title_raw": "European Gymnastics до конца недели рассмотрит снятие санкций с атлетов РФ",
-      "lead_raw": "Ранее исполком Международной федерации гимнастики снял ограничения с российских спортсменов и допустил их до турниров с флагом и гимном",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "2e7eb0063efba7be21ff1adee6b277979dc85d20",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2132149",
-      "published_utc": "2026-05-18T07:48:39Z",
-      "title_en": "Russian stocks down as main trading session opens",
-      "lead_en": "The yuan exchange rate against the ruble fell by 5.9 kopecks",
-      "title_raw": "Russian stocks down as main trading session opens",
-      "lead_raw": "The yuan exchange rate against the ruble fell by 5.9 kopecks",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "abf417b88d3067d8128e31d7ccb1f712646706f5",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2132135",
-      "published_utc": "2026-05-18T07:34:38Z",
-      "title_en": "Trade turnover between Russia, China up 3% in 2025 to 47 mln tons — Transport Ministry",
-      "lead_en": "According to the report, the flow of transport through checkpoints increased more than 20%",
-      "title_raw": "Trade turnover between Russia, China up 3% in 2025 to 47 mln tons — Transport Ministry",
-      "lead_raw": "According to the report, the flow of transport through checkpoints increased more than 20%",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
     }
   ]
 }
