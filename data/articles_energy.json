@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-05-20T00:06:05Z",
+  "updated_at_utc": "2026-05-20T05:04:52Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 43,
   "articles": [
+    {
+      "id": "0047dbff8caddeb0850ea15a553f31f9c671c9c8",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27465533",
+      "published_utc": "2026-05-20T03:36:21Z",
+      "title_en": "Putin: Russia retains its role as a reliable supplier of energy resources",
+      "lead_en": "At the same time, China remains a responsible consumer, the Russian President noted.",
+      "title_raw": "Путин: Россия сохраняет за собой роль надежного поставщика энергоресурсов",
+      "lead_raw": "Китай при этом остается ответственным потребителем, отметил президент РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "0cd822854d19b19c8ba198ad8cd85b5fb1b93467",
       "source": "TASS (RU)",
@@ -893,28 +914,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "5430cb6ce0315f96bac59a33c5a9d2f773fb40ee",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2132097",
-      "published_utc": "2026-05-18T03:32:01Z",
-      "title_en": "Senior Russian official sees prospects for cooperation in energy, agriculture with China",
-      "lead_en": "Russian Deputy Prime Minister and Presidential Plenipotentiary Envoy to the Far Eastern Federal District Yury Trutnev highlighted tourism as yet another promising sphere",
-      "title_raw": "Senior Russian official sees prospects for cooperation in energy, agriculture with China",
-      "lead_raw": "Russian Deputy Prime Minister and Presidential Plenipotentiary Envoy to the Far Eastern Federal District Yury Trutnev highlighted tourism as yet another promising sphere",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
