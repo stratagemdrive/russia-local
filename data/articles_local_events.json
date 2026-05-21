@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-05-21T03:41:08Z",
+  "updated_at_utc": "2026-05-21T07:52:51Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 12,
+  "count": 11,
   "articles": [
+    {
+      "id": "0669bb112c7842a7f2265ef0198e115f3311d165",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2134305",
+      "published_utc": "2026-05-21T07:30:39Z",
+      "title_en": "FACTBOX: Aftermath of Ukrainian drone attack on Russian regions, casualties in Syzran",
+      "lead_en": "Two people died and several others were injured in a drone attack on the city of Syzran in Russia’s southeastern Samara Region",
+      "title_raw": "FACTBOX: Aftermath of Ukrainian drone attack on Russian regions, casualties in Syzran",
+      "lead_raw": "Two people died and several others were injured in a drone attack on the city of Syzran in Russia’s southeastern Samara Region",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "82e3f652c255699bca9d686414bb1ef3f013d948",
       "source": "TASS (RU)",
@@ -196,44 +215,6 @@
       "topics": [
         "local_events"
       ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "5dd6b24ac819590b6f942a1d65bbf66538c4a0c0",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2132809",
-      "published_utc": "2026-05-19T07:23:53Z",
-      "title_en": "An-2 aircraft with eight people on board makes emergency landing in Siberia",
-      "lead_en": "According to the Russian Investigative Committee, the emergency landing was caused by an engine failure",
-      "title_raw": "An-2 aircraft with eight people on board makes emergency landing in Siberia",
-      "lead_raw": "According to the Russian Investigative Committee, the emergency landing was caused by an engine failure",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "8b521aa85905355875c2479155ef637bdeb1eb96",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2132791",
-      "published_utc": "2026-05-19T06:55:52Z",
-      "title_en": "Industrial site affected in Yaroslavl as Russia downs 315 Ukrainian drones overnight",
-      "lead_en": "There were no casualties or injured",
-      "title_raw": "Industrial site affected in Yaroslavl as Russia downs 315 Ukrainian drones overnight",
-      "lead_raw": "There were no casualties or injured",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
       "primary_topic": "local_events"
     }
   ]
