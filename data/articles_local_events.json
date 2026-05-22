@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-05-22T04:59:43Z",
+  "updated_at_utc": "2026-05-22T08:28:22Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 12,
   "articles": [
+    {
+      "id": "f3a8c66962af8c64a0fed59ff2cdc66e89cd2a36",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/05/22/35-students-injured-in-strike-on-college-in-russian-occupied-part-of-ukraine-s-luhansk-region",
+      "published_utc": "2026-05-22T07:52:50Z",
+      "title_en": "35 students injured in strike on college in Russian-occupied part of Ukraine’s Luhansk region",
+      "lead_en": "Thirty-five students were injured when a strike hit a college building and dormitory in Starobilsk, in the Russian-occupied part of Ukraine’s Luhansk region, according to local officials.",
+      "title_raw": "35 students injured in strike on college in Russian-occupied part of Ukraine’s Luhansk region",
+      "lead_raw": "Thirty-five students were injured when a strike hit a college building and dormitory in Starobilsk, in the Russian-occupied part of Ukraine’s Luhansk region, according to local officials.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "f4a231668f70f890c542cf245cc7211579f352a0",
       "source": "TASS (RU)",
@@ -219,27 +238,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "6c2bf4a68af87cacacd8ec147911885abd65e69d",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/05/20/russian-strike-on-dnipro-kills-two-people-wounds-six-others",
-      "published_utc": "2026-05-20T07:40:09Z",
-      "title_en": "Russian strike on Dnipro kills two people, wounds six others",
-      "lead_en": "A Russian strike on Dnipro overnight on May 20 killed two people and wounded six others, three of them critically, Oleksandr Hanzha, the head of the regional military administration, said. A food warehouse and private homes were also damaged, he added.",
-      "title_raw": "Russian strike on Dnipro kills two people, wounds six others",
-      "lead_raw": "A Russian strike on Dnipro overnight on May 20 killed two people and wounded six others, three of them critically, Oleksandr Hanzha, the head of the regional military administration, said. A food warehouse and private homes were also damaged, he added.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
