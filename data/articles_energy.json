@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-05-22T19:44:39Z",
+  "updated_at_utc": "2026-05-22T21:09:01Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 32,
+  "count": 33,
   "articles": [
+    {
+      "id": "e6a762604da0e38849ba02939545e4e231584d73",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2135281",
+      "published_utc": "2026-05-22T17:24:50Z",
+      "title_en": "Agricultural trade between Russia and Egypt up 15% in January-April 2026 — ministry",
+      "lead_en": "Traditionally, Russia exports grain, oilseeds, and pulses to Egypt",
+      "title_raw": "Agricultural trade between Russia and Egypt up 15% in January-April 2026 — ministry",
+      "lead_raw": "Traditionally, Russia exports grain, oilseeds, and pulses to Egypt",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "3a7ee7d0576954923ecb1da3565e795798e3ce29",
       "source": "Meduza (EN)",
@@ -39,6 +61,27 @@
         "military": 0,
         "energy": 3,
         "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "df707ac35e1fba0b7cc51c39b29cd0f13d7ed2d4",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2135217",
+      "published_utc": "2026-05-22T14:50:38Z",
+      "title_en": "Bank of Russia raises dollar rate to 71.21 rubles for May 23-25",
+      "lead_en": "The official euro rate was lowered by 73.01 kopecks to 82.5445 rubles",
+      "title_raw": "Bank of Russia raises dollar rate to 71.21 rubles for May 23-25",
+      "lead_raw": "The official euro rate was lowered by 73.01 kopecks to 82.5445 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
         "local_events": 0
       },
       "topics": [
@@ -661,27 +704,6 @@
       "topics": [
         "energy",
         "economy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "6cf9629afde64805bfdc2ed61462999d2a1d1c52",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27478611",
-      "published_utc": "2026-05-20T21:01:50Z",
-      "title_en": "Trutnev noted the effectiveness of the Russian Federation in the extreme conditions of the Far North",
-      "lead_en": "Innovative production is being launched in the Arctic, minerals are being mined, LNG plants are being built, advanced scientific and floating nuclear power plants are being developed, the Deputy Prime Minister and Plenipotentiary Representative of the President of the Russian Fed",
-      "title_raw": "Трутнев отметил эффективность работы РФ в экстремальных условиях Крайнего Севера",
-      "lead_raw": "В Арктике запускаются инновационные производства, добываются полезные ископаемые, строятся заводы СПГ, развиваются передовые научные и плавучие атомные станции, подчеркнул вице-премьер, полномочный представитель президента РФ в Дальневосточном федеральном округе",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
       ],
       "primary_topic": "energy"
     }
