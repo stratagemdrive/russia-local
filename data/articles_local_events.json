@@ -1,9 +1,68 @@
 {
-  "updated_at_utc": "2026-05-23T07:31:25Z",
+  "updated_at_utc": "2026-05-23T09:53:09Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 14,
+  "count": 16,
   "articles": [
+    {
+      "id": "29dc7a4aeed59eb965d81d084920af1ded4bf7f6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27508293",
+      "published_utc": "2026-05-23T09:30:51Z",
+      "title_en": "The Consulate General of the Russian Federation is dealing with accidents involving Russians in Antalya as a priority",
+      "lead_en": "Due to the accident in the Beldibi area, Russian citizens received various injuries and were taken to hospitals",
+      "title_raw": "Генконсульство РФ в приоритетном порядке занимается ДТП с россиянами в Анталье",
+      "lead_raw": "Граждане России из-за произошедшей в районе Бельдиби аварии получили различные травмы и были доставлены в больницы",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "5fff46890df6a57e830adc67febf51f3e2ced42d",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2135477",
+      "published_utc": "2026-05-23T08:56:43Z",
+      "title_en": "Drone attack leaves civilian injured in Russia’s Belgorod Region",
+      "lead_en": "The man was preliminarily diagnosed with blast-related injuries and acoustic barotrauma, the regional crisis center said",
+      "title_raw": "Drone attack leaves civilian injured in Russia’s Belgorod Region",
+      "lead_raw": "The man was preliminarily diagnosed with blast-related injuries and acoustic barotrauma, the regional crisis center said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "daa823070c26a5d6fbd6c51e70f8258f1ab24b2b",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/05/23/ukrainian-drone-attack-sparks-fire-at-russian-oil-depot-a92826",
+      "published_utc": "2026-05-23T07:58:14Z",
+      "title_en": "Ukrainian Drone Attack Sparks Fire at Russian Oil Depot",
+      "lead_en": "Two people were wounded in an attack on Russia's fifth largest oil export hub in Novorossiysk, the local mayor said.",
+      "title_raw": "Ukrainian Drone Attack Sparks Fire at Russian Oil Depot",
+      "lead_raw": "Two people were wounded in an attack on Russia's fifth largest oil export hub in Novorossiysk, the local mayor said.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "aa08b1b21cd1bcb57b4b8a0fc768bdb5fccb932f",
       "source": "TASS (RU)",
@@ -265,28 +324,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "e800cbd8f797d13918dd3201c348ded190ca39f6",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/05/21/ukraine-strikes-rosneft-oil-refinery-in-russia-sparking-major-fire-two-killed",
-      "published_utc": "2026-05-21T08:36:33Z",
-      "title_en": "Ukraine strikes Rosneft oil refinery in Russia, sparking major fire. Two killed.",
-      "lead_en": "Two people were killed and several others wounded in a Ukrainian drone strike on Syzran, Samara region Governor Vyacheslav Fedorishchev said, without providing further details.",
-      "title_raw": "Ukraine strikes Rosneft oil refinery in Russia, sparking major fire. Two killed.",
-      "lead_raw": "Two people were killed and several others wounded in a Ukrainian drone strike on Syzran, Samara region Governor Vyacheslav Fedorishchev said, without providing further details.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "energy",
-        "local_events"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
