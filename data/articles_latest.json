@@ -1,17 +1,529 @@
 {
-  "updated_at_utc": "2026-05-23T04:41:04Z",
+  "updated_at_utc": "2026-05-23T07:31:25Z",
   "keep_hours": 48,
-  "count": 581,
+  "count": 602,
   "articles": [
+    {
+      "id": "44c71b1c1fd7412b74b758f076d220604ccf2989",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27507549",
+      "published_utc": "2026-05-23T07:24:07Z",
+      "title_en": "Japanese MP Suzuki called for expanding oil supplies from Russia",
+      "lead_en": "The parliamentarian recalled that his country, which does not have its own energy resources, is 90% dependent on oil supplies from the Middle East",
+      "title_raw": "Японский депутат Судзуки призвал расширить поставки нефти из России",
+      "lead_raw": "Парламентарий напомнил, что его страна, у которой нет собственных энергетических ресурсов, на 90% зависит от поставок нефти с Ближнего Востока",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "8143287fc0c7e8d9b40e1787f4035e9f18b089ec",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27507345",
+      "published_utc": "2026-05-23T07:12:39Z",
+      "title_en": "The Russian Ambassador to Kazakhstan called Tokayev’s visit on May 9 a demonstration of alliance",
+      "lead_en": "Alexey Borodavkin noted that this “very bright political gesture was received by Russia in the most positive way, Moscow appreciated it highly”",
+      "title_raw": "Посол РФ в Казахстане назвал визит Токаева на 9 Мая демонстрацией союзничества",
+      "lead_raw": "Алексей Бородавкин отметил, что этот \"очень яркий политический жест был воспринят Россией самым позитивным образом, Москва высоко его оценила\"",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "034e1c1893c3bb0224a65131357279b9e7778dac",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27507509",
+      "published_utc": "2026-05-23T07:11:26Z",
+      "title_en": "The Russian Armed Forces destroyed control centers for UAV drones in the Slavic direction",
+      "lead_en": "The provided footage shows three episodes of target elimination",
+      "title_raw": "ВС РФ уничтожили пункты управления беспилотниками ВСУ на славянском направлении",
+      "lead_raw": "На предоставленных кадрах показано три эпизода ликвидации целей",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "a3baeeafd79355e2a212bebd752a970d7e954323",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27507487",
+      "published_utc": "2026-05-23T07:09:40Z",
+      "title_en": "The UN Deputy Secretary General was impressed by the organization of the forum in Kazan and the lively Moscow",
+      "lead_en": "Miguel Angel Moratinos noted that he took the opportunity to communicate with Muslim religious leaders in Russia, since he is also the envoy of the organization to combat Islamophobia",
+      "title_raw": "Замгенсека ООН впечатлила организация форума в Казани и оживленная Москва",
+      "lead_raw": "Мигель Анхель Моратинос отметил, что воспользовался возможностью пообщаться с мусульманскими религиозными лидерами России, поскольку он также является посланником организации по борьбе с исламофобией",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "e7080a01eb2253f3c9c011278fae7537a9eda3cc",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27506975",
+      "published_utc": "2026-05-23T07:08:39Z",
+      "title_en": "Showers and thunderstorms are forecast in the south of European Russia",
+      "lead_en": "The cause of the bad weather was the circulation of atmospheric movements, said leading employee of the Hydrometeorological Center of the Russian Federation Marina Makarova",
+      "title_raw": "На юге европейской России прогнозируют ливни и грозы",
+      "lead_raw": "Причиной непогоды стала циркуляция атмосферных движений, рассказала ведущий сотрудник Гидрометцентра РФ Марина Макарова",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "b72bcd321a6bbf4ad2faefa8bc4446d4eba76c53",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27507051",
+      "published_utc": "2026-05-23T07:08:19Z",
+      "title_en": "Forecaster Shuvalov said that over the years it will be more difficult for Russians to endure the heat",
+      "lead_en": "The summer period in Central Russia will increase significantly over the next 20 years, the head of the Meteo forecast center emphasized.",
+      "title_raw": "Синоптик Шувалов рассказал, что россиянам с годами будет тяжелее переносить жару",
+      "lead_raw": "Летний период в Центральной России в течение ближайших 20 лет заметно увеличится, подчеркнул руководитель прогностического центра \"Метео\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "5e4549a84f9e5e1b9b9273e8fbca0f61cacbbffa",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27507455",
+      "published_utc": "2026-05-23T07:02:25Z",
+      "title_en": "Experts spoke about the scheme of scammers with the “all-Russian parent meeting”",
+      "lead_en": "On sites that are advertised in instant messengers, they talk about the mentioned meeting in online format, the information security company ESA PRO reported",
+      "title_raw": "Эксперты рассказали о схеме мошенников с \"общероссийским родительским собранием\"",
+      "lead_raw": "На сайтах, которые рекламируются в мессенджерах, говорится об упомянутом собрании в формате онлайн, сообщили в ИБ-компании ESA PRO",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "d8e8b9d6192215bb8e5924110a28cf7ae0ecb1ea",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27507405",
+      "published_utc": "2026-05-23T06:57:04Z",
+      "title_en": "The One Run race organized by the Russian Federation was successfully held in India for the second time",
+      "lead_en": "The race took place in Bangalore",
+      "title_raw": "Организованный РФ забег One Run во второй раз успешно прошел в Индии",
+      "lead_raw": "Забег состоялся в городе Бангалор",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "8f291e23fea8f346a7006eef9b559ae17aa23471",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27507387",
+      "published_utc": "2026-05-23T06:50:17Z",
+      "title_en": "Expert Stepanov believes that the nuclear arsenal of Russia and Belarus has been uncovered",
+      "lead_en": "A military expert at the Institute of Law and National Security of RANEPA believes that this message is aimed at creating a clear awareness among opponents of the Russian Federation of “the disproportion of their attempts to escalate and the possible consequences within the frame",
+      "title_raw": "Эксперт Степанов считает, что ядерный арсенал России и Белоруссии расчехлен",
+      "lead_raw": "Военный эксперт Института права и национальной безопасности РАНХиГС считает, что этот месседж направлен на формирование ясного осознания у оппонентов РФ \"диспропорции их попыток эскалации и возможных последствий в рамках ответного, а также превентивного воздействия на угрозу\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "43652cb87892c88b2da6b621929da2b63765a934",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27507385",
+      "published_utc": "2026-05-23T06:46:27Z",
+      "title_en": "Polina Knoroz proposes to sue World Athletics for not admitting Russians",
+      "lead_en": "World Athletics in March 2022 decided not to allow Russians and Belarusians to participate in their tournaments",
+      "title_raw": "Полина Кнороз предлагает подать в суд на World Athletics за недопуск россиян",
+      "lead_raw": "World Athletics в марте 2022 года приняла решение не допускать россиян и белорусов до участия в своих турнирах",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "bdea83b44bdfb77370ef417d12043edb0cd4dae2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27507353",
+      "published_utc": "2026-05-23T06:41:34Z",
+      "title_en": "\"Avito Auto\": in the Russian Federation, demand for the Lada Aura business sedan increased by 16% in four months",
+      "lead_en": "The average price of a car on the platform was 2.4 million rubles, according to the study",
+      "title_raw": "\"Авито авто\": в РФ спрос на бизнес-седан Lada Aura вырос на 16% за четыре месяца",
+      "lead_raw": "Средняя цена машины на платформе составила 2,4 млн рублей, говорится в исследовании",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "7633c64814f86d9f86a27148c86f1ae72a352e21",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27507309",
+      "published_utc": "2026-05-23T06:30:58Z",
+      "title_en": "17 Ukrainian Armed Forces drones shot down over Russian regions",
+      "lead_en": "Air defense forces destroyed the drones between 07:00 and 09:00 Moscow time",
+      "title_raw": "Над регионами России сбили 17 беспилотников ВСУ",
+      "lead_raw": "Силы ПВО уничтожили дроны в период с 07:00 до 09:00 мск",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "8f312cb6d66e39c7aa0b599c5d1ed25d63d96827",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/interviews/27495723",
+      "published_utc": "2026-05-23T06:30:00Z",
+      "title_en": "Secretary General of the Congo Security Council: Russia provides an opportunity to honestly discuss problems",
+      "lead_en": "From May 26 to 29, the International Security Forum will be held under the auspices of the Security Council of the Russian Federation, to which representatives of more than 180 states are invited. One of the participants will be the Minister, Secretary General of the National Security Council of the Republic of Congo, Vice Admiral Jean-Dominique Okemba.",
+      "title_raw": "Генсек совбеза Конго: Россия дает возможности честно обсудить проблемы",
+      "lead_raw": "С 26 по 29 мая пройдет Международный форум по безопасности под эгидой Совета безопасности РФ, на который приглашены представители более 180 государств. Одним из участников станет министр, генеральный секретарь Национального совета безопасности Республики Конго вице-адмирал Жан-Доминик Окемба.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "0595f441446250e958384bb7b0f332846bb109ef",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27507177",
+      "published_utc": "2026-05-23T06:10:32Z",
+      "title_en": "Volodin: Zelensky and his patrons in Europe await the Nuremberg Tribunal",
+      "lead_en": "The terrorist neo-Nazi regime of Ukraine attacks civilian objects on the territory of the Russian Federation, knowingly understanding that there are hospitals, educational institutions, and residential buildings there, the Chairman of the State Duma noted",
+      "title_raw": "Володин: Зеленского и его покровителей в Европе ожидает Нюрнбергский трибунал",
+      "lead_raw": "Террористический неонацистский режим Украины атакует гражданские объекты на территории РФ, заведомо понимая, что там находятся больницы, образовательные учреждения, жилые дома, отметил председатель ГД",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "19feb33bdfc2b06418534761d893dcbc6c381d48",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27507165",
+      "published_utc": "2026-05-23T06:09:27Z",
+      "title_en": "Volodin: The Ukrainian Armed Forces are deliberately attacking civilian targets on Russian territory",
+      "lead_en": "The Ukrainian terrorist regime knows that there are hospitals, educational institutions, and residential buildings there, noted the Chairman of the State Duma",
+      "title_raw": "Володин: ВСУ целенаправленно атакуют гражданские объекты на территории России",
+      "lead_raw": "Украинский террористический режим знает, что там находятся больницы, образовательные учреждения, жилые дома, отметил председатель ГД",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "733c61543bc6103195ddf3a08a454c2eddbe6eb2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27507155",
+      "published_utc": "2026-05-23T06:07:14Z",
+      "title_en": "Volodin: Europe is using Ukraine to stop the development of Russia",
+      "lead_en": "The Chairman of the State Duma noted that European states are using the terrorist Kiev regime, as before during the Second World War, to destroy the Russian Federation",
+      "title_raw": "Володин: Европа использует Украину для остановки развития России",
+      "lead_raw": "Председатель Госдумы отметил, что европейские государства используют террористический киевский режим, как и прежде в годы Второй мировой войны, для уничтожения РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ce62d83fe8b69f4943f488ac386b1c2ee867c696",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27507153",
+      "published_utc": "2026-05-23T06:06:42Z",
+      "title_en": "Cyclist Novikov did not receive a response to his applications for neutral status",
+      "lead_en": "In May 2023, the International Cycling Union allowed the participation of Russian and Belarusian athletes as neutral individual athletes",
+      "title_raw": "Велогонщик Новиков не получал ответа на свои заявки на нейтральный статуc",
+      "lead_raw": "В мае 2023 года Международный союз велосипедистов разрешил участие российских и белорусских спортсменов в качестве нейтральных индивидуальных спортсменов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "9811cf8433f1d57115ce3c38da4a7a4393e3671f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kultura/27507139",
+      "published_utc": "2026-05-23T06:03:17Z",
+      "title_en": "\"Kion\": the film \"Major\" was included in the ranking of the most popular festival films among Russians",
+      "lead_en": "According to online cinema research, the rating also included “The Great Beauty” by Paolo Sorrentino, “Decision to Leave” by Park Chan-wook, “Triangle of Sadness” by Ruben Östlund, “Stars at Noon” by Claire Denis and “Recipe for Love” by Tran Anh Hung",
+      "title_raw": "\"Кион\": фильм \"Майор\" вошел в рейтинг самых популярных фестивальных картин у россиян",
+      "lead_raw": "По данным исследования онлайн-кинотеатра, в рейтинг также вошли \"Великая красота\" Паоло Соррентино, \"Решение уйти\" Пак Чхан Ука, \"Треугольник печали\" Рубена Эстлунда, \"Звезды в полдень\" Клер Дени и \"Рецепт любви\" Чан Ань Хунга",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "aa3eb1d0584c4dd3ebd3c4c8a72e9410eb7386d0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27507121",
+      "published_utc": "2026-05-23T06:01:32Z",
+      "title_en": "FC BAS: the drone delivery market in Russia may appear as early as this decade",
+      "lead_en": "Mass delivery by drones depends not only on the development of technology, noted Maxim Avdeev, General Director of the Federal Center for Unmanned Aircraft Systems",
+      "title_raw": "ФЦ БАС: рынок доставки дронами в России может появиться уже в этом десятилетии",
+      "lead_raw": "Массовая доставка беспилотниками зависит не только от развития технологии, отметил генеральный директор Федерального центра беспилотных авиационных систем Максим Авдеев",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "c0af41d52e083913cfb90573d0e19adfa4fc01e6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27507143",
+      "published_utc": "2026-05-23T06:01:24Z",
+      "title_en": "Semak hopes for Russia's return to world football next year",
+      "lead_en": "Russian clubs and national teams have been suspended from international tournaments since 2022",
+      "title_raw": "Семак надеется на возвращение России в мировой футбол в следующем году",
+      "lead_raw": "Российские клубы и сборные с 2022 года отстранены от международных турниров",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "10fd3c9c5b50d550ffa1dc2d644d19fb7326a015",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27507097",
+      "published_utc": "2026-05-23T05:54:43Z",
+      "title_en": "Russian Ambassador: the program of Putin’s visit to Kazakhstan will be very eventful",
+      "lead_en": "Political scientists will have something to discuss and be surprised by, emphasized Alexey Borodavkin",
+      "title_raw": "Посол РФ: программа визита Путина в Казахстан будет очень насыщенной",
+      "lead_raw": "Политологам будет что обсудить и чему удивиться, подчеркнул Алексей Бородавкин",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "a3ff98013be20af4a2eb64aff4b4615d8053c803",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27507031",
+      "published_utc": "2026-05-23T05:43:34Z",
+      "title_en": "VTB: the Russian financial market returned to the control of sellers by the end of the week",
+      "lead_en": "Clients of VTB My Investments actively bought shares of T-Technologies and Alrosa this week, the bank noted",
+      "title_raw": "ВТБ: российский финансовый рынок к концу недели вернулся под контроль продавцов",
+      "lead_raw": "Клиенты \"ВТБ мои инвестиции\" на неделе активно покупали акции \"Т-технологий\" и \"Алросы\", отметили в банке",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "3e73a401409e148516461e7790defcdaceec4d10",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27506971",
+      "published_utc": "2026-05-23T05:31:56Z",
+      "title_en": "RUSADA invited the Chinese to hold a joint anti-doping event",
+      "lead_en": "The event may take place as part of the forum \"Russia - a sports power\", which will take place in the fall in Krasnoyarsk",
+      "title_raw": "РУСАДА предложило китайцам провести совместное мероприятие по антидопингу",
+      "lead_raw": "Мероприятие может пройти в рамках форума \"Россия - спортивная держава\", который состоится осенью в Красноярске",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "e141f1894673d78f722e998179586388d3353928",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27506905",
+      "published_utc": "2026-05-23T05:20:07Z",
+      "title_en": "Fighter Reaper: FPV drones of the Russian Armed Forces have become more resistant to the effects of Ukrainian electronic warfare",
+      "lead_en": "When a Russian drone encounters electronic interference, it automatically rises to a height and bypasses the system, the military said",
+      "title_raw": "Боец Жнец: FPV-дроны ВС РФ стали устойчивее к воздействию украинских РЭБ",
+      "lead_raw": "Когда российский дрон сталкивается с радиоэлектронным воздействием, он автоматически поднимается на высоту и обходит систему, рассказал военный",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "3ca148add5855cf23a9d4b7e0786483de6355188",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27506859",
+      "published_utc": "2026-05-23T05:03:34Z",
+      "title_en": "The Russian Armed Forces destroyed more than 17 field artillery guns of the Ukrainian Armed Forces in a week near Kharkov",
+      "lead_en": "The task was completed by soldiers of the 6th Combined Arms Army of the North group of forces, said the head of the attack UAV crew with the call sign Fakel",
+      "title_raw": "ВС РФ уничтожили более 17 орудий полевой артиллерии ВСУ за неделю под Харьковом",
+      "lead_raw": "Задачу выполнили бойцы 6-й общевойсковой армии группировки войск \"Север\", сообщил начальник расчета ударных БПЛА с позывным Факел",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "ec3be3f8b0f1ff47149a748ff0ba92a2802b55ad",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27506795",
+      "published_utc": "2026-05-23T04:33:14Z",
+      "title_en": "Commander Map: \"North\" eliminated more than 85 communications antennas of the Armed Forces of Ukraine near Kharkov",
+      "lead_en": "Ukrainian equipment was poorly camouflaged, Russian serviceman said",
+      "title_raw": "Командир Карта: \"Север\" ликвидировал более 85 антенн связи ВСУ под Харьковом",
+      "lead_raw": "Украинская техника была плохо замаскирована, сообщил российский военнослужащий",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "5f00c6a3a2f3b336406d008f9a3f90c4bdbb2754",
       "source": "TASS (RU)",
       "url": "https://tass.ru/mezhdunarodnaya-panorama/27506775",
       "published_utc": "2026-05-23T04:31:03Z",
       "title_en": "The Republic of Congo is interested in the Russian Federation’s experience in responding to challenges",
-      "lead_en": "",
+      "lead_en": "The Secretary General of the National Security Council of the country, Jean-Dominique Okemba, noted that within the framework of the International Security Forum he will participate mainly in sessions devoted to international security, the fight against terrorism, cybersecurity a",
       "title_raw": "В Республике Конго заинтересованы в опыте РФ в сфере реагирования на вызовы",
-      "lead_raw": "",
+      "lead_raw": "Генеральный секретарь Национального совета безопасности страны Жан-Доминик Окемба отметил, что в рамках Международного форума по безопасности будет участвовать в основном в сессиях, посвященных международной безопасности, борьбе с терроризмом, кибербезопасности и новым гибридным",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
@@ -11440,109 +11952,6 @@
       "lead_en": "The drills involve over 64,000 military personnel, more than 7,800 pieces of armament, military and special equipment",
       "title_raw": "Russia deploys strategic missile systems to field positions in major nuclear drills",
       "lead_raw": "The drills involve over 64,000 military personnel, more than 7,800 pieces of armament, military and special equipment",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "0669bb112c7842a7f2265ef0198e115f3311d165",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2134305",
-      "published_utc": "2026-05-21T07:30:39Z",
-      "title_en": "FACTBOX: Aftermath of Ukrainian drone attack on Russian regions, casualties in Syzran",
-      "lead_en": "Two people died and several others were injured in a drone attack on the city of Syzran in Russia’s southeastern Samara Region",
-      "title_raw": "FACTBOX: Aftermath of Ukrainian drone attack on Russian regions, casualties in Syzran",
-      "lead_raw": "Two people died and several others were injured in a drone attack on the city of Syzran in Russia’s southeastern Samara Region",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "2050c07006e9d2f2fc698fcb830c02b8e00c32d3",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2134297",
-      "published_utc": "2026-05-21T07:22:06Z",
-      "title_en": "Foreign air defenses fail to stop even 8% of Ukrainian drones attacking Russia — expert",
-      "lead_en": "According to Dmitry Kuzyakin, Russia has developed and produced new interception systems tailored to combat drones and organized a multi-layered, echeloned defense with an end-to-end targeting and control system",
-      "title_raw": "Foreign air defenses fail to stop even 8% of Ukrainian drones attacking Russia — expert",
-      "lead_raw": "According to Dmitry Kuzyakin, Russia has developed and produced new interception systems tailored to combat drones and organized a multi-layered, echeloned defense with an end-to-end targeting and control system",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "a5c97d8dfa5849772dd1976d888d65b0304e9150",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2134277",
-      "published_utc": "2026-05-21T07:01:40Z",
-      "title_en": "Russian drone detectors upgraded to detect Ukraine’s Martian UAVs — developer",
-      "lead_en": "The developer noted that these AI-powered drones had been spotted on the line of contact at the beginning of the year, and now the Ukrainian armed forces had increased their use",
-      "title_raw": "Russian drone detectors upgraded to detect Ukraine’s Martian UAVs — developer",
-      "lead_raw": "The developer noted that these AI-powered drones had been spotted on the line of contact at the beginning of the year, and now the Ukrainian armed forces had increased their use",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "7d56067bf108df41b3475973656456f4e1687c96",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2134269",
-      "published_utc": "2026-05-21T06:11:45Z",
-      "title_en": "Putin’s visit to China to boost trade, tech exchange — former US congressman",
-      "lead_en": "According to Dennis Kucinich, the meeting between the Russian and Chinese leaders underscores the significance of leaders who strive for mutual benefit through cooperation within the emerging consciousness of multipolarity",
-      "title_raw": "Putin’s visit to China to boost trade, tech exchange — former US congressman",
-      "lead_raw": "According to Dennis Kucinich, the meeting between the Russian and Chinese leaders underscores the significance of leaders who strive for mutual benefit through cooperation within the emerging consciousness of multipolarity",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "2a6b34794929dfadadea2f77bb71d57bddb5fe2d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2134267",
-      "published_utc": "2026-05-21T05:52:42Z",
-      "title_en": "Russian troops deliver nuclear warheads to missile brigade in Belarus during major drills",
-      "lead_en": "The personnel of the missile brigade of the Republic of Belarus are practicing combat training assignments of receiving special munitions for Iskander-M theater missile systems, loading launch tubes with them and stealthily advancing to the designated area to prepare for launches",
-      "title_raw": "Russian troops deliver nuclear warheads to missile brigade in Belarus during major drills",
-      "lead_raw": "The personnel of the missile brigade of the Republic of Belarus are practicing combat training assignments of receiving special munitions for Iskander-M theater missile systems, loading launch tubes with them and stealthily advancing to the designated area to prepare for launches",
       "topic_scores": {
         "diplomacy": 0,
         "military": 3,
