@@ -1,8 +1,8 @@
 {
-  "updated_at_utc": "2026-05-24T17:01:22Z",
+  "updated_at_utc": "2026-05-24T19:16:50Z",
   "keep_hours": 48,
   "topic": "military",
-  "count": 71,
+  "count": 69,
   "articles": [
     {
       "id": "31bb5ee26de91706e1d286ec4b269dbef6cc60a3",
@@ -392,6 +392,27 @@
       "title_en": "Russia Kills 4 in Massive Ukraine Attack After Vowing Retaliation",
       "lead_en": "Russia confirmed it had launched Oreshnik, Iskander, Kinzhal and Tsirkon missiles at Ukraine early on Sunday.",
       "title_raw": "Russia Kills 4 in Massive Ukraine Attack After Vowing Retaliation",
+      "lead_raw": "Russia confirmed it had launched Oreshnik, Iskander, Kinzhal and Tsirkon missiles at Ukraine early on Sunday.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "eb730b6fa6b39c60b353e1ce88680bccd001e318",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/05/24/russia-kills-4-in-massive-ukraine-attack-using-nuclear-capable-missile-a92829",
+      "published_utc": "2026-05-24T07:13:00Z",
+      "title_en": "Russia Kills 4 in Massive Ukraine Attack Using Nuclear-Capable Missile",
+      "lead_en": "Russia confirmed it had launched Oreshnik, Iskander, Kinzhal and Tsirkon missiles at Ukraine early on Sunday.",
+      "title_raw": "Russia Kills 4 in Massive Ukraine Attack Using Nuclear-Capable Missile",
       "lead_raw": "Russia confirmed it had launched Oreshnik, Iskander, Kinzhal and Tsirkon missiles at Ukraine early on Sunday.",
       "topic_scores": {
         "diplomacy": 0,
@@ -1439,70 +1460,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "b5ca09ec7430258aa99e02a745d34f5cf1706b74",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27504307",
-      "published_utc": "2026-05-22T18:25:16Z",
-      "title_en": "PKR Batalova, a laureate, said that Russia’s Paralympic athletes cannot be broken",
-      "lead_en": "On Friday, at the ceremony of presenting the XX Prize of the Russian Paralympic Committee \"Return to Life\" at the State Kremlin Palace, Rima Batalova and Valery Kupchinsky became winners in the main category",
-      "title_raw": "Лауреат премии ПКР Баталова заявила, что паралимпийцев России не сломить",
-      "lead_raw": "В пятницу на церемонии вручения XX премии Паралимпийского комитета России \"Возвращение в жизнь\" в Государственном Кремлевском дворце Рима Баталова и Валерий Купчинский стали победителями в главной номинации",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "8e9dd6e90bdf8feb1ee89c1198b1a98e0e871568",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27503973",
-      "published_utc": "2026-05-22T17:38:43Z",
-      "title_en": "41 Ukrainian UAVs were shot down over Russian regions",
-      "lead_en": "Air defense forces worked from 14:00 to 20:00 Moscow time",
-      "title_raw": "Над регионами России сбили 41 украинский БПЛА",
-      "lead_raw": "Силы ПВО работали в период с 14:00 до 20:00 мск",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "1abfbe2f002f4cb71d89762ba8f505e457cb45f5",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27503819",
-      "published_utc": "2026-05-22T17:29:54Z",
-      "title_en": "In South Ossetia, the search for the missing Russian woman was suspended until the morning",
-      "lead_en": "The events will involve personnel from the regional fire and rescue units of the Ministry of Emergency Situations, as well as 50 people each from the Ministry of Defense and the Ministry of Internal Affairs",
-      "title_raw": "В Южной Осетии приостановили поиски пропавшей россиянки до утра",
-      "lead_raw": "К мероприятиям привлекут личный состав районных пожарно-спасательных частей МЧС, а также по 50 человек из Минобороны и МВД",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
     }
   ]
 }
