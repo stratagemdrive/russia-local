@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-05-24T07:48:34Z",
+  "updated_at_utc": "2026-05-24T09:53:57Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 17,
   "articles": [
+    {
+      "id": "362d04bb6408fe1d5caa45863c855337f41fa566",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27513019",
+      "published_utc": "2026-05-24T07:39:56Z",
+      "title_en": "The body of a missing Russian woman was found in South Ossetia",
+      "lead_en": "More than 200 employees of the Ministry of Emergency Situations, the Ministry of Internal Affairs and the Ministry of Defense of the Republic, as well as unmanned aerial vehicles, were involved in the search for the woman.",
+      "title_raw": "В Южной Осетии нашли тело пропавшей россиянки",
+      "lead_raw": "В поисках женщины были задействованы более 200 сотрудников МЧС, МВД и Минобороны республики, а также беспилотные аппараты",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "ff460aeb91f7f2ac6a5bbf849a447050c58feeb2",
       "source": "The Moscow Times",
@@ -326,25 +347,6 @@
         "military"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "f3a8c66962af8c64a0fed59ff2cdc66e89cd2a36",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/05/22/35-students-injured-in-strike-on-college-in-russian-occupied-part-of-ukraine-s-luhansk-region",
-      "published_utc": "2026-05-22T07:52:50Z",
-      "title_en": "35 students injured in strike on college in Russian-occupied part of Ukraine’s Luhansk region",
-      "lead_en": "Thirty-five students were injured when a strike hit a college building and dormitory in Starobilsk, in the Russian-occupied part of Ukraine’s Luhansk region, according to local officials.",
-      "title_raw": "35 students injured in strike on college in Russian-occupied part of Ukraine’s Luhansk region",
-      "lead_raw": "Thirty-five students were injured when a strike hit a college building and dormitory in Starobilsk, in the Russian-occupied part of Ukraine’s Luhansk region, according to local officials.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
