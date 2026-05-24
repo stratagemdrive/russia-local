@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-05-24T20:55:19Z",
+  "updated_at_utc": "2026-05-24T21:57:01Z",
   "keep_hours": 48,
   "topic": "diplomacy",
   "count": 48,
   "articles": [
+    {
+      "id": "3bd2447983a42da927029150f744621c4cd833bd",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2135835",
+      "published_utc": "2026-05-24T16:53:46Z",
+      "title_en": "Over 140 delegations from 120 countries to take part in int’l security forum in Russia",
+      "lead_en": "According to the Russian Security Council, there will be unofficial representatives from 12 unfriendly countries, who \"stand for the development of constructive relations with Russia\", among the participants",
+      "title_raw": "Over 140 delegations from 120 countries to take part in int’l security forum in Russia",
+      "lead_raw": "According to the Russian Security Council, there will be unofficial representatives from 12 unfriendly countries, who \"stand for the development of constructive relations with Russia\", among the participants",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "3669a138904161fee4c23707a213c53e52d02cb3",
       "source": "TASS (RU)",
@@ -996,27 +1018,6 @@
       "topics": [
         "diplomacy",
         "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "9a1c208e3bc39506dfe8db224508ee1363c9b241",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27505559",
-      "published_utc": "2026-05-22T21:30:55Z",
-      "title_en": "Minister of the Republic of Congo: Russia-Africa summit will open great opportunities",
-      "lead_en": "The Russian Federation remains an important partner for many countries on the African continent, noted Jean-Dominique Okemba",
-      "title_raw": "Министр Республики Конго: саммит Россия - Африка откроет большие возможности",
-      "lead_raw": "РФ остается важным партнером для многих стран африканского континента, отметил Жан-Доминик Окемба",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
       ],
       "primary_topic": "diplomacy"
     }
