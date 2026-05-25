@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-05-25T17:43:18Z",
+  "updated_at_utc": "2026-05-25T19:39:04Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 8,
   "articles": [
+    {
+      "id": "005bfcacafcfde0ed8af0d687cf494ea8f771bf0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27526093",
+      "published_utc": "2026-05-25T18:03:43Z",
+      "title_en": "Lavrov, on Putin’s instructions, informed Rubio about the steps of the Russian Armed Forces in Kyiv",
+      "lead_en": "The head of the Russian Foreign Ministry drew the attention of the Secretary of State to the recommendation to ensure the evacuation of American diplomatic personnel from Kyiv",
+      "title_raw": "Лавров по поручению Путина проинформировал Рубио о шагах ВС РФ в Киеве",
+      "lead_raw": "Глава МИД РФ привлек внимание госсекретаря к рекомендации обеспечить эвакуацию из Киева американского дипперсонала",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "722fff189258eec6d4df34023c77e670f5433e21",
       "source": "The Moscow Times",
@@ -141,27 +163,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "0206015b3a480cc7c621716e3bc4079f7b20fa02",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2135629",
-      "published_utc": "2026-05-23T19:08:52Z",
-      "title_en": "Russian envoy praises potential Iran-US truce extension as ‘chance to avoid escalation’",
-      "lead_en": "The world needs peace to avoid a catastrophic, irreversible collapse, Kirill Dmitriev stated",
-      "title_raw": "Russian envoy praises potential Iran-US truce extension as ‘chance to avoid escalation’",
-      "lead_raw": "The world needs peace to avoid a catastrophic, irreversible collapse, Kirill Dmitriev stated",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
