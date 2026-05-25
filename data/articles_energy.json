@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-05-25T08:20:30Z",
+  "updated_at_utc": "2026-05-25T12:30:24Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 7,
+  "count": 6,
   "articles": [
+    {
+      "id": "df958686cab4815e1ec743b9f01a540ec2bcbf74",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/society/2136029",
+      "published_utc": "2026-05-25T10:10:00Z",
+      "title_en": "Russian security services thwart terrorist attack aboard ship arriving from Belgium — FSB",
+      "lead_en": "The Arrhenius gas carrier was supposed to to be loaded and then head to the Turkish port of Samsun",
+      "title_raw": "Russian security services thwart terrorist attack aboard ship arriving from Belgium — FSB",
+      "lead_raw": "The Arrhenius gas carrier was supposed to to be loaded and then head to the Turkish port of Samsun",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "2585ad990102e74a8947a04d838cf22120fe4c38",
       "source": "TASS (RU)",
@@ -110,49 +132,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "d4aff7075693225f34a16e08460a26ea372aea79",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27508011",
-      "published_utc": "2026-05-23T09:01:03Z",
-      "title_en": "Medvedev pointed out to Pashinyan the inevitability of Armenia’s transition to European gas prices",
-      "lead_en": "If Yerevan continues its course of rapprochement with the EU, it will not be possible to remain a member of the EAEU, noted the Deputy Head of the Russian Security Council",
-      "title_raw": "Медведев указал Пашиняну на неизбежность перехода Армении на европейские цены на газ",
-      "lead_raw": "Если Ереван продолжит свой курс сближения с ЕС, оставаться членом ЕАЭС не получится, отметил замглавы Совбеза РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "785390a4a7e3c0f45e863cd5710b3cf414f150fb",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27507897",
-      "published_utc": "2026-05-23T08:44:54Z",
-      "title_en": "Medvedev recommended Pashinyan to begin negotiations on supplies of American LNG",
-      "lead_en": "The benefits of participation in the EAEU for Armenia will disappear with a reorientation towards Europe, noted the Deputy Head of the Russian Security Council",
-      "title_raw": "Медведев рекомендовал Пашиняну начинать переговоры о поставках американского СПГ",
-      "lead_raw": "Выгоды от участия в ЕАЭС для Армении при переориентации на Европу исчезнут, отметил замглавы Совбеза РФ",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
