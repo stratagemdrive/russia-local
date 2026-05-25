@@ -1,9 +1,69 @@
 {
-  "updated_at_utc": "2026-05-25T12:30:24Z",
+  "updated_at_utc": "2026-05-25T17:43:18Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 6,
+  "count": 8,
   "articles": [
+    {
+      "id": "722fff189258eec6d4df34023c77e670f5433e21",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/05/25/everything-we-know-about-the-deadly-ukrainian-strike-in-occupied-luhansk-a92834",
+      "published_utc": "2026-05-25T15:42:45Z",
+      "title_en": "Everything We Know About the Deadly Ukrainian Strike in Occupied Luhansk",
+      "lead_en": "Russia said at least 21 people were killed in the overnight strike on a college dormitory, while Ukraine denied targeting civilians.",
+      "title_raw": "Everything We Know About the Deadly Ukrainian Strike in Occupied Luhansk",
+      "lead_raw": "Russia said at least 21 people were killed in the overnight strike on a college dormitory, while Ukraine denied targeting civilians.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "28a9e23a79000eba390602c1bfe1a07edd2bfa9f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27524819",
+      "published_utc": "2026-05-25T14:59:05Z",
+      "title_en": "Russia and Brazil are discussing a new nuclear energy agreement",
+      "lead_en": "There are many technical issues, said Ambassador Extraordinary and Plenipotentiary of the Russian Federation to Brazil Alexey Labetsky",
+      "title_raw": "Россия и Бразилия обсуждают новое соглашение в сфере атомной энергетики",
+      "lead_raw": "Есть много технических вопросов, заявил чрезвычайный и полномочный посол РФ в Бразилии Алексей Лабецкий",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "d424bd0f9bd19ba76cc514f8d3ef4a7375f21723",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27524771",
+      "published_utc": "2026-05-25T14:47:50Z",
+      "title_en": "The hydrometeorological center named regions of the Russian Federation where high fire danger is expected",
+      "lead_en": "We are talking about the south of Komi and the north of the Southern Federal District",
+      "title_raw": "Гидрометцентр назвал регионы РФ, где ожидается высокая пожароопасность",
+      "lead_raw": "Речь идет о юге Коми и севере Южного федерального округа",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "95d4c968f8d739c476bb7f75ffca94442cdc5e15",
       "source": "TASS (EN)",
@@ -102,25 +162,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "db7ae46c301100e81246599a91b85aff6bf5b4e7",
-      "source": "RT",
-      "url": "https://www.rt.com/news/640481-russian-school-dorm-ukraine-strike-west-reaction/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "published_utc": "2026-05-23T16:13:58Z",
-      "title_en": "We see nothing: How has the West reacted to the Ukrainian strike on a Russian school dorm?",
-      "lead_en": "The West has refused to hold Ukraine accountable for a strike on a Russian school dorm in Starobelsk that killed at least 18 students Read Full Article at RT.com",
-      "title_raw": "We see nothing: How has the West reacted to the Ukrainian strike on a Russian school dorm?",
-      "lead_raw": "The West has refused to hold Ukraine accountable for a strike on a Russian school dorm in Starobelsk that killed at least 18 students Read Full Article at RT.com",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
