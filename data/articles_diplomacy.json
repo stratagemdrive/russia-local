@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-05-25T19:39:04Z",
+  "updated_at_utc": "2026-05-25T21:06:43Z",
   "keep_hours": 48,
   "topic": "diplomacy",
-  "count": 57,
+  "count": 58,
   "articles": [
+    {
+      "id": "e624044e9b5c52b53de98215631a97b5a6e2a58f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27518007",
+      "published_utc": "2026-05-25T21:00:00Z",
+      "title_en": "Military operation in Ukraine. Online",
+      "lead_en": "The Russian armed forces will strike at decision-making centers and command posts in Kyiv, the Russian Foreign Ministry said in a statement in connection with attacks by the Armed Forces of Ukraine on the civilian population of the Russian Federation",
+      "title_raw": "Военная операция на Украине. Онлайн",
+      "lead_raw": "Вооруженные силы России будут наносить удары по центрам принятия решений и командным пунктам в Киеве, говорится в заявлении российского МИД в связи с атаками ВСУ на мирное население РФ",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "788c136248ebf8b4aa9352e5c038b511147fba8a",
       "source": "TASS (RU)",
@@ -13,6 +35,27 @@
       "lead_en": "On the sidelines of the festival, 22 agreements were signed, said Russian Minister of Culture Olga Lyubimova",
       "title_raw": "\"Интермузей. БРИКС+\" посетили более 25 тыс. человек",
       "lead_raw": "На полях фестиваля было подписано 22 соглашения, рассказала министр культуры РФ Ольга Любимова",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "f327225c6d5d5f70ef38ead97d5f95a04d02a289",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2136345",
+      "published_utc": "2026-05-25T18:55:01Z",
+      "title_en": "Russia ratifies treaty on closer cooperation with South Ossetia",
+      "lead_en": "The two countries will take measures to harmonize the labor, social protection, and retirement benefits law, including on the issue of mutual recognition of work record",
+      "title_raw": "Russia ratifies treaty on closer cooperation with South Ossetia",
+      "lead_raw": "The two countries will take measures to harmonize the labor, social protection, and retirement benefits law, including on the issue of mutual recognition of work record",
       "topic_scores": {
         "diplomacy": 1,
         "military": 0,
@@ -57,6 +100,49 @@
       "lead_raw": "Стороны также подтвердили взаимный настрой на продолжение совместной работы для дальнейшего укрепления взаимодействия, сообщили в МИД РФ",
       "topic_scores": {
         "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "a17a7ff182e029702047737a964eb3a784a70040",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2136333",
+      "published_utc": "2026-05-25T18:35:51Z",
+      "title_en": "Russia, Brazil in talks on long-term LNG contracts — minister",
+      "lead_en": "According to Maxim Reshetnikov, the negotiations enter the substantive stage",
+      "title_raw": "Russia, Brazil in talks on long-term LNG contracts — minister",
+      "lead_raw": "According to Maxim Reshetnikov, the negotiations enter the substantive stage",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "4cb6e25d3f1458a4ed6dba2942c944c9f9e2aa15",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2136331",
+      "published_utc": "2026-05-25T18:33:27Z",
+      "title_en": "Top Russian diplomat reminds his US counterpart about Anchorage agreements on Ukraine",
+      "lead_en": "Sergey Lavrov expressed regret that the high-handed efforts of the European elites and the Kiev regime are undermining these agreements",
+      "title_raw": "Top Russian diplomat reminds his US counterpart about Anchorage agreements on Ukraine",
+      "lead_raw": "Sergey Lavrov expressed regret that the high-handed efforts of the European elites and the Kiev regime are undermining these agreements",
+      "topic_scores": {
+        "diplomacy": 1,
         "military": 0,
         "energy": 0,
         "economy": 0,
@@ -129,6 +215,27 @@
       "topics": [
         "diplomacy",
         "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "874b318e3fce17fbb8ff040c1fae7c453e429c96",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2136299",
+      "published_utc": "2026-05-25T17:50:30Z",
+      "title_en": "Bangladesh ink fertilizer supply contract with Russian company",
+      "lead_en": "The Russian Embassy in Dhaka said this is the largest contract throughout the history of bilateral cooperation between the two countries in the fertilizer sphere",
+      "title_raw": "Bangladesh ink fertilizer supply contract with Russian company",
+      "lead_raw": "The Russian Embassy in Dhaka said this is the largest contract throughout the history of bilateral cooperation between the two countries in the fertilizer sphere",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
       ],
       "primary_topic": "diplomacy"
     },
@@ -1127,90 +1234,6 @@
       "lead_en": "The meeting with the Hero of Russia took place at the Russian House in Athens",
       "title_raw": "Космонавт Антон Шкаплеров рассказал о секретах своей профессии",
       "lead_raw": "Встреча с Героем России прошла в Русском доме в Афинах",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "5435b3a2fa3fa8b35fd616e218d658cce4732aa5",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/05/23/ukraine-us-embassy-warn-of-possible-major-russian-airstrike-a92828",
-      "published_utc": "2026-05-23T20:37:43Z",
-      "title_en": "Ukraine, U.S. Embassy Warn of Possible Major Russian Airstrike",
-      "lead_en": "President Volodymyr Zelensky and the United States embassy urged their citizens to seek shelter in the event of an air raid alert.",
-      "title_raw": "Ukraine, U.S. Embassy Warn of Possible Major Russian Airstrike",
-      "lead_raw": "President Volodymyr Zelensky and the United States embassy urged their citizens to seek shelter in the event of an air raid alert.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "7bbb95c4a45cb38fa7b4a6ad3318b2782115298a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27511167",
-      "published_utc": "2026-05-23T20:19:57Z",
-      "title_en": "Armenian Foreign Ministry: Yerevan is interested in developing cooperation with Moscow",
-      "lead_en": "The head of the department, Ararat Mirzoyan, did not link the development of Armenian-Russian relations with the parliamentary elections in the republic on June 7",
-      "title_raw": "МИД Армении: Ереван заинтересован в развитии сотрудничества с Москвой",
-      "lead_raw": "Глава ведомства Арарат Мирзоян не стал связывать развитие армяно-российских отношений с парламентскими выборами в республике 7 июня",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "2b872448dfef71bd324662f4eab99f46ab140182",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27511131",
-      "published_utc": "2026-05-23T20:12:18Z",
-      "title_en": "Armenia hopes that problems with the import of goods to Russia will be resolved",
-      "lead_en": "Yerevan will constructively discuss the situation with partners, said Foreign Minister of the Republic Ararat Mirzoyan",
-      "title_raw": "В Армении надеются, что проблемы с ввозом товаров в Россию будут решены",
-      "lead_raw": "Ереван конструктивно обсудит ситуацию с партнерами, заявил глава МИД республики Арарат Мирзоян",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "854ce55577661fdd5c76846c7923e9c26026fac8",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27511123",
-      "published_utc": "2026-05-23T20:09:32Z",
-      "title_en": "Armenian Foreign Ministry: the republic’s relations with the US and the EU are not aimed against Russia",
-      "lead_en": "Yerevan is establishing numerous partnerships and strategic relations with various countries, said the head of the department, Ararat Mirzoyan.",
-      "title_raw": "МИД Армении: отношения республики с США и ЕС не нацелены против России",
-      "lead_raw": "Ереван устанавливает многочисленные партнерские и стратегические отношения с различными странами, заявил глава ведомства Арарат Мирзоян",
       "topic_scores": {
         "diplomacy": 1,
         "military": 0,
