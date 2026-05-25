@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-05-24T21:57:01Z",
+  "updated_at_utc": "2026-05-25T03:50:31Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 11,
+  "count": 10,
   "articles": [
+    {
+      "id": "2585ad990102e74a8947a04d838cf22120fe4c38",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27517189",
+      "published_utc": "2026-05-25T03:27:58Z",
+      "title_en": "TASS: near Kharkov, Ukrainian guardianship kidnapped three children of the Ukrainian Armed Forces",
+      "lead_en": "The soldier is sure that his sons and daughter were taken “for experiments,” Russian law enforcement agencies said",
+      "title_raw": "ТАСС: под Харьковом украинская опека похитила троих детей военного ВСУ",
+      "lead_raw": "Солдат уверен, что его сыновей и дочь забрали \"на опыты\", рассказали в российских силовых структурах",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "e9e7af3f18ded7f7bd1dc2026bcffd882fdc8c77",
       "source": "TASS (RU)",
@@ -187,48 +209,6 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "49e54948a6d463e55f1ea1f0c6fa8dc6c26a8dee",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27503867",
-      "published_utc": "2026-05-22T23:40:13Z",
-      "title_en": "The former Prime Minister of Poland noted the hypocrisy of the EU after Magyar’s words about Russian gas",
-      "lead_en": "Representatives of the community spoke negatively about the same statements made by the outgoing Viktor Orban, Leszek Miller recalled",
-      "title_raw": "Экс-премьер Польши отметил лицемерие ЕС после слов Мадьяра о российском газе",
-      "lead_raw": "Представители сообщества негативно отзывались о таких же заявлениях со стороны ушедшего с поста Виктора Орбана, напомнил Лешек Миллер",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e6333f024361f5f83fab1e334df41fd518e826e0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27505707",
-      "published_utc": "2026-05-22T22:47:16Z",
-      "title_en": "In Novorossiysk, due to falling UAV debris, a fire occurred at an oil depot",
-      "lead_en": "No one was hurt",
-      "title_raw": "В Новороссийске из-за падения обломков БПЛА произошло возгорание на нефтебазе",
-      "lead_raw": "Никто не пострадал",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
         "economy": 0,
         "local_events": 0
       },
