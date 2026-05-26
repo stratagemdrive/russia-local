@@ -1,9 +1,287 @@
 {
-  "updated_at_utc": "2026-05-26T18:25:59Z",
+  "updated_at_utc": "2026-05-26T22:18:53Z",
   "keep_hours": 48,
   "topic": "diplomacy",
-  "count": 95,
+  "count": 110,
   "articles": [
+    {
+      "id": "c18c0759a511f9d0b828bd381c7d1a73390219c0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27542209",
+      "published_utc": "2026-05-26T21:37:50Z",
+      "title_en": "Russian Ambassador: Russia and Venezuela are exploring the possibility of launching charter flights",
+      "lead_en": "The parties are considering the start of flights to Margarita Island, noted Sergei Melik-Bagdasarov",
+      "title_raw": "Посол РФ: Россия и Венесуэла прорабатывают возможность запуска чартерных рейсов",
+      "lead_raw": "Стороны рассматривают старт рейсов на остров Маргарита, отметил Сергей Мелик-Багдасаров",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "1f2e7a8f361b1cc7a31aec3d73e938af6d57a6dd",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27542085",
+      "published_utc": "2026-05-26T21:09:15Z",
+      "title_en": "Russian Ambassador: oil production volumes at Russian-Venezuelan enterprises have recovered",
+      "lead_en": "Sergey Melik-Bagdasarov suggested that the growth in indicators had a positive impact on the overall statistics in the republic",
+      "title_raw": "Посол РФ: объемы добычи нефти на российско-венесуэльских предприятиях восстановились",
+      "lead_raw": "Сергей Мелик-Багдасаров предположил, что рост показателей положительно сказался на общей статистике в республике",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "b53d9fd0a9aa0ddb58729b4a87a89514606aea35",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/05/26/russia-warns-armenia-choose-the-eu-and-lose-our-oil-and-gas",
+      "published_utc": "2026-05-26T20:46:54Z",
+      "title_en": "Russia warns Armenia: Choose the EU and lose our oil and gas",
+      "lead_en": "Russia has warned Armenia that it may unilaterally suspend or terminate a bilateral agreement governing natural gas, petroleum products, and uncut diamond supplies if Armenia continues its push to join the European Union.",
+      "title_raw": "Russia warns Armenia: Choose the EU and lose our oil and gas",
+      "lead_raw": "Russia has warned Armenia that it may unilaterally suspend or terminate a bilateral agreement governing natural gas, petroleum products, and uncut diamond supplies if Armenia continues its push to join the European Union.",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "7a3c411bd48adf538a2182581560c05de4a11d1c",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2137063",
+      "published_utc": "2026-05-26T20:37:01Z",
+      "title_en": "Russia to continue developing cooperation with Kazakhstan — Putin",
+      "lead_en": "The Russian president expressed confidence that the negotiations during the upcoming visit will give a powerful impetus to the further strengthening of Russia-Kazakhstan partnership",
+      "title_raw": "Russia to continue developing cooperation with Kazakhstan — Putin",
+      "lead_raw": "The Russian president expressed confidence that the negotiations during the upcoming visit will give a powerful impetus to the further strengthening of Russia-Kazakhstan partnership",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "2aad6ba7d4490161ff7080ccd5f22ac6f54ed4ce",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27541635",
+      "published_utc": "2026-05-26T19:41:23Z",
+      "title_en": "Putin: there are more than 80 agreements between the regions of the Russian Federation and Kazakhstan",
+      "lead_en": "The President noted that regional forums, exchanges of delegations, business missions and exhibitions are regularly held",
+      "title_raw": "Путин: между регионами РФ и Казахстана действует более 80 соглашений",
+      "lead_raw": "Президент отметил, что регулярно проводятся форумы регионов, обмены делегациями, бизнес-миссиями и выставками",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "46b52f321b723919a5501bc6e2e196883e05378c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27541591",
+      "published_utc": "2026-05-26T19:40:21Z",
+      "title_en": "Dmitriev: the ex-head of the British Foreign Ministry is covering up failures in the energy sector with the topic of Ebola",
+      "lead_en": "David Miliband has destroyed the country's energy independence and feels no shame, said the head of the Russian Direct Investment Fund",
+      "title_raw": "Дмитриев: экс-глава МИД Британии прикрывает провалы в энергетике темой Эболы",
+      "lead_raw": "Дэвид Милибэнд разрушил энергетическую независимость страны и не испытывает ни капли стыда, заявил глава Российского фонда прямых инвестиций",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "2e2961a3cb9b80aaef2c421b8269b83f2f7b32d9",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2137035",
+      "published_utc": "2026-05-26T19:32:39Z",
+      "title_en": "Guterres should be concerned about Kiev killing innocent children — Russian MFA",
+      "lead_en": "The Ukrainian military launched drones at the academic building and dormitory of the Lugansk Pedagogical University’s Vocational College in the city of Starobelsk in the early hours of May 22",
+      "title_raw": "Guterres should be concerned about Kiev killing innocent children — Russian MFA",
+      "lead_raw": "The Ukrainian military launched drones at the academic building and dormitory of the Lugansk Pedagogical University’s Vocational College in the city of Starobelsk in the early hours of May 22",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "7d9b93cc6b240df298bc7321baba190d0532d747",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27541487",
+      "published_utc": "2026-05-26T19:25:59Z",
+      "title_en": "The Russian Embassy drew attention to the distortion in the Turkish media of the tragedy in Starobelsk",
+      "lead_en": "The truth is that the Ukrainian side deliberately fired at innocent Russian children, the diplomatic mission emphasized",
+      "title_raw": "Посольство РФ обратило внимание на искажение в СМИ Турции трагедии в Старобельске",
+      "lead_raw": "Правда заключается в том, что украинская сторона целенаправленно обстреляла невинных российских детей, подчеркнули в диппредставительстве",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "796b40f72bd924e6f413f61a1c83e8014b60829d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27541181",
+      "published_utc": "2026-05-26T19:04:27Z",
+      "title_en": "Putin: Russia will further develop cooperation with Kazakhstan",
+      "lead_en": "The head of state is convinced that the negotiations will give a significant impetus to the further strengthening of the Russian-Kazakh partnership",
+      "title_raw": "Путин: Россия и дальше будет развивать сотрудничество с Казахстаном",
+      "lead_raw": "Глава государства убежден, что переговоры придадут существенный импульс дальнейшему укреплению российско-казахстанского партнерства",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "daebef2fd98508538c3157b4b6ce2ddad10cd7ec",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2137029",
+      "published_utc": "2026-05-26T18:46:56Z",
+      "title_en": "Russia's UN envoy calls West’s reaction to Starobelsk tragedy 'complete disgrace'",
+      "lead_en": "Vasily Nebenzya noted that when children die as a result of the deliberate actions of the Kiev regime, the tragedy is shrouded in excuses and doubts in Western capitals",
+      "title_raw": "Russia's UN envoy calls West’s reaction to Starobelsk tragedy 'complete disgrace'",
+      "lead_raw": "Vasily Nebenzya noted that when children die as a result of the deliberate actions of the Kiev regime, the tragedy is shrouded in excuses and doubts in Western capitals",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "0675f036abcdabf9adc7d06d31d5b7233fcf30b2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27540907",
+      "published_utc": "2026-05-26T18:33:56Z",
+      "title_en": "On May 27, Galuzin will hold a briefing for the diplomatic corps on retaliatory strikes against the military-industrial complex of Kyiv",
+      "lead_en": "Official representative of the Russian Foreign Ministry Maria Zakharova noted that the Russian side will outline its approaches",
+      "title_raw": "Галузин 27 мая проведет для дипкорпуса брифинг по ответным ударам по ВПК Киева",
+      "lead_raw": "Официальный представитель МИД РФ Мария Захарова отметила, что российская сторона изложит свои подходы",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "61caf80daf6e994b33b46c660eca75222d8b9003",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27540757",
+      "published_utc": "2026-05-26T18:20:24Z",
+      "title_en": "Zakharova advised Guterres to worry about Kyiv killing children",
+      "lead_en": "The official representative of the Ministry of Foreign Affairs commented on the concern expressed by the UN Secretary General over plans for systemic strikes by the Russian Federation on the military-industrial complex of Ukraine",
+      "title_raw": "Захарова посоветовала Гутерришу беспокоиться из-за убийства Киевом детей",
+      "lead_raw": "Официальный представитель МИД прокомментировала выраженную генсеком ООН озабоченность из-за планов системных ударов РФ по военно-промышленному комплексу Украины",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "90c18e10097982144c8659304605177d177638bb",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27540743",
+      "published_utc": "2026-05-26T18:17:21Z",
+      "title_en": "Pittsburgh signs new contract with Evgeni Malkin for one season",
+      "lead_en": "Under this agreement, the Russian hockey player will earn $5.5 million",
+      "title_raw": "\"Питтсбург\" подписал новый контракт с Евгением Малкиным на один сезон",
+      "lead_raw": "По этому соглашению российский хоккеист заработает $5,5 млн",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "494b8f3533d878aef9178fdc60588b42821dafd4",
       "source": "TASS (RU)",
@@ -48,6 +326,49 @@
       "primary_topic": "diplomacy"
     },
     {
+      "id": "e63c46128bfa3c60fea6cb65d46845727823f531",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2136993",
+      "published_utc": "2026-05-26T16:53:55Z",
+      "title_en": "Russian envoy shares photos from Starobelsk tragedy site during meeting at German MFA",
+      "lead_en": "According to the Russian diplomatic mission, Sergey Nechaev expressed disappointment that the German federal government failed to offer words of sympathy to the victims of the horrific tragedy",
+      "title_raw": "Russian envoy shares photos from Starobelsk tragedy site during meeting at German MFA",
+      "lead_raw": "According to the Russian diplomatic mission, Sergey Nechaev expressed disappointment that the German federal government failed to offer words of sympathy to the victims of the horrific tragedy",
+      "topic_scores": {
+        "diplomacy": 4,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "99797b5f3baf47fb0675ad56faddd2c79c273554",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2136991",
+      "published_utc": "2026-05-26T16:52:04Z",
+      "title_en": "EAEU-UAE economic partnership agreement may enter into force in 2026 — Russian deputy PM",
+      "lead_en": "According to Denis Manturov, this will be an important addition to the Russian-UAE agreements signed last year on free trade in services and the elimination of double taxation",
+      "title_raw": "EAEU-UAE economic partnership agreement may enter into force in 2026 — Russian deputy PM",
+      "lead_raw": "According to Denis Manturov, this will be an important addition to the Russian-UAE agreements signed last year on free trade in services and the elimination of double taxation",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
       "id": "96ac443fa66b272ac3a054c1f2c9357eb5849223",
       "source": "TASS (RU)",
       "url": "https://tass.ru/politika/27539607",
@@ -90,6 +411,27 @@
       "primary_topic": "diplomacy"
     },
     {
+      "id": "7196046dfc22e3b572cf4bd5128925cf5035652d",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2136985",
+      "published_utc": "2026-05-26T16:28:38Z",
+      "title_en": "Russian envoy tells German MFA Moscow runs out of patience over Ukrainian crimes",
+      "lead_en": "Sergey Nechaev \"drew attention to the Russian Foreign Ministry’s statement of May 25, 2026, which contains recommendations to ensure the evacuation of foreign citizens and diplomatic personnel from the Ukrainian capital\"",
+      "title_raw": "Russian envoy tells German MFA Moscow runs out of patience over Ukrainian crimes",
+      "lead_raw": "Sergey Nechaev \"drew attention to the Russian Foreign Ministry’s statement of May 25, 2026, which contains recommendations to ensure the evacuation of foreign citizens and diplomatic personnel from the Ukrainian capital\"",
+      "topic_scores": {
+        "diplomacy": 4,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
       "id": "a625fc94722ca3a347a500e7dd702d35031c1b61",
       "source": "TASS (RU)",
       "url": "https://tass.ru/politika/27539891",
@@ -100,6 +442,27 @@
       "lead_raw": "Армия РФ не атакует их, отметил Сергей Нечаев",
       "topic_scores": {
         "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "0b54ed085edbe7acecf615b5f09f5b986d017bfd",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2136967",
+      "published_utc": "2026-05-26T15:37:15Z",
+      "title_en": "State corporations, major businesses to be members of Russian delegation in Kazakhstan",
+      "lead_en": "Yury Ushakov mentioned head of the Russian Fertilizer Producers Association Andrey Guryev and Transneft CEO Nikolay Tokarev among the \"top representatives\"",
+      "title_raw": "State corporations, major businesses to be members of Russian delegation in Kazakhstan",
+      "lead_raw": "Yury Ushakov mentioned head of the Russian Fertilizer Producers Association Andrey Guryev and Transneft CEO Nikolay Tokarev among the \"top representatives\"",
+      "topic_scores": {
+        "diplomacy": 1,
         "military": 0,
         "energy": 0,
         "economy": 0,
@@ -759,7 +1122,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/politika/27527519",
       "published_utc": "2026-05-26T01:01:02Z",
-      "title_en": "Miroshnik: Kyiv itself asked for retaliatory strikes",
+      "title_en": "Miroshnik: Kyiv itself asked for retaliation",
       "lead_en": "As the Ambassador-at-Large of the Russian Foreign Ministry on the crimes of the Kyiv regime said, “if the first attacks were not enough, the subsequent ones will certainly correct the situation.”",
       "title_raw": "Мирошник: Киев сам напросился на удары возмездия",
       "lead_raw": "Как заявил посол по особым поручениям МИД РФ по вопросам преступлений киевского режима, \"если первых атак не хватило, последующие непременно исправят ситуацию\"",
@@ -1361,7 +1724,7 @@
       "url": "https://tass.ru/politika/27525777",
       "published_utc": "2026-05-25T16:39:04Z",
       "title_en": "Russian Embassy: Belgium is molding Russia into the image of an “aggressor” in the Baltic region",
-      "lead_en": "At the same time, the Armed Forces of Ukraine began planning attacks on the Russian Federation from the territory of the Baltic states, and NATO does not hide its preparations for a direct war with Russia, the diplomatic mission said",
+      "lead_en": "At the same time, the Armed Forces of Ukraine began to plan attacks on the Russian Federation from the territory of the Baltic states, and NATO does not hide its preparations for a direct war with Russia, the diplomatic mission said",
       "title_raw": "Посольство РФ: Бельгия лепит из России образ \"агрессора\" в Балтийском регионе",
       "lead_raw": "При этом ВСУ начали планировать удары по РФ с территории государств Балтии, а в НАТО не скрывают подготовку к прямой войне с Россией, заявили в диппредставительстве",
       "topic_scores": {
@@ -1990,49 +2353,6 @@
       "lead_raw": "All attempts to resolve the differences through negotiations have proven fruitless, the Russian Foreign Ministry said",
       "topic_scores": {
         "diplomacy": 3,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "ae7656b965a5ea3e96e1e0ada7d650851e665e8d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27516559",
-      "published_utc": "2026-05-24T21:49:02Z",
-      "title_en": "Miroshnik: Europe will have to admit Kyiv’s war crimes",
-      "lead_en": "According to the Ambassador-at-Large of the Russian Foreign Ministry on the crimes of the Kyiv regime, European countries deliberately ignore violations of international and humanitarian law by Ukraine",
-      "title_raw": "Мирошник: Европе придется признать военные преступления Киева",
-      "lead_raw": "По словам посла по особым поручениям МИД России по вопросам преступлений киевского режима, европейские страны сознательно игнорируют нарушения международного и гуманитарного права со стороны Украины",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "897e245ee84e97d6bbc5a5911673a6952844c971",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27516547",
-      "published_utc": "2026-05-24T21:48:14Z",
-      "title_en": "The Russian Federation will appeal to the International Court of Justice in connection with the infringement of Russians in the Baltics",
-      "lead_en": "The Russian Foreign Ministry noted that attempts to resolve this issue through negotiations led nowhere",
-      "title_raw": "РФ обратится в Международный суд ООН в связи с ущемлением русских в Прибалтике",
-      "lead_raw": "В МИД России отметили, что попытки решить этот вопрос путем переговоров ни к чему не привели",
-      "topic_scores": {
-        "diplomacy": 2,
         "military": 0,
         "energy": 0,
         "economy": 0,
