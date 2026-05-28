@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-05-28T03:35:50Z",
+  "updated_at_utc": "2026-05-28T07:57:59Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 13,
+  "count": 12,
   "articles": [
+    {
+      "id": "71539d87cd633f60ce026766d735b1bd21149c8b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27558527",
+      "published_utc": "2026-05-28T07:19:34Z",
+      "title_en": "10 people were rescued in Chelyabinsk reservoirs during a hurricane",
+      "lead_en": "Citizens were riding SUP boards and, due to increased wind, were unable to get to the shore on their own, reported the Russian Ministry of Emergency Situations for the region.",
+      "title_raw": "На челябинских водоемах во время урагана спасли 10 человек",
+      "lead_raw": "Граждане катались на сапбордах и из-за усиления ветра не смогли самостоятельно добраться до берега, сообщили в ГУ МЧС России по региону",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "cfbd822f74dd8c7d8f4aaef738e72255565f2b55",
       "source": "TASS (RU)",
@@ -228,46 +247,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "1bb30087391126368df8b879e03c6e9431344f00",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/05/26/one-person-killed-in-russian-strike-on-odesa",
-      "published_utc": "2026-05-26T07:55:56Z",
-      "title_en": "One person killed in Russian strike on Odesa",
-      "lead_en": "Russian forces hit Odesa and the surrounding region with missiles and drones on the evening of May 25, Oleh Kiper, the head of the military administration, said.",
-      "title_raw": "One person killed in Russian strike on Odesa",
-      "lead_raw": "Russian forces hit Odesa and the surrounding region with missiles and drones on the evening of May 25, Oleh Kiper, the head of the military administration, said.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "fd5933c3b031861f9bf31ab1d1351fca4f8c1abc",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2136429",
-      "published_utc": "2026-05-26T05:04:14Z",
-      "title_en": "Fire in Russia’s Omsk Region kills six, including four children — investigators",
-      "lead_en": "A criminal case has been opened",
-      "title_raw": "Fire in Russia’s Omsk Region kills six, including four children — investigators",
-      "lead_raw": "A criminal case has been opened",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
