@@ -1,9 +1,32 @@
 {
-  "updated_at_utc": "2026-05-28T21:08:23Z",
+  "updated_at_utc": "2026-05-28T23:16:14Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 43,
   "articles": [
+    {
+      "id": "1ee201bb767d40e858f7ff145226f77acdedc402",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27571165",
+      "published_utc": "2026-05-28T22:11:33Z",
+      "title_en": "Izvestia: only the Russian Federation has a nuclear icebreaker fleet for the development of the Arctic",
+      "lead_en": "Director of the Department of European Problems of the Russian Foreign Ministry Vladislav Maslennikov noted that without icebreakers, full development of the Arctic is impossible",
+      "title_raw": "\"Известия\": только РФ обладает атомным ледокольным флотом для освоения Арктики",
+      "lead_raw": "Директор департамента европейских проблем МИД России Владислав Масленников отметил, что без ледоколов полноценное освоение Арктики невозможно",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "3295d5b3ac3ccae557e25b62a2a27f337421d1d9",
       "source": "Meduza (EN)",
@@ -899,28 +922,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "1f2e7a8f361b1cc7a31aec3d73e938af6d57a6dd",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27542085",
-      "published_utc": "2026-05-26T21:09:15Z",
-      "title_en": "Russian Ambassador: oil production volumes at Russian-Venezuelan enterprises have recovered",
-      "lead_en": "Sergey Melik-Bagdasarov suggested that the growth in indicators had a positive impact on the overall statistics in the republic",
-      "title_raw": "Посол РФ: объемы добычи нефти на российско-венесуэльских предприятиях восстановились",
-      "lead_raw": "Сергей Мелик-Багдасаров предположил, что рост показателей положительно сказался на общей статистике в республике",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
