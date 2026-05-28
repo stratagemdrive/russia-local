@@ -1,9 +1,91 @@
 {
-  "updated_at_utc": "2026-05-27T21:55:09Z",
+  "updated_at_utc": "2026-05-28T03:35:50Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 8,
+  "count": 13,
   "articles": [
+    {
+      "id": "cfbd822f74dd8c7d8f4aaef738e72255565f2b55",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27556403",
+      "published_utc": "2026-05-28T02:05:36Z",
+      "title_en": "Fighter Mafon: The Russian Armed Forces stretched and distracted the forces of the Ukrainian Armed Forces in Vozdvizhevka",
+      "lead_en": "The deputy commander of the \"Storm-1\" detachment noted that because of this, Ukrainian soldiers were forced to break into several pockets",
+      "title_raw": "Боец Мафон: ВС РФ растягивали и отвлекали силы ВСУ в Воздвижевке",
+      "lead_raw": "Замкомандира отряда \"Шторм-1\"отметил, что из-за этого украинские солдаты были вынуждены разрываться на несколько очагов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "1817292fdfc6da3c242be5cfd07811edddcb43fe",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27556399",
+      "published_utc": "2026-05-28T02:04:39Z",
+      "title_en": "Fighter Mafon: The Russian Armed Forces used a ram to clear the sky of Ukrainian Armed Forces drones over Vozdvizhevka",
+      "lead_en": "The deputy commander of the Storm-1 detachment said that the Russian military used both FPV drones and Mavic",
+      "title_raw": "Боец Мафон: ВС РФ тараном очищали небо от дронов ВСУ над Воздвижевкой",
+      "lead_raw": "Замкомандира отряда \"Шторм-1\" рассказал, что российские военные использовали как FPV-дроны, так и Mavic",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "d76c554dcd34b53e8b88eded6ccb08ec77c1a229",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27556381",
+      "published_utc": "2026-05-28T02:03:46Z",
+      "title_en": "Fighter Mafon: The Russian Armed Forces destroyed up to two companies of Ukrainian Armed Forces militants in Vozdvizhevka",
+      "lead_en": "The deputy commander of the \"Storm-1\" detachment noted that we are talking about the military units \"Skala\" and \"Shkval\"",
+      "title_raw": "Боец Мафон: ВС РФ уничтожили в Воздвижевке до двух рот боевиков ВСУ",
+      "lead_raw": "Замкомандира отряда \"Шторм-1\" отметил, что речь идет о военных подразделений \"Скала\" и \"Шквал\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "89ebd124149fdde80d2bbfdcd1f6a568d73a6a88",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27556355",
+      "published_utc": "2026-05-28T02:01:09Z",
+      "title_en": "Azarov: The West is not starting evacuation from Kyiv, because it doesn’t care about people",
+      "lead_en": "Ukraine and Western countries are also not heeding warnings because it would confirm they were lying in their assessments of Russian weapons, a former Ukrainian prime minister said",
+      "title_raw": "Азаров: Запад не начинает эвакуацию из Киева, так как ему плевать на людей",
+      "lead_raw": "Украина и западные страны также не прислушиваются к предупреждениям, поскольку это подтвердит, что они врали в своих оценках российского оружия, заявил бывший украинский премьер-министр",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "fe8d1473f2ef16b875ecad5e7b14c730331982e6",
       "source": "TASS (RU)",
@@ -13,6 +95,46 @@
       "lead_en": "This is reported in the official application of the Ministry of Emergency Situations of Russia",
       "title_raw": "В Орловской области отменили авиационную опасность",
       "lead_raw": "Об этом сообщается в официальном приложении МЧС России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "bbedc5d8ec136c207d37cc182690f2893d100c1d",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2137457",
+      "published_utc": "2026-05-27T14:28:19Z",
+      "title_en": "Russian Baltic Fleet anti-saboteur boats live-fire machine guns in Gulf of Finland drills",
+      "lead_en": "The anti-saboteur boat crews delivered fire from 14.5mm MTPU naval machine gun mounts",
+      "title_raw": "Russian Baltic Fleet anti-saboteur boats live-fire machine guns in Gulf of Finland drills",
+      "lead_raw": "The anti-saboteur boat crews delivered fire from 14.5mm MTPU naval machine gun mounts",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "1c8c604def31d0b219c04e6075b9e895baa51b65",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/society/2137411",
+      "published_utc": "2026-05-27T13:11:12Z",
+      "title_en": "Ukrainian forces deliberately target Emergencies Ministry personnel — deputy minister",
+      "lead_en": "Alexey Kostrubitsky stressed that Russian rescuers are forced to daily eliminate the consequences of drone and unmanned boat strikes while facing a high risk to their lives",
+      "title_raw": "Ukrainian forces deliberately target Emergencies Ministry personnel — deputy minister",
+      "lead_raw": "Alexey Kostrubitsky stressed that Russian rescuers are forced to daily eliminate the consequences of drone and unmanned boat strikes while facing a high risk to their lives",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
@@ -137,25 +259,6 @@
       "lead_en": "A criminal case has been opened",
       "title_raw": "Fire in Russia’s Omsk Region kills six, including four children — investigators",
       "lead_raw": "A criminal case has been opened",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "23363a5d561cda9184da1e2ac12e663a8781918f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27527769",
-      "published_utc": "2026-05-26T02:25:41Z",
-      "title_en": "Russia will develop requirements for unmanned vehicles",
-      "lead_en": "In particular, such machines must have a set of data about the state “at the time of failure or accident,” as well as an on-board information recording device",
-      "title_raw": "В России разработают требования к беспилотным автомобилям",
-      "lead_raw": "В частности, у таких машин должен быть набор данных о состоянии \"в момент сбоя или аварии\", а также бортовое устройство записи информации",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
