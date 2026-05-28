@@ -1,9 +1,312 @@
 {
-  "updated_at_utc": "2026-05-28T07:57:59Z",
+  "updated_at_utc": "2026-05-28T11:44:32Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 88,
+  "count": 102,
   "articles": [
+    {
+      "id": "12b43f729b6b69ad8e650bf0249bfdc91aecd36b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27564777",
+      "published_utc": "2026-05-28T11:35:09Z",
+      "title_en": "Russia may introduce a third package of measures against cyber fraud",
+      "lead_en": "The project is being actively discussed with law enforcement, banks, telecom operators, 46 measures have been proposed, said Deputy Head of the Ministry of Digital Development Ivan Lebedev",
+      "title_raw": "В России могут представить третий пакет мер против кибермошенничества",
+      "lead_raw": "Проект активно обсуждается с правоохранителями, банками, операторами связи, было предложено 46 мер, заявил замглавы Минцифры Иван Лебедев",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "006d10e13c332f0e200ea2efb7baf62c173afa96",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2137925",
+      "published_utc": "2026-05-28T11:28:29Z",
+      "title_en": "Energy, trade, and tigers: key statements by Putin and Tokayev",
+      "lead_en": "Vladimir Putin noted that today's talks between Russia and Kazakhstan \"were conducted in a businesslike and constructive manner and were very productive\"",
+      "title_raw": "Energy, trade, and tigers: key statements by Putin and Tokayev",
+      "lead_raw": "Vladimir Putin noted that today's talks between Russia and Kazakhstan \"were conducted in a businesslike and constructive manner and were very productive\"",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "ddb6029ea68af58ad6e5960b814c678589b468b4",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2137907",
+      "published_utc": "2026-05-28T11:13:28Z",
+      "title_en": "Price of Russian gas for Armenia is several times lower than global spot prices — expert",
+      "lead_en": "Sergey Kaufman added that prices higher than for Russia’s domestic market or for supplies to Belarus",
+      "title_raw": "Price of Russian gas for Armenia is several times lower than global spot prices — expert",
+      "lead_raw": "Sergey Kaufman added that prices higher than for Russia’s domestic market or for supplies to Belarus",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "4a3f650e664291880ae8ac0911de7fc71d594e87",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kultura/27562153",
+      "published_utc": "2026-05-28T10:56:30Z",
+      "title_en": "On Russia Day, classical music will be performed at the Severstal site in Cherepovets",
+      "lead_en": "Concerts will be held in the territories of historical, cultural and even industrially significant objects of the regions",
+      "title_raw": "В День России классическая музыка прозвучит на площадке \"Северстали\" в Череповце",
+      "lead_raw": "Концерты пройдут на территориях исторических, культурных и даже промышленно значимых объектов регионов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "7df8ad7d99d94ceb94fd147dc0ddb2055040bc37",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27564663",
+      "published_utc": "2026-05-28T10:54:20Z",
+      "title_en": "Reshetnikov: 120 thousand suppliers from Kazakhstan are represented on marketplaces in the Russian Federation",
+      "lead_en": "The head of the Russian Ministry of Economic Development noted that the meetings of the leaders of the Russian Federation and Kazakhstan Vladimir Putin and Kassym-Jomart Tokayev give impetus to economic integration",
+      "title_raw": "Решетников: на маркетплейсах в РФ представлены 120 тыс. поставщиков из Казахстана",
+      "lead_raw": "Глава российского Минэкономразвития отметил, что встречи лидеров РФ и Казахстана Владимира Путина и Касым-Жомарта Токаева дают толчок экономической интеграции",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "2ccd69679f8c6b85049a5519523b2b03403016d3",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27564639",
+      "published_utc": "2026-05-28T10:52:17Z",
+      "title_en": "Reshetnikov announced an increase in trade turnover between the Russian Federation and Kazakhstan in the first quarter by 10%",
+      "lead_en": "The head of the Russian Ministry of Economic Development also indicated that countries are fine-tuning interaction mechanisms",
+      "title_raw": "Решетников заявил о росте товарооборота РФ и Казахстана в I квартале на 10%",
+      "lead_raw": "Глава Минэкономразвития России также указал, что страны донастраивают механизмы взаимодействия",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "77972f618db74bfc7cb737504dbeae6dbddf91b1",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27564577",
+      "published_utc": "2026-05-28T10:46:11Z",
+      "title_en": "Japan announced the purchase of 720 thousand barrels of oil from Russia",
+      "lead_en": "We are talking about oil, the supply of which is linked to gas contracts within the framework of the Sakhalin-2 project and which is not subject to anti-Russian sanctions, said Deputy Secretary General of the ruling Liberal Democratic Party Koichi Hagiuda",
+      "title_raw": "Япония заявила о закупке у России 720 тыс. баррелей нефти",
+      "lead_raw": "Речь идет о нефти, поставки которой увязаны с газовыми контрактами в рамках проекта \"Сахалин-2\" и которая не подпадает под антироссийские санкции, сообщил заместитель генсека правящей Либерально-демократической партии Коити Хагиуда",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "ebbe8a59d709bbcda03227484e3c777c9665be5f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2137891",
+      "published_utc": "2026-05-28T10:43:45Z",
+      "title_en": "JSC Romanov plans to increase production of BAZ trucks to six per day — CEO",
+      "lead_en": "The BAZ series is intended to substitute heavy-duty trucks from Europe's leading heavy-duty truck manufacturers on the Russian market",
+      "title_raw": "JSC Romanov plans to increase production of BAZ trucks to six per day — CEO",
+      "lead_raw": "The BAZ series is intended to substitute heavy-duty trucks from Europe's leading heavy-duty truck manufacturers on the Russian market",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "aa7482bb1416428c2e5c85d5cc41fb05fcb5f47f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27564427",
+      "published_utc": "2026-05-28T10:36:27Z",
+      "title_en": "Lithuania proposed to the EU to include Rosatom and Lukoil in the 21st package of sanctions against the Russian Federation",
+      "lead_en": "It is necessary to “introduce a complete ban on maritime transport, as well as deprive Russia of the opportunity to export potash fertilizers to Europe,” said Lithuanian Foreign Minister Kestutis Budrys",
+      "title_raw": "В Литве предложили ЕС включить Росатом и \"Лукойл\" в 21-й пакет санкций против РФ",
+      "lead_raw": "Необходимо \"ввести полный запрет на морские перевозки, а также лишить Россию возможности экспортировать калийные удобрения в Европу\", заявил глава литовского МИД Кестутис Будрис",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "e66434f0558e774c2257e791074e3dbe4ecf9396",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2137879",
+      "published_utc": "2026-05-28T10:24:18Z",
+      "title_en": "Trade between Russia, Kazakhstan reliably protected from external influence — Putin",
+      "lead_en": "The Russian leader noted that almost all transactions between the two countries are conducted in national currencies",
+      "title_raw": "Trade between Russia, Kazakhstan reliably protected from external influence — Putin",
+      "lead_raw": "The Russian leader noted that almost all transactions between the two countries are conducted in national currencies",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "2a69e6a3529f303eeaf103539fc9d0442b9daac0",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2137877",
+      "published_utc": "2026-05-28T10:22:36Z",
+      "title_en": "Russia’s construction of nuclear power plant in Kazakhstan creates entire industry — Putin",
+      "lead_en": "The construction of this plant with Rosatom’s participation is a flagship project in the field of peaceful nuclear energy, the Russian leader noted",
+      "title_raw": "Russia’s construction of nuclear power plant in Kazakhstan creates entire industry — Putin",
+      "lead_raw": "The construction of this plant with Rosatom’s participation is a flagship project in the field of peaceful nuclear energy, the Russian leader noted",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "fac89a0fdc57fc4f07fe4b3ce3c581ac247d59e0",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2137841",
+      "published_utc": "2026-05-28T09:55:42Z",
+      "title_en": "FACTBOX: Talks between Russian, Kazakh leaders, strategic partnership, no disputes",
+      "lead_en": "Vladimir Putin said that Russia and Kazakhstan are jointly implementing seven investment projects and identifying new promising areas for cooperation",
+      "title_raw": "FACTBOX: Talks between Russian, Kazakh leaders, strategic partnership, no disputes",
+      "lead_raw": "Vladimir Putin said that Russia and Kazakhstan are jointly implementing seven investment projects and identifying new promising areas for cooperation",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "0735de98aff912ec0342c1ce564bec583cb2b3d0",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/05/28/russia-s-civic-chamber-warns-of-fake-veterans-wearing-unofficial-war-medals",
+      "published_utc": "2026-05-28T09:51:51Z",
+      "title_en": "Russia’s Civic Chamber warns of ‘fake veterans’ wearing unofficial war medals",
+      "lead_en": "Members of Russia’s Civic Chamber say the proliferation of unofficial awards given to participants in the war in Ukraine has spiraled out of control. Foundations, nonprofit organizations, and private individuals are churning out their own medals and decorations, while replicas of official state awards are readily available on online marketplaces.",
+      "title_raw": "Russia’s Civic Chamber warns of ‘fake veterans’ wearing unofficial war medals",
+      "lead_raw": "Members of Russia’s Civic Chamber say the proliferation of unofficial awards given to participants in the war in Ukraine has spiraled out of control. Foundations, nonprofit organizations, and private individuals are churning out their own medals and decorations, while replicas of official state awards are readily available on online marketplaces.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "817b898a61fe862f196a66ed6c380e1b7991c6e1",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2137761",
+      "published_utc": "2026-05-28T08:38:43Z",
+      "title_en": "Russia, Kazakhstan jointly implement seven investment projects — Putin",
+      "lead_en": "Promising areas of cooperation are taking shape, the Russian leader said",
+      "title_raw": "Russia, Kazakhstan jointly implement seven investment projects — Putin",
+      "lead_raw": "Promising areas of cooperation are taking shape, the Russian leader said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "efc810e1072374bfa109e863837e88f1e624a864",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2137751",
+      "published_utc": "2026-05-28T08:25:40Z",
+      "title_en": "Russia-Kazakhstan trade turnover exceeded $28 bln in 2025 — Putin",
+      "lead_en": "The Russian president noted that direct Russian investment in Kazakhstan’s economy amounts to $29.4 bln",
+      "title_raw": "Russia-Kazakhstan trade turnover exceeded $28 bln in 2025 — Putin",
+      "lead_raw": "The Russian president noted that direct Russian investment in Kazakhstan’s economy amounts to $29.4 bln",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "16e40256096d59c0f1492b5e1a5ee6eb3339a56c",
       "source": "TASS (RU)",
@@ -1729,25 +2032,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "17b30cb68fe39b5f6328d6046c272b680a508b6b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2136647",
-      "published_utc": "2026-05-26T10:47:52Z",
-      "title_en": "Russia-China partnership reduces ‘imported’ inflation caused by US-Iran conflict",
-      "lead_en": "VTB First Deputy President and Chairman of the Management Board Dmitry Pyanov noted that the situation in the Middle East had become one of the factors behind the current annualized inflation rate reaching about 2% at the end of April",
-      "title_raw": "Russia-China partnership reduces ‘imported’ inflation caused by US-Iran conflict",
-      "lead_raw": "VTB First Deputy President and Chairman of the Management Board Dmitry Pyanov noted that the situation in the Middle East had become one of the factors behind the current annualized inflation rate reaching about 2% at the end of April",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
     }
   ]
 }
