@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-05-29T07:56:04Z",
+  "updated_at_utc": "2026-05-29T11:31:16Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 23,
   "articles": [
+    {
+      "id": "d3c8045ec9cacf08ed6f08d4784915e939b4f43c",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/05/29/ukrainian-drones-kill-two-in-russia-lukoil-refinery-catches-fire",
+      "published_utc": "2026-05-29T10:43:29Z",
+      "title_en": "Ukrainian drones kill two in Russia. Lukoil refinery catches fire.",
+      "lead_en": "A Ukrainian drone strike on a synthetic fiber plant in the city of Volzhsky in the Volgograd region killed one person, regional Governor Andrei Bocharov said. The victim was a 60-year-old man.",
+      "title_raw": "Ukrainian drones kill two in Russia. Lukoil refinery catches fire.",
+      "lead_raw": "A Ukrainian drone strike on a synthetic fiber plant in the city of Volzhsky in the Volgograd region killed one person, regional Governor Andrei Bocharov said. The victim was a 60-year-old man.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "1181596b12b717b0061e28d8505c5839750b8071",
       "source": "TASS (EN)",
@@ -443,27 +465,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "ef6c6053d766630f25a981c2a4e0e9ec61bc5f44",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27547279",
-      "published_utc": "2026-05-27T09:14:45Z",
-      "title_en": "Russian air defense systems shot down 285 drones per day",
-      "lead_en": "The enemy also lost five guided bombs and three Storm Shadow air-launched cruise missiles",
-      "title_raw": "Средства ПВО РФ за сутки сбили 285 беспилотников",
-      "lead_raw": "Противник также потерял пять управляемых авиационных бомб и три крылатые ракеты воздушного базирования Storm Shadow",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
