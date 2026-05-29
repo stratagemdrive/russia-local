@@ -1,9 +1,70 @@
 {
-  "updated_at_utc": "2026-05-28T23:16:14Z",
+  "updated_at_utc": "2026-05-29T03:36:22Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 14,
+  "count": 17,
   "articles": [
+    {
+      "id": "337c93bb81659386bffbaae097484cf6e0785dd9",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27571947",
+      "published_utc": "2026-05-29T02:14:27Z",
+      "title_en": "In the Oryol region, the danger of a UAV attack has been canceled",
+      "lead_en": "This was reported in the application of the Ministry of Emergency Situations of Russia",
+      "title_raw": "В Орловской области отменили опасность атаки БПЛА",
+      "lead_raw": "Об этом сообщили в приложении МЧС России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "5736280a97f6ce997e9d1ccd66e3dfcf3aab8e88",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27571677",
+      "published_utc": "2026-05-29T01:12:28Z",
+      "title_en": "The missile threat has been canceled in the Rostov region",
+      "lead_en": "This was reported in the application of the Ministry of Emergency Situations of the Russian Federation",
+      "title_raw": "В Ростовской области отменили ракетную опасность",
+      "lead_raw": "Об этом сообщили в приложении МЧС РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "89afa3e755bab210bc79c837a52297b9e0f5ef4e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27571645",
+      "published_utc": "2026-05-29T01:02:27Z",
+      "title_en": "Luktugbar fighter: The Ukrainian Armed Forces killed a group of Ukrainian prisoners while trying to evacuate them",
+      "lead_en": "The acting commander of the assault company of the Center group of troops said that the Russian military tried to provide them with first aid",
+      "title_raw": "Боец Люктугбара: ВСУ убили группу украинских пленных при попытке их эвакуации",
+      "lead_raw": "Врио командира штурмовой роты группировки войск \"Центр\" рассказал, что российские военные пытались оказать им первую медицинскую помощь",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "3295d5b3ac3ccae557e25b62a2a27f337421d1d9",
       "source": "Meduza (EN)",
