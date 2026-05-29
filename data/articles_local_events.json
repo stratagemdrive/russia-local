@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-05-29T18:32:40Z",
+  "updated_at_utc": "2026-05-29T21:07:13Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 26,
   "articles": [
+    {
+      "id": "f611000f1b6227f1e3b0c718095fa2d55bccba8c",
+      "source": "RT",
+      "url": "https://www.rt.com/news/640747-putin-media-starobelsk-cover/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "published_utc": "2026-05-29T19:15:11Z",
+      "title_en": "Western media coverage of Starobelsk is ‘making fools’ of audience – Putin (FULL VIDEO)",
+      "lead_en": "Russian President Vladimir Putin has accused Western media of ignoring Kiev’s strike on Starobelsk that killed 21 students Read Full Article at RT.com",
+      "title_raw": "Western media coverage of Starobelsk is ‘making fools’ of audience – Putin (FULL VIDEO)",
+      "lead_raw": "Russian President Vladimir Putin has accused Western media of ignoring Kiev’s strike on Starobelsk that killed 21 students Read Full Article at RT.com",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "da86f2bacc4820ce596fc22d13e94f6eb71cadc2",
       "source": "TASS (EN)",
@@ -503,25 +522,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "fe8d1473f2ef16b875ecad5e7b14c730331982e6",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27554907",
-      "published_utc": "2026-05-27T19:30:13Z",
-      "title_en": "Aviation danger has been canceled in the Oryol region",
-      "lead_en": "This is reported in the official application of the Ministry of Emergency Situations of Russia",
-      "title_raw": "В Орловской области отменили авиационную опасность",
-      "lead_raw": "Об этом сообщается в официальном приложении МЧС России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
