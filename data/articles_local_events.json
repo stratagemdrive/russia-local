@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-05-30T17:04:12Z",
+  "updated_at_utc": "2026-05-30T19:15:37Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 24,
   "articles": [
+    {
+      "id": "5c7f1b07e7bccc0d03c25c213c8cd888b611bd2d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27587937",
+      "published_utc": "2026-05-30T17:50:13Z",
+      "title_en": "Unmanned danger declared in Adygea",
+      "lead_en": "This was reported to the Russian Ministry of Emergency Situations",
+      "title_raw": "В Адыгее объявили беспилотную опасность",
+      "lead_raw": "Об этом сообщили в МЧС России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "f63678b60a353d577c63a4decf852efe005306d0",
       "source": "TASS (RU)",
@@ -461,25 +480,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "ded609d2a13a4831ccbf542a4ad856591b34dabe",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27569523",
-      "published_utc": "2026-05-28T17:10:04Z",
-      "title_en": "A fire in the Russian Drama Theater was extinguished in Makhachkala",
-      "lead_en": "The fire area was 10 square meters. m",
-      "title_raw": "В Махачкале потушили пожар в Русском драматическом театре",
-      "lead_raw": "Площадь возгорания составила 10 кв. м",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
