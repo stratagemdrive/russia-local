@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-05-30T06:44:48Z",
+  "updated_at_utc": "2026-05-30T09:16:24Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 24,
   "articles": [
+    {
+      "id": "b0e13bff7fbc5bf07eaa034330055c16c43bcdfd",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2139035",
+      "published_utc": "2026-05-30T08:16:44Z",
+      "title_en": "Ukrainian forces attacked Russia’s Belgorod Region 55 times over past day",
+      "lead_en": "As a result of the attacks, three people were killed and another three were injured, acting regional governor Alexander Shuvalev said",
+      "title_raw": "Ukrainian forces attacked Russia’s Belgorod Region 55 times over past day",
+      "lead_raw": "As a result of the attacks, three people were killed and another three were injured, acting regional governor Alexander Shuvalev said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "830ef23790be303daee017ec2bd6bc8522f5d2b7",
       "source": "TASS (EN)",
@@ -266,7 +287,7 @@
       "url": "https://tass.ru/obschestvo/27573881",
       "published_utc": "2026-05-29T07:15:14Z",
       "title_en": "Emergency Situations Ministry officers took part in fire extinguishing exercises in Kazakhstan",
-      "lead_en": "The Russian delegation also visited a specialized fire station in Petropavlovsk",
+      "lead_en": "The Russian delegation also visited a specialized fire department in Petropavlovsk",
       "title_raw": "Офицеры МЧС приняли участие в учениях в Казахстане по ликвидации пожаров",
       "lead_raw": "Российская делегация также посетила специализированную пожарную часть в Петропавловске",
       "topic_scores": {
@@ -450,25 +471,6 @@
       "lead_en": "The fire area was 50 square meters. m",
       "title_raw": "В Махачкале загорелось здание Русского драматического театра",
       "lead_raw": "Площадь пожара составила 50 кв. м",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "71539d87cd633f60ce026766d735b1bd21149c8b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27558527",
-      "published_utc": "2026-05-28T07:19:34Z",
-      "title_en": "10 people were rescued in Chelyabinsk reservoirs during a hurricane",
-      "lead_en": "Citizens were riding SUP boards and, due to increased wind, were unable to get to the shore on their own, reported the Russian Ministry of Emergency Situations for the region.",
-      "title_raw": "На челябинских водоемах во время урагана спасли 10 человек",
-      "lead_raw": "Граждане катались на сапбордах и из-за усиления ветра не смогли самостоятельно добраться до берега, сообщили в ГУ МЧС России по региону",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
