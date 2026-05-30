@@ -1,8 +1,8 @@
 {
-  "updated_at_utc": "2026-05-29T21:07:13Z",
+  "updated_at_utc": "2026-05-30T03:25:06Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 107,
+  "count": 106,
   "articles": [
     {
       "id": "6a4dfac9d12fe11acfcf404aab68ba5e4527d413",
@@ -32,6 +32,25 @@
       "lead_en": "Russia’s Investigative Committee accused Russian serviceman Maxim Koshkarev of helping produce forged paintings and sculptures attributed to Ernst Neizvestny.",
       "title_raw": "Russian soldier tied to multimillion‑ruble forgery scheme, Tretyakov Gallery searched",
       "lead_raw": "Russia’s Investigative Committee accused Russian serviceman Maxim Koshkarev of helping produce forged paintings and sculptures attributed to Ernst Neizvestny.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "496f59dc478e1292a94d1590a43e60d29ae80d44",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2138933",
+      "published_utc": "2026-05-29T18:31:25Z",
+      "title_en": "Russia building entire nuclear industry in Kazakhstan, not just financing projects — Putin",
+      "lead_en": "The Russian president emphasized the strategic importance for both countries",
+      "title_raw": "Russia building entire nuclear industry in Kazakhstan, not just financing projects — Putin",
+      "lead_raw": "The Russian president emphasized the strategic importance for both countries",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
@@ -2081,44 +2100,6 @@
       "topics": [
         "economy"
       ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "8467a86f556514f7720fc70f068dc395d91778b0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27556543",
-      "published_utc": "2026-05-28T02:41:41Z",
-      "title_en": "Japan announced the continuation of sanctions policy towards Russia",
-      "lead_en": "General Cabinet Secretary Minoru Kihara also noted that the government will do everything necessary to protect the interests of Japanese companies that continue to operate in the Russian Federation",
-      "title_raw": "В Японии заявили о продолжении санкционной политики в отношении России",
-      "lead_raw": "Генеральный секретарь кабинета министров Минору Кихара также отметил, что правительство будет делать все необходимое для того, чтобы защищать интересы японских компаний, которые продолжают работу в РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "ae1c6e10fe86f679d03592af1375aee845dc7a6a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27556277",
-      "published_utc": "2026-05-28T01:34:18Z",
-      "title_en": "Journalist Mettan: neutrality will prevent Switzerland from introducing new sanctions against the Russian Federation",
-      "lead_en": "If the initiative is supported in a referendum, this will not lead to the abolition of existing restrictions, the writer noted",
-      "title_raw": "Журналист Меттан: нейтралитет не даст Швейцарии вводить новые санкции против РФ",
-      "lead_raw": "Если инициативу поддержат на референдуме, это не приведет к отмене уже действующих ограничений, отметил писатель",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
       "primary_topic": "economy"
     }
   ]

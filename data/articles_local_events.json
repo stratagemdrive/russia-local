@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-05-29T21:07:13Z",
+  "updated_at_utc": "2026-05-30T03:25:06Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 26,
+  "count": 23,
   "articles": [
+    {
+      "id": "3c2edf861c393b8464ba5494f63731eb74e4010e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2138969",
+      "published_utc": "2026-05-29T21:00:25Z",
+      "title_en": "NATO says drone that crashed in Romania was 'of Russian origin'",
+      "lead_en": "NATO is considering how to improve NATO countries’ defense against drones, a spokesperson for NATO’s Supreme Headquarters Allied Powers Europe said",
+      "title_raw": "NATO says drone that crashed in Romania was 'of Russian origin'",
+      "lead_raw": "NATO is considering how to improve NATO countries’ defense against drones, a spokesperson for NATO’s Supreme Headquarters Allied Powers Europe said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "f611000f1b6227f1e3b0c718095fa2d55bccba8c",
       "source": "RT",
@@ -228,7 +247,7 @@
       "url": "https://tass.ru/obschestvo/27573881",
       "published_utc": "2026-05-29T07:15:14Z",
       "title_en": "Emergency Situations Ministry officers took part in fire extinguishing exercises in Kazakhstan",
-      "lead_en": "The Russian delegation also visited a specialized fire station in Petropavlovsk",
+      "lead_en": "The Russian delegation also visited a specialized fire department in Petropavlovsk",
       "title_raw": "Офицеры МЧС приняли участие в учениях в Казахстане по ликвидации пожаров",
       "lead_raw": "Российская делегация также посетила специализированную пожарную часть в Петропавловске",
       "topic_scores": {
@@ -440,88 +459,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "cfbd822f74dd8c7d8f4aaef738e72255565f2b55",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27556403",
-      "published_utc": "2026-05-28T02:05:36Z",
-      "title_en": "Fighter Mafon: The Russian Armed Forces stretched and distracted the forces of the Ukrainian Armed Forces in Vozdvizhevka",
-      "lead_en": "The deputy commander of the \"Storm-1\" detachment noted that because of this, Ukrainian soldiers were forced to break into several pockets",
-      "title_raw": "Боец Мафон: ВС РФ растягивали и отвлекали силы ВСУ в Воздвижевке",
-      "lead_raw": "Замкомандира отряда \"Шторм-1\"отметил, что из-за этого украинские солдаты были вынуждены разрываться на несколько очагов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "1817292fdfc6da3c242be5cfd07811edddcb43fe",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27556399",
-      "published_utc": "2026-05-28T02:04:39Z",
-      "title_en": "Fighter Mafon: The Russian Armed Forces used a ram to clear the sky of Ukrainian Armed Forces drones over Vozdvizhevka",
-      "lead_en": "The deputy commander of the Storm-1 detachment said that the Russian military used both FPV drones and Mavic",
-      "title_raw": "Боец Мафон: ВС РФ тараном очищали небо от дронов ВСУ над Воздвижевкой",
-      "lead_raw": "Замкомандира отряда \"Шторм-1\" рассказал, что российские военные использовали как FPV-дроны, так и Mavic",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "d76c554dcd34b53e8b88eded6ccb08ec77c1a229",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27556381",
-      "published_utc": "2026-05-28T02:03:46Z",
-      "title_en": "Fighter Mafon: The Russian Armed Forces destroyed up to two companies of Ukrainian Armed Forces militants in Vozdvizhevka",
-      "lead_en": "The deputy commander of the \"Storm-1\" detachment noted that we are talking about the military units \"Skala\" and \"Shkval\"",
-      "title_raw": "Боец Мафон: ВС РФ уничтожили в Воздвижевке до двух рот боевиков ВСУ",
-      "lead_raw": "Замкомандира отряда \"Шторм-1\" отметил, что речь идет о военных подразделений \"Скала\" и \"Шквал\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "89ebd124149fdde80d2bbfdcd1f6a568d73a6a88",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27556355",
-      "published_utc": "2026-05-28T02:01:09Z",
-      "title_en": "Azarov: The West is not starting evacuation from Kyiv, because it doesn’t care about people",
-      "lead_en": "Ukraine and Western countries are also not heeding warnings because it would confirm they were lying in their assessments of Russian weapons, a former Ukrainian prime minister said",
-      "title_raw": "Азаров: Запад не начинает эвакуацию из Киева, так как ему плевать на людей",
-      "lead_raw": "Украина и западные страны также не прислушиваются к предупреждениям, поскольку это подтвердит, что они врали в своих оценках российского оружия, заявил бывший украинский премьер-министр",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
