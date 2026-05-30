@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-05-30T19:15:37Z",
+  "updated_at_utc": "2026-05-30T20:57:20Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 20,
@@ -34,6 +34,27 @@
       "lead_en": "Minister of Territorial Administration and Infrastructure David Khudatyan did not comment on the issue of a possible price increase and assured that interaction between partners is “in the natural working channel”",
       "title_raw": "В Ереване заявили об отсутствии проблем с поставками газа из России",
       "lead_raw": "Министр территориального управления и инфраструктур Давид Худатян не стал комментировать вопрос о возможном повышении цен и заверил, что взаимодействие партнерами идет \"в естественном рабочем русле\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "2f1978c10fa6bc5c8e842ccdeb4806920b73fa71",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2139073",
+      "published_utc": "2026-05-30T12:03:30Z",
+      "title_en": "Yerevan says there are no problems with gas supplies from Russia",
+      "lead_en": "Armenian Minister of Territorial Administration and Infrastructure Davit Khudatyan noted that supplies from Russia continue as usual and that there are no problematic issues",
+      "title_raw": "Yerevan says there are no problems with gas supplies from Russia",
+      "lead_raw": "Armenian Minister of Territorial Administration and Infrastructure Davit Khudatyan noted that supplies from Russia continue as usual and that there are no problematic issues",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
@@ -410,27 +431,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "3295d5b3ac3ccae557e25b62a2a27f337421d1d9",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/05/28/new-latvian-government-confirmed-after-ukrainian-drone-incursion-from-russia-collapses-coalition",
-      "published_utc": "2026-05-28T20:54:59Z",
-      "title_en": "New Latvian government confirmed after Ukrainian drone incursion from Russia collapses coalition",
-      "lead_en": "Latvia’s parliament, the Saeima, confirmed a new government at a special session, with Andris Kulbergs taking office as prime minister. Kulbergs leads the United List, a former opposition party.",
-      "title_raw": "New Latvian government confirmed after Ukrainian drone incursion from Russia collapses coalition",
-      "lead_raw": "Latvia’s parliament, the Saeima, confirmed a new government at a special session, with Andris Kulbergs taking office as prime minister. Kulbergs leads the United List, a former opposition party.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
