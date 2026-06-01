@@ -1,9 +1,73 @@
 {
-  "updated_at_utc": "2026-06-01T04:04:12Z",
+  "updated_at_utc": "2026-06-01T16:36:55Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 6,
   "articles": [
+    {
+      "id": "a367af790ba483b47a4ddaa06778326f62225a91",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2139707",
+      "published_utc": "2026-06-01T14:30:29Z",
+      "title_en": "US bases in Arab countries bring calamity to region — Russian deputy foreign minister",
+      "lead_en": "American military personnel have not been able to protect them from strikes, but have only brought disaster to these countries, Georgy Borisenko said",
+      "title_raw": "US bases in Arab countries bring calamity to region — Russian deputy foreign minister",
+      "lead_raw": "American military personnel have not been able to protect them from strikes, but have only brought disaster to these countries, Georgy Borisenko said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "d344afaf2db798f880673649c438861c4f164757",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2139649",
+      "published_utc": "2026-06-01T13:25:49Z",
+      "title_en": "Russia expects US-Iran dialogue to continue toward final deal — deputy foreign minister",
+      "lead_en": "According to Georgy Borisenko, Moscow \"is convinced of the need to maintain the situation on a political and diplomatic track, to prevent the collapse of negotiating efforts and a recurrence of military confrontation\"",
+      "title_raw": "Russia expects US-Iran dialogue to continue toward final deal — deputy foreign minister",
+      "lead_raw": "According to Georgy Borisenko, Moscow \"is convinced of the need to maintain the situation on a political and diplomatic track, to prevent the collapse of negotiating efforts and a recurrence of military confrontation\"",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "09b2c0587c2e178968d69239f92619815d4c520e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/society/2139485",
+      "published_utc": "2026-06-01T09:14:35Z",
+      "title_en": "Russia’s Zaporozhye Region reveals number of kids killed in Ukrainian attacks since 2022",
+      "lead_en": "The regional health ministry reported that 16 children died, while 118 minors were injured",
+      "title_raw": "Russia’s Zaporozhye Region reveals number of kids killed in Ukrainian attacks since 2022",
+      "lead_raw": "The regional health ministry reported that 16 children died, while 118 minors were injured",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "d814ebddc7e947ea945ea4515fcde68dc4ee76a3",
       "source": "TASS (RU)",
@@ -51,65 +115,6 @@
       "lead_en": "This was reported to the Russian Ministry of Emergency Situations",
       "title_raw": "В Адыгее объявили беспилотную опасность",
       "lead_raw": "Об этом сообщили в МЧС России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "f63678b60a353d577c63a4decf852efe005306d0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27586291",
-      "published_utc": "2026-05-30T09:36:01Z",
-      "title_en": "Overchuk: Russia and Belarus will continue medical assistance to victims of the Chernobyl accident",
-      "lead_en": "The assistance is provided free of charge, the Russian Deputy Prime Minister emphasized",
-      "title_raw": "Оверчук: РФ и Белоруссия продолжат медпомощь пострадавшим из-за аварии на ЧАЭС",
-      "lead_raw": "Помощь оказывается бесплатно, подчеркнул вице-премьер России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "b0e13bff7fbc5bf07eaa034330055c16c43bcdfd",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2139035",
-      "published_utc": "2026-05-30T08:16:44Z",
-      "title_en": "Ukrainian forces attacked Russia’s Belgorod Region 55 times over past day",
-      "lead_en": "As a result of the attacks, three people were killed and another three were injured, acting regional governor Alexander Shuvalev said",
-      "title_raw": "Ukrainian forces attacked Russia’s Belgorod Region 55 times over past day",
-      "lead_raw": "As a result of the attacks, three people were killed and another three were injured, acting regional governor Alexander Shuvalev said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "830ef23790be303daee017ec2bd6bc8522f5d2b7",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2139015",
-      "published_utc": "2026-05-30T05:58:00Z",
-      "title_en": "Around 50 UAVs destroyed in cities and districts of Russia’s Rostov Region",
-      "lead_en": "A man and a woman were injured in the attack in Taganrog, the regional governor Yury Slyusar said",
-      "title_raw": "Around 50 UAVs destroyed in cities and districts of Russia’s Rostov Region",
-      "lead_raw": "A man and a woman were injured in the attack in Taganrog, the regional governor Yury Slyusar said",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
