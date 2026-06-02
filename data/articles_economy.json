@@ -1,9 +1,319 @@
 {
-  "updated_at_utc": "2026-06-02T12:41:39Z",
+  "updated_at_utc": "2026-06-02T17:23:04Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 60,
+  "count": 71,
   "articles": [
+    {
+      "id": "2b8fddfca35f2132b99932884fb59d6e0cd0c743",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2140435",
+      "published_utc": "2026-06-02T16:48:36Z",
+      "title_en": "Bank of Russia set dollar rate at 72.56 rubles for June 3",
+      "lead_en": "The official yuan rate was set at 10.73 rubles",
+      "title_raw": "Bank of Russia set dollar rate at 72.56 rubles for June 3",
+      "lead_raw": "The official yuan rate was set at 10.73 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "ae59c22dfa8691c8fd8aee5b47c68571be9004df",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27616841",
+      "published_utc": "2026-06-02T16:25:23Z",
+      "title_en": "In the KBR, more than 140 high school students from the LPR participate in the “University Shifts”",
+      "lead_en": "Project participants held an online meeting with Deputy Minister of Science and Higher Education of the Russian Federation Olga Petrova and Vice-Rector for Economics and Strategic Development of KBSU Aslan Pshigoshev",
+      "title_raw": "В КБР более 140 старшеклассников из ЛНР участвуют в \"Университетских сменах\"",
+      "lead_raw": "Участники проекта провели онлайн-встречу с заместителем министра науки и высшего образования РФ Ольгой Петровой и проректором по экономике и стратегическому развитию КБГУ Асланом Пшигошевым",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "69625c7e56612c7a85782e00f91066ab34576f14",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27616611",
+      "published_utc": "2026-06-02T16:13:31Z",
+      "title_en": "The head of the Ministry of Defense of Belarus discussed military-technical cooperation with the Russian Federation in Moscow",
+      "lead_en": "Lieutenant General Viktor Khrenin also visited one of the enterprises of the Russian military-industrial complex",
+      "title_raw": "Глава Минобороны Белоруссии обсудил в Москве военно-техническое сотрудничество с РФ",
+      "lead_raw": "Генерал-лейтенант Виктор Хренин также посетил одно из предприятий российского оборонно-промышленного комплекса",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "00383d24b33196006309d4485de95249f1b2508b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2140417",
+      "published_utc": "2026-06-02T15:57:29Z",
+      "title_en": "Russia, US do not discuss sanctions in their dialogue to address irritants — MFA",
+      "lead_en": "According to Alexander Gusarov, Moscow proceeds from the fact that Washington and other Western capitals themselves must mature to the point of understanding the inconsistency and futility of such self-imposed prohibitions",
+      "title_raw": "Russia, US do not discuss sanctions in their dialogue to address irritants — MFA",
+      "lead_raw": "According to Alexander Gusarov, Moscow proceeds from the fact that Washington and other Western capitals themselves must mature to the point of understanding the inconsistency and futility of such self-imposed prohibitions",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "0625c720d561ac96c2a4f83761eff537ebfc8e99",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27616419",
+      "published_utc": "2026-06-02T15:32:55Z",
+      "title_en": "Rubio: US economy does not need suspension of sanctions against Russian oil",
+      "lead_en": "However, other economies around the world are benefiting from this, said the US Secretary of State",
+      "title_raw": "Рубио: экономика США не нуждается в приостановке санкций против нефти РФ",
+      "lead_raw": "Однако другие экономики по всему миру извлекают из этого выгоду, заявил госсекретарь США",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "19a96e6bebbc194dd1b68ee8a8d7efe3d337dd8e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27616389",
+      "published_utc": "2026-06-02T15:26:28Z",
+      "title_en": "\"Autostat\": Atom electric cars are registered in Russia for the first time",
+      "lead_en": "In May, four new passenger models and one bus entered the market, the analytical agency specified.",
+      "title_raw": "\"Автостат\": электромобили \"Атом\" впервые встали на учет в России",
+      "lead_raw": "В мае на рынок вышли четыре новые легковые модели и один автобус, уточнили в аналитическом агентстве",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "bc122dee7a142c8993d456594ba3b3f216f564d8",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27616325",
+      "published_utc": "2026-06-02T15:18:35Z",
+      "title_en": "Kostin: Russia has every chance of reaching 4% inflation in 2027",
+      "lead_en": "The discount rate of the Central Bank is being reduced, which leads to a revival of lending, noted the President and Chairman of the Board of VTB",
+      "title_raw": "Костин: РФ имеет все шансы выйти на инфляцию в 4% в 2027 году",
+      "lead_raw": "Снижается учетная ставка Центрального банка, что ведет к оживлению кредитования, отметил президент - председатель правления ВТБ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "8e4f461ae1c33f29c75b3023c99433a1c3abbf57",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/06/02/supermarket-chain-lenta-acquires-rival-okey-a92906",
+      "published_utc": "2026-06-02T14:38:00Z",
+      "title_en": "Supermarket Chain Lenta Acquires Rival O’Key",
+      "lead_en": "Industry analysts expect the acquisition to consolidate Lenta’s dominance over the large-format grocery sector, placing 39% of Russia’s entire hypermarket industry under its corporate control.",
+      "title_raw": "Supermarket Chain Lenta Acquires Rival O’Key",
+      "lead_raw": "Industry analysts expect the acquisition to consolidate Lenta’s dominance over the large-format grocery sector, placing 39% of Russia’s entire hypermarket industry under its corporate control.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "f8b854ade0e62c8a406595918b137f7d6e21f859",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/06/02/russian-billionaires-donate-3bln-to-state-treasury-as-deficit-widens-expert-a92904",
+      "published_utc": "2026-06-02T14:03:00Z",
+      "title_en": "Russian Billionaires Donate $3Bln to State Treasury as Deficit Widens – Expert",
+      "lead_en": "Analysts said that while the money represents a fraction of total government spending, it can plug up to 15% of the country’s soaring budget shortfall.",
+      "title_raw": "Russian Billionaires Donate $3Bln to State Treasury as Deficit Widens – Expert",
+      "lead_raw": "Analysts said that while the money represents a fraction of total government spending, it can plug up to 15% of the country’s soaring budget shortfall.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "34a1a0b64918d17b535261e348f614789e45f849",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2140241",
+      "published_utc": "2026-06-02T13:54:58Z",
+      "title_en": "India pays high attention to participation in SPIEF — Foreign Ministry",
+      "lead_en": "Official Spokesperson of the Indian Ministry of External Affairs Randhir Jaiswal noted that India had very strong ties with Russia in several areas, including trade and economy",
+      "title_raw": "India pays high attention to participation in SPIEF — Foreign Ministry",
+      "lead_raw": "Official Spokesperson of the Indian Ministry of External Affairs Randhir Jaiswal noted that India had very strong ties with Russia in several areas, including trade and economy",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "68d5d00b34e450cab950013ae1790096fb394f8e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2140235",
+      "published_utc": "2026-06-02T13:42:52Z",
+      "title_en": "Hydrocarbon exploration investment in Russia declines in 2025 — ministry",
+      "lead_en": "According to Russian Natural Resources and Environment Minister Alexander Kozlov, the reduction in investment mainly occurred due to a decrease in exploration drilling volumes",
+      "title_raw": "Hydrocarbon exploration investment in Russia declines in 2025 — ministry",
+      "lead_raw": "According to Russian Natural Resources and Environment Minister Alexander Kozlov, the reduction in investment mainly occurred due to a decrease in exploration drilling volumes",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "31ab4726a5f217e73ed803f8d456947b019e49c8",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2140231",
+      "published_utc": "2026-06-02T13:32:07Z",
+      "title_en": "Robotization, GenAI to boost Russian labor productivity — Sber",
+      "lead_en": "The study authors noted that in 2026, the Russian labor market is in the point of fundamental transformation, as traditional methods of increasing employment intensity reached their limits",
+      "title_raw": "Robotization, GenAI to boost Russian labor productivity — Sber",
+      "lead_raw": "The study authors noted that in 2026, the Russian labor market is in the point of fundamental transformation, as traditional methods of increasing employment intensity reached their limits",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "8bd4a0e420d000a2c7eeabf2bb1f7b8cef56f0e0",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/06/02/russia-extends-armenia-import-bans-to-apples-eggplants-and-dried-fruit-pashinyan-promises-subsidies-for-affected-exporters",
+      "published_utc": "2026-06-02T13:25:48Z",
+      "title_en": "Russia extends Armenia import bans to apples, eggplants, and dried fruit. Pashinyan promises subsidies for affected exporters.",
+      "lead_en": "Russia’s Federal Service for Veterinary and Phytosanitary Surveillance has banned imports of potatoes, eggplants, pome fruits — apples, pears, and quince — and dried fruit from Armenia, effective June 3, 2026.",
+      "title_raw": "Russia extends Armenia import bans to apples, eggplants, and dried fruit. Pashinyan promises subsidies for affected exporters.",
+      "lead_raw": "Russia’s Federal Service for Veterinary and Phytosanitary Surveillance has banned imports of potatoes, eggplants, pome fruits — apples, pears, and quince — and dried fruit from Armenia, effective June 3, 2026.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "d2c75fec7e63f6794e7780bf251631b283a381e3",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2140229",
+      "published_utc": "2026-06-02T13:24:27Z",
+      "title_en": "Armenia’s share in Russian cherry, apricot imports just 2% — expert",
+      "lead_en": "\"Restrictions on imports from Armenia will hardly affect the Russian market,\" Anna Fedyunina added",
+      "title_raw": "Armenia’s share in Russian cherry, apricot imports just 2% — expert",
+      "lead_raw": "\"Restrictions on imports from Armenia will hardly affect the Russian market,\" Anna Fedyunina added",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "176e7c2b6cea349f341f66c19a3d3292f3c687ef",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2140201",
+      "published_utc": "2026-06-02T12:51:36Z",
+      "title_en": "Tanzania plans to sign education, investment agreements with Russia",
+      "lead_en": "Tanzanian President Samia Suluhu Hassan intends to participate in the St. Petersburg International Economic Forum, where she will address the plenary session",
+      "title_raw": "Tanzania plans to sign education, investment agreements with Russia",
+      "lead_raw": "Tanzanian President Samia Suluhu Hassan intends to participate in the St. Petersburg International Economic Forum, where she will address the plenary session",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "2e50ba3ffb7ee99a79d84ca5f15f946ca900dbe7",
       "source": "TASS (RU)",
@@ -1115,87 +1425,6 @@
         "local_events": 0
       },
       "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "6a6c1fbe22efdad94c6ec4b9d69c4a97021fe6b4",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27592455",
-      "published_utc": "2026-05-31T17:07:57Z",
-      "title_en": "Bloomberg: The EU has begun to look for ways to help Euroclear in the situation with the collection of funds",
-      "lead_en": "According to the agency, EU countries are at the initial stage of analyzing options for assisting Euroclear after a court ruling to recover about €200 billion in favor of the Central Bank of Russia",
-      "title_raw": "Bloomberg: ЕС начал искать способы помочь Euroclear в ситуации со взысканием средств",
-      "lead_raw": "По данным агентства, страны ЕС находятся на начальном этапе анализа вариантов оказания помощи Euroclear после постановления суда о взыскании около €200 млрд в пользу Центрального банка России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "5a91f4a1f803b883860f99d4ea8a12f5a758e9dc",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2139271",
-      "published_utc": "2026-05-31T14:32:07Z",
-      "title_en": "EU exploring possibility of temporarily lifting price cap on Russian oil — Bloomberg",
-      "lead_en": "Last year the EU introduced a mechanism ensuring that every six months the price cap for Russian Urals crude oil is automatically set at 15% below the average market price",
-      "title_raw": "EU exploring possibility of temporarily lifting price cap on Russian oil — Bloomberg",
-      "lead_raw": "Last year the EU introduced a mechanism ensuring that every six months the price cap for Russian Urals crude oil is automatically set at 15% below the average market price",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "10a0513293dfd45ccce27ed0d83e4fd1863dfa1d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27591949",
-      "published_utc": "2026-05-31T13:58:56Z",
-      "title_en": "Cifra Markets: a multiple increase in the number of crypto accounts is expected in Russia",
-      "lead_en": "The company's executive director, Alexey Korolenko, noted that it is important for the average investor to create a simple and understandable user path - buying and selling assets by pressing one button on a smartphone in the application",
-      "title_raw": "Cifra Markets: в России ожидается кратный рост числа криптосчетов",
-      "lead_raw": "Исполнительный директор компании Алексей Короленко отметил, что для рядового инвестора важно сделать простой и понятный пользовательский путь - покупку и продажу активов нажатием одной кнопки на смартфоне в приложении",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "6f2fb8179ba8e2f12cba86b04da5db891976bc5d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27591903",
-      "published_utc": "2026-05-31T13:52:27Z",
-      "title_en": "Dmitriev: Russia is expecting a large delegation of German companies at SPIEF",
-      "lead_en": "The Special Representative of the President of the Russian Federation for investment and economic cooperation with foreign countries noted that representatives of German business are showing the right path to German politicians",
-      "title_raw": "Дмитриев: Россия ждет крупную делегацию компаний ФРГ на ПМЭФ",
-      "lead_raw": "Спецпредставитель президента РФ по инвестиционно-экономическому сотрудничеству с зарубежными странами отметил, что представители бизнеса Германии показывают правильный путь немецким политикам",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "economy"
-      ],
       "primary_topic": "economy"
     }
   ]

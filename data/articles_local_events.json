@@ -1,8 +1,8 @@
 {
-  "updated_at_utc": "2026-06-02T12:41:39Z",
+  "updated_at_utc": "2026-06-02T17:23:04Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 9,
+  "count": 10,
   "articles": [
     {
       "id": "759324276e6a2986b7e1bf8461c59028b11522df",
@@ -34,6 +34,27 @@
       "lead_en": "The Russian military launched a massive missile and drone strike against Ukraine in the early hours of June 2. In Kyiv, multi-story apartment buildings were damaged.",
       "title_raw": "In photos: Russia launches a massive drone and missile strike on Ukraine, leaving 17 dead and nearly 100 injured",
       "lead_raw": "The Russian military launched a massive missile and drone strike against Ukraine in the early hours of June 2. In Kyiv, multi-story apartment buildings were damaged.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "1e849a7b5cc7867168010ba562c2990991abfc6a",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/06/02/at-least-21-killed-in-russian-strikes-across-ukraine-a92898",
+      "published_utc": "2026-06-02T08:06:00Z",
+      "title_en": "At Least 21 Killed in Russian Strikes Across Ukraine",
+      "lead_en": "Russia’s Defense Ministry claimed it had targeted defense production plants and transportation infrastructure used by Ukraine’s military.",
+      "title_raw": "At Least 21 Killed in Russian Strikes Across Ukraine",
+      "lead_raw": "Russia’s Defense Ministry claimed it had targeted defense production plants and transportation infrastructure used by Ukraine’s military.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 2,

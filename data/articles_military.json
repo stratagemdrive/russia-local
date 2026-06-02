@@ -1,9 +1,95 @@
 {
-  "updated_at_utc": "2026-06-02T12:41:39Z",
+  "updated_at_utc": "2026-06-02T17:23:04Z",
   "keep_hours": 48,
   "topic": "military",
-  "count": 84,
+  "count": 89,
   "articles": [
+    {
+      "id": "48ff6e188605cc14f7f1f46fd22d4baa3d2a5d23",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2140439",
+      "published_utc": "2026-06-02T17:01:50Z",
+      "title_en": "Russian Foreign Ministry releases updated concept for security in Gulf region",
+      "lead_en": "Moscow is convinced that the foundation for a new, sustainable architecture of interstate relations must be based on the fundamental principles of respecting the legitimate interests of all countries in the region",
+      "title_raw": "Russian Foreign Ministry releases updated concept for security in Gulf region",
+      "lead_raw": "Moscow is convinced that the foundation for a new, sustainable architecture of interstate relations must be based on the fundamental principles of respecting the legitimate interests of all countries in the region",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "69625c7e56612c7a85782e00f91066ab34576f14",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27616611",
+      "published_utc": "2026-06-02T16:13:31Z",
+      "title_en": "The head of the Ministry of Defense of Belarus discussed military-technical cooperation with the Russian Federation in Moscow",
+      "lead_en": "Lieutenant General Viktor Khrenin also visited one of the enterprises of the Russian military-industrial complex",
+      "title_raw": "Глава Минобороны Белоруссии обсудил в Москве военно-техническое сотрудничество с РФ",
+      "lead_raw": "Генерал-лейтенант Виктор Хренин также посетил одно из предприятий российского оборонно-промышленного комплекса",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "149b2566692cd6820e09811d6a1518ac6c2f785b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27615763",
+      "published_utc": "2026-06-02T15:28:06Z",
+      "title_en": "Miroshnik: The ICRC delegation inspected the rooms of those killed in the attack on a college in the LPR",
+      "lead_en": "Representatives of the international organization received confirmation that a series of strikes were carried out on the territory of educational institutions, said the Ambassador at Large of the Russian Foreign Ministry on the crimes of the Kyiv regime",
+      "title_raw": "Мирошник: делегация МККК осмотрела комнаты погибших при атаке на колледж в ЛНР",
+      "lead_raw": "Представители международной организации получили подтверждения, что по территории образовательных учреждений была нанесена серия ударов, заявил посол по особым поручениям МИД РФ по вопросам преступлений киевского режима",
+      "topic_scores": {
+        "diplomacy": 3,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "f5bd0eea25b7569d61bac52acf38ed63fcc1ffb4",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2140401",
+      "published_utc": "2026-06-02T15:21:17Z",
+      "title_en": "Russia strikes Ukrainian military sites in retaliation to Kiev’s attack on Starobelsk",
+      "lead_en": "The Russian Armed Forces delivered a massive strike by airborne, ground-based and seaborne long-range precision weapons, including air-launched hypersonic ballistic missiles and attack unmanned aerial vehicles",
+      "title_raw": "Russia strikes Ukrainian military sites in retaliation to Kiev’s attack on Starobelsk",
+      "lead_raw": "The Russian Armed Forces delivered a massive strike by airborne, ground-based and seaborne long-range precision weapons, including air-launched hypersonic ballistic missiles and attack unmanned aerial vehicles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 4,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "25ec68b7f14379ad8f16a82866f3cc084201abc6",
       "source": "Meduza (EN)",
@@ -398,6 +484,27 @@
         "energy": 0,
         "economy": 0,
         "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "1e849a7b5cc7867168010ba562c2990991abfc6a",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/06/02/at-least-21-killed-in-russian-strikes-across-ukraine-a92898",
+      "published_utc": "2026-06-02T08:06:00Z",
+      "title_en": "At Least 21 Killed in Russian Strikes Across Ukraine",
+      "lead_en": "Russia’s Defense Ministry claimed it had targeted defense production plants and transportation infrastructure used by Ukraine’s military.",
+      "title_raw": "At Least 21 Killed in Russian Strikes Across Ukraine",
+      "lead_raw": "Russia’s Defense Ministry claimed it had targeted defense production plants and transportation infrastructure used by Ukraine’s military.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
       },
       "topics": [
         "military"
