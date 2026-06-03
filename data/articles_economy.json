@@ -1,9 +1,555 @@
 {
-  "updated_at_utc": "2026-06-03T09:25:24Z",
+  "updated_at_utc": "2026-06-03T14:28:53Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 82,
+  "count": 101,
   "articles": [
+    {
+      "id": "7725e085d38842351e776902b8daaab264dd4cc5",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2140933",
+      "published_utc": "2026-06-03T14:20:16Z",
+      "title_en": "VTB chief announces growing interest in Russia from Chinese, Persian Gulf investors",
+      "lead_en": "Andrey Kostin noted that the Russian market needed foreign investors",
+      "title_raw": "VTB chief announces growing interest in Russia from Chinese, Persian Gulf investors",
+      "lead_raw": "Andrey Kostin noted that the Russian market needed foreign investors",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "7611b0deae7a80e837bab5fb73847ce241350a63",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27631187",
+      "published_utc": "2026-06-03T14:10:39Z",
+      "title_en": "The \"Strong Armenia\" bloc declared its commitment to agreements with Russia",
+      "lead_en": "Everything must be done to prevent cooling and maintain good trade relations, said party leader Narek Karapetyan",
+      "title_raw": "Блок \"Сильная Армения\" заявил о приверженности договоренностям с Россией",
+      "lead_raw": "Нужно сделать все, чтобы не допустить охлаждения и сохранить хорошие торговые отношения, отметил лидер партии Нарек Карапетян",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "41cac108856e81fa8951a8323dc94f043438ab7a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27631197",
+      "published_utc": "2026-06-03T14:07:37Z",
+      "title_en": "PSB: Russians have become more active in saving and investing over the year",
+      "lead_en": "The overall index of savings and investment activity reached 55 points, as noted in a study by the bank, NIFI of the Ministry of Finance of Russia and the Analytical Center NAFI",
+      "title_raw": "ПСБ: россияне стали за год активнее сберегать и инвестировать",
+      "lead_raw": "Общий индекс сберегательно-инвестиционной активности достиг 55 пунктов, отмечается в исследовании банка, НИФИ Минфина России и Аналитического центра НАФИ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "51b7f16742b2d26f659e0995fdbdd625389d16d3",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27631183",
+      "published_utc": "2026-06-03T14:05:30Z",
+      "title_en": "MTS Bank will cooperate with Kaspersky Lab in the field of cyber protection",
+      "lead_en": "The key goal of the partnership is the development of information security in Russia",
+      "title_raw": "МТС-банк будет сотрудничать с \"Лабораторией Касперского\" в области киберзащиты",
+      "lead_raw": "Ключевой целью партнерства является развитие информационной безопасности в России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "19deae49c8b961fd1a673a43ee4086439d315e42",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27631143",
+      "published_utc": "2026-06-03T14:05:04Z",
+      "title_en": "Kostin: WB and Ozon dominate the Russian market",
+      "lead_en": "They are likely to displace other players, the head of VTB noted",
+      "title_raw": "Костин: WB и Ozon преобладают на рынке России",
+      "lead_raw": "Они, вероятно, вытеснят остальных игроков, отметил глава ВТБ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "7e9953d7e0ad7d74f10bdf6fc2c1902855928fd5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27631115",
+      "published_utc": "2026-06-03T14:02:27Z",
+      "title_en": "Rosselkhoznadzor suspended the export of pet food from Nestlé-Russia",
+      "lead_en": "The basis for this was systemic violations when taking samples and conducting laboratory tests to confirm product compliance with the requirements of importing countries",
+      "title_raw": "Россельхознадзор приостановил экспорт кормов для домашних животных \"Нестле-Россия\"",
+      "lead_raw": "Основанием для этого послужили системные нарушения при взятии образцов и проведении лабораторных исследований для подтверждения соответствия продукции требованиям стран - импортеров",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "c75eac4a3cdf685463804054c0c33e77772eee51",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27631035",
+      "published_utc": "2026-06-03T13:58:49Z",
+      "title_en": "VTB plans to obtain licenses to work with cryptocurrencies",
+      "lead_en": "The bank is preparing to adopt a law to regulate this market in Russia, noted its board member Vitaly Sergeychuk",
+      "title_raw": "ВТБ планирует получить лицензии для работы с криптовалютами",
+      "lead_raw": "Банк готовится к принятию закона о регулировании этого рынка в России, отметил его член правления Виталий Сергейчук",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "f725c1d0891faa63d4bb7b69b988af527b233fe5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27630967",
+      "published_utc": "2026-06-03T13:54:25Z",
+      "title_en": "The Moscow Department of Industry urged not to purchase imported microelectronics if there is an analogue in the Russian Federation",
+      "lead_en": "Without such regulation, it will be impossible to reach the advanced level of production of chips and various components, noted Anatoly Garbuzov, head of the capital’s investment and industrial policy department.",
+      "title_raw": "В Деппроме Москвы призвали не закупать импортную микроэлектронику при наличии аналога в РФ",
+      "lead_raw": "Без такого регулирования будет невозможно выйти на передовой уровень производства чипов и различных комплектующих, отметил руководитель департамента инвестиционной и промышленной политики столицы Анатолий Гарбузов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "625671fa516f9cd847af38c5f9c4bad74534ce2c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27630943",
+      "published_utc": "2026-06-03T13:52:58Z",
+      "title_en": "\"Business Russia\" proposed a system of grading requirements for SMEs to enter an IPO",
+      "lead_en": "The main idea of ​​such a system is to give companies the opportunity to enter the public market without strict requirements at the start, while immediately indicating to investors the appropriate level of risk, noted Ale, head of the Business Russia subcommittee on public capita",
+      "title_raw": "\"Деловая Россия\" предложила систему градаций требований к МСП для выхода на IPO",
+      "lead_raw": "Главная идея такой системы заключается в том, чтобы дать компаниям возможность выйти на публичный рынок без жестких требований на старте, при этом сразу обозначив инвесторам соответствующий уровень риска, отметил глава подкомитета \"Деловой России\" по публичным рынкам капитала Але",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "1334d4642fccefa213c4c960a94c3245af1c6be1",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27630925",
+      "published_utc": "2026-06-03T13:50:57Z",
+      "title_en": "The maximum rate on deposits in rubles in the third ten days of May decreased to 12.97%",
+      "lead_en": "According to the Central Bank of the Russian Federation, in the first and second decades of May the figure was 13.04% per annum",
+      "title_raw": "Максимальная ставка по вкладам в рублях в III декаде мая снизилась до 12,97%",
+      "lead_raw": "Согласно данным ЦБ РФ, в первой и второй декадах мая показатель составлял 13,04% годовых",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "1402132c61ca0b3415b2513dc2cd208e93a79a2e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2140903",
+      "published_utc": "2026-06-03T13:47:28Z",
+      "title_en": "Bank of Russia purchases yuan worth $16 mln with settlements on June 2",
+      "lead_en": "The Central Bank also purchased yuan on the domestic market in the amount of $16.2 mln with settlements on June 1",
+      "title_raw": "Bank of Russia purchases yuan worth $16 mln with settlements on June 2",
+      "lead_raw": "The Central Bank also purchased yuan on the domestic market in the amount of $16.2 mln with settlements on June 1",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "c3d70373f4fdf291aec5b280d77ee69c994b8c0d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27630569",
+      "published_utc": "2026-06-03T13:36:32Z",
+      "title_en": "Sberbank pointed to a reduction in the scale of the problem of external payments for business from the Russian Federation",
+      "lead_en": "Deputy Chairman of the Board of the Bank Anatoly Popov noted that this was due to the more flexible offer of various providers and alternative payment mechanisms",
+      "title_raw": "Сбербанк указал на сокращение масштабов проблемы внешних расчетов бизнеса из РФ",
+      "lead_raw": "Зампредседателя правления банка Анатолий Попов отметил, что на это произошло благодаря более гибкому предложению различных провайдеров и альтернативным механизмам расчетов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "c3469a50be00d401482ccf2c141c64c39b6bcd46",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2140855",
+      "published_utc": "2026-06-03T13:01:05Z",
+      "title_en": "Kazakhstan, India and China are Moscow’s main trade partners",
+      "lead_en": "According to Vitaly Stepanov, Moscow accounts for about 17% of the total Russian supplies to countries in the Asian region at present",
+      "title_raw": "Kazakhstan, India and China are Moscow’s main trade partners",
+      "lead_raw": "According to Vitaly Stepanov, Moscow accounts for about 17% of the total Russian supplies to countries in the Asian region at present",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "50f71d1cf86c8c34303eff8f8481cf7505c1ded8",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2140819",
+      "published_utc": "2026-06-03T12:24:59Z",
+      "title_en": "Moldova has zero economic growth due to severance of relations with Russia — Dodon",
+      "lead_en": "Some 400,000 people have left the country in the last three years, the former Moldova's president said",
+      "title_raw": "Moldova has zero economic growth due to severance of relations with Russia — Dodon",
+      "lead_raw": "Some 400,000 people have left the country in the last three years, the former Moldova's president said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "a5c3ae455bf707d12fd1785f8a6f63e4ce3faba0",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2140821",
+      "published_utc": "2026-06-03T12:23:18Z",
+      "title_en": "Expert RA expects Bank of Russia to cut key rate by 50 basis points at next meeting",
+      "lead_en": "According to Marina Chekurova, the economic situation requires a faster and more substantial rate cut",
+      "title_raw": "Expert RA expects Bank of Russia to cut key rate by 50 basis points at next meeting",
+      "lead_raw": "According to Marina Chekurova, the economic situation requires a faster and more substantial rate cut",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "08fcd3cfb227cc7f45b3d4f7b33d4223090448c7",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/06/03/in-photos-ukrainian-drones-hit-st-petersburg-on-first-day-of-economic-forum",
+      "published_utc": "2026-06-03T12:17:01Z",
+      "title_en": "In Photos: Ukrainian drones hit St. Petersburg on first day of economic forum",
+      "lead_en": "On the opening day of the St. Petersburg International Economic Forum, Ukrainian drones struck northwestern Russia, with air defenses downing nearly 60 in the Leningrad region.",
+      "title_raw": "In Photos: Ukrainian drones hit St. Petersburg on first day of economic forum",
+      "lead_raw": "On the opening day of the St. Petersburg International Economic Forum, Ukrainian drones struck northwestern Russia, with air defenses downing nearly 60 in the Leningrad region.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "aa346274616bc85b58b01c630b4f78cb67016c2a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2140791",
+      "published_utc": "2026-06-03T11:52:49Z",
+      "title_en": "Russia cannot unilaterally normalize relations with Moldova — envoy",
+      "lead_en": "\"Political will is required, and ultimately an understanding of basic economic processes on the part of the Moldovan leadership,\" Oleg Ozerov said",
+      "title_raw": "Russia cannot unilaterally normalize relations with Moldova — envoy",
+      "lead_raw": "\"Political will is required, and ultimately an understanding of basic economic processes on the part of the Moldovan leadership,\" Oleg Ozerov said",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "9416a1a637cb5efa2c23fa1527459357b0f99a0d",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2140785",
+      "published_utc": "2026-06-03T11:46:39Z",
+      "title_en": "Russia demonstrates resilience, ready to overcome difficulties — Deputy Foreign Minister",
+      "lead_en": "Alexander Pankin stressed that Russia is a great power with vast economic potential, rather than a \"gas station,\" as the country had been \"thoughtlessly dubbed\" in the past",
+      "title_raw": "Russia demonstrates resilience, ready to overcome difficulties — Deputy Foreign Minister",
+      "lead_raw": "Alexander Pankin stressed that Russia is a great power with vast economic potential, rather than a \"gas station,\" as the country had been \"thoughtlessly dubbed\" in the past",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "f443dec65135ca3b2481f7f4fc116fc9fb87f934",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2140787",
+      "published_utc": "2026-06-03T11:45:10Z",
+      "title_en": "Trade turnover between Russia, Moldova could potentially reach $1 bln — Russian envoy",
+      "lead_en": "According to Oleg Ozerov, this primarily includes agricultural products and industrial goods",
+      "title_raw": "Trade turnover between Russia, Moldova could potentially reach $1 bln — Russian envoy",
+      "lead_raw": "According to Oleg Ozerov, this primarily includes agricultural products and industrial goods",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "a073c78ff99ed1dc6c102896b2317e4876fe6ef3",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2140781",
+      "published_utc": "2026-06-03T11:34:04Z",
+      "title_en": "Many US companies to return to Russia after conflict ends — AmCham chief",
+      "lead_en": "The sanctions will not change until the conflict end, Robert Agee said",
+      "title_raw": "Many US companies to return to Russia after conflict ends — AmCham chief",
+      "lead_raw": "The sanctions will not change until the conflict end, Robert Agee said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "7d682606c26ddaded58200a87bcec2a85bac10a9",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2140775",
+      "published_utc": "2026-06-03T11:28:19Z",
+      "title_en": "US businesses have yet to see easing of sanctions pressure on Russia — AmCham chief",
+      "lead_en": "Robert Agee stressed that the majority of American companies had remained in Russia and were operating well and successfully",
+      "title_raw": "US businesses have yet to see easing of sanctions pressure on Russia — AmCham chief",
+      "lead_raw": "Robert Agee stressed that the majority of American companies had remained in Russia and were operating well and successfully",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "0645e4a9f096e19c7c3a953cdb6be6dc91299487",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2140765",
+      "published_utc": "2026-06-03T11:14:21Z",
+      "title_en": "Second US-Russian presidents’ summit to improve relations between two states — AmCham",
+      "lead_en": "Robert Agee noted that despite the fact that there was dialogue, the level of sanctions had not yet changed",
+      "title_raw": "Second US-Russian presidents’ summit to improve relations between two states — AmCham",
+      "lead_raw": "Robert Agee noted that despite the fact that there was dialogue, the level of sanctions had not yet changed",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "9aacabf7472a01ae6af9b35409ce8fadfe1e8a06",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2140751",
+      "published_utc": "2026-06-03T11:10:02Z",
+      "title_en": "Moldova must abandon sanctions against Russia — politician",
+      "lead_en": "According to Igor Dodon, Chisinau should return to the platforms that the Moldovan authorities decided to abandon, namely the CIS and the EAEU",
+      "title_raw": "Moldova must abandon sanctions against Russia — politician",
+      "lead_raw": "According to Igor Dodon, Chisinau should return to the platforms that the Moldovan authorities decided to abandon, namely the CIS and the EAEU",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "2af644ad139546a4b46f152142b2a60ea5b3224b",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/06/03/st-petersburg-economic-forum-opens-under-shadow-of-ukrainian-drone-strikes-a92910",
+      "published_utc": "2026-06-03T10:19:00Z",
+      "title_en": "St. Petersburg Economic Forum Opens Under Shadow of Ukrainian Drone Strikes",
+      "lead_en": "Some 20,000 guests from 130 countries are expected to attend SPIEF, a flagship business and investment event known as the “Russian Davos.”",
+      "title_raw": "St. Petersburg Economic Forum Opens Under Shadow of Ukrainian Drone Strikes",
+      "lead_raw": "Some 20,000 guests from 130 countries are expected to attend SPIEF, a flagship business and investment event known as the “Russian Davos.”",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "45a1b1fc56db775b1e012b086ee0df9a422c82d5",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2140713",
+      "published_utc": "2026-06-03T10:12:12Z",
+      "title_en": "Magyar believes EU will return to Russian energy supplies, lift sanctions in future",
+      "lead_en": "The Hungarian prime minister believes that no one is interested in a new economic and political cold war emerging",
+      "title_raw": "Magyar believes EU will return to Russian energy supplies, lift sanctions in future",
+      "lead_raw": "The Hungarian prime minister believes that no one is interested in a new economic and political cold war emerging",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "2833f09f93064e50c4eed1e8def84aa49cf9a6af",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2140665",
+      "published_utc": "2026-06-03T09:26:32Z",
+      "title_en": "Chisinau moving to complete shutdown of economic relations with Moscow — Russian envoy",
+      "lead_en": "Moldovan leadership has embarked on a course toward European integration, disregarding historical, economic, and any humanitarian ties, Oleg Ozerov noted",
+      "title_raw": "Chisinau moving to complete shutdown of economic relations with Moscow — Russian envoy",
+      "lead_raw": "Moldovan leadership has embarked on a course toward European integration, disregarding historical, economic, and any humanitarian ties, Oleg Ozerov noted",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "95b304adf93f71ff539f02a16e3c06616686eff2",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2140661",
+      "published_utc": "2026-06-03T09:24:20Z",
+      "title_en": "Russia’s e-commerce turnover may reach $215.99 bln in 2026",
+      "lead_en": "President of the Association of Internet Trade Companies Artyom Sokolov said e-commerce remains one of the most dynamically developing sectors of the economy",
+      "title_raw": "Russia’s e-commerce turnover may reach $215.99 bln in 2026",
+      "lead_raw": "President of the Association of Internet Trade Companies Artyom Sokolov said e-commerce remains one of the most dynamically developing sectors of the economy",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "edb02e1a670b2c50dacbaffeae065c948096b21f",
       "source": "TASS (RU)",
@@ -1490,171 +2036,6 @@
       },
       "topics": [],
       "primary_topic": "economy"
-    },
-    {
-      "id": "59bc2a99553c0809341540afe3b9269e8ab01c92",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2139635",
-      "published_utc": "2026-06-01T12:48:25Z",
-      "title_en": "National financial sector provides continuous funding for economy — Bank of Russia",
-      "lead_en": "The regulator said the financial sector remains highly stable",
-      "title_raw": "National financial sector provides continuous funding for economy — Bank of Russia",
-      "lead_raw": "The regulator said the financial sector remains highly stable",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "d17b92d8b8ddb26cef37df701cb81559ac0289b9",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2139611",
-      "published_utc": "2026-06-01T12:20:05Z",
-      "title_en": "Russian gas exports to Europe via TurkStream rise 6.5% in January-May",
-      "lead_en": "The pipeline operated at 84% capacity in May",
-      "title_raw": "Russian gas exports to Europe via TurkStream rise 6.5% in January-May",
-      "lead_raw": "The pipeline operated at 84% capacity in May",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "3f49bd8a70d9c8e2bb7cf95a31ed856ad58a6e25",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2139605",
-      "published_utc": "2026-06-01T12:12:09Z",
-      "title_en": "Economic focus to be in Russia-Africa forum’s agenda focus — Russian diplomat",
-      "lead_en": "Director of the Department of Africa at the Russian Foreign Ministry Anatoly Bashkin stressed that Moscow had very good political, humanitarian, military, military-technical and security relations with Africans",
-      "title_raw": "Economic focus to be in Russia-Africa forum’s agenda focus — Russian diplomat",
-      "lead_raw": "Director of the Department of Africa at the Russian Foreign Ministry Anatoly Bashkin stressed that Moscow had very good political, humanitarian, military, military-technical and security relations with Africans",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 2,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "ab7c21bc3f6e9a676ca1ed69b594fae927e2fd19",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27598851",
-      "published_utc": "2026-06-01T10:01:27Z",
-      "title_en": "In January - April, Russia increased exports of fish and seafood to Japan by 2%",
-      "lead_en": "The figure was 32 thousand tons",
-      "title_raw": "Россия в январе - апреле увеличила экспорт рыбы и морепродуктов в Японию на 2%",
-      "lead_raw": "Показатель составил 32 тыс. тонн",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "70199d4e697e1b019355d8ba876dfb6c01f72e1c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27598725",
-      "published_utc": "2026-06-01T09:54:28Z",
-      "title_en": "TASS: Russian gas exports to Europe via Turkish Stream increased by 6.5% in January - May",
-      "lead_en": "The figure amounted to 7.65 billion cubic meters. m",
-      "title_raw": "ТАСС: экспорт газа РФ в Европу по \"Турецкому потоку\" в январе - мае вырос на 6,5%",
-      "lead_raw": "Показатель составил 7,65 млрд куб. м",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "f2731cfd1a35416ac6f807eb4ce26b08a9a28652",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27598547",
-      "published_utc": "2026-06-01T09:44:41Z",
-      "title_en": "Central Bank: net profit of insurers for the first quarter decreased by almost a third",
-      "lead_en": "It amounted to 109.3 billion rubles, noted the Bank of Russia",
-      "title_raw": "ЦБ: чистая прибыль страховщиков за I квартал снизилась почти на треть",
-      "lead_raw": "Она составила 109,3 млрд рублей, отметили в Банке России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "e8fda9bfa1c117b998c317935e357dc2f655c715",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/06/01/russia-restricts-fish-imports-from-armenia-as-diplomatic-tensions-rise-a92888",
-      "published_utc": "2026-06-01T09:37:41Z",
-      "title_en": "Russia Restricts Fish Imports From Armenia as Diplomatic Tensions Rise",
-      "lead_en": "The measure adds to a growing list of food and beverage restrictions as Yerevan pursues ties with the European Union.",
-      "title_raw": "Russia Restricts Fish Imports From Armenia as Diplomatic Tensions Rise",
-      "lead_raw": "The measure adds to a growing list of food and beverage restrictions as Yerevan pursues ties with the European Union.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "fb21989fc3dee9b5a173bb90e8d20d776db76ce9",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/06/01/russia-bans-jet-fuel-exports-for-the-first-time",
-      "published_utc": "2026-06-01T09:27:46Z",
-      "title_en": "Russia bans jet fuel exports for the first time",
-      "lead_en": "Russia has imposed a temporary ban on jet fuel exports, effective through November 30, 2026, the cabinet announced.",
-      "title_raw": "Russia bans jet fuel exports for the first time",
-      "lead_raw": "Russia has imposed a temporary ban on jet fuel exports, effective through November 30, 2026, the cabinet announced.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
