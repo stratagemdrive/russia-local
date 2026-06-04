@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-06-03T23:43:29Z",
+  "updated_at_utc": "2026-06-04T04:00:38Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 9,
+  "count": 8,
   "articles": [
+    {
+      "id": "b7fe38d51809d62614e3f57eef3bb9b0208a4193",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27636617",
+      "published_utc": "2026-06-04T03:02:15Z",
+      "title_en": "The Russian Navy patented a rescue unmanned towing boat",
+      "lead_en": "The vessel is capable of evacuating small surface objects",
+      "title_raw": "ВМФ России запатентовал спасательный безэкипажный катер-буксировщик",
+      "lead_raw": "Судно способно выполнить эвакуацию малоразмерных надводных объектов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "68974aa7f5843b6e10eca57757fea4f8d8968869",
       "source": "TASS (RU)",
@@ -150,49 +171,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "2b4e319167435a84f0250e9d94a914a7ef8edb4c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27608073",
-      "published_utc": "2026-06-02T03:33:34Z",
-      "title_en": "The Ministry of Emergency Situations reminded that power banks should only be charged under supervision",
-      "lead_en": "Fire safety requirements, which determine the behavior of people, maintenance of territories, buildings, structures in order to ensure fire safety, are established by the Rules of the fire regime in the Russian Federation, the department noted",
-      "title_raw": "В МЧС напомнили, что пауэрбанки надо заряжать только под присмотром",
-      "lead_raw": "Требования пожарной безопасности, определяющие порядок поведения людей, содержания территорий, зданий, сооружений в целях обеспечения пожарной безопасности, устанавливаются Правилами противопожарного режима в РФ, отметили в ведомстве",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "d99b8e2db6e69cfc38c86fb1526c59c74a5366ea",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2139963",
-      "published_utc": "2026-06-02T03:32:00Z",
-      "title_en": "Israel-Lebanon ceasefire became cover for further aggression — Russian envoy to UN",
-      "lead_en": "According to Vasily Nebenzya, while the international community awaited the next round of talks scheduled, \"the Israelis continued to methodically expand their occupation zone\"",
-      "title_raw": "Israel-Lebanon ceasefire became cover for further aggression — Russian envoy to UN",
-      "lead_raw": "According to Vasily Nebenzya, while the international community awaited the next round of talks scheduled, \"the Israelis continued to methodically expand their occupation zone\"",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
