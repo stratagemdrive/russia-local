@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-06-04T04:00:38Z",
+  "updated_at_utc": "2026-06-04T11:53:29Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 8,
+  "count": 6,
   "articles": [
+    {
+      "id": "16c78d8c00109931beccc17ff2784fa5b2a39c1d",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2141327",
+      "published_utc": "2026-06-04T09:44:23Z",
+      "title_en": "Russian Navy patents unmanned rescue towing boat",
+      "lead_en": "The developers specify that the uncrewed boat is designed to deliver the PSN-20 inflatable life raft to the site of an accident in a folded state, tow small surface objects to the site of an accident",
+      "title_raw": "Russian Navy patents unmanned rescue towing boat",
+      "lead_raw": "The developers specify that the uncrewed boat is designed to deliver the PSN-20 inflatable life raft to the site of an accident in a folded state, tow small surface objects to the site of an accident",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "b7fe38d51809d62614e3f57eef3bb9b0208a4193",
       "source": "TASS (RU)",
@@ -108,69 +130,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "759324276e6a2986b7e1bf8461c59028b11522df",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27612717",
-      "published_utc": "2026-06-02T11:39:22Z",
-      "title_en": "The Russian Armed Forces hit the Fire Point enterprise in the Dnepropetrovsk region",
-      "lead_en": "It produces components for long-range attack UAVs and missile weapons.",
-      "title_raw": "ВС РФ поразили в Днепропетровской области предприятие Fire Point",
-      "lead_raw": "Оно выпускает комплектующие для ударных БПЛА большой дальности и ракетного вооружения",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "e801519bc316e70fa949ae54e67eba52c6731bb9",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/06/02/in-photos-russia-launches-a-massive-drone-and-missile-strike-on-ukraine-leaving-17-dead-and-nearly-100-injured",
-      "published_utc": "2026-06-02T11:29:20Z",
-      "title_en": "In photos: Russia launches a massive drone and missile strike on Ukraine, leaving 17 dead and nearly 100 injured",
-      "lead_en": "The Russian military launched a massive missile and drone strike against Ukraine in the early hours of June 2. In Kyiv, multi-story apartment buildings were damaged.",
-      "title_raw": "In photos: Russia launches a massive drone and missile strike on Ukraine, leaving 17 dead and nearly 100 injured",
-      "lead_raw": "The Russian military launched a massive missile and drone strike against Ukraine in the early hours of June 2. In Kyiv, multi-story apartment buildings were damaged.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "1e849a7b5cc7867168010ba562c2990991abfc6a",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/06/02/at-least-21-killed-in-russian-strikes-across-ukraine-a92898",
-      "published_utc": "2026-06-02T08:06:00Z",
-      "title_en": "At Least 21 Killed in Russian Strikes Across Ukraine",
-      "lead_en": "Russia’s Defense Ministry claimed it had targeted defense production plants and transportation infrastructure used by Ukraine’s military.",
-      "title_raw": "At Least 21 Killed in Russian Strikes Across Ukraine",
-      "lead_raw": "Russia’s Defense Ministry claimed it had targeted defense production plants and transportation infrastructure used by Ukraine’s military.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
