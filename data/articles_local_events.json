@@ -1,9 +1,47 @@
 {
-  "updated_at_utc": "2026-06-05T05:16:43Z",
+  "updated_at_utc": "2026-06-05T09:50:17Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 8,
+  "count": 7,
   "articles": [
+    {
+      "id": "c4bb4d33788b4d7320822d62792e03607eedbb2d",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2142263",
+      "published_utc": "2026-06-05T08:48:38Z",
+      "title_en": "Deputy PM Golikova says Russia has 18 vacancies per unemployed person now",
+      "lead_en": "\"The labor market for skilled workers is quite tense,\" Tatyana Golikova said",
+      "title_raw": "Deputy PM Golikova says Russia has 18 vacancies per unemployed person now",
+      "lead_raw": "\"The labor market for skilled workers is quite tense,\" Tatyana Golikova said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "5233034926ba0a5029995802be783b3fea5181e8",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/society/2142181",
+      "published_utc": "2026-06-05T05:45:01Z",
+      "title_en": "Over 500 civilians killed in Ukrainian incursion into Russia’s Kursk Region — governor",
+      "lead_en": "Alexander Khinshtein said this is the gravest and most tragic consequence of what happened in the region",
+      "title_raw": "Over 500 civilians killed in Ukrainian incursion into Russia’s Kursk Region — governor",
+      "lead_raw": "Alexander Khinshtein said this is the gravest and most tragic consequence of what happened in the region",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "2e2f198993b60ab78ccb8e74e3f56118ce956326",
       "source": "TASS (EN)",
@@ -105,71 +143,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "9c17d5f7dfbcf3e900fcb09c2769bb84cd51109e",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/06/03/russia-s-defense-ministry-says-air-defenses-downed-more-than-350-drones-overnight-two-firefighters-killed-in-russia",
-      "published_utc": "2026-06-03T07:17:20Z",
-      "title_en": "Russia’s Defense Ministry says air defenses downed more than 350 drones overnight. Two firefighters killed in Russia.",
-      "lead_en": "Ukrainian drones struck Russia’s Tambov region, damaging an apartment building, a library, and an arts school in Michurinsk, Tambov Governor Yevgeny Pervyshov said. There were no casualties.",
-      "title_raw": "Russia’s Defense Ministry says air defenses downed more than 350 drones overnight. Two firefighters killed in Russia.",
-      "lead_raw": "Ukrainian drones struck Russia’s Tambov region, damaging an apartment building, a library, and an arts school in Michurinsk, Tambov Governor Yevgeny Pervyshov said. There were no casualties.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "9a35d643aba07930a68228bde3f8f4deb5997560",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2140571",
-      "published_utc": "2026-06-03T06:43:06Z",
-      "title_en": "IN BRIEF: Ukrainian drone attacks cause casualties in Russia’s Smolensk, Leningrad regions",
-      "lead_en": "Two emergency workers were killed and another two suffered injuries in a drone strike in the country’s western Smolensk Region",
-      "title_raw": "IN BRIEF: Ukrainian drone attacks cause casualties in Russia’s Smolensk, Leningrad regions",
-      "lead_raw": "Two emergency workers were killed and another two suffered injuries in a drone strike in the country’s western Smolensk Region",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "f57c72d6f31bcb659e97ee8d467a293885d30cf9",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2140563",
-      "published_utc": "2026-06-03T06:18:55Z",
-      "title_en": "Putin’s envoy reveals estimate of Europe’s losses from its refusal to buy Russian energy",
-      "lead_en": "According to Kirill Dmitriev, Germany and other European countries can see they are actually pushing their economy to the brink of collapse",
-      "title_raw": "Putin’s envoy reveals estimate of Europe’s losses from its refusal to buy Russian energy",
-      "lead_raw": "According to Kirill Dmitriev, Germany and other European countries can see they are actually pushing their economy to the brink of collapse",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
