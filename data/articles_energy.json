@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-06-05T00:07:22Z",
+  "updated_at_utc": "2026-06-05T05:16:43Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 84,
+  "count": 82,
   "articles": [
+    {
+      "id": "3a09e4a5436171c7e3d880d06153365b871e954f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2142111",
+      "published_utc": "2026-06-04T23:32:36Z",
+      "title_en": "Russia ships over 2.4 mln barrels of oil to Philippines this spring — Lavrov",
+      "lead_en": "Foreign Minister says this step clearly demonstrates the reliability of Russian suppliers",
+      "title_raw": "Russia ships over 2.4 mln barrels of oil to Philippines this spring — Lavrov",
+      "lead_raw": "Foreign Minister says this step clearly demonstrates the reliability of Russian suppliers",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "ddb4ea78a1bc6b502b175875990614c2e4b4bea6",
       "source": "TASS (RU)",
@@ -1729,71 +1750,6 @@
         "energy": 1,
         "economy": 1,
         "local_events": 1
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "232d92a7be0ee4bf500e0080c5d9e7dd0b4ba526",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27619787",
-      "published_utc": "2026-06-03T03:40:21Z",
-      "title_en": "Space Energy is preparing a site for the construction of the first private cosmodrome in the Russian Federation",
-      "lead_en": "",
-      "title_raw": "Space Energy готовит площадку для строительства первого в РФ частного космодрома",
-      "lead_raw": "",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "070af5bfc018c5611bd1e164b868ffd127edb0e3",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27619661",
-      "published_utc": "2026-06-03T03:02:40Z",
-      "title_en": "Vedomosti: housing sales through digital platforms brought the Russian Federation 5.8 trillion rubles",
-      "lead_en": "This corresponds to 2.7% of GDP, the newspaper writes, citing a study by the Analytics.Business.Pravo center.",
-      "title_raw": "\"Ведомости\": продажи жилья через цифровые платформы принесли РФ 5,8 трлн рублей",
-      "lead_raw": "Это соответствует 2,7% ВВП, пишет газета со ссылкой на исследование центра \"Аналитика.Бизнес.Право\".",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "dc1b138789afff278b87b4f42ced3780367c44ad",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27619175",
-      "published_utc": "2026-06-03T01:41:17Z",
-      "title_en": "Izvestia: Moldova is discussing the abolition of the visa-free regime with Russia",
-      "lead_en": "The possibility of denouncing the 2001 Treaty of Friendship and Cooperation with the Russian Federation is also being considered, the newspaper writes with reference to Bogdan Tsyrdyu, a member of the republic’s parliament from the Socialist Party.",
-      "title_raw": "\"Известия\": в Молдавии обсуждают отмену безвизового режима с Россией",
-      "lead_raw": "Также рассматривается возможность денонсации Договора о дружбе и сотрудничестве с РФ 2001 года, пишет газета со ссылкой на депутата парламента республики от Партии социалистов Богдана Цырдю",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
       },
       "topics": [
         "diplomacy",
