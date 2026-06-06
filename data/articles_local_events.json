@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-06-06T15:15:29Z",
+  "updated_at_utc": "2026-06-06T17:14:19Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 15,
   "articles": [
+    {
+      "id": "bfa0d174e9503a7174e338e023521df92eed0f96",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/06/06/ukraine-fires-wave-of-drones-at-russia-on-last-day-of-key-economic-forum-a92947",
+      "published_utc": "2026-06-06T14:40:00Z",
+      "title_en": "Ukraine Fires Wave of Drones at Russia on Last Day of Key Economic Forum",
+      "lead_en": "Officials said 86 drones were shot down over the Leningrad region, near where Russia is hosting its key economic forum.",
+      "title_raw": "Ukraine Fires Wave of Drones at Russia on Last Day of Key Economic Forum",
+      "lead_raw": "Officials said 86 drones were shot down over the Leningrad region, near where Russia is hosting its key economic forum.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
     {
       "id": "4b2239a43993821c86ddac288986feb9b314fbc3",
       "source": "TASS (EN)",
@@ -277,25 +296,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "d3f61980037fd00b011865703c661342273c3145",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/sports/2141555",
-      "published_utc": "2026-06-04T15:21:05Z",
-      "title_en": "Russia’s teen-prodigy Andreeva storms into 2026 French Open final",
-      "lead_en": "The Russian tennis star is now set to face off in the final against the winner of another semifinals encounter between her 25th-seeded compatriot Diana Shnaider and World No. 114 Maja Chwalinska from Poland",
-      "title_raw": "Russia’s teen-prodigy Andreeva storms into 2026 French Open final",
-      "lead_raw": "The Russian tennis star is now set to face off in the final against the winner of another semifinals encounter between her 25th-seeded compatriot Diana Shnaider and World No. 114 Maja Chwalinska from Poland",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
