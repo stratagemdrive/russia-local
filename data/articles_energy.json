@@ -1,9 +1,51 @@
 {
-  "updated_at_utc": "2026-06-06T03:29:46Z",
+  "updated_at_utc": "2026-06-06T06:52:33Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 89,
+  "count": 90,
   "articles": [
+    {
+      "id": "b1ebdcdc501575644e8589185283724748731e42",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27679375",
+      "published_utc": "2026-06-06T06:35:02Z",
+      "title_en": "Zaporozhye Legislative Assembly will help the Communist Party of the Russian Federation restore work in Energodar",
+      "lead_en": "The Armed Forces of Ukraine previously attacked the building in which the office of the city branch of the party was located",
+      "title_raw": "Запорожское Заксобрание поможет КПРФ восстановить работу в Энергодаре",
+      "lead_raw": "ВСУ ранее атаковали здание, в котором располагался офис городского отделения партии",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "d9ce54365b0b585f762c4b2ba4029e8a1a5ac44a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27678935",
+      "published_utc": "2026-06-06T06:32:04Z",
+      "title_en": "Suitable locations for placing pilot coal-fired thermal power plants of a new generation in the Russian Federation have been named",
+      "lead_en": "Chairman of the Russian State Council Commission on Energy, Aisen Nikolaev, believes that they need to be located near coal-mining regions to achieve maximum economic effect",
+      "title_raw": "Названы подходящие места для размещения пилотных угольных ТЭС нового поколения в РФ",
+      "lead_raw": "Председатель комиссии Госсовета России по направлению \"Энергетика\" Айсен Николаев считает, что их нужно располагать вблизи угледобывающих регионов для достижения максимального экономического эффекта",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "63016ac3d49383accea1d14f875e547365e9ecc0",
       "source": "TASS (RU)",
@@ -1876,28 +1918,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "983ba596c9c0afb654b2323161ee06fe45179a15",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2141159",
-      "published_utc": "2026-06-04T04:40:43Z",
-      "title_en": "German delegation arrives at SPIEF to discuss work of German companies in Russia — MP",
-      "lead_en": "Markus Frohnmaier says the officials will also discuss \"the energy crisis which Germany has to live through at this point\"",
-      "title_raw": "German delegation arrives at SPIEF to discuss work of German companies in Russia — MP",
-      "lead_raw": "Markus Frohnmaier says the officials will also discuss \"the energy crisis which Germany has to live through at this point\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
