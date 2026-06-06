@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-06-05T23:09:17Z",
+  "updated_at_utc": "2026-06-06T03:29:46Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 14,
   "articles": [
+    {
+      "id": "61d48a0f52c528c2420ad3dadd5e13265e8777e8",
+      "source": "RT",
+      "url": "https://www.rt.com/news/641069-nasa-iss-evacuation-leak/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "published_utc": "2026-06-06T00:56:48Z",
+      "title_en": "NASA crew takes cover while Russian cosmonauts fix ISS leak",
+      "lead_en": "NASA temporarily moved astronauts into an evacuation spacecraft while Russian cosmonauts worked to repair an air leak in the ISS Read Full Article at RT.com",
+      "title_raw": "NASA crew takes cover while Russian cosmonauts fix ISS leak",
+      "lead_raw": "NASA temporarily moved astronauts into an evacuation spacecraft while Russian cosmonauts worked to repair an air leak in the ISS Read Full Article at RT.com",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "4960f9e6601df6ab22c344b70ba339648d17942a",
       "source": "Meduza (EN)",
@@ -258,27 +277,6 @@
       },
       "topics": [
         "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "b7fe38d51809d62614e3f57eef3bb9b0208a4193",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27636617",
-      "published_utc": "2026-06-04T03:02:15Z",
-      "title_en": "The Russian Navy patented a rescue unmanned towing boat",
-      "lead_en": "The vessel is capable of evacuating small surface objects",
-      "title_raw": "ВМФ России запатентовал спасательный безэкипажный катер-буксировщик",
-      "lead_raw": "Судно способно выполнить эвакуацию малоразмерных надводных объектов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
         "local_events"
       ],
       "primary_topic": "local_events"
