@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-06-07T03:56:11Z",
+  "updated_at_utc": "2026-06-07T07:56:15Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 16,
   "articles": [
+    {
+      "id": "b0c055d73a7e3ef0f0ffdc886ba46ae1a0038caa",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27685243",
+      "published_utc": "2026-06-07T05:13:53Z",
+      "title_en": "TASS: The Ukrainian Armed Forces began to disguise explosive devices in water bottles",
+      "lead_en": "Such a bottle should not be touched with hands, its contents need to be handled carefully to avoid detonation, noted the Russian security forces",
+      "title_raw": "ТАСС: ВСУ начали маскировать взрывные устройства в бутылках из-под воды",
+      "lead_raw": "Такую бутылку нельзя трогать руками, ее содержимое нуждается в осторожном обращении во избежание детонации, отметили в российских силовых структурах",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "c6c90f45c925ab97dc69e1f61158cddc2006918a",
       "source": "TASS (EN)",
@@ -296,25 +315,6 @@
       },
       "topics": [],
       "primary_topic": "economy"
-    },
-    {
-      "id": "5233034926ba0a5029995802be783b3fea5181e8",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/society/2142181",
-      "published_utc": "2026-06-05T05:45:01Z",
-      "title_en": "Over 500 civilians killed in Ukrainian incursion into Russia’s Kursk Region — governor",
-      "lead_en": "Alexander Khinshtein said this is the gravest and most tragic consequence of what happened in the region",
-      "title_raw": "Over 500 civilians killed in Ukrainian incursion into Russia’s Kursk Region — governor",
-      "lead_raw": "Alexander Khinshtein said this is the gravest and most tragic consequence of what happened in the region",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
