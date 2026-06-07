@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-06-06T23:03:46Z",
+  "updated_at_utc": "2026-06-07T03:56:11Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 14,
+  "count": 16,
   "articles": [
+    {
+      "id": "c6c90f45c925ab97dc69e1f61158cddc2006918a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2143655",
+      "published_utc": "2026-06-07T03:27:01Z",
+      "title_en": "Ukrainian army killed mercenaries that surrendered to Russian military",
+      "lead_en": "Russian law enforcement agencies noted that Ukrainian drones have been trying for a long time to control the area where foreigners surrendered",
+      "title_raw": "Ukrainian army killed mercenaries that surrendered to Russian military",
+      "lead_raw": "Russian law enforcement agencies noted that Ukrainian drones have been trying for a long time to control the area where foreigners surrendered",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "d96f38a50edc5810dcc599a59a2625cf8f637e5a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27684627",
+      "published_utc": "2026-06-07T00:04:28Z",
+      "title_en": "TASS: The Ukrainian Armed Forces killed foreign mercenaries who surrendered to the Russian Armed Forces during the evacuation",
+      "lead_en": "Russian security forces noted that Ukrainian drones for a long time tried to control the area where the foreigners surrendered",
+      "title_raw": "ТАСС: ВСУ убили сдавшихся в плен ВС РФ иностранных наемников при эвакуации",
+      "lead_raw": "В российских силовых структурах отметили, что украинские дроны длительное время пытались контролировать район, где сдались иностранцы",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "bfa0d174e9503a7174e338e023521df92eed0f96",
       "source": "The Moscow Times",
