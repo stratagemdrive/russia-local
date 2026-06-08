@@ -1,9 +1,68 @@
 {
-  "updated_at_utc": "2026-06-08T00:08:03Z",
+  "updated_at_utc": "2026-06-08T10:54:41Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 8,
+  "count": 9,
   "articles": [
+    {
+      "id": "1f8ab8f9d3c1cb64f11d8600cf987c1cfc09bf10",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2143903",
+      "published_utc": "2026-06-08T08:05:33Z",
+      "title_en": "FACTBOX: 310 UAVs target Russia, fire at transshipment facility in Novorossiysk",
+      "lead_en": "In the Volgograd Region, falling debris from drones caused a fire at a linear production and dispatch service facility",
+      "title_raw": "FACTBOX: 310 UAVs target Russia, fire at transshipment facility in Novorossiysk",
+      "lead_raw": "In the Volgograd Region, falling debris from drones caused a fire at a linear production and dispatch service facility",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "c48e4e689d4abff1a331b57df12f26c42e10754b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27690979",
+      "published_utc": "2026-06-08T05:25:58Z",
+      "title_en": "In Novorossiysk, a fire occurred at a transshipment complex due to a UAV attack",
+      "lead_en": "No one was hurt",
+      "title_raw": "В Новороссийске из-за атаки БПЛА произошел пожар на перевалочном комплексе",
+      "lead_raw": "Никто не пострадал",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "4deffc7e7f535832f495d622c5be9a54d6f06530",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27690691",
+      "published_utc": "2026-06-08T04:34:48Z",
+      "title_en": "The Russian Embassy does not know about the casualties among Russians during the earthquake in the Philippines",
+      "lead_en": "The diplomatic mission made a request to the local competent authorities",
+      "title_raw": "В посольстве РФ не знают о жертвах среди россиян при землетрясении на Филиппинах",
+      "lead_raw": "Диппредставительство сделало запрос в местные компетентные органы",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "5856a6d75abcb7ae7c7fef2c7f3f31e8966904b6",
       "source": "TASS (EN)",
@@ -112,44 +171,6 @@
       "lead_en": "5 Russian sappers were heavily wounded in a Ukrainian drone attack, Russia’s Permanent Representative to international organizations in Vienna Mikhail Ulyanov said",
       "title_raw": "IAEA turns blind eye to Kiev’s ceasefire violation — diplomat",
       "lead_raw": "5 Russian sappers were heavily wounded in a Ukrainian drone attack, Russia’s Permanent Representative to international organizations in Vienna Mikhail Ulyanov said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "17a5551420e73b1887da6badeabde196a3ab21ba",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27678729",
-      "published_utc": "2026-06-06T04:59:06Z",
-      "title_en": "In Yakutia, flooding of settlements due to floods on two rivers persists",
-      "lead_en": "In order to monitor the flood situation on the rivers of the region, unmanned aerial systems are used and reconnaissance is carried out by the Mi-8 aircraft of the HASC EMERCOM of Russia",
-      "title_raw": "В Якутии сохраняются подтопления населенных пунктов из-за паводка на двух реках",
-      "lead_raw": "В целях мониторинга паводковой обстановки на реках региона применяются беспилотные авиационные системы и проводится разведка воздушным судном Ми-8 ХАСЦ МЧС России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "61d48a0f52c528c2420ad3dadd5e13265e8777e8",
-      "source": "RT",
-      "url": "https://www.rt.com/news/641069-nasa-iss-evacuation-leak/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "published_utc": "2026-06-06T00:56:48Z",
-      "title_en": "NASA crew takes cover while Russian cosmonauts fix ISS leak",
-      "lead_en": "NASA temporarily moved astronauts into an evacuation spacecraft while Russian cosmonauts worked to repair an air leak in the ISS Read Full Article at RT.com",
-      "title_raw": "NASA crew takes cover while Russian cosmonauts fix ISS leak",
-      "lead_raw": "NASA temporarily moved astronauts into an evacuation spacecraft while Russian cosmonauts worked to repair an air leak in the ISS Read Full Article at RT.com",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
