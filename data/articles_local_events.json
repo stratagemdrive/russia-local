@@ -1,9 +1,51 @@
 {
-  "updated_at_utc": "2026-06-09T12:37:04Z",
+  "updated_at_utc": "2026-06-09T18:05:20Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 16,
+  "count": 17,
   "articles": [
+    {
+      "id": "2d142553255bd67318c9c00d8a7be5c05e57aced",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/06/09/a-year-after-a-russian-general-was-assassinated-in-a-car-bombing-outside-moscow-another-general-is-reportedly-dead-in-the-same-city-in-another-car-bombing",
+      "published_utc": "2026-06-09T17:10:23Z",
+      "title_en": "A year after a Russian general was assassinated in a car bombing outside Moscow, another general is reportedly dead in the same city — in another car bombing",
+      "lead_en": "Damir Davydov, head of the Main Missile and Artillery Directorate of Russia’s Defense Ministry, was killed by a car bomb in Balashikha, near Moscow, the Telegram channel VChK-OGPU and Ukrainian blogger Anatoly Shariy reported, without providing specific sources.",
+      "title_raw": "A year after a Russian general was assassinated in a car bombing outside Moscow, another general is reportedly dead in the same city — in another car bombing",
+      "lead_raw": "Damir Davydov, head of the Main Missile and Artillery Directorate of Russia’s Defense Ministry, was killed by a car bomb in Balashikha, near Moscow, the Telegram channel VChK-OGPU and Ukrainian blogger Anatoly Shariy reported, without providing specific sources.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "13d23340c2115f4e61471bd0ff2f6784530f34b8",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2144589",
+      "published_utc": "2026-06-09T13:56:13Z",
+      "title_en": "Russian Baltic Fleet forces repel enemy drone attack on naval base in drills",
+      "lead_en": "The personnel also delivered fire on the targets that simulated a hypothetical enemy’s UAVs, practiced the assignments of radiation, chemical and biological protection",
+      "title_raw": "Russian Baltic Fleet forces repel enemy drone attack on naval base in drills",
+      "lead_raw": "The personnel also delivered fire on the targets that simulated a hypothetical enemy’s UAVs, practiced the assignments of radiation, chemical and biological protection",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "0af53e896f2e54a41fdc2659480bb99b94529278",
       "source": "TASS (EN)",
@@ -301,27 +343,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "5856a6d75abcb7ae7c7fef2c7f3f31e8966904b6",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2143721",
-      "published_utc": "2026-06-07T12:57:53Z",
-      "title_en": "Man killed in Ukrainian drone attack on Russia’s Kursk Region — governor",
-      "lead_en": "In another attack, Ukraine’s armed forces attacked a bus stop in the Rylsk District with a drone, including a local, Alexander Khinshtein said",
-      "title_raw": "Man killed in Ukrainian drone attack on Russia’s Kursk Region — governor",
-      "lead_raw": "In another attack, Ukraine’s armed forces attacked a bus stop in the Rylsk District with a drone, including a local, Alexander Khinshtein said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
