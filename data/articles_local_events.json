@@ -1,9 +1,47 @@
 {
-  "updated_at_utc": "2026-06-09T00:05:42Z",
+  "updated_at_utc": "2026-06-09T05:05:47Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 10,
+  "count": 11,
   "articles": [
+    {
+      "id": "b5d17e0640792cc3c454da9de2d2ff727b8da695",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kosmos/27701143",
+      "published_utc": "2026-06-09T04:08:20Z",
+      "title_en": "Expert Bogachev: Betelgeuse explosion will be the main astronomical event",
+      "lead_en": "The head of the laboratory of solar astronomy and heliophysical instrumentation of the department of cosmic plasma physics of the Space Research Institute of the Russian Academy of Sciences emphasized that the supergiant star has lived its life and is already dying",
+      "title_raw": "Эксперт Богачев: взрыв Бетельгейзе станет главным астрономическим событием",
+      "lead_raw": "Заведующий лабораторией солнечной астрономии и гелиофизического приборостроения отдела физики космической плазмы Института космических исследований РАН подчеркнул, что звезда - сверхгигант прожила свою жизнь и уже умирает",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "710301778ca0adaec524b2ea7ff3f447e86270bd",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2144311",
+      "published_utc": "2026-06-09T01:39:08Z",
+      "title_en": "Stubb's comment about Russia worst disaster for supporters of escalation in Europe — paper",
+      "lead_en": "According to a commentary by Junge Welt, the Finnish president could become one of the few European politicians capable of conducting a dialogue with Russia",
+      "title_raw": "Stubb's comment about Russia worst disaster for supporters of escalation in Europe — paper",
+      "lead_raw": "According to a commentary by Junge Welt, the Finnish president could become one of the few European politicians capable of conducting a dialogue with Russia",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "1d4293fde2977d758b6934345f714de61e59dfe7",
       "source": "TASS (RU)",
@@ -178,27 +216,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "c6c90f45c925ab97dc69e1f61158cddc2006918a",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2143655",
-      "published_utc": "2026-06-07T03:27:01Z",
-      "title_en": "Ukrainian army killed mercenaries that surrendered to Russian military",
-      "lead_en": "Russian law enforcement agencies noted that Ukrainian drones have been trying for a long time to control the area where foreigners surrendered",
-      "title_raw": "Ukrainian army killed mercenaries that surrendered to Russian military",
-      "lead_raw": "Russian law enforcement agencies noted that Ukrainian drones have been trying for a long time to control the area where foreigners surrendered",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
