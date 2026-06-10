@@ -1,9 +1,73 @@
 {
-  "updated_at_utc": "2026-06-10T05:18:12Z",
+  "updated_at_utc": "2026-06-10T09:59:42Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 38,
+  "count": 40,
   "articles": [
+    {
+      "id": "aa9a4e19379c27300cb8d9f1705488b8ca9bfe47",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27716897",
+      "published_utc": "2026-06-10T09:44:05Z",
+      "title_en": "Rosseti switches to an enhanced operating mode on the eve of Russia Day",
+      "lead_en": "Ensuring the safety of personnel and energy facilities is under special control",
+      "title_raw": "\"Россети\" переходят на усиленный режим работы в преддверии Дня России",
+      "lead_raw": "На особом контроле находится обеспечение безопасности персонала и энергообъектов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "0be2f7c730439c14790265dd58a5f980e6a737b8",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/06/10/ukrainian-drone-attacks-damage-russian-industrial-sites-a92967",
+      "published_utc": "2026-06-10T08:45:00Z",
+      "title_en": "Ukrainian Drone Attacks Damage Russian Industrial Sites",
+      "lead_en": "Unverified reports suggested that a defense plant and an oil refinery were among the sites targeted in the overnight airstrikes.",
+      "title_raw": "Ukrainian Drone Attacks Damage Russian Industrial Sites",
+      "lead_raw": "Unverified reports suggested that a defense plant and an oil refinery were among the sites targeted in the overnight airstrikes.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "fff9077f485bfbc334dfb2359cf506463c1f81c0",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/06/10/ukraine-strikes-defense-plant-in-russia-drone-attack-sets-oil-refinery-ablaze",
+      "published_utc": "2026-06-10T06:53:39Z",
+      "title_en": "Ukraine strikes defense plant in Russia, drone attack sets oil refinery ablaze",
+      "lead_en": "Ukrainian drones and missiles struck Russian regions and occupied Crimea overnight on June 10. Russia’s Defense Ministry said air defense forces shot down 326 drones.",
+      "title_raw": "Ukraine strikes defense plant in Russia, drone attack sets oil refinery ablaze",
+      "lead_raw": "Ukrainian drones and missiles struck Russian regions and occupied Crimea overnight on June 10. Russia’s Defense Ministry said air defense forces shot down 326 drones.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "23325dcde82d75172c55d67483b0974d523585ee",
       "source": "TASS (RU)",
@@ -793,28 +857,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "a5bf8de97745f69ccbd32412f506f1b163e19c7e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2143895",
-      "published_utc": "2026-06-08T07:31:47Z",
-      "title_en": "EU authorizes ships in Mediterranean to detain tankers carrying Russian oil — Kallas",
-      "lead_en": "The EU high representative for foreign affairs and security policy said the main objective of the measure is to \"curb Russia from funding\" its military operation in Ukraine",
-      "title_raw": "EU authorizes ships in Mediterranean to detain tankers carrying Russian oil — Kallas",
-      "lead_raw": "The EU high representative for foreign affairs and security policy said the main objective of the measure is to \"curb Russia from funding\" its military operation in Ukraine",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
