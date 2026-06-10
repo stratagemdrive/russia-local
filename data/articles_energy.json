@@ -1,9 +1,117 @@
 {
-  "updated_at_utc": "2026-06-10T09:59:42Z",
+  "updated_at_utc": "2026-06-10T13:39:53Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 40,
+  "count": 42,
   "articles": [
+    {
+      "id": "a8236e8e5664d076040da08f35d346de5068d559",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27720859",
+      "published_utc": "2026-06-10T13:21:55Z",
+      "title_en": "Hamas thanks Russia for supporting Palestinians",
+      "lead_en": "Member of the movement's Politburo Musa Abu Marzuk also informed Deputy Foreign Minister of the Russian Federation Georgy Borisenko about the progress of negotiations on the continuation of the ceasefire in the Gaza Strip",
+      "title_raw": "ХАМАС поблагодарил Россию за поддержку палестинцев",
+      "lead_raw": "Член политбюро движения Муса Абу Марзук также проинформировал заместителя министра иностранных дел РФ Георгия Борисенко о ходе переговоров о продолжении действия в секторе Газа режима прекращения огня",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "79908227f145b833e3bbcf701d72f8a2a4fd1e0f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27720463",
+      "published_utc": "2026-06-10T13:01:19Z",
+      "title_en": "Russian Helicopters handed over the first three production Mi-171A3 to Gazprom",
+      "lead_en": "They will be used to deliver people and cargo to offshore fields",
+      "title_raw": "\"Вертолеты России\" передали \"Газпрому\" три первых серийных Ми-171А3",
+      "lead_raw": "Они будут использоваться для доставки людей и грузов на шельфовые месторождения",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "6439613e00978dd0ff7ca8133366120346a0737a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2145053",
+      "published_utc": "2026-06-10T13:00:33Z",
+      "title_en": "Russian troops strike Ukrainian naval base, ammo and fuel depots in past day — top brass",
+      "lead_en": "Russia’s Battlegroup West inflicted roughly 210 casualties on Ukrainian troops and destroyed three enemy armored combat vehicles in its area of responsibility over the past day, the Defense Ministry reported",
+      "title_raw": "Russian troops strike Ukrainian naval base, ammo and fuel depots in past day — top brass",
+      "lead_raw": "Russia’s Battlegroup West inflicted roughly 210 casualties on Ukrainian troops and destroyed three enemy armored combat vehicles in its area of responsibility over the past day, the Defense Ministry reported",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "aa08302119c1d1fdb2a678f43cebcb2a05f9ead2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27720183",
+      "published_utc": "2026-06-10T12:41:51Z",
+      "title_en": "Patrushev pointed out the lack of a unified system for the development of marine technologies in the Russian Federation",
+      "lead_en": "At the same time, Russia has developed competencies in such industries as shipbuilding, including the construction of a nuclear icebreaker fleet, as well as in the field of marine science, hydrography and materials science, noted the Chairman of the Maritime Board",
+      "title_raw": "Патрушев указал на отсутствие единой системы развития морских технологий в РФ",
+      "lead_raw": "При этом Россия обладает развитыми компетенциями в таких отраслях, как судостроение, в том числе в сфере строительства атомного ледокольного флота, а также в сфере морской науки, гидрографии и материаловедения, отметил председатель Морской коллегии",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "f4b0a4b6378bf44d88676a5af73d2f3d13aba223",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2144927",
+      "published_utc": "2026-06-10T10:07:33Z",
+      "title_en": "EU plans to adopt 'mini-package' of sanctions against Russia on June 15 — portal",
+      "lead_en": "It will include eight individuals and 46 organizations in the defense and energy sectors, the portal reported",
+      "title_raw": "EU plans to adopt 'mini-package' of sanctions against Russia on June 15 — portal",
+      "lead_raw": "It will include eight individuals and 46 organizations in the defense and energy sectors, the portal reported",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "aa9a4e19379c27300cb8d9f1705488b8ca9bfe47",
       "source": "TASS (RU)",
@@ -788,69 +896,6 @@
         "military": 0,
         "energy": 1,
         "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "9b1922c12e3284d2ca1814f3012b11a0a4b997e8",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/06/08/sevastopol-introduces-qr-codes-for-gas-rationing-available-only-through-russia-s-state-backed-messaging-app-max",
-      "published_utc": "2026-06-08T13:28:55Z",
-      "title_en": "Sevastopol introduces QR codes for gas rationing — available only through Russia’s state-backed messaging app Max",
-      "lead_en": "The TES gas station network in occupied Sevastopol has begun rationing fuel sales through QR codes, Russia-appointed Governor Mikhail Razvozhaev announced on the evening of June 6.",
-      "title_raw": "Sevastopol introduces QR codes for gas rationing — available only through Russia’s state-backed messaging app Max",
-      "lead_raw": "The TES gas station network in occupied Sevastopol has begun rationing fuel sales through QR codes, Russia-appointed Governor Mikhail Razvozhaev announced on the evening of June 6.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e74cb11b10cc370fcef2d29049f672b9f6ca700b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2144021",
-      "published_utc": "2026-06-08T11:21:28Z",
-      "title_en": "Russian oil supplies to India rise to 2-2.5 mln barrels per day",
-      "lead_en": "Indian Minister of Petroleum and Natural Gas Hardeep Singh Puri noted that there has been no ban on buying Russian oil",
-      "title_raw": "Russian oil supplies to India rise to 2-2.5 mln barrels per day",
-      "lead_raw": "Indian Minister of Petroleum and Natural Gas Hardeep Singh Puri noted that there has been no ban on buying Russian oil",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "373401a8b05c6747aae0deb1cdbf20374df356f3",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/pressreview/2143879",
-      "published_utc": "2026-06-08T10:00:01Z",
-      "title_en": "Press review: Putin cites global economic shift as OPEC+ keeps steady pace of oil output",
-      "lead_en": "Top stories from the Russian press on Monday, June 8th",
-      "title_raw": "Press review: Putin cites global economic shift as OPEC+ keeps steady pace of oil output",
-      "lead_raw": "Top stories from the Russian press on Monday, June 8th",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 1,
         "local_events": 0
       },
       "topics": [
