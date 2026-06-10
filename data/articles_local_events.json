@@ -1,9 +1,47 @@
 {
-  "updated_at_utc": "2026-06-10T00:13:39Z",
+  "updated_at_utc": "2026-06-10T05:18:12Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 18,
+  "count": 19,
   "articles": [
+    {
+      "id": "22d787367ffbd8d615f161d805f14ae463eb7da0",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2144803",
+      "published_utc": "2026-06-10T04:29:38Z",
+      "title_en": "Fire in Russias’ Rostov Region extinguished, residents return to homes",
+      "lead_en": "There are no casualties, Governor Yury Slyusar said",
+      "title_raw": "Fire in Russias’ Rostov Region extinguished, residents return to homes",
+      "lead_raw": "There are no casualties, Governor Yury Slyusar said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "de3b324919093c6300c28ace4b500169d94bf57b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/interviews/27696857",
+      "published_utc": "2026-06-10T04:00:01Z",
+      "title_en": "RAS Professor Bogachev: the explosion of Betelgeuse will be the most significant event in astronomy",
+      "lead_en": "Why scientists cannot predict superflares, whether a supernova explosion is capable of destroying all life on Earth and what awaits the solar system in the distant future, Professor Sergei Bogachev, head of the solar astronomy laboratory at the Space Research Institute of the Russian Academy of Sciences, told TASS. We are publishing the second part of the interview.",
+      "title_raw": "Профессор РАН Богачёв: взрыв Бетельгейзе станет самым значимым событием в астрономии",
+      "lead_raw": "Почему ученые не могут прогнозировать супервспышки, способен ли взрыв сверхновой уничтожить все живое на Земле и что ждет Солнечную систему в далеком будущем, рассказал ТАСС заведующий лабораторией солнечной астрономии Института космических исследований РАН, профессор Сергей Богачёв. Публикуем вторую часть интервью.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "9d3afb3fe808be4cb87dbc11ae44d7bb4a38aee6",
       "source": "Meduza (EN)",
@@ -343,27 +381,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "4deffc7e7f535832f495d622c5be9a54d6f06530",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27690691",
-      "published_utc": "2026-06-08T04:34:48Z",
-      "title_en": "The Russian Embassy does not know about the casualties among Russians during the earthquake in the Philippines",
-      "lead_en": "The diplomatic mission made a request to the local competent authorities",
-      "title_raw": "В посольстве РФ не знают о жертвах среди россиян при землетрясении на Филиппинах",
-      "lead_raw": "Диппредставительство сделало запрос в местные компетентные органы",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
