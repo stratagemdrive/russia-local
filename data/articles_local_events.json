@@ -1,9 +1,68 @@
 {
-  "updated_at_utc": "2026-06-11T10:24:02Z",
+  "updated_at_utc": "2026-06-11T14:36:12Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 16,
+  "count": 17,
   "articles": [
+    {
+      "id": "02e7494ec97476bae877abc2a1d3cb8571b83648",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27734793",
+      "published_utc": "2026-06-11T13:30:14Z",
+      "title_en": "Ministry of Construction: the number of accidents in the heating season decreased in the Russian Federation by 14%",
+      "lead_en": "The department noted that the average elimination time was four hours.",
+      "title_raw": "Минстрой: число аварий в отопительном сезоне снизилось в РФ на 14%",
+      "lead_raw": "В ведомстве отметили, что среднее время устранения составило четыре часа",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "d9dfea7971a942e428cd9a7903552e8b34baf3a1",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/nedvizhimost/27734627",
+      "published_utc": "2026-06-11T13:15:06Z",
+      "title_en": "Khusnullin: Russian authorities approved applications from 77 regions for the resettlement of emergency housing",
+      "lead_en": "Thanks to this, 66 thousand people will be resettled",
+      "title_raw": "Хуснуллин: власти РФ одобрили заявки 77 регионов на расселение аварийного жилья",
+      "lead_raw": "Благодаря этому будет переселено 66 тыс. человек",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "afbd8ca426c24072e6401df0b770dff359bc45f7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27734301",
+      "published_utc": "2026-06-11T12:57:56Z",
+      "title_en": "The Ministry of Energy expects an increase in energy consumption in the south of the Russian Federation in the summer by 7%",
+      "lead_en": "A set of measures is being implemented to ensure trouble-free passage of the spring-summer period, which is characterized by increased consumption and high load on the energy system, stressed Energy Minister Sergei Tsivilev",
+      "title_raw": "Минэнерго ждет роста энергопотребления на юге РФ в летний период на 7%",
+      "lead_raw": "Реализуется комплекс мер по безаварийному прохождению весенне-летнего периода, который характеризуется ростом потребления и высокой нагрузкой на энергосистему, подчеркнул министр энергетики Сергей Цивилев",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "908a829ee4ad3b45f8bcde6d36aef141792a2ffc",
       "source": "Meduza (EN)",
@@ -279,48 +338,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "13d23340c2115f4e61471bd0ff2f6784530f34b8",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2144589",
-      "published_utc": "2026-06-09T13:56:13Z",
-      "title_en": "Russian Baltic Fleet forces repel enemy drone attack on naval base in drills",
-      "lead_en": "The personnel also delivered fire on the targets that simulated a hypothetical enemy’s UAVs, practiced the assignments of radiation, chemical and biological protection",
-      "title_raw": "Russian Baltic Fleet forces repel enemy drone attack on naval base in drills",
-      "lead_raw": "The personnel also delivered fire on the targets that simulated a hypothetical enemy’s UAVs, practiced the assignments of radiation, chemical and biological protection",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "0af53e896f2e54a41fdc2659480bb99b94529278",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2144485",
-      "published_utc": "2026-06-09T10:56:34Z",
-      "title_en": "'Rock bottom' level of disgrace seen at UNSC meeting on Starobelsk attack — Russian envoy",
-      "lead_en": "As Vasily Nebenzya stressed, the people looked pathetic, failing to find the simple words of sympathy for the ones who were killed",
-      "title_raw": "'Rock bottom' level of disgrace seen at UNSC meeting on Starobelsk attack — Russian envoy",
-      "lead_raw": "As Vasily Nebenzya stressed, the people looked pathetic, failing to find the simple words of sympathy for the ones who were killed",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
