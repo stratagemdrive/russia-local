@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-06-11T14:36:12Z",
+  "updated_at_utc": "2026-06-11T18:12:49Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 17,
   "articles": [
+    {
+      "id": "e6af12ef8d9e827ad6e527f48416e7c4fe645a81",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27736413",
+      "published_utc": "2026-06-11T17:40:55Z",
+      "title_en": "In Ingushetia, rescuers, doctors, lawyers were awarded for Russia Day",
+      "lead_en": "The head of the region, Mahmud-Ali Kalimatov, especially noted healthcare workers, cultural representatives, as well as employees of the Erzi search and rescue team.",
+      "title_raw": "В Ингушетии ко Дню России наградили спасателей, врачей, юристов",
+      "lead_raw": "Глава региона Махмуд-Али Калиматов особенно отметил работников сферы здравоохранения, представителей культуры, а также сотрудников поисково-спасательного отряда \"Эрзи\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "02e7494ec97476bae877abc2a1d3cb8571b83648",
       "source": "TASS (RU)",
@@ -309,27 +328,6 @@
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "2d142553255bd67318c9c00d8a7be5c05e57aced",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/06/09/a-year-after-a-russian-general-was-assassinated-in-a-car-bombing-outside-moscow-another-general-is-reportedly-dead-in-the-same-city-in-another-car-bombing",
-      "published_utc": "2026-06-09T17:10:23Z",
-      "title_en": "A year after a Russian general was assassinated in a car bombing outside Moscow, another general is reportedly dead in the same city — in another car bombing",
-      "lead_en": "Damir Davydov, head of the Main Missile and Artillery Directorate of Russia’s Defense Ministry, was killed by a car bomb in Balashikha, near Moscow, the Telegram channel VChK-OGPU and Ukrainian blogger Anatoly Shariy reported, without providing specific sources.",
-      "title_raw": "A year after a Russian general was assassinated in a car bombing outside Moscow, another general is reportedly dead in the same city — in another car bombing",
-      "lead_raw": "Damir Davydov, head of the Main Missile and Artillery Directorate of Russia’s Defense Ministry, was killed by a car bomb in Balashikha, near Moscow, the Telegram channel VChK-OGPU and Ukrainian blogger Anatoly Shariy reported, without providing specific sources.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
         "energy": 0,
         "economy": 0,
         "local_events": 1
