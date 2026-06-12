@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-06-12T21:43:26Z",
+  "updated_at_utc": "2026-06-12T23:16:49Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 71,
+  "count": 68,
   "articles": [
+    {
+      "id": "5ece62acac7769532af617f432a7253873501a18",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27745723",
+      "published_utc": "2026-06-12T23:12:47Z",
+      "title_en": "In seven regions of the Russian Federation, an average salary of over 150 thousand rubles was noted in March",
+      "lead_en": "We are talking about the Kamchatka Territory, Yakutia, Sakhalin and Magadan regions, Yamalo-Nenets Autonomous Okrug, Moscow and Chukotka",
+      "title_raw": "В семи регионах РФ отмечена средняя зарплата свыше 150 тыс. рублей в марте",
+      "lead_raw": "Речь идет о Камчатском крае, Якутии, Сахалинской и Магаданской областях, Ямало-Ненецком АО, Москве и Чукотке",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "339a16b988574ab773b6b71f67a4fa8aa4173780",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27745657",
+      "published_utc": "2026-06-12T22:42:44Z",
+      "title_en": "Dmitriev: Russia told the truth about US biological laboratories in Ukraine",
+      "lead_en": "The Special Representative of the President of the Russian Federation for investment and economic cooperation with foreign countries called on Wikipedia to correct the article about these objects, entitled “conspiracy theory”",
+      "title_raw": "Дмитриев: Россия говорила правду о биолабораториях США на Украине",
+      "lead_raw": "Спецпредставитель президента РФ по инвестиционно-экономическому сотрудничеству с зарубежными странами призвал \"Википедию\" исправить статью об этих объектах, озаглавленную как \"конспирологическая теория\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "447c5a13a11714951a6b28900ede130a8b38d5e9",
       "source": "TASS (RU)",
@@ -1339,111 +1379,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "e30edd67253c912a25b5a39b0242a55e836230f3",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27725485",
-      "published_utc": "2026-06-10T22:04:33Z",
-      "title_en": "Deputy Chairman of the Central Bank of the Russian Federation: if the monetary policy were too strict, then there would be a decline in GDP",
-      "lead_en": "Alexey Zabotkin added that unemployment would have increased, and inflation would have been significantly below the target level",
-      "title_raw": "Зампред ЦБ РФ: если бы ДКП была чрезмерно жесткой, то наблюдался бы спад ВВП",
-      "lead_raw": "Алексей Заботкин добавил, что выросла бы безработица, а инфляция оказалась бы значительно ниже целевого уровня",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "61d4877591ad754c8cef5d50dc9746c1859119eb",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27725491",
-      "published_utc": "2026-06-10T21:53:29Z",
-      "title_en": "Central Bank: increase in prices for raw materials from resources lost due to Hormuz is pro-inflationary",
-      "lead_en": "Deputy Governor of the Bank of Russia Alexey Zabotkin noted that the blockade of the Strait of Hormuz affects the economy, including through the strengthening of the exchange rate",
-      "title_raw": "ЦБ: рост цен на сырье из недополученных из-за Ормуза ресурсов проинфляционен",
-      "lead_raw": "Замглавы Банка России Алексей Заботкин отметил, что блокада Ормузского пролива влияет на экономику в том числе через укрепление обменного курса",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "cb0ba60513cf5235c3084cbdc3d4bfa83b571cf8",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27725473",
-      "published_utc": "2026-06-10T21:53:05Z",
-      "title_en": "The Central Bank sees no signs of failure in SMEs’ ​​assessments of the economic situation",
-      "lead_en": "According to small businesses, the current situation is more likely to correspond to a scenario of restrained, but still positive growth, noted Deputy Chairman of the Bank of Russia Alexey Zabotkin",
-      "title_raw": "ЦБ не видит признаков провала оценок экономической ситуации у МСБ",
-      "lead_raw": "По оценкам самого малого бизнеса, текущая ситуация скорее соответствует сценарию сдержанного, но все же положительного роста, отметил заместитель председателя Банка России Алексей Заботкин",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "fc84f68ae4bea907f21293e557769e84b5e63c1a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27725461",
-      "published_utc": "2026-06-10T21:52:15Z",
-      "title_en": "Deputy Chairman of the Central Bank: the task of returning inflation to the level of 4% remains unchanged",
-      "lead_en": "The Bank of Russia is obliged to ensure low inflation, noted Alexey Zabotkin",
-      "title_raw": "Зампред ЦБ: задача возвращения инфляции к уровню 4% неизменна",
-      "lead_raw": "Банк России обязан обеспечивать низкую инфляцию, отметил Алексей Заботкин",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "a8c50ab8d172413546be2d585163c4d5d00680fb",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27725449",
-      "published_utc": "2026-06-10T21:51:40Z",
-      "title_en": "Deputy Chairman of the Central Bank: the Russian economy is still slightly above its potential level",
-      "lead_en": "The growth rate of the stable part of prices is below the level of annual inflation, noted Alexey Zabotkin",
-      "title_raw": "Зампред ЦБ: экономика России по-прежнему несколько выше потенциального уровня",
-      "lead_raw": "Темпы роста устойчивой части цен находятся ниже уровня годовой инфляции, отметил Алексей Заботкин",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
