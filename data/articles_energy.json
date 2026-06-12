@@ -1,9 +1,73 @@
 {
-  "updated_at_utc": "2026-06-12T03:57:49Z",
+  "updated_at_utc": "2026-06-12T08:37:29Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 35,
+  "count": 34,
   "articles": [
+    {
+      "id": "eda9c559b31efa8e0608faba78fa176190ed3a1c",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/06/12/city-in-tatarstan-cancels-russia-day-events-after-drone-hits-apartment-building-ukrainian-telegram-channels-report-fire-at-oil-refinery",
+      "published_utc": "2026-06-12T07:53:27Z",
+      "title_en": "City in Tatarstan cancels Russia Day events after drone hits apartment building. Ukrainian Telegram channels report fire at oil refinery.",
+      "lead_en": "Ukrainian drones struck the Republic of Tatarstan overnight, hitting industrial facilities and at least one apartment building, regional head Rustam Minnikhanov said. The republic’s prime minister traveled to the scene, he added.",
+      "title_raw": "City in Tatarstan cancels Russia Day events after drone hits apartment building. Ukrainian Telegram channels report fire at oil refinery.",
+      "lead_raw": "Ukrainian drones struck the Republic of Tatarstan overnight, hitting industrial facilities and at least one apartment building, regional head Rustam Minnikhanov said. The republic’s prime minister traveled to the scene, he added.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "5cb72bfe9df7e9ef50abd170e22716a447402f01",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27740507",
+      "published_utc": "2026-06-12T07:47:46Z",
+      "title_en": "JDD: Instead of diplomacy, Europe puts forward unacceptable conditions for Ukraine to the Russian Federation",
+      "lead_en": "This calls into question the EU’s desire to resolve the conflict, the newspaper writes.",
+      "title_raw": "JDD: Европа вместо дипломатии выдвигает РФ неприемлемые условия по Украине",
+      "lead_raw": "Это ставит под сомнение стремление ЕС к урегулированию конфликта, пишет газета",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "ccb1ca327d58b68775838e906c013a18905c9980",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27740289",
+      "published_utc": "2026-06-12T07:34:48Z",
+      "title_en": "Berliner Zeitung: restrictions on fish imports from Russia will hit German companies",
+      "lead_en": "In recent years, Germany has increased imports of fish products from Russia, the newspaper noted.",
+      "title_raw": "Berliner Zeitung: ограничения на рыбный импорт из РФ ударят по компаниям ФРГ",
+      "lead_raw": "В последние годы Германия нарастила импорт рыбной продукции из России, отметила газета",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "5bea4223c9bc1e7422306526587094c3b171243b",
       "source": "TASS (RU)",
@@ -656,91 +720,6 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "fff9077f485bfbc334dfb2359cf506463c1f81c0",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/06/10/ukraine-strikes-defense-plant-in-russia-drone-attack-sets-oil-refinery-ablaze",
-      "published_utc": "2026-06-10T06:53:39Z",
-      "title_en": "Ukraine strikes defense plant in Russia, drone attack sets oil refinery ablaze",
-      "lead_en": "Ukrainian drones and missiles struck Russian regions and occupied Crimea overnight on June 10. Russia’s Defense Ministry said air defense forces shot down 326 drones.",
-      "title_raw": "Ukraine strikes defense plant in Russia, drone attack sets oil refinery ablaze",
-      "lead_raw": "Ukrainian drones and missiles struck Russian regions and occupied Crimea overnight on June 10. Russia’s Defense Ministry said air defense forces shot down 326 drones.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "23325dcde82d75172c55d67483b0974d523585ee",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27713215",
-      "published_utc": "2026-06-10T04:58:31Z",
-      "title_en": "Kazakhstan announced its readiness to increase the transportation of Russian gas to Uzbekistan",
-      "lead_en": "On the Kazakh side, everything is ready for this, noted Energy Minister of the Republic Erlan Akkenzhenov",
-      "title_raw": "Казахстан заявил о готовности увеличить транспортировку газа РФ в Узбекистан",
-      "lead_raw": "На казахстанской стороне все для этого готово, отметил министр энергетики республики Ерлан Аккенженов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "46d99ffb6fab3939d5415d618022d47638a1ae67",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27712989",
-      "published_utc": "2026-06-10T04:23:50Z",
-      "title_en": "Rosstandart: Russian GOSTs in the field of nuclear technology become international",
-      "lead_en": "The head of the department, Anton Shalaev, noted that the standards of the Russian Federation are in many ways advanced",
-      "title_raw": "Росстандарт: российские ГОСТы в сфере атомной техники становятся международными",
-      "lead_raw": "Глава ведомства Антон Шалаев отметил, что стандарты РФ во многом являются передовым",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "eed31e6a443866ab17c9432b12fcb2d3a4009d52",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27712909",
-      "published_utc": "2026-06-10T04:19:42Z",
-      "title_en": "Chernichuk: the experience of Zaporizhia NPP was used in the work of the Kursk NPP and other nuclear power plants in the Russian Federation",
-      "lead_en": "Some organizational and technical developments of the Zaporozhye NPP were used there, the plant director said",
-      "title_raw": "Черничук: опыт ЗАЭС применяли в работе Курской АЭС и других атомных станций РФ",
-      "lead_raw": "Там использовали некоторые организационные и технические наработки Запорожской АЭС, рассказал директор станции",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
         "economy": 0,
         "local_events": 0
       },
