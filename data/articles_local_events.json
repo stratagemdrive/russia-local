@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-06-13T12:24:49Z",
+  "updated_at_utc": "2026-06-13T15:00:08Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 13,
+  "count": 11,
   "articles": [
+    {
+      "id": "3276f4963023fcda9fde018be8a00c8142a94b80",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27749075",
+      "published_utc": "2026-06-13T14:54:35Z",
+      "title_en": "In the Oryol region, the danger of a UAV attack has been canceled",
+      "lead_en": "This was reported in the official application of the Russian Ministry of Emergency Situations",
+      "title_raw": "В Орловской области отменили опасность атаки БПЛА",
+      "lead_raw": "Об этом сообщили в официальном приложении МЧС России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "9e866cf9f28fd794a056b9f4770064a3c6059ed3",
       "source": "TASS (RU)",
@@ -202,65 +221,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "02e7494ec97476bae877abc2a1d3cb8571b83648",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27734793",
-      "published_utc": "2026-06-11T13:30:14Z",
-      "title_en": "Ministry of Construction: the number of accidents in the heating season decreased in the Russian Federation by 14%",
-      "lead_en": "The department noted that the average elimination time was four hours.",
-      "title_raw": "Минстрой: число аварий в отопительном сезоне снизилось в РФ на 14%",
-      "lead_raw": "В ведомстве отметили, что среднее время устранения составило четыре часа",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "d9dfea7971a942e428cd9a7903552e8b34baf3a1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/nedvizhimost/27734627",
-      "published_utc": "2026-06-11T13:15:06Z",
-      "title_en": "Khusnullin: Russian authorities approved applications from 77 regions for the resettlement of emergency housing",
-      "lead_en": "Thanks to this, 66 thousand people will be resettled",
-      "title_raw": "Хуснуллин: власти РФ одобрили заявки 77 регионов на расселение аварийного жилья",
-      "lead_raw": "Благодаря этому будет переселено 66 тыс. человек",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "afbd8ca426c24072e6401df0b770dff359bc45f7",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27734301",
-      "published_utc": "2026-06-11T12:57:56Z",
-      "title_en": "The Ministry of Energy expects an increase in energy consumption in the south of the Russian Federation in the summer by 7%",
-      "lead_en": "A set of measures is being implemented to ensure trouble-free passage of the spring-summer period, which is characterized by increased consumption and high load on the energy system, stressed Energy Minister Sergei Tsivilev",
-      "title_raw": "Минэнерго ждет роста энергопотребления на юге РФ в летний период на 7%",
-      "lead_raw": "Реализуется комплекс мер по безаварийному прохождению весенне-летнего периода, который характеризуется ростом потребления и высокой нагрузкой на энергосистему, подчеркнул министр энергетики Сергей Цивилев",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }

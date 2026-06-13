@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-06-13T12:24:49Z",
+  "updated_at_utc": "2026-06-13T15:00:08Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 26,
+  "count": 24,
   "articles": [
+    {
+      "id": "c0a09e40b57f598c97aa071fce46119911b87b90",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27748713",
+      "published_utc": "2026-06-13T13:18:24Z",
+      "title_en": "Foreign airlines began to refuel more at Russian airports",
+      "lead_en": "When landing at alternate airfields, airlines began to refuel in quantities higher than those required for the flight, which is reflected in the planning of supplies and logistics of energy resources to several airports",
+      "title_raw": "Иностранные авиакомпании стали больше заправляться в аэропортах России",
+      "lead_raw": "При посадках на запасных аэродромах авиакомпании стали дозаправляться в объемах выше необходимых для выполнения рейса, что отражается на планировании поставок и логистике энергоресурсов в адрес нескольких аэропортов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "c87cb80d8afa89707a1356fda49e42c8379f1f48",
       "source": "TASS (RU)",
@@ -494,69 +515,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "fec0602a0256d6ef63bba9bad76bbbf73caf0cbc",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27734319",
-      "published_utc": "2026-06-11T12:58:33Z",
-      "title_en": "Ministry of Energy: 18 billion rubles allocated to help the energy sector of Donbass and Novorossia",
-      "lead_en": "According to Energy Minister Sergei Tsivilev, the department’s monitoring shows that systemically important companies are meeting key readiness indicators",
-      "title_raw": "Минэнерго: на помощь энергетике Донбасса и Новороссии выделили 18 млрд рублей",
-      "lead_raw": "По словам министра энергетики Сергея Цивилева, проводимый ведомством мониторинг показывает, что системообразующие компании выполняют основные показатели готовности",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "afbd8ca426c24072e6401df0b770dff359bc45f7",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27734301",
-      "published_utc": "2026-06-11T12:57:56Z",
-      "title_en": "The Ministry of Energy expects an increase in energy consumption in the south of the Russian Federation in the summer by 7%",
-      "lead_en": "A set of measures is being implemented to ensure trouble-free passage of the spring-summer period, which is characterized by increased consumption and high load on the energy system, stressed Energy Minister Sergei Tsivilev",
-      "title_raw": "Минэнерго ждет роста энергопотребления на юге РФ в летний период на 7%",
-      "lead_raw": "Реализуется комплекс мер по безаварийному прохождению весенне-летнего периода, который характеризуется ростом потребления и высокой нагрузкой на энергосистему, подчеркнул министр энергетики Сергей Цивилев",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "8318d5f141cf763da2e3f46c72cda3a946c6f038",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2145509",
-      "published_utc": "2026-06-11T12:25:06Z",
-      "title_en": "Russia lowered oil production in May by 9,000 bpd — OPEC",
-      "lead_en": "According to the report, Russia’s oil production was below the OPEC+ target with compensations and voluntary cuts taken into account by 690,000 bpd",
-      "title_raw": "Russia lowered oil production in May by 9,000 bpd — OPEC",
-      "lead_raw": "According to the report, Russia’s oil production was below the OPEC+ target with compensations and voluntary cuts taken into account by 690,000 bpd",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }

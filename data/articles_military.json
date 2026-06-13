@@ -1,21 +1,42 @@
 {
-  "updated_at_utc": "2026-06-13T12:24:49Z",
+  "updated_at_utc": "2026-06-13T15:00:08Z",
   "keep_hours": 48,
   "topic": "military",
-  "count": 93,
+  "count": 94,
   "articles": [
     {
-      "id": "b6dd7fc8895c145f16c8a3981009090eacfb0043",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27748315",
-      "published_utc": "2026-06-13T12:23:35Z",
-      "title_en": "Foreign Ministry: Russian nuclear weapons in Belarus create a counterweight to neo-Nazi Ukraine",
-      "lead_en": "",
-      "title_raw": "МИД: ядерное оружие РФ в Белоруссии создает противовес неонацистской Украине",
-      "lead_raw": "",
+      "id": "3ab71d94f4ac9d68ec9ca30558e79d690a28d105",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2146045",
+      "published_utc": "2026-06-13T14:01:37Z",
+      "title_en": "Russia hits Ukrainian army deployment sites in DPR with FAB bombs — Defense Ministry",
+      "lead_en": "As a result of the airstrikes, the enemy's temporary deployment points were hit, which was confirmed by means of objective monitoring in real time, said the Russian Defense Ministry",
+      "title_raw": "Russia hits Ukrainian army deployment sites in DPR with FAB bombs — Defense Ministry",
+      "lead_raw": "As a result of the airstrikes, the enemy's temporary deployment points were hit, which was confirmed by means of objective monitoring in real time, said the Russian Defense Ministry",
       "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "19fdc7afa0190a4ccf76dda076e03a2f26c2faef",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2146039",
+      "published_utc": "2026-06-13T13:39:20Z",
+      "title_en": "Russian nuclear weapons in Belarus create counterbalance to neo-Nazi Ukraine, NATO — MFA",
+      "lead_en": "Amid the turbulent military and political situation in the world, Russia and Belarus have lately \"taken serious measures to strengthen the common defense and security space of the Union State,\" the Russian Foreign Ministry said",
+      "title_raw": "Russian nuclear weapons in Belarus create counterbalance to neo-Nazi Ukraine, NATO — MFA",
+      "lead_raw": "Amid the turbulent military and political situation in the world, Russia and Belarus have lately \"taken serious measures to strengthen the common defense and security space of the Union State,\" the Russian Foreign Ministry said",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 3,
         "energy": 0,
         "economy": 0,
         "local_events": 0
@@ -24,7 +45,71 @@
         "diplomacy",
         "military"
       ],
-      "primary_topic": "diplomacy"
+      "primary_topic": "military"
+    },
+    {
+      "id": "76af09e09b7b891ce739dbabc74986b8e5fe2578",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27748723",
+      "published_utc": "2026-06-13T13:24:01Z",
+      "title_en": "Tsivileva stated the importance of supporting active military personnel with disabilities",
+      "lead_en": "The State Secretary - Deputy Minister of Defense of the Russian Federation noted that \"it is important to surround them with care and attention, to provide opportunities for an active life\"",
+      "title_raw": "Цивилева заявила о важности поддержки действующих военнослужащих с инвалидностью",
+      "lead_raw": "Статс-секретарь - заместитель министра обороны РФ отметила, что \"важно окружить их заботой и вниманием, предоставить возможности для активной жизни\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "cbd9354c7b30ad8a064e6eb91859f292450ed640",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2146019",
+      "published_utc": "2026-06-13T13:23:06Z",
+      "title_en": "Russian troops retain strategic initiative, steadily move forward — Putin",
+      "lead_en": "The Kiev regime is unable to hold back this advance and resorts to terrorist methods, the Russian president said",
+      "title_raw": "Russian troops retain strategic initiative, steadily move forward — Putin",
+      "lead_raw": "The Kiev regime is unable to hold back this advance and resorts to terrorist methods, the Russian president said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "b6dd7fc8895c145f16c8a3981009090eacfb0043",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27748315",
+      "published_utc": "2026-06-13T12:23:35Z",
+      "title_en": "Russian Foreign Ministry: nuclear weapons in Moscow and Minsk create a counterweight to neo-Nazi Kyiv",
+      "lead_en": "In the context of a turbulent military-political situation in the world, Russia and Belarus in recent years “have taken serious measures to strengthen the common space of defense and security of the Union State,” noted the Russian diplomatic service",
+      "title_raw": "МИД РФ: ядерное оружие Москвы и Минска создает противовес неонацистскому Киеву",
+      "lead_raw": "В условиях турбулентной военно-политической ситуации в мире, Россией и Белоруссией в последние годы \"приняты серьезные меры по укреплению общего пространства обороны и безопасности Союзного Государства\", отметили в дипведомстве РФ",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "military"
     },
     {
       "id": "d377d94bf74f116893ec5942119d2d2a01183f41",
@@ -1469,7 +1554,7 @@
       "url": "https://tass.ru/armiya-i-opk/27739189",
       "published_utc": "2026-06-12T03:33:31Z",
       "title_en": "TASS: new units of the military police of Ukraine have been deployed near Chernigov",
-      "lead_en": "The military personnel were given the task of detaining deserters, Russian law enforcement agencies reported.",
+      "lead_en": "The military personnel were given the task of detaining deserters, Russian security forces reported",
       "title_raw": "ТАСС: новые подразделения военной полиции Украины брошены под Чернигов",
       "lead_raw": "Военнослужащим поставили задачу задерживать дезертиров, сообщили в российских силовых структурах",
       "topic_scores": {
@@ -1895,70 +1980,6 @@
       "lead_en": "Sergey Lavrov and Abdullatif bin Rashid Al Zayani exchanged views on Russia’s updated concept of ensuring collective security in the Persian Gulf area",
       "title_raw": "Russia, Bahrain push for restoring safe passage through Hormuz — Russian MFA",
       "lead_raw": "Sergey Lavrov and Abdullatif bin Rashid Al Zayani exchanged views on Russia’s updated concept of ensuring collective security in the Persian Gulf area",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "400a09af309ab3f579afe1ea10f91ab673405bf1",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2145573",
-      "published_utc": "2026-06-11T13:32:38Z",
-      "title_en": "Russian tech firm unveils Katyusha ground robotic vehicles at Fleet 2026 naval show",
-      "lead_en": "Katyusha unmanned ground platforms are already supplied to Russian troops in the special military operation area in Ukraine",
-      "title_raw": "Russian tech firm unveils Katyusha ground robotic vehicles at Fleet 2026 naval show",
-      "lead_raw": "Katyusha unmanned ground platforms are already supplied to Russian troops in the special military operation area in Ukraine",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "435316b38cac23c31246ed15ca69491f5ece8c57",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2145541",
-      "published_utc": "2026-06-11T12:52:39Z",
-      "title_en": "Russian troops liberate two communities in Ukraine operation over past day — top brass",
-      "lead_en": "Russia’s Battlegroup North inflicted more than 205 casualties on Ukrainian troops and destroyed an enemy tank and a US-made armored vehicle in its areas of responsibility over the past day, the Defense Ministry reported",
-      "title_raw": "Russian troops liberate two communities in Ukraine operation over past day — top brass",
-      "lead_raw": "Russia’s Battlegroup North inflicted more than 205 casualties on Ukrainian troops and destroyed an enemy tank and a US-made armored vehicle in its areas of responsibility over the past day, the Defense Ministry reported",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "9d77a38eb38933a9f129b9a749107e278a089014",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2145529",
-      "published_utc": "2026-06-11T12:43:03Z",
-      "title_en": "IN BRIEF: Key statements from Kremlin spokesman Peskov briefing",
-      "lead_en": "According to Dmitry Peskov, Russia is concerned about the latest escalation between the US and Iran and calls on all parties to exercise restraint and return to negotiations",
-      "title_raw": "IN BRIEF: Key statements from Kremlin spokesman Peskov briefing",
-      "lead_raw": "According to Dmitry Peskov, Russia is concerned about the latest escalation between the US and Iran and calls on all parties to exercise restraint and return to negotiations",
       "topic_scores": {
         "diplomacy": 1,
         "military": 1,
