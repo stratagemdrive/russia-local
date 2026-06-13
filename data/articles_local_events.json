@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-06-13T07:47:18Z",
+  "updated_at_utc": "2026-06-13T10:28:37Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 11,
+  "count": 13,
   "articles": [
+    {
+      "id": "9e866cf9f28fd794a056b9f4770064a3c6059ed3",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27747409",
+      "published_utc": "2026-06-13T10:15:11Z",
+      "title_en": "In the Krasnodar Territory, the unmanned threat was canceled",
+      "lead_en": "This is reported in the application of the Ministry of Emergency Situations of Russia",
+      "title_raw": "В Краснодарском крае отменили беспилотную опасность",
+      "lead_raw": "Об этом сообщается в приложении МЧС России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "46605f9412f2511c6c6e41c5c3c5a4477ef18d25",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2145971",
+      "published_utc": "2026-06-13T09:04:15Z",
+      "title_en": "Light motor plane crash-lands near Volgograd in southern Russia",
+      "lead_en": "One person was injured in the incident",
+      "title_raw": "Light motor plane crash-lands near Volgograd in southern Russia",
+      "lead_raw": "One person was injured in the incident",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "ee704aa40431bca1c57541d4365820abeae5a610",
       "source": "Meduza (EN)",
