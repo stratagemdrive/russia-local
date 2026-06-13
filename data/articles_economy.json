@@ -1,9 +1,110 @@
 {
-  "updated_at_utc": "2026-06-13T10:28:37Z",
+  "updated_at_utc": "2026-06-13T12:24:49Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 57,
+  "count": 60,
   "articles": [
+    {
+      "id": "185fdff1971e6a4cfd9ad099d41be4ce9c50e1e5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27748257",
+      "published_utc": "2026-06-13T12:18:51Z",
+      "title_en": "MFA: Russia and Belarus are strengthening technological sovereignty against the backdrop of Western sanctions",
+      "lead_en": "",
+      "title_raw": "МИД: РФ и Белоруссия укрепляют технологический суверенитет на фоне санкций Запада",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "b4c06d4c9559c62a99173fc1d407c746cf423f2c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27747963",
+      "published_utc": "2026-06-13T11:29:17Z",
+      "title_en": "Putin instructed to focus efforts on implementing the development strategy for the Azov region",
+      "lead_en": "The President of the Russian Federation noted the importance of actively implementing advanced scientific and technological solutions, creating conditions for attracting investment in technological development projects",
+      "title_raw": "Путин поручил сосредоточить усилия на реализации стратегии развития Приазовья",
+      "lead_raw": "Президент РФ отметил принципиальность активного внедрения передовых научно-технологических решений, создания условий для привлечения инвестиций в проекты технологического развития",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "5b2379baeade08194e4189458392451fb00eae0b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27747723",
+      "published_utc": "2026-06-13T10:59:28Z",
+      "title_en": "Khusnullin: investments through the banking sector in Donbass and Novorossia increased by 30%",
+      "lead_en": "The Russian Deputy Prime Minister spoke about this at a meeting with President Vladimir Putin on the development of Donbass and Novorossiya",
+      "title_raw": "Хуснуллин: инвестиции через банковский сектор в Донбассе и Новороссии выросли на 30%",
+      "lead_raw": "Вице-премьер РФ рассказал об этом на совещании с президентом Владимиром Путиным по развитию Донбасса и Новороссии",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "df795273d2c7bb4606e5b2d297ec55a8ea40e2ff",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27747637",
+      "published_utc": "2026-06-13T10:48:43Z",
+      "title_en": "Khusnullin: tax revenues of Donbass and Novorossia in 2025 increased by 22%",
+      "lead_en": "Their volume exceeded 435 billion rubles, noted the Deputy Prime Minister of the Russian Federation",
+      "title_raw": "Хуснуллин: налоговые поступления Донбасса и Новороссии в 2025 году выросли на 22%",
+      "lead_raw": "Их объем превысил 435 млрд рублей, отметил вице-премьер РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "de7386b0db2f3c165f03cfc5adfaca6d891f58c5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27747591",
+      "published_utc": "2026-06-13T10:45:21Z",
+      "title_en": "Declared investments in the FEZ of Donbass and Novorossiya amount to 383 billion rubles",
+      "lead_en": "The number of participants has already reached 500, noted Deputy Prime Minister of the Russian Federation Marat Khusnullin",
+      "title_raw": "Заявленные инвестиции в СЭЗ Донбасса и Новороссии составляют 383 млрд рублей",
+      "lead_raw": "Число участников уже достигло 500, отметил вице-премьер РФ Марат Хуснуллин",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "57e84defa3c1b6ae09a1120b8000ab1a3b29f51f",
       "source": "TASS (RU)",
@@ -1112,48 +1213,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "0f9db9cdaa7142b181d04d557edcf667f364a23b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2145487",
-      "published_utc": "2026-06-11T11:36:28Z",
-      "title_en": "EU won’t include aluminum, alumina in 21st sanctions package against Russia — EC",
-      "lead_en": "Earlier, a high-profile political scandal erupted in Ireland over reports of large shipments of local alumina to Russia, despite the fact that there are no restrictions on the trade of this raw material",
-      "title_raw": "EU won’t include aluminum, alumina in 21st sanctions package against Russia — EC",
-      "lead_raw": "Earlier, a high-profile political scandal erupted in Ireland over reports of large shipments of local alumina to Russia, despite the fact that there are no restrictions on the trade of this raw material",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "a7c590d20ba0c441e65a4d6a37467db921bce04e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2145469",
-      "published_utc": "2026-06-11T10:42:33Z",
-      "title_en": "Russia's trade surplus down 3.36% in January-April 2026",
-      "lead_en": "Exports during the reporting period increased by $4.5 bln to $135.4 bln, while imports rose by $6 bln to $92.3 bln",
-      "title_raw": "Russia's trade surplus down 3.36% in January-April 2026",
-      "lead_raw": "Exports during the reporting period increased by $4.5 bln to $135.4 bln, while imports rose by $6 bln to $92.3 bln",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
