@@ -1,8 +1,574 @@
 {
-  "updated_at_utc": "2026-06-13T12:24:49Z",
+  "updated_at_utc": "2026-06-13T15:00:08Z",
   "keep_hours": 48,
-  "count": 541,
+  "count": 520,
   "articles": [
+    {
+      "id": "3276f4963023fcda9fde018be8a00c8142a94b80",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27749075",
+      "published_utc": "2026-06-13T14:54:35Z",
+      "title_en": "In the Oryol region, the danger of a UAV attack has been canceled",
+      "lead_en": "This was reported in the official application of the Russian Ministry of Emergency Situations",
+      "title_raw": "В Орловской области отменили опасность атаки БПЛА",
+      "lead_raw": "Об этом сообщили в официальном приложении МЧС России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "72eeaf1c5d7ea1bca8b6b3999392b1528669d54f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27748397",
+      "published_utc": "2026-06-13T14:50:29Z",
+      "title_en": "In Russia it was proposed to oblige retail chains to indicate prices for berries per kilogram",
+      "lead_en": "As a measure to reduce prices, Chairman of the Pensioners Party Eric Prazdnikov also proposed supporting local producers",
+      "title_raw": "В России предложили обязать торговые сети указывать цены на ягоды за килограмм",
+      "lead_raw": "В качестве меры для снижения цены председатель Партии пенсионеров Эрик Праздников также предложил поддерживать местных производителей",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "14f52fcd3b4cc6e57ccc87c355d32fbc7d51f52d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27749035",
+      "published_utc": "2026-06-13T14:44:26Z",
+      "title_en": "The Ministry of Internal Affairs urged Russians to minimize the amount of personal information in the public domain",
+      "lead_en": "The department recommended removing addresses, phone numbers and information about relatives from public profiles, and not publishing photographs with geotags and data on travel routes to reduce the risk of blackmail and fraud.",
+      "title_raw": "В МВД призвали россиян минимизировать объем личной информации в открытом доступе",
+      "lead_raw": "В ведомстве рекомендовали удалить из публичных профилей адреса, номера телефонов и данные о родственниках, а также не публиковать фотографий с геометками и данными о маршрутах передвижения для снижения риска шантажа и мошенничества",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "06f77731d061b54032cd4a8ab31546bf2ea04a96",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27749019",
+      "published_utc": "2026-06-13T14:30:48Z",
+      "title_en": "GlobalSign has begun revoking the “digital passports” of Russian websites",
+      "lead_en": "The decision of the Japanese certification authority is related to the updated requirements of the International Consortium CA/Browser Forum, according to a letter from Dmitry Ryzhikov, CEO of the Russian division of GM-O Global Sign Russia, to partners",
+      "title_raw": "GlobalSign начал отзыв \"цифровых паспортов\" российских сайтов",
+      "lead_raw": "Решение японского удостоверяющего центра связано с обновленными требованиями Международного консорциума CA/Browser Forum, утверждается в письме гендиректора российского подразделения компании \"Джи-Эм-О Глобал Сайн Раша\" Дмитрия Рыжикова партнерам",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "4a0f3ab42dfa7e36f256689536eebb78febe8c25",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27748961",
+      "published_utc": "2026-06-13T14:07:26Z",
+      "title_en": "Mitrofanov assessed the match for the Russian Women's Super Cup in football",
+      "lead_en": "According to the General Secretary of the RFU, the football festival was a success",
+      "title_raw": "Митрофанов оценил матч за женский Суперкубок России по футболу",
+      "lead_raw": "По мнению генерального секретаря РФС, праздник футбола удался",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "55759210d00544facc306c03fec6d43a058b0c19",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27748959",
+      "published_utc": "2026-06-13T14:04:32Z",
+      "title_en": "The RFU called the presence of the country’s flag the main decoration of the World Cup",
+      "lead_en": "The Russian flag, among others, was under the arches of the Azteca arena at the opening match of the tournament in Mexico City",
+      "title_raw": "В РФС назвали присутствие флага страны главным украшением чемпионата мира",
+      "lead_raw": "Флаг России в числе других был под сводами арены \"Ацтека\" на матче открытия турнира в Мехико",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "3ab71d94f4ac9d68ec9ca30558e79d690a28d105",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2146045",
+      "published_utc": "2026-06-13T14:01:37Z",
+      "title_en": "Russia hits Ukrainian army deployment sites in DPR with FAB bombs — Defense Ministry",
+      "lead_en": "As a result of the airstrikes, the enemy's temporary deployment points were hit, which was confirmed by means of objective monitoring in real time, said the Russian Defense Ministry",
+      "title_raw": "Russia hits Ukrainian army deployment sites in DPR with FAB bombs — Defense Ministry",
+      "lead_raw": "As a result of the airstrikes, the enemy's temporary deployment points were hit, which was confirmed by means of objective monitoring in real time, said the Russian Defense Ministry",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "1959ee55d5ed0729250f1f428683974e0e794c40",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27748949",
+      "published_utc": "2026-06-13T14:00:40Z",
+      "title_en": "Mitrofanov spoke about negotiations on the admission of football teams and clubs",
+      "lead_en": "Russian clubs and national teams have been suspended from international tournaments since 2022",
+      "title_raw": "Митрофанов рассказал о переговорах по допуску футбольных сборных и клубов",
+      "lead_raw": "Российские клубы и сборные отстранены от международных турниров с 2022 года",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "e5fcd347740462baac2d5e8947723d98ce470f0a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27748945",
+      "published_utc": "2026-06-13T14:00:32Z",
+      "title_en": "The RFU will decide on the venue for the Russian Super Cup next week",
+      "lead_en": "The match between Spartak and Zenit will take place on July 18",
+      "title_raw": "РФС примет решение по месту проведения Суперкубка России на следующей неделе",
+      "lead_raw": "Матч между \"Спартаком\" и \"Зенитом\" пройдет 18 июля",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "345454e8734eda301a248f94a02f8d0e56f9fddd",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27748861",
+      "published_utc": "2026-06-13T13:44:47Z",
+      "title_en": "The prize of the head of the Karachay-Cherkess Republic was played at the races in honor of the Year of Unity of the Peoples of Russia",
+      "lead_en": "The prize fund amounted to 500 thousand rubles",
+      "title_raw": "Приз главы КЧР разыграли на скачках в честь Года единства народов России",
+      "lead_raw": "Призовой фонд составил 500 тыс. рублей",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "7556a259470b46e844520aed1a4666a3263b47c5",
+      "source": "RT",
+      "url": "https://www.rt.com/news/641498-sweden-russia-nato-conflict/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "published_utc": "2026-06-13T13:42:49Z",
+      "title_en": "Sweden warns of Russia-NATO conflict ‘in relatively near future’",
+      "lead_en": "Sweden claims Russia could “test” NATO defenses in the near future, as Moscow denies planning any attack Read Full Article at RT.com",
+      "title_raw": "Sweden warns of Russia-NATO conflict ‘in relatively near future’",
+      "lead_raw": "Sweden claims Russia could “test” NATO defenses in the near future, as Moscow denies planning any attack Read Full Article at RT.com",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "19fdc7afa0190a4ccf76dda076e03a2f26c2faef",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2146039",
+      "published_utc": "2026-06-13T13:39:20Z",
+      "title_en": "Russian nuclear weapons in Belarus create counterbalance to neo-Nazi Ukraine, NATO — MFA",
+      "lead_en": "Amid the turbulent military and political situation in the world, Russia and Belarus have lately \"taken serious measures to strengthen the common defense and security space of the Union State,\" the Russian Foreign Ministry said",
+      "title_raw": "Russian nuclear weapons in Belarus create counterbalance to neo-Nazi Ukraine, NATO — MFA",
+      "lead_raw": "Amid the turbulent military and political situation in the world, Russia and Belarus have lately \"taken serious measures to strengthen the common defense and security space of the Union State,\" the Russian Foreign Ministry said",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 3,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "4c0b61ea8005ebbd1275fc482ebc22b28d1c4cc0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27748767",
+      "published_utc": "2026-06-13T13:29:02Z",
+      "title_en": "Glushakov said that he gave preference to his wife’s team in the Russian Super Cup",
+      "lead_en": "The wife of the former football player Ksenia Kovalenko plays for CSKA",
+      "title_raw": "Глушаков рассказал, что отдал предпочтение команде супруги в Суперкубке России",
+      "lead_raw": "В составе ЦСКА выступает супруга бывшего футболиста Ксения Коваленко",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "1d4b53db5417fae87d086581f2de2cb0c4aa251f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27748737",
+      "published_utc": "2026-06-13T13:27:59Z",
+      "title_en": "The Russian Armed Forces in the Kramatorsk region hit the deployment points of the Armed Forces of Ukraine with air bombs",
+      "lead_en": "Temporary deployment points of the 10th separate mountain assault brigade of the Ukrainian Armed Forces were discovered in the Rai-Alexandrovka area, the 63rd separate mechanized brigade near Shchurov and the 60th separate mechanized brigade in the Liman area",
+      "title_raw": "ВС РФ в Краматорском районе авиабомбами поразили пункты дислокаций ВСУ",
+      "lead_raw": "Были обнаружены пункты временной дислокации 10-й отдельной горно-штурмовой бригады ВСУ в районе Рай-Александровки, 63-й отдельной мехбригады у Щурова и 60-й отдельной мехбригады в районе Лимана",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "12c88614375c2b873fa1c7c8625ea68d6e802bf2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27748735",
+      "published_utc": "2026-06-13T13:26:37Z",
+      "title_en": "Director of women's Spartak Terekhova called the victory in the Super Cup historic",
+      "lead_en": "Football players of the Moscow club won the Russian Super Cup for the first time in history",
+      "title_raw": "Директор женского \"Спартака\" Терехова назвала исторической победу в cуперкубке",
+      "lead_raw": "Футболистки московского клуба впервые в истории выиграли Суперкубок России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "e0498c2218cd2c5e3851639f0f50d6a8ee6d9e25",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2146021",
+      "published_utc": "2026-06-13T13:25:52Z",
+      "title_en": "Western countries aware time to pressurize Russia is running out — Dodik",
+      "lead_en": "They expected to break Russia with sanctions, leader of the Alliance of Independent Social Democrats, the leading political party in Republika Srpska, one of Bosnia and Herzegovina’s entities, said",
+      "title_raw": "Western countries aware time to pressurize Russia is running out — Dodik",
+      "lead_raw": "They expected to break Russia with sanctions, leader of the Alliance of Independent Social Democrats, the leading political party in Republika Srpska, one of Bosnia and Herzegovina’s entities, said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "76af09e09b7b891ce739dbabc74986b8e5fe2578",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27748723",
+      "published_utc": "2026-06-13T13:24:01Z",
+      "title_en": "Tsivileva stated the importance of supporting active military personnel with disabilities",
+      "lead_en": "The State Secretary - Deputy Minister of Defense of the Russian Federation noted that \"it is important to surround them with care and attention, to provide opportunities for an active life\"",
+      "title_raw": "Цивилева заявила о важности поддержки действующих военнослужащих с инвалидностью",
+      "lead_raw": "Статс-секретарь - заместитель министра обороны РФ отметила, что \"важно окружить их заботой и вниманием, предоставить возможности для активной жизни\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "cbd9354c7b30ad8a064e6eb91859f292450ed640",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2146019",
+      "published_utc": "2026-06-13T13:23:06Z",
+      "title_en": "Russian troops retain strategic initiative, steadily move forward — Putin",
+      "lead_en": "The Kiev regime is unable to hold back this advance and resorts to terrorist methods, the Russian president said",
+      "title_raw": "Russian troops retain strategic initiative, steadily move forward — Putin",
+      "lead_raw": "The Kiev regime is unable to hold back this advance and resorts to terrorist methods, the Russian president said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "674f6005c9efd2ae1d1d637b8239cfefe27192b0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27748611",
+      "published_utc": "2026-06-13T13:19:17Z",
+      "title_en": "Golikova: in Donbass and Novorossiya, 1.9 million people are undergoing medical examination",
+      "lead_en": "The Deputy Prime Minister emphasized that special attention is paid to the participants of the special operation",
+      "title_raw": "Голикова: в Донбассе и Новороссии 1,9 млн человек проходят диспансеризацию",
+      "lead_raw": "Вице-премьер подчеркнула, что отдельное внимание уделяется участникам спецоперации",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c0a09e40b57f598c97aa071fce46119911b87b90",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27748713",
+      "published_utc": "2026-06-13T13:18:24Z",
+      "title_en": "Foreign airlines began to refuel more at Russian airports",
+      "lead_en": "When landing at alternate airfields, airlines began to refuel in quantities higher than those required for the flight, which is reflected in the planning of supplies and logistics of energy resources to several airports",
+      "title_raw": "Иностранные авиакомпании стали больше заправляться в аэропортах России",
+      "lead_raw": "При посадках на запасных аэродромах авиакомпании стали дозаправляться в объемах выше необходимых для выполнения рейса, что отражается на планировании поставок и логистике энергоресурсов в адрес нескольких аэропортов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "f1036b7419c7c4196016c20f8ae0e4145008fcd2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27748667",
+      "published_utc": "2026-06-13T13:16:42Z",
+      "title_en": "Golikova: in Donbass and Novorossia the availability of medical care has tripled",
+      "lead_en": "According to the Deputy Prime Minister, in 2023, 4.3 thousand patients were covered by high-tech medical care, and in 2025 - 12 thousand.",
+      "title_raw": "Голикова: в Донбассе и Новороссии в три раза выросла доступность медпомощи",
+      "lead_raw": "По словам вице-премьера, в 2023 году высокотехнологичной медицинской помощью было охвачено 4,3 тыс. пациентов, в 2025-м - 12 тыс.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "d473fb20dfb86cc48e77d86e4c1e60acd6fcdb91",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27748695",
+      "published_utc": "2026-06-13T13:15:11Z",
+      "title_en": "Russian Mironova won the World Billiards Championship for the 16th time",
+      "lead_en": "In the final match she beat compatriot Elina Nagula",
+      "title_raw": "Россиянка Миронова в 16-й раз выиграла чемпионат мира по бильярду",
+      "lead_raw": "В финальном матче она обыграла соотечественницу Элину Нагулу",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "2421f009478f64733ddc60dc87db005c66308be3",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27748511",
+      "published_utc": "2026-06-13T12:55:52Z",
+      "title_en": "Khusnullin: funding for road development will be increased in Donbass and Novorossiya",
+      "lead_en": "All federal roads of the constituent entities have already been brought into standard condition, noted Khusnullin",
+      "title_raw": "Хуснуллин: в Донбассе и Новороссии увеличат финансирование развития дорог",
+      "lead_raw": "Все федеральные дороги субъектов уже приведены в нормативное состояние, отметил Хуснуллин",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ba4c9816acabfc028efe7bdca9892add9667cccd",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27748239",
+      "published_utc": "2026-06-13T12:53:01Z",
+      "title_en": "Development of Donbass and Novorossiya and the situation in the Northeast Military District zone. The main thing from the meeting with Putin",
+      "lead_en": "The President thanked all residents of the reunified regions of Russia for their courage and perseverance",
+      "title_raw": "Развитие Донбасса и Новороссии и ситуация в зоне СВО. Главное из совещания с Путиным",
+      "lead_raw": "Президент поблагодарил всех жителей воссоединенных субъектов России за мужество и стойкость",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "a7641998e78eac3370e1b9296fbc26b09909f987",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27748465",
+      "published_utc": "2026-06-13T12:48:55Z",
+      "title_en": "Ukraine imposed sanctions against 10 telecom operators and Internet providers in the Russian Federation",
+      "lead_en": "The list also includes FSUE \"Space Communications\"",
+      "title_raw": "Украина ввела санкции против 10 операторов связи и интернет-провайдеров РФ",
+      "lead_raw": "В перечень в том числе вошло ФГУП \"Космическая связь\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "668ec57fd499dbce20b18e13f5bd6c9715fd0c60",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27748447",
+      "published_utc": "2026-06-13T12:46:02Z",
+      "title_en": "The Russian Armed Forces \"Geranya\" hit the UAV production workshop of the Armed Forces of Ukraine in the Kharkov region",
+      "lead_en": "The attack was carried out in the area of ​​​​the village of Chuguev",
+      "title_raw": "ВС РФ \"Геранью\" поразили цех производства БПЛА ВСУ в Харьковской области",
+      "lead_raw": "Атака велась в районе населенного пункта Чугуев",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "1928eecd4c043c6ecf045711558283028b722c7b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2146017",
+      "published_utc": "2026-06-13T12:43:30Z",
+      "title_en": "Donbass, Novorossiya to reach general Russian level by 2030 — Putin",
+      "lead_en": "In April 2023, the Russian government approved a comprehensive program of the social and economic development of Donbass and Novorossiya, the Russian president said",
+      "title_raw": "Donbass, Novorossiya to reach general Russian level by 2030 — Putin",
+      "lead_raw": "In April 2023, the Russian government approved a comprehensive program of the social and economic development of Donbass and Novorossiya, the Russian president said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "aa8f82f4d5b462bec11534b2673bdf28f50f5238",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27748329",
+      "published_utc": "2026-06-13T12:29:06Z",
+      "title_en": "Dmitriev wondered what other “false narratives” about Russia would be refuted",
+      "lead_en": "The Russian Federation was right regarding the biological laboratories of former US leaders Barack Obama and Joe Biden, the head of the RDIF pointed out.",
+      "title_raw": "Дмитриев задался вопросом, какие еще \"ложные нарративы\" о России опровергнут",
+      "lead_raw": "РФ оказалась права в отношении биолабораторий экс-лидеров США Барака Обамы и Джо Байдена, указал глава РФПИ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "46c2dbff918b48e9841a69cf4f3274e1e13841ee",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27748347",
+      "published_utc": "2026-06-13T12:28:14Z",
+      "title_en": "Spartak football players defeated CSKA and won the Russian Super Cup for the first time",
+      "lead_en": "The meeting ended with the score 1:0",
+      "title_raw": "Футболистки \"Спартака\" победили ЦСКА и впервые выиграли Суперкубок России",
+      "lead_raw": "Встреча завершилась со счетом 1:0",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "0a9233945daebe0dc77d859c14f79a021ae89703",
       "source": "TASS (RU)",
@@ -29,13 +595,13 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/politika/27748315",
       "published_utc": "2026-06-13T12:23:35Z",
-      "title_en": "Foreign Ministry: Russian nuclear weapons in Belarus create a counterweight to neo-Nazi Ukraine",
-      "lead_en": "",
-      "title_raw": "МИД: ядерное оружие РФ в Белоруссии создает противовес неонацистской Украине",
-      "lead_raw": "",
+      "title_en": "Russian Foreign Ministry: nuclear weapons in Moscow and Minsk create a counterweight to neo-Nazi Kyiv",
+      "lead_en": "In the context of a turbulent military-political situation in the world, Russia and Belarus in recent years “have taken serious measures to strengthen the common space of defense and security of the Union State,” noted the Russian diplomatic service",
+      "title_raw": "МИД РФ: ядерное оружие Москвы и Минска создает противовес неонацистскому Киеву",
+      "lead_raw": "В условиях турбулентной военно-политической ситуации в мире, Россией и Белоруссией в последние годы \"приняты серьезные меры по укреплению общего пространства обороны и безопасности Союзного Государства\", отметили в дипведомстве РФ",
       "topic_scores": {
         "diplomacy": 1,
-        "military": 1,
+        "military": 2,
         "energy": 0,
         "economy": 0,
         "local_events": 0
@@ -44,17 +610,17 @@
         "diplomacy",
         "military"
       ],
-      "primary_topic": "diplomacy"
+      "primary_topic": "military"
     },
     {
       "id": "6c3829f369237663716aeecdcc2989bce6fc1794",
       "source": "TASS (RU)",
       "url": "https://tass.ru/politika/27748287",
       "published_utc": "2026-06-13T12:21:04Z",
-      "title_en": "Russian Foreign Ministry: Matvienko will attend the Forum of Regions of Russia and Belarus in Minsk on June 25-26",
-      "lead_en": "",
-      "title_raw": "МИД РФ: Матвиенко посетит Форум регионов России и Белоруссии в Минске 25-26 июня",
-      "lead_raw": "",
+      "title_en": "Matvienko will attend the Forum of Regions of Russia and Belarus in Minsk on June 25-26",
+      "lead_en": "The Chairman of the Federation Council will lead the Russian delegation",
+      "title_raw": "Матвиенко посетит Форум регионов России и Белоруссии в Минске 25-26 июня",
+      "lead_raw": "Председатель Совета Федерации возглавит российскую делегацию",
       "topic_scores": {
         "diplomacy": 1,
         "military": 0,
@@ -72,10 +638,10 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/politika/27748257",
       "published_utc": "2026-06-13T12:18:51Z",
-      "title_en": "MFA: Russia and Belarus are strengthening technological sovereignty against the backdrop of Western sanctions",
-      "lead_en": "",
-      "title_raw": "МИД: РФ и Белоруссия укрепляют технологический суверенитет на фоне санкций Запада",
-      "lead_raw": "",
+      "title_en": "Russian Foreign Ministry: Moscow and Minsk are taking initiatives to combat Western sanctions",
+      "lead_en": "Russia and Belarus are taking joint steps to strengthen financial and technological sovereignty, the department noted",
+      "title_raw": "МИД РФ: Москва и Минск принимают инициативы по борьбе с санкциями Запада",
+      "lead_raw": "Россия и Белоруссия предпринимают совместные шаги по упрочению финансового и технологического суверенитета, отметили в ведомстве",
       "topic_scores": {
         "diplomacy": 1,
         "military": 0,
@@ -135,6 +701,25 @@
       "lead_en": "Citizens are provided with all social, labor and pension guarantees, the Deputy Prime Minister emphasized",
       "title_raw": "Голикова: федеральную поддержку получают 2,4 млн жителей Донбасса и Новороссии",
       "lead_raw": "Гражданам предоставляются все социальные, трудовые и пенсионные гарантии, подчеркнула вице-премьер",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "608c0381f794362533167d6700d30af1b9659805",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27748199",
+      "published_utc": "2026-06-13T12:12:53Z",
+      "title_en": "Lavrov will visit Minsk on June 14-15",
+      "lead_en": "The Russian Foreign Minister will be received by the President of Belarus Alexander Lukashenko",
+      "title_raw": "Лавров посетит 14-15 июня Минск",
+      "lead_raw": "Министра иностранных дел России примет президент Белоруссии Александр Лукашенко",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
@@ -6939,7 +7524,7 @@
       "url": "https://tass.ru/armiya-i-opk/27739189",
       "published_utc": "2026-06-12T03:33:31Z",
       "title_en": "TASS: new units of the military police of Ukraine have been deployed near Chernigov",
-      "lead_en": "The military personnel were given the task of detaining deserters, Russian law enforcement agencies reported.",
+      "lead_en": "The military personnel were given the task of detaining deserters, Russian security forces reported",
       "title_raw": "ТАСС: новые подразделения военной полиции Украины брошены под Чернигов",
       "lead_raw": "Военнослужащим поставили задачу задерживать дезертиров, сообщили в российских силовых структурах",
       "topic_scores": {
@@ -9725,1022 +10310,6 @@
       },
       "topics": [],
       "primary_topic": null
-    },
-    {
-      "id": "6aa22d866429f19ad28105e26aa65125c4b8039c",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2145589",
-      "published_utc": "2026-06-11T14:49:13Z",
-      "title_en": "Russia ready to help Africa develop infrastructure — top diplomat",
-      "lead_en": "Sergey Lavrov highlighted the Africans’ desire to make the utmost use of what was given to them",
-      "title_raw": "Russia ready to help Africa develop infrastructure — top diplomat",
-      "lead_raw": "Sergey Lavrov highlighted the Africans’ desire to make the utmost use of what was given to them",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "682983919f183de497d04e3259f0b8fb8137d3c4",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/06/11/russia-issues-sweeping-ban-on-armenian-imports-after-pashinyans-victory-a92984",
-      "published_utc": "2026-06-11T14:47:38Z",
-      "title_en": "Russia Issues Sweeping Ban on Armenian Imports After Pashinyan’s Victory",
-      "lead_en": "Russia will restrict imports of most food, seeds, flowers, wood and fertilizer from Armenia starting on Friday.",
-      "title_raw": "Russia Issues Sweeping Ban on Armenian Imports After Pashinyan’s Victory",
-      "lead_raw": "Russia will restrict imports of most food, seeds, flowers, wood and fertilizer from Armenia starting on Friday.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "116540b1f90788fe3e0608e1431313a66450d339",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/06/11/russia-bans-all-armenian-products-subject-to-quarantine-controls-including-vegetables-fruit-berries-nuts-and-coffee",
-      "published_utc": "2026-06-11T14:40:24Z",
-      "title_en": "Russia bans all Armenian products subject to quarantine controls — including vegetables, fruit, berries, nuts, and coffee",
-      "lead_en": "Russia’s Rosselkhoznadzor is banning imports of all products subject to quarantine controls from Armenia starting June 12 and blocking their transit to other Eurasian Economic Union (EAEU) member states.",
-      "title_raw": "Russia bans all Armenian products subject to quarantine controls — including vegetables, fruit, berries, nuts, and coffee",
-      "lead_raw": "Russia’s Rosselkhoznadzor is banning imports of all products subject to quarantine controls from Armenia starting June 12 and blocking their transit to other Eurasian Economic Union (EAEU) member states.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "b4878f2994bb800088f70e081a5f114c1c21662c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27735457",
-      "published_utc": "2026-06-11T14:33:17Z",
-      "title_en": "Former hockey player and Avangard coach Leonid Shchukin has died",
-      "lead_en": "Shchukin also worked on the coaching staff of the Russian floorball team at the European and World Championships",
-      "title_raw": "Умер бывший хоккеист и тренер \"Авангарда\" Леонид Щукин",
-      "lead_raw": "Щукин также работал в тренерском штабе сборной России по флорболу на чемпионатах Европы и мира",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "cb55220f13cd960d01a11975efb6442e90aa21c4",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2145583",
-      "published_utc": "2026-06-11T14:32:27Z",
-      "title_en": "Russia forming global trends of drone development — Aviron CEO",
-      "lead_en": "Igor Lapin said that Russian solutions are at a very high level in a number of spheres, especially in terms of experience in applying and the speed of adapting technologies to real tasks",
-      "title_raw": "Russia forming global trends of drone development — Aviron CEO",
-      "lead_raw": "Igor Lapin said that Russian solutions are at a very high level in a number of spheres, especially in terms of experience in applying and the speed of adapting technologies to real tasks",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "4bf3af912933970bebdbc259a739d9e4e22ce103",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27735421",
-      "published_utc": "2026-06-11T14:26:54Z",
-      "title_en": "Dmitriev wondered whether the change of views on Starmer is connected with aliens",
-      "lead_en": "The Russian President's Special Representative for Investment and Economic Cooperation with Foreign Countries previously said that the British Prime Minister needs to make it clear that he can give hope to Western civilization through his resignation",
-      "title_raw": "Дмитриев задался вопросом, связана ли смена взглядов на Стармера с пришельцами",
-      "lead_raw": "Спецпредставитель президента РФ по инвестиционно-экономическому сотрудничеству с зарубежными странами ранее заявил, что премьер-министру Великобритании нужно дать понять, что он может дать надежду западной цивилизации благодаря своей отставке",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "ca5d4f2b5be3240905a87c86525795c00807702b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27735157",
-      "published_utc": "2026-06-11T14:13:35Z",
-      "title_en": "In Vologda, 14 people were convicted of illegal trafficking in alcohol surrogate",
-      "lead_en": "Products were sold in more than 20 regions of Russia",
-      "title_raw": "В Вологде 14 человек осудили за незаконный оборот алкогольного суррогата",
-      "lead_raw": "Продукцию сбывали в более чем 20 регионах России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "950a69e2f98a5ed835b05968b186ad6814337e42",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27735317",
-      "published_utc": "2026-06-11T14:12:36Z",
-      "title_en": "The World Bank maintained its forecast for Russia's GDP growth in 2026 by 0.8%",
-      "lead_en": "As the report says, in 2025 in the Russian Federation, according to experts, the growth rate was 1%",
-      "title_raw": "Всемирный банк сохранил прогноз роста ВВП России в 2026 году на 0,8%",
-      "lead_raw": "Как говорится в докладе, в 2025 году в РФ, по оценкам экспертов, рост показателя составил 1%",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "e5d3b7cdcf5ac98487e6113ee8ce20edb2bfae76",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/cards/russia-just-rushed-through-a-law-to-lift-limits-on-borrowing-and-spending-is-the-budget-starting-to-crack",
-      "published_utc": "2026-06-11T14:03:00Z",
-      "title_en": "Russia just rushed through a law to lift limits on borrowing and spending. Is the budget starting to crack?",
-      "lead_en": "On June 10, Russia’s State Duma amended the Budget Code, giving the government the power to exceed federal spending caps and borrow beyond the limits set by the approved budget.",
-      "title_raw": "Russia just rushed through a law to lift limits on borrowing and spending. Is the budget starting to crack?",
-      "lead_raw": "On June 10, Russia’s State Duma amended the Budget Code, giving the government the power to exceed federal spending caps and borrow beyond the limits set by the approved budget.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "5f04f2c120945fdd89d5c07c4637065cfd374ef6",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27735133",
-      "published_utc": "2026-06-11T13:50:49Z",
-      "title_en": "Armenia appealed to the EEC due to restrictions on the import of goods to Russia",
-      "lead_en": "Minister of Economy of the Republic Gevorg Papoyan noted that the Eurasian Economic Commission has appropriate procedures",
-      "title_raw": "Армения обратилась в ЕЭК из-за ограничений на ввоз товаров в Россию",
-      "lead_raw": "Министр экономики республики Геворг Папоян отметил, что у Евразийской экономической комиссии есть соответствующие процедуры",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "26b4d69e00a645bff1c9ee85fe60c0cb1d38b9cc",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27735141",
-      "published_utc": "2026-06-11T13:50:15Z",
-      "title_en": "In Russia, sales of new motorcycles increased by 26% in May",
-      "lead_en": "The brands Regulmoto, Voge and Motoland became the leaders in the brand rating.",
-      "title_raw": "В России в мае продажи новых мотоциклов выросли на 26%",
-      "lead_raw": "Лидерами марочного рейтинга стали бренды Regulmoto, Voge и Motoland",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "c0fd7266de6614f4c950c11aac2b294c2fe0baec",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27734819",
-      "published_utc": "2026-06-11T13:48:01Z",
-      "title_en": "The Ministry of Transport of the Russian Federation reported an increase in passenger traffic with Tajikistan in 2025 by 29.5%",
-      "lead_en": "The ministry also reported that the volume of railway cargo transportation between countries increased by 18.1% and amounted to over 2.5 million tons.",
-      "title_raw": "Минтранс РФ сообщил о росте пассажиропотока с Таджикистаном в 2025 году на 29,5%",
-      "lead_raw": "В министерстве также сообщили, что объем ж/д грузоперевозок между странами увеличился на 18,1% и составил свыше 2,5 млн тонн",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "b06a936ea84997127104fe31801e62fda04b919c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27735073",
-      "published_utc": "2026-06-11T13:47:50Z",
-      "title_en": "TASS: a Swedish reconnaissance aircraft that frequently flies near the borders of the Russian Federation was flown to Lithuania",
-      "lead_en": "The plane last flew along the border with Russia in Finnish airspace on June 2",
-      "title_raw": "ТАСС: часто летающий у границ РФ шведский самолет-разведчик перегнали в Литву",
-      "lead_raw": "Борт последний раз курсировал вдоль границы с Россией в воздушном пространстве Финляндии 2 июня",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "749f17defc54a7c2b755f550a4e76ad9c306d987",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27735063",
-      "published_utc": "2026-06-11T13:47:34Z",
-      "title_en": "AI art festival \"Giga-art\" will be held in Russia",
-      "lead_en": "Participants are invited to be inspired by everything that “makes up the country’s cultural code” - literature and ballet, folk crafts and the nature of their native region, local myths and history",
-      "title_raw": "В России пройдет фестиваль ИИ-искусства \"Гига-арт\"",
-      "lead_raw": "Участникам предлагается вдохновляться всем, из чего \"складывается культурный код страны\" - литературой и балетом, народными промыслами и природой родного региона, местными мифами и историей",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "47532c59c026ac1c5021636e2d7dfd874f0e849d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2145575",
-      "published_utc": "2026-06-11T13:45:22Z",
-      "title_en": "Russia, China show exemplary model of cooperation between neighboring powers — ambassador",
-      "lead_en": "Igor Morgulov emphasized that the sustainable, comprehensive nature of bilateral ties fully met the fundamental interests of both nations, served the goals of comprehensive national development, and contributed to the advancement of a just, multipolar world order",
-      "title_raw": "Russia, China show exemplary model of cooperation between neighboring powers — ambassador",
-      "lead_raw": "Igor Morgulov emphasized that the sustainable, comprehensive nature of bilateral ties fully met the fundamental interests of both nations, served the goals of comprehensive national development, and contributed to the advancement of a just, multipolar world order",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "a4dd9eb1106465c46705dc511f3387890822f342",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2145577",
-      "published_utc": "2026-06-11T13:45:11Z",
-      "title_en": "Eurotroika’s terms of Ukrainian settlement unacceptable — Russian diplomat",
-      "lead_en": "Maria Zakharova pointed out that the Europeans are pursuing a course aimed at \"preventing the creation of conditions for negotiations on a truly comprehensive, just and lasting peace\"",
-      "title_raw": "Eurotroika’s terms of Ukrainian settlement unacceptable — Russian diplomat",
-      "lead_raw": "Maria Zakharova pointed out that the Europeans are pursuing a course aimed at \"preventing the creation of conditions for negotiations on a truly comprehensive, just and lasting peace\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "095cea016b4cee3a49d5b63dc6778df9e86e0afb",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27734969",
-      "published_utc": "2026-06-11T13:42:11Z",
-      "title_en": "A mutual fund data showcase has opened on the Bank of Russia website",
-      "lead_en": "The regulator noted that market participants, based on this data, can, in particular, develop their own analytical products",
-      "title_raw": "Витрина данных ПИФ открылась на сайте Банка России",
-      "lead_raw": "Регулятор отметил, что участники рынка на основе этих данных могут, в частности, разработать свои аналитические продукты",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "b67916b819c95eca0796225cd0a72ebdba052c87",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/06/11/russia-issues-its-first-fine-for-criticizing-the-taliban",
-      "published_utc": "2026-06-11T13:39:22Z",
-      "title_en": "Russia issues its first fine for criticizing the Taliban",
-      "lead_en": "A district court in Rostov-on-Don has fined a local resident for a comment he left on VK under a post about the Taliban, citing an administrative statute on inciting hatred, the Telegram news channel Ostorozhno Novosti reported.",
-      "title_raw": "Russia issues its first fine for criticizing the Taliban",
-      "lead_raw": "A district court in Rostov-on-Don has fined a local resident for a comment he left on VK under a post about the Taliban, citing an administrative statute on inciting hatred, the Telegram news channel Ostorozhno Novosti reported.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "55601979798112df66afd4a6087e4628b1bff2be",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27734853",
-      "published_utc": "2026-06-11T13:35:17Z",
-      "title_en": "In Russia it was proposed to introduce online car inspection",
-      "lead_en": "Deputies of the Duma faction “New People” Anton Tkachev and Yaroslav Samylin, led by State Duma Vice-Speaker Vladislav Davankov, noted that the current version of the face-to-face procedure can take considerable time",
-      "title_raw": "В России предложили ввести онлайн-техосмотр автомобиля",
-      "lead_raw": "Депутаты думской фракции \"Новые люди\" Антон Ткачев и Ярослав Самылин во главе с вице-спикером Госдумы Владиславом Даванковым отметили, что нынешний вариант очной процедуры может занимать значительное время",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "1cf2f9b97050b4739bdb6ea91778edae8369f040",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/06/11/cyprus-stops-accepting-visa-applications-at-centers-in-russia-shifts-operations-to-consulates-a92983",
-      "published_utc": "2026-06-11T13:34:50Z",
-      "title_en": "Cyprus Stops Accepting Visa Applications at Centers in Russia, Shifts Operations to Consulates",
-      "lead_en": "Cyprus will suspend visa processing at its third-party centers across Russia and temporarily route all applications directly through its consulates.",
-      "title_raw": "Cyprus Stops Accepting Visa Applications at Centers in Russia, Shifts Operations to Consulates",
-      "lead_raw": "Cyprus will suspend visa processing at its third-party centers across Russia and temporarily route all applications directly through its consulates.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "337b1e09938c768eff138a05aba6f77f6fce7a00",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27734865",
-      "published_utc": "2026-06-11T13:33:17Z",
-      "title_en": "Russia and Bahrain called for the restoration of safe navigation in the Strait of Hormuz",
-      "lead_en": "Foreign Ministers of the two countries Sergei Lavrov and Abdel Latif bin Rashed al-Zayani emphasized the importance of the speedy restoration of stable, unimpeded and safe navigation in the Strait of Hormuz",
-      "title_raw": "РФ и Бахрейн призвали к восстановлению безопасного судоходства в Ормузском проливе",
-      "lead_raw": "Министры иностранных дел двух стран Сергей Лавров и Абдель Латиф бен Рашед аз-Заяни подчеркнули важность скорейшего восстановления стабильного, беспрепятственного и безопасного судоходства в Ормузском проливе",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "400a09af309ab3f579afe1ea10f91ab673405bf1",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2145573",
-      "published_utc": "2026-06-11T13:32:38Z",
-      "title_en": "Russian tech firm unveils Katyusha ground robotic vehicles at Fleet 2026 naval show",
-      "lead_en": "Katyusha unmanned ground platforms are already supplied to Russian troops in the special military operation area in Ukraine",
-      "title_raw": "Russian tech firm unveils Katyusha ground robotic vehicles at Fleet 2026 naval show",
-      "lead_raw": "Katyusha unmanned ground platforms are already supplied to Russian troops in the special military operation area in Ukraine",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "232898052c4e901445c4b0c533397448a7103d55",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27734799",
-      "published_utc": "2026-06-11T13:31:00Z",
-      "title_en": "MFA: Russia calls to refrain from steps fraught with a large-scale war in the Middle East",
-      "lead_en": "Russia also firmly supports Bahrain and other Arab countries in defending their sovereignty and territorial integrity",
-      "title_raw": "МИД: РФ призывает воздержаться от шагов, чреватых масштабной войной на Ближнем Востоке",
-      "lead_raw": "Россия также твердо поддерживает Бахрейн и другие арабские страны в защите своего суверенитета и территориальной целостности",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "02e7494ec97476bae877abc2a1d3cb8571b83648",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27734793",
-      "published_utc": "2026-06-11T13:30:14Z",
-      "title_en": "Ministry of Construction: the number of accidents in the heating season decreased in the Russian Federation by 14%",
-      "lead_en": "The department noted that the average elimination time was four hours.",
-      "title_raw": "Минстрой: число аварий в отопительном сезоне снизилось в РФ на 14%",
-      "lead_raw": "В ведомстве отметили, что среднее время устранения составило четыре часа",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "ad1af3e225b7ffde1aca82547adb92a31cb2b6a8",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27734771",
-      "published_utc": "2026-06-11T13:28:21Z",
-      "title_en": "Preparations for the new heating season have begun in Russia",
-      "lead_en": "The Ministry of Construction, together with other departments, will continue to accompany this work at headquarters, noted the head of the ministry, Irek Fayzullin.",
-      "title_raw": "В России началась подготовка к новому отопительному периоду",
-      "lead_raw": "Минстрой совместно с другими ведомствами продолжит сопровождать эту работу в штабном режиме, отметил глава министерства Ирек Файзуллин",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "03aa73c2279c1344ed19bd0a0324505adbef9bd5",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2145565",
-      "published_utc": "2026-06-11T13:26:52Z",
-      "title_en": "Almost all Russia-China trade settled in rubles and yuan — ambassador",
-      "lead_en": "According to Igor Morgulov, Russia and China oppose illegitimate restrictions and protectionism",
-      "title_raw": "Almost all Russia-China trade settled in rubles and yuan — ambassador",
-      "lead_raw": "According to Igor Morgulov, Russia and China oppose illegitimate restrictions and protectionism",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "663a83cf7d8e2ca68cac02232cfd42908afa0c52",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27734753",
-      "published_utc": "2026-06-11T13:25:37Z",
-      "title_en": "Lavrov: Russia welcomes the idea of ​​opening a representative office of the African Union in Moscow",
-      "lead_en": "The Russian Foreign Minister noted that Moscow is always happy to cooperate with African diplomats",
-      "title_raw": "Лавров: РФ приветствует идею открыть в Москве представительство Африканского союза",
-      "lead_raw": "Глава МИД России отметил, что Москва всегда рада сотрудничать с африканскими дипломатами",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "9f8311d1e2285d5a8e9b7c4800c7960d944b421e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27734355",
-      "published_utc": "2026-06-11T13:25:27Z",
-      "title_en": "Russian Ambassador: Russia and China demonstrate an exemplary model of interaction between neighboring powers",
-      "lead_en": "Igor Morgulov noted that the stable, comprehensive nature of relations between the two countries fully meets the fundamental interests of both states",
-      "title_raw": "Посол РФ: Россия и КНР демонстрируют образцовую модель взаимодействия держав-соседей",
-      "lead_raw": "Игорь Моргулов отметил, что устойчивый, всесторонний характер связей двух стран всецело отвечает коренным интересам обоих государств",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "8c32129c8c0de9bb0508a7fb967323fb2441f3ac",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27734691",
-      "published_utc": "2026-06-11T13:19:36Z",
-      "title_en": "The Commissioner of the African Union called Russia a reliable partner of African countries",
-      "lead_en": "States are working together to combat terrorist threats, said Banhole Adeoye",
-      "title_raw": "Комиссар Афросоюза назвал Россию надежным партнером стран Африки",
-      "lead_raw": "Государства вместе ведут борьбу с террористическими угрозами, заявил Банхоле Адеойе",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "732f9a40f8cc9da94702d0f26c651d8b90bbce65",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2145563",
-      "published_utc": "2026-06-11T13:19:32Z",
-      "title_en": "Russia’s international reserves up $5.1 bln in one week to $749.7 bln — Central Bank",
-      "lead_en": "As of May 29, the country’s reserves totaled $748.7 bln",
-      "title_raw": "Russia’s international reserves up $5.1 bln in one week to $749.7 bln — Central Bank",
-      "lead_raw": "As of May 29, the country’s reserves totaled $748.7 bln",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "d6fafcd26c2a1930baee100bb3474400827459ce",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27734647",
-      "published_utc": "2026-06-11T13:17:12Z",
-      "title_en": "Mishustin: in the Russian Federation they pay special attention to prices for food and medicine",
-      "lead_en": "In order to prevent unreasonable inflation of costs and to identify unnecessary intermediaries, the entire chain was monitored, the Prime Minister noted",
-      "title_raw": "Мишустин: в РФ уделяют особое внимание ценам на продовольствие и лекарства",
-      "lead_raw": "Чтобы не допустить необоснованного завышения стоимости, выявлять лишних посредников, проводился мониторинг всей цепочки, отметил премьер-министр",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "93014768682eb2493506004a7fae47564baf1a40",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27734633",
-      "published_utc": "2026-06-11T13:16:02Z",
-      "title_en": "Russian Ambassador: almost all trade with China is conducted in rubles and yuan",
-      "lead_en": "For three years in a row, Russian-Chinese trade turnover has significantly exceeded the $200 billion level set by the leaders, Igor Morgulov pointed out.",
-      "title_raw": "Посол РФ: почти вся торговля с Китаем ведется в рублях и юанях",
-      "lead_raw": "Три года подряд российско-китайский товарооборот со значительным превышением преодолевает заданную лидерами планку в $200 млрд, указал Игорь Моргулов",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "d9dfea7971a942e428cd9a7903552e8b34baf3a1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/nedvizhimost/27734627",
-      "published_utc": "2026-06-11T13:15:06Z",
-      "title_en": "Khusnullin: Russian authorities approved applications from 77 regions for the resettlement of emergency housing",
-      "lead_en": "Thanks to this, 66 thousand people will be resettled",
-      "title_raw": "Хуснуллин: власти РФ одобрили заявки 77 регионов на расселение аварийного жилья",
-      "lead_raw": "Благодаря этому будет переселено 66 тыс. человек",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "e42231d42888794719b786bc45394d00354bf572",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27734617",
-      "published_utc": "2026-06-11T13:12:43Z",
-      "title_en": "Lavrov: Russia is ready to assist in the development of infrastructure in African countries",
-      "lead_en": "Now is a “very suitable period” for this, the Russian Foreign Minister indicated.",
-      "title_raw": "Лавров: РФ готова содействовать развитию инфраструктуры стран Африки",
-      "lead_raw": "Сейчас для этого \"очень подходящий период\", указал глава МИД России",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "b1b91a5260f701721e7beedbaca589adec042285",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27734559",
-      "published_utc": "2026-06-11T13:11:06Z",
-      "title_en": "Lavrov: Africa does not want to be a “raw materials appendage” of the West",
-      "lead_en": "Following the conquest of political independence, African countries want to be masters of their natural resources, the Russian Foreign Minister said",
-      "title_raw": "Лавров: Африка не желает быть \"сырьевым придатком\" Запада",
-      "lead_raw": "Вслед за завоеванием политической независимости африканские страны хотят быть хозяевами своих природных ресурсов, заявил министр иностранных дел России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "9a8eaedf3bcdf19b8c106da3c306594adf140120",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27734503",
-      "published_utc": "2026-06-11T13:08:17Z",
-      "title_en": "The Prime Minister of Thailand intends to attend the Russia-ASEAN summit in Kazan",
-      "lead_en": "Anuthin Chanvirakun emphasized that the positive momentum in relations between Russia and the kingdom extends beyond bilateral relations",
-      "title_raw": "Премьер Таиланда намерен посетить саммит Россия - АСЕАН в Казани",
-      "lead_raw": "Анутхин Чанвиракун подчеркнул, что позитивный импульс в отношениях России и королевства распространяется за пределы двусторонних отношений",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "17c105f06cda4d2b19f7b2978da5a44b7598f76d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27734511",
-      "published_utc": "2026-06-11T13:08:08Z",
-      "title_en": "Russia's foreign trade surplus in April increased to $11.431 billion",
-      "lead_en": "The indicator increased by $3.327 billion compared to the same period in 2025",
-      "title_raw": "Профицит внешней торговли РФ в апреле вырос до $11,431 млрд",
-      "lead_raw": "Показатель вырос на $3,327 млрд по сравнению с аналогичным периодом 2025 года",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "15dc09c177c042b682870882b69df050e52ead35",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27734495",
-      "published_utc": "2026-06-11T13:07:37Z",
-      "title_en": "Thailand called Russia a reliable friend of the kingdom",
-      "lead_en": "Prime Minister of the country Anuthin Chanvirakun noted that relations between Moscow and Bangkok continue to develop",
-      "title_raw": "В Таиланде назвали Россию надежным другом королевства",
-      "lead_raw": "Премьер-министр страны Анутхин Чанвиракун отметил, что отношения между Москвой и Бангкоком продолжают развиваться",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "0314bce40e4358ddd8e38dc88e656aa107c960e0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27734393",
-      "published_utc": "2026-06-11T13:02:26Z",
-      "title_en": "Putin will award Heroes of Labor and state prize winners on Russia Day",
-      "lead_en": "The ceremony will take place in the Grand Kremlin Palace",
-      "title_raw": "Путин в День России наградит Героев Труда и лауреатов госпремий",
-      "lead_raw": "Церемония пройдет в Большом Кремлевском дворце",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "108393ddd7a421f879d8b7546d6b5418dcb503c7",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27734399",
-      "published_utc": "2026-06-11T13:02:25Z",
-      "title_en": "Russia's international reserves increased by $1 billion over the week",
-      "lead_en": "The figure amounted to $749.7 billion",
-      "title_raw": "Международные резервы РФ за неделю выросли на $1 млрд",
-      "lead_raw": "Показатель составил $749,7 млрд",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "90222169dbf89b6fef52a4ca681e3d12b7920864",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27734339",
-      "published_utc": "2026-06-11T13:00:30Z",
-      "title_en": "Ministry of Agriculture: the Russian Federation will achieve self-sufficiency in seedlings for planting gardens",
-      "lead_en": "Measures to support the industry are focused on subsidizing only for the purchase of domestic seedlings, said Deputy Head of the Department Andrei Razin",
-      "title_raw": "Минсельхоз: РФ достигнет самообеспеченности в саженцах для закладки садов",
-      "lead_raw": "Меры поддержки отрасли ориентированы на субсидирование только при закупке отечественных саженцев, сообщил замглавы ведомства Андрей Разин",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "fec0602a0256d6ef63bba9bad76bbbf73caf0cbc",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27734319",
-      "published_utc": "2026-06-11T12:58:33Z",
-      "title_en": "Ministry of Energy: 18 billion rubles allocated to help the energy sector of Donbass and Novorossia",
-      "lead_en": "According to Energy Minister Sergei Tsivilev, the department’s monitoring shows that systemically important companies are meeting key readiness indicators",
-      "title_raw": "Минэнерго: на помощь энергетике Донбасса и Новороссии выделили 18 млрд рублей",
-      "lead_raw": "По словам министра энергетики Сергея Цивилева, проводимый ведомством мониторинг показывает, что системообразующие компании выполняют основные показатели готовности",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "afbd8ca426c24072e6401df0b770dff359bc45f7",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27734301",
-      "published_utc": "2026-06-11T12:57:56Z",
-      "title_en": "The Ministry of Energy expects an increase in energy consumption in the south of the Russian Federation in the summer by 7%",
-      "lead_en": "A set of measures is being implemented to ensure trouble-free passage of the spring-summer period, which is characterized by increased consumption and high load on the energy system, stressed Energy Minister Sergei Tsivilev",
-      "title_raw": "Минэнерго ждет роста энергопотребления на юге РФ в летний период на 7%",
-      "lead_raw": "Реализуется комплекс мер по безаварийному прохождению весенне-летнего периода, который характеризуется ростом потребления и высокой нагрузкой на энергосистему, подчеркнул министр энергетики Сергей Цивилев",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "b66d954937264df02e38d590be92ff22a1bbe687",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2145543",
-      "published_utc": "2026-06-11T12:52:55Z",
-      "title_en": "No country was under so much pressure as Russia now — Medvedev",
-      "lead_en": "Dmitry Medvedev called \"the unprecedented external pressure\" one of the challenges of our time",
-      "title_raw": "No country was under so much pressure as Russia now — Medvedev",
-      "lead_raw": "Dmitry Medvedev called \"the unprecedented external pressure\" one of the challenges of our time",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "435316b38cac23c31246ed15ca69491f5ece8c57",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2145541",
-      "published_utc": "2026-06-11T12:52:39Z",
-      "title_en": "Russian troops liberate two communities in Ukraine operation over past day — top brass",
-      "lead_en": "Russia’s Battlegroup North inflicted more than 205 casualties on Ukrainian troops and destroyed an enemy tank and a US-made armored vehicle in its areas of responsibility over the past day, the Defense Ministry reported",
-      "title_raw": "Russian troops liberate two communities in Ukraine operation over past day — top brass",
-      "lead_raw": "Russia’s Battlegroup North inflicted more than 205 casualties on Ukrainian troops and destroyed an enemy tank and a US-made armored vehicle in its areas of responsibility over the past day, the Defense Ministry reported",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "9d77a38eb38933a9f129b9a749107e278a089014",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2145529",
-      "published_utc": "2026-06-11T12:43:03Z",
-      "title_en": "IN BRIEF: Key statements from Kremlin spokesman Peskov briefing",
-      "lead_en": "According to Dmitry Peskov, Russia is concerned about the latest escalation between the US and Iran and calls on all parties to exercise restraint and return to negotiations",
-      "title_raw": "IN BRIEF: Key statements from Kremlin spokesman Peskov briefing",
-      "lead_raw": "According to Dmitry Peskov, Russia is concerned about the latest escalation between the US and Iran and calls on all parties to exercise restraint and return to negotiations",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "5dae156f8cb895590777c56fce37e259171521b7",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2145525",
-      "published_utc": "2026-06-11T12:37:21Z",
-      "title_en": "Russia expresses solidarity with Cuba and Iran over US pressure — Foreign Ministry",
-      "lead_en": "Foreign Minister Alexander Alimov said the Russian side reaffirmed the right of these sovereign countries to determine their own fate",
-      "title_raw": "Russia expresses solidarity with Cuba and Iran over US pressure — Foreign Ministry",
-      "lead_raw": "Foreign Minister Alexander Alimov said the Russian side reaffirmed the right of these sovereign countries to determine their own fate",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "62acc2f36503938a61dfcbea85cde230d2e0fc40",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2145521",
-      "published_utc": "2026-06-11T12:33:41Z",
-      "title_en": "What is known about Russian Deputy Foreign Minister's meeting with EU Three ambassadors",
-      "lead_en": "The meeting lasted around an hour and a half",
-      "title_raw": "What is known about Russian Deputy Foreign Minister's meeting with EU Three ambassadors",
-      "lead_raw": "The meeting lasted around an hour and a half",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "18566bbcb17f2d714738b2bf7207b108fda88f47",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2145519",
-      "published_utc": "2026-06-11T12:33:16Z",
-      "title_en": "Russia sees many fundamental violations in Armenian elections",
-      "lead_en": "According to Ella Pamfilova, two members of Russia’s Central Election Commission as well as 24 members of regional election commissions monitored the polls",
-      "title_raw": "Russia sees many fundamental violations in Armenian elections",
-      "lead_raw": "According to Ella Pamfilova, two members of Russia’s Central Election Commission as well as 24 members of regional election commissions monitored the polls",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "da622007294780b5c6576cbba4cfd4f986e5cf48",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2145513",
-      "published_utc": "2026-06-11T12:26:35Z",
-      "title_en": "North Korea’s Kim sends greetings to Putin ahead of National Day of Russia",
-      "lead_en": "The message was delivered to a Russian Foreign Ministry official by North Korean Ambassador to Russia Sin Hong Chol",
-      "title_raw": "North Korea’s Kim sends greetings to Putin ahead of National Day of Russia",
-      "lead_raw": "The message was delivered to a Russian Foreign Ministry official by North Korean Ambassador to Russia Sin Hong Chol",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "8318d5f141cf763da2e3f46c72cda3a946c6f038",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2145509",
-      "published_utc": "2026-06-11T12:25:06Z",
-      "title_en": "Russia lowered oil production in May by 9,000 bpd — OPEC",
-      "lead_en": "According to the report, Russia’s oil production was below the OPEC+ target with compensations and voluntary cuts taken into account by 690,000 bpd",
-      "title_raw": "Russia lowered oil production in May by 9,000 bpd — OPEC",
-      "lead_raw": "According to the report, Russia’s oil production was below the OPEC+ target with compensations and voluntary cuts taken into account by 690,000 bpd",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
