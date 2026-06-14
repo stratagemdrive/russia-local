@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-06-14T18:12:46Z",
+  "updated_at_utc": "2026-06-14T20:17:52Z",
   "keep_hours": 48,
   "topic": "military",
   "count": 76,
   "articles": [
+    {
+      "id": "5190b4e675d4662f5c83f10aa0dc3d89c59561c3",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27754601",
+      "published_utc": "2026-06-14T19:17:14Z",
+      "title_en": "104 Ukrainian UAVs shot down over Russia",
+      "lead_en": "Air defense forces worked from 14:00 to 21:00 Moscow time",
+      "title_raw": "Над Россией сбили 104 украинских БПЛА",
+      "lead_raw": "Силы ПВО работали с 14:00 до 21:00 мск",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "7f3a9587fa1fd1e9ac197fef2655d60baee7dceb",
       "source": "TASS (RU)",
@@ -1586,28 +1607,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "8926f140d8b056ab2fe54341625db2b6f99bb9ac",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2145895",
-      "published_utc": "2026-06-12T19:08:37Z",
-      "title_en": "IN BRIEF: Putin speaks on retaliatory strikes, development of AI-powered drones",
-      "lead_en": "The Russian president Vladimir Putin has held a Kremlin meeting with participants in the special military operation on Russia Day",
-      "title_raw": "IN BRIEF: Putin speaks on retaliatory strikes, development of AI-powered drones",
-      "lead_raw": "The Russian president Vladimir Putin has held a Kremlin meeting with participants in the special military operation on Russia Day",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }

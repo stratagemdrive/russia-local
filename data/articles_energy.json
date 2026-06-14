@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-06-14T18:12:46Z",
+  "updated_at_utc": "2026-06-14T20:17:52Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 13,
   "articles": [
+    {
+      "id": "fddf1f4d785c70fa7bbaf1b5b6833259a93431d6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27754553",
+      "published_utc": "2026-06-14T19:04:58Z",
+      "title_en": "Bild: in Germany, a castle-hotel owned by owners from the Russian Federation was put up for sale for €11 million",
+      "lead_en": "According to the Bild newspaper, this historic estate is one of the most exclusive and expensive properties in Germany.",
+      "title_raw": "Bild: в ФРГ принадлежащий владельцам из РФ замок-отель выставили на продажу за €11 млн",
+      "lead_raw": "По информации газеты Bild, это историческое поместье является одним из самых эксклюзивных и дорогих объектов недвижимости в Германии",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "5cc8e28e8ea69ac7d924ebeb9c3286363c71321c",
       "source": "TASS (RU)",
@@ -259,28 +280,6 @@
       },
       "topics": [
         "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "2ec6835cccf1cf339bda25b02bba9b5dc94810dd",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27745313",
-      "published_utc": "2026-06-12T20:11:16Z",
-      "title_en": "Britain will ban the import of diesel fuel and kerosene from Russian oil on January 1",
-      "lead_en": "The Ministry of Business and Trade explained that the relief for this type of fuel was initially only temporary",
-      "title_raw": "Британия 1 января запретит импорт дизтоплива и керосина из российской нефти",
-      "lead_raw": "В министерстве по делам бизнеса и торговли пояснили, что послабление в отношении этого вида топлива изначально было лишь временным",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
       ],
       "primary_topic": "energy"
     }
