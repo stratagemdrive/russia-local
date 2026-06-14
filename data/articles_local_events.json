@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-06-14T09:34:23Z",
+  "updated_at_utc": "2026-06-14T11:57:26Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 8,
@@ -9,19 +9,21 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/armiya-i-opk/27751811",
       "published_utc": "2026-06-14T09:25:41Z",
-      "title_en": "The advance of the Russian Armed Forces in Konstantinovka forced the Ukrainian Armed Forces to begin evacuating enterprises",
-      "lead_en": "",
-      "title_raw": "Продвижение ВС РФ в Константиновке вынудило ВСУ приступить к эвакуации предприятий",
-      "lead_raw": "",
+      "title_en": "The Russian Armed Forces forced Kyiv to begin the evacuation of enterprises from Kramatorsk and Druzhkovka",
+      "lead_en": "This was facilitated by the advance of the Russian military",
+      "title_raw": "ВС РФ вынудили Киев начать эвакуацию предприятий из Краматорска и Дружковки",
+      "lead_raw": "Этому поспособствовало продвижение российских военных",
       "topic_scores": {
         "diplomacy": 0,
-        "military": 0,
+        "military": 1,
         "energy": 0,
         "economy": 0,
         "local_events": 1
       },
-      "topics": [],
-      "primary_topic": "local_events"
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
     },
     {
       "id": "9fb63105168b079891e1f591822dcf428c96c676",
