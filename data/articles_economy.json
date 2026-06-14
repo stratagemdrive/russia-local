@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-06-14T16:21:19Z",
+  "updated_at_utc": "2026-06-14T18:12:46Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 32,
+  "count": 31,
   "articles": [
+    {
+      "id": "1df2373f9a19039fda6246bccb4c5296ea34e22c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27754149",
+      "published_utc": "2026-06-14T17:02:26Z",
+      "title_en": "Mishustin will hold talks with the Prime Minister of Laos in Moscow on June 15",
+      "lead_en": "The heads of government plan to discuss current issues of Russian-Laotian trade, economic, scientific, technical, as well as cultural and humanitarian cooperation",
+      "title_raw": "Мишустин проведет 15 июня в Москве переговоры с премьером Лаоса",
+      "lead_raw": "Главы правительств планируют обсудить актуальные вопросы российско-лаосского торгово-экономического, научно-технического, а также культурно-гуманитарного сотрудничества",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "461f6a3c3363531b769f2596f788c7b8bc23f520",
       "source": "TASS (RU)",
@@ -603,46 +625,6 @@
         "economy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "1205a0dcef6a7cf49c5491dcb5ef7c03f3f9fae2",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27744545",
-      "published_utc": "2026-06-12T17:19:14Z",
-      "title_en": "Yerevan hopes to successfully overcome differences with Moscow",
-      "lead_en": "Deputy Prime Minister of the Republic Mher Grigoryan noted that the Russian Federation occupies an important place in world politics, economics and culture, and its achievements serve as evidence of the creative work and talent of a multinational people",
-      "title_raw": "В Ереване надеются на успешное преодоление разногласий с Москвой",
-      "lead_raw": "Вице-премьер республики Мгер Григорян заметил, что РФ занимает важное место в мировой политике, экономике и культуре, а ее достижения служат свидетельством созидательного труда и таланта многонационального народа",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "c01f0032ce400a9611225b5b9f328e3caf11612b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27744485",
-      "published_utc": "2026-06-12T16:58:56Z",
-      "title_en": "Dmitriev: the future of Russia is determined by talents and innovations",
-      "lead_en": "The Special Representative of the President of the Russian Federation for investment and economic cooperation with foreign countries congratulated Russians on Russia Day",
-      "title_raw": "Дмитриев: будущее России определяют таланты и инновации",
-      "lead_raw": "Спецпредставитель президента РФ по инвестиционно-экономическому сотрудничеству с зарубежными странами поздравил россиян с Днем России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
