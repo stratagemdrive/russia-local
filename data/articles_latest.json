@@ -1,8 +1,589 @@
 {
-  "updated_at_utc": "2026-06-15T18:25:35Z",
+  "updated_at_utc": "2026-06-15T21:42:27Z",
   "keep_hours": 48,
-  "count": 311,
+  "count": 328,
   "articles": [
+    {
+      "id": "a57feabc3aa7b252f424dd66b1011aed8dd6cf70",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2146881",
+      "published_utc": "2026-06-15T21:39:10Z",
+      "title_en": "Russian PM to travel to Uzbekistan for a two-day working visit",
+      "lead_en": "Among the priority topics in the negotiations, Moscow highlights joint projects in the energy sector, including nuclear energy, as well as industry, transport, and agriculture",
+      "title_raw": "Russian PM to travel to Uzbekistan for a two-day working visit",
+      "lead_raw": "Among the priority topics in the negotiations, Moscow highlights joint projects in the energy sector, including nuclear energy, as well as industry, transport, and agriculture",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "208dd0e680b269c0d963781f285a83400dc30f2c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27766621",
+      "published_utc": "2026-06-15T21:16:11Z",
+      "title_en": "Rusprofile: almost 459 thousand individual entrepreneurs were registered in Russia in January - May",
+      "lead_en": "This is 9.6% more than in 2025, according to a study by a counterparty verification service.",
+      "title_raw": "Rusprofile: в России за январь - май зарегистрировали почти 459 тыс. ИП",
+      "lead_raw": "Это на 9,6% больше показателей 2025 года, говорится в исследовании сервиса проверки контрагентов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "8ea1396cf35c9f65f334093e9c353a048eb86a44",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27766573",
+      "published_utc": "2026-06-15T21:15:30Z",
+      "title_en": "Rosaviatsia retained at least 90% of the staff at 10 airports in the south and center of Russia",
+      "lead_en": "The Accounts Chamber also reported that the fulfillment of the reserve fund was 100%",
+      "title_raw": "Росавиация сохранила не менее 90% персонала в 10 аэропортах юга и центра России",
+      "lead_raw": "В Счетной палате также сообщили, что исполнение средств резервного фонда составило 100%",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ec651014448d48098371dd8f09b68ae1132244a5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27766617",
+      "published_utc": "2026-06-15T21:12:54Z",
+      "title_en": "The Russian Federation proposed to adopt a long-term strategy for the development of the non-profit sector",
+      "lead_en": "Chairman of the State Duma Committee on Youth Policy Artem Metelev noted that it is possible to form a state social order for NPOs, develop cooperation between organizations and authorities in small territories and municipalities, and introduce sector development targets into the",
+      "title_raw": "В РФ предложили принять долгосрочную стратегию развития некоммерческого сектора",
+      "lead_raw": "Председатель комитета Госдумы по молодежной политике Артем Метелев отметил, что можно сформировать государственный социальный заказ для НКО, развивать сотрудничество организаций и власти на малых территориях и в муниципалитетах и ввести целевые ориентиры развития сектора в показа",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c05511a429f7292f8ad7e379d46f1c794b1aee54",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27766527",
+      "published_utc": "2026-06-15T21:02:43Z",
+      "title_en": "In January - April, Russia retained its leadership in the supply of goods to Kazakhstan",
+      "lead_en": "The share of the Russian Federation is estimated at 31.8%, according to data from the republic’s statistics bureau.",
+      "title_raw": "Россия в январе - апреле сохранила лидерство по поставкам товаров в Казахстан",
+      "lead_raw": "Доля РФ оценивается в 31,8%, свидетельствуют данные бюро статистики республики",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "a7b1b20f10b751514d60c091521fadfab1331a71",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27766499",
+      "published_utc": "2026-06-15T21:00:38Z",
+      "title_en": "Mishustin will go to Uzbekistan on a two-day working visit",
+      "lead_en": "Among the priority topics, the Russian side identifies joint projects in the energy sector, including nuclear, as well as industry, transport, and agriculture",
+      "title_raw": "Мишустин отправится в Узбекистан с двухдневным рабочим визитом",
+      "lead_raw": "В числе приоритетных тем российская сторона выделяет совместные проекты в энергетике, включая атомную, а также промышленность, транспорт, сельское хозяйство",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "af0ed37cb70a96583e2c6ff74f4f6b1aca770d74",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27766459",
+      "published_utc": "2026-06-15T20:55:44Z",
+      "title_en": "Expert Sergunin: the ban on the sale of LNG tankers to the Russian Federation will not have a serious impact",
+      "lead_en": "Europe has not sold such vessels to Russian companies before, noted the director of the Center for Arctic Research and Projects of the North-West Institute of Management of the Russian Presidential Academy of National Economy and Public Administration.",
+      "title_raw": "Эксперт Сергунин: запрет на продажу СПГ-танкеров РФ не окажет серьезного воздействия",
+      "lead_raw": "Такие суда Европа не продавала российским компаниям и ранее, отметил директор Центра арктических исследований и проектов Северо-Западного института управления РАНХиГС",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "e02651d049a17c9ebd216fc89928848c8cf6ae0f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27766391",
+      "published_utc": "2026-06-15T20:18:56Z",
+      "title_en": "Lukashenko: the conflict around the Strait of Hormuz will be resolved by the end of the year",
+      "lead_en": "Objective circumstances force the United States to stop putting pressure on Iran, the Belarusian leader noted",
+      "title_raw": "Лукашенко: конфликт вокруг Ормузского пролива урегулируют до конца года",
+      "lead_raw": "Объективные обстоятельства заставляют США прекратить давление на Иран, отметил белорусский лидер",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "4187ef919b2c5745184907b3927c462ba79361e1",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27766375",
+      "published_utc": "2026-06-15T20:16:03Z",
+      "title_en": "Lukashenko: Belarus is ready for dialogue with the EU and the USA, but will not allow itself to be commanded",
+      "lead_en": "Minsk is ready to negotiate on equal terms, the Belarusian leader noted",
+      "title_raw": "Лукашенко: Белоруссия готова к диалогу с ЕС и США, но командовать собой не даст",
+      "lead_raw": "Минск готов вести переговоры на равных условиях, отметил белорусский лидер",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "feb7b5c86ed8b28b54c396922bf07311ca2f140d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27766359",
+      "published_utc": "2026-06-15T20:11:12Z",
+      "title_en": "The coach announced the readiness of the Russian national team among players under 15 years old for the FIFA tournament",
+      "lead_en": "FIFA plans to invite the Russian national team to a children's tournament in the USA",
+      "title_raw": "Тренер заявил о готовности сборной России среди игроков до 15 лет к турниру ФИФА",
+      "lead_raw": "ФИФА планирует пригласить сборную России на детский турнир в США",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "90bb756b1929f42bf1108310365186e4535a4171",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27766333",
+      "published_utc": "2026-06-15T19:53:21Z",
+      "title_en": "60 management teams became winners of the “Leaders of Russia” competition",
+      "lead_en": "They will receive the right to study under a special educational program on team building, developed by RANEPA together with the Senezh management workshop.",
+      "title_raw": "Победителями конкурса \"Лидеры России\" стали 60 управленческих команд",
+      "lead_raw": "Они получат право на обучение по специальной образовательной программе по командообразованию, разработанной РАНХиГС совместно с мастерской управления \"Сенеж\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "19d62288671556b35cb8130f0cd4a5575904f56a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27766251",
+      "published_utc": "2026-06-15T19:43:55Z",
+      "title_en": "Britain accused the captain of the Smyrtos tanker of circumventing anti-Russian sanctions",
+      "lead_en": "The vessel allegedly belongs to the so-called shadow fleet of Russia, the National Crime Agency said.",
+      "title_raw": "Британия обвинила капитана танкера Smyrtos в обходе антироссийских санкций",
+      "lead_raw": "Судно якобы относится к так называемому теневому флоту России, заявили в Национальном агентстве по борьбе с преступностью",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "3686238612cf14414d5a041f8c2ba4943f1adeb5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27766239",
+      "published_utc": "2026-06-15T19:41:50Z",
+      "title_en": "In Russia, the Sirius model will be used to train a new generation of teachers",
+      "lead_en": "Minister of Education Sergei Kravtsov called the goal to teach teachers to work with talents, notice them and reveal them",
+      "title_raw": "В России применят модель Сириуса для подготовки нового поколения педагогов",
+      "lead_raw": "Министр просвещения Сергей Кравцов назвал целью научить учителей работать с талантами, замечать их и раскрывать",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "7e0283cf92fb38c7da03f9f49adc1b619c0ccec9",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27766293",
+      "published_utc": "2026-06-15T19:39:13Z",
+      "title_en": "Rada Deputy Dmitruk: Kyiv needs to stop following orders from the West",
+      "lead_en": "Ukraine should begin a direct dialogue with Russia, noted Artem Dmitruk",
+      "title_raw": "Депутат Рады Дмитрук: Киеву нужно прекратить выполнять приказы Запада",
+      "lead_raw": "Украина должна начать прямой диалог с Россией, отметил Артем Дмитрук",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "7f508690465bb441d37da7bfc6e715d508662dd8",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kultura/27766201",
+      "published_utc": "2026-06-15T19:37:41Z",
+      "title_en": "The Russian stage of the 46th VGIK International Student Festival opened in Moscow",
+      "lead_en": "The show in 2026 was dedicated to the 120th anniversary of the birth of director and teacher Sergei Gerasimov",
+      "title_raw": "В Москве открылся российский этап 46-го Международного студенческого фестиваля ВГИК",
+      "lead_raw": "Смотр в 2026 году посвятили 120-летию со дня рождения режиссера и педагога Сергея Герасимова",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "f2c7b42d76b83e422c1c8c4f8a181a4c60cf411d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27766257",
+      "published_utc": "2026-06-15T19:34:51Z",
+      "title_en": "Zakharova commented on Russia’s victory over Ukraine in the proceedings in The Hague",
+      "lead_en": "The Russian Foreign Ministry called the court decision a sensitive defeat for Kyiv and the West in the legal war they unleashed",
+      "title_raw": "Захарова прокомментировала победу России над Украиной по разбирательству в Гааге",
+      "lead_raw": "Решение суда в МИД РФ назвали чувствительным поражением Киева и Запада в развязанной ими юридической войне",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "c9fde8bb09f18ff6c778d8d86a94f15ebc23ba76",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27766149",
+      "published_utc": "2026-06-15T19:17:45Z",
+      "title_en": "Lukashenko: Ukraine's days will be numbered after defeat in Donbass",
+      "lead_en": "If the Russian army surrounds the Ukrainian Armed Forces units near Slavyansk and Kramatorsk, Kyiv will be defeated, the President of Belarus believes",
+      "title_raw": "Лукашенко: дни Украины будут сочтены после поражения в Донбассе",
+      "lead_raw": "Если российская армия окружит подразделения ВСУ под Славянском и Краматорском, Киев будет побежден, считает президент Белоруссии",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "69166d31d95d6596b9bf866af722823f2e2cf886",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/06/15/russian-satirist-semyon-skrepetsky-shot-dead-in-poland-three-days-after-anti-putin-protest-in-berlin",
+      "published_utc": "2026-06-15T19:08:30Z",
+      "title_en": "Russian satirist Semyon Skrepetsky shot dead in Poland, three days after anti-Putin protest in Berlin",
+      "lead_en": "A Russian artist was shot and killed in the Polish city of Biala Podlaska, local outlets Podlaski.info and wPolsce24 reported. The victim was identified as Semyon Skrepetsky.",
+      "title_raw": "Russian satirist Semyon Skrepetsky shot dead in Poland, three days after anti-Putin protest in Berlin",
+      "lead_raw": "A Russian artist was shot and killed in the Polish city of Biala Podlaska, local outlets Podlaski.info and wPolsce24 reported. The victim was identified as Semyon Skrepetsky.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "7af0ebbfa8c2cee6594fbe98c01911082067aefe",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27766015",
+      "published_utc": "2026-06-15T19:06:54Z",
+      "title_en": "Mishustin will visit Uzbekistan on a two-day working visit",
+      "lead_en": "The Chairman of the Russian Government will hold negotiations with the country's leadership, during which \"it is planned to consider current issues of Russian-Uzbek interaction in the trade, economic, investment, scientific, technological, cultural and humanitarian spheres\"",
+      "title_raw": "Мишустин посетит Узбекистан с двухдневным рабочим визитом",
+      "lead_raw": "Председатель правительства России проведет переговоры с руководством страны, в ходе которых \"планируется рассмотреть актуальные вопросы российско-узбекистанского взаимодействия в торгово-экономической, инвестиционной, научно-технологической и культурно-гуманитарной сферах\"",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "b5172ab4af2c592b53be97991c94d583b8a69745",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27765969",
+      "published_utc": "2026-06-15T19:04:06Z",
+      "title_en": "Lukashenko said that Moscow was deceived, including the Vatican and the Israelis",
+      "lead_en": "The President of Belarus noted that we are talking about a situation where the Russian Federation decided to withdraw troops from Kyiv in order to restore peace",
+      "title_raw": "Лукашенко заявил, что Москву обманули в том числе Ватикан и израильтяне",
+      "lead_raw": "Президент Белоруссии отметил, что речь идет о ситуации, когда РФ приняла решение отвести войска от Киева ради восстановления мира",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "4a079ece713d93da938c525b52882f6bd1146b6d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27765995",
+      "published_utc": "2026-06-15T18:59:32Z",
+      "title_en": "Lukashenko: Zelensky would not exist if Russia had not withdrawn troops from Kyiv",
+      "lead_en": "The President of Belarus noted that “these were steps by the Russians aimed at restoring peace between the conflicting parties.”",
+      "title_raw": "Лукашенко: Зеленского не было бы, если бы Россия не отвела войска от Киева",
+      "lead_raw": "Президент Белоруссии отметил, что \"это были шаги россиян, направленные на восстановление мира между конфликтующими сторонами\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "57c00f871bd99e2b29889bdda2215fbc5e5e50c4",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27765913",
+      "published_utc": "2026-06-15T18:54:24Z",
+      "title_en": "Until October 1, foreigners can pay for Russian gas not only at Gazprombank",
+      "lead_en": "Russian President Vladimir Putin extended the corresponding permit",
+      "title_raw": "Иностранцы до 1 октября могут платить за российский газ не только в Газпромбанке",
+      "lead_raw": "Президент РФ Владимир Путин продлил соответствующее разрешение",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "e5fcbc9afa95464c7b8684488bb70c8816486ad2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27765879",
+      "published_utc": "2026-06-15T18:51:41Z",
+      "title_en": "Lukashenko: Ukraine’s days in the spring of 2022 were numbered",
+      "lead_en": "Russia was persuaded to withdraw troops from Kyiv, the President of Belarus said",
+      "title_raw": "Лукашенко: дни Украины весной 2022 года были сочтены",
+      "lead_raw": "Россию уговорили отвести войска от Киева, заявил президент Белоруссии",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "10e2b9e347d89593b0152d18aafe3e3984aeb783",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27765851",
+      "published_utc": "2026-06-15T18:45:05Z",
+      "title_en": "Lukashenko: Russia is moving forward in Ukraine",
+      "lead_en": "Ukrainians are trying to defend themselves, but not successfully, said the President of Belarus",
+      "title_raw": "Лукашенко: Россия движется вперед на Украине",
+      "lead_raw": "Украинцы пытаются обороняться, но не успешно, заявил президент Белоруссии",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "59a64e7e53164ec5ab5dd79be9808cf5c47e5704",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27765845",
+      "published_utc": "2026-06-15T18:44:55Z",
+      "title_en": "Lukashenko: the demands of the “Eurotroika” to the Russian Federation for a settlement in Ukraine are unacceptable",
+      "lead_en": "The President of Belarus noted that we are talking about a five-point statement",
+      "title_raw": "Лукашенко: требования \"евротройки\" к РФ по урегулированию на Украине неприемлемы",
+      "lead_raw": "Президент Белоруссии отметил, что речь идет о заявлении из пяти пунктов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "9509f8d17355691b7b061332f45fe8cc6321a64f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27765751",
+      "published_utc": "2026-06-15T18:38:34Z",
+      "title_en": "Lukashenko explained the dangers of Belarus' entry into the conflict in Ukraine",
+      "lead_en": "The President of the Republic noted that this could lead to a clash between Russia and the NATO bloc",
+      "title_raw": "Лукашенко рассказал, чем грозит вступление Белоруссии в конфликт на Украине",
+      "lead_raw": "Президент республики отметил, что это может привести к столкновению России с блоком НАТО",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "91ca9dcf79593769d7c561a11097c537e74c6161",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/06/15/a-century-of-cinema-a-morning-of-missiles-what-russia-destroyed-at-kyiv-s-dovzhenko-film-studio",
+      "published_utc": "2026-06-15T18:36:52Z",
+      "title_en": "A century of cinema. A morning of missiles. What Russia destroyed at Kyiv’s Dovzhenko Film Studio.",
+      "lead_en": "In the early hours of June 15, Russia attacked Kyiv again. Nearly every district of the city was hit — and the roof of the Assumption Cathedral caught fire at the Kyiv-Pechersk Lavra, one of the most important Orthodox religious sites in the world and a UNESCO World Heritage Site.",
+      "title_raw": "A century of cinema. A morning of missiles. What Russia destroyed at Kyiv’s Dovzhenko Film Studio.",
+      "lead_raw": "In the early hours of June 15, Russia attacked Kyiv again. Nearly every district of the city was hit — and the roof of the Assumption Cathedral caught fire at the Kyiv-Pechersk Lavra, one of the most important Orthodox religious sites in the world and a UNESCO World Heritage Site.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "fb0f0b9b12f7ff3aa1791ee7688d445e38a9b5e4",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2146835",
+      "published_utc": "2026-06-15T18:32:21Z",
+      "title_en": "Russia interested in increasing exports to Laos — economy minister",
+      "lead_en": "Maxim Reshetnikov added that Russia is ready to bring more rubber, coffee, and textiles from Laos",
+      "title_raw": "Russia interested in increasing exports to Laos — economy minister",
+      "lead_raw": "Maxim Reshetnikov added that Russia is ready to bring more rubber, coffee, and textiles from Laos",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "e8fc4445f6c7ed98a801d521f91e9aa247f31c24",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/sports/2146829",
+      "published_utc": "2026-06-15T18:25:48Z",
+      "title_en": "Russian tennis star Medvedev up one spot in new ATP Rankings",
+      "lead_en": "The Russian earlier reached the quarterfinals of the 2026 ATP Hertogenbosch tournament in the Netherlands",
+      "title_raw": "Russian tennis star Medvedev up one spot in new ATP Rankings",
+      "lead_raw": "The Russian earlier reached the quarterfinals of the 2026 ATP Hertogenbosch tournament in the Netherlands",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
     {
       "id": "36a4b5f6034357f77f95210ae8c15094dcde37fe",
       "source": "TASS (RU)",
@@ -4891,7 +5472,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/armiya-i-opk/27751757",
       "published_utc": "2026-06-14T09:23:35Z",
-      "title_en": "The Russian Armed Forces destroy scattered groups of the Ukrainian Armed Forces in the liberated areas of Krasny Liman",
+      "title_en": "The Russian Armed Forces destroy scattered groups of the Armed Forces of Ukraine in the liberated areas of Krasny Liman",
       "lead_en": "",
       "title_raw": "ВС РФ уничтожают разрозненные группы ВСУ в освобожденных кварталах Красного Лимана",
       "lead_raw": "",
@@ -5937,245 +6518,6 @@
       },
       "topics": [],
       "primary_topic": null
-    },
-    {
-      "id": "548ab11c296b13e35d3f6cb9a1caec2912ebbcaf",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27750175",
-      "published_utc": "2026-06-13T21:30:49Z",
-      "title_en": "Titov said that the issue with \"Power of Siberia - 2\" will be resolved in the near future",
-      "lead_en": "The Chairman of the Russian part of the Russian-Chinese Committee for Friendship, Peace and Development noted that the main point is logistics, not the price of the project",
-      "title_raw": "Титов заявил, что вопрос с \"Силой Сибири - 2\" решат в ближайшее время",
-      "lead_raw": "Председатель российской части Российско-китайского комитета дружбы, мира и развития отметил, что основным моментом является логистика, а не цена проекта",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "28a1fb822b81e9f0ec92500eed9e4d1c54d12b09",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27750089",
-      "published_utc": "2026-06-13T21:06:19Z",
-      "title_en": "Fighter Yakimov used grenades to destroy a machine gun point of the Ukrainian Armed Forces with a crew",
-      "lead_en": "The Russian Ministry of Defense said that in one of the tactical directions the unit carried out the task of storming a strong point",
-      "title_raw": "Боец Якимов гранатами уничтожил пулеметную точку ВСУ с расчетом",
-      "lead_raw": "В Минобороны РФ рассказали, что на одном из тактических направлений подразделение выполняло задачу по штурму опорного пункта",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "0338f0e38ffa175dddff59bc69e4c36a5aa3dd3f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27750085",
-      "published_utc": "2026-06-13T21:04:04Z",
-      "title_en": "The first historical musical route took place in the Kislovodsky National Park",
-      "lead_en": "At seven venues, military bands performed musical works from different historical eras of Russia",
-      "title_raw": "В нацпарке \"Кисловодский\" прошел первый исторический музыкальный маршрут",
-      "lead_raw": "На семи площадках военные оркестры исполнили музыкальные произведения разных исторических эпох России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "d368a19b416a3b37ae00b5d2081e33176be08bb9",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/nauka/27749965",
-      "published_utc": "2026-06-13T19:54:43Z",
-      "title_en": "The Russian Federation has found a way to improve microwave filters for satellite communications and radar",
-      "lead_en": "The findings are useful for the development of tunable filters, phase shifters, gates, active phased array antennas",
-      "title_raw": "В РФ нашли способ улучшить СВЧ-фильтры для спутниковой связи и радиолокации",
-      "lead_raw": "Полученные выводы полезны для разработки перестраиваемых фильтров, фазовращателей, вентилей, активных фазированных антенных решеток",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "7711854d24f59b9d21d1c670937edda285d0257c",
-      "source": "RT",
-      "url": "https://www.rt.com/news/641500-us-funded-biolabs-focus-russia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "published_utc": "2026-06-13T19:54:10Z",
-      "title_en": "US-funded biolabs project ‘overwhelmingly’ focused on Russia – ex-CIA analyst",
-      "lead_en": "The fact that Ukraine hosted a third of US-funded biological laboratories shows the project was focused on Russia, Larry Johnson has said Read Full Article at RT.com",
-      "title_raw": "US-funded biolabs project ‘overwhelmingly’ focused on Russia – ex-CIA analyst",
-      "lead_raw": "The fact that Ukraine hosted a third of US-funded biological laboratories shows the project was focused on Russia, Larry Johnson has said Read Full Article at RT.com",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "deef8b70030ccc95033846abdb686eccf6912352",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2146103",
-      "published_utc": "2026-06-13T19:50:12Z",
-      "title_en": "Kiev cannot escape responsibility for crime in Starobelsk — Russian Foreign Ministry",
-      "lead_en": "This crime has no statute of limitations, the ministry said",
-      "title_raw": "Kiev cannot escape responsibility for crime in Starobelsk — Russian Foreign Ministry",
-      "lead_raw": "This crime has no statute of limitations, the ministry said",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "2872d7eccc268e5e216bb028c51186180f3efcd4",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2146105",
-      "published_utc": "2026-06-13T19:47:03Z",
-      "title_en": "Ukraine becomes testing ground for West’s scientific experiments — Russian senator",
-      "lead_en": "Today it is especially important to achieve full international verification of the activities of all such facilities, Russian Senator from the DPR Alexander Voloshin said",
-      "title_raw": "Ukraine becomes testing ground for West’s scientific experiments — Russian senator",
-      "lead_raw": "Today it is especially important to achieve full international verification of the activities of all such facilities, Russian Senator from the DPR Alexander Voloshin said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "ae866e0d9bc3d772e1815ffbb4c2597121f89a07",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27749891",
-      "published_utc": "2026-06-13T19:25:30Z",
-      "title_en": "Senator Voloshin: Ukraine has become a testing ground for Western scientific experiments",
-      "lead_en": "The Russian senator from the DPR said that the world should know exactly what research was carried out, who controlled it and what consequences it could have.",
-      "title_raw": "Сенатор Волошин: Украина стала полигоном для научных экспериментов Запада",
-      "lead_raw": "Сенатор РФ от ДНР заявил, что мир должен знать, какие именно исследования проводились, кто их контролировал и какие последствия они могли иметь",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "d3a1b450b6871e1f742802136a97149fb1e8ca16",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/kultura/27749865",
-      "published_utc": "2026-06-13T19:24:50Z",
-      "title_en": "The premiere of the opera \"The Tale of a Real Man\" took place at the Bolshoi Theater",
-      "lead_en": "As the production director Sergei Novikov noted, this opera will tell about the “mysterious Russian character”",
-      "title_raw": "В Большом театре состоялась премьера оперы \"Повесть о настоящем человеке\"",
-      "lead_raw": "Как отметил режиссер постановки Сергей Новиков, эта опера расскажет о \"загадочном русском характере\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "17507062404a5c2e31ce4f59c1c78fdf22b7c6d0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27749777",
-      "published_utc": "2026-06-13T18:39:35Z",
-      "title_en": "Russian Foreign Ministry: Kyiv cannot escape responsibility for the crime in Starobelsk",
-      "lead_en": "This criminal act has no statute of limitations, the Russian diplomatic service said.",
-      "title_raw": "МИД РФ: Киеву не уйти от ответственности за преступление в Старобельске",
-      "lead_raw": "Это преступное деяние не имеет срока давности, заявили в российском дипведомстве",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "8027efd17c7d264cbaaadb6c2e140de476f55aff",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27749767",
-      "published_utc": "2026-06-13T18:35:44Z",
-      "title_en": "Deputy Prime Minister Patrushev: Russia annually increases its vineyard area",
-      "lead_en": "Today, on Russian territory there are about 113 thousand hectares of plantings",
-      "title_raw": "Вице-премьер Патрушев: Россия ежегодно наращивает площади виноградников",
-      "lead_raw": "На сегодняшний день на российской территории уде есть порядка 113 тыс. га насаждений",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "322af8a1b7ea61cb21edf7eacf96edef8b43a279",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2146099",
-      "published_utc": "2026-06-13T18:30:02Z",
-      "title_en": "Company making Hornet drones for attacks on Russia owned by Google ex-head — envoy",
-      "lead_en": "The first combat use of such drones in the zone of the special military operation was recorded in March 2026, when these drones attacked Donetsk, said Ambassador-at-Large of the Russian Foreign Ministry for the Crimes of the Kiev Regime Rodion Miroshnik",
-      "title_raw": "Company making Hornet drones for attacks on Russia owned by Google ex-head — envoy",
-      "lead_raw": "The first combat use of such drones in the zone of the special military operation was recorded in March 2026, when these drones attacked Donetsk, said Ambassador-at-Large of the Russian Foreign Ministry for the Crimes of the Kiev Regime Rodion Miroshnik",
-      "topic_scores": {
-        "diplomacy": 3,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
