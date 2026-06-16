@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-06-16T04:07:08Z",
+  "updated_at_utc": "2026-06-16T10:06:30Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 12,
+  "count": 13,
   "articles": [
+    {
+      "id": "27fa54bbd238f9d2f0c7fb542cb8682d98f79a1e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27771243",
+      "published_utc": "2026-06-16T09:09:25Z",
+      "title_en": "Expert Krylov pointed out the risks of severing ties with Russia for Armenia",
+      "lead_en": "The chief researcher at the Caucasus sector of the Center for Post-Soviet Studies at IMEMO RAS believes that this could turn the republic into an “economic disaster zone”",
+      "title_raw": "Эксперт Крылов указал на риски разрыва связей с Россией для Армении",
+      "lead_raw": "Главный научный сотрудник сектора Кавказа Центра постсоветских исследований ИМЭМО РАН считает, что это может превратить республику в \"зону экономического бедствия\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "e2e84a786999e471fa2c0681e9ee1697e08a2fc0",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/06/16/ukrainian-drone-attacks-spark-fires-at-moscow-refinery-and-krasnodar-region-fuel-depot-a93023",
+      "published_utc": "2026-06-16T08:38:00Z",
+      "title_en": "Ukrainian Drone Attacks Spark Fires at Moscow Refinery and Krasnodar Region Fuel Depot",
+      "lead_en": "Ukrainian President Volodymyr Zelensky called strikes a “just response” to Russia’s ongoing attacks and protracted invasion.",
+      "title_raw": "Ukrainian Drone Attacks Spark Fires at Moscow Refinery and Krasnodar Region Fuel Depot",
+      "lead_raw": "Ukrainian President Volodymyr Zelensky called strikes a “just response” to Russia’s ongoing attacks and protracted invasion.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "9429dd943acdfdd63cda3b351d02cdd1ad2378ee",
       "source": "TASS (EN)",
@@ -222,27 +262,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "fa9c41c3e7ac95bcd78f9a965c29d49a39d75974",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27751811",
-      "published_utc": "2026-06-14T09:25:41Z",
-      "title_en": "The Russian Armed Forces forced Kyiv to begin the evacuation of enterprises from Kramatorsk and Druzhkovka",
-      "lead_en": "This was facilitated by the advance of the Russian military",
-      "title_raw": "ВС РФ вынудили Киев начать эвакуацию предприятий из Краматорска и Дружковки",
-      "lead_raw": "Этому поспособствовало продвижение российских военных",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
