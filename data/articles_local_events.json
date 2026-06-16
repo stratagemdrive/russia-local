@@ -1,9 +1,50 @@
 {
-  "updated_at_utc": "2026-06-16T10:06:30Z",
+  "updated_at_utc": "2026-06-16T15:52:29Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 13,
+  "count": 15,
   "articles": [
+    {
+      "id": "2f4036c697fff8f999c50867d1694737f019afda",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/06/16/russian-schoolchildren-evacuated-during-end-of-school-exam-over-drone-threat-test-rescheduled",
+      "published_utc": "2026-06-16T15:02:48Z",
+      "title_en": "Russian schoolchildren evacuated during end-of-school exam over drone threat, test rescheduled",
+      "lead_en": "Ninth-graders in Voronezh were unable to sit the Basic State Exam (OGE) on June 16 after a drone strike threat prompted evacuations at all 54 exam sites across the city.",
+      "title_raw": "Russian schoolchildren evacuated during end-of-school exam over drone threat, test rescheduled",
+      "lead_raw": "Ninth-graders in Voronezh were unable to sit the Basic State Exam (OGE) on June 16 after a drone strike threat prompted evacuations at all 54 exam sites across the city.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "64897648a092fcdf69fa68e4d403472f2ef31d90",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2147243",
+      "published_utc": "2026-06-16T14:11:38Z",
+      "title_en": "Break with Russia could turn Armenia into 'economic disaster zone' — expert",
+      "lead_en": "Alexander Krylov noted that Russia currently supplies gas to Armenia at $177.5 per 1,000 cubic meters, adjusted for calorific value, while the market price in Europe exceeds $600",
+      "title_raw": "Break with Russia could turn Armenia into 'economic disaster zone' — expert",
+      "lead_raw": "Alexander Krylov noted that Russia currently supplies gas to Armenia at $177.5 per 1,000 cubic meters, adjusted for calorific value, while the market price in Europe exceeds $600",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 1
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "27fa54bbd238f9d2f0c7fb542cb8682d98f79a1e",
       "source": "TASS (RU)",
