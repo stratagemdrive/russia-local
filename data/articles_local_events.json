@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-06-18T08:51:36Z",
+  "updated_at_utc": "2026-06-18T12:26:20Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 21,
+  "count": 22,
   "articles": [
+    {
+      "id": "b44237e3b56eb10ff83ed8a763e9362cc3c4b7eb",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27802171",
+      "published_utc": "2026-06-18T11:30:35Z",
+      "title_en": "Pilot Tutakin was at the controls of the plane that crashed in the Moscow region",
+      "lead_en": "The Russian Investigative Committee confirmed that one of the versions of the crash was a pilot error.",
+      "title_raw": "За штурвалом разбившегося в Подмосковье самолета был летчик Тутакин",
+      "lead_raw": "В СК РФ подтвердили, что одной из версий крушения является ошибка пилотирования",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "0ac1e53cc0e1dd5521992ad55a70f5dc7b1d35f4",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2148247",
+      "published_utc": "2026-06-18T09:54:35Z",
+      "title_en": "IN BRIEF: One killed in Rostov Region as air defenses down 555 UAVs across Russia",
+      "lead_en": "Nearly 180 drones targeting Moscow were downed",
+      "title_raw": "IN BRIEF: One killed in Rostov Region as air defenses down 555 UAVs across Russia",
+      "lead_raw": "Nearly 180 drones targeting Moscow were downed",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "066da8f31b089831639560626105b8f510d2558e",
       "source": "TASS (EN)",
@@ -399,25 +439,6 @@
         "energy",
         "economy"
       ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "27fa54bbd238f9d2f0c7fb542cb8682d98f79a1e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27771243",
-      "published_utc": "2026-06-16T09:09:25Z",
-      "title_en": "Expert Krylov pointed out the risks of severing ties with Russia for Armenia",
-      "lead_en": "The chief researcher at the Caucasus sector of the Center for Post-Soviet Studies at IMEMO RAS believes that this could turn the republic into an “economic disaster zone”",
-      "title_raw": "Эксперт Крылов указал на риски разрыва связей с Россией для Армении",
-      "lead_raw": "Главный научный сотрудник сектора Кавказа Центра постсоветских исследований ИМЭМО РАН считает, что это может превратить республику в \"зону экономического бедствия\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 1
-      },
-      "topics": [],
       "primary_topic": "economy"
     }
   ]
