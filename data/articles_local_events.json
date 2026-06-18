@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-06-18T03:58:11Z",
+  "updated_at_utc": "2026-06-18T08:51:36Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 21,
   "articles": [
+    {
+      "id": "066da8f31b089831639560626105b8f510d2558e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2148103",
+      "published_utc": "2026-06-18T04:35:00Z",
+      "title_en": "Drone strike kills civilian in Russia’s southern Rostov Region",
+      "lead_en": "The strike also damaged a locomotive and caused two commercial facilities to catch fire",
+      "title_raw": "Drone strike kills civilian in Russia’s southern Rostov Region",
+      "lead_raw": "The strike also damaged a locomotive and caused two commercial facilities to catch fire",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "6cd2dfbd452b9095edf0fabd4fc2fb3be3c3a090",
       "source": "Meduza (EN)",
@@ -400,27 +419,6 @@
       },
       "topics": [],
       "primary_topic": "economy"
-    },
-    {
-      "id": "e2e84a786999e471fa2c0681e9ee1697e08a2fc0",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/06/16/ukrainian-drone-attacks-spark-fires-at-moscow-refinery-and-krasnodar-region-fuel-depot-a93023",
-      "published_utc": "2026-06-16T08:38:00Z",
-      "title_en": "Ukrainian Drone Attacks Spark Fires at Moscow Refinery and Krasnodar Region Fuel Depot",
-      "lead_en": "Ukrainian President Volodymyr Zelensky called strikes a “just response” to Russia’s ongoing attacks and protracted invasion.",
-      "title_raw": "Ukrainian Drone Attacks Spark Fires at Moscow Refinery and Krasnodar Region Fuel Depot",
-      "lead_raw": "Ukrainian President Volodymyr Zelensky called strikes a “just response” to Russia’s ongoing attacks and protracted invasion.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
