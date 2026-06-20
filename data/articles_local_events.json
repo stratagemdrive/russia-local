@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-06-20T08:56:00Z",
+  "updated_at_utc": "2026-06-20T11:20:03Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 6,
   "articles": [
+    {
+      "id": "3960e4fc118c17a2a3b8226cbe1a6f2950e02345",
+      "source": "RT",
+      "url": "https://www.rt.com/news/641833-arsongates-missing-piece-investigation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "published_utc": "2026-06-20T11:13:15Z",
+      "title_en": "Arsongate’s missing piece: Before you blame Russia, read this",
+      "lead_en": "Two men were convicted over fires linked to Keir Starmer, but the rush to blame Russia raises questions the trial never answered in court Read Full Article at RT.com",
+      "title_raw": "Arsongate’s missing piece: Before you blame Russia, read this",
+      "lead_raw": "Two men were convicted over fires linked to Keir Starmer, but the rush to blame Russia raises questions the trial never answered in court Read Full Article at RT.com",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "11c62e8cc48736dd8128c46c6a338839e3bb99f1",
       "source": "TASS (RU)",
@@ -104,27 +123,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "0ac1e53cc0e1dd5521992ad55a70f5dc7b1d35f4",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2148247",
-      "published_utc": "2026-06-18T09:54:35Z",
-      "title_en": "IN BRIEF: One killed in Rostov Region as air defenses down 555 UAVs across Russia",
-      "lead_en": "Nearly 180 drones targeting Moscow were downed",
-      "title_raw": "IN BRIEF: One killed in Rostov Region as air defenses down 555 UAVs across Russia",
-      "lead_raw": "Nearly 180 drones targeting Moscow were downed",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }

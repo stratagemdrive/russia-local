@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-06-20T08:56:00Z",
+  "updated_at_utc": "2026-06-20T11:20:03Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 37,
+  "count": 35,
   "articles": [
+    {
+      "id": "ea4909a063b65d5594aa704aa41341beb9cc7a9d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27823211",
+      "published_utc": "2026-06-20T09:12:52Z",
+      "title_en": "The Russian Armed Forces hit energy and transport facilities of the Armed Forces of Ukraine in one day",
+      "lead_en": "The targets were eliminated by operational-tactical aviation, attack unmanned aerial vehicles, missile forces and artillery",
+      "title_raw": "ВС РФ поразили за сутки объекты энергетики и транспорта ВСУ",
+      "lead_raw": "Цели ликвидировали оперативно-тактической авиацией, ударными беспилотными летательными аппаратами, ракетными войсками и артиллерией",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "13a97b362aae099c0db1d53f7f6edd21571059aa",
       "source": "TASS (RU)",
@@ -733,71 +755,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "7c3d7c3c9070e42158ad5f9ed741ffa16cffebba",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2148323",
-      "published_utc": "2026-06-18T11:06:46Z",
-      "title_en": "Russia, ASEAN to diversify energy supplies",
-      "lead_en": "The parties plan to achieve this, among other measures, through the expansion of trade, investment and long-term commercial partnerships in the fields of oil, gas, LNG and electricity, in accordance with market principles and national legislation",
-      "title_raw": "Russia, ASEAN to diversify energy supplies",
-      "lead_raw": "The parties plan to achieve this, among other measures, through the expansion of trade, investment and long-term commercial partnerships in the fields of oil, gas, LNG and electricity, in accordance with market principles and national legislation",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 5,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "1f8ecff28a76ce268c77ab96b089521506be7cab",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2148305",
-      "published_utc": "2026-06-18T10:51:57Z",
-      "title_en": "Russia, ASEAN concerned about growing global energy instability",
-      "lead_en": "The joint declaration notes that such developments have a direct impact on regional stability, economic resilience, and development",
-      "title_raw": "Russia, ASEAN concerned about growing global energy instability",
-      "lead_raw": "The joint declaration notes that such developments have a direct impact on regional stability, economic resilience, and development",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "3d6fef5695d4052c29420ef811bd79ee7567c66e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2148293",
-      "published_utc": "2026-06-18T10:40:01Z",
-      "title_en": "Russia, ASEAN adopt joint statements on energy, cultural cooperation",
-      "lead_en": "The document was approved by Russian President Vladimir Putin and the heads of the other delegations attending the summit",
-      "title_raw": "Russia, ASEAN adopt joint statements on energy, cultural cooperation",
-      "lead_raw": "The document was approved by Russian President Vladimir Putin and the heads of the other delegations attending the summit",
-      "topic_scores": {
-        "diplomacy": 3,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
