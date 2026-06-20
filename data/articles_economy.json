@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-06-19T21:10:53Z",
+  "updated_at_utc": "2026-06-19T22:57:23Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 113,
+  "count": 110,
   "articles": [
+    {
+      "id": "1407792b64e5fab8c215c54e53543bb24d03c1bc",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27820439",
+      "published_utc": "2026-06-19T21:01:24Z",
+      "title_en": "The admission campaign to universities has begun in Russia",
+      "lead_en": "The total number of budget places in 2026 is 620,480",
+      "title_raw": "В России началась приемная кампания в вузы",
+      "lead_raw": "Общее количество бюджетных мест в 2026 году составляет 620 480",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
     {
       "id": "60ca7479b30e83e3a2f9c8475ad56bc9c77f40e3",
       "source": "TASS (RU)",
@@ -2215,86 +2234,6 @@
       },
       "topics": [],
       "primary_topic": "economy"
-    },
-    {
-      "id": "379fda2d083cf28d46efbf13457f95f069be9256",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27793059",
-      "published_utc": "2026-06-17T22:28:24Z",
-      "title_en": "ONF: the average size of a consumer loan in the Russian Federation increased to 180 thousand rubles",
-      "lead_en": "The Popular Front study says this figure has risen for the second month in a row.",
-      "title_raw": "ОНФ: средний размер потребительского кредита в РФ вырос до 180 тыс. рублей",
-      "lead_raw": "В исследовании Народного фронта говорится, что этот показатель растет второй месяц подряд",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "7fea4b948d0857f4926a76c4995496f3a1f89e23",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27793323",
-      "published_utc": "2026-06-17T22:24:59Z",
-      "title_en": "The State Duma called for the introduction of an annual payment to families to prepare children for school",
-      "lead_en": "The leader of the A Just Russia party, Sergei Mironov, believes that the amount should be from 30 to 50 thousand rubles",
-      "title_raw": "В ГД призвали ввести ежегодную выплату семьям на сборы детей к школе",
-      "lead_raw": "Лидер партии \"Справедливая Россия\" Сергей Миронов считает, что сумма должна составлять от 30 до 50 тыс. рублей",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "86c6518ef2df924b8e67695932257566fb807a96",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27793283",
-      "published_utc": "2026-06-17T22:09:22Z",
-      "title_en": "Expert Sergunin: The Russian Federation can provide itself with gas carriers under sanctions",
-      "lead_en": "However, it will take time to reach the required volumes, says the director of the Center for Arctic Research and Projects of the North-West Institute of Management, RANEPA",
-      "title_raw": "Эксперт Сергунин: РФ может обеспечить себя газовозами в условиях санкций",
-      "lead_raw": "Однако для выхода на необходимые объемы потребуется время, считает директор Центра арктических исследований и проектов Северо-Западного института управления РАНХиГС",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "3f3bb72203c049abfe90b2e973edbbb6d41264fd",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27793191",
-      "published_utc": "2026-06-17T22:00:07Z",
-      "title_en": "Russian Foreign Ministry: Moscow and Tehran at the UN synchronize actions to lift sanctions on Iran",
-      "lead_en": "Deputy head of the ministry Alexander Alimov said that the conversation is about the inadmissibility of unilateral coercive measures",
-      "title_raw": "МИД РФ: Москва и Тегеран в ООН синхронизируют действия для снятия санкций с Ирана",
-      "lead_raw": "Замглавы министерства Александр Алимов заявил, что разговор ведется о недопустимости односторонних принудительных мер",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
