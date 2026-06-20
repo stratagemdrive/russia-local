@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-06-20T11:20:03Z",
+  "updated_at_utc": "2026-06-20T14:03:02Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 35,
+  "count": 33,
   "articles": [
+    {
+      "id": "24aca3c0bc589e752ae22c2be7c9b6a385f2101b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27823939",
+      "published_utc": "2026-06-20T11:19:16Z",
+      "title_en": "In Donbass and Novorossia, 25 power engineers died due to the Ukrainian Armed Forces",
+      "lead_en": "Another 75 were injured",
+      "title_raw": "В Донбассе и Новороссии из-за ВСУ погибли 25 энергетиков",
+      "lead_raw": "Еще 75 пострадали",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "ea4909a063b65d5594aa704aa41341beb9cc7a9d",
       "source": "TASS (RU)",
@@ -692,69 +713,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "d2b014343917af01cc71835920c33afcf26d6271",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2148431",
-      "published_utc": "2026-06-18T13:07:09Z",
-      "title_en": "Russia provides assistance to ASEAN countries in developing nuclear energy — Putin",
-      "lead_en": "Rosatom has unique technologies of building power plants based on the highest safety and environmental standards, the Russian leader said",
-      "title_raw": "Russia provides assistance to ASEAN countries in developing nuclear energy — Putin",
-      "lead_raw": "Rosatom has unique technologies of building power plants based on the highest safety and environmental standards, the Russian leader said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "03bc7bbdef1ed9377621ed9539219f88b81d57eb",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27803013",
-      "published_utc": "2026-06-18T12:18:26Z",
-      "title_en": "Putin: The Russian Federation is assisting ASEAN countries in the development of nuclear energy",
-      "lead_en": "Rosatom has unique technologies for constructing power plants based on the highest safety and environmental standards, the Russian President noted",
-      "title_raw": "Путин: РФ содействует странам АСЕАН в развитии атомной энергетики",
-      "lead_raw": "Росатом обладает уникальными технологиями возведения электростанций на основе самых высоких стандартов безопасности и экологии, отметил президент РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "a3bed3e4e0fa621a287f4f9f504d0e877ffddfc8",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27802669",
-      "published_utc": "2026-06-18T12:01:45Z",
-      "title_en": "Putin hopes to stabilize the situation in the Middle East",
-      "lead_en": "This will have a positive impact, among other things, on global energy and food markets, the Russian President said",
-      "title_raw": "Путин рассчитывает на стабилизацию обстановки на Ближнем Востоке",
-      "lead_raw": "Это благоприятно скажется в том числе на глобальных энергетических и продовольственных рынках, заявил президент РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
