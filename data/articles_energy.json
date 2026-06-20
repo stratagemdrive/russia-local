@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-06-19T22:57:23Z",
+  "updated_at_utc": "2026-06-20T05:13:53Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 42,
   "articles": [
+    {
+      "id": "13a97b362aae099c0db1d53f7f6edd21571059aa",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27821155",
+      "published_utc": "2026-06-20T02:19:00Z",
+      "title_en": "Ministry of Internal Affairs: scammers began to convince victims to call “technical support” back with the sound of sirens",
+      "lead_en": "Attackers force Russians to transfer money to a “safe account” through QR codes, which actually lead to payment for purchases in the store, the department says.",
+      "title_raw": "МВД: мошенники стали убеждать жертв перезвонить в \"техподдержку\" звуком сирен",
+      "lead_raw": "Злоумышленники заставляют россиян перевести на \"безопасный счет\" деньги через QR-коды, которые на самом деле ведут на оплату покупок в магазине, говорится в материалах ведомства",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "0539ec75daf55d93ffdd798badef9d66226cb9d5",
       "source": "TASS (EN)",
@@ -885,28 +906,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "b08f98d7f3198970c8bd6384655c0ba7c216a814",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sammit-rossiya-asean-2026/27794217",
-      "published_utc": "2026-06-18T02:27:25Z",
-      "title_en": "Ambassador to the Russian Federation: The Philippines is studying the possibility of using nuclear energy",
-      "lead_en": "In the use of small modular nuclear reactors, the country is focusing on Russia, noted Igor Baylen",
-      "title_raw": "Посол в РФ: Филиппины изучают возможность использования ядерной энергии",
-      "lead_raw": "В применении малых модульных ядерных реакторов страна ориентируется на Россию, отметил Игорь Байлен",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }

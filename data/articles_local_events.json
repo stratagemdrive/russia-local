@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-06-19T22:57:23Z",
+  "updated_at_utc": "2026-06-20T05:13:53Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 5,
+  "count": 6,
   "articles": [
+    {
+      "id": "11c62e8cc48736dd8128c46c6a338839e3bb99f1",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27821711",
+      "published_utc": "2026-06-20T04:26:32Z",
+      "title_en": "An earthquake of magnitude 5.7 occurred in Kamchatka",
+      "lead_en": "The epicenter lay at a depth of 17 km, the Kamchatka branch of the Unified Geophysical Service of the Russian Academy of Sciences reported.",
+      "title_raw": "На Камчатке произошло землетрясение магнитудой 5,7",
+      "lead_raw": "Эпицентр залегал на глубине 17 км, сообщили в Камчатском филиале Единой геофизической службы РАН",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "e2af52169a64e5c8f261afdc39a5d60695c4b50a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27821273",
+      "published_utc": "2026-06-20T03:02:16Z",
+      "title_en": "Fighter Topor: Russian sappers destroyed more than 100 mines of the Ukrainian Armed Forces in the border area of ​​the Kursk region",
+      "lead_en": "This amount of explosive objects was eliminated in a week, the serviceman said.",
+      "title_raw": "Боец Топор: саперы РФ уничтожили более 100 мин ВСУ в приграничье Курской области",
+      "lead_raw": "Такое количество взрывоопасных предметов ликвидировали за неделю, сообщил военнослужащий",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "2d5d06293a57be0b947e8029e9c33d2821290ee0",
       "source": "TASS (EN)",
@@ -85,25 +125,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "066da8f31b089831639560626105b8f510d2558e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2148103",
-      "published_utc": "2026-06-18T04:35:00Z",
-      "title_en": "Drone strike kills civilian in Russia’s southern Rostov Region",
-      "lead_en": "The strike also damaged a locomotive and caused two commercial facilities to catch fire",
-      "title_raw": "Drone strike kills civilian in Russia’s southern Rostov Region",
-      "lead_raw": "The strike also damaged a locomotive and caused two commercial facilities to catch fire",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
