@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-06-20T14:03:02Z",
+  "updated_at_utc": "2026-06-20T16:17:41Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 33,
+  "count": 31,
   "articles": [
+    {
+      "id": "599a6f194b61309b4d49e8e594de1fc9744ad08b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27825271",
+      "published_utc": "2026-06-20T15:52:43Z",
+      "title_en": "The EU demanded that Turkey exclude Russian gas from new supplies to the bloc",
+      "lead_en": "However, Türkiye has made it clear that replacing Russian supplies is not possible overnight, either from an economic point of view or from the point of view of available resources, said the head of the German Ministry of Economy, Katerina Reiche.",
+      "title_raw": "ЕС потребовал от Турции исключить российский газ из новых поставок блоку",
+      "lead_raw": "Однако Турция ясно дала понять, что замена российских поставок невозможна в одночасье ни с экономической точки зрения, ни с точки зрения имеющихся ресурсов, заявила глава Минэкономики ФРГ Катерина Райхе",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "24aca3c0bc589e752ae22c2be7c9b6a385f2101b",
       "source": "TASS (RU)",
@@ -647,72 +668,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "f0db8b9e70610ee84f946db606b642fe9e433812",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2148547",
-      "published_utc": "2026-06-18T16:02:07Z",
-      "title_en": "Energy important in relations between Russia, Vietnam — Putin",
-      "lead_en": "The Russian president added that strategic partnership relations between Moscow and Hanoi are based on solid traditions of friendship, trust and mutual help",
-      "title_raw": "Energy important in relations between Russia, Vietnam — Putin",
-      "lead_raw": "The Russian president added that strategic partnership relations between Moscow and Hanoi are based on solid traditions of friendship, trust and mutual help",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "1e853b8dfe1a1999a90e6d6f263d2ea347dc1299",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2148527",
-      "published_utc": "2026-06-18T15:36:18Z",
-      "title_en": "Malaysia to work on increasing tourist arrivals from Russia",
-      "lead_en": "When asked about possible investments in Russia, Dato' Charon Wardini Mokhzani highlighted the food, energy, logistics and technology sectors",
-      "title_raw": "Malaysia to work on increasing tourist arrivals from Russia",
-      "lead_raw": "When asked about possible investments in Russia, Dato' Charon Wardini Mokhzani highlighted the food, energy, logistics and technology sectors",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "8e16d18152026784dd2bd7be89096c90b6007b78",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2148515",
-      "published_utc": "2026-06-18T15:22:12Z",
-      "title_en": "Bilateral trade volume of Russia, Thailand growing — Putin",
-      "lead_en": "The potential for mutually beneficial cooperation is significant in spheres of energy, transport, logistics, agribusiness and investments, the Russian president said",
-      "title_raw": "Bilateral trade volume of Russia, Thailand growing — Putin",
-      "lead_raw": "The potential for mutually beneficial cooperation is significant in spheres of energy, transport, logistics, agribusiness and investments, the Russian president said",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
