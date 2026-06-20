@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-06-20T18:10:49Z",
+  "updated_at_utc": "2026-06-20T22:06:25Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 27,
+  "count": 26,
   "articles": [
+    {
+      "id": "21a7253df5722253e4341131a67b2398f740cdf7",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2149359",
+      "published_utc": "2026-06-20T18:20:59Z",
+      "title_en": "EU demands Turkey does not supply Russian gas to union",
+      "lead_en": "As German Economy Minister Katherina Reiche noted, Turkey takes into account the great importance that the EU places \"on weaning itself off Russian commodity supplies,\" but made it clear that replacing Russian supplies is impossible overnight",
+      "title_raw": "EU demands Turkey does not supply Russian gas to union",
+      "lead_raw": "As German Economy Minister Katherina Reiche noted, Turkey takes into account the great importance that the EU places \"on weaning itself off Russian commodity supplies,\" but made it clear that replacing Russian supplies is impossible overnight",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "599a6f194b61309b4d49e8e594de1fc9744ad08b",
       "source": "TASS (RU)",
@@ -539,49 +560,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "357f51fc5c0e3d8e237348bcbee0ef46140fe0f8",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2148589",
-      "published_utc": "2026-06-18T18:28:40Z",
-      "title_en": "Bank of Russia set dollar rate at 73.36 rubles for June 19",
-      "lead_en": "The official euro rate was increased by 68.66 kopecks to 85.0305 rubles",
-      "title_raw": "Bank of Russia set dollar rate at 73.36 rubles for June 19",
-      "lead_raw": "The official euro rate was increased by 68.66 kopecks to 85.0305 rubles",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "b6a4bea14d001ea9275fd1291ef6d2187d78a59c",
-      "source": "RT",
-      "url": "https://www.rt.com/news/641790-turkiye-russia-hakan-fidan/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "published_utc": "2026-06-18T18:13:54Z",
-      "title_en": "Türkiye is playing the game the West forgot how to play",
-      "lead_en": "Fidan’s visit to Russia shows how Türkiye is using energy, Ukraine diplomacy and Middle East tensions to build leverage beyond NATO today Read Full Article at RT.com",
-      "title_raw": "Türkiye is playing the game the West forgot how to play",
-      "lead_raw": "Fidan’s visit to Russia shows how Türkiye is using energy, Ukraine diplomacy and Middle East tensions to build leverage beyond NATO today Read Full Article at RT.com",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
