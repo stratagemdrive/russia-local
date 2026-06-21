@@ -1,9 +1,51 @@
 {
-  "updated_at_utc": "2026-06-21T21:13:42Z",
+  "updated_at_utc": "2026-06-21T23:12:38Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 8,
+  "count": 10,
   "articles": [
+    {
+      "id": "4e4f59ab89e2274f41c8aa6bcf590dc558beef8e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2149623",
+      "published_utc": "2026-06-21T22:25:00Z",
+      "title_en": "New UN chief must fix Guterres’ mistakes, end Western dominance — MFA",
+      "lead_en": "Director of the Department of International Organizations at the Russian Foreign Ministry Kirill Logvinov believes that, first of all, the overrepresentation of the Western minority who have flooded the Secretariat must be addressed",
+      "title_raw": "New UN chief must fix Guterres’ mistakes, end Western dominance — MFA",
+      "lead_raw": "Director of the Department of International Organizations at the Russian Foreign Ministry Kirill Logvinov believes that, first of all, the overrepresentation of the Western minority who have flooded the Secretariat must be addressed",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "bcd12597f60251c205cd1852e8888ac61aa7cf8a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27830683",
+      "published_utc": "2026-06-21T21:05:13Z",
+      "title_en": "Senior Lieutenant Kireev helped save more than 50 servicemen",
+      "lead_en": "The fighter competently organized the evacuation of the wounded, determining the removal routes, noted the Russian Ministry of Defense",
+      "title_raw": "Старший лейтенант Киреев помог спасти более 50 военнослужащих",
+      "lead_raw": "Боец грамотно организовал эвакуацию раненых, определив маршруты выноса, отметили в Минобороны РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "d5671dd36fd20c0fcc18b105bac0f6787077a0b9",
       "source": "TASS (EN)",
