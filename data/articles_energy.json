@@ -1,9 +1,74 @@
 {
-  "updated_at_utc": "2026-06-21T06:00:52Z",
+  "updated_at_utc": "2026-06-21T10:28:57Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 22,
+  "count": 24,
   "articles": [
+    {
+      "id": "9b76b987d2fd41c5f1689a059da631e7ed29f1f7",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/06/21/ukrainian-strikes-on-russian-annexed-crimea-kill-4-pause-fuel-sales-a93065",
+      "published_utc": "2026-06-21T10:06:05Z",
+      "title_en": "Ukrainian Strikes on Russian-Annexed Crimea Kill 4, Pause Fuel Sales",
+      "lead_en": "Ukraine said it targeted military and energy facilities in Crimea in one of the biggest attacks on the peninsula in recent months.",
+      "title_raw": "Ukrainian Strikes on Russian-Annexed Crimea Kill 4, Pause Fuel Sales",
+      "lead_raw": "Ukraine said it targeted military and energy facilities in Crimea in one of the biggest attacks on the peninsula in recent months.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "6e75bbdde844345016ca5dc061a934281b5df0fb",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27828017",
+      "published_utc": "2026-06-21T09:33:49Z",
+      "title_en": "The Russian Armed Forces hit oil refining facilities and the fuel and energy complex of Ukraine",
+      "lead_en": "Targets were eliminated in 147 districts",
+      "title_raw": "ВС РФ поразили объекты нефтепереработки и ТЭК Украины",
+      "lead_raw": "Цели ликвидировали в 147 районах",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "9e38940466673da0ab3b2aff68922a9e11306c87",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2149435",
+      "published_utc": "2026-06-21T06:55:43Z",
+      "title_en": "Russian forces strike Ukraine’s key energy sites in Kiev, Sumy, Chernigov regions, DPR",
+      "lead_en": "The Russian Armed Forces used Gerbera drones, the Defense Ministry reported",
+      "title_raw": "Russian forces strike Ukraine’s key energy sites in Kiev, Sumy, Chernigov regions, DPR",
+      "lead_raw": "The Russian Armed Forces used Gerbera drones, the Defense Ministry reported",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "21a7253df5722253e4341131a67b2398f740cdf7",
       "source": "TASS (EN)",
@@ -454,27 +519,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "6e2c703475bfba4881f72bc78372fa9ddbbaa118",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27809139",
-      "published_utc": "2026-06-19T06:05:05Z",
-      "title_en": "\"Autostat\": Russians' spending on new passenger cars fell by 7.4% in May",
-      "lead_en": "The indicator decreased after a noticeable increase in April, as noted in a joint study by the agency and the Gazprombank Autoleasing company.",
-      "title_raw": "\"Автостат\": траты россиян на новые легковые авто в мае упали на 7,4%",
-      "lead_raw": "Показатель снизился после заметного роста в апреле, отмечается в совместном исследовании агентства с компанией \"Газпромбанк автолизинг\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }

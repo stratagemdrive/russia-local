@@ -1,9 +1,69 @@
 {
-  "updated_at_utc": "2026-06-21T06:00:52Z",
+  "updated_at_utc": "2026-06-21T10:28:57Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 5,
+  "count": 7,
   "articles": [
+    {
+      "id": "792ceba944450c009bedf7e39fd3d5024e4581cd",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2149453",
+      "published_utc": "2026-06-21T08:52:24Z",
+      "title_en": "Fourteen civilians injured in Ukrainian attackon Crimea hospitalized — ministry",
+      "lead_en": "Russian health minister’s assistant Alexey Kuznetsov noted that the two injured children are in serious condition",
+      "title_raw": "Fourteen civilians injured in Ukrainian attackon Crimea hospitalized — ministry",
+      "lead_raw": "Russian health minister’s assistant Alexey Kuznetsov noted that the two injured children are in serious condition",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "9240d555e1ebdc1c0633301b49f9df155b76cad0",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/06/21/russian-strikes-kill-three-in-eastern-ukraine-a93064",
+      "published_utc": "2026-06-21T08:22:00Z",
+      "title_en": "Russian Strikes Kill 3 in Eastern Ukraine",
+      "lead_en": "Russian attacks killed three people in the Dnipropetrovsk and Poltava regions.",
+      "title_raw": "Russian Strikes Kill 3 in Eastern Ukraine",
+      "lead_raw": "Russian attacks killed three people in the Dnipropetrovsk and Poltava regions.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "5270cfb5f719069372d3410b323415ed82ec0641",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2149405",
+      "published_utc": "2026-06-21T01:26:29Z",
+      "title_en": "Three Russians hospitalized after accident in Republika Srpska — embassy",
+      "lead_en": "A married couple and their young child were injured",
+      "title_raw": "Three Russians hospitalized after accident in Republika Srpska — embassy",
+      "lead_raw": "A married couple and their young child were injured",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "diplomacy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "927820b98496ab8dc98e2d146d8f6615c76def81",
       "source": "TASS (RU)",
@@ -83,27 +143,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "2d5d06293a57be0b947e8029e9c33d2821290ee0",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2148759",
-      "published_utc": "2026-06-19T09:28:40Z",
-      "title_en": "EU summit blames Russia for drone incidents, no timetable for Ukraine accession talks",
-      "lead_en": "Participants in the EU summit did not name a candidate for talks with Russia, merely repeating their call for an immediate and unconditional ceasefire",
-      "title_raw": "EU summit blames Russia for drone incidents, no timetable for Ukraine accession talks",
-      "lead_raw": "Participants in the EU summit did not name a candidate for talks with Russia, merely repeating their call for an immediate and unconditional ceasefire",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
