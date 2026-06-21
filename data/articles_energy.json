@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-06-21T15:51:06Z",
+  "updated_at_utc": "2026-06-21T17:27:22Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 15,
+  "count": 13,
   "articles": [
+    {
+      "id": "d5671dd36fd20c0fcc18b105bac0f6787077a0b9",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2149555",
+      "published_utc": "2026-06-21T16:31:58Z",
+      "title_en": "Russian Geran drones wipes out Ukrainian fuel depot in Dnepropetrovsk Region",
+      "lead_en": "The strikes were followed by a strong fire, the Russian defense ministry said",
+      "title_raw": "Russian Geran drones wipes out Ukrainian fuel depot in Dnepropetrovsk Region",
+      "lead_raw": "The strikes were followed by a strong fire, the Russian defense ministry said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "206f42145b942b873e94a1f8ad1dc984464b0685",
       "source": "TASS (RU)",
@@ -258,73 +280,6 @@
       },
       "topics": [
         "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "ad95d46d7f467b6262ac5a05264dbb32b5c111e6",
-      "source": "RT",
-      "url": "https://www.rt.com/news/641830-asean-russia-not-isolated/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "published_utc": "2026-06-19T16:47:39Z",
-      "title_en": "Russia isn’t isolated – ASEAN has just proved it",
-      "lead_en": "The Kazan summit showed Southeast Asia still values Russia for energy, trade, and strategic balance in an increasingly multipolar world Read Full Article at RT.com",
-      "title_raw": "Russia isn’t isolated – ASEAN has just proved it",
-      "lead_raw": "The Kazan summit showed Southeast Asia still values Russia for energy, trade, and strategic balance in an increasingly multipolar world Read Full Article at RT.com",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "6220c96719a657aed6deef54a0d4769da27d9a2f",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2149121",
-      "published_utc": "2026-06-19T16:28:46Z",
-      "title_en": "Creation of independent payment systems to be discussed at the Russia-Africa Summit",
-      "lead_en": "Russian Foreign Minister Sergey Lavrov said the agenda will include not only traditional areas such as energy, including nuclear power, but also digital technologies",
-      "title_raw": "Creation of independent payment systems to be discussed at the Russia-Africa Summit",
-      "lead_raw": "Russian Foreign Minister Sergey Lavrov said the agenda will include not only traditional areas such as energy, including nuclear power, but also digital technologies",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "6a7f9fd445f76fc4f156a3f5707dbd6dec5d308a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27819011",
-      "published_utc": "2026-06-19T15:52:54Z",
-      "title_en": "Serbia counts on uninterrupted oil supplies from the Russian Federation, despite US sanctions",
-      "lead_en": "There is little time before the expiration of the operating license and the license to negotiate the NIS, said the Minister of Mining and Energy of the Republic Dubravka Djedović-Handanović",
-      "title_raw": "Сербия рассчитывает на бесперебойные поставки нефти РФ, несмотря на санкции США",
-      "lead_raw": "Есть немного времени до истечения срока действия операционной лицензии и лицензии на ведение переговоров по NIS, заявила министр горнодобывающей промышленности и энергетики республики Дубравка Джедович-Ханданович",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy",
-        "economy"
       ],
       "primary_topic": "energy"
     }
