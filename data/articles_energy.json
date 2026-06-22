@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-06-21T23:12:38Z",
+  "updated_at_utc": "2026-06-22T04:14:09Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 11,
   "articles": [
+    {
+      "id": "97b83c0a4dc107c5622492b5675743e316ea33d6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27831889",
+      "published_utc": "2026-06-22T03:08:48Z",
+      "title_en": "Gazprombank Autoleasing announced an increase in sales of Russian cars",
+      "lead_en": "Over five months, 199 thousand new domestic passenger cars were purchased, which is 31% more than in the same period in 2025",
+      "title_raw": "\"Газпромбанк автолизинга\" заявил о росте продаж российских машин",
+      "lead_raw": "За пять месяцев были куплены 199 тыс. новых отечественных легковых авто, что на 31% больше, чем за аналогичный период 2025 года",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "d5671dd36fd20c0fcc18b105bac0f6787077a0b9",
       "source": "TASS (EN)",
@@ -218,27 +239,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "13a97b362aae099c0db1d53f7f6edd21571059aa",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27821155",
-      "published_utc": "2026-06-20T02:19:00Z",
-      "title_en": "Ministry of Internal Affairs: scammers began to convince victims to call “technical support” back with the sound of sirens",
-      "lead_en": "Attackers force Russians to transfer money to a “safe account” through QR codes, which actually lead to payment for purchases in the store, the department says.",
-      "title_raw": "МВД: мошенники стали убеждать жертв перезвонить в \"техподдержку\" звуком сирен",
-      "lead_raw": "Злоумышленники заставляют россиян перевести на \"безопасный счет\" деньги через QR-коды, которые на самом деле ведут на оплату покупок в магазине, говорится в материалах ведомства",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }

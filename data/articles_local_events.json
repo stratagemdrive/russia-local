@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-06-21T23:12:38Z",
+  "updated_at_utc": "2026-06-22T04:14:09Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 10,
   "articles": [
+    {
+      "id": "a4b49706cfeab41ba7a4ee20b71eacd3ae62997f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27831633",
+      "published_utc": "2026-06-22T02:08:20Z",
+      "title_en": "Fighter Strupenev: The Russian Armed Forces carried two pensioners out of Rodinsky",
+      "lead_en": "One of the participants in the rescue operation said that the evacuation took several hours",
+      "title_raw": "Боец Струпенев: ВС РФ на руках вынесли из Родинского двоих пенсионеров",
+      "lead_raw": "Один из участников спасательной операции рассказал, что эвакуация заняла несколько часов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "4e4f59ab89e2274f41c8aa6bcf590dc558beef8e",
       "source": "TASS (EN)",
@@ -186,27 +207,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "e2af52169a64e5c8f261afdc39a5d60695c4b50a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27821273",
-      "published_utc": "2026-06-20T03:02:16Z",
-      "title_en": "Fighter Topor: Russian sappers destroyed more than 100 mines of the Ukrainian Armed Forces in the border area of ​​the Kursk region",
-      "lead_en": "This amount of explosive objects was eliminated in a week, the serviceman said.",
-      "title_raw": "Боец Топор: саперы РФ уничтожили более 100 мин ВСУ в приграничье Курской области",
-      "lead_raw": "Такое количество взрывоопасных предметов ликвидировали за неделю, сообщил военнослужащий",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
