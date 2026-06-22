@@ -1,9 +1,52 @@
 {
-  "updated_at_utc": "2026-06-22T15:50:44Z",
+  "updated_at_utc": "2026-06-22T19:26:57Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 17,
   "articles": [
+    {
+      "id": "0ad59c061d99305781ba603bdf6a6b4575f98bfc",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/06/22/russia-s-three-biggest-online-marketplaces-ban-fuel-sales",
+      "published_utc": "2026-06-22T18:17:05Z",
+      "title_en": "Russia’s three biggest online marketplaces ban fuel sales",
+      "lead_en": "Avito, Ozon, and Wildberries banned fuel sales on their platforms at the request of the Federal Antimonopoly Service (FAS), the Russian state news agency RIA Novosti reported, citing a statement from the antimonopoly service.",
+      "title_raw": "Russia’s three biggest online marketplaces ban fuel sales",
+      "lead_raw": "Avito, Ozon, and Wildberries banned fuel sales on their platforms at the request of the Federal Antimonopoly Service (FAS), the Russian state news agency RIA Novosti reported, citing a statement from the antimonopoly service.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "236e8a82aab41d270c0ba75591fcf397c94a3f73",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27840771",
+      "published_utc": "2026-06-22T17:10:05Z",
+      "title_en": "The Russian stock market closed with a decline in the main indices",
+      "lead_en": "In part, the market is reacting to a slowdown in the rate of sequestration of the Central Bank’s key rate, and in part to a decline in oil prices, explained BCS World of Investments expert Andrei Smirnov",
+      "title_raw": "Российский рынок акций закрылся снижением основных индексов",
+      "lead_raw": "Отчасти рынок реагирует на замедление темпа секвестра ключевой ставки ЦБ, отчасти - на снижение цен на нефть, пояснил эксперт \"БКС мир инвестиций\" Андрей Смирнов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "e1cc474add0417ecd497b7dd9a6c0103179f0d64",
       "source": "TASS (RU)",
@@ -325,48 +368,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "21a7253df5722253e4341131a67b2398f740cdf7",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2149359",
-      "published_utc": "2026-06-20T18:20:59Z",
-      "title_en": "EU demands Turkey does not supply Russian gas to union",
-      "lead_en": "As German Economy Minister Katherina Reiche noted, Turkey takes into account the great importance that the EU places \"on weaning itself off Russian commodity supplies,\" but made it clear that replacing Russian supplies is impossible overnight",
-      "title_raw": "EU demands Turkey does not supply Russian gas to union",
-      "lead_raw": "As German Economy Minister Katherina Reiche noted, Turkey takes into account the great importance that the EU places \"on weaning itself off Russian commodity supplies,\" but made it clear that replacing Russian supplies is impossible overnight",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "599a6f194b61309b4d49e8e594de1fc9744ad08b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27825271",
-      "published_utc": "2026-06-20T15:52:43Z",
-      "title_en": "The EU demanded that Turkey exclude Russian gas from new supplies to the bloc",
-      "lead_en": "However, Türkiye has made it clear that replacing Russian supplies is not possible overnight, either from an economic point of view or from the point of view of available resources, said the head of the German Ministry of Economy, Katerina Reiche.",
-      "title_raw": "ЕС потребовал от Турции исключить российский газ из новых поставок блоку",
-      "lead_raw": "Однако Турция ясно дала понять, что замена российских поставок невозможна в одночасье ни с экономической точки зрения, ни с точки зрения имеющихся ресурсов, заявила глава Минэкономики ФРГ Катерина Райхе",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
