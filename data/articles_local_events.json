@@ -1,9 +1,50 @@
 {
-  "updated_at_utc": "2026-06-22T10:37:15Z",
+  "updated_at_utc": "2026-06-22T15:50:44Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 12,
+  "count": 13,
   "articles": [
+    {
+      "id": "92425c822a23ff79f91a07c5e70368644d8c9e96",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/06/22/russian-governor-urges-residents-to-drive-less-due-to-temporary-difficulties-with-gasoline",
+      "published_utc": "2026-06-22T15:07:04Z",
+      "title_en": "Russian governor urges residents to drive less due to ‘temporary difficulties’ with gasoline",
+      "lead_en": "Vladimir region Governor Alexander Avdeyev has urged residents to limit personal car travel and buy gasoline “only in the amounts immediately necessary” — a statement he made after an emergency meeting of the regional government on fuel shortages at gas stations.",
+      "title_raw": "Russian governor urges residents to drive less due to ‘temporary difficulties’ with gasoline",
+      "lead_raw": "Vladimir region Governor Alexander Avdeyev has urged residents to limit personal car travel and buy gasoline “only in the amounts immediately necessary” — a statement he made after an emergency meeting of the regional government on fuel shortages at gas stations.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "15f7f5cb1e636bf4080e73cb38e58d848388e3bb",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2149843",
+      "published_utc": "2026-06-22T12:11:41Z",
+      "title_en": "IN BRIEF: Three civilians injured in Ukrainian attack on Russian city of Voronezh",
+      "lead_en": "Manufacturing facilities at a production site were damaged, along with the facades and windows of several apartment buildings, and some cars",
+      "title_raw": "IN BRIEF: Three civilians injured in Ukrainian attack on Russian city of Voronezh",
+      "lead_raw": "Manufacturing facilities at a production site were damaged, along with the facades and windows of several apartment buildings, and some cars",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
     {
       "id": "c86f67bd79088dd6b607078941b65503baa360a1",
       "source": "TASS (RU)",
@@ -232,25 +273,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "3960e4fc118c17a2a3b8226cbe1a6f2950e02345",
-      "source": "RT",
-      "url": "https://www.rt.com/news/641833-arsongates-missing-piece-investigation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "published_utc": "2026-06-20T11:13:15Z",
-      "title_en": "Arsongate’s missing piece: Before you blame Russia, read this",
-      "lead_en": "Two men were convicted over fires linked to Keir Starmer, but the rush to blame Russia raises questions the trial never answered in court Read Full Article at RT.com",
-      "title_raw": "Arsongate’s missing piece: Before you blame Russia, read this",
-      "lead_raw": "Two men were convicted over fires linked to Keir Starmer, but the rush to blame Russia raises questions the trial never answered in court Read Full Article at RT.com",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
