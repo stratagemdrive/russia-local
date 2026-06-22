@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-06-22T04:14:09Z",
+  "updated_at_utc": "2026-06-22T10:37:15Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 11,
   "articles": [
+    {
+      "id": "46193750f3cda8db351d27b6a5a4113dc747a8d4",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27836079",
+      "published_utc": "2026-06-22T10:11:27Z",
+      "title_en": "The Russian Armed Forces hit an oil depot used by the Ukrainian Armed Forces in the Zaporozhye region",
+      "lead_en": "The Russian Ministry of Defense showed footage of objective control",
+      "title_raw": "ВС РФ поразили используемую ВСУ нефтебазу в Запорожской области",
+      "lead_raw": "Минобороны РФ показало кадры объективного контроля",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "97b83c0a4dc107c5622492b5675743e316ea33d6",
       "source": "TASS (RU)",
@@ -217,28 +239,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "ea4909a063b65d5594aa704aa41341beb9cc7a9d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27823211",
-      "published_utc": "2026-06-20T09:12:52Z",
-      "title_en": "The Russian Armed Forces hit energy and transport facilities of the Armed Forces of Ukraine in one day",
-      "lead_en": "The targets were eliminated by operational-tactical aviation, attack unmanned aerial vehicles, missile forces and artillery",
-      "title_raw": "ВС РФ поразили за сутки объекты энергетики и транспорта ВСУ",
-      "lead_raw": "Цели ликвидировали оперативно-тактической авиацией, ударными беспилотными летательными аппаратами, ракетными войсками и артиллерией",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
