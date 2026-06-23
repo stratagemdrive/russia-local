@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-06-22T22:01:54Z",
+  "updated_at_utc": "2026-06-23T00:06:03Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 16,
   "articles": [
+    {
+      "id": "e1779b2b6205feef12df414964fbff1b68502903",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/nauka/27842289",
+      "published_utc": "2026-06-22T23:03:48Z",
+      "title_en": "Expert Ponomarev predicted an increase in the area of ​​fires in the Krasnoyarsk Territory",
+      "lead_en": "A senior researcher at the Forest Institute of the Siberian Branch of the Russian Academy of Sciences said that due to the lack of precipitation and hot weather, the fire area could increase to 300 thousand hectares",
+      "title_raw": "Эксперт Пономарев спрогнозировал рост площади пожаров в Красноярском крае",
+      "lead_raw": "Старший научный сотрудник Института леса СО РАН заявил, что из-за отсутствия осадков и жаркой погоды площадь возгорания может увеличиться до 300 тыс. га",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "39a7f58d7d94b210a32745581d081524fb8f4eca",
       "source": "TASS (RU)",
@@ -311,27 +330,6 @@
         "local_events"
       ],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "927820b98496ab8dc98e2d146d8f6615c76def81",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27826311",
-      "published_utc": "2026-06-20T23:13:30Z",
-      "title_en": "Russian Embassy: three Russians were hospitalized in Republika Srpska due to an accident",
-      "lead_en": "A family with a child was injured, the Russian diplomatic mission reported",
-      "title_raw": "Посольство РФ: в Республике Сербской госпитализировали трех россиян из-за аварии",
-      "lead_raw": "Пострадала семья с ребенком, сообщили в российской дипмиссии",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
