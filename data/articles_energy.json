@@ -1,29 +1,51 @@
 {
-  "updated_at_utc": "2026-06-24T17:04:09Z",
+  "updated_at_utc": "2026-06-24T19:45:10Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 49,
+  "count": 48,
   "articles": [
     {
-      "id": "b0740b7e7abbc06d939de76dea6efc36aa211d84",
+      "id": "f773ac05ef3b6fb643e7bdd5be06f1b7e691cd67",
       "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27853711",
-      "published_utc": "2026-06-24T16:52:36Z",
-      "title_en": "Rubio: Trump, taking into account prices, will decide whether to ease sanctions on Russian oil again",
-      "lead_en": "",
-      "title_raw": "Рубио: Трамп с учетом цен решит, ослаблять ли вновь санкции на нефть РФ",
-      "lead_raw": "",
+      "url": "https://tass.ru/ekonomika/27853849",
+      "published_utc": "2026-06-24T18:04:06Z",
+      "title_en": "Nikitin called the situation with jet fuel in the Russian Federation under control",
+      "lead_en": "There are no critical risks, the head of the Ministry of Transport said",
+      "title_raw": "Никитин назвал контролируемой ситуацию с авиатопливом в РФ",
+      "lead_raw": "Критических рисков нет, заявил глава Минтранса",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
         "energy": 1,
-        "economy": 1,
+        "economy": 0,
         "local_events": 0
       },
       "topics": [
         "energy"
       ],
       "primary_topic": "energy"
+    },
+    {
+      "id": "b0740b7e7abbc06d939de76dea6efc36aa211d84",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27853711",
+      "published_utc": "2026-06-24T16:52:36Z",
+      "title_en": "Rubio: Trump, taking into account prices, will decide whether to ease sanctions on Russian oil again",
+      "lead_en": "These were temporary measures aimed at stabilizing the market, the US Secretary of State indicated",
+      "title_raw": "Рубио: Трамп с учетом цен решит, ослаблять ли вновь санкции на нефть РФ",
+      "lead_raw": "Это были временные меры, нацеленные на стабилизацию рынка, указал госсекретарь США",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
     },
     {
       "id": "d2ac0ee8eb6ec3e8fcb0373b7c140d78da0c8ebf",
@@ -1006,49 +1028,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "0ad59c061d99305781ba603bdf6a6b4575f98bfc",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/06/22/russia-s-three-biggest-online-marketplaces-ban-fuel-sales",
-      "published_utc": "2026-06-22T18:17:05Z",
-      "title_en": "Russia’s three biggest online marketplaces ban fuel sales",
-      "lead_en": "Avito, Ozon, and Wildberries banned fuel sales on their platforms at the request of the Federal Antimonopoly Service (FAS), the Russian state news agency RIA Novosti reported, citing a statement from the antimonopoly service.",
-      "title_raw": "Russia’s three biggest online marketplaces ban fuel sales",
-      "lead_raw": "Avito, Ozon, and Wildberries banned fuel sales on their platforms at the request of the Federal Antimonopoly Service (FAS), the Russian state news agency RIA Novosti reported, citing a statement from the antimonopoly service.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "236e8a82aab41d270c0ba75591fcf397c94a3f73",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27840771",
-      "published_utc": "2026-06-22T17:10:05Z",
-      "title_en": "The Russian stock market closed with a decline in the main indices",
-      "lead_en": "In part, the market is reacting to a slowdown in the rate of sequestration of the Central Bank’s key rate, and in part to a decline in oil prices, explained BCS World of Investments expert Andrei Smirnov",
-      "title_raw": "Российский рынок акций закрылся снижением основных индексов",
-      "lead_raw": "Отчасти рынок реагирует на замедление темпа секвестра ключевой ставки ЦБ, отчасти - на снижение цен на нефть, пояснил эксперт \"БКС мир инвестиций\" Андрей Смирнов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
