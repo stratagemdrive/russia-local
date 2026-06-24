@@ -1,9 +1,92 @@
 {
-  "updated_at_utc": "2026-06-24T04:01:16Z",
+  "updated_at_utc": "2026-06-24T08:20:46Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 16,
+  "count": 18,
   "articles": [
+    {
+      "id": "5c6134f5e136843c09d9d100a51fcdbc8d3b0f68",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2150773",
+      "published_utc": "2026-06-24T08:06:41Z",
+      "title_en": "Power outage reported in Sevastopol as Russia downs 323 Ukrainian drones overnight",
+      "lead_en": "Two civilians were killed each in a Ukrainian drone attack on Gorlovka in the Donetsk People’s Republic and on the Nizhny Novgorod Region",
+      "title_raw": "Power outage reported in Sevastopol as Russia downs 323 Ukrainian drones overnight",
+      "lead_raw": "Two civilians were killed each in a Ukrainian drone attack on Gorlovka in the Donetsk People’s Republic and on the Nizhny Novgorod Region",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "f2ebbc34a01ad9cad8f6e26bf268153974df77b7",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/society/2150769",
+      "published_utc": "2026-06-24T07:59:59Z",
+      "title_en": "FSB detains 128 illegal arm makers in 53 Russian regions in two months",
+      "lead_en": "In April and May 2026, the FSB conducted operations in 53 Russian regions, confiscating 301 firearms of Russian and foreign origin from the illicit arms trade",
+      "title_raw": "FSB detains 128 illegal arm makers in 53 Russian regions in two months",
+      "lead_raw": "In April and May 2026, the FSB conducted operations in 53 Russian regions, confiscating 301 firearms of Russian and foreign origin from the illicit arms trade",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "ccf0a7c356fe7383ecd6d9d21d0b0412fa073fd8",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27851147",
+      "published_utc": "2026-06-24T07:54:02Z",
+      "title_en": "Peskov called a giant leap in India's development since the beginning of the millennium",
+      "lead_en": "The press secretary of the Russian President noted that the actions of Indian Prime Minister Narendra Modi are extremely successful",
+      "title_raw": "Песков назвал гигантским скачок в развитии Индии с начала тысячелетия",
+      "lead_raw": "Пресс-секретарь президента РФ отметил, что действия индийского премьера Нарендры Моди чрезвычайно успешны",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "805a3aea39db5cb3e6c1cdf19758bb7751b94603",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2150721",
+      "published_utc": "2026-06-24T06:34:56Z",
+      "title_en": "One killed, 6 others injured in Ukrainian attacks on Russia’s Belgorod Region in past day",
+      "lead_en": "Acting Governor Alexander Shuvayev said that Ukrainian troops attacked the Belgorod Region 75 times over the past 24 hours",
+      "title_raw": "One killed, 6 others injured in Ukrainian attacks on Russia’s Belgorod Region in past day",
+      "lead_raw": "Acting Governor Alexander Shuvayev said that Ukrainian troops attacked the Belgorod Region 75 times over the past 24 hours",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "b594d472d1683bcd6876cc10710b81bc007ccbea",
       "source": "TASS (RU)",
@@ -276,48 +359,6 @@
       "lead_en": "This was reported by the main directorate of the Ministry of Emergency Situations of Russia for the republic.",
       "title_raw": "В Татарстане объявили режим ракетной опасности",
       "lead_raw": "Об этом сообщило главное управление МЧС России по республике",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "8aa2065c246688bf435f026e138248f9e19e4285",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2149697",
-      "published_utc": "2026-06-22T06:57:59Z",
-      "title_en": "Russian forces crush larger part of Ukrainian troops in Konstantinovka, Krasny Liman",
-      "lead_en": "Military expert Andrey Marochko said the Ukrainian defenses collapsed in some frontline sectors",
-      "title_raw": "Russian forces crush larger part of Ukrainian troops in Konstantinovka, Krasny Liman",
-      "lead_raw": "Military expert Andrey Marochko said the Ukrainian defenses collapsed in some frontline sectors",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "b0be95d9fd181a6ffed37fcf855f1fce1a69e142",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2149687",
-      "published_utc": "2026-06-22T06:12:02Z",
-      "title_en": "Ukrainian attacks on Russia’s Belgorod Region leave civilian injured in past day",
-      "lead_en": "Acting Governor Alexander Shuvayev said the Ukrainian armed forces carried out 55 attacks on the Belgorod Region over the past day",
-      "title_raw": "Ukrainian attacks on Russia’s Belgorod Region leave civilian injured in past day",
-      "lead_raw": "Acting Governor Alexander Shuvayev said the Ukrainian armed forces carried out 55 attacks on the Belgorod Region over the past day",
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
