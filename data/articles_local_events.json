@@ -1,9 +1,70 @@
 {
-  "updated_at_utc": "2026-06-25T03:32:56Z",
+  "updated_at_utc": "2026-06-25T07:41:11Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 22,
+  "count": 23,
   "articles": [
+    {
+      "id": "42d6df27de062ff45b2be9a7ec146f75dc70c960",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27855275",
+      "published_utc": "2026-06-25T07:33:04Z",
+      "title_en": "The Russian told how the residents of Caracas escaped from the earthquake",
+      "lead_en": "People ran out of their houses and remained on the street due to the threat of aftershocks, said Sergio Teplou, a resident of the Venezuelan capital.",
+      "title_raw": "Россиянин рассказал, как жители Каракаса спасались от землетрясения",
+      "lead_raw": "Люди выбегали из домов и оставались на улице из-за угрозы повторных толчков, отметил житель венесуэльской столицы Серхио Тепло",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "8052baab7c4e4806563a691beb5f03cedb2bb661",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2151277",
+      "published_utc": "2026-06-25T05:50:00Z",
+      "title_en": "Ukrainian attacks leave five civilians injured in Russia’s Belgorod Region in past day",
+      "lead_en": "Acting Governor Alexander Shuvayev said the Ukrainian armed forces attacked the Belgorod Region 130 times over the past 24 hours",
+      "title_raw": "Ukrainian attacks leave five civilians injured in Russia’s Belgorod Region in past day",
+      "lead_raw": "Acting Governor Alexander Shuvayev said the Ukrainian armed forces attacked the Belgorod Region 130 times over the past 24 hours",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "65a1d0e10b2e1884bf5f44bbf65997105607519f",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/cards/russia-has-a-plan-to-ease-the-gasoline-crisis-lower-fuel-standards-expand-subsidies-and-wait-out-ukraine-s-refinery-strikes",
+      "published_utc": "2026-06-25T05:46:55Z",
+      "title_en": "Russia has a plan to ease the gasoline crisis: lower fuel standards, expand subsidies, and wait out Ukraine’s refinery strikes",
+      "lead_en": "Russia is going through an acute phase of its gasoline crisis. We’ve written before that several indicators — among them a drop in refining volumes to multiyear lows alongside high crude exports — point indirectly to a serious collapse in refining.",
+      "title_raw": "Russia has a plan to ease the gasoline crisis: lower fuel standards, expand subsidies, and wait out Ukraine’s refinery strikes",
+      "lead_raw": "Russia is going through an acute phase of its gasoline crisis. We’ve written before that several indicators — among them a drop in refining volumes to multiyear lows alongside high crude exports — point indirectly to a serious collapse in refining.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "0c44ebec6c3d67f97a24feef84804d01880eabf2",
       "source": "TASS (RU)",
@@ -406,49 +467,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "6ca69f61974c93869c91611d5211ece4cc4f31c0",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/society/2150057",
-      "published_utc": "2026-06-23T06:34:46Z",
-      "title_en": "Double attack on security officers thwarted in Russia’s Pyatigorsk — FSB",
-      "lead_en": "According to Russia’s Federal Security Service, no one among law enforcement officers or civilians was injured",
-      "title_raw": "Double attack on security officers thwarted in Russia’s Pyatigorsk — FSB",
-      "lead_raw": "According to Russia’s Federal Security Service, no one among law enforcement officers or civilians was injured",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "556e6543f64f54fa16cf281f59dcfb59948b002b",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/06/23/for-years-ukrainian-strikes-stalled-within-a-few-kilometers-of-the-front-meduza-mapped-thousands-of-geolocated-attacks-and-found-they-now-reach-far-behind-russian-lines",
-      "published_utc": "2026-06-23T04:17:22Z",
-      "title_en": "For years, Ukrainian strikes stalled within a few kilometers of the front. Meduza mapped thousands of geolocated attacks and found they now reach far behind Russian lines.",
-      "lead_en": "The war in Ukraine is entering a new phase: while the Russian military’s offensive is bogged down at the front, the Ukrainian Armed Forces have pulled ahead in the drone race. Meduza has already written about how this Ukrainian success led to a fuel collapse in Crimea, how drones broke through Moscow’s layered air defenses, and how strikes on oil refineries have plunged entire regions into a gasoline crisis.",
-      "title_raw": "For years, Ukrainian strikes stalled within a few kilometers of the front. Meduza mapped thousands of geolocated attacks and found they now reach far behind Russian lines.",
-      "lead_raw": "The war in Ukraine is entering a new phase: while the Russian military’s offensive is bogged down at the front, the Ukrainian Armed Forces have pulled ahead in the drone race. Meduza has already written about how this Ukrainian success led to a fuel collapse in Crimea, how drones broke through Moscow’s layered air defenses, and how strikes on oil refineries have plunged entire regions into a gasoline crisis.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
