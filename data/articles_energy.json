@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-06-24T23:03:06Z",
+  "updated_at_utc": "2026-06-25T03:32:56Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 50,
   "articles": [
+    {
+      "id": "adaef5066120336e01d62f156afd879338dfb8fe",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/nauka/27854289",
+      "published_utc": "2026-06-25T01:04:03Z",
+      "title_en": "In Russia, a module is being developed to assess risks when taking more than three medications",
+      "lead_en": "The work is being carried out by a team of students from the Institute of Control Systems, Informatics and Electric Power Engineering of the Moscow Aviation Institute within the framework of a grant from the Russian Science Foundation on the basis of the Russian Economic Universi",
+      "title_raw": "В России разрабатывают модуль для оценки рисков при приеме более трех лекарств",
+      "lead_raw": "Работу ведет команда студентов института \"Системы управления, информатика и электроэнергетика\" МАИ в рамках гранта Российского научного фонда на базе Российского экономического университета имени Г. В.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "12782287bcaac71a04b54b40012567b2c240057a",
       "source": "TASS (EN)",
@@ -1049,27 +1070,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "ed2655bd8a731574e05d3246f6dbde12602cbb9e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27842817",
-      "published_utc": "2026-06-23T02:55:22Z",
-      "title_en": "AKORT: Russian retail chains maintain logistics stability in the fuel situation",
-      "lead_en": "Chairman of the Association of Omnichannel Retail Companies Stanislav Bogdanov noted that federal chains are developing their own logistics, routing and distribution infrastructure, which allows them to adapt processes",
-      "title_raw": "АКОРТ: торговые сети РФ сохраняют устойчивость логистики в ситуации с топливом",
-      "lead_raw": "Председатель Ассоциации компаний омниканальной розничной торговли Станислав Богданов отметил, что федеральные сети развивают собственную логистику, маршрутизацию и распределительную инфраструктуру, что позволяет им адаптировать процессы",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
