@@ -1,9 +1,51 @@
 {
-  "updated_at_utc": "2026-06-25T10:41:09Z",
+  "updated_at_utc": "2026-06-25T13:17:15Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 28,
   "articles": [
+    {
+      "id": "3c370953cc34fee10089df1336cbb2ff16fe56d0",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2151525",
+      "published_utc": "2026-06-25T12:55:45Z",
+      "title_en": "Moscow works on providing assistance to Caracas after earthquake — MFA",
+      "lead_en": "Foreign Ministry Spokeswoman Maria Zakharova said that Russia expresses solidarity with the government and the brotherly people of Venezuela",
+      "title_raw": "Moscow works on providing assistance to Caracas after earthquake — MFA",
+      "lead_raw": "Foreign Ministry Spokeswoman Maria Zakharova said that Russia expresses solidarity with the government and the brotherly people of Venezuela",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "4bc039f45beec74b898d3c70432c41d35fb8ffca",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27856839",
+      "published_utc": "2026-06-25T12:18:32Z",
+      "title_en": "Zakharova: Russia is working on providing assistance to Venezuela after the earthquake",
+      "lead_en": "The official representative of the Ministry of Foreign Affairs sent words of condolences and moral support to all those who lost relatives and friends due to the disaster",
+      "title_raw": "Захарова: РФ прорабатывает оказание помощи Венесуэле после землетрясения",
+      "lead_raw": "Официальный представитель МИД направила слова соболезнования, моральной поддержки всем потерявшим родных и близких из-за удара стихии",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "5a5c343f7c27462947bebf1e8a85d0f63eb0864a",
       "source": "TASS (RU)",
@@ -526,46 +568,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "b64bc0dcf0613967c53f6f0061eb5c890bd85033",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27848639",
-      "published_utc": "2026-06-23T12:18:36Z",
-      "title_en": "The roof of a medical college dormitory caught fire in Makhachkala",
-      "lead_en": "There were no injuries, the Russian Emergency Situations Ministry for Dagestan reported.",
-      "title_raw": "В Махачкале загорелась кровля общежития медколледжа",
-      "lead_raw": "Пострадавших нет, сообщили в ГУ МЧС России по Дагестану",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "2cb2bb8c16dc25478ad30a54be980172da3d0832",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/06/23/massive-storm-and-tornado-damage-nearly-100-homes-in-russia-injuring-16",
-      "published_utc": "2026-06-23T10:47:56Z",
-      "title_en": "Massive storm and tornado damage nearly 100 homes in Russia, injuring 16",
-      "lead_en": "A storm tore through the Sverdlovsk region on the evening of June 22, damaging homes and power line poles. Kushva was hit hardest; the city has since been placed under a state of emergency.",
-      "title_raw": "Massive storm and tornado damage nearly 100 homes in Russia, injuring 16",
-      "lead_raw": "A storm tore through the Sverdlovsk region on the evening of June 22, damaging homes and power line poles. Kushva was hit hardest; the city has since been placed under a state of emergency.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
     }
   ]
 }
