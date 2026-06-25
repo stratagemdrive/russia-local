@@ -1,18 +1,60 @@
 {
-  "updated_at_utc": "2026-06-24T21:21:50Z",
+  "updated_at_utc": "2026-06-24T23:03:06Z",
   "keep_hours": 48,
   "topic": "economy",
   "count": 75,
   "articles": [
+    {
+      "id": "785b40e10a12e025c54311deda80fe47d32169f2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27854161",
+      "published_utc": "2026-06-24T22:16:31Z",
+      "title_en": "Director of RTDS: Thailand is interested in purchasing Russian energy resources",
+      "lead_en": "Russia is the largest and most reliable supplier of energy resources to the markets of third countries, noted Vladimir Kovalev",
+      "title_raw": "Директор РТДС: Таиланд заинтересован в закупке российских энергоресурсов",
+      "lead_raw": "Россия является крупнейшим и наиболее надежным поставщиком энергоресурсов на рынки третьих стран, отметил Владимир Ковалев",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "d2f2e8774734d475f9e0bf034802a160a5fe369c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27854123",
+      "published_utc": "2026-06-24T21:21:37Z",
+      "title_en": "Ryabkov: some methods of the New BRICS Development Bank require improvement",
+      "lead_en": "The Deputy Head of the Russian Foreign Ministry at the same time emphasized the value and importance of this institution",
+      "title_raw": "Рябков: некоторые методы Нового банка развития БРИКС требуют доработки",
+      "lead_raw": "Замглавы МИД РФ в то же время подчеркнул ценность и важность этого института",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "cafc1120635848b35696874dd7c880f728c3094c",
       "source": "TASS (RU)",
       "url": "https://tass.ru/ekonomika/27854117",
       "published_utc": "2026-06-24T21:16:16Z",
       "title_en": "Director of RTDS: Russia and Thailand will move towards transferring trade into national currencies",
-      "lead_en": "",
+      "lead_en": "The parties have already provided for the appropriate mechanisms, noted Vladimir Kovalev",
       "title_raw": "Директор РТДС: РФ и Таиланд будут двигаться к переводу торговли в нацвалюты",
-      "lead_raw": "",
+      "lead_raw": "Соответствующие механизмы стороны уже предусмотрели, отметил Владимир Ковалев",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
@@ -1472,46 +1514,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "85d14557c2e0a76e960539ce723dff9f1e7065c4",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27842235",
-      "published_utc": "2026-06-22T22:15:01Z",
-      "title_en": "The average pension in Russia has increased by almost 4.5 thousand rubles over two years",
-      "lead_en": "According to the Social Fund, in May 2026 the average payment was 25,399 rubles",
-      "title_raw": "Средняя пенсия в России за два года выросла почти на 4,5 тыс. рублей",
-      "lead_raw": "По данным Соцфонда, в мае 2026 года средний размер выплаты составил 25 399 рублей",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "4ada13b572067af780f59a76fd270c312e39cd4b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27842119",
-      "published_utc": "2026-06-22T21:22:06Z",
-      "title_en": "The Russian Embassy in the Czech Republic held commemorative events for the Day of Remembrance and Sorrow",
-      "lead_en": "The events were attended by the Russian Ambassador to the Czech Republic Anna Ponomareva, employees of the embassy, ​​trade mission and the Russian House in Prague",
-      "title_raw": "Посольство РФ в Чехии провело памятные акции ко Дню памяти и скорби",
-      "lead_raw": "В мероприятиях приняли участие посол РФ в Чехии Анна Пономарева, сотрудники посольства, торгового представительства и Русского дома в Праге",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
