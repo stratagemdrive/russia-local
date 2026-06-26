@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-06-26T07:52:23Z",
+  "updated_at_utc": "2026-06-26T10:50:55Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 37,
+  "count": 36,
   "articles": [
+    {
+      "id": "fdcd22bf3ffc4afc5c65cbf2743387f1d185c659",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27860323",
+      "published_utc": "2026-06-26T10:24:46Z",
+      "title_en": "Deputy commander of the Opera: The Ukrainian Armed Forces tried to kill the residents of Konstantinovka during the evacuation",
+      "lead_en": "According to a Russian fighter, the Ukrainian military attacked civilians using drones",
+      "title_raw": "Замкомандира Опер: ВСУ пытались убить жителей Константиновки при эвакуации",
+      "lead_raw": "По словам российского бойца, украинские военные нанесли удар по гражданским с помощью дронов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "5bd523ff3ddfc9d972a860dc5fd04a11e14742fe",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2151893",
+      "published_utc": "2026-06-26T09:40:01Z",
+      "title_en": "One civilian killed as munition detonates in Russia’s Belgorod Region",
+      "lead_en": "It is noted that windows were broken in four private houses, and roofs, facades, and entrances were damaged",
+      "title_raw": "One civilian killed as munition detonates in Russia’s Belgorod Region",
+      "lead_raw": "It is noted that windows were broken in four private houses, and roofs, facades, and entrances were damaged",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "4762fd1d839de7ea201b85937879531fe7e2b10a",
       "source": "TASS (EN)",
@@ -686,67 +726,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "5c6134f5e136843c09d9d100a51fcdbc8d3b0f68",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2150773",
-      "published_utc": "2026-06-24T08:06:41Z",
-      "title_en": "Power outage reported in Sevastopol as Russia downs 323 Ukrainian drones overnight",
-      "lead_en": "Two civilians were killed each in a Ukrainian drone attack on Gorlovka in the Donetsk People’s Republic and on the Nizhny Novgorod Region",
-      "title_raw": "Power outage reported in Sevastopol as Russia downs 323 Ukrainian drones overnight",
-      "lead_raw": "Two civilians were killed each in a Ukrainian drone attack on Gorlovka in the Donetsk People’s Republic and on the Nizhny Novgorod Region",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "f2ebbc34a01ad9cad8f6e26bf268153974df77b7",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/society/2150769",
-      "published_utc": "2026-06-24T07:59:59Z",
-      "title_en": "FSB detains 128 illegal arm makers in 53 Russian regions in two months",
-      "lead_en": "In April and May 2026, the FSB conducted operations in 53 Russian regions, confiscating 301 firearms of Russian and foreign origin from the illicit arms trade",
-      "title_raw": "FSB detains 128 illegal arm makers in 53 Russian regions in two months",
-      "lead_raw": "In April and May 2026, the FSB conducted operations in 53 Russian regions, confiscating 301 firearms of Russian and foreign origin from the illicit arms trade",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "ccf0a7c356fe7383ecd6d9d21d0b0412fa073fd8",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27851147",
-      "published_utc": "2026-06-24T07:54:02Z",
-      "title_en": "Peskov called a giant leap in India's development since the beginning of the millennium",
-      "lead_en": "The press secretary of the Russian President noted that the actions of Indian Prime Minister Narendra Modi are extremely successful",
-      "title_raw": "Песков назвал гигантским скачок в развитии Индии с начала тысячелетия",
-      "lead_raw": "Пресс-секретарь президента РФ отметил, что действия индийского премьера Нарендры Моди чрезвычайно успешны",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
