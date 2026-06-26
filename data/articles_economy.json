@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-06-26T03:40:29Z",
+  "updated_at_utc": "2026-06-26T07:52:23Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 84,
+  "count": 83,
   "articles": [
+    {
+      "id": "f1010c5e3c7a6ca6d9778fb2fc5e00d499f73003",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27859167",
+      "published_utc": "2026-06-26T07:01:49Z",
+      "title_en": "The Russian stock market declines in early trading",
+      "lead_en": "The yuan rose to 11.25 rubles",
+      "title_raw": "Российский рынок акций снижается в начале торгов",
+      "lead_raw": "Курс юаня рос до 11,25 рубля",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "0c5c0a61938b881a2a01ba015e8f9b269688b1be",
       "source": "TASS (RU)",
@@ -1629,46 +1650,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "86fdf2f1534b95f59a4bc0b8450b85bd9a816b13",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2150757",
-      "published_utc": "2026-06-24T07:24:39Z",
-      "title_en": "Russian stock market declines at start of trading",
-      "lead_en": "As of 10:00 Moscow time, the MOEX and RTS indices fell by 0.78%, to 2,317.63 and 978.43 points, respectively",
-      "title_raw": "Russian stock market declines at start of trading",
-      "lead_raw": "As of 10:00 Moscow time, the MOEX and RTS indices fell by 0.78%, to 2,317.63 and 978.43 points, respectively",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "aebbb3786caeab550e3b14d9c1d04d22eae2fbed",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27850939",
-      "published_utc": "2026-06-24T07:02:13Z",
-      "title_en": "The Russian stock market is declining at the beginning of trading",
-      "lead_en": "The yuan is rising",
-      "title_raw": "Российский рынок акций в начале торгов снижается",
-      "lead_raw": "Курс юаня растет",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
