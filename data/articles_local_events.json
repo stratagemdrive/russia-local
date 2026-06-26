@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-06-26T18:50:51Z",
+  "updated_at_utc": "2026-06-26T20:45:53Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 37,
   "articles": [
+    {
+      "id": "02caac486b04bd33078062672baec0baaa10316e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27862279",
+      "published_utc": "2026-06-26T19:21:40Z",
+      "title_en": "Russian Ambassador: Four Russians were injured in the earthquake in Venezuela",
+      "lead_en": "The injured Russian citizens suffered mild to moderate injuries, said Sergei Melik-Bagdasarov",
+      "title_raw": "Посол РФ: при землетрясении в Венесуэле пострадали четверо россиян",
+      "lead_raw": "У пострадавших граждан России травмы легкой и средней тяжести, уточнил Сергей Мелик-Багдасаров",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "1790e291e174ff30ac955024bc9d7b45795bfd63",
       "source": "TASS (EN)",
@@ -724,25 +745,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "a9b302b54edba712e1efcc8bd69f358a43415d3e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2151181",
-      "published_utc": "2026-06-24T19:19:27Z",
-      "title_en": "UN chief’s report overlooks near-daily Ukrainian attacks on Russian children — mission",
-      "lead_en": "According to Moscow’s Deputy Permanent Representative to the United Nations Maria Zabolotskaya, Antonio Guterres \"has attributed to Ukraine only nine incidents in which children suffered severe casualties and three children were killed\"",
-      "title_raw": "UN chief’s report overlooks near-daily Ukrainian attacks on Russian children — mission",
-      "lead_raw": "According to Moscow’s Deputy Permanent Representative to the United Nations Maria Zabolotskaya, Antonio Guterres \"has attributed to Ukraine only nine incidents in which children suffered severe casualties and three children were killed\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
