@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-06-27T04:52:33Z",
+  "updated_at_utc": "2026-06-27T07:48:54Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 33,
+  "count": 30,
   "articles": [
+    {
+      "id": "cd0b8869f39aa2427f1137a9e9aac2a91da4c40b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2152293",
+      "published_utc": "2026-06-27T05:32:04Z",
+      "title_en": "European security concept \"has gone bankrupt, collapsed spectacularly\" — Russian MFA",
+      "lead_en": "European security has been discredited by the European countries themselves, Russian Foreign Ministry’s Ambassador-at-Large Alexander Trofimov said",
+      "title_raw": "European security concept \"has gone bankrupt, collapsed spectacularly\" — Russian MFA",
+      "lead_raw": "European security has been discredited by the European countries themselves, Russian Foreign Ministry’s Ambassador-at-Large Alexander Trofimov said",
+      "topic_scores": {
+        "diplomacy": 3,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "d94320143703f5d651fce723974f3f78edc0a644",
       "source": "TASS (RU)",
@@ -584,89 +606,6 @@
         "local_events"
       ],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "42d6df27de062ff45b2be9a7ec146f75dc70c960",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27855275",
-      "published_utc": "2026-06-25T07:33:04Z",
-      "title_en": "The Russian told how the residents of Caracas escaped from the earthquake",
-      "lead_en": "People ran out of their houses and remained on the street due to the threat of aftershocks, said Sergio Teplou, a resident of the Venezuelan capital.",
-      "title_raw": "Россиянин рассказал, как жители Каракаса спасались от землетрясения",
-      "lead_raw": "Люди выбегали из домов и оставались на улице из-за угрозы повторных толчков, отметил житель венесуэльской столицы Серхио Тепло",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "20015f28bb04f130cf963b54678f005f232d9bc8",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2151285",
-      "published_utc": "2026-06-25T06:58:03Z",
-      "title_en": "Overnight drone attacks on Russia cause casualties in Crimea, spark fire at oil depot",
-      "lead_en": "Ukrainian drone strikes on Crimea killed two people, including a child",
-      "title_raw": "Overnight drone attacks on Russia cause casualties in Crimea, spark fire at oil depot",
-      "lead_raw": "Ukrainian drone strikes on Crimea killed two people, including a child",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "energy",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "8052baab7c4e4806563a691beb5f03cedb2bb661",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2151277",
-      "published_utc": "2026-06-25T05:50:00Z",
-      "title_en": "Ukrainian attacks leave five civilians injured in Russia’s Belgorod Region in past day",
-      "lead_en": "Acting Governor Alexander Shuvayev said the Ukrainian armed forces attacked the Belgorod Region 130 times over the past 24 hours",
-      "title_raw": "Ukrainian attacks leave five civilians injured in Russia’s Belgorod Region in past day",
-      "lead_raw": "Acting Governor Alexander Shuvayev said the Ukrainian armed forces attacked the Belgorod Region 130 times over the past 24 hours",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "65a1d0e10b2e1884bf5f44bbf65997105607519f",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/cards/russia-has-a-plan-to-ease-the-gasoline-crisis-lower-fuel-standards-expand-subsidies-and-wait-out-ukraine-s-refinery-strikes",
-      "published_utc": "2026-06-25T05:46:55Z",
-      "title_en": "Russia has a plan to ease the gasoline crisis: lower fuel standards, expand subsidies, and wait out Ukraine’s refinery strikes",
-      "lead_en": "Russia is going through an acute phase of its gasoline crisis. We’ve written before that several indicators — among them a drop in refining volumes to multiyear lows alongside high crude exports — point indirectly to a serious collapse in refining.",
-      "title_raw": "Russia has a plan to ease the gasoline crisis: lower fuel standards, expand subsidies, and wait out Ukraine’s refinery strikes",
-      "lead_raw": "Russia is going through an acute phase of its gasoline crisis. We’ve written before that several indicators — among them a drop in refining volumes to multiyear lows alongside high crude exports — point indirectly to a serious collapse in refining.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 1,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
