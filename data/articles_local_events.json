@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-06-27T12:08:11Z",
+  "updated_at_utc": "2026-06-27T14:41:04Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 24,
+  "count": 23,
   "articles": [
+    {
+      "id": "659dd4ccd4dcfd360b0f4db5d04523ccdb91d0ff",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/06/27/at-least-5-dead-as-russia-and-ukraine-exchange-wave-of-strikes-a93113",
+      "published_utc": "2026-06-27T14:02:11Z",
+      "title_en": "At Least 5 Dead as Russia and Ukraine Exchange Wave of Strikes",
+      "lead_en": "In the Volgograd region, one person was killed and 11 were wounded during overnight strikes that damaged industrial infrastructure.",
+      "title_raw": "At Least 5 Dead as Russia and Ukraine Exchange Wave of Strikes",
+      "lead_raw": "In the Volgograd region, one person was killed and 11 were wounded during overnight strikes that damaged industrial infrastructure.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "cd0b8869f39aa2427f1137a9e9aac2a91da4c40b",
       "source": "TASS (EN)",
@@ -447,48 +466,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "3c370953cc34fee10089df1336cbb2ff16fe56d0",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2151525",
-      "published_utc": "2026-06-25T12:55:45Z",
-      "title_en": "Moscow works on providing assistance to Caracas after earthquake — MFA",
-      "lead_en": "Foreign Ministry Spokeswoman Maria Zakharova said that Russia expresses solidarity with the government and the brotherly people of Venezuela",
-      "title_raw": "Moscow works on providing assistance to Caracas after earthquake — MFA",
-      "lead_raw": "Foreign Ministry Spokeswoman Maria Zakharova said that Russia expresses solidarity with the government and the brotherly people of Venezuela",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "4bc039f45beec74b898d3c70432c41d35fb8ffca",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27856839",
-      "published_utc": "2026-06-25T12:18:32Z",
-      "title_en": "Zakharova: Russia is working on providing assistance to Venezuela after the earthquake",
-      "lead_en": "The official representative of the Ministry of Foreign Affairs sent words of condolences and moral support to all those who lost relatives and friends due to the disaster",
-      "title_raw": "Захарова: РФ прорабатывает оказание помощи Венесуэле после землетрясения",
-      "lead_raw": "Официальный представитель МИД направила слова соболезнования, моральной поддержки всем потерявшим родных и близких из-за удара стихии",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
