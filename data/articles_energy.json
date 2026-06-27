@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-06-27T00:06:31Z",
+  "updated_at_utc": "2026-06-27T04:52:33Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 44,
   "articles": [
+    {
+      "id": "e84282470ef3519c882d3b395908703e7e8a8fe6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27862799",
+      "published_utc": "2026-06-27T04:12:50Z",
+      "title_en": "The Russian Armed Forces hit a power facility and cut off power to enterprises working with the APU in Konotop",
+      "lead_en": "The strike was carried out using the Geranium-2 Sicker UAV",
+      "title_raw": "ВС РФ поразили энергообъект и обесточили работавшие с ВСУ предприятия в Конотопе",
+      "lead_raw": "Удар нанесли при помощи БПЛА \"Герань-2 Сикер\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "b269b6857707e232884b9f253e31589a3393105b",
       "source": "TASS (EN)",
@@ -910,27 +931,6 @@
         "energy": 3,
         "economy": 1,
         "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "adaef5066120336e01d62f156afd879338dfb8fe",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/nauka/27854289",
-      "published_utc": "2026-06-25T01:04:03Z",
-      "title_en": "In Russia, a module is being developed to assess risks when taking more than three medications",
-      "lead_en": "The work is being carried out by a team of students from the Institute of Control Systems, Informatics and Electric Power Engineering of the Moscow Aviation Institute within the framework of a grant from the Russian Science Foundation on the basis of the Russian Economic Universi",
-      "title_raw": "В России разрабатывают модуль для оценки рисков при приеме более трех лекарств",
-      "lead_raw": "Работу ведет команда студентов института \"Системы управления, информатика и электроэнергетика\" МАИ в рамках гранта Российского научного фонда на базе Российского экономического университета имени Г. В.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
       },
       "topics": [
         "energy"
