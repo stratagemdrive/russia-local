@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-06-28T05:16:31Z",
+  "updated_at_utc": "2026-06-28T11:06:32Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 16,
+  "count": 14,
   "articles": [
+    {
+      "id": "0ac9448c8012482901a44776c57e794212d9ad6d",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/06/28/ukrainian-strike-kills-one-in-southern-russia-refinery-on-fire-a93114",
+      "published_utc": "2026-06-28T08:57:00Z",
+      "title_en": "Ukrainian Strike Kills 1 in Southern Russia, Refinery on Fire",
+      "lead_en": "Ukraine has targeted Russian energy infrastructure throughout the war in retaliation for Russian strikes on its civilians and energy infrastructure.",
+      "title_raw": "Ukrainian Strike Kills 1 in Southern Russia, Refinery on Fire",
+      "lead_raw": "Ukraine has targeted Russian energy infrastructure throughout the war in retaliation for Russian strikes on its civilians and energy infrastructure.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "bc0b421e115c3dab67a49f958dd5e57973003a41",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27864685",
+      "published_utc": "2026-06-28T07:00:46Z",
+      "title_en": "In Adygea, the unmanned threat was canceled",
+      "lead_en": "This was reported to the Russian Ministry of Emergency Situations",
+      "title_raw": "В Адыгее отменили беспилотную опасность",
+      "lead_raw": "Об этом сообщили в МЧС России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "5af6ce34e80c58d074d106ba738857145c1ed6ae",
       "source": "TASS (EN)",
@@ -243,88 +283,6 @@
         "local_events": 1
       },
       "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "fdcd22bf3ffc4afc5c65cbf2743387f1d185c659",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27860323",
-      "published_utc": "2026-06-26T10:24:46Z",
-      "title_en": "Deputy commander of the Opera: The Ukrainian Armed Forces tried to kill the residents of Konstantinovka during the evacuation",
-      "lead_en": "According to a Russian fighter, the Ukrainian military attacked civilians using drones",
-      "title_raw": "Замкомандира Опер: ВСУ пытались убить жителей Константиновки при эвакуации",
-      "lead_raw": "По словам российского бойца, украинские военные нанесли удар по гражданским с помощью дронов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "5bd523ff3ddfc9d972a860dc5fd04a11e14742fe",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2151893",
-      "published_utc": "2026-06-26T09:40:01Z",
-      "title_en": "One civilian killed as munition detonates in Russia’s Belgorod Region",
-      "lead_en": "It is noted that windows were broken in four private houses, and roofs, facades, and entrances were damaged",
-      "title_raw": "One civilian killed as munition detonates in Russia’s Belgorod Region",
-      "lead_raw": "It is noted that windows were broken in four private houses, and roofs, facades, and entrances were damaged",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "4762fd1d839de7ea201b85937879531fe7e2b10a",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2151829",
-      "published_utc": "2026-06-26T07:31:11Z",
-      "title_en": "IN BRIEF: Civilian injured, damage reported as air defenses down 660 drones over Russia",
-      "lead_en": "The overnight drone attack was the largest since the beginning of the year, according to TASS estimates based on data from the Defense Ministry",
-      "title_raw": "IN BRIEF: Civilian injured, damage reported as air defenses down 660 drones over Russia",
-      "lead_raw": "The overnight drone attack was the largest since the beginning of the year, according to TASS estimates based on data from the Defense Ministry",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "b42584b132bc36de751510692810a3f8a7c65cd1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27859145",
-      "published_utc": "2026-06-26T07:05:30Z",
-      "title_en": "A large-scale fire occurred in the Sumy region near the border with the Russian Federation",
-      "lead_en": "The State Service of Ukraine for Emergency Situations said that firefighters had to act in a difficult situation",
-      "title_raw": "В Сумской области у границы с РФ произошел масштабный пожар",
-      "lead_raw": "Госслужба Украины по чрезвычайным ситуациям заявила, что пожарным пришлось действовать в сложной обстановке",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
       "primary_topic": "local_events"
     }
   ]
