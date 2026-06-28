@@ -1,9 +1,53 @@
 {
-  "updated_at_utc": "2026-06-28T17:11:09Z",
+  "updated_at_utc": "2026-06-28T19:19:07Z",
   "keep_hours": 48,
   "topic": "diplomacy",
   "count": 53,
   "articles": [
+    {
+      "id": "43f8fd10bfd9488cd333a0d092a682ddc4bba29d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27865913",
+      "published_utc": "2026-06-28T18:35:15Z",
+      "title_en": "Putin approved the new composition of the commission to ensure Russia's participation in the G20",
+      "lead_en": "It included representatives of the Kremlin, the Ministry of Foreign Affairs, the Ministry of Industry and Trade, the Ministry of Economic Development, the Ministry of Agriculture, the Ministry of Energy, the Ministry of Finance, the Ministry of Digital Development, the Ministry o",
+      "title_raw": "Путин утвердил новый состав комиссии по обеспечению участия России в G20",
+      "lead_raw": "В него вошли представители Кремля, МИД, Минпромторга, Минэкономразвития, Минсельхоза, Минэнерго, Минфина, Минцифры, Минприроды, Минобрнауки, Минпросвещения, Минтруда, Минздрава, Центробанка",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "09e338584b4f848a0f985eeeb8f595523dfc717c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27865891",
+      "published_utc": "2026-06-28T18:04:35Z",
+      "title_en": "The Russian national basketball team lost to the Hungarians in a friendly match",
+      "lead_en": "The meeting ended with a score of 72:71 in favor of the Hungarians",
+      "title_raw": "Сборная России по баскетболу проиграла венграм в товарищеском матче",
+      "lead_raw": "Встреча завершилась со счетом 72:71 в пользу венгров",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "1293944d1c5e0755b8ed229156048ddb637c1a3b",
       "source": "TASS (RU)",
@@ -1022,7 +1066,7 @@
       "url": "https://tass.ru/politika/27862455",
       "published_utc": "2026-06-26T22:00:41Z",
       "title_en": "Russian Foreign Ministry: The West does not intend to abandon sanctions against the Russian Federation",
-      "lead_en": "Ambassador-at-Large of the Russian diplomatic department Alexander Trofimov said that no one is going to stop the sanctions policy either in the medium or long term",
+      "lead_en": "Ambassador-at-Large of the Russian diplomatic service Alexander Trofimov said that no one is going to stop the sanctions policy either in the medium or long term",
       "title_raw": "МИД РФ: Запад не намерен отказываться от санкций против РФ",
       "lead_raw": "Посол по особым поручениям российского дипведомства Александр Трофимов заявил, что никто не собирается прекращать санкционную политику ни в среднесрочной, ни в долгосрочной перспективе",
       "topic_scores": {
@@ -1102,49 +1146,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "fffb0d221cfd5a6bbbc91f89d9d95b32f1b2bd29",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27862167",
-      "published_utc": "2026-06-26T18:14:55Z",
-      "title_en": "Lavrov expressed condolences on the death of Ivanov",
-      "lead_en": "The head of the Russian Foreign Ministry called the former special presidential representative on environmental issues, ecology and transport a true patriot of the country and an outstanding statesman",
-      "title_raw": "Лавров выразил соболезнования в связи со смертью Иванова",
-      "lead_raw": "Глава МИД РФ назвал бывшего спецпредставителя президента по вопросам природоохранной деятельности, экологии и транспорта настоящим патриотом страны и выдающимся государственным деятелем",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "a55c0ca5761d8979e53b7841ab7e6f63025a839f",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2152175",
-      "published_utc": "2026-06-26T18:07:33Z",
-      "title_en": "Novak orders additional fuel market support measures to be developed",
-      "lead_en": "Participants in the meeting reviewed the current situation regarding supplies of petroleum products to Russian regions and analyzed pricing trends across the federal districts",
-      "title_raw": "Novak orders additional fuel market support measures to be developed",
-      "lead_raw": "Participants in the meeting reviewed the current situation regarding supplies of petroleum products to Russian regions and analyzed pricing trends across the federal districts",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
