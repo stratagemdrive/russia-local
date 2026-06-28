@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-06-28T00:01:29Z",
+  "updated_at_utc": "2026-06-28T05:16:31Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 18,
+  "count": 16,
   "articles": [
+    {
+      "id": "5af6ce34e80c58d074d106ba738857145c1ed6ae",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2152527",
+      "published_utc": "2026-06-28T04:07:47Z",
+      "title_en": "At least one killed by falling drone fragments in south Russia",
+      "lead_en": "Several houses were damaged in Slavyansk-on-Kuban",
+      "title_raw": "At least one killed by falling drone fragments in south Russia",
+      "lead_raw": "Several houses were damaged in Slavyansk-on-Kuban",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "1838b3537f0e9c6284df8f265b1d90c4fd762a42",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2152509",
+      "published_utc": "2026-06-28T01:49:29Z",
+      "title_en": "Falling drone fragments start fire on territory of oil refinery in south Russia",
+      "lead_en": "No casualties were reported",
+      "title_raw": "Falling drone fragments start fire on territory of oil refinery in south Russia",
+      "lead_raw": "No casualties were reported",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "659dd4ccd4dcfd360b0f4db5d04523ccdb91d0ff",
       "source": "The Moscow Times",
@@ -285,84 +325,6 @@
       "topics": [
         "local_events"
       ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "e33206189bfa8c737b7ce01fba66d5775e2c3ded",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2151793",
-      "published_utc": "2026-06-26T03:51:27Z",
-      "title_en": "Massive Ukrainian drone attack on Russia’s Tula Region leaves woman injured — governor",
-      "lead_en": "Damage to a power transmission line and an industrial plant in Novomoskovsk was registered",
-      "title_raw": "Massive Ukrainian drone attack on Russia’s Tula Region leaves woman injured — governor",
-      "lead_raw": "Damage to a power transmission line and an industrial plant in Novomoskovsk was registered",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "0f36ba84b755fecc59fcd0692305a45f280df447",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27858483",
-      "published_utc": "2026-06-26T02:02:03Z",
-      "title_en": "The Russian Armed Forces thwarted an attack by Firepoint drones of the Armed Forces of Ukraine in the Dnepropetrovsk region",
-      "lead_en": "The combat mission was carried out by the crew of the Tor anti-aircraft missile system",
-      "title_raw": "ВС РФ сорвали атаку дронов Firepoint ВСУ в Днепропетровской области",
-      "lead_raw": "Боевую задачу выполнил расчет зенитного ракетного комплекса \"Тор\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "969bdf228ef72b79089bc2d70b8a79dfa2e60e6a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27858453",
-      "published_utc": "2026-06-26T01:48:18Z",
-      "title_en": "In Chuvashia, the danger of a UAV attack has been announced",
-      "lead_en": "This was reported to the Russian Ministry of Emergency Situations",
-      "title_raw": "В Чувашии объявили опасность атаки БПЛА",
-      "lead_raw": "Об этом сообщили в МЧС России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "1c2fe5fe152843778f8f28763f7f70bd9c92550b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/nauka/27858353",
-      "published_utc": "2026-06-26T00:26:10Z",
-      "title_en": "Expert Kulakov: the earthquake in Venezuela will not affect seismic activity in the Russian Federation",
-      "lead_en": "A rupture of the crust in one region means only a local release of accumulated stress, noted a professor at the Skolkovo Institute of Science and Technology, corresponding member of the Russian Academy of Sciences",
-      "title_raw": "Эксперт Кулаков: землетрясение в Венесуэле не отразится на сейсмоактивности в РФ",
-      "lead_raw": "Разрыв коры в одном регионе означает лишь локальный сброс накопленного напряжения, отметил профессор Сколковского института науки и технологий, член-корреспондент РАН",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
       "primary_topic": "local_events"
     }
   ]
