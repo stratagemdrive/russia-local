@@ -1,9 +1,94 @@
 {
-  "updated_at_utc": "2026-06-30T12:08:09Z",
+  "updated_at_utc": "2026-06-30T17:53:23Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 21,
+  "count": 24,
   "articles": [
+    {
+      "id": "1dc713c2bd9a2e92a392b3f0dd81a5756bfed7d2",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2153683",
+      "published_utc": "2026-06-30T16:49:20Z",
+      "title_en": "Russia to send aircraft to Turkey to fight forest fires",
+      "lead_en": "In response to a request from the Turkish authorities, two Be-200 aircraft will soon be deployed to support efforts in extinguishing seasonal wildfires",
+      "title_raw": "Russia to send aircraft to Turkey to fight forest fires",
+      "lead_raw": "In response to a request from the Turkish authorities, two Be-200 aircraft will soon be deployed to support efforts in extinguishing seasonal wildfires",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "814d2bac370ee4ea68f6462768d8ecb2d8164f37",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27872849",
+      "published_utc": "2026-06-30T16:07:10Z",
+      "title_en": "Russia will send planes to Turkey to fight forest fires",
+      "lead_en": "The Russian Embassy reported that Moscow will send two Be-200ES aircraft",
+      "title_raw": "Россия направит в Турцию самолеты для борьбы с лесными пожарами",
+      "lead_raw": "Посольство РФ сообщило, что Москва отправит два самолета Бе-200ЧС",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "diplomacy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "8196d52a595cc8977ee54ab5973ced3091e3f90c",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/06/30/a-third-russian-region-declares-high-alert-over-fuel-crisis-a-status-that-allows-elections-to-be-postponed",
+      "published_utc": "2026-06-30T15:11:11Z",
+      "title_en": "A third Russian region declares high alert over fuel crisis — a status that allows elections to be postponed",
+      "lead_en": "Penza Governor Oleg Melnichenko declared a state of high alert in the region on June 30, citing the fuel crisis. Melnichenko said the measure was needed to keep emergency response services and socially significant facilities — including the fuel and energy sector — running without interruption.",
+      "title_raw": "A third Russian region declares high alert over fuel crisis — a status that allows elections to be postponed",
+      "lead_raw": "Penza Governor Oleg Melnichenko declared a state of high alert in the region on June 30, citing the fuel crisis. Melnichenko said the measure was needed to keep emergency response services and socially significant facilities — including the fuel and energy sector — running without interruption.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "3e71bc6c3d3df22b1fa959fde187d5ce170c70bd",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2153449",
+      "published_utc": "2026-06-30T10:07:39Z",
+      "title_en": "Ukraine’s Hornet attack UAVs shot down over Novorossiya highway — Russian Defense Ministry",
+      "lead_en": "According to the ministry, air defense personnel employed small arms fire and aerial ramming tactics to down the drones",
+      "title_raw": "Ukraine’s Hornet attack UAVs shot down over Novorossiya highway — Russian Defense Ministry",
+      "lead_raw": "According to the ministry, air defense personnel employed small arms fire and aerial ramming tactics to down the drones",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "31ab1737fffa9eda40f5aeab78852b6c1bc47c44",
       "source": "TASS (RU)",
@@ -390,25 +475,6 @@
       "lead_en": "Top stories from the Russian press on Monday, June 29th",
       "title_raw": "Press review: Ceasefire strain amid US-Iran tensions and Finnish nuclear plans near Russia",
       "lead_raw": "Top stories from the Russian press on Monday, June 29th",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "140a07c9295c0ca967dbd912646b3ca286105358",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27865167",
-      "published_utc": "2026-06-28T12:15:56Z",
-      "title_en": "The head of Pomerania named the priority directions for the people's United Russia program",
-      "lead_en": "The most important thing is the resettlement of citizens from emergency housing, noted Alexander Tsybulsky",
-      "title_raw": "Глава Поморья назвал приоритетные для народной программы ЕР направления",
-      "lead_raw": "Самым важным является переселение граждан из аварийного жилья, отметил Александр Цыбульский",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
