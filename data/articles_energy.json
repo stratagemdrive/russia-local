@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-06-30T23:12:30Z",
+  "updated_at_utc": "2026-07-01T03:53:18Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 46,
   "articles": [
+    {
+      "id": "a56d9836e7635f760e3f2d3ac7ef569ebbaf2bd0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27873595",
+      "published_utc": "2026-07-01T02:28:34Z",
+      "title_en": "Dmitriev wondered what Germany was capable of after Merz’s post about football",
+      "lead_en": "The German Chancellor cannot cope with publications about the national team, “nor with issues of immigration, energy or the economy,” said the special representative of the President of the Russian Federation",
+      "title_raw": "Дмитриев задался вопросом, на что способна Германия после поста Мерца про футбол",
+      "lead_raw": "Канцлер ФРГ не может справиться ни с публикациями про сборную страны, \"ни с вопросами иммиграции, энергетики или экономики\", заявил спецпредставитель президента РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "065a9a3b6fe23d2b83009c65ef7717fe73a21035",
       "source": "Meduza (EN)",
@@ -953,28 +974,6 @@
       },
       "topics": [
         "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "d40c9449464f5478cd00781f529f3c140bbcaf7b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27866347",
-      "published_utc": "2026-06-29T00:38:06Z",
-      "title_en": "The study showed that Russians bought 511.5 thousand used cars in May",
-      "lead_en": "In total, 595.3 billion rubles were spent on them, as follows from the materials of the Gazprombank Autoleasing company and the analytical agency Autostat.",
-      "title_raw": "Исследование показало, что россияне в мае купили 511,5 тыс. подержанных машин",
-      "lead_raw": "Всего на них потратили 595,3 млрд рублей, следует из материалов компании \"Газпромбанк автолизинг\" и аналитического агентства \"Автостат\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
       ],
       "primary_topic": "energy"
     }
