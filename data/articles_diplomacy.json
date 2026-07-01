@@ -1,9 +1,52 @@
 {
-  "updated_at_utc": "2026-07-01T03:53:18Z",
+  "updated_at_utc": "2026-07-01T08:13:12Z",
   "keep_hours": 48,
   "topic": "diplomacy",
   "count": 59,
   "articles": [
+    {
+      "id": "0e2468769db83423f10959caf93581c61020e085",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27874249",
+      "published_utc": "2026-07-01T07:05:40Z",
+      "title_en": "Zakharova: The West is responsible for the “bloody monsters” it has tamed",
+      "lead_en": "The official representative of the Russian Foreign Ministry commented on the situation with the explosion in Monaco",
+      "title_raw": "Захарова: Запад в ответе за \"кровавых монстров\", которых приручил",
+      "lead_raw": "Официальный представитель МИД РФ прокомментировала ситуацию со взрывом в Монако",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "59468944fb62e8b933d17efb553e1a326da8ac60",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27874153",
+      "published_utc": "2026-07-01T06:52:09Z",
+      "title_en": "Kyrgyzstan is negotiating with Russia on fuel imports",
+      "lead_en": "Gasoline reserves remain for approximately 1.5 months, and diesel fuel reserves for approximately a month, the Ministry of Energy of the Republic indicated",
+      "title_raw": "Киргизия ведет переговоры с Россией об импорте топлива",
+      "lead_raw": "Запасов бензина осталось примерно на 1,5 месяца, а дизельного топлива - приблизительно на месяц, указали в министерстве энергетики республики",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "17740d5c0d4a547eed33719f673746c5f7d192fb",
       "source": "TASS (EN)",
@@ -1216,49 +1259,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "33241f81ac6af58ca2ed852fce8c29d09158c207",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27867157",
-      "published_utc": "2026-06-29T07:59:40Z",
-      "title_en": "Estonian Foreign Minister: Some EU countries would not like to put further pressure on Russia",
-      "lead_en": "Discussion of the candidacy of a potential representative of the European Union in negotiations with the Russian Federation “does not help matters,” said Margus Tsahkna",
-      "title_raw": "Глава МИД Эстонии: некоторые страны ЕС не хотели бы дальше давить на Россию",
-      "lead_raw": "Обсуждение кандидатуры потенциального представителя Евросоюза на переговорах с РФ \"делу не помогает\", заявил Маргус Цахкна",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "9919fafcd73232cdc905d72e90b972550760e49a",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2152827",
-      "published_utc": "2026-06-29T07:44:21Z",
-      "title_en": "Putin convenes meeting of government officials, Russian oil majors on fuel situation",
-      "lead_en": "The Russian president authorized efforts to minimize the impact of Ukrainian terrorist attacks on Russian civilian facilities",
-      "title_raw": "Putin convenes meeting of government officials, Russian oil majors on fuel situation",
-      "lead_raw": "The Russian president authorized efforts to minimize the impact of Ukrainian terrorist attacks on Russian civilian facilities",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
