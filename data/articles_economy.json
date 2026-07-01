@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-07-01T19:55:09Z",
+  "updated_at_utc": "2026-07-01T21:28:13Z",
   "keep_hours": 48,
   "topic": "economy",
   "count": 84,
   "articles": [
+    {
+      "id": "db2b4b83eaed0570d7a1b462b2ae37c0f9562c65",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27876883",
+      "published_utc": "2026-07-01T20:08:43Z",
+      "title_en": "Russia and Madagascar discussed preparations for the Russia-Africa summit",
+      "lead_en": "The parties confirmed their commitment to increasing constructive interaction in the international arena and deepening bilateral ties in the trade, economic, investment and humanitarian fields",
+      "title_raw": "РФ и Мадагаскар обсудили подготовку к саммиту Россия - Африка",
+      "lead_raw": "Стороны подтвердили настрой на наращивание конструктивного взаимодействия на международной арене и углубление двусторонних связей в торгово-экономической, инвестиционной и гуманитарной областях",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "3f4626ec51a3fc0c50f9305590d21a993796be67",
       "source": "TASS (EN)",
@@ -1681,27 +1703,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "d5ed12703e4dd813959d9a5698cd7c0cd7911ebe",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27869421",
-      "published_utc": "2026-06-29T20:15:25Z",
-      "title_en": "Pashinyan does not consider Russian restrictions on goods from Armenia sanctions",
-      "lead_en": "At the same time, the Armenian Prime Minister avoided a direct answer to the question of what losses the republic’s economy suffered due to the restrictions imposed",
-      "title_raw": "Пашинян не считает ограничения РФ на товары из Армении санкциями",
-      "lead_raw": "При этом армянский премьер-министр уклонился от прямого ответа на вопрос о том, какие убытки понесла экономика республики из-за введенных ограничений",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
