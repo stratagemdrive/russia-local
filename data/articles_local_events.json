@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-07-01T12:07:24Z",
+  "updated_at_utc": "2026-07-01T17:55:10Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 28,
+  "count": 27,
   "articles": [
+    {
+      "id": "44ebf23885cce8dc5ba8e7e4301f3665aee60d7d",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2154109",
+      "published_utc": "2026-07-01T16:02:15Z",
+      "title_en": "ICAO chooses to simply rubber-stamp MH17 crash investigation — Russian diplomat",
+      "lead_en": "\"The Council misused its mandate, particularly demanding that Russia hold talks with Australia and the Netherlands on paying the so-called reparations for the crash,\" Maria Zakharova said",
+      "title_raw": "ICAO chooses to simply rubber-stamp MH17 crash investigation — Russian diplomat",
+      "lead_raw": "\"The Council misused its mandate, particularly demanding that Russia hold talks with Australia and the Netherlands on paying the so-called reparations for the crash,\" Maria Zakharova said",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "240eb7a11b847ea7b947d7efb21d68464963d28b",
       "source": "TASS (EN)",
@@ -526,44 +547,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "1f08efa6a3c535804939c0b9e224ac4fe237be88",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27869135",
-      "published_utc": "2026-06-29T17:22:22Z",
-      "title_en": "Unmanned danger declared in Adygea",
-      "lead_en": "This was reported to the Russian Ministry of Emergency Situations",
-      "title_raw": "В Адыгее объявили беспилотную опасность",
-      "lead_raw": "Об этом сообщили в МЧС России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "41f1585ec26a4bc47ebb0b17df4f992845d8472a",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/06/29/months-after-a-motorcade-crash-chechen-leader-ramzan-kadyrov-s-son-flaunts-reckless-driving-on-camera",
-      "published_utc": "2026-06-29T17:09:28Z",
-      "title_en": "Months after a motorcade crash, Chechen leader Ramzan Kadyrov’s son flaunts reckless driving on camera",
-      "lead_en": "Adam Kadyrov, the son of Chechnya’s longtime leader, posted a 13-second video of himself behind the wheel of a Range Rover to an Instagram account linked to him, the independent Russian news outlet Verstka reported.",
-      "title_raw": "Months after a motorcade crash, Chechen leader Ramzan Kadyrov’s son flaunts reckless driving on camera",
-      "lead_raw": "Adam Kadyrov, the son of Chechnya’s longtime leader, posted a 13-second video of himself behind the wheel of a Range Rover to an Instagram account linked to him, the independent Russian news outlet Verstka reported.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
