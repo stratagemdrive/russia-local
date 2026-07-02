@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-07-01T23:15:12Z",
+  "updated_at_utc": "2026-07-02T03:34:34Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 21,
+  "count": 20,
   "articles": [
+    {
+      "id": "7322814c84b9a730851f5665ad071ae05d804785",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27877221",
+      "published_utc": "2026-07-02T02:03:32Z",
+      "title_en": "Commander Cheburashka: The Ukrainian Armed Forces in Novoselovka mined cigarette packs and made traps",
+      "lead_en": "The enemy fixes the explosives at the level of the legs and head, noted the Russian serviceman",
+      "title_raw": "Командир Чебурашка: ВСУ в Новоселовке минировали пачки сигарет и делали ловушки",
+      "lead_raw": "Взрывчатку противник фиксирует на уровне ног и головы, отметил российский военнослужащий",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "44ebf23885cce8dc5ba8e7e4301f3665aee60d7d",
       "source": "TASS (EN)",
@@ -384,48 +405,6 @@
         "local_events": 1
       },
       "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "5ba0bfabdf7cb2a99e938918bdbdba0d8894e773",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27869975",
-      "published_utc": "2026-06-30T03:32:04Z",
-      "title_en": "TASS: Ukrainian Armed Forces soldiers are waiting for evacuation in basements in Bachevsk with the corpses of their colleagues",
-      "lead_en": "Russian security forces noted that the military has been without normal support for weeks",
-      "title_raw": "ТАСС: солдаты ВСУ ждут эвакуацию в подвалах в Бачевске с трупами сослуживцев",
-      "lead_raw": "В российских силовых структурах отметили, что военные неделями находятся без нормального обеспечения",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "f98302ce36a08d2aba747531d9590e5fe893e011",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2153319",
-      "published_utc": "2026-06-30T03:10:00Z",
-      "title_en": "Minibus overturns in Russia’s Altai region, five injured",
-      "lead_en": "Police are establishing the cause and circumstances of the accident",
-      "title_raw": "Minibus overturns in Russia’s Altai region, five injured",
-      "lead_raw": "Police are establishing the cause and circumstances of the accident",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
       "primary_topic": "local_events"
     }
   ]
