@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-07-02T03:34:34Z",
+  "updated_at_utc": "2026-07-02T07:32:01Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 20,
+  "count": 19,
   "articles": [
+    {
+      "id": "7a4d69f7923e54058c3ebf266e957db2df46441e",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/07/02/russia-strikes-kyiv-with-missiles-and-drones-killing-at-least-13",
+      "published_utc": "2026-07-02T07:19:34Z",
+      "title_en": "Russia strikes Kyiv with missiles and drones, killing at least 13",
+      "lead_en": "Russian forces struck Kyiv with ballistic missiles and drones in the early hours of July 2, killing at least 10 people, Kyiv Mayor Vitali Klitschko said. Ukraine’s Internal Affairs Minister Ihor Klymenko put the death toll at 11, with more than 30 injured.",
+      "title_raw": "Russia strikes Kyiv with missiles and drones, killing at least 13",
+      "lead_raw": "Russian forces struck Kyiv with ballistic missiles and drones in the early hours of July 2, killing at least 10 people, Kyiv Mayor Vitali Klitschko said. Ukraine’s Internal Affairs Minister Ihor Klymenko put the death toll at 11, with more than 30 injured.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "57144514f8309b449fddeb272e90149454f6f616",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27877923",
+      "published_utc": "2026-07-02T06:45:56Z",
+      "title_en": "Two Kyiv agents who were collecting data on the deployment of the Russian Armed Forces were detained in Crimea",
+      "lead_en": "According to the FSB, the defendants received from the curator components for assembling a radio-controlled improvised explosive device",
+      "title_raw": "В Крыму задержали двоих агентов Киева, собиравших данные о дислокации ВС РФ",
+      "lead_raw": "По данным ФСБ, фигуранты получили от куратора компоненты для сборки радиоуправляемого самодельного взрывного устройства",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "7322814c84b9a730851f5665ad071ae05d804785",
       "source": "TASS (RU)",
@@ -349,63 +389,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "dd5ea8441fc63deab663774b7a7f5a900b88e4d8",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2153327",
-      "published_utc": "2026-06-30T05:22:35Z",
-      "title_en": "Six-month-old baby killed outside Moscow as Russia downs 419 Ukrainian drones",
-      "lead_en": "In particular, UAVs were intercepted over the Belgorod, Bryansk, Kaluga, Kursk, Krasnodar, Lipetsk, Moscow, Oryol, Rostov, Ryazan, Saratov, Smolensk, Tambov, Tver, Tula, Vladimir, Volgograd, and Voronezh Regions as well as the Republic of Crimea",
-      "title_raw": "Six-month-old baby killed outside Moscow as Russia downs 419 Ukrainian drones",
-      "lead_raw": "In particular, UAVs were intercepted over the Belgorod, Bryansk, Kaluga, Kursk, Krasnodar, Lipetsk, Moscow, Oryol, Rostov, Ryazan, Saratov, Smolensk, Tambov, Tver, Tula, Vladimir, Volgograd, and Voronezh Regions as well as the Republic of Crimea",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "7d73482c0f3eecd2f1717f1727a2067d3c8122dc",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27870145",
-      "published_utc": "2026-06-30T04:41:39Z",
-      "title_en": "In the Ulyanovsk region, the unmanned threat was canceled",
-      "lead_en": "This was reported in the application of the Ministry of Emergency Situations of Russia",
-      "title_raw": "В Ульяновской области отменили беспилотную опасность",
-      "lead_raw": "Об этом сообщили в приложении МЧС России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "2c2f63e34b83d451ee66775e133f52e47cc2df86",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27870085",
-      "published_utc": "2026-06-30T04:18:44Z",
-      "title_en": "Chuvashia cancels threat of UAV attack",
-      "lead_en": "This was reported in the application of the Ministry of Emergency Situations of Russia",
-      "title_raw": "В Чувашии отменили угрозу атаки БПЛА",
-      "lead_raw": "Об этом сообщили в приложении МЧС России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
