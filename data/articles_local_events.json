@@ -1,9 +1,68 @@
 {
-  "updated_at_utc": "2026-07-02T12:57:20Z",
+  "updated_at_utc": "2026-07-02T17:47:05Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 14,
   "articles": [
+    {
+      "id": "980621a1b4209f753c5ccca268a2c6653f6288b0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27880311",
+      "published_utc": "2026-07-02T17:04:17Z",
+      "title_en": "Unmanned danger declared in Astrakhan region",
+      "lead_en": "The Russian Ministry of Emergency Situations warned about this",
+      "title_raw": "В Астраханской области объявили беспилотную опасность",
+      "lead_raw": "Об этом предупредили в МЧС России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "d5b0b371df6527ce521ed867c694d218b4bcefc4",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27880265",
+      "published_utc": "2026-07-02T16:42:59Z",
+      "title_en": "Zakharova: The Russian Foreign Ministry plans to summon the Swedish ambassador in connection with the attack on the embassy",
+      "lead_en": "The Russian Embassy in Sweden was attacked using a UAV, one of which had a dummy explosive device attached to it",
+      "title_raw": "Захарова: МИД РФ планирует вызвать посла Швеции в связи с атакой на посольство",
+      "lead_raw": "Посольство России в Швеции подверглось нападению с использованием БПЛА, к одному из которых был прикреплен муляж взрывного устройства",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "bb672fa8cfc1769f805400efe5ffc1f7c1f77711",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2154617",
+      "published_utc": "2026-07-02T14:17:48Z",
+      "title_en": "Russia develops augmented reality system for mobile fire team training",
+      "lead_en": "Designed for on-site training at actual combat positions, the system eliminates the need for ammunition expenditure and reduces barrel wear",
+      "title_raw": "Russia develops augmented reality system for mobile fire team training",
+      "lead_raw": "Designed for on-site training at actual combat positions, the system eliminates the need for ammunition expenditure and reduces barrel wear",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "0de31fa8b35b60377b15b3ec1cbb110d2ee2b61b",
       "source": "Meduza (EN)",
@@ -227,70 +286,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "1dc713c2bd9a2e92a392b3f0dd81a5756bfed7d2",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2153683",
-      "published_utc": "2026-06-30T16:49:20Z",
-      "title_en": "Russia to send aircraft to Turkey to fight forest fires",
-      "lead_en": "In response to a request from the Turkish authorities, two Be-200 aircraft will soon be deployed to support efforts in extinguishing seasonal wildfires",
-      "title_raw": "Russia to send aircraft to Turkey to fight forest fires",
-      "lead_raw": "In response to a request from the Turkish authorities, two Be-200 aircraft will soon be deployed to support efforts in extinguishing seasonal wildfires",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "814d2bac370ee4ea68f6462768d8ecb2d8164f37",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27872849",
-      "published_utc": "2026-06-30T16:07:10Z",
-      "title_en": "Russia will send planes to Turkey to fight forest fires",
-      "lead_en": "The Russian Embassy reported that Moscow will send two Be-200ES aircraft",
-      "title_raw": "Россия направит в Турцию самолеты для борьбы с лесными пожарами",
-      "lead_raw": "Посольство РФ сообщило, что Москва отправит два самолета Бе-200ЧС",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "diplomacy",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "8196d52a595cc8977ee54ab5973ced3091e3f90c",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/06/30/a-third-russian-region-declares-high-alert-over-fuel-crisis-a-status-that-allows-elections-to-be-postponed",
-      "published_utc": "2026-06-30T15:11:11Z",
-      "title_en": "A third Russian region declares high alert over fuel crisis — a status that allows elections to be postponed",
-      "lead_en": "Penza Governor Oleg Melnichenko declared a state of high alert in the region on June 30, citing the fuel crisis. Melnichenko said the measure was needed to keep emergency response services and socially significant facilities — including the fuel and energy sector — running without interruption.",
-      "title_raw": "A third Russian region declares high alert over fuel crisis — a status that allows elections to be postponed",
-      "lead_raw": "Penza Governor Oleg Melnichenko declared a state of high alert in the region on June 30, citing the fuel crisis. Melnichenko said the measure was needed to keep emergency response services and socially significant facilities — including the fuel and energy sector — running without interruption.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
