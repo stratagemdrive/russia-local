@@ -1,8 +1,944 @@
 {
-  "updated_at_utc": "2026-07-03T19:21:45Z",
+  "updated_at_utc": "2026-07-03T21:05:44Z",
   "keep_hours": 48,
-  "count": 563,
+  "count": 596,
   "articles": [
+    {
+      "id": "e568d1342e3bf1b3f141cbd7a9dd45b4a6985de7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27884323",
+      "published_utc": "2026-07-03T21:01:37Z",
+      "title_en": "\"A Just Russia\" will nominate candidates for elections to the State Duma at the congress",
+      "lead_en": "The event agenda includes approval of the party’s election program and nomination of candidates for State Duma deputies.",
+      "title_raw": "\"Справедливая Россия\" на съезде выдвинет кандидатов на выборы в Госдуму",
+      "lead_raw": "В повестке мероприятия утверждение предвыборной программы партии и выдвижение кандидатов в депутаты Госдумы",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "36dcf83230cdf8ed1b74797a2b287f7497120a7f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27881339",
+      "published_utc": "2026-07-03T21:00:01Z",
+      "title_en": "Military operation in Ukraine. Online",
+      "lead_en": "Russian President Vladimir Putin announced the complete liberation of the territory of the Lugansk People's Republic",
+      "title_raw": "Военная операция на Украине. Онлайн",
+      "lead_raw": "Президент РФ Владимир Путин сообщил о полном освобождении территории Луганской Народной Республики",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "80eccffc4d0bdf8d3e831114cb296e2dcffe2e5e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27884311",
+      "published_utc": "2026-07-03T20:57:59Z",
+      "title_en": "Putin asked the commanders to convey sincere gratitude to the soldiers",
+      "lead_en": "The head of state noted that the decisive role in carrying out tasks in a special operation belongs to soldiers and officers who, during combat operations, show the best features of the Russian military",
+      "title_raw": "Путин попросил командующих передать искреннюю благодарность бойцам",
+      "lead_raw": "Глава государства отметил, что решающая роль в выполнении задач в спецоперации принадлежит солдатам и офицерам, которые в ходе боевых действий проявляют лучшие черты российского воинства",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "cb9a5520cd3ee316832278b068575b95d13a8833",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2155323",
+      "published_utc": "2026-07-03T20:49:33Z",
+      "title_en": "Territory of Lugansk People's Republic fully liberated — Putin",
+      "lead_en": "Russian President Vladimir Putin also noted that the destruction of the Armed Forces of Ukraine continues on the territory of the Donetsk People's Republic, Zaporozhye and Kherson Regions",
+      "title_raw": "Territory of Lugansk People's Republic fully liberated — Putin",
+      "lead_raw": "Russian President Vladimir Putin also noted that the destruction of the Armed Forces of Ukraine continues on the territory of the Donetsk People's Republic, Zaporozhye and Kherson Regions",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "88fd110f298ddf32fe363dab95a8b1587b6ec7d5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27884227",
+      "published_utc": "2026-07-03T20:42:35Z",
+      "title_en": "TASS: the liberation of Krasny Liman will allow the Russian Armed Forces to march on a broad front to Slavyansk",
+      "lead_en": "Chief of the General Staff of the Russian Armed Forces Valery Gerasimov previously announced the liberation of the city",
+      "title_raw": "ТАСС: освобождение Красного Лимана позволит ВС РФ идти широким фронтом на Славянск",
+      "lead_raw": "Начальник Генштаба Вооруженных сил России Валерий Герасимов ранее сообщил об освобождении города",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "edc6b6edde0bcfb1eb258807a17fe3a5aee5df4b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27884245",
+      "published_utc": "2026-07-03T20:40:32Z",
+      "title_en": "Ambassador to Britain: Russia has no plans to attack Europe",
+      "lead_en": "Escalation is possible only on the initiative of Western countries, noted Andrey Kelin",
+      "title_raw": "Посол в Британии: у России нет никаких планов нападения на Европу",
+      "lead_raw": "Эскалация возможна только по инициативе стран Запада, отметил Андрей Келин",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "1c788cb2aa0c97d24ba000b243930fa818f11984",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27884191",
+      "published_utc": "2026-07-03T20:25:59Z",
+      "title_en": "Putin called on the command of the Russian Armed Forces to act rhythmically and consistently",
+      "lead_en": "It is important to overcome the difficulties that are natural in these conditions, the president said",
+      "title_raw": "Путин призвал командование ВС РФ действовать ритмично и последовательно",
+      "lead_raw": "Важно преодолеть естественные в этих условиях трудности, указал президент",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "41992adb210f714fbe90c18983db153ee6e53071",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27884125",
+      "published_utc": "2026-07-03T20:23:49Z",
+      "title_en": "Герасимов доложил Путину о текущей обстановке в зоне СВО. Main",
+      "lead_en": "During June, the Russian Armed Forces liberated 29 settlements and over 600 km of territory",
+      "title_raw": "Герасимов доложил Путину о текущей обстановке в зоне СВО. Главное",
+      "lead_raw": "ВС РФ в течение июня освободили 29 населенных пунктов и свыше 600 км территории",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "dceb6f9d91dd9fd2d358d39971b45a178242ab62",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27884167",
+      "published_utc": "2026-07-03T20:22:42Z",
+      "title_en": "Putin: the goal of the “imaginary European peacekeepers” is to continue the war with the Russian Federation",
+      "lead_en": "",
+      "title_raw": "Путин: целью \"мнимых европейцев-миротворцев\" является продолжение войны с РФ",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "aa8f7aacfae05ad43b2e82deab67c8a371a410c0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27884163",
+      "published_utc": "2026-07-03T20:21:34Z",
+      "title_en": "Putin: a security zone is being formed on historically Russian soil",
+      "lead_en": "The President spoke at a meeting at the control center of the Joint Group of Forces of the Northern Military District",
+      "title_raw": "Путин: зона безопасности формируется на исторически российской земле",
+      "lead_raw": "Президент выступил на совещании в пункте управления Объединенной группировки войск СВО",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "e6a8af534137e663c02d90f6918be5aa0822df71",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27884151",
+      "published_utc": "2026-07-03T20:20:07Z",
+      "title_en": "Putin linked the number of strikes on Russian targets with a larger security zone",
+      "lead_en": "",
+      "title_raw": "Путин связал количество ударов по объектам РФ с большей зоной безопасности",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "36c638a8ef86423b21c674e2bd7b3a66cdc458ff",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27884155",
+      "published_utc": "2026-07-03T20:19:55Z",
+      "title_en": "Putin: The Russian Armed Forces maintain the strategic initiative in the Northern Military District zone",
+      "lead_en": "The President spoke at a meeting at the control center of the Joint Group of Forces",
+      "title_raw": "Путин: ВС РФ удерживают стратегическую инициативу в зоне СВО",
+      "lead_raw": "Президент выступил на совещании в пункте управления Объединенной группировки войск",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "3bcd94cd1dc81f3944f45eb8bb53325dfb3e0cdd",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27884147",
+      "published_utc": "2026-07-03T20:18:22Z",
+      "title_en": "The Russian Armed Forces liberated more than 130 square meters. km and four settlements in the Volchansky direction",
+      "lead_en": "",
+      "title_raw": "ВС РФ освободили более 130 кв. км и четыре населенных пункта на волчанском направлении",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "d31ba53a325315ba1b7ba51a45e25537d0585df2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27884135",
+      "published_utc": "2026-07-03T20:18:06Z",
+      "title_en": "A man was arrested in St. Petersburg for participating in hostilities on the side of Ukraine",
+      "lead_en": "According to the investigation, Maxim Panin participated in the activities of the Ukrainian paramilitary association \"Russian Freedom Legion\", recognized as a terrorist organization",
+      "title_raw": "В Петербурге арестовали мужчину за участие в боевых действиях на стороне Украины",
+      "lead_raw": "По данным следствия, Максим Панин участвовал в деятельности украинского военизированного объединения \"Легион свободы России\", признанного террористической организацией",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ee9640f3434c3c5a4d3389681a40c2f4e7cb3211",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27884143",
+      "published_utc": "2026-07-03T20:17:35Z",
+      "title_en": "Since the beginning of the year, 24 settlements in the Sumy region have come under the control of the Russian Federation",
+      "lead_en": "The highest rates of progress were achieved in the Volchansk direction in June",
+      "title_raw": "Под контроль РФ с начала года перешли 24 населенных пункта в Сумской области",
+      "lead_raw": "На волчанском направлении в июне достигнуты самые высокие темпы продвижения",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c2512ce1f68ed16799e7e1a34fff6b08d853a3d7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27884141",
+      "published_utc": "2026-07-03T20:17:03Z",
+      "title_en": "The Russian Armed Forces are located 10 km from Sumy",
+      "lead_en": "This was stated by the commander of the North group, Evgeny Nikiforov, in a report to Russian President Vladimir Putin",
+      "title_raw": "ВС РФ находятся в 10 км от Сум",
+      "lead_raw": "Об этом заявил командующий группировкой \"Север\" Евгений Никифоров в докладе президенту РФ Владимиру Путину",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "58500aeb9ebc8f99bb5785108444a5188bd842ed",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27884133",
+      "published_utc": "2026-07-03T20:15:30Z",
+      "title_en": "Gerasimov: The 4th brigade of the Russian Armed Forces will be reformatted into a division",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_raw": "Герасимов: 4-я бригада ВС РФ будет переформатирована в дивизию",
+      "lead_raw": "В 2026 году эту проблему решат, отметил начальник Генштаба ВС РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "2b0e70a8eff6f804c463d565158a8426c63f64b2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27884129",
+      "published_utc": "2026-07-03T20:15:15Z",
+      "title_en": "\"Lucky is the one who is lucky.\" Putin congratulated the military of the Russian Armed Forces",
+      "lead_en": "At a meeting at the control center of the Joint Group of Forces of the Northern Military District, the President listened to a report from the commander of the 4th Motorized Rifle Brigade of the Southern Group of Forces, Major General Anton Grunis",
+      "title_raw": "\"Везет тому, кто везет\". Путин поздравил военных ВС РФ",
+      "lead_raw": "Президент на совещании в пункте управления Объединенной группировки войск СВО выслушал доклад командира 4-й мотострелковой бригады Южной группировки войск генерал-майора Антона Груниса",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "0abc97137aaeda4b55e47a3531b7082e97e29ad5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27884069",
+      "published_utc": "2026-07-03T20:12:29Z",
+      "title_en": "The Russian Armed Forces completely liberated Konstantinovka. The main thing from Peskov’s statement",
+      "lead_en": "President Vladimir Putin visited one of the auxiliary points of the Joint Group of Forces in the Northern Military District zone",
+      "title_raw": "ВС РФ полностью освободили Константиновку. Главное из заявления Пескова",
+      "lead_raw": "Президент Владимир Путин посетил один из вспомогательных пунктов Объединенной группировки войск в зоне СВО",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "a003955f13c44ccf26810ba13ae05f824797cd66",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27884099",
+      "published_utc": "2026-07-03T20:07:48Z",
+      "title_en": "Gerasimov announced the completion of the liberation of Krasny Liman",
+      "lead_en": "The Chief of the General Staff made a report to Russian President Vladimir Putin",
+      "title_raw": "Герасимов заявил о завершении освобождения Красного Лимана",
+      "lead_raw": "Начальник Генштаба выступил с докладом перед президентом России Владимиром Путиным",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "b97d70191bca51438393bd53c7c964c7d88d79d6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27884083",
+      "published_utc": "2026-07-03T20:05:19Z",
+      "title_en": "Gerasimov: The Ukrainian Armed Forces are unsuccessfully trying to regain lost positions in Kupyansk",
+      "lead_en": "The Ukrainian Armed Forces are suffering heavy losses among the infantry, noted the Chief of the General Staff of the Russian Armed Forces",
+      "title_raw": "Герасимов: ВСУ безуспешно пытаются вернуть утраченные позиции в Купянске",
+      "lead_raw": "ВСУ несут большие потери среди пехоты, отметил начальник Генштаба ВС РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "f011da5590c973739d741c0e3448c4a1e3c23c9d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27884075",
+      "published_utc": "2026-07-03T20:03:33Z",
+      "title_en": "The Russian Armed Forces are clearing Konstantinovka from disparate groups of the Armed Forces of Ukraine",
+      "lead_en": "",
+      "title_raw": "ВС РФ дозачищают Константиновку от разрозненных групп ВСУ",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "943286c28c158b17623f3f3255218223805e11e6",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2155265",
+      "published_utc": "2026-07-03T20:02:16Z",
+      "title_en": "Iranian president expresses gratitude to Medvedev for attending Khamenei farewell",
+      "lead_en": "Masoud Pezeshkian expressed appreciation to Dmitry Medvedev and his accompanying delegation for their participation, as well as for the condolences and support extended by the government and people of Russia to the people of Iran",
+      "title_raw": "Iranian president expresses gratitude to Medvedev for attending Khamenei farewell",
+      "lead_raw": "Masoud Pezeshkian expressed appreciation to Dmitry Medvedev and his accompanying delegation for their participation, as well as for the condolences and support extended by the government and people of Russia to the people of Iran",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "966ca3ea86fab84128f7d3e7956bfb3a3c51878e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27884063",
+      "published_utc": "2026-07-03T20:01:29Z",
+      "title_en": "From Seversk to the DPR, the Russian Armed Forces advanced 22 km",
+      "lead_en": "Advanced Russian units are located 8 km from Slavyansk DPR",
+      "title_raw": "От Северска в ДНР ВС РФ продвинулись на 22 км",
+      "lead_raw": "Передовые российские подразделения находятся в 8 км от Славянска ДНР",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "98906324a6c03ec5d86e36714a454f3994c92881",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27884057",
+      "published_utc": "2026-07-03T20:00:57Z",
+      "title_en": "Gerasimov: “North” fighters are successfully advancing near Sumy and White Well",
+      "lead_en": "The grouping of troops, advancing simultaneously in several directions, continues to expand the security zone in the Sumy and Kharkov regions of Ukraine bordering the Russian Federation.",
+      "title_raw": "Герасимов: бойцы \"Севера\" успешно продвигаются у Сум и Белого Колодезя",
+      "lead_raw": "Группировка войск, наступая одновременно на нескольких направлениях, продолжает расширение полосы безопасности в приграничных с Российской Федерацией районах Сумской и Харьковской областей Украины",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "732f78361ed51f3449b886bbb972a537c58db502",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27884059",
+      "published_utc": "2026-07-03T20:00:03Z",
+      "title_en": "Gerasimov: The Russian Armed Forces will continue the liberation of Donbass and Novorossiya",
+      "lead_en": "This happens according to the approved plan",
+      "title_raw": "Герасимов: ВС РФ продолжат освобождение Донбасса и Новороссии",
+      "lead_raw": "Это происходит согласно утвержденному замыслу",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "47f46c2b1d20202d786bc6bd3c7d4962de18bf1e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27884049",
+      "published_utc": "2026-07-03T19:59:26Z",
+      "title_en": "Gerasimov: “North” is expanding the security zone in Sumy and Kharkov regions",
+      "lead_en": "The northern group is advancing in several directions, noted the Chief of the General Staff of the Russian Armed Forces",
+      "title_raw": "Герасимов: \"Север\" расширяет полосу безопасности в Сумской и Харьковской областях",
+      "lead_raw": "Северная группировка наступает на нескольких направлениях, отметил начальник Генштаба ВС РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ce1764f553334307ac7d16ac87ce6b8fecc830cf",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27884051",
+      "published_utc": "2026-07-03T19:59:15Z",
+      "title_en": "Gerasimov told which objects of the Ukrainian Armed Forces hit the Russian Armed Forces in June",
+      "lead_en": "In particular, the enemy lost 55 military-industrial complex and energy infrastructure facilities",
+      "title_raw": "Герасимов рассказал, какие объекты ВСУ поразили ВС РФ в июне",
+      "lead_raw": "В частности, противник потерял 55 объектов военно-промышленного комплекса и энергетической инфраструктуры",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "c4a82974160c41b490d330184866eb007e33cf44",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27884045",
+      "published_utc": "2026-07-03T19:58:33Z",
+      "title_en": "Gerasimov: Kyiv is increasingly dependent on Western arms supplies",
+      "lead_en": "The capabilities of Ukrainian industry to produce long-range weapons have been significantly reduced, noted the Chief of the General Staff of the Russian Armed Forces",
+      "title_raw": "Герасимов: Киев все больше зависит от западных поставок вооружений",
+      "lead_raw": "Значительно снижены возможности украинской промышленности по производству дальнобойного оружия, отметил начальник Генштаба ВС РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "fecac2320309e09e2b7dfb3651f3529d74582119",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27884039",
+      "published_utc": "2026-07-03T19:58:04Z",
+      "title_en": "Putin noted the increasing pace of the offensive of the Russian Armed Forces along the entire front line",
+      "lead_en": "The President noted the positive dynamics in the actions of the troops",
+      "title_raw": "Путин отметил возрастающие темпы наступления ВС РФ по всей линии фронта",
+      "lead_raw": "Президент отметил положительную динамику в действиях войск",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "7313bc827878271940413cc717a60e66a08f18af",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27884029",
+      "published_utc": "2026-07-03T19:56:04Z",
+      "title_en": "Gerasimov: The Ukrainian Armed Forces wanted to regain control in the area of ​​Primorsky and Stepnogorsk",
+      "lead_en": "For this purpose, the most trained and motivated units of the Special Operations Forces were involved, noted the Chief of the General Staff of the Russian Armed Forces",
+      "title_raw": "Герасимов: ВСУ хотели вернуть контроль в районе Приморского и Степногорска",
+      "lead_raw": "Для этого были задействованы наиболее подготовленные и мотивированные подразделения Сил специальных операций, отметил начальник Генштаба ВС РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "07a803206b75bf36807e413bc15a62ff3714fb9c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27884031",
+      "published_utc": "2026-07-03T19:55:54Z",
+      "title_en": "Gerasimov: The Russian Armed Forces are 9 km from the southern outskirts of Zaporozhye",
+      "lead_en": "The Chief of the General Staff made a report to Russian President Vladimir Putin",
+      "title_raw": "Герасимов: ВС РФ находятся в 9 км от южных окраин Запорожья",
+      "lead_raw": "Начальник Генштаба выступил с докладом перед президентом России Владимиром Путиным",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "0a954f8d0edf0b538c83681a71e73708482406a1",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27884023",
+      "published_utc": "2026-07-03T19:55:31Z",
+      "title_en": "Gerasimov: troops are advancing west in the eastern part of the Zaporozhye region",
+      "lead_en": "The offensive is on a broad front, noted the Chief of the General Staff of the Russian Armed Forces",
+      "title_raw": "Герасимов: войска наступают на запад в восточной части Запорожской области",
+      "lead_raw": "Наступление идет широким фронтом, отметил начальник Генштаба ВС РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "123accc7ee3a34bcbb20a99c0cb6bd142f1bdf05",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27884017",
+      "published_utc": "2026-07-03T19:54:50Z",
+      "title_en": "Gerasimov: The Russian Armed Forces are advancing in all directions of the Northern Military District",
+      "lead_en": "This was stated by the Chief of the General Staff of the Russian Armed Forces in a report to Vladimir Putin",
+      "title_raw": "Герасимов: ВС РФ наступают на всех направлениях СВО",
+      "lead_raw": "Об этом заявил начальник Генштаба ВС РФ в докладе Владимиру Путину",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "5068b7404a49588e2b3973008b01ef46e4a045a6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27884013",
+      "published_utc": "2026-07-03T19:54:04Z",
+      "title_en": "Gerasimov: The Russian Armed Forces are confidently advancing in the Zaporozhye and Dnepropetrovsk regions",
+      "lead_en": "The troops of the Vostok group confidently hold the initiative in their offensive zone, noted the Chief of the General Staff",
+      "title_raw": "Герасимов: ВС РФ уверенно продвигаются в Запорожской и Днепропетровской областях",
+      "lead_raw": "Войска группировки \"Восток\" в полосе своего наступления уверенно удерживают инициативу, отметил начальник Генштаба",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "0b1d3fcadeeea5367b65cd518004bf4ebb4b7976",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27884011",
+      "published_utc": "2026-07-03T19:53:50Z",
+      "title_en": "Gerasimov: Kyiv demonstrates the imaginary successes of the Armed Forces of Ukraine in an information campaign",
+      "lead_en": "The Kiev regime, in the absence of results on the ground, seeks to convince its Western sponsors of intercepting the initiative from the Russian Federation, noted the Chief of the General Staff of the Russian Armed Forces",
+      "title_raw": "Герасимов: Киев в информационной кампании демонстрирует мнимые успехи ВСУ",
+      "lead_raw": "Киевский режим при отсутствии результатов на земле стремится убедить своих западных спонсоров в перехвате у РФ инициативы, отметил начальник Генштаба ВС РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "5e980afb4462482e401321cd3d48fd0afffac928",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27884009",
+      "published_utc": "2026-07-03T19:53:22Z",
+      "title_en": "Gerasimov: advanced units of the “Center” entered Dobropolye and Annovka DPR",
+      "lead_en": "In June, Kutuzovka, Vasilyevka and New Donbass were liberated, noted the Chief of the General Staff of the Russian Armed Forces",
+      "title_raw": "Герасимов: передовые подразделения \"Центра\" вошли в Доброполье и Анновку ДНР",
+      "lead_raw": "В июне освобождены Кутузовка, Васильевка и Новый Донбасс, отметил начальник Генштаба ВС РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "b38aef3103cc904aedfd4a832777e8a71562bf2b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27884003",
+      "published_utc": "2026-07-03T19:52:10Z",
+      "title_en": "Gerasimov: The Russian Armed Forces liberated over 600 km of territory in June",
+      "lead_en": "The Russian military also liberated 29 settlements",
+      "title_raw": "Герасимов: ВС РФ освободили свыше 600 км территории за июнь",
+      "lead_raw": "Российские военные также освободили 29 населенных пунктов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "9650380ec3cce73c656ef6508405564d2d3fea7c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27884001",
+      "published_utc": "2026-07-03T19:50:56Z",
+      "title_en": "Putin: The Russian Armed Forces have liberated 133 settlements in Donbass and Novorossiya since the beginning of the year",
+      "lead_en": "The President held a meeting at one of the temporary command posts of the joint group of troops",
+      "title_raw": "Путин: ВС РФ освободили 133 населенных пункта в Донбассе и Новороссии с начала года",
+      "lead_raw": "Президент провел совещание на одном из временных командных пунктов объединенной группировки войск",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "d5a0ade655ce515725466050b0286503542149d7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27883987",
+      "published_utc": "2026-07-03T19:49:14Z",
+      "title_en": "Putin held a meeting at the joint grouping point. Video broadcast has ended",
+      "lead_en": "The President of Russia visited one of the auxiliary points of the Joint Group of Forces",
+      "title_raw": "Путин провел совещание в пункте объединенной группировки. Видеотрансляция завершена",
+      "lead_raw": "Президент России посетил один из вспомогательных пунктов Объединенной группировки войск",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "c5357eeb5aff38a9f49d1c24e045d85652c1ceec",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27883991",
+      "published_utc": "2026-07-03T19:48:50Z",
+      "title_en": "Putin: Ukrainian troops are forced to retreat with heavy losses",
+      "lead_en": "Enemy units are trying to hold their positions, but are retreating under pressure from the Russian Armed Forces, the president noted.",
+      "title_raw": "Путин: украинские войска вынужденно отступают с большими потерями",
+      "lead_raw": "Подразделения противника пытаются удержать свои позиции, но под натиском войск ВС РФ отступают, отметил президент",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "87451172b51f58934c2610fc3ab9c29490462bcb",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27883925",
+      "published_utc": "2026-07-03T19:37:24Z",
+      "title_en": "Putin warned that the Russian Federation is forced to expand its security zone in response to the attacks",
+      "lead_en": "The more the enemy strikes at Russian infrastructure, the larger the security zone will have to be, the president noted.",
+      "title_raw": "Путин предупредил, что РФ вынуждена расширять зону безопасности в ответ на удары",
+      "lead_raw": "Чем больше противник будет наносить ударов по объектам инфраструктуры России, тем больше придется делать зону безопасности, отметил президент",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "54ad5f17321ca66d937296386baafaaed5270761",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27883911",
+      "published_utc": "2026-07-03T19:36:03Z",
+      "title_en": "Peskov: Konstantinovka was turned, as it seemed to Kyiv, into an impregnable fortified area",
+      "lead_en": "The head of state's press secretary noted that the city was liberated thanks to the heroism of the Russian military",
+      "title_raw": "Песков: Константиновка была превращена, как казалось Киеву, в неприступный укрепрайон",
+      "lead_raw": "Пресс-секретарь главы государства отметил, что город освобожден благодаря героизму российских военных",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "7a514fcc7ae5a1e0ab8c8766eef52c50a1df85c9",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27883913",
+      "published_utc": "2026-07-03T19:36:02Z",
+      "title_en": "Putin announced the completion of the liberation of the LPR",
+      "lead_en": "The Russian Armed Forces have also made significant progress on the territory of the DPR, the president noted.",
+      "title_raw": "Путин сообщил о завершении освобождения ЛНР",
+      "lead_raw": "Военные ВС РФ также существенно продвинулись на территории ДНР, отметил президент",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "8146ff4061c71ec945cff0595275c6555de81172",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27883909",
+      "published_utc": "2026-07-03T19:35:50Z",
+      "title_en": "Putin noted that the strategic initiative at the front is entirely behind the Russian Federation",
+      "lead_en": "The president's statements were conveyed by Kremlin spokesman Dmitry Peskov",
+      "title_raw": "Путин отметил, что стратегическая инициатива на фронте полностью за РФ",
+      "lead_raw": "Заявления президента передал представитель Кремля Дмитрий Песков",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "521634a4eb4a8987dcfaebd947e83ce4f6b8e0d8",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27883905",
+      "published_utc": "2026-07-03T19:35:09Z",
+      "title_en": "Gerasimov assessed the current situation in the Northern Military District zone",
+      "lead_en": "The Chief of the General Staff of the Russian Armed Forces discussed with President Vladimir Putin the latest results of combat work",
+      "title_raw": "Герасимов оценил текущую обстановку в зоне СВО",
+      "lead_raw": "Начальник Генштаба ВС РФ обсудил с президентом Владимиром Путиным последние результаты боевой работы",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c639a67753a87ff8ca6731593ed12c05c13bfd47",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/society/2155227",
+      "published_utc": "2026-07-03T19:25:18Z",
+      "title_en": "Russian schoolboy only contestant able to crack cryptography problem at Olympiad",
+      "lead_en": "He noted that the problem was worth a lot of points",
+      "title_raw": "Russian schoolboy only contestant able to crack cryptography problem at Olympiad",
+      "lead_raw": "He noted that the problem was worth a lot of points",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
     {
       "id": "4af1e7c83e2583e29b25498b4c63e12116ed6c3a",
       "source": "TASS (RU)",
@@ -460,7 +1396,7 @@
       "url": "https://tass.ru/mezhdunarodnaya-panorama/27883703",
       "published_utc": "2026-07-03T17:02:48Z",
       "title_en": "Dodon: The Russian House in Chisinau will reopen after the change of power in Moldova",
-      "lead_en": "On July 3, an information sign and a Russian flag were dismantled from the center building.",
+      "lead_en": "On July 3, an information sign and a Russian flag were dismantled from the center building",
       "title_raw": "Додон: Русский дом в Кишиневе вновь откроется после смены власти в Молдавии",
       "lead_raw": "Со здания центра 3 июля демонтировали информационную табличку и российский флаг",
       "topic_scores": {
@@ -914,7 +1850,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/obschestvo/27883559",
       "published_utc": "2026-07-03T15:51:36Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Mironov proposed giving military volunteers a special status",
       "lead_en": "The Ministry of Defense should supervise their work, noted the chairman of the A Just Russia party.",
       "title_raw": "Миронов предложил наделить военных волонтеров особым статусом",
       "lead_raw": "Курировать их работу должно Минобороны, отметил председатель партии \"Справедливая Россия\"",
@@ -935,7 +1871,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/sport/27883557",
       "published_utc": "2026-07-03T15:48:47Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Russian skaters were allocated 4 licenses for the junior stage of the Grand Prix in China",
       "lead_en": "The Russians will perform in a neutral status in each type of program",
       "title_raw": "Российским фигуристам выделили 4 лицензии на юниорский этап Гран-при в Китае",
       "lead_raw": "Россияне выступят в нейтральном статусе в каждом виде программы",
@@ -954,8 +1890,8 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/ekonomika/27883489",
       "published_utc": "2026-07-03T15:41:25Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "A model of the Russian reusable Korona rocket will be shown at Innoprom",
+      "lead_en": "The exhibition will take place from July 6 to July 9 in Yekaterinburg",
       "title_raw": "На \"Иннопроме\" покажут макет российской многоразовой ракеты \"Корона\"",
       "lead_raw": "Выставка пройдет с 6 по 9 июля в Екатеринбурге",
       "topic_scores": {
@@ -975,7 +1911,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/obschestvo/27883503",
       "published_utc": "2026-07-03T15:31:32Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Deputy Mishin: The Kaliningrad region is supported at the highest level",
       "lead_en": "Russian President Vladimir Putin supported the request for priority supply of additional volumes of fuel, as well as a request for support for a program of subsidized air tickets for residents of the region",
       "title_raw": "Депутат Мишин: Калининградскую область поддерживают на самом высоком уровне",
       "lead_raw": "Президент РФ Владимир Путин поддержал обращение о приоритетной поставке дополнительных объемов топлива, а также просьбу о поддержке программы субсидированных авиабилетов для жителей региона",
@@ -1036,7 +1972,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/obschestvo/27883485",
       "published_utc": "2026-07-03T15:19:04Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Customs notes peak loads on the Russian-Estonian border",
       "lead_en": "The average waiting time when crossing the Narva-1 checkpoint exceeds five to seven hours",
       "title_raw": "Таможня отмечает пиковые нагрузки на границе России с Эстонией",
       "lead_raw": "Среднее время ожидания при пересечении пункта пропуска Нарва-1 превышает пять-семь часов",
@@ -1055,7 +1991,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/sport/27883439",
       "published_utc": "2026-07-03T15:10:39Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "England striker Kane called for knighting at home",
       "lead_en": "Following the results of the world championship held in Russia in 2018, Kane became a Commander of the Order of the British Empire",
       "title_raw": "Нападающего сборной Англии Кейна на родине призвали посвятить в рыцари",
       "lead_raw": "По итогам прошедшего в России в 2018 году мирового первенства Кейн стал кавалером ордена Британской империи",
@@ -1096,7 +2032,7 @@
       "url": "https://tass.ru/obschestvo/27883443",
       "published_utc": "2026-07-03T15:02:25Z",
       "title_en": "Trains will be launched from Moscow and St. Petersburg on new routes to the south of the Russian Federation",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "Ticket sales for destinations will open 30 days in advance",
       "title_raw": "Из Москвы и Санкт-Петербурга запустят поезда по новым маршрутам на юг РФ",
       "lead_raw": "Продажа билетов на направления будет открываться за 30 дней",
       "topic_scores": {
@@ -1114,7 +2050,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/politika/27883451",
       "published_utc": "2026-07-03T15:01:05Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Russian Foreign Ministry: there is no reason to believe that Kyiv will fulfill its obligations regarding Transcarpathian Hungarians",
       "lead_en": "The Ukrainian side in practice has not fulfilled any of its obligations to respect the rights and freedoms of national minorities, noted Russian Deputy Foreign Minister Dmitry Lyubinsky",
       "title_raw": "МИД РФ: нет оснований полагать, что Киев выполнит обязательства по закарпатским венграм",
       "lead_raw": "Украинская сторона на практике не выполнила ни одного из принятых на себя обязательств к соблюдению прав и свобод нацменьшинств, отметил замминистра иностранных дел России Дмитрий Любинский",
@@ -1154,8 +2090,8 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/sport/27883433",
       "published_utc": "2026-07-03T14:54:12Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Gymnast Kalmykova became Russian champion in all-around",
+      "lead_en": "Lyudmila Roshchina took second place, Alena Glotova took third place.",
       "title_raw": "Гимнастка Калмыкова стала чемпионкой России в многоборье",
       "lead_raw": "Второе место заняла Людмила Рощина, третье - Алена Глотова",
       "topic_scores": {
@@ -1194,7 +2130,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/sport/27883421",
       "published_utc": "2026-07-03T14:43:39Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Tennis player Alexandrova failed to reach the fourth round of Wimbledon",
       "lead_en": "The Russian lost in the third round to an 18-year-old American",
       "title_raw": "Теннисистка Александрова не смогла выйти в четвертый круг Уимблдона",
       "lead_raw": "Россиянка проиграла в третьем круге 18-летней американке",
@@ -1213,8 +2149,8 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/kultura/27883405",
       "published_utc": "2026-07-03T14:39:49Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Olga Lyubimova awarded Igor Shuvalov \"For his contribution to Russian culture\"",
+      "lead_en": "The Minister of Culture noted that the department highly values ​​cooperation with VEB.RF",
       "title_raw": "Ольга Любимова наградила Игоря Шувалова \"За вклад в российскую культуру\"",
       "lead_raw": "Министр культуры отметила, что ведомство высоко ценит сотрудничество с \"ВЭБ.РФ",
       "topic_scores": {
@@ -1293,8 +2229,8 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/obschestvo/27883371",
       "published_utc": "2026-07-03T14:32:07Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "In Russia, six foreign organizations were included in the list of undesirable",
+      "lead_en": "We are talking about the Newsader Foundation, Baltic Center for Media Excellence, Stichting Global Rights Compliance Foundation, Association of Mutual Assistance and Solidarity of Chechen Caucasian Muhajirs, Media Support Service and American Coalition for Ukraine",
       "title_raw": "В России шесть иностранных организаций включили в список нежелательных",
       "lead_raw": "Речь идет о Newsader Foundation, Baltic Centre for Media Excellence, Stichting Global Rights Compliance Foundation, \"Ассоциаци взаимопомощи и солидарности чеченских кавказских мухаджиров\", \"Медиаслужбе поддержки\" и American Coalition for Ukraine",
       "topic_scores": {
@@ -1354,8 +2290,8 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/ekonomika/27883349",
       "published_utc": "2026-07-03T14:20:51Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Vice President of T-Bank: there is competition in the Russian banking market",
+      "lead_en": "Sergey Khromov noted that most new technologies are developed by banks included in the top 5",
       "title_raw": "Вице-президент Т-Банка: конкуренция на российском банковском рынке есть",
       "lead_raw": "Сергей Хромов отметил, что большинство новых технологий разрабатывают банки, входящих в топ-5",
       "topic_scores": {
@@ -1417,7 +2353,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/obschestvo/27883325",
       "published_utc": "2026-07-03T14:17:44Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Tsivilev and Borisenko took part in the farewell ceremony for Khamenei",
       "lead_en": "The Russian delegation is headed by Deputy Chairman of the Security Council Dmitry Medvedev",
       "title_raw": "Цивилев и Борисенко приняли участие в церемонии прощания с Хаменеи",
       "lead_raw": "Делегацию РФ возглавляет зампред Совбеза Дмитрий Медведев",
@@ -1438,7 +2374,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/ekonomika/27883321",
       "published_utc": "2026-07-03T14:16:11Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Vice President of T-Bank: about 700 thousand Russians used the multibanking system",
       "lead_en": "Sergey Khromov noted that such results became possible due to the fact that the bank’s technological architecture was initially created for the digital ecosystem",
       "title_raw": "Вице-президент Т-Банка: около 700 тыс. россиян воспользовались системой мультибанкинга",
       "lead_raw": "Сергей Хромов отметил, что подобные результаты стали возможны благодаря тому, что технологическая архитектура банка изначально создавалась под цифровую экосистему",
@@ -1458,7 +2394,7 @@
       "url": "https://tass.ru/sport/27883329",
       "published_utc": "2026-07-03T14:16:01Z",
       "title_en": "FIDE suspended 14th world champion Vladimir Kramnik from competition for a year",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "The Russian grandmaster was punished for violating the code of ethics due to his accusations of cheating against David Navara and Daniel Naroditsky",
       "title_raw": "FIDE отстранила 14-го чемпиона мира Владимира Крамника от соревнований на год",
       "lead_raw": "Российский гроссмейстер наказан за нарушение кодекса этики из-за его обвинений в читерстве в адрес Давида Навары и Даниэла Народицкого",
       "topic_scores": {
@@ -1495,7 +2431,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/politika/27883243",
       "published_utc": "2026-07-03T14:05:16Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Korolev was nominated as a candidate for governor of the Tver region from United Russia",
       "lead_en": "The acting head of the region thanked the party and residents for their support",
       "title_raw": "Королева выдвинули кандидатом в губернаторы Тверской области от \"Единой России\"",
       "lead_raw": "Врио главы региона поблагодарил партию и жителей за поддержку",
@@ -1514,7 +2450,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/mezhdunarodnaya-panorama/27883271",
       "published_utc": "2026-07-03T13:56:59Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "The UN called for an end to the torture of Russian prisoners of war in Ukraine",
       "lead_en": "About half of the fighters captured by Ukraine who were interviewed by department officials reported ill-treatment, noted UN High Commissioner for Human Rights Volker Türk",
       "title_raw": "В ООН призвали положить конец пыткам российских военнопленных на Украине",
       "lead_raw": "Около половины бойцов, захваченных Украиной, с которыми беседовали сотрудники управления, сообщали о жестоком обращении, отметил верховный комиссар ООН по правам человека Фолькер Тюрк",
@@ -1554,8 +2490,8 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/mezhdunarodnaya-panorama/27883255",
       "published_utc": "2026-07-03T13:53:19Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Reuters: NATO leaders in Ankara will declare Russia a “long-term threat” to the bloc",
+      "lead_en": "The agency also writes that all participants in the meeting, including the United States, intend to declare their “iron commitment” to the alliance",
       "title_raw": "Reuters: лидеры стран НАТО в Анкаре объявят Россию \"долгосрочной угрозой\" блоку",
       "lead_raw": "Агентство также пишет, что все участники встречи, включая США, намерены заявить о своей \"железной приверженности\" альянсу",
       "topic_scores": {
@@ -1575,7 +2511,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/sport/27883245",
       "published_utc": "2026-07-03T13:52:58Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Kalivod called Safiullin's entry into the fourth round of Wimbledon a feat",
       "lead_en": "The Russian played three five-set matches before meeting Fonseca, and six months ago doubted his return to the court after injury",
       "title_raw": "Каливод назвал подвигом выход Сафиуллина в четвертый круг Уимблдона",
       "lead_raw": "Россиянин до встречи с Фонсекой провел три пятисетовых матча, а полгода назад сомневался в возвращении на корт после травмы",
@@ -1639,7 +2575,7 @@
       "url": "https://tass.ru/ekonomika/27883195",
       "published_utc": "2026-07-03T13:38:11Z",
       "title_en": "The Central Bank dispelled the myth about the benefits of a weaker ruble for the budget",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "At the moment, a given amount of oil and gas budget revenues will generate more rubles with a weaker exchange rate, noted Deputy Chairman of the Bank of Russia Alexey Zabotkin",
       "title_raw": "В ЦБ развеяли миф о выгодности более слабого рубля для бюджета",
       "lead_raw": "В моменте заданное количество нефтегазовых доходов бюджета сгенерирует больше рублей при более слабом курсе, отметил зампред Банка России Алексей Заботкин",
       "topic_scores": {
@@ -1700,7 +2636,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/obschestvo/27882411",
       "published_utc": "2026-07-03T13:30:00Z",
-      "title_en": "С 1 июля в России изменилось миграционное законодательство. This is true?",
+      "title_en": "On July 1, migration legislation in Russia changed. This is true?",
       "lead_en": "",
       "title_raw": "С 1 июля в России изменилось миграционное законодательство. Это правда?",
       "lead_raw": "",
@@ -1738,7 +2674,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/ekonomika/27883145",
       "published_utc": "2026-07-03T13:24:19Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "The Central Bank ruled out freezing the deposits of Russians",
       "lead_en": "Deputy Chairman of the regulator Alexey Zabotkin said that the most absurd theories die the hardest",
       "title_raw": "В ЦБ исключили заморозку вкладов россиян",
       "lead_raw": "Зампред регулятора Алексей Заботкин заявил, что наиболее абсурдные теории умирают сложнее всего",
@@ -4243,7 +5179,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/ekonomika/27881123",
       "published_utc": "2026-07-03T04:53:10Z",
-      "title_en": "The B-200 helicopter-type UAS is planned to be supplied to the Far Eastern Federal District, Siberia and the Arctic",
+      "title_en": "The V-200 helicopter-type UAS is planned to be supplied to the Far Eastern Federal District, Siberia and the Arctic",
       "lead_en": "The device will make it possible to regularly deliver small cargo to Russian regions with complex logistics, noted Valery Pashchenko, Deputy General Director for Business Development of Aeromax Group of Companies.",
       "title_raw": "БАС вертолетного типа В-200 планируют поставлять в ДФО, Сибирь и Арктику",
       "lead_raw": "Аппарат позволит регулярно доставлять небольшие грузы в регионы России со сложной логистикой, отметил заместитель генерального директора по развитию бизнеса ГК \"Аэромакс\" Валерий Пащенко",
@@ -10277,7 +11213,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/obschestvo/27877265",
       "published_utc": "2026-07-02T02:13:13Z",
-      "title_en": "Russians warned about the danger of sea wasp \"bites\"",
+      "title_en": "Russians warned about the danger of sea wasp “bites”",
       "lead_en": "The venom of box jellyfish and physalia can provoke anaphylactic shock or lead to cardiac arrest, said Yulia Ermolaeva, an employee of the Institute of Medicine and Medical Technologies of Novosibirsk State University.",
       "title_raw": "Россиян предупредили об опасности \"укусов\" морских ос",
       "lead_raw": "Яд кубомедуз и физалий способен спровоцировать анафилактический шок либо привести к остановке сердца, сообщила сотрудник Института медицины и медицинских технологий Новосибирского госуниверситета Юлия Ермолаева",
@@ -10974,289 +11910,6 @@
       "lead_en": "This is due to the launch of direct flights between countries on July 2, the Association of Tour Operators of Russia reported.",
       "title_raw": "АТОР: турпоток из России в Танзанию вырастет минимум на 30%",
       "lead_raw": "Это связано с запуском с 2 июля прямых рейсов между странами, сообщили в Ассоциации туроператоров России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "70309cf18c827831b4c9c506c2719cd4461d765d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27876969",
-      "published_utc": "2026-07-01T21:04:14Z",
-      "title_en": "Lieutenant Dodzhiev ensured the capture of a Ukrainian Armed Forces stronghold",
-      "lead_en": "A Russian serviceman secretly led attack aircraft to the flank",
-      "title_raw": "Лейтенант Доджиев обеспечил захват опорного пункта ВСУ",
-      "lead_raw": "Российский военнослужащий скрытно провел штурмовиков во фланг",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "f175f20b585ede6e0545b5c4822969a68f51224b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27876967",
-      "published_utc": "2026-07-01T21:03:26Z",
-      "title_en": "The Russian Armed Forces hit logistics centers used in the interests of the Armed Forces of Ukraine",
-      "lead_en": "The enemy used the facilities to deliver and store UAVs",
-      "title_raw": "ВС РФ поразили логистические центры, используемые в интересах ВСУ",
-      "lead_raw": "Противник использовал объекты для доставки и хранения БПЛА",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "42fcead38f7c04427a6e76e196e614460e81c396",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27876949",
-      "published_utc": "2026-07-01T21:01:00Z",
-      "title_en": "The Cabinet of Ministers will discuss the legal status of foreigners in Russia",
-      "lead_en": "The ministers will also consider changes to articles of the Tax Code of the Russian Federation",
-      "title_raw": "Кабмин обсудит правовое положение иностранцев в России",
-      "lead_raw": "Министры также рассмотрят изменения в статьи Налогового кодекса РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "213dc55c202fae2fdfa4cabfb27c1c35b1d4ab99",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27874021",
-      "published_utc": "2026-07-01T21:00:00Z",
-      "title_en": "Military operation in Ukraine. Online",
-      "lead_en": "In 12 hours, 133 Ukrainian UAVs were shot down over the regions of the Russian Federation and the Sea of ​​Azov",
-      "title_raw": "Военная операция на Украине. Онлайн",
-      "lead_raw": "За 12 часов над регионами РФ и Азовским морем сбили 133 украинских БПЛА",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "8bdff883f3f24975710226824da3d15524e23760",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2154185",
-      "published_utc": "2026-07-01T20:47:11Z",
-      "title_en": "West effectively at war with Russia now — Slovak PM",
-      "lead_en": "Robert Fico called for peace, which, in his view, can only be achieved through dialogue and negotiations",
-      "title_raw": "West effectively at war with Russia now — Slovak PM",
-      "lead_raw": "Robert Fico called for peace, which, in his view, can only be achieved through dialogue and negotiations",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "497fa765deafa12a60cf46d2783396eb7229b1dc",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27876931",
-      "published_utc": "2026-07-01T20:43:43Z",
-      "title_en": "I fought back seven match points, but couldn’t save myself. Mirra Andreeva left Wimbledon",
-      "lead_en": "The Russian tennis player lost to Barbora Krejcikova from the Czech Republic",
-      "title_raw": "Отыграла семь матчболов, но не спаслась. Мирра Андреева покинула Уимблдон",
-      "lead_raw": "Российская теннисистка уступила Барборе Крейчиковой из Чехии",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "6d81ff60dbafe80607554c31faf097c66e0151bd",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27876899",
-      "published_utc": "2026-07-01T20:11:27Z",
-      "title_en": "Fico: The West is practically at war with Russia",
-      "lead_en": "The Prime Minister of Slovakia called for peace, which, in his opinion, can only be achieved through dialogue and at the negotiating table",
-      "title_raw": "Фицо: Запад практически находится в состоянии войны с Россией",
-      "lead_raw": "Премьер-министр Словакии призвал к миру, который, по его мнению, удастся установить только путем диалога и за столом переговоров",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "db2b4b83eaed0570d7a1b462b2ae37c0f9562c65",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27876883",
-      "published_utc": "2026-07-01T20:08:43Z",
-      "title_en": "Russia and Madagascar discussed preparations for the Russia-Africa summit",
-      "lead_en": "The parties confirmed their commitment to increasing constructive interaction in the international arena and deepening bilateral ties in the trade, economic, investment and humanitarian fields",
-      "title_raw": "РФ и Мадагаскар обсудили подготовку к саммиту Россия - Африка",
-      "lead_raw": "Стороны подтвердили настрой на наращивание конструктивного взаимодействия на международной арене и углубление двусторонних связей в торгово-экономической, инвестиционной и гуманитарной областях",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "6fa78a6e1e38e509d537f55172d78de028b7c124",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2154171",
-      "published_utc": "2026-07-01T19:50:27Z",
-      "title_en": "Russia calls for practical steps to ensure non-use of force between Transcaucasia nations",
-      "lead_en": "Such an approach would make a significant contribution to strengthening stability in the region, the Russian Foreign Ministry said in a statement",
-      "title_raw": "Russia calls for practical steps to ensure non-use of force between Transcaucasia nations",
-      "lead_raw": "Such an approach would make a significant contribution to strengthening stability in the region, the Russian Foreign Ministry said in a statement",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "ea8106c9f841cdfe97b2aed2c53465f9e6ed2050",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27876879",
-      "published_utc": "2026-07-01T19:49:48Z",
-      "title_en": "Chesnokov believes that Andreeva showed character in the match against Krejcikova",
-      "lead_en": "The Russian tennis player lost with a score of 6:4, 5:7, 4:6",
-      "title_raw": "Чесноков считает, что Андреева проявила характер в матче против Крейчиковой",
-      "lead_raw": "Российская теннисистка проиграла со счетом 6:4, 5:7, 4:6",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "2f5ecbfd3ce927e3798f5fd7815281246fa65cce",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2154169",
-      "published_utc": "2026-07-01T19:48:58Z",
-      "title_en": "IN BRIEF: US’ stance on Ukraine, Kiev's plans to fan conflict: Foreign Ministry comment",
-      "lead_en": "Russian Foreign Ministry Spokeswoman Maria Zakharova highlighted that Kiev does not seek peace",
-      "title_raw": "IN BRIEF: US’ stance on Ukraine, Kiev's plans to fan conflict: Foreign Ministry comment",
-      "lead_raw": "Russian Foreign Ministry Spokeswoman Maria Zakharova highlighted that Kiev does not seek peace",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "dcbaad4227d71953214f04b69bfaf981dd2bfe77",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27876869",
-      "published_utc": "2026-07-01T19:43:22Z",
-      "title_en": "Russian goalkeeper Tarasov signed a contract with Detroit",
-      "lead_en": "The agreement is valid for one year",
-      "title_raw": "Российский вратарь Тарасов подписал контракт с \"Детройтом\"",
-      "lead_raw": "Соглашение рассчитано на один год",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "00c69db959bbeee2423efc5a78db10428684fb6f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27876865",
-      "published_utc": "2026-07-01T19:41:06Z",
-      "title_en": "The European Parliament criticized the head of FIFA for allowing Russians to participate in the junior tournament",
-      "lead_en": "Previously, FIFA allowed the Russian national team (players under 15 years old) to play at a tournament in Azerbaijan in October",
-      "title_raw": "Европарламент раскритиковал главу ФИФА за допуск россиян на юниорский турнир",
-      "lead_raw": "Ранее ФИФА разрешила сборной России (игроки до 15 лет) сыграть на турнире в Азербайджане в октябре",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "889c89c659da9d7a6d3c2c9ae679b85ca2bac39f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27876847",
-      "published_utc": "2026-07-01T19:31:34Z",
-      "title_en": "TASS: the Russian Consulate General did not receive any appeals after the detention of roofers in New York",
-      "lead_en": "The source said there has been no notification yet",
-      "title_raw": "ТАСС: генконсульство РФ не получало обращений после задержания руферов в Нью-Йорке",
-      "lead_raw": "Источник сообщил, что извещения пока не было",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
