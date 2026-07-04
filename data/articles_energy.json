@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-07-03T23:03:29Z",
+  "updated_at_utc": "2026-07-04T02:53:19Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 56,
   "articles": [
+    {
+      "id": "02927afcdcc2eb322e08ec572015cdd66c84a1cf",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2155425",
+      "published_utc": "2026-07-03T23:05:01Z",
+      "title_en": "Russian strikes reduce Ukraine's ability to make missiles — chief of general staff",
+      "lead_en": "Valery Gerasimov emphasized that the Kiev regime's critical dependence on supplies of components, explosives and fuel from Western countries continues to grow",
+      "title_raw": "Russian strikes reduce Ukraine's ability to make missiles — chief of general staff",
+      "lead_raw": "Valery Gerasimov emphasized that the Kiev regime's critical dependence on supplies of components, explosives and fuel from Western countries continues to grow",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "76b37563a511914f2e11706fb00634d051a7825e",
       "source": "TASS (RU)",
@@ -1179,28 +1201,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "34e4b328c92b9c97b07cca5c36db2424c58f15d3",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2154201",
-      "published_utc": "2026-07-01T23:11:40Z",
-      "title_en": "Von der Leyen \"excellent liar\" saying Russia cut off gas supplies to Europe — Zakharova",
-      "lead_en": "The Foreign Ministry spokeswoman added that any EU citizen can sue the European Commission president for this statement and win the case",
-      "title_raw": "Von der Leyen \"excellent liar\" saying Russia cut off gas supplies to Europe — Zakharova",
-      "lead_raw": "The Foreign Ministry spokeswoman added that any EU citizen can sue the European Commission president for this statement and win the case",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
