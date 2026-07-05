@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-07-05T04:56:12Z",
+  "updated_at_utc": "2026-07-05T07:57:36Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 14,
+  "count": 11,
   "articles": [
+    {
+      "id": "20523e12cb8c923ea925b89e723937105f7005b4",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27886799",
+      "published_utc": "2026-07-05T05:33:02Z",
+      "title_en": "Unmanned danger was declared in the Rostov region",
+      "lead_en": "The Russian Ministry of Emergency Situations warned about this",
+      "title_raw": "В Ростовской области объявляли беспилотную опасность",
+      "lead_raw": "Об этом предупредили в МЧС России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "3dce025c6576affdf3e3b03ab6e7479e793e5212",
       "source": "TASS (RU)",
@@ -207,90 +226,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "090575c8886addc554607d5ef50d29ebe01aa586",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2154851",
-      "published_utc": "2026-07-03T07:31:05Z",
-      "title_en": "Missile strike on Belgorod, fire near Smolensk, 155 UAVs target Russia: new attack",
-      "lead_en": "A woman was killed and another was injured after a Ukrainian munition struck the city of Belgorod",
-      "title_raw": "Missile strike on Belgorod, fire near Smolensk, 155 UAVs target Russia: new attack",
-      "lead_raw": "A woman was killed and another was injured after a Ukrainian munition struck the city of Belgorod",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "3a7e2477118b0c5bc048d4621482816395a03958",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/03/death-toll-from-russian-strike-on-kyiv-rises-to-30",
-      "published_utc": "2026-07-03T07:24:49Z",
-      "title_en": "Death toll from Russian strike on Kyiv rises to 30",
-      "lead_en": "Rescuers in Kyiv pulled three more bodies from the rubble of a residential building destroyed in a Russian strike on July 2, the State Emergency Service of Ukraine reported, bringing the death toll to 30.",
-      "title_raw": "Death toll from Russian strike on Kyiv rises to 30",
-      "lead_raw": "Rescuers in Kyiv pulled three more bodies from the rubble of a residential building destroyed in a Russian strike on July 2, the State Emergency Service of Ukraine reported, bringing the death toll to 30.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "aec051eca24d8cbae4b93fcf31e6d0a356a37f96",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/03/ukrainian-missiles-strike-belgorod-killing-one-woman-and-causing-power-and-water-outages",
-      "published_utc": "2026-07-03T07:06:35Z",
-      "title_en": "Ukraine launches missile strike on Belgorod, killing one woman and causing power and water outages",
-      "lead_en": "Ukrainian launched a missile strike on Russia’s Belgorod and the surrounding district on the morning of July 3, the regional emergency operations center reported.",
-      "title_raw": "Ukraine launches missile strike on Belgorod, killing one woman and causing power and water outages",
-      "lead_raw": "Ukrainian launched a missile strike on Russia’s Belgorod and the surrounding district on the morning of July 3, the regional emergency operations center reported.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "657e495e2acc90e0edadab3a04d00fa7ab00b197",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27881391",
-      "published_utc": "2026-07-03T06:27:18Z",
-      "title_en": "In Adygea, the unmanned threat was canceled",
-      "lead_en": "This was reported in the application of the Ministry of Emergency Situations of the Russian Federation",
-      "title_raw": "В Адыгее отменили беспилотную опасность",
-      "lead_raw": "Об этом сообщили в приложении МЧС РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
