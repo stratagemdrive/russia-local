@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-07-05T07:57:36Z",
+  "updated_at_utc": "2026-07-05T10:22:39Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 11,
+  "count": 9,
   "articles": [
+    {
+      "id": "18c5109d48be4bb1064a1a8e1d88df44d2c0fbd5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27887113",
+      "published_utc": "2026-07-05T09:39:12Z",
+      "title_en": "Missile danger declared in Mordovia",
+      "lead_en": "This was reported to the Russian Ministry of Emergency Situations",
+      "title_raw": "В Мордовии объявили ракетную опасность",
+      "lead_raw": "Об этом сообщили в МЧС России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "20523e12cb8c923ea925b89e723937105f7005b4",
       "source": "TASS (RU)",
@@ -157,69 +178,6 @@
         "military": 0,
         "energy": 0,
         "economy": 1,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "7e1c5628e5d5be33c73a128e159e05b51c94e9e8",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2154979",
-      "published_utc": "2026-07-03T10:20:35Z",
-      "title_en": "Russia sends humanitarian aid to Venezuela following earthquake — Foreign Ministry",
-      "lead_en": "The humanitarian cargo includes tents for the temporary accommodation of displaced people, food, medicines needed under the current circumstances",
-      "title_raw": "Russia sends humanitarian aid to Venezuela following earthquake — Foreign Ministry",
-      "lead_raw": "The humanitarian cargo includes tents for the temporary accommodation of displaced people, food, medicines needed under the current circumstances",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "2c86e82949204d119c8935cf9a6efcd90e12108a",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/07/03/how-the-trump-putin-summit-in-alaska-spawned-the-kremlin-s-myth-of-the-spirit-of-anchorage-and-why-it-collapsed",
-      "published_utc": "2026-07-03T10:08:40Z",
-      "title_en": "How the Trump-Putin summit in Alaska spawned the Kremlin’s myth of the ‘spirit of Anchorage’ — and why it collapsed",
-      "lead_en": "Putin’s meeting with Trump in August 2025 gave rise to a new term in the arsenal of Russian diplomacy and propaganda: the “spirit of Anchorage.” The claim was that during the Russian president’s visit to Alaska, Russia and the United States had reached certain agreements on peace in Ukraine — agreements that were directly shaping events on the front and in diplomacy. For a full year, Russian politicians and pro-Kremlin journalists insisted that following the “spirit of Anchorage” was the key to breaking the deadlock in peace talks.",
-      "title_raw": "How the Trump-Putin summit in Alaska spawned the Kremlin’s myth of the ‘spirit of Anchorage’ — and why it collapsed",
-      "lead_raw": "Putin’s meeting with Trump in August 2025 gave rise to a new term in the arsenal of Russian diplomacy and propaganda: the “spirit of Anchorage.” The claim was that during the Russian president’s visit to Alaska, Russia and the United States had reached certain agreements on peace in Ukraine — agreements that were directly shaping events on the front and in diplomacy. For a full year, Russian politicians and pro-Kremlin journalists insisted that following the “spirit of Anchorage” was the key to breaking the deadlock in peace talks.",
-      "topic_scores": {
-        "diplomacy": 5,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "945829ff5bd438c46616bf24c78d62a04f43309a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27882287",
-      "published_utc": "2026-07-03T09:39:53Z",
-      "title_en": "The Russian Foreign Ministry announced the dispatch of humanitarian aid to Venezuela after the earthquake",
-      "lead_en": "",
-      "title_raw": "МИД РФ сообщил об отправке гуманитарного груза в Венесуэлу после землетрясения",
-      "lead_raw": "",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
         "local_events": 1
       },
       "topics": [

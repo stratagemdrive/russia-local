@@ -1,9 +1,75 @@
 {
-  "updated_at_utc": "2026-07-05T07:57:36Z",
+  "updated_at_utc": "2026-07-05T10:22:39Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 32,
+  "count": 25,
   "articles": [
+    {
+      "id": "0680dc289653141b6be27905dc9547c3f3e92d00",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27887225",
+      "published_utc": "2026-07-05T10:16:27Z",
+      "title_en": "Seven OPEC+ countries have started a meeting to discuss oil production plans in August",
+      "lead_en": "The meeting is attended by Russia, Saudi Arabia, Iraq, Kazakhstan, Algeria, Oman and Kuwait",
+      "title_raw": "Семь стран ОПЕК+ начали встречу, на которой обсудят план по добыче нефти в августе",
+      "lead_raw": "Во встрече участвуют Россия, Саудовская Аравия, Ирак, Казахстан, Алжир, Оман и Кувейт",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "3c37ddcdc243484a5c59e51c7c14e11118ae7828",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27887169",
+      "published_utc": "2026-07-05T10:00:10Z",
+      "title_en": "The Russian Armed Forces hit Ukrainian military airfields",
+      "lead_en": "Russian troops also attacked enemy fuel, energy and transport infrastructure facilities",
+      "title_raw": "ВС РФ поразили военные аэродромы Украины",
+      "lead_raw": "Также российские войска нанесли удары по объектам топливно-энергетической и транспортной инфраструктуры противника",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "dbf2ca3a2b84c76fd8ed4c59f9b822727e6ea6db",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2155835",
+      "published_utc": "2026-07-05T09:08:27Z",
+      "title_en": "Russian forces destroy Ukrainian military’s gas distribution station in Chernigov Region",
+      "lead_en": "The attack on the Gazoprovodnoye facility was carried out by a Geran-2 Seeker",
+      "title_raw": "Russian forces destroy Ukrainian military’s gas distribution station in Chernigov Region",
+      "lead_raw": "The attack on the Gazoprovodnoye facility was carried out by a Geran-2 Seeker",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "b002782232afdb04fc9c1929932f60148928d4df",
       "source": "TASS (RU)",
@@ -476,221 +542,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "eabb1a8ea3389f657c2ce353483e27734a8dbc74",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2154977",
-      "published_utc": "2026-07-03T10:17:41Z",
-      "title_en": "Bank of Russia does not expect negative GDP figures for Q2 due to fuel situation",
-      "lead_en": "An updated medium-term macroeconomic forecast will be released at the meeting of the regulator’s Board of Directors on July 24",
-      "title_raw": "Bank of Russia does not expect negative GDP figures for Q2 due to fuel situation",
-      "lead_raw": "An updated medium-term macroeconomic forecast will be released at the meeting of the regulator’s Board of Directors on July 24",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "342a73ef34c1ea960548d850336a1f254883b3e3",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2154965",
-      "published_utc": "2026-07-03T10:08:33Z",
-      "title_en": "EAEU-Mongolia trade agreement to boost economic ties with Russia, Foreign Ministry says",
-      "lead_en": "Russian Deputy Foreign Minister Andrey Rudenko emphasized the need to expand and develop cooperation in road transport, energy, and petroleum products",
-      "title_raw": "EAEU-Mongolia trade agreement to boost economic ties with Russia, Foreign Ministry says",
-      "lead_raw": "Russian Deputy Foreign Minister Andrey Rudenko emphasized the need to expand and develop cooperation in road transport, energy, and petroleum products",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "07509fea8c3046cc73c5426de3d927c042ebd4d5",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2154887",
-      "published_utc": "2026-07-03T09:20:11Z",
-      "title_en": "Russia’s H1 LNG supplies to Europe jump 17% y-o-y to 13.4 bcm",
-      "lead_en": "In the first half of the year, EU imports of Russian LNG totaled approximately 13.4 bcm, up from 11.4 bcm a year earlier",
-      "title_raw": "Russia’s H1 LNG supplies to Europe jump 17% y-o-y to 13.4 bcm",
-      "lead_raw": "In the first half of the year, EU imports of Russian LNG totaled approximately 13.4 bcm, up from 11.4 bcm a year earlier",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "23a7fd4e56ecd52168ff8a92a76771057778fb49",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27882109",
-      "published_utc": "2026-07-03T09:17:24Z",
-      "title_en": "Expert Sapir allowed a revision of restrictions against the Russian Federation in the EU due to gas prices",
-      "lead_en": "According to a French economist, the reason for high prices on European exchanges is not due to logistics problems, but to production",
-      "title_raw": "Эксперт Сапир допустил пересмотр ограничений против РФ в ЕС из-за цен на газ",
-      "lead_raw": "По словам французского экономиста, причина высоких цен на европейских биржах связана не с логистическими проблемами, а с производственными",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e629512c88be6b59b2d95d56d7256481ec46c6c8",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27882045",
-      "published_utc": "2026-07-03T09:04:58Z",
-      "title_en": "NYT: Witkoff and Kushner are ready to visit Russia or Ukraine if necessary",
-      "lead_en": "According to the newspaper, the special envoy of US President Donald Trump and the son-in-law of the American leader maintain contact with representatives of the Russian Federation almost daily",
-      "title_raw": "NYT: Уиткофф и Кушнер при необходимости готовы посетить Россию или Украину",
-      "lead_raw": "По данным газеты, спецпосланник президента США Дональда Трампа и зять американского лидера почти ежедневно поддерживают связь с представителями РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "bd40b0eaa76fb3dec1e906a78dc33d6ccb5854b2",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27882073",
-      "published_utc": "2026-07-03T09:04:27Z",
-      "title_en": "Russian oil workers received 210.6 billion rubles in fuel damper in June",
-      "lead_en": "In May, oil companies received 204.3 billion rubles",
-      "title_raw": "Российские нефтяники в июне получили 210,6 млрд рублей по топливному демпферу",
-      "lead_raw": "В мае нефтяные компании получили 204,3 млрд рублей",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "5edacb6eb363ce2ffcf191c6864cee4f78e092e6",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/03/all-gas-stations-in-russia-s-novorossiysk-run-out-of-gasoline",
-      "published_utc": "2026-07-03T08:37:44Z",
-      "title_en": "All gas stations in Russia’s Novorossiysk run out of gasoline",
-      "lead_en": "Gas stations in Novorossiysk ran out of fuel entirely on July 3. The city’s Municipal Management Center (MMC) announced that “at this time, gasoline is unavailable at filling stations.”",
-      "title_raw": "All gas stations in Russia’s Novorossiysk run out of gasoline",
-      "lead_raw": "Gas stations in Novorossiysk ran out of fuel entirely on July 3. The city’s Municipal Management Center (MMC) announced that “at this time, gasoline is unavailable at filling stations.”",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "c413d53c73705daf35143dfcfe2b8be58975d7ab",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2154881",
-      "published_utc": "2026-07-03T08:36:58Z",
-      "title_en": "Russia ranks as EU's third-largest gas supplier in first half of year, trailing Norway, US",
-      "lead_en": "According to calculations, total Russian gas supplies to the EU in January-June amounted to approximately 22.1 billion cubic meters",
-      "title_raw": "Russia ranks as EU's third-largest gas supplier in first half of year, trailing Norway, US",
-      "lead_raw": "According to calculations, total Russian gas supplies to the EU in January-June amounted to approximately 22.1 billion cubic meters",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "04a81ab3269b9c369a96d7ab2b9aa1ec023b9dff",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/03/russia-s-harvest-falls-one-to-two-weeks-behind-schedule-due-to-weather-and-fuel-shortages",
-      "published_utc": "2026-07-03T08:21:17Z",
-      "title_en": "Russia’s harvest falls one to two weeks behind schedule due to weather and fuel shortages",
-      "lead_en": "Russia’s 2026 harvest is running one to two weeks behind last year’s pace, the Russian business daily Kommersant reported, citing Dmitry Rylko, director general of the Institute for Agricultural Market Studies, and the analytical center of Rusagrotrans.",
-      "title_raw": "Russia’s harvest falls one to two weeks behind schedule due to weather and fuel shortages",
-      "lead_raw": "Russia’s 2026 harvest is running one to two weeks behind last year’s pace, the Russian business daily Kommersant reported, citing Dmitry Rylko, director general of the Institute for Agricultural Market Studies, and the analytical center of Rusagrotrans.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "9604d4ef1a77a29bc3ea335841764f20aec535a6",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2154869",
-      "published_utc": "2026-07-03T08:20:03Z",
-      "title_en": "Russian stock market turns lower in early trade",
-      "lead_en": "The yuan was down 6.2 kopecks from the previous close to stand at 11.4 rubles",
-      "title_raw": "Russian stock market turns lower in early trade",
-      "lead_raw": "The yuan was down 6.2 kopecks from the previous close to stand at 11.4 rubles",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
