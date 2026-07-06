@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-07-05T20:13:40Z",
+  "updated_at_utc": "2026-07-06T00:04:53Z",
   "keep_hours": 48,
   "topic": "economy",
   "count": 30,
   "articles": [
+    {
+      "id": "1316736c03406dc72e476a0226e00aad2429b33a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/info/27886969",
+      "published_utc": "2026-07-05T21:00:00Z",
+      "title_en": "Industry, technology, transport. History of the industrial exhibition \"Innoprom\"",
+      "lead_en": "The exhibition is dedicated to high-tech developments and projects of Russian and foreign companies in various fields",
+      "title_raw": "Промышленность, технологии, транспорт. История промышленной выставки \"Иннопром\"",
+      "lead_raw": "Экспозиция посвящена высокотехнологичным разработкам и проектам российских и зарубежных компаний в разных областях",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
     {
       "id": "0f8c56684f06f80f9759718c5827f878ed65f784",
       "source": "TASS (RU)",
@@ -268,7 +287,7 @@
       "url": "https://tass.ru/politika/27886397",
       "published_utc": "2026-07-04T21:14:47Z",
       "title_en": "Ushakov: Putin and Trump emphasized the importance of continuing contacts between the Russian Federation and the United States",
-      "lead_en": "We are also talking about military-political and economic issues, noted the assistant to the Russian President",
+      "lead_en": "In particular, we are talking about military-political and economic topics, noted the assistant to the President of Russia",
       "title_raw": "Ушаков: Путин и Трамп подчеркнули важность продолжения контактов РФ и США",
       "lead_raw": "В том числе речь идет о военно-политической и экономической тематиках, отметил помощник президента России",
       "topic_scores": {
@@ -508,7 +527,7 @@
       "url": "https://tass.ru/armiya-i-opk/27885281",
       "published_utc": "2026-07-04T07:47:45Z",
       "title_en": "The defense of Konstantinovka consisted of two lines with more than 150 km of trenches and ditches",
-      "lead_en": "The lines and positions were built based on a developed system of roads and railways, hydraulic structures, 10 industrial zones and 12 settlements adjacent to the city, said First Deputy Chief of the General Staff of the Russian Armed Forces Sergei Rudskoy",
+      "lead_en": "Lines and positions were built based on a developed system of roads and railways, hydraulic structures, 10 industrial zones and 12 settlements adjacent to the city, said First Deputy Chief of the General Staff of the Russian Armed Forces Sergei Rudskoy",
       "title_raw": "Оборона Константиновки состояла из двух рубежей с более чем 150 км траншей и рвов",
       "lead_raw": "Рубежи и позиции строились с опорой на развитую систему автомобильных и железных дорог, гидротехнических сооружений, 10 промышленных зон и 12 прилегающих к городу населенных пунктов, сообщил первый заместитель начальника Генштаба ВС РФ Сергей Рудской",
       "topic_scores": {
@@ -581,28 +600,6 @@
         "local_events": 0
       },
       "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "59483e50b68bce44a4b8c5be656955b880440a3e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27884303",
-      "published_utc": "2026-07-03T21:14:41Z",
-      "title_en": "Dmitriev: Ukrainian bombing of Nord Stream caused an energy crisis in Germany",
-      "lead_en": "The attack destroyed vital energy infrastructure, noted the special representative of the Russian President for investment and economic cooperation with foreign countries",
-      "title_raw": "Дмитриев: подрыв украинцем \"Северного потока\" вызвал энергокризис в Германии",
-      "lead_raw": "При нападении была уничтожена жизненно важная энергетическая инфраструктура, отметил спецпредставитель президента РФ по инвестиционно-экономическому сотрудничеству с зарубежными странами",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
       "primary_topic": "economy"
     }
   ]
