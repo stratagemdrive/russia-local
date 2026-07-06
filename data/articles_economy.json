@@ -1,9 +1,196 @@
 {
-  "updated_at_utc": "2026-07-06T14:24:18Z",
+  "updated_at_utc": "2026-07-06T19:56:22Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 40,
+  "count": 46,
   "articles": [
+    {
+      "id": "7067e8310cace1d979ccdc3e0e9e63c1a0665190",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27891645",
+      "published_utc": "2026-07-06T18:59:13Z",
+      "title_en": "The Russian Embassy called British sanctions against Russian research institutes illegal",
+      "lead_en": "In particular, the State Research Testing Institute of Military Medicine and its head Sergei Chepur, as well as the Signal scientific center, its head Artur Zhirov and deputy head Andrei Antokhin were included in the sanctions list",
+      "title_raw": "Посольство РФ назвало незаконными санкции Британии против российских НИИ",
+      "lead_raw": "В частности, в санкционный список были включены Государственный научно-исследовательский испытательный институт военной медицины и его глава Сергей Чепур, а также научный центр \"Сигнал\", его глава Артур Жиров и замглавы Андрей Антохин",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "333875049940ceab1afca0051e1a040c91c7cb09",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2156519",
+      "published_utc": "2026-07-06T18:24:21Z",
+      "title_en": "Russian stock market closed in the red — market data",
+      "lead_en": "The MOEX Russia Index declined by 2.19%, the RTS Index lost 3.19%",
+      "title_raw": "Russian stock market closed in the red — market data",
+      "lead_raw": "The MOEX Russia Index declined by 2.19%, the RTS Index lost 3.19%",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "d00be7fcce35eba0e4b18a199602564b16c099df",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27891365",
+      "published_utc": "2026-07-06T17:19:28Z",
+      "title_en": "Participant in the attack on the Russian embassy in Kyiv was sentenced in absentia to nine years",
+      "lead_en": "The court also satisfied the civil claim and recovered jointly and severally from Ragozin and the previously convicted Bliznyuk and Koshovenko in favor of Sogaz JSC 1,845,365 rubles",
+      "title_raw": "Участника нападения на посольство России в Киеве приговорили заочно к девяти годам",
+      "lead_raw": "Суд также удовлетворил гражданский иск и взыскал солидарно с Рагозина и ранее осужденных Близнюка и Кошовенко в пользу АО \"Согаз\" 1 845 365 рублей",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "e76a7fd01cbf76b5894ee1e088a322f093ee80f0",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2156489",
+      "published_utc": "2026-07-06T16:51:17Z",
+      "title_en": "Bank of Russia set dollar rate at 77.96 rubles for July 7",
+      "lead_en": "The yuan rate was set at 11.46 rubles",
+      "title_raw": "Bank of Russia set dollar rate at 77.96 rubles for July 7",
+      "lead_raw": "The yuan rate was set at 11.46 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "46a8147f35ceacd143e151320431e8014654417f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27891459",
+      "published_utc": "2026-07-06T16:36:53Z",
+      "title_en": "Experts explained the decrease in the Moscow Exchange index by almost 3.5% per day",
+      "lead_en": "Catalysts for the fall in the index could be attacks on Russian oil refineries by Ukraine and the likelihood of a tightening of the monetary policy of the Bank of Russia due to the fuel situation",
+      "title_raw": "Эксперты объяснили снижение индекса Мосбиржи почти на 3,5% за день",
+      "lead_raw": "Катализаторами падения индекса могли стать атаки на российские нефтеперерабатывающие заводы со стороны Украины и вероятность ужесточения денежно-кредитной политики Банка России в связи с ситуацией с топливом",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "559f939a39891bb652ec470f83e6d949be56e6f6",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2156483",
+      "published_utc": "2026-07-06T16:34:13Z",
+      "title_en": "Armenia, Russia back dialogue on boosting trade, economic ties — ministers",
+      "lead_en": "Armenian Economy Minister Gevorg Papoyan and Russian Minister of Industry and Trade Anton Alikhanov discussed the current state of Armenian-Russian trade and economic relations, opportunities to expand industry ties, and ways to promote investment programs",
+      "title_raw": "Armenia, Russia back dialogue on boosting trade, economic ties — ministers",
+      "lead_raw": "Armenian Economy Minister Gevorg Papoyan and Russian Minister of Industry and Trade Anton Alikhanov discussed the current state of Armenian-Russian trade and economic relations, opportunities to expand industry ties, and ways to promote investment programs",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 5,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "9066303bc1101ce0bc4fa602797570e2b078bfd5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27891421",
+      "published_utc": "2026-07-06T16:21:20Z",
+      "title_en": "The Russian stock market closed with a decline in the main indices",
+      "lead_en": "The yuan exchange rate fell to 11.18 rubles",
+      "title_raw": "Российский рынок акций закрылся снижением основных индексов",
+      "lead_raw": "Курс юаня упал до 11,18 рубля",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "ef0742522868ad28cc9a604eb1d96b744262b3e2",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2156455",
+      "published_utc": "2026-07-06T15:53:08Z",
+      "title_en": "S7 Airlines plans to buy 70 to 100 Tu-214 aircraft — minister",
+      "lead_en": "According to Russian Industry and Trade Minister Anton Alikhanov, the parties are currently discussing delivery terms, leasing, and other commercial issues",
+      "title_raw": "S7 Airlines plans to buy 70 to 100 Tu-214 aircraft — minister",
+      "lead_raw": "According to Russian Industry and Trade Minister Anton Alikhanov, the parties are currently discussing delivery terms, leasing, and other commercial issues",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "76e188b14cfe07da3727dbba591c6f7407b4e5b8",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2156431",
+      "published_utc": "2026-07-06T14:59:01Z",
+      "title_en": "US rhetoric indicates growing departure from Ukraine agreements — Russian diplomat",
+      "lead_en": "According to Sergey Ryabkov, the pressure of sanctions on Russia is not just being maintained but is intensifying",
+      "title_raw": "US rhetoric indicates growing departure from Ukraine agreements — Russian diplomat",
+      "lead_raw": "According to Sergey Ryabkov, the pressure of sanctions on Russia is not just being maintained but is intensifying",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "30a8918328882de53e8d1f42951d87e8023a46b8",
       "source": "TASS (RU)",
@@ -710,7 +897,7 @@
       "url": "https://tass.ru/politika/27886397",
       "published_utc": "2026-07-04T21:14:47Z",
       "title_en": "Ushakov: Putin and Trump emphasized the importance of continuing contacts between the Russian Federation and the United States",
-      "lead_en": "We are also talking about military-political and economic issues, noted the assistant to the Russian President",
+      "lead_en": "In particular, we are talking about military-political and economic topics, noted the assistant to the President of Russia",
       "title_raw": "Ушаков: Путин и Трамп подчеркнули важность продолжения контактов РФ и США",
       "lead_raw": "В том числе речь идет о военно-политической и экономической тематиках, отметил помощник президента России",
       "topic_scores": {
@@ -734,63 +921,6 @@
       "lead_en": "The American president noted that a settlement is necessary to realize the potential of Russian-American economic cooperation",
       "title_raw": "Ушаков: Трамп связал развитие связей РФ и США с окончанием конфликта на Украине",
       "lead_raw": "Американский президент отметил, что урегулирование необходимо для реализации потенциала российско-американского экономического сотрудничества",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "7e02c2a2f6a22a58d40afc262ffa6a8d95d74b8a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27886117",
-      "published_utc": "2026-07-04T15:44:18Z",
-      "title_en": "The Russian Federation has simplified the sale of housing to corrupt officials",
-      "lead_en": "The document also gives the Russian government the right to establish additional requirements for companies assessing state property, as well as for auction organizers",
-      "title_raw": "В РФ упростили продажу жилья коррупционеров",
-      "lead_raw": "Документ также дает правительству РФ право устанавливать дополнительные требования к компаниям, осуществляющим оценку госимущества, а также к организаторам торгов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "f8d77fd757edac802b91aaa8ff3ed3b3775b39ff",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27886083",
-      "published_utc": "2026-07-04T15:21:46Z",
-      "title_en": "Foreign companies were allowed to explore Russian markets in some cases",
-      "lead_en": "Companies will be able to research product markets, provided that their results will be used to calculate taxes, fees and customs duties",
-      "title_raw": "Иностранным компаниям разрешили исследовать рынки РФ в некоторых случаях",
-      "lead_raw": "Компании смогут исследовать товарные рынки при условии, что их результаты будут использованы для расчета налогов, сборов и таможенных пошлин",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "da033f7831a385001a9a89779739a29597b3247d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27886071",
-      "published_utc": "2026-07-04T15:11:32Z",
-      "title_en": "Russia will speed up the transfer of supported transactions on state defense orders to PSB",
-      "lead_en": "Now the bank, which has ceased to be authorized, is obliged to independently create a register of accounts for state defense orders",
-      "title_raw": "В России ускорят перевод сопровождаемых сделок по гособоронзаказу в ПСБ",
-      "lead_raw": "Теперь банк, который перестал быть уполномоченным, обязан самостоятельно сформировать реестр счетов по гособоронзаказу",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
