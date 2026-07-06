@@ -1,9 +1,73 @@
 {
-  "updated_at_utc": "2026-07-06T10:20:38Z",
+  "updated_at_utc": "2026-07-06T14:24:18Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 13,
+  "count": 14,
   "articles": [
+    {
+      "id": "d61b06d1672c62eb1c80114e638a83ecc9a893ea",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/07/06/russian-oil-falls-to-42-a-barrel-the-same-price-as-before-the-middle-east-war",
+      "published_utc": "2026-07-06T14:11:44Z",
+      "title_en": "Russian oil falls to $42 a barrel — the same price as before the Middle East war",
+      "lead_en": "Russian Urals crude has fallen back to pre-Middle East war levels, Bloomberg reported.",
+      "title_raw": "Russian oil falls to $42 a barrel — the same price as before the Middle East war",
+      "lead_raw": "Russian Urals crude has fallen back to pre-Middle East war levels, Bloomberg reported.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "cccf2fa79af6b2ee79104b59837e837dc9f362cd",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/07/06/ukraine-says-it-struck-russia-s-largest-oil-refinery-for-the-first-time",
+      "published_utc": "2026-07-06T13:48:20Z",
+      "title_en": "Ukraine says it struck Russia’s largest oil refinery for the first time",
+      "lead_en": "Ukrainian drones struck the Omsk oil refinery for the first time, according to the Ukrainian monitoring Telegram channels Exilenova+ and Supernova+.",
+      "title_raw": "Ukraine says it struck Russia’s largest oil refinery for the first time",
+      "lead_raw": "Ukrainian drones struck the Omsk oil refinery for the first time, according to the Ukrainian monitoring Telegram channels Exilenova+ and Supernova+.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "952fb1110f4c5bda61a63fdfba2ca992ba9ad0a0",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2156327",
+      "published_utc": "2026-07-06T13:19:53Z",
+      "title_en": "Russia ranks first among Armenia’s foreign trade partners — PM",
+      "lead_en": "Companies are working in the mining industry, mechanical engineering, transport infrastructure and energy sector of Armenia",
+      "title_raw": "Russia ranks first among Armenia’s foreign trade partners — PM",
+      "lead_raw": "Companies are working in the mining industry, mechanical engineering, transport infrastructure and energy sector of Armenia",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "f0f60f838aa44597a64c46859ae0f3a5434b8230",
       "source": "Meduza (EN)",
@@ -240,50 +304,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "a130f7a50b3792b46e3c0064f8fde29593ae4cbb",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27885929",
-      "published_utc": "2026-07-04T13:46:21Z",
-      "title_en": "The Russian Armed Forces hit the fuel, energy and transport infrastructure of the Armed Forces of Ukraine",
-      "lead_en": "The Russian military also hit production and storage sites for long-range UAVs in 142 districts in 24 hours, the Ministry of Defense reported.",
-      "title_raw": "ВС РФ поразили объекты топливно-энергетической и транспортной инфраструктуры ВСУ",
-      "lead_raw": "Российские военные за сутки также ударили по местам производства и хранения БПЛА дальнего действия в 142 районах, сообщили в Минобороны",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "ccaae634962bf1499f71004f7a5b9c329e309955",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27885883",
-      "published_utc": "2026-07-04T13:22:52Z",
-      "title_en": "Diplomat Pantelin: The Russian Federation will play a leading role in the energy security of Armenia",
-      "lead_en": "Fruitful, long-term cooperation between Moscow and Yerevan will continue in the future, said the senior adviser to the Russian Embassy",
-      "title_raw": "Пипломат Пантелин: РФ будет играть ведущую роль в энергобезопасности Армении",
-      "lead_raw": "Плодотворное, долгосрочное взаимодействие Москвы и Еревана будет продолжаться и впредь, заявил заявил старший советник посольства России",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
