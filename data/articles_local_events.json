@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-07-06T00:04:53Z",
+  "updated_at_utc": "2026-07-06T10:20:38Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 7,
+  "count": 6,
   "articles": [
+    {
+      "id": "f49415262b9a9077dec59b7b0b84654006ef00e2",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2156077",
+      "published_utc": "2026-07-06T07:14:24Z",
+      "title_en": "One killed in Crimea, two injured in Yaroslavl as Russian air defenses down 519 drones",
+      "lead_en": "A drone strike sparked a fire at an industrial facility in the Dzerzhinsky District of the Kaluga Region",
+      "title_raw": "One killed in Crimea, two injured in Yaroslavl as Russian air defenses down 519 drones",
+      "lead_raw": "A drone strike sparked a fire at an industrial facility in the Dzerzhinsky District of the Kaluga Region",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "9e90fab09c6a64be54bb1d1a2294c6f75c5708ac",
       "source": "TASS (RU)",
@@ -106,44 +128,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "d383e8b1cf18938f1cbf8a3d4e963c03dc679137",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27885353",
-      "published_utc": "2026-07-04T07:50:22Z",
-      "title_en": "The first line of defense in Konstantinovka consisted of 30 km of explosive barriers",
-      "lead_en": "Its depth reached 8 km, said First Deputy Chief of the General Staff of the Russian Armed Forces Sergei Rudskoy",
-      "title_raw": "Первый рубеж обороны в Константиновке состоял из 30 км взрывных заграждений",
-      "lead_raw": "Его глубина достигала 8 км, сообщил первый заместитель начальника Генштаба ВС РФ Сергей Рудской",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "1caf8460ea83401ac4a2bafec904608afbe6b8bd",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27884931",
-      "published_utc": "2026-07-04T05:03:13Z",
-      "title_en": "In the LPR, two employees of the Ministry of Emergency Situations were injured during strikes by the Ukrainian Armed Forces in 2026",
-      "lead_en": "The head of the Russian Ministry of Emergency Situations for the region, Evgeniy Katsavalov, noted that there were no deaths among the department’s employees as a result of Ukrainian aggression",
-      "title_raw": "В ЛНР при ударах ВСУ в 2026 году пострадали два сотрудника МЧС",
-      "lead_raw": "Начальник главка МЧС России по региону Евгений Кацавалов отметил, что погибших в результате украинской агрессии среди сотрудников ведомства нет",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
