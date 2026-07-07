@@ -1,9 +1,69 @@
 {
-  "updated_at_utc": "2026-07-07T03:21:37Z",
+  "updated_at_utc": "2026-07-07T07:37:30Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 10,
+  "count": 12,
   "articles": [
+    {
+      "id": "eb670753a3032c54a86d30b90be04e3ad3acdc88",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/07/07/russian-lawmakers-propose-sending-conscripts-to-serve-in-emergency-situations-ministry-fire-units",
+      "published_utc": "2026-07-07T07:06:54Z",
+      "title_en": "Russian lawmakers propose sending conscripts to serve in Emergency Situations Ministry fire units",
+      "lead_en": "A bill introduced in the State Duma would send conscripts to serve in military units of Russia’s Federal Fire Service, part of the Emergency Situations Ministry, the Russian business daily Vedomosti reported.",
+      "title_raw": "Russian lawmakers propose sending conscripts to serve in Emergency Situations Ministry fire units",
+      "lead_raw": "A bill introduced in the State Duma would send conscripts to serve in military units of Russia’s Federal Fire Service, part of the Emergency Situations Ministry, the Russian business daily Vedomosti reported.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "965b36e943a544fd3d775ca167506caa71becd1b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2156615",
+      "published_utc": "2026-07-07T06:44:51Z",
+      "title_en": "Fire in Kaluga Region, 452 UAVs target Russia: new Ukrainian attacks",
+      "lead_en": "More than 430 UAVs headed toward the Moscow Region this night",
+      "title_raw": "Fire in Kaluga Region, 452 UAVs target Russia: new Ukrainian attacks",
+      "lead_raw": "More than 430 UAVs headed toward the Moscow Region this night",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "d61bed580d82b2552f2a09248397daf7b5e22eaa",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2156605",
+      "published_utc": "2026-07-07T05:47:26Z",
+      "title_en": "Ukrainian attacks kill 38 Russian civilians, including child, in past week — diplomat",
+      "lead_en": "Another 270 people, including eight minors, were injured, Rodion Miroshnik said",
+      "title_raw": "Ukrainian attacks kill 38 Russian civilians, including child, in past week — diplomat",
+      "lead_raw": "Another 270 people, including eight minors, were injured, Rodion Miroshnik said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "24b2c70a861b6598c26ce7b75526d7d229f10848",
       "source": "TASS (EN)",
@@ -192,25 +252,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "20523e12cb8c923ea925b89e723937105f7005b4",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27886799",
-      "published_utc": "2026-07-05T05:33:02Z",
-      "title_en": "Unmanned danger was declared in the Rostov region",
-      "lead_en": "The Russian Ministry of Emergency Situations warned about this",
-      "title_raw": "В Ростовской области объявляли беспилотную опасность",
-      "lead_raw": "Об этом предупредили в МЧС России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
