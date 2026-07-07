@@ -1,9 +1,47 @@
 {
-  "updated_at_utc": "2026-07-07T19:01:49Z",
+  "updated_at_utc": "2026-07-07T21:23:44Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 12,
+  "count": 13,
   "articles": [
+    {
+      "id": "a00fef544733e47a9a6f0a3435b3852d28179542",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27895775",
+      "published_utc": "2026-07-07T19:26:10Z",
+      "title_en": "The danger of a UAV attack has been announced in the Tambov region",
+      "lead_en": "The Ministry of Emergency Situations of the Russian Federation urged to maintain calm",
+      "title_raw": "В Тамбовской области объявили опасность атаки БПЛА",
+      "lead_raw": "В МЧС РФ призвали соблюдать спокойствие",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "7070ecfbcc22d41986689848b1de2034ef7e1548",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27895755",
+      "published_utc": "2026-07-07T19:14:47Z",
+      "title_en": "Unmanned danger declared in the Ryazan region",
+      "lead_en": "The Ministry of Emergency Situations of the Russian Federation urged to avoid open areas",
+      "title_raw": "В Рязанской области объявили беспилотную опасность",
+      "lead_raw": "В МЧС РФ призвали избегать открытых участков",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "14fe15c91f799cd7b477eee12de1d031aaf53d2d",
       "source": "TASS (RU)",
@@ -229,27 +267,6 @@
         "local_events"
       ],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "9e90fab09c6a64be54bb1d1a2294c6f75c5708ac",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27887903",
-      "published_utc": "2026-07-05T21:01:22Z",
-      "title_en": "Sergeant Kamyanov led the evacuation group from under fire from the Ukrainian Armed Forces",
-      "lead_en": "A Russian serviceman accompanied the group from the line of contact",
-      "title_raw": "Сержант Камьянов вывел эвакуационную группу из-под обстрела ВСУ",
-      "lead_raw": "Российский военнослужащий сопровождал группу с линии боевого соприкосновения",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
