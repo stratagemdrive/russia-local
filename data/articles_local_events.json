@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-07-07T13:21:00Z",
+  "updated_at_utc": "2026-07-07T16:31:00Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 11,
   "articles": [
+    {
+      "id": "3a75c2cb89fb384d2b8d433c69661b07a13f5bca",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27895355",
+      "published_utc": "2026-07-07T16:23:33Z",
+      "title_en": "Missile danger declared in Rostov region",
+      "lead_en": "The Russian Ministry of Emergency Situations called on local residents to take shelter",
+      "title_raw": "В Ростовской области объявили ракетную опасность",
+      "lead_raw": "МЧС России призвало местных жителей зайти в укрытие",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "eb670753a3032c54a86d30b90be04e3ad3acdc88",
       "source": "Meduza (EN)",
@@ -199,27 +220,6 @@
       "lead_en": "A Russian serviceman accompanied the group from the line of contact",
       "title_raw": "Сержант Камьянов вывел эвакуационную группу из-под обстрела ВСУ",
       "lead_raw": "Российский военнослужащий сопровождал группу с линии боевого соприкосновения",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "d16c20d813a236cfb7eb612596e3ea105a562d6f",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/07/05/russia-says-ukraine-rejects-local-ceasefire-for-handover-of-soldiers-bodies-a93167",
-      "published_utc": "2026-07-05T15:25:49Z",
-      "title_en": "Russia Says Ukraine Rejects Local Ceasefire for Handover of Soldiers’ Bodies",
-      "lead_en": "Ukraine's Defense Ministry and General Staff did not immediately respond to a request for comment.",
-      "title_raw": "Russia Says Ukraine Rejects Local Ceasefire for Handover of Soldiers’ Bodies",
-      "lead_raw": "Ukraine's Defense Ministry and General Staff did not immediately respond to a request for comment.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
