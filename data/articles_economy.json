@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-07-06T21:38:26Z",
+  "updated_at_utc": "2026-07-06T23:07:20Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 44,
+  "count": 42,
   "articles": [
+    {
+      "id": "75a93fbe97de45d374d8f21ceb6a24344032ecbe",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27891857",
+      "published_utc": "2026-07-06T22:12:06Z",
+      "title_en": "The average salary in Russia has increased almost 3 times over 10 years",
+      "lead_en": "It amounted to 109,052 rubles",
+      "title_raw": "Средняя зарплата в России за 10 лет выросла почти в 3 раза",
+      "lead_raw": "Она составила 109 052 рубля",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
     {
       "id": "7067e8310cace1d979ccdc3e0e9e63c1a0665190",
       "source": "TASS (RU)",
@@ -828,68 +847,6 @@
       },
       "topics": [],
       "primary_topic": "economy"
-    },
-    {
-      "id": "fb84b34a6985e0b8f46c543dde159fdb70f2823a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27886501",
-      "published_utc": "2026-07-04T22:58:12Z",
-      "title_en": "Kiriyenko: industry in the Kaliningrad region grew by 12.5%",
-      "lead_en": "The First Deputy Head of the Presidential Administration of the Russian Federation noted that the development of the region continues, despite the existing challenges directed against the country",
-      "title_raw": "Кириенко: промышленность Калининградской области выросла на 12,5%",
-      "lead_raw": "Первый заместитель руководителя Администрации президента РФ отметил, что развитие региона продолжается, несмотря на существующие вызовы, направленные против страны",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "b17c6fe958c370ca37a72abd958a949b3964779f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27886495",
-      "published_utc": "2026-07-04T22:45:35Z",
-      "title_en": "Kiriyenko: investments in the Kaliningrad region will reach almost 1 trillion rubles",
-      "lead_en": "One of the key projects will be the creation of the national center \"Russia\"",
-      "title_raw": "Кириенко: инвестиции в Калининградскую область достигнут почти 1 трлн рублей",
-      "lead_raw": "Одним из ключевых проектов станет создание национального центра \"Россия\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "785f5703c81af96ec0bd21625e4c2bbaac0fd610",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2155791",
-      "published_utc": "2026-07-04T22:18:10Z",
-      "title_en": "Trump links Russia-US cooperation to end of conflict in Ukraine",
-      "lead_en": "The heads of states stressed importance of continuing the bilateral interaction in their talk, including on military-political and economic topics",
-      "title_raw": "Trump links Russia-US cooperation to end of conflict in Ukraine",
-      "lead_raw": "The heads of states stressed importance of continuing the bilateral interaction in their talk, including on military-political and economic topics",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
