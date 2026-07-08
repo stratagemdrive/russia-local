@@ -1,9 +1,74 @@
 {
-  "updated_at_utc": "2026-07-08T05:50:48Z",
+  "updated_at_utc": "2026-07-08T08:27:07Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 13,
+  "count": 15,
   "articles": [
+    {
+      "id": "006b8267ab86e32de43c737694d32a9570f60df2",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/07/08/one-killed-two-wounded-in-russian-strike-on-kyiv",
+      "published_utc": "2026-07-08T08:00:11Z",
+      "title_en": "One killed, two wounded in Russian strike on Kyiv",
+      "lead_en": "Russian forces struck Kyiv in the early hours of July 8, killing one person and wounding two others, according to Tymur Tkachenko, head of the city’s military administration. Ukraine’s State Emergency Service reported two injured.",
+      "title_raw": "One killed, two wounded in Russian strike on Kyiv",
+      "lead_raw": "Russian forces struck Kyiv in the early hours of July 8, killing one person and wounding two others, according to Tymur Tkachenko, head of the city’s military administration. Ukraine’s State Emergency Service reported two injured.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "f83325aeb6b125862d2821099603d5eb6e7690d5",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/07/08/ukrainian-drones-strike-oil-refineries-in-russia-hit-tankers-in-taganrog-bay-and-set-fire-to-military-airfield",
+      "published_utc": "2026-07-08T07:37:34Z",
+      "title_en": "Ukrainian drones strike oil refineries in Russia, hit tankers in Taganrog Bay, and set fire to military airfield",
+      "lead_en": "Ukrainian forces struck Russian oil refining facilities, attacked tankers in the Taganrog Bay, and hit a military airfield in the early hours of July 8.",
+      "title_raw": "Ukrainian drones strike oil refineries in Russia, hit tankers in Taganrog Bay, and set fire to military airfield",
+      "lead_raw": "Ukrainian forces struck Russian oil refining facilities, attacked tankers in the Taganrog Bay, and hit a military airfield in the early hours of July 8.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "62c44754fd187229566c451b4facd06cd78428a4",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2157259",
+      "published_utc": "2026-07-08T07:24:45Z",
+      "title_en": "IN BRIEF: Overnight drone attacks on Russia kill civilian, damage tankers",
+      "lead_en": "One civilian was killed and several others were injured in a Ukrainian drone attack on the Saratov Region",
+      "title_raw": "IN BRIEF: Overnight drone attacks on Russia kill civilian, damage tankers",
+      "lead_raw": "One civilian was killed and several others were injured in a Ukrainian drone attack on the Saratov Region",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "a00fef544733e47a9a6f0a3435b3852d28179542",
       "source": "TASS (RU)",
@@ -245,28 +310,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "f49415262b9a9077dec59b7b0b84654006ef00e2",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2156077",
-      "published_utc": "2026-07-06T07:14:24Z",
-      "title_en": "One killed in Crimea, two injured in Yaroslavl as Russian air defenses down 519 drones",
-      "lead_en": "A drone strike sparked a fire at an industrial facility in the Dzerzhinsky District of the Kaluga Region",
-      "title_raw": "One killed in Crimea, two injured in Yaroslavl as Russian air defenses down 519 drones",
-      "lead_raw": "A drone strike sparked a fire at an industrial facility in the Dzerzhinsky District of the Kaluga Region",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
     }
   ]
 }
