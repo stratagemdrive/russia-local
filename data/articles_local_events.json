@@ -1,9 +1,71 @@
 {
-  "updated_at_utc": "2026-07-08T08:27:07Z",
+  "updated_at_utc": "2026-07-08T11:03:57Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 15,
+  "count": 18,
   "articles": [
+    {
+      "id": "299246163f0abf9f3bad7c10c57b4a52c011066c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27897891",
+      "published_utc": "2026-07-08T10:59:14Z",
+      "title_en": "In the Rostov region, the unmanned threat was canceled",
+      "lead_en": "This follows from the data of the application of the Ministry of Emergency Situations of the Russian Federation",
+      "title_raw": "В Ростовской области отменили беспилотную опасность",
+      "lead_raw": "Это следует из данных приложения МЧС РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "cae0fa7d5516b696aa1be39d572c7fea14f2b913",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27898015",
+      "published_utc": "2026-07-08T10:44:46Z",
+      "title_en": "Russian Embassy: Russians, preliminary, were not injured in a bus accident in Turkey",
+      "lead_en": "The diplomatic mission is clarifying all the circumstances of the incident",
+      "title_raw": "Посольство РФ: россияне, предварительно, не пострадали в аварии с автобусом в Турции",
+      "lead_raw": "Диппредставительство выясняет все обстоятельства случившегося",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "999bbd97e465dc24b482e1c7e1ae74e1180edd31",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/07/08/at-least-2-killed-in-russia-as-ukraine-hits-multiple-oil-refineries-a93193",
+      "published_utc": "2026-07-08T08:18:00Z",
+      "title_en": "At Least 2 Killed in Russia as Ukraine Hits Multiple Oil Refineries",
+      "lead_en": "Ukrainian President Volodymyr Zelensky said his military struck oil refineries in the Saratov region and republics of Tatarstan and Bashkortostan.",
+      "title_raw": "At Least 2 Killed in Russia as Ukraine Hits Multiple Oil Refineries",
+      "lead_raw": "Ukrainian President Volodymyr Zelensky said his military struck oil refineries in the Saratov region and republics of Tatarstan and Bashkortostan.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "006b8267ab86e32de43c737694d32a9570f60df2",
       "source": "Meduza (EN)",
