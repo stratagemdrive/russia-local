@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-07-07T21:23:44Z",
+  "updated_at_utc": "2026-07-07T23:00:54Z",
   "keep_hours": 48,
   "topic": "military",
-  "count": 116,
+  "count": 115,
   "articles": [
+    {
+      "id": "7ad2e571ac3c3b9da5798b8589fc0df780c948b0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27895953",
+      "published_utc": "2026-07-07T22:42:00Z",
+      "title_en": "Battalion commander Agalu: The Ukrainian Armed Forces conducted military operations in Konstantinovka under the guise of civilians",
+      "lead_en": "According to the serviceman, Russian fighters immediately suppressed the enemy’s force",
+      "title_raw": "Комбат Агалу: ВСУ вели боевые действия в Константиновке под видом гражданских",
+      "lead_raw": "По словам военнослужащего, российские бойцы сразу подавляли силу противника",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "fbf05fd031d26604516521994305956d7e10dc9a",
       "source": "TASS (RU)",
@@ -2422,49 +2443,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "71986e5ab50475532535a72e841305ba35b69024",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27888029",
-      "published_utc": "2026-07-05T22:35:39Z",
-      "title_en": "Commander Agalu: The Ukrainian Armed Forces are fleeing from Konstantinovka to the northwest",
-      "lead_en": "A Russian serviceman reported that the Russian Armed Forces are liquidating almost all enemy personnel",
-      "title_raw": "Командир Агалу: ВСУ бегут от Константиновки на северо-запад",
-      "lead_raw": "Российский военнослужащий сообщил, что ВС РФ ликвидируют практически весь личный состав противника",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "9a467c98f6918aaa435a19471b8e2ed5551df32d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27887945",
-      "published_utc": "2026-07-05T21:37:29Z",
-      "title_en": "Miroshnik: Kyiv is ready to abandon the remains of its soldiers for the sake of a picture at the NATO summit",
-      "lead_en": "The Ambassador at Large of the Russian Foreign Ministry noted that Ukraine needs this to beg for money and support",
-      "title_raw": "Мирошник: Киев готов бросить останки своих солдат ради картинки на саммите НАТО",
-      "lead_raw": "Посол по особым поручениям МИД РФ отметил, что это нужно Украине, чтобы выпросить деньги и поддержку",
-      "topic_scores": {
-        "diplomacy": 3,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
