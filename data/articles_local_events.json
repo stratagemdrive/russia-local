@@ -1,9 +1,68 @@
 {
-  "updated_at_utc": "2026-07-09T08:29:08Z",
+  "updated_at_utc": "2026-07-09T11:57:16Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 13,
+  "count": 16,
   "articles": [
+    {
+      "id": "719338b779364ac4ed266e46924f21345354f7ad",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27902469",
+      "published_utc": "2026-07-09T11:26:36Z",
+      "title_en": "In Rubezhny LPR, a car caught fire after an Ukrainian Armed Forces drone attack",
+      "lead_en": "The fire spread to dry grass on an area of ​​1 hectare, reported the Russian Ministry of Emergency Situations for the region.",
+      "title_raw": "В Рубежном ЛНР после атаки дрона ВСУ загорелся автомобиль",
+      "lead_raw": "Огонь перекинулся на сухую траву на площади 1 га, сообщили в ГУ МЧС России по региону",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "402413ebc4d0dbfddbafcf9be28a33b3a9992cf9",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27902379",
+      "published_utc": "2026-07-09T11:04:46Z",
+      "title_en": "PCT reported no requests from Russians due to flooding in China",
+      "lead_en": "According to ITM group, there are no Russian tourists in the affected area",
+      "title_raw": "РСТ сообщил об отсутствии обращений от россиян из-за наводнения в Китае",
+      "lead_raw": "По данным ITM group, российских туристов в пострадавшем районе нет",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "0053409b0030b39750f906e39039b6a8483b59cc",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/07/09/ukrainian-drones-strike-russian-oil-sites-and-tankers-a93206",
+      "published_utc": "2026-07-09T09:25:32Z",
+      "title_en": "Ukrainian Drones Strike Russian Oil Sites and Tankers",
+      "lead_en": "At least one person was killed in annexed Crimea during the overnight air attacks, which targeted industrial sites nationwide.",
+      "title_raw": "Ukrainian Drones Strike Russian Oil Sites and Tankers",
+      "lead_raw": "At least one person was killed in annexed Crimea during the overnight air attacks, which targeted industrial sites nationwide.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "cf74b06eba0c1c71a71c8bba903fea46c8527374",
       "source": "Meduza (EN)",
