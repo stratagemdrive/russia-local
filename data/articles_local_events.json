@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-07-09T15:21:09Z",
+  "updated_at_utc": "2026-07-09T19:46:30Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 16,
+  "count": 13,
   "articles": [
+    {
+      "id": "6668801d1489ee69b9338c2d692ed93a431f2a17",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2158303",
+      "published_utc": "2026-07-09T16:24:41Z",
+      "title_en": "West does not care how many people killed in Russia, Ukraine — Russian diplomat",
+      "lead_en": "Russia's Acting Permanent Representative to the UN Anna Yevstigneyeva stated that \"deaths of innocent civilians, killings of women, children and the elderly will not stop them\"",
+      "title_raw": "West does not care how many people killed in Russia, Ukraine — Russian diplomat",
+      "lead_raw": "Russia's Acting Permanent Representative to the UN Anna Yevstigneyeva stated that \"deaths of innocent civilians, killings of women, children and the elderly will not stop them\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "719338b779364ac4ed266e46924f21345354f7ad",
       "source": "TASS (RU)",
@@ -248,84 +267,6 @@
         "local_events"
       ],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "a00fef544733e47a9a6f0a3435b3852d28179542",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27895775",
-      "published_utc": "2026-07-07T19:26:10Z",
-      "title_en": "The danger of a UAV attack has been announced in the Tambov region",
-      "lead_en": "The Ministry of Emergency Situations of the Russian Federation urged to maintain calm",
-      "title_raw": "В Тамбовской области объявили опасность атаки БПЛА",
-      "lead_raw": "В МЧС РФ призвали соблюдать спокойствие",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "7070ecfbcc22d41986689848b1de2034ef7e1548",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27895755",
-      "published_utc": "2026-07-07T19:14:47Z",
-      "title_en": "Unmanned danger declared in the Ryazan region",
-      "lead_en": "The Ministry of Emergency Situations of the Russian Federation urged to avoid open areas",
-      "title_raw": "В Рязанской области объявили беспилотную опасность",
-      "lead_raw": "В МЧС РФ призвали избегать открытых участков",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "14fe15c91f799cd7b477eee12de1d031aaf53d2d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27895649",
-      "published_utc": "2026-07-07T18:15:28Z",
-      "title_en": "Unmanned danger declared in the Volgograd region",
-      "lead_en": "This follows from the data of the application of the Ministry of Emergency Situations of the Russian Federation",
-      "title_raw": "В Волгоградской области объявили беспилотную опасность",
-      "lead_raw": "Об этом следует из данных приложения МЧС РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "3a75c2cb89fb384d2b8d433c69661b07a13f5bca",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27895355",
-      "published_utc": "2026-07-07T16:23:33Z",
-      "title_en": "Missile danger declared in Rostov region",
-      "lead_en": "The Russian Ministry of Emergency Situations called on local residents to take shelter",
-      "title_raw": "В Ростовской области объявили ракетную опасность",
-      "lead_raw": "МЧС России призвало местных жителей зайти в укрытие",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
