@@ -1,9 +1,71 @@
 {
-  "updated_at_utc": "2026-07-10T03:17:39Z",
+  "updated_at_utc": "2026-07-10T07:34:38Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 14,
+  "count": 16,
   "articles": [
+    {
+      "id": "582319277eb33c113f47ab7799d5bf50c6e687e7",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/07/10/over-370-ukrainian-drones-strike-russian-regions-ilsky-oil-refinery-catches-fire-in-krasnodar-krai-petroleum-depots-and-seaport-ablaze-in-rostov-region",
+      "published_utc": "2026-07-10T06:57:59Z",
+      "title_en": "Over 370 Ukrainian drones strike Russian regions; Ilsky oil refinery catches fire in Krasnodar Krai, petroleum depots and seaport ablaze in Rostov region",
+      "lead_en": "Debris from Ukrainian drones that struck the Seversky district of Krasnodar Krai set fire to the Ilsky oil refinery, the regional operations center reported.",
+      "title_raw": "Over 370 Ukrainian drones strike Russian regions; Ilsky oil refinery catches fire in Krasnodar Krai, petroleum depots and seaport ablaze in Rostov region",
+      "lead_raw": "Debris from Ukrainian drones that struck the Seversky district of Krasnodar Krai set fire to the Ilsky oil refinery, the regional operations center reported.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "e4367b2ce1415033100b1332558c7fc362236fc0",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2158465",
+      "published_utc": "2026-07-10T06:48:49Z",
+      "title_en": "Oil refinery fire, evacuations in Taganrog, 376 UAVs target Russia: new attacks",
+      "lead_en": "A fire broke out at the Ilsky oil refinery in the Seversky district of the Krasnodar Region after UAV debris fell on the site",
+      "title_raw": "Oil refinery fire, evacuations in Taganrog, 376 UAVs target Russia: new attacks",
+      "lead_raw": "A fire broke out at the Ilsky oil refinery in the Seversky district of the Krasnodar Region after UAV debris fell on the site",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "16af65b981f8ea53522c452f76045c6be05830b7",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2158451",
+      "published_utc": "2026-07-10T05:44:06Z",
+      "title_en": "Evacuation underway in Russia's Taganrog after UAV attack",
+      "lead_en": "The UAV threat remains in effect in the city, Mayor Svetlana Kambulova said",
+      "title_raw": "Evacuation underway in Russia's Taganrog after UAV attack",
+      "lead_raw": "The UAV threat remains in effect in the city, Mayor Svetlana Kambulova said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "4ddf9b0a85f1ab8d486dd0fe56b2585c2ecd6b3d",
       "source": "TASS (EN)",
@@ -267,27 +329,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "62c44754fd187229566c451b4facd06cd78428a4",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2157259",
-      "published_utc": "2026-07-08T07:24:45Z",
-      "title_en": "IN BRIEF: Overnight drone attacks on Russia kill civilian, damage tankers",
-      "lead_en": "One civilian was killed and several others were injured in a Ukrainian drone attack on the Saratov Region",
-      "title_raw": "IN BRIEF: Overnight drone attacks on Russia kill civilian, damage tankers",
-      "lead_raw": "One civilian was killed and several others were injured in a Ukrainian drone attack on the Saratov Region",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
     }
   ]
 }
