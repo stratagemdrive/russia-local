@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-07-10T13:10:51Z",
+  "updated_at_utc": "2026-07-10T16:24:10Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 13,
   "articles": [
+    {
+      "id": "bfb9c90dce8514a624bfe83bc5d1269593726786",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27906573",
+      "published_utc": "2026-07-10T15:12:51Z",
+      "title_en": "Venezuelan governor thanks Russia for help after earthquake",
+      "lead_en": "As a result of the emergency on June 24, 3,889 people died in the country, as of July 9",
+      "title_raw": "Венесуэльский губернатор поблагодарил РФ за помощь после землетрясения",
+      "lead_raw": "В результате ЧП 24 июня в стране погибли, по данным на 9 июля, 3 889 человек",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "cbfc662ef3102f5ac850fc87d71e77893fb2c0e8",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/07/10/russian-propaganda-claimed-a-girl-was-rescued-from-liberated-kostiantynivka-she-had-been-far-from-the-front-for-weeks",
+      "published_utc": "2026-07-10T14:37:02Z",
+      "title_en": "Russian propaganda claimed a girl was ‘rescued’ from ‘liberated’ Kostiantynivka. She had been far from the front for weeks.",
+      "lead_en": "Russian propaganda has been pushing a story about the rescue of a 10-year-old girl from Kostiantynivka, a city in the Donetsk region that Vladimir Putin was told Russian forces had fully captured in early July — though Ukraine says the city remains under Ukrainian military control. The independent Russian investigative outlet Agentstvo found a hole in the account: the girl appears to have been far from the front line for at least a month before reports of her “rescue” surfaced.",
+      "title_raw": "Russian propaganda claimed a girl was ‘rescued’ from ‘liberated’ Kostiantynivka. She had been far from the front for weeks.",
+      "lead_raw": "Russian propaganda has been pushing a story about the rescue of a 10-year-old girl from Kostiantynivka, a city in the Donetsk region that Vladimir Putin was told Russian forces had fully captured in early July — though Ukraine says the city remains under Ukrainian military control. The independent Russian investigative outlet Agentstvo found a hole in the account: the girl appears to have been far from the front line for at least a month before reports of her “rescue” surfaced.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "f15200046ccdda98516c3be08b1a1a187a230b4b",
       "source": "TASS (RU)",
@@ -223,44 +263,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "6a8bf1d4f3d78163bc5018f38292b01734b7d20c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/nedvizhimost/27898959",
-      "published_utc": "2026-07-08T13:39:39Z",
-      "title_en": "In Russia, more than 408 thousand families have moved from dilapidated houses since 2019",
-      "lead_en": "The area of ​​resettled houses exceeded 16.5 million square meters. m",
-      "title_raw": "В России из аварийных домов переехали более 408 тыс. семей с 2019 года",
-      "lead_raw": "Площадь расселенных домов превысила 16,5 млн кв. м",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "77226a9db439f5d954b87962bd42a8f14b2a1210",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27898901",
-      "published_utc": "2026-07-08T13:28:12Z",
-      "title_en": "The issue of returning the flag to Russian climbers will be considered on July 26",
-      "lead_en": "The issue is included in the agenda of the emergency meeting of the General Assembly of the International Climbing Federation",
-      "title_raw": "Вопрос возвращения флага российским скалолазам будет рассмотрен 26 июля",
-      "lead_raw": "Вопрос включен в повестку чрезвычайного собрания генеральной ассамблеи Международной федерация скалолазания",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
