@@ -1,9 +1,139 @@
 {
-  "updated_at_utc": "2026-07-11T03:14:36Z",
+  "updated_at_utc": "2026-07-11T06:12:08Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 57,
+  "count": 61,
   "articles": [
+    {
+      "id": "ce61127e9441c3be5fb927904d3c93ca6a67d823",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2158953",
+      "published_utc": "2026-07-11T05:59:41Z",
+      "title_en": "Russian forces strike military-industrial complex enterprises in Kiev — top brass",
+      "lead_en": "The Russian Defense Ministry added that port infrastructure facilities in Odessa, Chernomorsk, and Izmail in the Odessa region, used for the delivery and storage of military cargo and fuel and lubricants, were also struck",
+      "title_raw": "Russian forces strike military-industrial complex enterprises in Kiev — top brass",
+      "lead_raw": "The Russian Defense Ministry added that port infrastructure facilities in Odessa, Chernomorsk, and Izmail in the Odessa region, used for the delivery and storage of military cargo and fuel and lubricants, were also struck",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "84b55e32d6d60ed67a4fcfceb36eec656947c7d8",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27907815",
+      "published_utc": "2026-07-11T05:43:09Z",
+      "title_en": "VTB: buyers returned to the Russian stock market by Friday",
+      "lead_en": "In terms of industry, this week clients of VTB My Investments again bought securities from representatives of the oil and gas industry",
+      "title_raw": "ВТБ: покупатели вернулись на рынок акций РФ к пятнице",
+      "lead_raw": "В отраслевом разрезе на этой неделе клиенты \"ВТБ мои инвестиции\" вновь покупали бумаги представителей нефтегазовой отрасли",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "19e47b010f76e5939c5562b845b4a1be66261c80",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27907777",
+      "published_utc": "2026-07-11T05:19:05Z",
+      "title_en": "The Russian Armed Forces disabled a power substation in the Chernihiv region",
+      "lead_en": "Russian troops carried out a strike with a Geranium-2 Seeker drone",
+      "title_raw": "ВС РФ вывели из строя энергоподстанцию в Черниговской области",
+      "lead_raw": "Российские войска нанесли удар беспилотником \"Герань-2 Сикер\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "526d0a3acde25a724cbe60c6912f17b244fe2b88",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27907699",
+      "published_utc": "2026-07-11T04:34:18Z",
+      "title_en": "The Russian Armed Forces disabled an energy substation in the Sumy region",
+      "lead_en": "The target was hit using the Geranium-4 Seeker drone",
+      "title_raw": "ВС РФ вывели из строя энергетическую подстанцию в Сумской области",
+      "lead_raw": "Цель поразили при помощи беспилотника \"Герань-4 сикер\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "b05ca7c962522aa57b70512abd0e32ded9348ea4",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/nauka/27907665",
+      "published_utc": "2026-07-11T04:18:21Z",
+      "title_en": "The first manual on cleaning bottom sediments from oil has been created in Russia",
+      "lead_en": "It was released by scientists from Tomsk State University",
+      "title_raw": "В России создано первое пособие по очистке донных отложений от нефти",
+      "lead_raw": "Его выпустили ученые Томского госуниверситета",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "620e58e1ed00f9be8d96c256c64edea933993998",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27907635",
+      "published_utc": "2026-07-11T04:02:50Z",
+      "title_en": "Patrushev: modernization of the Russian nuclear submarine fleet is the most important task",
+      "lead_en": "The head of the Maritime Board noted that it is no less important to develop our own system of naval reconnaissance and target designation based on a satellite constellation",
+      "title_raw": "Патрушев: модернизация атомного подводного флота РФ является важнейшей задачей",
+      "lead_raw": "Глава Морской коллегии отметил, что не менее важно развитие собственной системы морской разведки и целеуказания на базе спутниковой группировки",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "408e9636a776267ce3d1a742473550943688319e",
       "source": "Meduza (EN)",
@@ -1163,48 +1293,6 @@
         "energy": 1,
         "economy": 0,
         "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "fc24ff87fef6f3b1f326231a664c5ddc3ffdb169",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27900919",
-      "published_utc": "2026-07-09T04:32:05Z",
-      "title_en": "In Serbia, they talked about the appearance of meat from Russia in the country's stores",
-      "lead_en": "For Belgrade, cooperation with Moscow is very important in economic terms, noted the Minister of Government of the Republic Nenad Popovic",
-      "title_raw": "В Сербии рассказали о появлении в магазинах страны мяса из России",
-      "lead_raw": "Для Белграда сотрудничество с Москвой очень важно в экономическом плане, отметил министр правительства республики Ненад Попович",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e58fcfba1a0c41adafbbca6c50daafe125ae774c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/interviews/27897717",
-      "published_utc": "2026-07-09T04:30:01Z",
-      "title_en": "Serbian Government Minister Popovic: the country will remain visa-free for Russians",
-      "lead_en": "Serbian Government Minister Nenad Popovic, in an interview with TASS on the sidelines of the XVI Innoprom exhibition in Yekaterinburg, spoke about the importance of Russian gas supplies, promising areas of trade with the Russian Federation, and also assured that Belgrade will nev",
-      "title_raw": "Министр правительства Сербии Попович: страна останется для россиян безвизовой",
-      "lead_raw": "Министр правительства Сербии Ненад Попович в интервью ТАСС на полях XVI выставки \"Иннопром\" в Екатеринбурге рассказал о важности поставок российского газа, перспективных направлениях торговли с РФ, а также заверил, что Белград никогда не введет визы для россиян и не присоединится",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
       },
       "topics": [
         "energy"
