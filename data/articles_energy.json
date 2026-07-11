@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-07-11T13:17:54Z",
+  "updated_at_utc": "2026-07-11T15:55:41Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 51,
+  "count": 40,
   "articles": [
+    {
+      "id": "4974f747daee21d1a68867ec458f35876b1a2196",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27908595",
+      "published_utc": "2026-07-11T15:24:05Z",
+      "title_en": "Times: NATO denied assumptions about Russia’s preparation for an attack on the Baltic states",
+      "lead_en": "The newspaper writes that Western leaders are using the imaginary Russian threat to justify increased military spending.",
+      "title_raw": "Times: в НАТО опровергли предположения о подготовке РФ к атаке на Прибалтику",
+      "lead_raw": "Газета пишет, что западные лидеры используют мнимую российскую угрозу для оправдания роста военных расходов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "308fa8d5eea9288077d30603997eeb2608252399",
       "source": "TASS (EN)",
@@ -25,49 +47,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "ea6c55707ea132617ade0b650473aa163bfc38a3",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27908177",
-      "published_utc": "2026-07-11T09:22:33Z",
-      "title_en": "The Russian Armed Forces hit fuel and energy infrastructure facilities used by the Ukrainian Armed Forces",
-      "lead_en": "The temporary deployment points of Ukrainian armed forces and foreign mercenaries in 152 regions were also defeated",
-      "title_raw": "ВС РФ поразили используемые ВСУ объекты топливно-энергетической инфраструктуры",
-      "lead_raw": "Нанесено поражение также пунктам временной дислокации украинских вооруженных формирований и иностранных наемников в 152 районах",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "a0fc545404ab990358f15193c140b93d691ad967",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27907995",
-      "published_utc": "2026-07-11T07:37:31Z",
-      "title_en": "TVEL intends to provide electric drives to all manufacturers of electric cars in the Russian Federation",
-      "lead_en": "Alexander Bukhvalov, director of the “Electromobility” business direction of Rosatom’s fuel division, said that this component was created in collaboration with eastern partners",
-      "title_raw": "ТВЭЛ намерен обеспечивать электроприводами всех производителей электрокаров в РФ",
-      "lead_raw": "Директор бизнес-направления \"Электромобильность\" топливного дивизиона Росатома Александр Бухвалов рассказал, что этот компонент был создан в сотрудничестве с восточными партнерами",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     },
     {
       "id": "ce61127e9441c3be5fb927904d3c93ca6a67d823",
@@ -92,28 +71,6 @@
       "primary_topic": "military"
     },
     {
-      "id": "84b55e32d6d60ed67a4fcfceb36eec656947c7d8",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27907815",
-      "published_utc": "2026-07-11T05:43:09Z",
-      "title_en": "VTB: buyers returned to the Russian stock market by Friday",
-      "lead_en": "In terms of industry, this week clients of VTB My Investments again bought securities from representatives of the oil and gas industry",
-      "title_raw": "ВТБ: покупатели вернулись на рынок акций РФ к пятнице",
-      "lead_raw": "В отраслевом разрезе на этой неделе клиенты \"ВТБ мои инвестиции\" вновь покупали бумаги представителей нефтегазовой отрасли",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
       "id": "19e47b010f76e5939c5562b845b4a1be66261c80",
       "source": "TASS (RU)",
       "url": "https://tass.ru/armiya-i-opk/27907777",
@@ -136,27 +93,6 @@
       "primary_topic": "military"
     },
     {
-      "id": "526d0a3acde25a724cbe60c6912f17b244fe2b88",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27907699",
-      "published_utc": "2026-07-11T04:34:18Z",
-      "title_en": "The Russian Armed Forces disabled an energy substation in the Sumy region",
-      "lead_en": "The target was hit using the Geranium-4 Seeker drone",
-      "title_raw": "ВС РФ вывели из строя энергетическую подстанцию в Сумской области",
-      "lead_raw": "Цель поразили при помощи беспилотника \"Герань-4 сикер\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
       "id": "b05ca7c962522aa57b70512abd0e32ded9348ea4",
       "source": "TASS (RU)",
       "url": "https://tass.ru/nauka/27907665",
@@ -176,28 +112,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "620e58e1ed00f9be8d96c256c64edea933993998",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27907635",
-      "published_utc": "2026-07-11T04:02:50Z",
-      "title_en": "Patrushev: modernization of the Russian nuclear submarine fleet is the most important task",
-      "lead_en": "The head of the Maritime Board noted that it is no less important to develop our own system of naval reconnaissance and target designation based on a satellite constellation",
-      "title_raw": "Патрушев: модернизация атомного подводного флота РФ является важнейшей задачей",
-      "lead_raw": "Глава Морской коллегии отметил, что не менее важно развитие собственной системы морской разведки и целеуказания на базе спутниковой группировки",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     },
     {
       "id": "408e9636a776267ce3d1a742473550943688319e",
@@ -262,28 +176,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "3c2ee651926625a6dd67f0f166b9855f11ecb8a3",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27907085",
-      "published_utc": "2026-07-10T17:56:47Z",
-      "title_en": "In the Russian Federation, work is underway to conclude direct contracts for the supply of fuel to farmers",
-      "lead_en": "The FAS continues to monitor the price situation on the fuel market and check the validity of changes in the cost of fuel and lubricants",
-      "title_raw": "В РФ ведут работу по заключению прямых договоров на поставку топлива аграриям",
-      "lead_raw": "Со стороны ФАС продолжается мониторинг ценовой ситуации на рынке топлива и проверки обоснованности изменения стоимости ГСМ",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     },
     {
       "id": "f3fc6e37c87b7c99a3c5005b3824790d1fa224ab",
@@ -836,27 +728,6 @@
       "primary_topic": "energy"
     },
     {
-      "id": "81b6590f366968acf75f04accb39a9a2a9e8b2c1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27904371",
-      "published_utc": "2026-07-10T03:07:27Z",
-      "title_en": "Likhachev: Egypt asked the Russian Federation to help with desalination of sea water",
-      "lead_en": "Moscow and Cairo are actively interacting in the field of non-nuclear energy, “implementing a project related to additive technologies” and working on creating a “nuclear medicine hub,” the head of Rosatom noted",
-      "title_raw": "Лихачев: Египет попросил РФ помочь с опреснением морской воды",
-      "lead_raw": "Москва и Каир ведут активное взаимодействие в сфере неядерной энергетики, \"реализуют проект, связанный с аддитивными технологиями\", и работают над созданием \"хаба ядерной медицины\", отметил глава Росатома",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
       "id": "6f518488078b192d6dc3ca5bda05a4cb2d4ab182",
       "source": "Meduza (EN)",
       "url": "https://meduza.io/en/news/2026/07/10/oil-is-leaking-again-from-one-of-the-tankers-that-sank-in-the-kerch-strait-in-december-2024-and-wrecked-some-of-russia-s-most-prized-coastline",
@@ -975,111 +846,6 @@
         "military": 0,
         "energy": 2,
         "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "3670988c1e6b74826daac3dbccdb5c9d255a36b6",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/09/financial-times-fuel-crisis-directly-affects-more-than-a-third-of-russians",
-      "published_utc": "2026-07-09T15:31:43Z",
-      "title_en": "Financial Times: fuel crisis directly affects more than a third of Russians",
-      "lead_en": "Russia’s fuel crisis is directly affecting about 50 million people — roughly 35% of the country’s population — the Financial Times reported, based on its own analysis of driver numbers by region.",
-      "title_raw": "Financial Times: fuel crisis directly affects more than a third of Russians",
-      "lead_raw": "Russia’s fuel crisis is directly affecting about 50 million people — roughly 35% of the country’s population — the Financial Times reported, based on its own analysis of driver numbers by region.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "1a08aff3452198faebb813a363442d538b1797ac",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2158277",
-      "published_utc": "2026-07-09T15:21:58Z",
-      "title_en": "Oil and gas revenues of Russian budget down 22.7% in 1H year-on-year",
-      "lead_en": "Non-oil and gas revenues of the budget for January-June 2026 increased by 16.3% year-on-year to $197 bln",
-      "title_raw": "Oil and gas revenues of Russian budget down 22.7% in 1H year-on-year",
-      "lead_raw": "Non-oil and gas revenues of the budget for January-June 2026 increased by 16.3% year-on-year to $197 bln",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "78b5b06f10e046322027f69818aebd45eafa3ce2",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27903009",
-      "published_utc": "2026-07-09T14:34:55Z",
-      "title_en": "St. Petersburg will share with Kuban its experience in developing transport using gas engine fuel",
-      "lead_en": "St. Petersburg ranks first in Russia in the number of passenger buses running on natural gas",
-      "title_raw": "Петербург поделится с Кубанью опытом развития транспорта на газомоторном топливе",
-      "lead_raw": "Санкт-Петербург занимает первое место в России по числу пассажирских автобусов, работающих на природном газе",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "db4e6176be754bfbbc0dca54a0e2b86a93dae7cf",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27903169",
-      "published_utc": "2026-07-09T14:23:55Z",
-      "title_en": "Sber has launched a search service for gas stations with a high probability of fuel availability",
-      "lead_en": "The platform covers 23 thousand stations throughout Russia and operates on the basis of anonymized data on purchases of more than 100 million customers",
-      "title_raw": "Сбер запустил сервис поиска АЗС с высокой вероятностью наличия топлива",
-      "lead_raw": "Платформа охватывает 23 тыс. станций по всей России и работает на основе обезличенных данных о покупках более 100 млн клиентов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "a3821411b387a41045a43113ffb9bd8ec70728ca",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2158221",
-      "published_utc": "2026-07-09T13:43:58Z",
-      "title_en": "EU may approve 21st sanctions package against Russia on July 13 — French Foreign Minister",
-      "lead_en": "The 21st sanctions package will deal a blow to Russia's financial sector and further reduce energy revenues, Jean-Noel Barrot said",
-      "title_raw": "EU may approve 21st sanctions package against Russia on July 13 — French Foreign Minister",
-      "lead_raw": "The 21st sanctions package will deal a blow to Russia's financial sector and further reduce energy revenues, Jean-Noel Barrot said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
         "local_events": 0
       },
       "topics": [
