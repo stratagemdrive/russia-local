@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-07-12T02:44:12Z",
+  "updated_at_utc": "2026-07-12T05:57:51Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 9,
   "articles": [
+    {
+      "id": "866d560da206a374da58bbbca8214689186024cb",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2159121",
+      "published_utc": "2026-07-12T04:59:09Z",
+      "title_en": "Russian, Chinese navies successfully complete sea phase of joint exercises",
+      "lead_en": "The exercises were aimed at practicing rescue operations, striking targets at sea, and at assisting air and missile defense, the Chinese Defense Ministry said",
+      "title_raw": "Russian, Chinese navies successfully complete sea phase of joint exercises",
+      "lead_raw": "The exercises were aimed at practicing rescue operations, striking targets at sea, and at assisting air and missile defense, the Chinese Defense Ministry said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "3eb23a7cd7e51b662c5a39115fbd4577f7d16e1b",
       "source": "TASS (RU)",
@@ -162,25 +183,6 @@
         "local_events"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "16af65b981f8ea53522c452f76045c6be05830b7",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2158451",
-      "published_utc": "2026-07-10T05:44:06Z",
-      "title_en": "Evacuation underway in Russia's Taganrog after UAV attack",
-      "lead_en": "The UAV threat remains in effect in the city, Mayor Svetlana Kambulova said",
-      "title_raw": "Evacuation underway in Russia's Taganrog after UAV attack",
-      "lead_raw": "The UAV threat remains in effect in the city, Mayor Svetlana Kambulova said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }

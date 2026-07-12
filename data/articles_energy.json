@@ -1,9 +1,52 @@
 {
-  "updated_at_utc": "2026-07-12T02:44:12Z",
+  "updated_at_utc": "2026-07-12T05:57:51Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 35,
+  "count": 36,
   "articles": [
+    {
+      "id": "24d11fe824b07580a5a427ccdb52d0c314774ea9",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27909321",
+      "published_utc": "2026-07-12T05:16:29Z",
+      "title_en": "The Russian Armed Forces destroyed the gas distribution station of the Ukrainian Armed Forces in Kramatorsk",
+      "lead_en": "The Russian Armed Forces continue to hit targets that provide energy to enterprises serving the military-industrial complex",
+      "title_raw": "ВС РФ уничтожили газораспределительную станцию ВСУ в Краматорске",
+      "lead_raw": "Вооруженные силы России продолжают поражать объекты, которые обеспечивают энергией предприятия, обслуживающие ВПК",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "c8b10d52abf773499016c2e83b2367055bcf4b1d",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2159109",
+      "published_utc": "2026-07-12T04:05:48Z",
+      "title_en": "Tanker entering canal in south Russia damaged in drone attack",
+      "lead_en": "There were no casualties and there was no threat of an oil leak, Governor Yury Slyusar said",
+      "title_raw": "Tanker entering canal in south Russia damaged in drone attack",
+      "lead_raw": "There were no casualties and there was no threat of an oil leak, Governor Yury Slyusar said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "eb9df2aebac88244167cb6522fd35bef874291dd",
       "source": "TASS (EN)",
@@ -724,27 +767,6 @@
       "topics": [
         "energy",
         "local_events"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "c5b32b2fdfa2b76be07eba974cccdd8784f26906",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2158437",
-      "published_utc": "2026-07-10T03:39:01Z",
-      "title_en": "Turkey's first nuke plant to be commissioned later this year — Rosatom CEO",
-      "lead_en": "Alexey Likhachev says the project is \"a key task\" facing Russia’s state atomic energy corporation",
-      "title_raw": "Turkey's first nuke plant to be commissioned later this year — Rosatom CEO",
-      "lead_raw": "Alexey Likhachev says the project is \"a key task\" facing Russia’s state atomic energy corporation",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
       ],
       "primary_topic": "energy"
     }
