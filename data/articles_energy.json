@@ -1,9 +1,53 @@
 {
-  "updated_at_utc": "2026-07-12T05:57:51Z",
+  "updated_at_utc": "2026-07-12T08:26:36Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 36,
+  "count": 34,
   "articles": [
+    {
+      "id": "5cda43eb34f834a34ef0093c1e1ea3e71ce6c897",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27909567",
+      "published_utc": "2026-07-12T07:51:13Z",
+      "title_en": "TVEL is ready to meet the Russian market's need for power banks for electric vehicles",
+      "lead_en": "Production volumes will depend on the growth of the fleet of electric vehicles and on the demand for solutions for open parking lots where such stations can be installed, said Alexander Bukhvalov, director of the Electric Mobility business area of ​​the Fuel Division of Rosatom",
+      "title_raw": "ТВЭЛ готов обеспечить потребность российского рынка в пауэрбанках для электромобилей",
+      "lead_raw": "Объемы производства будут зависеть от роста парка электромобилей и от спроса на решения для открытых парковок, где можно устанавливать такие станции, сообщил директор бизнес-направления \"Электромобильность\" Топливного дивизиона Росатома Александр Бухвалов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "be9d6a7cfcab494c0bbe0c1131cf0521e213f235",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2159125",
+      "published_utc": "2026-07-12T06:49:34Z",
+      "title_en": "Russian strikes hit port infrastructure in Odessa, Chernomorsk",
+      "lead_en": "Also a crew of Geran drones has destroyed a gas distribution station used in the interests of the Ukrainian armed forces in Kramatorsk",
+      "title_raw": "Russian strikes hit port infrastructure in Odessa, Chernomorsk",
+      "lead_raw": "Also a crew of Geran drones has destroyed a gas distribution station used in the interests of the Ukrainian armed forces in Kramatorsk",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "24d11fe824b07580a5a427ccdb52d0c314774ea9",
       "source": "TASS (RU)",
@@ -681,92 +725,6 @@
       },
       "topics": [
         "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "3a0320f21144856393b2e598a686c8ddd15e4b78",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/07/10/ukraine-strikes-oil-refinery-in-southern-russia-a93215",
-      "published_utc": "2026-07-10T07:32:00Z",
-      "title_en": "Ukraine Strikes Oil Refinery in Southern Russia",
-      "lead_en": "Authorities in the city of Taganrog evacuated some residents from their homes following a separate strike on a seaport.",
-      "title_raw": "Ukraine Strikes Oil Refinery in Southern Russia",
-      "lead_raw": "Authorities in the city of Taganrog evacuated some residents from their homes following a separate strike on a seaport.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "3ea195e20115f548d63b6ca76faea588c7f5ace8",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/society/2158481",
-      "published_utc": "2026-07-10T07:13:47Z",
-      "title_en": "FACTBOX: What we know about foiled attack on military airfield in Rostov-on-Don",
-      "lead_en": "The FSB identified a Russian citizen in the Rostov Region sought by Ukraine's military intelligence to recruit to carry out a sabotage and terrorist attack in exchange for a monetary reward after blowing up the Rostov-Central military airfield",
-      "title_raw": "FACTBOX: What we know about foiled attack on military airfield in Rostov-on-Don",
-      "lead_raw": "The FSB identified a Russian citizen in the Rostov Region sought by Ukraine's military intelligence to recruit to carry out a sabotage and terrorist attack in exchange for a monetary reward after blowing up the Rostov-Central military airfield",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "582319277eb33c113f47ab7799d5bf50c6e687e7",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/10/over-370-ukrainian-drones-strike-russian-regions-ilsky-oil-refinery-catches-fire-in-krasnodar-krai-petroleum-depots-and-seaport-ablaze-in-rostov-region",
-      "published_utc": "2026-07-10T06:57:59Z",
-      "title_en": "Over 370 Ukrainian drones strike Russian regions; Ilsky oil refinery catches fire in Krasnodar Krai, petroleum depots and seaport ablaze in Rostov region",
-      "lead_en": "Debris from Ukrainian drones that struck the Seversky district of Krasnodar Krai set fire to the Ilsky oil refinery, the regional operations center reported.",
-      "title_raw": "Over 370 Ukrainian drones strike Russian regions; Ilsky oil refinery catches fire in Krasnodar Krai, petroleum depots and seaport ablaze in Rostov region",
-      "lead_raw": "Debris from Ukrainian drones that struck the Seversky district of Krasnodar Krai set fire to the Ilsky oil refinery, the regional operations center reported.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e4367b2ce1415033100b1332558c7fc362236fc0",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2158465",
-      "published_utc": "2026-07-10T06:48:49Z",
-      "title_en": "Oil refinery fire, evacuations in Taganrog, 376 UAVs target Russia: new attacks",
-      "lead_en": "A fire broke out at the Ilsky oil refinery in the Seversky district of the Krasnodar Region after UAV debris fell on the site",
-      "title_raw": "Oil refinery fire, evacuations in Taganrog, 376 UAVs target Russia: new attacks",
-      "lead_raw": "A fire broke out at the Ilsky oil refinery in the Seversky district of the Krasnodar Region after UAV debris fell on the site",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "energy",
-        "local_events"
       ],
       "primary_topic": "energy"
     }
