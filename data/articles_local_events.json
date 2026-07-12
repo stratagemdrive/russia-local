@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-07-12T11:59:08Z",
+  "updated_at_utc": "2026-07-12T14:55:46Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 6,
   "articles": [
+    {
+      "id": "c55133174d3f153d5443fc77d2a63ad01c92ef16",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27909915",
+      "published_utc": "2026-07-12T12:27:00Z",
+      "title_en": "Venezuela thanks Putin and Russians for humanitarian assistance",
+      "lead_en": "The Minister of Foreign Affairs of the South American republic, Ivan Gil Pinto, noted that the Russian side began to provide support from the first minutes after the earthquake",
+      "title_raw": "Венесуэла поблагодарила Путина и россиян за гуманитарную помощь",
+      "lead_raw": "Министр иностранных дел южноамериканской республики Иван Хиль Пинто отметил, что российская сторона начала оказывать поддержку с первых минут после землетрясения",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "866d560da206a374da58bbbca8214689186024cb",
       "source": "TASS (EN)",
@@ -100,27 +119,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "cbfc662ef3102f5ac850fc87d71e77893fb2c0e8",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/07/10/russian-propaganda-claimed-a-girl-was-rescued-from-liberated-kostiantynivka-she-had-been-far-from-the-front-for-weeks",
-      "published_utc": "2026-07-10T14:37:02Z",
-      "title_en": "Russian propaganda claimed a girl was ‘rescued’ from ‘liberated’ Kostiantynivka. She had been far from the front for weeks.",
-      "lead_en": "Russian propaganda has been pushing a story about the rescue of a 10-year-old girl from Kostiantynivka, a city in the Donetsk region that Vladimir Putin was told Russian forces had fully captured in early July — though Ukraine says the city remains under Ukrainian military control. The independent Russian investigative outlet Agentstvo found a hole in the account: the girl appears to have been far from the front line for at least a month before reports of her “rescue” surfaced.",
-      "title_raw": "Russian propaganda claimed a girl was ‘rescued’ from ‘liberated’ Kostiantynivka. She had been far from the front for weeks.",
-      "lead_raw": "Russian propaganda has been pushing a story about the rescue of a 10-year-old girl from Kostiantynivka, a city in the Donetsk region that Vladimir Putin was told Russian forces had fully captured in early July — though Ukraine says the city remains under Ukrainian military control. The independent Russian investigative outlet Agentstvo found a hole in the account: the girl appears to have been far from the front line for at least a month before reports of her “rescue” surfaced.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
