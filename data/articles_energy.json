@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-07-13T02:45:30Z",
+  "updated_at_utc": "2026-07-13T06:18:14Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 14,
+  "count": 12,
   "articles": [
+    {
+      "id": "c79d643f456aaee5d1ef2352d5494eb262903843",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27910923",
+      "published_utc": "2026-07-13T05:09:52Z",
+      "title_en": "Economist Kopeikin: the sharp demand for fuel in the Russian Federation will not become a long-term story",
+      "lead_en": "The timing of population adaptation may vary from region to region, he believes",
+      "title_raw": "Экономист Копейкин: резкий спрос на топливо в РФ не станет долгосрочной историей",
+      "lead_raw": "Сроки адаптации населения при этом могут различаться от региона к региону, считает он",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "af56a5add1ef6885c9f3de62c03f57334d9c236c",
       "source": "TASS (RU)",
@@ -242,71 +263,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "ce61127e9441c3be5fb927904d3c93ca6a67d823",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2158953",
-      "published_utc": "2026-07-11T05:59:41Z",
-      "title_en": "Russian forces strike military-industrial complex enterprises in Kiev — top brass",
-      "lead_en": "The Russian Defense Ministry added that port infrastructure facilities in Odessa, Chernomorsk, and Izmail in the Odessa region, used for the delivery and storage of military cargo and fuel and lubricants, were also struck",
-      "title_raw": "Russian forces strike military-industrial complex enterprises in Kiev — top brass",
-      "lead_raw": "The Russian Defense Ministry added that port infrastructure facilities in Odessa, Chernomorsk, and Izmail in the Odessa region, used for the delivery and storage of military cargo and fuel and lubricants, were also struck",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "19e47b010f76e5939c5562b845b4a1be66261c80",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27907777",
-      "published_utc": "2026-07-11T05:19:05Z",
-      "title_en": "The Russian Armed Forces disabled a power substation in the Chernihiv region",
-      "lead_en": "Russian troops carried out a strike with a Geranium-2 Seeker drone",
-      "title_raw": "ВС РФ вывели из строя энергоподстанцию в Черниговской области",
-      "lead_raw": "Российские войска нанесли удар беспилотником \"Герань-2 Сикер\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "b05ca7c962522aa57b70512abd0e32ded9348ea4",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/nauka/27907665",
-      "published_utc": "2026-07-11T04:18:21Z",
-      "title_en": "The first manual on cleaning bottom sediments from oil has been created in Russia",
-      "lead_en": "It was released by scientists from Tomsk State University",
-      "title_raw": "В России создано первое пособие по очистке донных отложений от нефти",
-      "lead_raw": "Его выпустили ученые Томского госуниверситета",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
