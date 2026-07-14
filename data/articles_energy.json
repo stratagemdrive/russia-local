@@ -1,9 +1,72 @@
 {
-  "updated_at_utc": "2026-07-14T08:03:33Z",
+  "updated_at_utc": "2026-07-14T10:45:54Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 29,
+  "count": 30,
   "articles": [
+    {
+      "id": "4a3e1d343f5381a253cccaf470616ec05f39310e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2159971",
+      "published_utc": "2026-07-14T10:02:47Z",
+      "title_en": "Casualties in Kuban, fire at Afipsky refinery, 288 UAVs: aftermath of attacks on regions",
+      "lead_en": "In total, the Ukrainan drones attacked 15 Russian regions",
+      "title_raw": "Casualties in Kuban, fire at Afipsky refinery, 288 UAVs: aftermath of attacks on regions",
+      "lead_raw": "In total, the Ukrainan drones attacked 15 Russian regions",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "4e24cc09c0444b73e769677221fcce12cd413a9b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/nauka/27915593",
+      "published_utc": "2026-07-14T09:46:00Z",
+      "title_en": "Russia has proposed an optimal strategy for the flight of probes to interstellar objects",
+      "lead_en": "The development will reduce fuel consumption by approximately 30%, from 40 kg to 30 kg, when intercepting asteroids",
+      "title_raw": "В России предложили оптимальную стратегию полета зондов к межзвездным объектам",
+      "lead_raw": "Разработка позволит сократить расход топлива примерно на 30%, с 40 кг до 30 кг, при перехвате астероидов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "fcbc1dc4706003859f1316aed561d44c7f3b5842",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/07/14/ukraine-hits-oil-refineries-in-krasnodar-and-bashkortostan-a93239",
+      "published_utc": "2026-07-14T08:35:09Z",
+      "title_en": "Ukraine Hits Oil Refineries in Krasnodar and Bashkortostan",
+      "lead_en": "Ukraine has struck most of Russia’s oil refineries in recent months, leading to acute fuel shortages in some parts of the country.",
+      "title_raw": "Ukraine Hits Oil Refineries in Krasnodar and Bashkortostan",
+      "lead_raw": "Ukraine has struck most of Russia’s oil refineries in recent months, leading to acute fuel shortages in some parts of the country.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "a95240311737f9742291ff36fef2f5d18c30073b",
       "source": "TASS (RU)",
@@ -583,48 +646,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "6ccfb5d65c2d38cb3311c4407c9e67313c7523a2",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/07/12/russia-says-ukraine-struck-tanker-in-sea-of-azov-a93227",
-      "published_utc": "2026-07-12T09:56:08Z",
-      "title_en": "Russia Says Ukraine Struck Tanker in Sea of Azov",
-      "lead_en": "Authorities said there was no risk of an oil spill because the vessel was empty.",
-      "title_raw": "Russia Says Ukraine Struck Tanker in Sea of Azov",
-      "lead_raw": "Authorities said there was no risk of an oil spill because the vessel was empty.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "a61da84994fdb6fdc898dd4612b6e87fb8485e66",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27909651",
-      "published_utc": "2026-07-12T09:07:16Z",
-      "title_en": "The Russian Armed Forces hit energy and transport facilities of the Armed Forces of Ukraine within 24 hours",
-      "lead_en": "Enemy temporary deployment points in 158 districts were also hit.",
-      "title_raw": "ВС РФ за сутки поразили объекты энергетики и транспорта ВСУ",
-      "lead_raw": "Поражены также пункты временной дислокации противника в 158 районах",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
