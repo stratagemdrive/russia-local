@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-07-14T18:02:24Z",
+  "updated_at_utc": "2026-07-14T20:11:02Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 100,
+  "count": 101,
   "articles": [
+    {
+      "id": "cc15b3b0cb24e116b01dff1b00c52094a64a9dd2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27917329",
+      "published_utc": "2026-07-14T19:44:32Z",
+      "title_en": "WSJ: the bill on US sanctions against the Russian Federation makes it possible to introduce duties up to 100%",
+      "lead_en": "The newspaper claims that the document is aimed at the five countries that buy the most Russian energy, including China and India",
+      "title_raw": "WSJ: законопроект о санкциях США против РФ дает возможность ввести пошлины до 100%",
+      "lead_raw": "Газета утверждает, что документ нацелен на пять стран, покупающих больше всего российских энергоносителей, в том числе Китай и Индию",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "dee5243132377ee2c630e812d64fc9b85f6b6e9f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2160255",
+      "published_utc": "2026-07-14T18:06:34Z",
+      "title_en": "Trump speaks contradictorily about chances of passing bill on sanctions against Russia",
+      "lead_en": "The US president said that key provisions of the document had not been discussed with him and that he needs to review them",
+      "title_raw": "Trump speaks contradictorily about chances of passing bill on sanctions against Russia",
+      "lead_raw": "The US president said that key provisions of the document had not been discussed with him and that he needs to review them",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
     {
       "id": "b344ee67c361dc531899b81c3d562c241f15144d",
       "source": "TASS (EN)",
@@ -1994,27 +2034,6 @@
         "local_events": 0
       },
       "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "83785f62f9c59a3148b9dce4ece3d014a922d2dc",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27910283",
-      "published_utc": "2026-07-12T18:08:56Z",
-      "title_en": "Dmitriev compared Britain to a “fallen empire”",
-      "lead_en": "The reason is problems with migration in the country, noted the special representative of the Russian President for investment and economic cooperation with foreign countries",
-      "title_raw": "Дмитриев сравнил Великобританию с \"падшей империей\"",
-      "lead_raw": "Причиной являются проблемы с миграцией в стране, отметил спецпредставитель президента РФ по инвестиционно-экономическому сотрудничеству с зарубежными странам",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
       "primary_topic": "economy"
     }
   ]
