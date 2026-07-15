@@ -1,17 +1,118 @@
 {
-  "updated_at_utc": "2026-07-15T19:09:50Z",
+  "updated_at_utc": "2026-07-15T20:59:43Z",
   "keep_hours": 48,
-  "count": 581,
+  "count": 588,
   "articles": [
     {
-      "id": "2248ced54d185af7fa2c330055814b1cf35066f9",
+      "id": "3026d466a6e0ee8b54c0dc44476f2f944b33be3b",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/07/15/ukrainian-drone-strikes-have-cut-russia-s-gasoline-output-to-65-of-seasonal-demand-and-pump-prices-jumped-another-2-3-last-week",
+      "published_utc": "2026-07-15T20:52:52Z",
+      "title_en": "Ukrainian drone strikes have cut Russia’s gasoline output to 65% of seasonal demand — and pump prices jumped another 2.3% last week",
+      "lead_en": "Russian consumer gasoline prices rose 2.3% in the week of July 7–13, while diesel climbed 3.2%, according to Rosstat.",
+      "title_raw": "Ukrainian drone strikes have cut Russia’s gasoline output to 65% of seasonal demand — and pump prices jumped another 2.3% last week",
+      "lead_raw": "Russian consumer gasoline prices rose 2.3% in the week of July 7–13, while diesel climbed 3.2%, according to Rosstat.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "dc42276ae92f3ab8aa5fb03c64ed07421c14ee0a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2160801",
+      "published_utc": "2026-07-15T20:30:40Z",
+      "title_en": "Closure of Bab el-Mandeb Strait by Houthis to deal blow to container shipping market",
+      "lead_en": "According to Vice President of the Russian International Affairs Council Mikhail Margelov, this event would not have a critical impact on oil supplies",
+      "title_raw": "Closure of Bab el-Mandeb Strait by Houthis to deal blow to container shipping market",
+      "lead_raw": "According to Vice President of the Russian International Affairs Council Mikhail Margelov, this event would not have a critical impact on oil supplies",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "89e844f55a21e67091e4a68f9af68526c904984e",
       "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27920689",
-      "published_utc": "2026-07-15T19:02:56Z",
-      "title_en": "Russian Defense Ministry: conscripts were not sent to the Northern Military District zone, Donbass and Novorossiya",
-      "lead_en": "",
-      "title_raw": "МО РФ: призывники не направлялись в зону СВО, Донбасс и Новороссию",
-      "lead_raw": "",
+      "url": "https://tass.ru/proisshestviya/27920779",
+      "published_utc": "2026-07-15T20:26:14Z",
+      "title_en": "In the Saratov region, the threat of a UAV attack was canceled",
+      "lead_en": "This is reported in the application of the Ministry of Emergency Situations of Russia",
+      "title_raw": "В Саратовской области отменили угрозу атаки БПЛА",
+      "lead_raw": "Об этом сообщается в приложении МЧС России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "8b66145ad5e0a4e2d9aed5036a4d477707101c91",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/07/15/the-russian-counterterrorism-unit-behind-alexei-navalny-s-poisoning-tried-to-automate-its-search-for-domestic-dissent-using-meta-s-llama-2-after-a-year-and-a-half-the-project-collapsed",
+      "published_utc": "2026-07-15T20:11:55Z",
+      "title_en": "The Russian ‘counterterrorism’ unit behind Alexei Navalny’s poisoning tried to automate its search for domestic dissent using Meta’s Llama 2. After a year and a half, the project collapsed.",
+      "lead_en": "The FSB’s Second Service is officially charged with protecting the constitutional order and combating terrorism. In practice, the unit works to stamp out dissent in Russia: it has plotted the assassinations of opposition politicians, works to restrict internet access, and monitors the news for signs of dissent.",
+      "title_raw": "The Russian ‘counterterrorism’ unit behind Alexei Navalny’s poisoning tried to automate its search for domestic dissent using Meta’s Llama 2. After a year and a half, the project collapsed.",
+      "lead_raw": "The FSB’s Second Service is officially charged with protecting the constitutional order and combating terrorism. In practice, the unit works to stamp out dissent in Russia: it has plotted the assassinations of opposition politicians, works to restrict internet access, and monitors the news for signs of dissent.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "8e3b665a49b2bfca461861b484da37bb7accf6ac",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27920767",
+      "published_utc": "2026-07-15T20:09:56Z",
+      "title_en": "The Russian Foreign Ministry commented on the murder of the chief engineer of Zaporizhia NPP",
+      "lead_en": "Against the backdrop of the murder of Alexander Yakovlev, claims against the Russian Federation about the deployment of the necessary security forces at the station sound cynical, the Russian diplomatic service noted",
+      "title_raw": "МИД РФ прокомментировал убийство главного инженера ЗАЭС",
+      "lead_raw": "На фоне убийства Александра Яковлева цинично звучат претензии в адрес РФ о размещении необходимых сил охраны на станции, отметили в российском дипведомстве",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "d802d069aeee4818384579a07167c2fc7c345dd7",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2160783",
+      "published_utc": "2026-07-15T20:07:40Z",
+      "title_en": "EU defense spending nearing pre-World War II levels, Russian diplomat says",
+      "lead_en": "According to various estimates, planned defense-industrial spending in some member states is approaching the levels seen on the eve of World War II,\" Yulia Zhdanova said",
+      "title_raw": "EU defense spending nearing pre-World War II levels, Russian diplomat says",
+      "lead_raw": "According to various estimates, planned defense-industrial spending in some member states is approaching the levels seen on the eve of World War II,\" Yulia Zhdanova said",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
@@ -21,6 +122,141 @@
       },
       "topics": [],
       "primary_topic": null
+    },
+    {
+      "id": "49ef86bf209d693fff179d0b2da378ce0dbfc680",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27920741",
+      "published_utc": "2026-07-15T19:46:08Z",
+      "title_en": "Grossi condemned the murder of the chief engineer of Zaporizhia NPP",
+      "lead_en": "The IAEA Director General also again called for an immediate cessation of any attacks on nuclear facilities and their personnel",
+      "title_raw": "Гросси осудил убийство главного инженера ЗАЭС",
+      "lead_raw": "Гендиректор МАГАТЭ также вновь призвал к немедленному прекращению любых атак на ядерные объекты и их персонал",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "52ea262557a4ac85af1ae43b8c290bf96f4bfb4e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27920735",
+      "published_utc": "2026-07-15T19:37:58Z",
+      "title_en": "ATOR: Almaviva visa center introduces mandatory biometrics for Russian applicants",
+      "lead_en": "According to tourism market participants, the measure is related to the fight against filing documents not at the place of actual residence - when applicants use an amended registration to apply to a visa center that is more convenient for them",
+      "title_raw": "АТОР: визовый центр Almaviva вводит обязательную биометрию для заявителей РФ",
+      "lead_raw": "По данным участников туристического рынка, мера связана с борьбой против подачи документов не по месту фактического проживания - когда заявители используют измененную регистрацию, чтобы обратиться в более удобный для них визовый центр",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "7379b2ad036c477006617076fae922336394d11c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27920733",
+      "published_utc": "2026-07-15T19:31:48Z",
+      "title_en": "The owner of Shikimori faces a fine of 400 thousand rubles for LGBT propaganda",
+      "lead_en": "Roskomnadzor previously blocked access to the online encyclopedia about anime in the Russian Federation",
+      "title_raw": "Владельцу Shikimori грозит штраф в 400 тыс. рублей за пропаганду ЛГБТ",
+      "lead_raw": "Роскомнадзор ранее заблокировал доступ к онлайн-энциклопедии об аниме на территории РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "a6ae44409d23ba594c198f9934fbd4c4f9dce3b9",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27920731",
+      "published_utc": "2026-07-15T19:30:36Z",
+      "title_en": "\"ML-Vitebsk\" finished its performance in the Champions League qualification, losing to \"Universitate\"",
+      "lead_en": "The Belarusian club will continue qualifying for the final part of European tournaments in the second qualifying round of the Europa League",
+      "title_raw": "\"МЛ-Витебск\" завершил выступление в квалификации ЛЧ, уступив \"Университате\"",
+      "lead_raw": "Белорусский клуб продолжит отбор в финальную часть европейских турниров во втором квалификационном раунде Лиги Европы",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "58e506c14f312d685a5762c91fc9f1350c56d121",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27920717",
+      "published_utc": "2026-07-15T19:24:31Z",
+      "title_en": "It's up to Europe. Russian handball players have been returned to the international arena",
+      "lead_en": "The International Handball Federation allowed Russians to compete with the flag and anthem",
+      "title_raw": "Дело за Европой. Российских гандболистов вернули на международную арену",
+      "lead_raw": "Международная федерация гандбола допустила россиян до соревнований с флагом и гимном",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "2b16c3e5f10e64d5e2be3bb98b0e92306af94d7f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2160769",
+      "published_utc": "2026-07-15T19:16:02Z",
+      "title_en": "Russian exports of grain, grain-based products up 69% year-to-date",
+      "lead_en": "An increase in grain shipments from Russia was recorded: to Turkey, Egypt, China, Iran, Kazakhstan, Sudan, Kenya",
+      "title_raw": "Russian exports of grain, grain-based products up 69% year-to-date",
+      "lead_raw": "An increase in grain shipments from Russia was recorded: to Turkey, Egypt, China, Iran, Kazakhstan, Sudan, Kenya",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "2248ced54d185af7fa2c330055814b1cf35066f9",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27920689",
+      "published_utc": "2026-07-15T19:02:56Z",
+      "title_en": "Russian Defense Ministry: conscripts were not sent to the Northern Military District zone, Donbass and Novorossiya",
+      "lead_en": "They were not sent to participate there in carrying out the tasks of a special military operation, the Russian Ministry of Defense noted.",
+      "title_raw": "МО РФ: призывники не направлялись в зону СВО, Донбасс и Новороссию",
+      "lead_raw": "Их не отправляли для участия там в выполнении задач специальной военной операции, отметили в Минобороны России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
     },
     {
       "id": "e1f20698d61e2bf004c095891f23ed9e044bcb28",
@@ -49,18 +285,20 @@
       "url": "https://tass.ru/armiya-i-opk/27920679",
       "published_utc": "2026-07-15T19:01:10Z",
       "title_en": "Conscripts who served their required term were dismissed from the Russian Armed Forces",
-      "lead_en": "",
-      "title_raw": "Отслужившие положенный срок призывники уволены из ВС России",
-      "lead_raw": "",
+      "lead_en": "They were sent to their places of residence, the Ministry of Defense noted.",
+      "title_raw": "Отслуживших положенный срок призывников уволили из ВС России",
+      "lead_raw": "Их направили к местам проживания, отметили в Минобороны",
       "topic_scores": {
         "diplomacy": 0,
-        "military": 0,
+        "military": 1,
         "energy": 0,
         "economy": 0,
         "local_events": 0
       },
-      "topics": [],
-      "primary_topic": null
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
     },
     {
       "id": "853b87a9e058d0a7c3e585fcb9be7dbce2e50908",
@@ -68,18 +306,20 @@
       "url": "https://tass.ru/armiya-i-opk/27920675",
       "published_utc": "2026-07-15T19:00:48Z",
       "title_en": "141 thousand conscripts were sent to the Russian Armed Forces in the spring",
-      "lead_en": "",
+      "lead_en": "The spring period of sending citizens called up for military service has ended, the Ministry of Defense noted.",
       "title_raw": "В ВС РФ весной направили 141 тыс. призывников",
-      "lead_raw": "",
+      "lead_raw": "Весенний период отправок граждан, призванных на военную службу, завершен, отметили в Минобороны",
       "topic_scores": {
         "diplomacy": 0,
-        "military": 0,
+        "military": 2,
         "energy": 0,
         "economy": 0,
         "local_events": 0
       },
-      "topics": [],
-      "primary_topic": null
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
     },
     {
       "id": "6ef94bd8d8719a5e286e62c3f8ff1be492358fac",
@@ -5846,7 +6086,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/mezhdunarodnaya-panorama/27917455",
       "published_utc": "2026-07-14T21:43:07Z",
-      "title_en": "Rodriguez thanked Russia for humanitarian assistance to Venezuela",
+      "title_en": "Rodriguez thanked Russia for humanitarian aid to Venezuela",
       "lead_en": "The Ministry of Emergency Situations of the Russian Federation delivered and handed over to the Venezuelan side food products, tents for temporary accommodation of people left homeless, basic necessities, motor pumps and medicines",
       "title_raw": "Родригес поблагодарила Россию за гуманитарную помощь Венесуэле",
       "lead_raw": "МЧС РФ доставили и передали венесуэльской стороне продукты питания, палатки для временного размещения людей, оставшихся без крова, предметы первой необходимости, мотопомпы и медикаменты",
@@ -11497,107 +11737,6 @@
       "lead_en": "Since the beginning of summer, specialists have examined more than 87 thousand water samples, Rospotrebnadzor reported.",
       "title_raw": "В России в 2026 году действует более 2 тыс. пляжей",
       "lead_raw": "С начала лета специалисты исследовали более 87 тыс. проб воды, сообщили в Роспотребнадзоре",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "8fe889c7dab923f886f8bc90bad452005e9c33f9",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27913749",
-      "published_utc": "2026-07-13T20:21:13Z",
-      "title_en": "CNN: Trump will support anti-Russian sanctions bill",
-      "lead_en": "If adopted by Congress, the document will open the way for the administration of the American leader, including the introduction of duties against countries purchasing Russian oil.",
-      "title_raw": "CNN: Трамп поддержит законопроект об антироссийских санкциях",
-      "lead_raw": "В случае принятия Конгрессом документ откроет администрации американского лидера дорогу в том числе для введения пошлин против стран, закупающих российскую нефть",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "746e877993cae11ede7456baa530cf9bb47982dc",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27913755",
-      "published_utc": "2026-07-13T20:14:29Z",
-      "title_en": "Spanish Sporting announced the transfer of Russian football player Iosifov",
-      "lead_en": "Over the past two seasons, the midfielder has played for the Slovenian Celje.",
-      "title_raw": "Испанский \"Спортинг\" объявил о переходе российского футболиста Иосифова",
-      "lead_raw": "На протяжении последних двух сезонов полузащитник выступал за словенский \"Целе\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "e8e808f9df4416cd03e2a7263216edb4a6c98f4e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27913739",
-      "published_utc": "2026-07-13T20:02:02Z",
-      "title_en": "The Slovak Foreign Ministry stated that the new EU sanctions against the Russian Federation do not contradict the interests of",
-      "lead_en": "The discussion about a new package of restrictions will continue, noted State Secretary of the Slovak Foreign Ministry Marek Eshtok",
-      "title_raw": "В МИД Словакии заявили, что новые санкции ЕС против РФ не противоречат интересам",
-      "lead_raw": "Дискуссия о новом пакете рестрикций будет продолжаться, отметил государственный секретарь словацкого МИД Марек Эшток",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "9904dcdf21cfb3028a79aa816485818165319d87",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/07/13/nyt-reveals-how-russia-gets-japanese-technology-into-its-weapons-a-secret-gru-unit-an-aeroflot-cover-job-and-a-cargo-route-through-sri-lanka",
-      "published_utc": "2026-07-13T19:54:04Z",
-      "title_en": "NYT reveals how Russia gets Japanese technology into its weapons: a secret GRU unit, an Aeroflot cover job, and a cargo route through Sri Lanka",
-      "lead_en": "Russian weapons keep turning up with Japanese-made components inside. The manufacturers maintain that they export no sensitive technology to Russia.",
-      "title_raw": "NYT reveals how Russia gets Japanese technology into its weapons: a secret GRU unit, an Aeroflot cover job, and a cargo route through Sri Lanka",
-      "lead_raw": "Russian weapons keep turning up with Japanese-made components inside. The manufacturers maintain that they export no sensitive technology to Russia.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "484e4a2c8b95e5343892988d7dc13875b8f97836",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/kosmos/27913705",
-      "published_utc": "2026-07-13T19:24:53Z",
-      "title_en": "Bakanov called the relationship between Roscosmos and NASA good and working",
-      "lead_en": "The head of Roscosmos noted that the head of the National Aeronautics and Space Administration, Jared Isaacman, is aware of Soviet and Russian space history",
-      "title_raw": "Баканов назвал взаимоотношения между Роскосмосом и NASA добрыми и рабочими",
-      "lead_raw": "Глава Роскосмоса отметил, что руководитель Национального управления по аэронавтике и исследованию космического пространства Джаред Айзекман в курсе советской и российской истории космоса",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
