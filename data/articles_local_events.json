@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-07-14T21:57:12Z",
+  "updated_at_utc": "2026-07-14T22:59:57Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 19,
   "articles": [
+    {
+      "id": "87d634a9e726cf8dac074e96f4432e1d327d5231",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27917455",
+      "published_utc": "2026-07-14T21:43:07Z",
+      "title_en": "Rodriguez thanked Russia for humanitarian aid to Venezuela",
+      "lead_en": "The Ministry of Emergency Situations of the Russian Federation delivered and handed over to the Venezuelan side food products, tents for temporary accommodation of people left homeless, basic necessities, motor pumps and medicines",
+      "title_raw": "Родригес поблагодарила Россию за гуманитарную помощь Венесуэле",
+      "lead_raw": "МЧС РФ доставили и передали венесуэльской стороне продукты питания, палатки для временного размещения людей, оставшихся без крова, предметы первой необходимости, мотопомпы и медикаменты",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "70ef93bb6f373d1a8cdae5ee67c63c8181f3d04b",
       "source": "TASS (RU)",
@@ -367,27 +386,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "88a17c3cf41f64c6cbeb4875acfefecbc33ab81e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27910461",
-      "published_utc": "2026-07-12T22:06:57Z",
-      "title_en": "Venezuela thanks Russia for humanitarian aid and support after the earthquake",
-      "lead_en": "Moscow was together with Caracas “in many difficult circumstances,” noted Deputy Foreign Minister of the Republic Andrea Corao",
-      "title_raw": "Венесуэла поблагодарила РФ за гумпомощь и поддержку после землетрясения",
-      "lead_raw": "Москва была вместе с Каракасом \"во многих трудных обстоятельствах\", отметила замглавы МИД республики Андреа Корао",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
