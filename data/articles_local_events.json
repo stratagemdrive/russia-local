@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-07-15T06:13:35Z",
+  "updated_at_utc": "2026-07-15T09:08:51Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 19,
+  "count": 17,
   "articles": [
+    {
+      "id": "76f408505a269706a5c9f223703047638cda1879",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2160457",
+      "published_utc": "2026-07-15T08:56:47Z",
+      "title_en": "Venezuela’s acting president expresses gratitude for Russia’s solidarity — ambassador",
+      "lead_en": "At the end of last week, the Russian Emergencies Ministry delivered over 35 tons of humanitarian aid to Venezuela aboard two aircraft for those affected by the devastating earthquake",
+      "title_raw": "Venezuela’s acting president expresses gratitude for Russia’s solidarity — ambassador",
+      "lead_raw": "At the end of last week, the Russian Emergencies Ministry delivered over 35 tons of humanitarian aid to Venezuela aboard two aircraft for those affected by the devastating earthquake",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "0b628d339bac4d8f66afdd8470034b115ca3c920",
       "source": "TASS (EN)",
@@ -49,7 +70,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/mezhdunarodnaya-panorama/27917455",
       "published_utc": "2026-07-14T21:43:07Z",
-      "title_en": "Rodriguez thanked Russia for humanitarian aid to Venezuela",
+      "title_en": "Rodriguez thanked Russia for humanitarian assistance to Venezuela",
       "lead_en": "The Ministry of Emergency Situations of the Russian Federation delivered and handed over to the Venezuelan side food products, tents for temporary accommodation of people left homeless, basic necessities, motor pumps and medicines",
       "title_raw": "Родригес поблагодарила Россию за гуманитарную помощь Венесуэле",
       "lead_raw": "МЧС РФ доставили и передали венесуэльской стороне продукты питания, палатки для временного размещения людей, оставшихся без крова, предметы первой необходимости, мотопомпы и медикаменты",
@@ -316,67 +337,6 @@
       "lead_en": "According to the General Director of the Territory Development Fund Vasily Kupyzin, at the expense of the regions’ own funds, out of the total number of resettled people, the living conditions of more than 15.2 thousand people were improved.",
       "title_raw": "ФРТ: из аварийных домов за полгода расселили около 35 тыс. россиян",
       "lead_raw": "По словам гендиректора Фонда развития территорий Василия Купызина, за счет собственных средств регионов из общего количества переселенных людей жилищные условия улучшили более 15,2 тыс. человек",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "8cf441d773d50a97f1aa0da0728cd2298149422d",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/07/13/4-killed-in-ukrainian-drone-attacks-across-russia-a93230",
-      "published_utc": "2026-07-13T09:08:00Z",
-      "title_en": "4 Killed in Ukrainian Drone Attacks Across Russia",
-      "lead_en": "Military and regional authorities said Russian air defense units downed hundreds of drones between Sunday night and Monday morning.",
-      "title_raw": "4 Killed in Ukrainian Drone Attacks Across Russia",
-      "lead_raw": "Military and regional authorities said Russian air defense units downed hundreds of drones between Sunday night and Monday morning.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "155d32db2630c2e6da1eeee3a794dc4cf17e468a",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2159381",
-      "published_utc": "2026-07-13T09:03:35Z",
-      "title_en": "Three killed in Moscow region as Russian air defenses shoot down 342 drones in past night",
-      "lead_en": "Ukrainian UAVs were intercepted over 15 Russian regions",
-      "title_raw": "Three killed in Moscow region as Russian air defenses shoot down 342 drones in past night",
-      "lead_raw": "Ukrainian UAVs were intercepted over 15 Russian regions",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "694c70a051e531098daf0de45f2910f43bd5f79c",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2159355",
-      "published_utc": "2026-07-13T08:16:22Z",
-      "title_en": "Russian forces suppress Ukrainian artillery in Krasny Liman direction — soldier",
-      "lead_en": "Crews of Russian 152-mm self-propelled guns of the Battlegroup West carry out fire missions daily, supporting assault units and destroying targets at ranges of over 25 kilometers",
-      "title_raw": "Russian forces suppress Ukrainian artillery in Krasny Liman direction — soldier",
-      "lead_raw": "Crews of Russian 152-mm self-propelled guns of the Battlegroup West carry out fire missions daily, supporting assault units and destroying targets at ranges of over 25 kilometers",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
