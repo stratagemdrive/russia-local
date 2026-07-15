@@ -1,9 +1,51 @@
 {
-  "updated_at_utc": "2026-07-15T09:08:51Z",
+  "updated_at_utc": "2026-07-15T11:28:12Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 49,
+  "count": 50,
   "articles": [
+    {
+      "id": "ad1eb14a0bcd1cb73d68417214d6161101e8be86",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27919255",
+      "published_utc": "2026-07-15T11:15:32Z",
+      "title_en": "Novak: the Russian fuel market is filled with diesel supply",
+      "lead_en": "",
+      "title_raw": "Новак: рынок топлива России наполняется предложением дизеля",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "a4bd2fa09d14cd3fba8e4603825e8f6295ac24a6",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/society/2160461",
+      "published_utc": "2026-07-15T09:17:33Z",
+      "title_en": "What we know about detention of man who planned sabotage at oil company in Russia’s Yugra",
+      "lead_en": "The detainee has confessed to plotting a terrorist attack on an oil company in Nyagan",
+      "title_raw": "What we know about detention of man who planned sabotage at oil company in Russia’s Yugra",
+      "lead_raw": "The detainee has confessed to plotting a terrorist attack on an oil company in Nyagan",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "491f70f00ad856c5cf2bb87135ef329a523f751c",
       "source": "TASS (EN)",
@@ -1027,28 +1069,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "e3a44e82e288841af227e9a961048c69954c230d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27912009",
-      "published_utc": "2026-07-13T10:04:35Z",
-      "title_en": "The German Foreign Ministry expects the EU to agree on sanctions against Russia this week",
-      "lead_en": "According to the head of the department, Johann Wadeful, we are talking, among other things, about the ceiling on oil prices",
-      "title_raw": "МИД ФРГ рассчитывает, что ЕС договорится о санкциях против РФ на этой неделе",
-      "lead_raw": "По словам главы ведомства Йоханна Вадефуля, речь идет в том числе о потолке цен на нефть",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
