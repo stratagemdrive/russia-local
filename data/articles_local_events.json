@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-07-15T03:21:07Z",
+  "updated_at_utc": "2026-07-15T06:13:35Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 20,
+  "count": 19,
   "articles": [
+    {
+      "id": "0b628d339bac4d8f66afdd8470034b115ca3c920",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2160363",
+      "published_utc": "2026-07-15T04:22:17Z",
+      "title_en": "Three civilians injured in Ukrainian attacks on Russia’s Belgorod Region",
+      "lead_en": "The wounded were taken to hospitals",
+      "title_raw": "Three civilians injured in Ukrainian attacks on Russia’s Belgorod Region",
+      "lead_raw": "The wounded were taken to hospitals",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "7c68bea66e98f7820ab05463cbf5183ca1a9277e",
       "source": "RT",
@@ -367,46 +386,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "4e1ecc7e78d8f6564bf7247120d1314711fdc81c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27910927",
-      "published_utc": "2026-07-13T05:14:50Z",
-      "title_en": "TASS: no Russians were among those killed in a fire in a bar in Bangkok",
-      "lead_en": "27 people killed in fire in Lat Phrau district",
-      "title_raw": "ТАСС: среди погибших при пожаре в баре в Бангкоке нет россиян",
-      "lead_raw": "При возгорании в районе Латпхрау погибли 27 человек",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "9aaab6e29cee92b99f429454c738ade56e91d8a7",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2159277",
-      "published_utc": "2026-07-13T04:06:11Z",
-      "title_en": "Russian, Chinese warships repel mock drone attack in Yellow Sea drills",
-      "lead_en": "Over several days, the joint naval task force carried out live-fire drills using artillery and machine guns to repel a simulated attack by unmanned systems, including aerial drones and uncrewed surface vessels, the Russian Pacific Fleet's press service said",
-      "title_raw": "Russian, Chinese warships repel mock drone attack in Yellow Sea drills",
-      "lead_raw": "Over several days, the joint naval task force carried out live-fire drills using artillery and machine guns to repel a simulated attack by unmanned systems, including aerial drones and uncrewed surface vessels, the Russian Pacific Fleet's press service said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
