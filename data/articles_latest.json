@@ -1,8 +1,576 @@
 {
-  "updated_at_utc": "2026-07-15T22:09:21Z",
+  "updated_at_utc": "2026-07-16T03:18:52Z",
   "keep_hours": 48,
-  "count": 605,
+  "count": 594,
   "articles": [
+    {
+      "id": "9100e667165b2124a13d838d280deeac0ee09a82",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27921311",
+      "published_utc": "2026-07-16T03:06:42Z",
+      "title_en": "\"Mayak Arena\": in the Russian Federation, the revenue of computer clubs increased by 26% over the year",
+      "lead_en": "The Ural esports hub reported that their monthly audience reached 1.25 million people",
+      "title_raw": "\"Маяк Арена\": в РФ выручка компьютерных клубов за год выросла на 26%",
+      "lead_raw": "В киберспортивном хабе Урала сообщили, что их ежемесячная аудитория достигла 1,25 млн человек",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "35b0a11c54b40fe8251854a11d9d739895d2b12f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27921331",
+      "published_utc": "2026-07-16T03:05:49Z",
+      "title_en": "Air defense forces of the North destroyed more than 80 Ukrainian UAVs overnight",
+      "lead_en": "The group of troops said that Russian fighters immediately transmitted the coordinates of the targets",
+      "title_raw": "Силы ПВО \"Севера\" за ночь уничтожила более 80 украинских БПЛА",
+      "lead_raw": "В группировке войск заявили, что российские бойцы немедленно передали координаты целей",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "57a597457170bd49880e240bfae18cdd43e3dde0",
+      "source": "RT",
+      "url": "https://www.rt.com/news/643110-china-defends-firms-us-sanctions/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "published_utc": "2026-07-16T03:03:55Z",
+      "title_en": "China to ‘firmly defend’ its companies against US tariffs on Russian energy buyers",
+      "lead_en": "China has vowed to defend its firms after the US Senate proposed a bill that could impose 100% tariffs on top Russian energy buyers Read Full Article at RT.com",
+      "title_raw": "China to ‘firmly defend’ its companies against US tariffs on Russian energy buyers",
+      "lead_raw": "China has vowed to defend its firms after the US Senate proposed a bill that could impose 100% tariffs on top Russian energy buyers Read Full Article at RT.com",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "0a988b72900bd1cc3e2c7031e8605f6bb0186264",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27921329",
+      "published_utc": "2026-07-16T03:03:22Z",
+      "title_en": "The Russian Federation is testing the Perun laser system against all types of UAVs",
+      "lead_en": "SPC \"Svarog\" reported that during full-scale tests the development proved to be highly effective in countering drones",
+      "title_raw": "В РФ испытывают лазерный комплекс \"Перун\" против любых типов БПЛА",
+      "lead_raw": "В НПЦ \"Сварог\" сообщили, что в ходе натурных испытаний разработка доказала высокую эффективность в противодействии дронам",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "197cde64205414f8d30c39107aa6d8726df5adbf",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27921333",
+      "published_utc": "2026-07-16T03:02:55Z",
+      "title_en": "The \"North\" group killed more than 20 Ukrainian Armed Forces soldiers overnight",
+      "lead_en": "Russian fighters hit four fire groups, three UAV control posts and four enemy all-terrain vehicles",
+      "title_raw": "Группировка \"Север\" за ночь уничтожила более 20 солдат ВСУ",
+      "lead_raw": "Российские бойцы поразили четыре огневые группы, три пункта управления БПЛА и четыре автомобиля высокой проходимости противника",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "cdc3377d1b246567b6fc25d18da51a71b3e56b6f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/nauka/27921301",
+      "published_utc": "2026-07-16T02:57:43Z",
+      "title_en": "Giant Chinese clams have significantly expanded their range in Russian water bodies",
+      "lead_en": "In the coming decades, we can expect that almost all river basins, except the northern ones, will be inhabited by alien species of mollusks, said the director of the Federal Research Center for Integrated Study of the Arctic named after Academician N.P.",
+      "title_raw": "Гигантские китайские моллюски значительно расширили ареал в водоемах России",
+      "lead_raw": "В ближайшие десятилетия можно ожидать, что почти все речные бассейны, кроме северных, будут заселены чужеродными видами моллюсков, сообщил директор Федерального исследовательского центра комплексного изучения Арктики имени академика Н. П.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "792cf3cd37a7ad4c6064dea0eee435d7f903f0f7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27921295",
+      "published_utc": "2026-07-16T02:53:29Z",
+      "title_en": "\"Vedomosti\": the State Duma proposed creating a program for the renovation of cultural centers",
+      "lead_en": "Deputy Chairman of the State Duma Committee on Construction and Housing and Public Utilities of the A Just Russia faction, Alexander Aksenenko, said that the capacity of municipal budgets often does not allow covering the costs of major repairs",
+      "title_raw": "\"Ведомости\": в ГД предложили создать программу по ремонту домов культуры",
+      "lead_raw": "Зампред комитета Госдумы по строительству и ЖКХ фракции \"Справедливая Россия\" Александр Аксененко заявил, что возможности бюджетов муниципалитетов часто не позволяют покрыть затраты на капремонт",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "1d82d8798a50b6b12e893a3bba9384ae7589e3bb",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27921283",
+      "published_utc": "2026-07-16T02:36:29Z",
+      "title_en": "Balance: The Ukrainian Armed Forces fail to cut off Crimea from the rest of the Russian Federation with strikes in the Kherson region",
+      "lead_en": "Relevant services constantly monitor the condition of roads, bridges and access routes, the governor of the Kherson region emphasized",
+      "title_raw": "Сальдо: ВСУ не удается отрезать Крым от остальной части РФ ударами по Херсонщине",
+      "lead_raw": "Профильные службы в постоянном режиме отслеживают состояние дорог, мостов и подъездных маршрутов, подчеркнул губернатор Херсонской области",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "bb67ae1b5f7f191253c43833d4f1e202a54a64ae",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2160851",
+      "published_utc": "2026-07-16T02:33:59Z",
+      "title_en": "Russian, Myanmar special forces hold joint skills demonstration — Russian Defense Ministry",
+      "lead_en": "The ministry specified that during the training, the servicemen of the two countries used FPV drones and the Kurier ground robotic system",
+      "title_raw": "Russian, Myanmar special forces hold joint skills demonstration — Russian Defense Ministry",
+      "lead_raw": "The ministry specified that during the training, the servicemen of the two countries used FPV drones and the Kurier ground robotic system",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "fc4f9a5e83ba0f0bd28c9df33f3cd9c6c69152ac",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27921259",
+      "published_utc": "2026-07-16T02:17:02Z",
+      "title_en": "Imports of cosmetics to Russia from the Republic of Korea in June reached a record since 2000",
+      "lead_en": "In total, $48.8 million worth of such goods were imported into Russia this month.",
+      "title_raw": "Импорт косметики в РФ из Республики Корея в июне достиг рекорда с 2000 года",
+      "lead_raw": "Всего за этот месяц в Россию ввезли таких товаров на $48,8 млн",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "890a51ce86237bd2de246c0dee77a89f277a312b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27921251",
+      "published_utc": "2026-07-16T02:12:44Z",
+      "title_en": "The Msta-S self-propelled gun crew destroyed a stronghold and control point for UAF drones",
+      "lead_en": "The Russian Ministry of Defense said that Russian fighters also hit enemy communications equipment",
+      "title_raw": "Расчет самоходки \"Мста-С\" уничтожил опорный пункт и точку управления дронами ВСУ",
+      "lead_raw": "В Минобороны РФ заявили, что российские бойцы также поразили оборудование связи противника",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "45b8e7533f22eea19ae7bd035b54f0b5cd509cb1",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27921235",
+      "published_utc": "2026-07-16T02:09:22Z",
+      "title_en": "The crew of the \"Gyacinth-B\" howitzer disrupted the rotation of the Ukrainian Armed Forces in the Zaporozhye region",
+      "lead_en": "The Russian Ministry of Defense clarified that Russian fighters killed more than 40 Ukrainian militants",
+      "title_raw": "Расчет гаубицы \"Гиацинт-Б\" сорвал ротацию ВСУ в Запорожской области",
+      "lead_raw": "В Минобороны РФ уточнили, что российские бойцы уничтожили более 40 украинских боевиков",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "b71059e59865dcb7c6da6a9ad22cf3b4086c0c05",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27921241",
+      "published_utc": "2026-07-16T02:09:14Z",
+      "title_en": "Operators of the Center UAV destroyed armored vehicles of the Ukrainian Armed Forces in the Dobropol direction",
+      "lead_en": "The Russian Ministry of Defense said that Russian fighters also hit enemy artillery pieces",
+      "title_raw": "Операторы БПЛА \"Центра\" уничтожили бронетехнику ВСУ на добропольском направлении",
+      "lead_raw": "В Минобороны РФ заявили, что российские бойцы также поразили артиллерийские орудия противника",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "975c2f782c16d99db39017d1de1b0ef056aac9f1",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2160849",
+      "published_utc": "2026-07-16T02:05:20Z",
+      "title_en": "NATO, EU use radical tools of international terrorism — Russian Security Council",
+      "lead_en": "Deputy Secretary Yury Kokov noted that the use of violent methods for their own purposes has become \"common practice for Anglo-Saxon financial elites\"",
+      "title_raw": "NATO, EU use radical tools of international terrorism — Russian Security Council",
+      "lead_raw": "Deputy Secretary Yury Kokov noted that the use of violent methods for their own purposes has become \"common practice for Anglo-Saxon financial elites\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "eae6a8492298935cddcc98d7cbe5e6600021f35e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27921237",
+      "published_utc": "2026-07-16T02:03:17Z",
+      "title_en": "The Russian Armed Forces destroyed up to 10 control centers for drones of the Armed Forces of Ukraine in the Zaporozhye region",
+      "lead_en": "The crews of the T-90M Proryv of the Vostok group also hit four enemy Starlink satellite communication systems, the Ministry of Defense said",
+      "title_raw": "ВС РФ уничтожили до 10 пунктов управления дронами ВСУ в Запорожской области",
+      "lead_raw": "Экипажи Т-90М \"Прорыв\" группировки \"Восток\" также поразили четыре комплекса спутниковой связи Starlink противника, заявили в Минобороны",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "a395e06239339a44b44415d0c6565c6ce21b45c5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27921229",
+      "published_utc": "2026-07-16T02:01:13Z",
+      "title_en": "Russian and Myanmar special forces held a joint demonstration of special forces",
+      "lead_en": "During the training, military personnel of the two countries used FPV drones and the Kurier ground robotic complex.",
+      "title_raw": "Спецназовцы России и Мьянмы провели совместную демонстрацию спецподразделений",
+      "lead_raw": "В ходе тренировки военнослужащие двух стран применили FPV-дроны и наземный роботизированный комплекс \"Курьер\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "eab3a47ab307c594084bc50a2d2c24a628d928ed",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27921197",
+      "published_utc": "2026-07-16T01:41:36Z",
+      "title_en": "Fedresurs: The Federal Tax Service has increased debt collection from Russian companies by 23%",
+      "lead_en": "In the second quarter of 2026, more than 2 thousand bankruptcy procedures were initiated in Russia",
+      "title_raw": "Федресурс: ФНС на 23% усилила взыскание долгов с российских компаний",
+      "lead_raw": "Во II квартале 2026 года в России инициировали более 2 тыс. процедур банкротства",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "5a1fe7092af6c05b94a975d036858a82eea19881",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2160845",
+      "published_utc": "2026-07-16T01:22:04Z",
+      "title_en": "Russian forces systematically push Ukrainian troops from Omelnik — expert",
+      "lead_en": "Andrey Marochko noted that Russian troops are particularly successful in advancing in the areas of Novoselovka and Verkhnyaya Tersa",
+      "title_raw": "Russian forces systematically push Ukrainian troops from Omelnik — expert",
+      "lead_raw": "Andrey Marochko noted that Russian troops are particularly successful in advancing in the areas of Novoselovka and Verkhnyaya Tersa",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "96d7c79c7d94191e13cb3a7c820cff4f9f115fc9",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2160841",
+      "published_utc": "2026-07-16T01:08:29Z",
+      "title_en": "European leaders hold their peoples hostage to military-terrorist bloc — Russian SC",
+      "lead_en": "Yury Kokov said that a policy of 'double standards' is widely applied, where the same radical group can be recognized as a terrorist one day and a fighter for democracy the next",
+      "title_raw": "European leaders hold their peoples hostage to military-terrorist bloc — Russian SC",
+      "lead_raw": "Yury Kokov said that a policy of 'double standards' is widely applied, where the same radical group can be recognized as a terrorist one day and a fighter for democracy the next",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "27628862c37c3167d3bbb1299881b65c798d402f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27921157",
+      "published_utc": "2026-07-16T01:02:49Z",
+      "title_en": "Marochko: Russian forces are systematically “squeezing” the Ukrainian Armed Forces out of Omelnik",
+      "lead_en": "A military expert said that Russian fighters are successfully advancing in the Novoselovka and Upper Tersa areas",
+      "title_raw": "Марочко: силы РФ планомерно \"выдавливают\" ВСУ из Омельника",
+      "lead_raw": "Военный эксперт заявил, что российские бойцы успешно продвигаются в районах Новоселовки и Верхней Терсы",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "d916079db9f533f91d0019b1c2c6b41d7e205289",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27921147",
+      "published_utc": "2026-07-16T00:58:07Z",
+      "title_en": "Expert Zhao: cooperation between the Russian Federation and China brings dividends to both countries",
+      "lead_en": "The director of the Institute of International Strategy and Security of the Shanghai Academy of International Studies said that the treaty is constantly being enriched with new meaning due to the deepening interaction between countries in various fields",
+      "title_raw": "Эксперт Чжао: сотрудничество РФ и КНР приносит дивиденды обеим странам",
+      "lead_raw": "Директор Института международной стратегии и безопасности Шанхайской академии международных исследований заявил, что договор постоянно обогащается новым смыслом благодаря углублению взаимодействия стран в различных областях",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "309163232e103e73d8685aecdbdbc7d74db94c5f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27921135",
+      "published_utc": "2026-07-16T00:44:24Z",
+      "title_en": "Fighter Shmel: The Russian Armed Forces in Konstantinovka primarily help civilians",
+      "lead_en": "Food and medicine are dropped on them from unmanned aerial vehicles, said the shooter of the 3rd assault company of the 1194th regiment of the Southern Group of Forces",
+      "title_raw": "Боец Шмель: ВС РФ в Константиновке в первую очередь помогают мирным жителям",
+      "lead_raw": "Им сбрасывают еду и медикаменты с беспилотных летательных аппаратов, рассказал стрелок 3-й штурмовой роты 1194-го полка Южной группировки войск",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "57dbb4196259d66abca78beb8f66715615fd9afb",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2160839",
+      "published_utc": "2026-07-16T00:41:52Z",
+      "title_en": "Russian forces approach several Ukrainian positions near Slavyansk — DPR head",
+      "lead_en": "Denis Pushilin added that Slavyansk is located in a lowland relative to these positions",
+      "title_raw": "Russian forces approach several Ukrainian positions near Slavyansk — DPR head",
+      "lead_raw": "Denis Pushilin added that Slavyansk is located in a lowland relative to these positions",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "e6d520f35f0aade1e342f203066b4189d5c52fe0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27921109",
+      "published_utc": "2026-07-16T00:26:12Z",
+      "title_en": "Pushilin: The Russian Armed Forces have come close to some positions of the Ukrainian Armed Forces near Slavyansk",
+      "lead_en": "The head of the DPR added that the settlement is located in a lowland relative to these positions",
+      "title_raw": "Пушилин: ВС РФ вплотную подошли к некоторым позициям ВСУ у Славянска",
+      "lead_raw": "Глава ДНР добавил, что населенный пункт находится в низменности относительно этих позиций",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "16447e2d258e9813849475806891b1dda7638f54",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2160833",
+      "published_utc": "2026-07-16T00:20:36Z",
+      "title_en": "Russia-China transactions in dollars, euros diminished to ‘negligible level’ — Lavrov",
+      "lead_en": "The foreign minister says that financial settlements between Russia and China have been almost entirely converted to national currencies",
+      "title_raw": "Russia-China transactions in dollars, euros diminished to ‘negligible level’ — Lavrov",
+      "lead_raw": "The foreign minister says that financial settlements between Russia and China have been almost entirely converted to national currencies",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "85b9de81bd663c58716294453a28c7b7ccce17a6",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2160831",
+      "published_utc": "2026-07-16T00:04:13Z",
+      "title_en": "NATO unleashed over 30 military adventures in past 25 years — Russian SC official",
+      "lead_en": "Yury Kokov added that trillions of dollars were spent on these activities",
+      "title_raw": "NATO unleashed over 30 military adventures in past 25 years — Russian SC official",
+      "lead_raw": "Yury Kokov added that trillions of dollars were spent on these activities",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "980e102b8aa8ebaf4cbddf951374f16bd2b49392",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2160827",
+      "published_utc": "2026-07-15T22:52:33Z",
+      "title_en": "Long-range Ukrainian strikes possible only with Western help — Russian Security Council",
+      "lead_en": "Deputy Secretary Yury Kokov says that in particular, Kiev receives technical support in reconnaissance, targeting, and logistics",
+      "title_raw": "Long-range Ukrainian strikes possible only with Western help — Russian Security Council",
+      "lead_raw": "Deputy Secretary Yury Kokov says that in particular, Kiev receives technical support in reconnaissance, targeting, and logistics",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "45ccd4ec281c2300fb60beeef8f2149bbb20fcf4",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/07/16/russian-streetwear-founder-says-draft-notices-cost-him-his-key-staff-as-a-sales-slump-and-a-fuel-crisis-batter-marcelo-miracles",
+      "published_utc": "2026-07-15T22:20:51Z",
+      "title_en": "Russian streetwear founder says draft notices cost him his key staff as a sales slump and a fuel crisis batter ‘Marcelo Miracles’",
+      "lead_en": "The Russian streetwear brand Marcelo Miracles is on the verge of shutting down. Its founder, Mark Rodovsky, announced the news in a video that appeared on July 14 on his Instagram page and the company’s social media accounts.",
+      "title_raw": "Russian streetwear founder says draft notices cost him his key staff as a sales slump and a fuel crisis batter ‘Marcelo Miracles’",
+      "lead_raw": "The Russian streetwear brand Marcelo Miracles is on the verge of shutting down. Its founder, Mark Rodovsky, announced the news in a video that appeared on July 14 on his Instagram page and the company’s social media accounts.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "c725302891149bbd355c0663ec5311b089fb62e7",
       "source": "RT",
@@ -6574,7 +7142,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/mezhdunarodnaya-panorama/27917455",
       "published_utc": "2026-07-14T21:43:07Z",
-      "title_en": "Rodriguez thanked Russia for humanitarian aid to Venezuela",
+      "title_en": "Rodriguez thanked Russia for humanitarian assistance to Venezuela",
       "lead_en": "The Ministry of Emergency Situations of the Russian Federation delivered and handed over to the Venezuelan side food products, tents for temporary accommodation of people left homeless, basic necessities, motor pumps and medicines",
       "title_raw": "Родригес поблагодарила Россию за гуманитарную помощь Венесуэле",
       "lead_raw": "МЧС РФ доставили и передали венесуэльской стороне продукты питания, палатки для временного размещения людей, оставшихся без крова, предметы первой необходимости, мотопомпы и медикаменты",
@@ -11312,793 +11880,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "e2aa71f0e737c82387bade471cef9008b3eea6c2",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27914101",
-      "published_utc": "2026-07-14T02:31:09Z",
-      "title_en": "Ships of the Russian Navy and the PLA Navy went on joint patrols after the exercises",
-      "lead_en": "",
-      "title_raw": "Корабли ВМФ России и ВМС НОАК вышли после учений на совместное патрулирование",
-      "lead_raw": "",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "739f5e7520c1a34388de8240977b019f9a780472",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27914177",
-      "published_utc": "2026-07-14T02:27:44Z",
-      "title_en": "The threat of a UAV attack was announced in Novorossiysk",
-      "lead_en": "",
-      "title_raw": "Угрозу атаки БПЛА объявили в Новороссийске",
-      "lead_raw": "",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "4758a472fb64918caa70fb700eb5f7b86f629762",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27914157",
-      "published_utc": "2026-07-14T02:15:12Z",
-      "title_en": "Fighter Python: “North” has identified the logistics hub of the Ukrainian Armed Forces near Kharkov",
-      "lead_en": "According to the serviceman, the Russian Armed Forces destroyed the brought Ukrainian militants",
-      "title_raw": "Боец Питон: \"Север\" вычислил логистический узел ВСУ под Харьковом",
-      "lead_raw": "По словам военнослужащего, ВС РФ уничтожили привезенных украинских боевиков",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "a674ab18734edcd2605575ab2c9dcdaa73200b3a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27914149",
-      "published_utc": "2026-07-14T02:11:58Z",
-      "title_en": "A drone brought a 10-year-old girl to the Russian Armed Forces after her escort was blown up by a mine",
-      "lead_en": "The child walked several hundred meters behind the drone, said attack aircraft of the Russian Armed Forces Dmitry Biryukov",
-      "title_raw": "Дрон привел 10-летнюю девочку к ВС РФ после подрыва на мине ее сопровождающего",
-      "lead_raw": "Ребенок шел несколько сотен метров за беспилотником, сообщил штурмовик ВС РФ Дмитрий Бирюков",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "d783dd1554ad0b99c145326301eba54d89ff532c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27914141",
-      "published_utc": "2026-07-14T02:09:21Z",
-      "title_en": "Doctor Zoidov spoke about the rescue of a fighter who had both legs and an arm torn off",
-      "lead_en": "A Russian serviceman was injured in a mine explosion, the head of the medical service said.",
-      "title_raw": "Врач Зоидов рассказал о спасении бойца, которому оторвало обе ноги и руку",
-      "lead_raw": "Российский военнослужащий получил травму при подрыве на мине, сообщил начальник медслужбы",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "94779ea502d20bee3b46250dc0b76b397bffecbb",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27914137",
-      "published_utc": "2026-07-14T02:05:51Z",
-      "title_en": "Volunteer military doctor Kulikov saved more than ten Russian soldiers from amputation",
-      "lead_en": "The field medical hospital of the 5th motorized rifle brigade has been deployed near the line of combat contact in the Dobropol direction",
-      "title_raw": "Военврач-доброволец Куликов спас от ампутаций более десяти российских солдат",
-      "lead_raw": "Полевой медицинский госпиталь 5-й мотострелковой бригады развернут вблизи линии боевого соприкосновения на добропольском направлении",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "f25948ea16c3a9a90a7f199479e48a55387e40d2",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27914135",
-      "published_utc": "2026-07-14T02:05:02Z",
-      "title_en": "The Russian Armed Forces destroyed four Ukrainian Armed Forces hexacopters in the Krasny Liman area",
-      "lead_en": "Enemy drones destroyed by air rams",
-      "title_raw": "ВС РФ уничтожили четыре гексакоптера ВСУ в районе Красного Лимана",
-      "lead_raw": "Беспилотники противника уничтожили воздушными таранами",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "18aa107b1d39a17a77f27ce1a03173bd23515c38",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27914125",
-      "published_utc": "2026-07-14T02:04:43Z",
-      "title_en": "Training sessions for special forces of the Russian Federation and the local army have begun in Myanmar",
-      "lead_en": "Russian military personnel held demonstrations in army tactical shooting and presented modern models of domestic weapons to the attention of their colleagues",
-      "title_raw": "В Мьянме начались сборы спецподразделений РФ и местной армии",
-      "lead_raw": "Российские военнослужащие провели показательные выступления по армейской тактической стрельбе и представили вниманию коллег современные образцы отечественного вооружения",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "b07bb2a9614c30b962d7b4364b2f87972b4996cc",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27914111",
-      "published_utc": "2026-07-14T02:03:28Z",
-      "title_en": "Commander Bekbasarov: to save a child from Konstantinovka, the Russian Armed Forces distracted the Armed Forces of Ukraine",
-      "lead_en": "The group split up during the evacuation operation, a Russian serviceman said.",
-      "title_raw": "Командир Бекбасаров: для спасения ребенка из Константиновки ВС РФ отвлекали ВСУ",
-      "lead_raw": "Во время операции по эвакуации группа разделилась, сообщил российский военнослужащий",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "ea0b3767241aaf00ec3812374663e492aadd773e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27914113",
-      "published_utc": "2026-07-14T02:02:53Z",
-      "title_en": "The Ukrainian Armed Forces lost 107 heavy quadrocopters in one day due to the actions of the West",
-      "lead_en": "Russian military personnel also destroyed 118 aircraft-type UAVs and 47 enemy drone control posts",
-      "title_raw": "ВСУ потеряли за сутки от действий \"Запада\" 107 тяжелых квадрокоптеров",
-      "lead_raw": "Российские военнослужащие также уничтожили 118 БПЛА самолетного типа и 47 пунктов управления дронами противника",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "f0944774d57c972babee4e18ceff6b813085d161",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27914117",
-      "published_utc": "2026-07-14T02:02:35Z",
-      "title_en": "Russian soldiers dropped phones with cartoons for a girl in Konstantinovka",
-      "lead_en": "The Russian military also provided the child with food, clothing and household items.",
-      "title_raw": "Бойцы РФ сбрасывали телефоны с мультфильмами для девочки в Константиновке",
-      "lead_raw": "Российские военные также обеспечивали ребенка едой, одеждой и предметами быта",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "6531edb256e0d8c57f8e32ddf7d8403cc026e12c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27914129",
-      "published_utc": "2026-07-14T02:02:29Z",
-      "title_en": "The \"North\" group destroyed 57 aircraft-type drones of the Armed Forces of Ukraine in one day",
-      "lead_en": "Russian military personnel also destroyed nine Ukrainian ground robotic systems",
-      "title_raw": "Группировка \"Север\" уничтожила за сутки 57 беспилотников ВСУ самолетного типа",
-      "lead_raw": "Российские военнослужащие также уничтожили девять украинских наземных робототехнических комплексов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "b02e7201cc1787bf10a72ad1ef6aed6dbd7b10b8",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27914119",
-      "published_utc": "2026-07-14T02:02:24Z",
-      "title_en": "The Russian Armed Forces destroyed a German-made Leopard tank of the Ukrainian Armed Forces in the Sumy region",
-      "lead_en": "The vehicle's camouflaged firing position was discovered during reconnaissance",
-      "title_raw": "ВС РФ уничтожили танк Leopard ВСУ немецкого производства в Сумской области",
-      "lead_raw": "Замаскированную огневую позицию машины обнаружили в ходе разведки",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "214a178e44c8ac88d950cb801945552c12e8fd66",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27914127",
-      "published_utc": "2026-07-14T02:02:21Z",
-      "title_en": "The Ukrainian Armed Forces lost nine Starlink communication stations in one day due to Vostok’s actions.",
-      "lead_en": "Russian military personnel also destroyed 57 enemy drones",
-      "title_raw": "ВСУ потеряли за сутки от действий \"Востока\" девять станций связи Starlink",
-      "lead_raw": "Российские военнослужащие также уничтожили 57 беспилотников противника",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "cf961361ef0035006beb34ed5022fbd4aa1a1e25",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27914123",
-      "published_utc": "2026-07-14T02:02:07Z",
-      "title_en": "The Russian Armed Forces destroyed two drone control points near Konstantinovka DPR",
-      "lead_en": "Russian troops used artillery to eliminate targets",
-      "title_raw": "ВС РФ уничтожили два пункта управления дронами недалеко от Константиновки ДНР",
-      "lead_raw": "Для ликвидации целей российские военнослужащие применили артиллерию",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "9faa03427677053d0783fb3fd48b0c9469d16e15",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27914121",
-      "published_utc": "2026-07-14T02:01:58Z",
-      "title_en": "Commander Tarabanov: the girl rescued in Konstantinovka was with her mother’s body for a long time",
-      "lead_en": "According to the serviceman, the girl told soldiers of the Russian Armed Forces about the explosion that killed her mother",
-      "title_raw": "Командир Тарабанов: спасенная в Константиновке девочка долго была с телом матери",
-      "lead_raw": "По словам военнослужащего, девочка рассказала бойцам ВС РФ о взрыве, от которого погибла ее мама",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "99ffe865159a1949750d36fd3a517e8a1f023221",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27914109",
-      "published_utc": "2026-07-14T02:01:24Z",
-      "title_en": "A Russian Armed Forces fighter kicked a Ukrainian Armed Forces drone that was trying to kill a child",
-      "lead_en": "Two motorcycles were used to evacuate the child",
-      "title_raw": "Боец ВС РФ отбил ногой дрон ВСУ, который пытался убить ребенка",
-      "lead_raw": "В эвакуации ребенка были задействованы два мотоцикла",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "d3085c98486961aa49404ebc250d3c8370ea3c94",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27914099",
-      "published_utc": "2026-07-14T02:01:07Z",
-      "title_en": "Marochko: The Russian Armed Forces destroy over 80% of Kyiv drones flying to the LPR",
-      "lead_en": "The military expert emphasized that Russian fighters “are fully coping with the challenges that come from Ukrainian militants.”",
-      "title_raw": "Марочко: ВС РФ уничтожают свыше 80% летящих на ЛНР дронов Киева",
-      "lead_raw": "Военный эксперт подчеркнул, что российские бойцы \"вполне справляются с теми вызовами, которые идут со стороны украинских боевиков\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "e100f25483dea7271aa9cb2ce253c031ee6a960f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27914105",
-      "published_utc": "2026-07-14T02:00:56Z",
-      "title_en": "Russian soldiers visited for the first time the girl they rescued from Konstantinovka",
-      "lead_en": "The unit called the girl the daughter of the regiment",
-      "title_raw": "Бойцы РФ впервые навестили спасенную ими из Константиновки девочку",
-      "lead_raw": "В подразделении девочку назвали дочерью полка",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "141b0ac3e8272e5406060c14c2cb9016769bbf76",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27914103",
-      "published_utc": "2026-07-14T02:00:47Z",
-      "title_en": "The Ukrainian Armed Forces lost 24 UAV control points during the day due to the actions of the Southern group",
-      "lead_en": "Russian military personnel also destroyed 43 enemy ground robotic systems",
-      "title_raw": "ВСУ от действий Южной группировки потеряли за сутки 24 пункта управления БПЛА",
-      "lead_raw": "Российские военнослужащие также уничтожили 43 наземных робототехнических комплекса противника",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "8bfd9e21fb7e07ccb56c52e68dbbe270282aec9d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27914069",
-      "published_utc": "2026-07-14T01:40:10Z",
-      "title_en": "Journalist Heiskanen: Finland has been building bomb shelters for more than 80 years",
-      "lead_en": "The country has long been preparing for a full-scale conflict with Russia, a Finnish journalist is sure",
-      "title_raw": "Журналист Хейсканен: Финляндия строит бомбоубежища более 80 лет",
-      "lead_raw": "Страна давно готовится к полномасштабному конфликту с Россией, уверен финский журналист",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "b16dd49f0cbedf1e9399e668e8d8f6bf1f04191f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27914061",
-      "published_utc": "2026-07-14T01:30:46Z",
-      "title_en": "US producer Stephen Mao called Putin an outstanding leader",
-      "lead_en": "The head of the film company Studio Mao noted that the Russian President protects his country and cares about its citizens",
-      "title_raw": "Продюсер из США Стивен Мао назвал Путина выдающимся лидером",
-      "lead_raw": "Глава кинокомпании Studio Mao отметил, что президент России защищает свою страну и заботится об ее гражданах",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "b80485987a05bd5f22fa17c7d136b05322ed07a7",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2159835",
-      "published_utc": "2026-07-14T01:08:11Z",
-      "title_en": "Trump will support bill on anti-Russia sanctions — CNN",
-      "lead_en": "If passed by Congress, the document would pave the way for the administration to impose tariffs on countries purchasing Russian oil, according to the report",
-      "title_raw": "Trump will support bill on anti-Russia sanctions — CNN",
-      "lead_raw": "If passed by Congress, the document would pave the way for the administration to impose tariffs on countries purchasing Russian oil, according to the report",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "8e70767c6f2a5451b276165274aa53a9605fb087",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27914027",
-      "published_utc": "2026-07-14T01:02:13Z",
-      "title_en": "In Russia the basic compulsory medical insurance program will be expanded",
-      "lead_en": "The Ministry of Health and the Federal Compulsory Medical Insurance Fund must provide a report on the work done in 2027",
-      "title_raw": "В России будут расширять базовую программу ОМС",
-      "lead_raw": "Минздрав и Федеральный фонд ОМС в 2027 году должны предоставить отчет о проделанной работе",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "9161823f8e8523595729999ecc82a870c77bf615",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27914023",
-      "published_utc": "2026-07-14T01:01:07Z",
-      "title_en": "Marochko: The Russian Armed Forces have advanced almost half a kilometer to Alekseevo-Druzhkovka in the DPR",
-      "lead_en": "",
-      "title_raw": "Марочко: ВС РФ почти на полкилометра продвинулись к Алексеево-Дружковке в ДНР",
-      "lead_raw": "",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "b94e1b06685ca63db893b89177d81c9439a5aa8a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27913999",
-      "published_utc": "2026-07-14T00:18:51Z",
-      "title_en": "Commander Tatar: The Ukrainian Armed Forces in Konstantinovka are experiencing food shortages",
-      "lead_en": "The Ukrainian army is mainly supplied by air, a Russian serviceman said",
-      "title_raw": "Командир Татарин: ВСУ в Константиновке испытывают нехватку продовольствия",
-      "lead_raw": "В основном украинскую армию снабжают по воздуху, сообщил российский военнослужащий",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "9eec6a873ffe588484b8123b7e1a8cf7febdf9bb",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/14/kursk-drivers-can-now-buy-gasoline-only-on-days-matching-their-license-plate-numbers-the-governor-says-the-new-rule-protects-them-from-ukrainian-strikes",
-      "published_utc": "2026-07-14T00:07:21Z",
-      "title_en": "Kursk drivers can now buy gasoline only on days matching their license plate numbers. The governor says the new rule protects them from Ukrainian strikes.",
-      "lead_en": "Russia’s Kursk region will start rationing fuel by license plate number on July 15, Governor Alexander Khinshtein announced.",
-      "title_raw": "Kursk drivers can now buy gasoline only on days matching their license plate numbers. The governor says the new rule protects them from Ukrainian strikes.",
-      "lead_raw": "Russia’s Kursk region will start rationing fuel by license plate number on July 15, Governor Alexander Khinshtein announced.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "194ae231a828651f045be0aee89ceeade774f70e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27913979",
-      "published_utc": "2026-07-14T00:01:27Z",
-      "title_en": "Marochko: The Ukrainian Armed Forces are mining Osykovo in the DPR in an attempt to slow down the advance of the Russian Armed Forces",
-      "lead_en": "The military expert noted that the enemy is also trying to contain Russian troops with the help of UAVs",
-      "title_raw": "Марочко: ВСУ минируют Осыково в ДНР в попытке замедлить наступление ВС РФ",
-      "lead_raw": "Военный эксперт отметил, что противник также пытается сдержать российские войска с помощью БПЛА",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "bc9be2f056b02529e95a8eb575895d8e42fd5a5f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27913977",
-      "published_utc": "2026-07-14T00:01:19Z",
-      "title_en": "Producer Mao: Rodney Cook deserves to become US Ambassador to Russia",
-      "lead_en": "The chairman of the American Commission of Fine Arts is well acquainted with the country and enjoys the trust of the Russian people, the president of the film company Studio Mao is confident",
-      "title_raw": "Продюсер Мао: Родни Кук достоин стать послом США в России",
-      "lead_raw": "Председатель американской Комиссии по изящным искусствам прекрасно знаком со страной и пользуется доверием российского народа, уверен президент кинокомпании Studio Mao",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "01a81848c94ab747c8539834b04f144e90832f56",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27913981",
-      "published_utc": "2026-07-14T00:01:05Z",
-      "title_en": "Fighter Max: Airborne reconnaissance officers in Vasilyevka secretly destroyed the Ukrainian Armed Forces infantry",
-      "lead_en": "The Russian serviceman noted that the Russian Armed Forces left no traces",
-      "title_raw": "Боец Макс: разведчики ВДВ в Васильевке тайно уничтожали пехоту ВСУ",
-      "lead_raw": "Российский военнослужащий отметил, что ВС РФ не оставляли следов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "eaa059ed615c40b19fae5262057e195752c79184",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27913973",
-      "published_utc": "2026-07-13T23:52:14Z",
-      "title_en": "ATOR: Russians are denied Schengen visas less often than citizens of other countries",
-      "lead_en": "Citizens of the Russian Federation are refused in approximately 7% of cases, said Maya Lomidze, executive director of the Association of Tour Operators of Russia.",
-      "title_raw": "АТОР: россияне получают отказы в шенгенской визе реже граждан других стран",
-      "lead_raw": "Граждане РФ получают отказ примерно в 7% случаев, рассказала исполнительный директор Ассоциации туроператоров России Майя Ломидзе",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "2978a7fb9de8ef351e0812fd12511ec38d04b600",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/07/14/russian-media-executive-ksenia-sobchak-dismisses-leaked-messages-that-appear-to-show-her-dictating-her-outlet-s-coverage-now-it-s-ethical-to-discuss-invented-screenshots",
-      "published_utc": "2026-07-13T23:51:13Z",
-      "title_en": "Russian media executive Ksenia Sobchak dismisses ‘leaked messages’ that appear to show her dictating her outlet’s coverage: ‘Now it’s ethical to discuss invented screenshots?’",
-      "lead_en": "On July 8, the hacker group Black Mirror — which publishes data leaks from the accounts of people tied to the Russian state — and the anonymous VChK-OGPU project posted screenshots of several private conversations. One of the people in them, they said, was the journalist and media executive Ksenia Sobchak.",
-      "title_raw": "Russian media executive Ksenia Sobchak dismisses ‘leaked messages’ that appear to show her dictating her outlet’s coverage: ‘Now it’s ethical to discuss invented screenshots?’",
-      "lead_raw": "On July 8, the hacker group Black Mirror — which publishes data leaks from the accounts of people tied to the Russian state — and the anonymous VChK-OGPU project posted screenshots of several private conversations. One of the people in them, they said, was the journalist and media executive Ksenia Sobchak.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "32aa35d71bbc3be38125518ee66528679d008a68",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27913967",
-      "published_utc": "2026-07-13T23:42:43Z",
-      "title_en": "Russia will address the issue of supporting the cognitive health of citizens",
-      "lead_en": "The implementation of the measures was entrusted to the Ministry of Culture, the Ministry of Health, the Ministry of Education and Science, regional executive bodies, as well as the Union of Theater Workers",
-      "title_raw": "В России займутся вопросом поддержки когнитивного здоровья граждан",
-      "lead_raw": "Реализацию мероприятий поручили Минкульту, Минздраву, Минобрнауки, исполнительным органам регионов, а также Союзу театральных деятелей",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "b2112d84a076b34cff983179aea349bb63bd6b64",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27913963",
-      "published_utc": "2026-07-13T23:36:58Z",
-      "title_en": "Commander Tatarin: the activity of drones of the Armed Forces of Ukraine has decreased in Konstantinovka",
-      "lead_en": "The Russian serviceman noted that this happened with the advance of the Russian Armed Forces",
-      "title_raw": "Командир Татарин: в Константиновке снизилась активность дронов ВСУ",
-      "lead_raw": "Российский военнослужащий отметил, что это произошло с продвижением ВС РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "0c93c179fa5a5ecbbcc781664f68da86fc7d7af0",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2159787",
-      "published_utc": "2026-07-13T23:09:07Z",
-      "title_en": "Chinese, Russian naval forces to conduct patrols in Pacific — Chinese Defense Ministry",
-      "lead_en": "According to the statement, the patrols will \"make a positive contribution to maintaining peace and stability at both the international and regional levels\"",
-      "title_raw": "Chinese, Russian naval forces to conduct patrols in Pacific — Chinese Defense Ministry",
-      "lead_raw": "According to the statement, the patrols will \"make a positive contribution to maintaining peace and stability at both the international and regional levels\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "6f67ad846745f25df5bb8413cc1989de085041b3",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27913929",
-      "published_utc": "2026-07-13T23:02:22Z",
-      "title_en": "Fighter Max: The Ukrainian Armed Forces dropped provisions for Russian paratroopers for a week",
-      "lead_en": "The Ukrainian command mistook the soldiers for their own, the serviceman specified",
-      "title_raw": "Боец Макс: ВСУ неделю сбрасывали провизию российским десантникам",
-      "lead_raw": "Украинское командование принимало солдат за своих, уточнил военнослужащий",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "9958f70c8f2212d9c5fb1549031d8a8acfd096bf",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27913927",
-      "published_utc": "2026-07-13T23:01:01Z",
-      "title_en": "Marochko: Kyiv is targeting humanitarian corridors in Konstantinovka",
-      "lead_en": "To evacuate civilians, the Russian Armed Forces have to “carry out entire operations,” a military expert said",
-      "title_raw": "Марочко: Киев прицельно бьет по гуманитарным коридорам в Константиновке",
-      "lead_raw": "Для эвакуации мирных жителей ВС РФ приходится \"проворачивать целые операции\", заявил военный эксперт",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "5516c7b60260792847b56257d165ef6ad6c36609",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27913887",
-      "published_utc": "2026-07-13T22:22:11Z",
-      "title_en": "Two debt collection proceedings were opened against Lazareva, convicted in Russia.",
-      "lead_en": "The total amount exceeds 47 thousand rubles, the case file says",
-      "title_raw": "Против осужденной в России Лазаревой открыли два производства о взыскании долгов",
-      "lead_raw": "Общая сумма превышает 47 тыс. рублей, говорится в материалах дела",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "2c47ad2af5563cbd95dc6f301b48678fde9afb42",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27913889",
-      "published_utc": "2026-07-13T22:17:50Z",
-      "title_en": "Trump has not decided whether to support the initiative to tighten sanctions against Russia",
-      "lead_en": "The decision will be made soon, the American President said",
-      "title_raw": "Трамп не решил, поддерживать ли инициативу об ужесточении санкций против России",
-      "lead_raw": "Решение будет принято уже скоро, заявил американский президент",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
     }
   ]
 }
