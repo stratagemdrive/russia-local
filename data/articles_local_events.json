@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-07-16T11:38:39Z",
+  "updated_at_utc": "2026-07-16T13:49:18Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 27,
   "articles": [
+    {
+      "id": "84c3e938f618abc567e0ede2d87beb97a0bdb0e1",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27923275",
+      "published_utc": "2026-07-16T12:15:10Z",
+      "title_en": "In the Oryol region, a threat of drone attack was announced",
+      "lead_en": "The Main Directorate of the Ministry of Emergency Situations of Russia called on citizens to remain vigilant",
+      "title_raw": "В Орловской области объявили угрозу атаки беспилотников",
+      "lead_raw": "В ГУ МЧС России призвали граждан сохранять бдительность",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "17881fd368555542f9c20f1c6e4d11c1636e87db",
       "source": "TASS (EN)",
@@ -522,27 +541,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "4eedc8db6e5392469c8a51083ec3ac796c8eaeec",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2160113",
-      "published_utc": "2026-07-14T12:19:34Z",
-      "title_en": "No evidence to back up claims of Russian drone crash in Moldova — envoy",
-      "lead_en": "The Moldovan Foreign Ministry’s claim must be investigated and verified, Russian Ambassador to Moldova Oleg Ozerov said",
-      "title_raw": "No evidence to back up claims of Russian drone crash in Moldova — envoy",
-      "lead_raw": "The Moldovan Foreign Ministry’s claim must be investigated and verified, Russian Ambassador to Moldova Oleg Ozerov said",
-      "topic_scores": {
-        "diplomacy": 3,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
