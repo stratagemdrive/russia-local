@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-07-16T13:49:18Z",
+  "updated_at_utc": "2026-07-16T17:14:51Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 27,
+  "count": 28,
   "articles": [
+    {
+      "id": "19e560303c8ebd17f1cb8a5c9aa340c1c30050b2",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/07/16/ukraine-s-defense-minister-says-he-told-zelensky-that-beating-russia-required-firing-the-country-s-two-top-commanders-zelensky-fired-him-instead",
+      "published_utc": "2026-07-16T16:10:05Z",
+      "title_en": "Ukraine’s defense minister says he told Zelensky that beating Russia required firing the country’s two top commanders. Zelensky fired him instead.",
+      "lead_en": "Fedorov said he joined Volodymyr Zelensky’s team in 2019 and was the last remaining minister from the first government. Over seven years, he said, he had not pursued a political career of his own.",
+      "title_raw": "Ukraine’s defense minister says he told Zelensky that beating Russia required firing the country’s two top commanders. Zelensky fired him instead.",
+      "lead_raw": "Fedorov said he joined Volodymyr Zelensky’s team in 2019 and was the last remaining minister from the first government. Over seven years, he said, he had not pursued a political career of his own.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "ec4f873b8421d15bd6d6c90140faca065c2fe4b2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27923615",
+      "published_utc": "2026-07-16T13:58:00Z",
+      "title_en": "A fire in a residential building was extinguished in Astrakhan",
+      "lead_en": "One person died, the Russian Emergency Situations Ministry reported.",
+      "title_raw": "В Астрахани потушили пожар в жилом доме",
+      "lead_raw": "Один человек погиб, сообщили в ГУ МЧС России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "84c3e938f618abc567e0ede2d87beb97a0bdb0e1",
       "source": "TASS (RU)",
@@ -488,7 +528,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/mezhdunarodnaya-panorama/27917455",
       "published_utc": "2026-07-14T21:43:07Z",
-      "title_en": "Rodriguez thanked Russia for humanitarian assistance to Venezuela",
+      "title_en": "Rodriguez thanked Russia for humanitarian aid to Venezuela",
       "lead_en": "The Ministry of Emergency Situations of the Russian Federation delivered and handed over to the Venezuelan side food products, tents for temporary accommodation of people left homeless, basic necessities, motor pumps and medicines",
       "title_raw": "Родригес поблагодарила Россию за гуманитарную помощь Венесуэле",
       "lead_raw": "МЧС РФ доставили и передали венесуэльской стороне продукты питания, палатки для временного размещения людей, оставшихся без крова, предметы первой необходимости, мотопомпы и медикаменты",
@@ -522,25 +562,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "441fd10b014aee78c4328577dbfe44da46fe3f66",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27916779",
-      "published_utc": "2026-07-14T15:08:40Z",
-      "title_en": "TASS: Ukrainian volunteers offered people to replace evacuation with humanitarian aid",
-      "lead_en": "Residents of the village of Vasilkovka, Dnepropetrovsk region, received an offer to sign a written refusal to evacuate, offering humanitarian aid instead, Russian security forces said",
-      "title_raw": "ТАСС: украинские волонтеры предлагали людям заменить эвакуацию гумпомощью",
-      "lead_raw": "Жителям населенного пункта Васильковка Днепропетровской области поступило предложение подписать письменный отказ от эвакуации, предлагая вместо него гуманитарную помощь, рассказали в российских силовых структурах",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
