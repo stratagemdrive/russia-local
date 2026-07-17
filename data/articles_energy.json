@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-07-17T13:26:56Z",
+  "updated_at_utc": "2026-07-17T15:12:38Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 49,
+  "count": 48,
   "articles": [
+    {
+      "id": "1c0d17fc6c5695fd7614f1fda3cdbd9670b4e2ab",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2161657",
+      "published_utc": "2026-07-17T13:27:59Z",
+      "title_en": "Russian security services foil plotted terror attack in Sevastopol",
+      "lead_en": "The case has been submitted to court",
+      "title_raw": "Russian security services foil plotted terror attack in Sevastopol",
+      "lead_raw": "The case has been submitted to court",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "0f4a01a9fbe892a469615340d19b7875a93c2a1d",
       "source": "TASS (RU)",
@@ -1000,50 +1022,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "868b7e592a1ab91c985e4dc1d1d7b53a13f8c6b0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27919951",
-      "published_utc": "2026-07-15T14:12:53Z",
-      "title_en": "Zakharova: The West is obliged to establish the mastermind behind the terrorist attack on Nord Stream",
-      "lead_en": "The official representative of the Russian Foreign Ministry noted that the official press release of the Federal Prosecutor's Office of Germany reports an indictment issued on June 30 \"against Ukrainian Sergei K.\" in the case of gas pipeline explosion",
-      "title_raw": "Захарова: Запад обязан установить заказчика теракта на \"Северных потоках\"",
-      "lead_raw": "Официальный представитель МИД РФ обратила внимание, что в официальном пресс-релизе федеральной прокуратуры ФРГ сообщается о вынесенном 30 июня обвинительном заключении \"в отношении украинца Сергея К.\" по делу о подрыве газопроводов",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "89a3cd71d3284c3939024d6ce15d5d0bea660235",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2160637",
-      "published_utc": "2026-07-15T14:00:29Z",
-      "title_en": "Russia says deployment of contingents from ‘coalition of willing’ in Ukraine unacceptable",
-      "lead_en": "Maria Zakharova reiterated that such units would be considered by Moscow as legitimate military targets",
-      "title_raw": "Russia says deployment of contingents from ‘coalition of willing’ in Ukraine unacceptable",
-      "lead_raw": "Maria Zakharova reiterated that such units would be considered by Moscow as legitimate military targets",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
