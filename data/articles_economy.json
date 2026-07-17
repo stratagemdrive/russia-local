@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-07-17T20:54:17Z",
+  "updated_at_utc": "2026-07-17T22:50:13Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 97,
+  "count": 93,
   "articles": [
+    {
+      "id": "d17dbcec4eb4829f96f3246e5a9576a9d6b60093",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kultura/27928369",
+      "published_utc": "2026-07-17T21:17:31Z",
+      "title_en": "Producer Mao announced a film about Russia with Steven Seagal",
+      "lead_en": "The drama with a budget of about $18 million is planned to be shown in the Russian Federation and then around the world.",
+      "title_raw": "Продюсер Мао анонсировал фильм о России со Стивеном Сигалом",
+      "lead_raw": "Драму с бюджетом около $18 млн планируют показать в РФ, а затем и по всему миру",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
     {
       "id": "8204d2a39e65703617746af6386372e9ff795804",
       "source": "TASS (RU)",
@@ -1841,108 +1860,6 @@
       "lead_en": "In the second quarter of 2026, more than 2 thousand bankruptcy procedures were initiated in Russia",
       "title_raw": "Федресурс: ФНС на 23% усилила взыскание долгов с российских компаний",
       "lead_raw": "Во II квартале 2026 года в России инициировали более 2 тыс. процедур банкротства",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "c725302891149bbd355c0663ec5311b089fb62e7",
-      "source": "RT",
-      "url": "https://www.rt.com/news/643112-eu-russia-sanctions-fail/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "published_utc": "2026-07-15T22:05:22Z",
-      "title_en": "EU fails to agree on Russia sanctions after days of talks – media",
-      "lead_en": "EU envoys have failed to reach a deal on a new batch of anti-Russian sanctions but kept the oil price cap at $44.10 per barrel for a week Read Full Article at RT.com",
-      "title_raw": "EU fails to agree on Russia sanctions after days of talks – media",
-      "lead_raw": "EU envoys have failed to reach a deal on a new batch of anti-Russian sanctions but kept the oil price cap at $44.10 per barrel for a week Read Full Article at RT.com",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "9a1833ad59f545c4a4fb539b4bee50505a3f78af",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27920893",
-      "published_utc": "2026-07-15T21:22:12Z",
-      "title_en": "Analysts have found out how much Russians spent per year on helping loved ones",
-      "lead_en": "More than 20% of Russian citizens have allocated up to 100 thousand rubles for these purposes over the past year, as follows from a survey of the online platform hh.ru and the Renaissance Insurance group.",
-      "title_raw": "Аналитики выяснили, сколько россияне тратили за год на помощь близким",
-      "lead_raw": "Более 20% граждан РФ за последний год выделили на эти цели до 100 тыс. рублей, следует из опроса онлайн-платформы hh.ru и группы \"Ренессанс страхование\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "e5ca0b263e31beed41af6c15b28d1a9a0775769a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27920867",
-      "published_utc": "2026-07-15T21:11:25Z",
-      "title_en": "Lavrov: The Russian Federation and China do not accept the policy of “regime change” and unilateral sanctions",
-      "lead_en": "The Russian Foreign Minister stressed that Moscow and Beijing present a “united front” on most issues in the UN General Assembly and the Security Council",
-      "title_raw": "Лавров: РФ и КНР не приемлют политику \"смены режимов\" и односторонних санкций",
-      "lead_raw": "Глава МИД России подчеркнул, что Москва и Пекин выступают \"единым фронтом\" по большинству сюжетов в Генеральной Ассамблее ООН и Совете Безопасности",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "7e77f5577c7e107d04bfd9ed12a04831879e276c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27920861",
-      "published_utc": "2026-07-15T21:10:11Z",
-      "title_en": "Lavrov: the dollar and euro are used in trade between the Russian Federation and China “at the level of error”",
-      "lead_en": "The head of the Russian Foreign Ministry noted that payments between Beijing and Moscow have been almost completely transferred to national currencies",
-      "title_raw": "Лавров: доллар и евро в торговле РФ и КНР используются \"на уровне погрешности\"",
-      "lead_raw": "Глава российского МИД отметил, что расчеты между Пекином и Москвой практически полностью переведены на национальные валюты",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "b86018a1c805f2acf876866d504fd6722d982183",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27920843",
-      "published_utc": "2026-07-15T21:02:45Z",
-      "title_en": "The growth in the number of Russian bankruptcies has slowed sharply",
-      "lead_en": "At the same time, there is a continuing trend towards restructuring debts approved by the courts, Fedresurs experts reported",
-      "title_raw": "Рост числа банкротств россиян резко замедлился",
-      "lead_raw": "При этом отмечается сохранение тенденции к реструктуризации долгов, утвержденных судами, сообщили эксперты Федресурса",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
