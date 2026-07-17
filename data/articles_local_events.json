@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-07-17T06:15:03Z",
+  "updated_at_utc": "2026-07-17T09:08:33Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 28,
   "articles": [
+    {
+      "id": "c2c33cb0a77c733ac0453c9a2d5ca9546684a195",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27925951",
+      "published_utc": "2026-07-17T08:49:29Z",
+      "title_en": "A bill on the legal status of the centralized system-112 was introduced into the State Duma",
+      "lead_en": "It is proposed to give the government of the Russian Federation the authority to approve the regulations on the GIS TsSSI-112, and the Ministry of Emergency Situations to create, operate and develop such a system",
+      "title_raw": "В ГД внесли законопроект о правовом статусе централизованной системы-112",
+      "lead_raw": "Предлагается наделить правительство РФ полномочиями по утверждению положения о ГИС ЦССИ-112, а МЧС - по созданию, эксплуатации и развитию такой системы",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "4afae4102cda49a38a40236c1d28b0861784e348",
       "source": "TASS (RU)",
@@ -541,27 +560,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "76f408505a269706a5c9f223703047638cda1879",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2160457",
-      "published_utc": "2026-07-15T08:56:47Z",
-      "title_en": "Venezuela’s acting president expresses gratitude for Russia’s solidarity — ambassador",
-      "lead_en": "At the end of last week, the Russian Emergencies Ministry delivered over 35 tons of humanitarian aid to Venezuela aboard two aircraft for those affected by the devastating earthquake",
-      "title_raw": "Venezuela’s acting president expresses gratitude for Russia’s solidarity — ambassador",
-      "lead_raw": "At the end of last week, the Russian Emergencies Ministry delivered over 35 tons of humanitarian aid to Venezuela aboard two aircraft for those affected by the devastating earthquake",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
