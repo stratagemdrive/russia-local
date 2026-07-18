@@ -1,9 +1,51 @@
 {
-  "updated_at_utc": "2026-07-18T07:48:38Z",
+  "updated_at_utc": "2026-07-18T09:24:43Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 18,
   "articles": [
+    {
+      "id": "24304e88f900ec19457a251bde5e3e20ec93af5b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27929413",
+      "published_utc": "2026-07-18T09:15:15Z",
+      "title_en": "Ukrainian Armed Forces soldiers were involved in an accident while trying to escape from a Russian UAV",
+      "lead_en": "They were eliminated by soldiers of the 70th Motorized Rifle Division of the Southern Group in the Alekseevo-Druzhkovka area in the DPR, the Ministry of Defense reported.",
+      "title_raw": "Солдаты ВСУ попали в аварию при попытке бегства от российского БПЛА",
+      "lead_raw": "Их ликвидировали военные 70-й мотострелковой дивизии Южной группировки в районе Алексеево-Дружковки в ДНР, сообщили в Минобороны",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "8b2806ac569c35dc9cee395a321444d836e86bd6",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2161943",
+      "published_utc": "2026-07-18T07:54:47Z",
+      "title_en": "IN BRIEF: Seven killed, over 50 injured in Ukrainian drone attacks on Russian regions",
+      "lead_en": "At least 370 drones were detected flying toward the Moscow region between the evening of July 17 and the morning of July 18",
+      "title_raw": "IN BRIEF: Seven killed, over 50 injured in Ukrainian drone attacks on Russian regions",
+      "lead_raw": "At least 370 drones were detected flying toward the Moscow region between the evening of July 17 and the morning of July 18",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "2aab65913e433cf32b087ed65d3c168f7c31c840",
       "source": "TASS (EN)",
@@ -308,46 +350,6 @@
       "lead_en": "The Main Directorate of the Ministry of Emergency Situations of Russia called on citizens to remain vigilant",
       "title_raw": "В Орловской области объявили угрозу атаки беспилотников",
       "lead_raw": "В ГУ МЧС России призвали граждан сохранять бдительность",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "17881fd368555542f9c20f1c6e4d11c1636e87db",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2160951",
-      "published_utc": "2026-07-16T08:47:18Z",
-      "title_en": "Ukrainian military uses Grad multiple rocket launcher to attack Russia’s Bryansk Region",
-      "lead_en": "The attack killed a 15-year-old girl and her grandmother",
-      "title_raw": "Ukrainian military uses Grad multiple rocket launcher to attack Russia’s Bryansk Region",
-      "lead_raw": "The attack killed a 15-year-old girl and her grandmother",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "b10206e0fcb48b88f913e41f091bc977a7dce4b2",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/07/16/ukrainian-drone-attack-killed-chief-engineer-at-zaporizhzhia-nuclear-plant-russia-says-a93261",
-      "published_utc": "2026-07-16T08:36:18Z",
-      "title_en": "Ukrainian Drone Attack Killed Chief Engineer at Zaporizhzhia Nuclear Plant, Russia Says",
-      "lead_en": "Russian authorities said a Ukrainian drone had struck a service car between the plant's site and the town of Enerhodar, killing the engineer, Alexander Yakovlev, and the driver.",
-      "title_raw": "Ukrainian Drone Attack Killed Chief Engineer at Zaporizhzhia Nuclear Plant, Russia Says",
-      "lead_raw": "Russian authorities said a Ukrainian drone had struck a service car between the plant's site and the town of Enerhodar, killing the engineer, Alexander Yakovlev, and the driver.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
