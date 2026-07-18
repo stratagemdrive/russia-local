@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-07-18T20:03:16Z",
+  "updated_at_utc": "2026-07-18T21:50:50Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 19,
   "articles": [
+    {
+      "id": "25561a440779d22e83a96cb1781b9bdf7ca0fc03",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2162053",
+      "published_utc": "2026-07-18T20:25:54Z",
+      "title_en": "Eight killed, 86 wounded in Moscow Region, near Tambov: aftermath of Ukrainian attacks",
+      "lead_en": "Russian air defense systems destroyed 379 Ukrainian UAVs overnight",
+      "title_raw": "Eight killed, 86 wounded in Moscow Region, near Tambov: aftermath of Ukrainian attacks",
+      "lead_raw": "Russian air defense systems destroyed 379 Ukrainian UAVs overnight",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "def53a363386a14a4791a915fb5fba08abb16f78",
       "source": "TASS (RU)",
@@ -366,25 +387,6 @@
       "topics": [
         "local_events"
       ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "feb1c59776863dae0d14fe55e2ac24fa2c8d02ff",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27924445",
-      "published_utc": "2026-07-16T21:31:49Z",
-      "title_en": "Venezuela is grateful for the help of Rospotrebnadzor specialists after the earthquake",
-      "lead_en": "Specialists from the Russian Federation quickly trained colleagues from the Bolivarian Republic to use the provided equipment, said Luisana Melo, president of the Rafael Rangel National Institute of Hygiene",
-      "title_raw": "Венесуэла благодарна за помощь специалистов Роспотребнадзора после землетрясения",
-      "lead_raw": "Специалисты из РФ в кратчайшие сроки обучили коллег из боливарианской республики использовать предоставленное оборудование, рассказала президент Национального института гигиены имени Рафаэля Ранхеля Луисана Мело",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
       "primary_topic": "local_events"
     }
   ]
