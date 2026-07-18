@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-07-18T05:25:48Z",
+  "updated_at_utc": "2026-07-18T07:48:38Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 21,
+  "count": 18,
   "articles": [
+    {
+      "id": "2aab65913e433cf32b087ed65d3c168f7c31c840",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2161935",
+      "published_utc": "2026-07-18T07:11:54Z",
+      "title_en": "Twenty-five people injured in Ukrainian attack on warehouse in Russia’s Tambov Region",
+      "lead_en": "The governor Yevgeny Pervyshov said earlier that the attack had killed seven night shift workers",
+      "title_raw": "Twenty-five people injured in Ukrainian attack on warehouse in Russia’s Tambov Region",
+      "lead_raw": "The governor Yevgeny Pervyshov said earlier that the attack had killed seven night shift workers",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "2044de39f5149390b10095731bc3f605fd816377",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27928893",
+      "published_utc": "2026-07-18T05:32:09Z",
+      "title_en": "The Central Election Commission is working with election commissions in the border areas on actions during shelling and evacuation",
+      "lead_en": "Member of the Central Election Commission of the Russian Federation Lyudmila Markina said that the work is being carried out jointly with law enforcement agencies",
+      "title_raw": "ЦИК отрабатывает с избиркомами в приграничье действия при обстрелах и эвакуации",
+      "lead_raw": "Член Центральной избирательной комиссии РФ Людмила Маркина сообщила, что работа ведется совместно с правоохранительными органами",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "974f4edbcf3354631619bce4c94c2b093582db07",
       "source": "TASS (RU)",
@@ -317,110 +357,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "c9107f129446001d19bef584ac84bcbd5cda2fcf",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/07/16/at-least-3-killed-in-ukrainian-attacks-across-russia-a93260",
-      "published_utc": "2026-07-16T07:37:27Z",
-      "title_en": "At Least 3 Killed in Ukrainian Attacks Across Russia",
-      "lead_en": "The Defense Ministry said it intercepted 375 Ukrainian drones across Russia and Crimea between Wednesday night and Thursday morning.",
-      "title_raw": "At Least 3 Killed in Ukrainian Attacks Across Russia",
-      "lead_raw": "The Defense Ministry said it intercepted 375 Ukrainian drones across Russia and Crimea between Wednesday night and Thursday morning.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "32d0053a24a9c117f393a2be0422e3f4614f8916",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2160933",
-      "published_utc": "2026-07-16T07:33:09Z",
-      "title_en": "One civilian killed, several injured as air defenses down 375 drones over Russia",
-      "lead_en": "The Ukrainian UAVs were shot down over 19 Russian regions",
-      "title_raw": "One civilian killed, several injured as air defenses down 375 drones over Russia",
-      "lead_raw": "The Ukrainian UAVs were shot down over 19 Russian regions",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "888debc5b00f0e14fea7ad68857cb8f7c2279f57",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/16/russian-officials-report-three-deaths-in-overnight-ukrainian-attacks",
-      "published_utc": "2026-07-16T07:12:33Z",
-      "title_en": "Russian officials report three deaths in overnight Ukrainian attacks",
-      "lead_en": "A 15-year-old girl and her grandmother were killed in a Ukrainian strike on Russia’s Bryansk region, regional head Yegor Kovalchuk said. Another local woman was wounded.",
-      "title_raw": "Russian officials report three deaths in overnight Ukrainian attacks",
-      "lead_raw": "A 15-year-old girl and her grandmother were killed in a Ukrainian strike on Russia’s Bryansk region, regional head Yegor Kovalchuk said. Another local woman was wounded.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "a4abdf44be47aa522bd6884e68f61df78973cae6",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/16/ukrainian-drones-strike-russia-s-saratov-region-hitting-a-residential-building-and-sparking-a-fire-at-a-military-airfield-in-engels",
-      "published_utc": "2026-07-16T06:40:26Z",
-      "title_en": "Ukrainian drones strike Russia’s Saratov region, hitting a residential building and sparking a fire at a military airfield in Engels",
-      "lead_en": "A Ukrainian drone attack damaged civilian infrastructure in Engels, according to Roman Busargin, the governor of Russia’s Saratov region. He said there were no casualties and gave no further details about the damage.",
-      "title_raw": "Ukrainian drones strike Russia’s Saratov region, hitting a residential building and sparking a fire at a military airfield in Engels",
-      "lead_raw": "A Ukrainian drone attack damaged civilian infrastructure in Engels, according to Roman Busargin, the governor of Russia’s Saratov region. He said there were no casualties and gave no further details about the damage.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "7b5bd61def2993a3ba805f68e755282d9b0f61ec",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/16/russia-strikes-kyiv-for-the-second-time-in-a-week-killing-two-and-wounding-six",
-      "published_utc": "2026-07-16T06:18:53Z",
-      "title_en": "Russia strikes Kyiv for the second time in a week, killing two and wounding six",
-      "lead_en": "Russian forces struck Kyiv with missiles in the early hours of July 16, the head of the city’s military administration, Tymur Tkachenko, reported. The attack killed two people and wounded six others, including a 16-year-old, Mayor Vitaliy Klitschko said.",
-      "title_raw": "Russia strikes Kyiv for the second time in a week, killing two and wounding six",
-      "lead_raw": "Russian forces struck Kyiv with missiles in the early hours of July 16, the head of the city’s military administration, Tymur Tkachenko, reported. The attack killed two people and wounded six others, including a 16-year-old, Mayor Vitaliy Klitschko said.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
