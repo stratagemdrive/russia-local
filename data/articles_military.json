@@ -1,9 +1,159 @@
 {
-  "updated_at_utc": "2026-07-19T11:57:25Z",
+  "updated_at_utc": "2026-07-19T14:54:51Z",
   "keep_hours": 48,
   "topic": "military",
-  "count": 129,
+  "count": 112,
   "articles": [
+    {
+      "id": "b1ae0957902aa300fd64e8ea4c32f406de5e5171",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27931311",
+      "published_utc": "2026-07-19T13:45:36Z",
+      "title_en": "Miroshnik: Zelensky in the new Cabinet is gathering a “faceless troupe” without ambitions",
+      "lead_en": "According to the Ambassador at Large of the Russian Foreign Ministry, “for those newly called to the government, the thirst for money is allowed, but political ambition is absolutely not.”",
+      "title_raw": "Мирошник: Зеленский в новом кабмине собирает \"безликую труппу\" без амбиций",
+      "lead_raw": "По мнению посла МИД РФ по особым поручениям, \"для вновь призванных в правительство жажда денег допускается, политическая амбициозность - категорически нет\"",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "a5e646e0a1ec7d97b31bb72201ef5683c06b8878",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2162173",
+      "published_utc": "2026-07-19T13:43:26Z",
+      "title_en": "Russian forces hit Ukrainian army’s logistics center in Chernigov Region",
+      "lead_en": "The center was used to deliver military cargoes in the interests of the Ukrainian army, the Russian defense ministry said",
+      "title_raw": "Russian forces hit Ukrainian army’s logistics center in Chernigov Region",
+      "lead_raw": "The center was used to deliver military cargoes in the interests of the Ukrainian army, the Russian defense ministry said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "e2af21d07215d513d221c66cba4774a4d8bdd3e5",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2162171",
+      "published_utc": "2026-07-19T13:42:08Z",
+      "title_en": "Russian forces hit Ukrainian army’s gas processing facility in Kharkov Region",
+      "lead_en": "Radar control data indicate that the target was hit successfully, the Russian defense ministry said",
+      "title_raw": "Russian forces hit Ukrainian army’s gas processing facility in Kharkov Region",
+      "lead_raw": "Radar control data indicate that the target was hit successfully, the Russian defense ministry said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "8e72aa81e8e96b10b20cbe014542f0f2bc759ad3",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27931309",
+      "published_utc": "2026-07-19T13:38:28Z",
+      "title_en": "The Russian Armed Forces hit a hydrocarbon processing center in the Poltava region",
+      "lead_en": "A special feature of the Geranium-4 Seeker UAV used for the attack is a modern guidance system that allows the drone to independently adjust its flight path, noted the Russian Ministry of Defense",
+      "title_raw": "ВС РФ ударили по центру переработки углеводородного сырья в Полтавской области",
+      "lead_raw": "Особенностью примененного для атаки БПЛА \"Герань-4 сикер\" является современная система наведения, которая позволяет дрону самостоятельно корректировать траекторию полета, отметили в Минобороны РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "5488e6fa752b169cd078ab47d71c8b81389b5c74",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27931285",
+      "published_utc": "2026-07-19T13:14:16Z",
+      "title_en": "The Russian Armed Forces hit the gas processing plant of the Armed Forces of Ukraine in the Kharkov region",
+      "lead_en": "Objective control recorded the successful defeat of the target, noted the Russian Ministry of Defense",
+      "title_raw": "ВС РФ ударили по газоперерабатывающему заводу ВСУ в Харьковской области",
+      "lead_raw": "Объективный контроль зафиксировал успешное поражение цели, отметили в Минобороны РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "99f3d15a20ab30892aac8bca77ca6689a76fa3dd",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27931283",
+      "published_utc": "2026-07-19T13:13:09Z",
+      "title_en": "The Russian Armed Forces hit the logistics center of the Ukrainian Armed Forces in the Chernigov region",
+      "lead_en": "The facility was used for the delivery of military cargo, the Russian Ministry of Defense reported.",
+      "title_raw": "ВС РФ ударили по логистическому центру ВСУ в Черниговской области",
+      "lead_raw": "Объект использовался для доставки военных грузов, сообщили в Минобороны России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "f2df47053650d70e21c97de2d18ffa9c0a3ff584",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2162161",
+      "published_utc": "2026-07-19T13:07:08Z",
+      "title_en": "Russian troops gain new foothold in Dnepropetrovsk Region after liberating Volnoye",
+      "lead_en": "Before storming the village, aerial reconnaissance identified enemy machine-gun and mortar firing positions, the Russian Defense Ministry reported",
+      "title_raw": "Russian troops gain new foothold in Dnepropetrovsk Region after liberating Volnoye",
+      "lead_raw": "Before storming the village, aerial reconnaissance identified enemy machine-gun and mortar firing positions, the Russian Defense Ministry reported",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "5568ad48a85d74f779927e26f7ee0fe8bd6f96c1",
       "source": "TASS (EN)",
@@ -2209,511 +2359,6 @@
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "b8b4c9418abe7e73298fe79eabbaaf177853150e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27927609",
-      "published_utc": "2026-07-17T14:50:05Z",
-      "title_en": "In the port of Odessa, tanks with fuel and lubricants were hit by high-precision weapons",
-      "lead_en": "The Russian Ministry of Defense noted that they were used in the interests of the Armed Forces of Ukraine",
-      "title_raw": "В порту Одесса высокоточным оружием поражены резервуары с ГСМ",
-      "lead_raw": "В Минобороны России отметили, что они использовались в интересах ВСУ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "1912aba30a0750f9da933f02e0e8490b61360347",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27927607",
-      "published_utc": "2026-07-17T14:49:37Z",
-      "title_en": "The Russian Armed Forces hit a ship with cargo for the Ukrainian Armed Forces in the port of Yuzhny",
-      "lead_en": "The Ministry of Defense noted that the strike was carried out using a UAV",
-      "title_raw": "ВС РФ ударили по судну с грузами для ВСУ в порту Южный",
-      "lead_raw": "В Минобороны отметили, что удар наносился с помощью БПЛА",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "44af9b75ad936dc644a89f4d1eff564543533b67",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27927605",
-      "published_utc": "2026-07-17T14:49:31Z",
-      "title_en": "The Russian Armed Forces hit four dry cargo ships in the port of Nikolaev",
-      "lead_en": "They carried out cargo delivery for the Ukrainian Armed Forces, the Russian Ministry of Defense reported.",
-      "title_raw": "ВС РФ поразили в порту Николаев четыре сухогруза",
-      "lead_raw": "Они осуществляли доставку грузов для ВСУ, сообщили в Минобороны России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "1646c8127ef396b2a41066bdf66392dae14b69ef",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27927557",
-      "published_utc": "2026-07-17T14:37:24Z",
-      "title_en": "Evkurov: the Russian Armed Forces have trained over 140 thousand military personnel in reserve regiments",
-      "lead_en": "Personnel are also trained at training grounds and areas of troop groupings, said the deputy head of the military department",
-      "title_raw": "Евкуров: в ВС РФ подготовили свыше 140 тыс. военных в полках резерва",
-      "lead_raw": "Личный состав также подготовлен на полигонах и участках группировок войск, рассказал заместитель главы военного ведомства",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "94d3b0157a540ee6190e99676ef13e8e41144c98",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27927515",
-      "published_utc": "2026-07-17T14:36:20Z",
-      "title_en": "AI in the work of the RF Armed Forces and training of UAV specialists. Meeting of the Board of the Ministry of Defense",
-      "lead_en": "A unified system for training UAV specialists has been created in the Russian Armed Forces, said Deputy Head of the Military Department Alexey Krivoruchko",
-      "title_raw": "ИИ в работе ВС РФ и обучение специалистов по БПЛА. Заседание коллегии МО",
-      "lead_raw": "В Вооруженных силах России создана единая система подготовки специалистов по БПЛА, сообщил замглавы военного ведомства Алексей Криворучко",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "bf8ebfafe6ada39e04383be49d5a07a9a157170a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27927549",
-      "published_utc": "2026-07-17T14:35:49Z",
-      "title_en": "Evkurov: training in three specialties has been resumed in Russia",
-      "lead_en": "Particular attention is paid to training operators of marine robotic systems, said the deputy head of the military department",
-      "title_raw": "Евкуров: в России возобновили подготовку по трем специальностям",
-      "lead_raw": "Особое внимание уделено обучению операторов морских робототехнических комплексов, заявил заместитель главы военного ведомства",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "4481c77290e49de33534f9855d78fe04e0c91003",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27927525",
-      "published_utc": "2026-07-17T14:31:04Z",
-      "title_en": "More than 18 thousand future conscripts were trained on the basis of DOSAAF Russia",
-      "lead_en": "The number of military specialties increased from 20 to 30",
-      "title_raw": "На базе ДОСААФ России подготовили более 18 тыс. будущих призывников",
-      "lead_raw": "Количество военно-учетных специальностей увеличили с 20 до 30",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "debd1bf464f826e5b495959f17e38a5916fa85b3",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27927521",
-      "published_utc": "2026-07-17T14:30:32Z",
-      "title_en": "The Russian Armed Forces destroyed two unmanned boats of the Ukrainian Armed Forces",
-      "lead_en": "Russian troops used Lancets to destroy drones in the Black Sea and Yegorlytsky Bay",
-      "title_raw": "ВС РФ уничтожили два безэкипажных катера ВСУ",
-      "lead_raw": "Российские войска \"Ланцетами\" уничтожили дроны в акваториях Черного моря и Егорлыцкого залива",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "72e3ab975456c90c97699341d4af6b4e861f7e57",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2161693",
-      "published_utc": "2026-07-17T14:14:33Z",
-      "title_en": "Russian forces liberate Bachevsk community in Ukraine operation over week — top brass",
-      "lead_en": "Russian forces deliver 19 precision strikes on Ukrainian military targets over week",
-      "title_raw": "Russian forces liberate Bachevsk community in Ukraine operation over week — top brass",
-      "lead_raw": "Russian forces deliver 19 precision strikes on Ukrainian military targets over week",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "4fb2165271a4980a026107cad14d4a5e11841194",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2161687",
-      "published_utc": "2026-07-17T14:05:25Z",
-      "title_en": "Ukrainian military in Africa trying to open second front against Russia — senior diplomat",
-      "lead_en": "This applies in particular to Mali, where Ukrainian instructors, including those trained in the use of unmanned aerial vehicles, are present in the ranks of the Islamist militants,\" Georgy Borisenko said",
-      "title_raw": "Ukrainian military in Africa trying to open second front against Russia — senior diplomat",
-      "lead_raw": "This applies in particular to Mali, where Ukrainian instructors, including those trained in the use of unmanned aerial vehicles, are present in the ranks of the Islamist militants,\" Georgy Borisenko said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "c74b26ba303d43b2d057e583d8e9277cdb858e55",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27927347",
-      "published_utc": "2026-07-17T13:54:35Z",
-      "title_en": "The Russian Armed Forces conducted seven combat training events with the armies of several countries",
-      "lead_en": "Deputy Head of the Ministry of Defense Vasily Osmakov noted that Russia held exercises with India, China, South Africa, Iran and Laos in the first half of the year",
-      "title_raw": "ВС РФ провели семь мероприятий боевой подготовки с армиями нескольких стран",
-      "lead_raw": "Заместитель главы Минобороны Василий Осьмаков отметил, что Россия в I полугодии провела учения с Индией, Китаем, ЮАР, Ираном и Лаосом",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "1c0d17fc6c5695fd7614f1fda3cdbd9670b4e2ab",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2161657",
-      "published_utc": "2026-07-17T13:27:59Z",
-      "title_en": "Russian security services foil plotted terror attack in Sevastopol",
-      "lead_en": "The case has been submitted to court",
-      "title_raw": "Russian security services foil plotted terror attack in Sevastopol",
-      "lead_raw": "The case has been submitted to court",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "58c9783bc1ab30b0f5ff0dbc650af8462a96f8a6",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27927209",
-      "published_utc": "2026-07-17T13:16:53Z",
-      "title_en": "Russian Defense Ministry: supplies of UAVs to troops have more than doubled compared to 2025",
-      "lead_en": "",
-      "title_raw": "МО РФ: поставки в войска БПЛА возросли более чем вдвое в сравнении с 2025 годом",
-      "lead_raw": "",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "ec7654d700d50a6645fb4ab630912fed4638e360",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27927207",
-      "published_utc": "2026-07-17T13:16:29Z",
-      "title_en": "The Russian Defense Ministry continues to provide the BPS troops with everything they need",
-      "lead_en": "",
-      "title_raw": "МО РФ продолжает обеспечение войск БПС всем необходимым",
-      "lead_raw": "",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "ed16ca0073aab15a75fe9777d6b2bdcae3ae5c1f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27927213",
-      "published_utc": "2026-07-17T13:16:21Z",
-      "title_en": "The Russian Armed Forces have created a unified system for training UAV specialists",
-      "lead_en": "During the first half of the year, more than 8 thousand people were trained, said Deputy Head of the Ministry of Defense Alexey Krivoruchko",
-      "title_raw": "В ВС РФ создали единую систему подготовки специалистов по БПЛА",
-      "lead_raw": "За I полугодие подготовили более 8 тыс. человек, сообщил замглавы Минобороны Алексей Криворучко",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "de4171a88221099b788e4d893107b34355766881",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/nauka/27927131",
-      "published_utc": "2026-07-17T13:01:28Z",
-      "title_en": "Russia will host the fourth ceremony of the UNESCO-Russia Prize for Scientists",
-      "lead_en": "It will take place in 2027, said Minister of Science and Higher Education Valery Falkov",
-      "title_raw": "Россия примет четвертую церемонию вручения премии ЮНЕСКО - России для ученых",
-      "lead_raw": "Она пройдет в 2027 году, рассказал министр науки и высшего образования Валерий Фальков",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "10d0ac442dcf1e90e9e76cdcdeb1f291e29834b0",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2161639",
-      "published_utc": "2026-07-17T12:57:11Z",
-      "title_en": "Lavrov says Middle East on shaky ground as US, Iran flout memorandum",
-      "lead_en": "The Russian foreign minister said that security risks remain in place",
-      "title_raw": "Lavrov says Middle East on shaky ground as US, Iran flout memorandum",
-      "lead_raw": "The Russian foreign minister said that security risks remain in place",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "9c282eb8cf350c6b0c662bb4bbad6d565985af48",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27927121",
-      "published_utc": "2026-07-17T12:56:43Z",
-      "title_en": "Ministry of Defense of the Russian Federation: unmanned technologies made it possible to double the volume of cargo delivered to LBS",
-      "lead_en": "This was also facilitated by the improvement of delivery methods, the Russian military department reported.",
-      "title_raw": "МО РФ: беспилотные технологии позволили удвоить объем доставляемых на ЛБС грузов",
-      "lead_raw": "Также этому способствовало совершенствование способов доставки, сообщили в российском военном ведомстве",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "d93aa6f129dc2b87109d1d5282f1b53683209544",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27927115",
-      "published_utc": "2026-07-17T12:56:11Z",
-      "title_en": "The Russian Armed Forces have reduced the time frame for restoring weapons, military and special equipment",
-      "lead_en": "Deputy Head of the Russian Ministry of Defense, Colonel General Alexander Sanchik, said that modern technological equipment had been supplied, cyclical training and advanced training of repair specialists at industrial enterprises had been organized",
-      "title_raw": "В ВС РФ сократили сроки восстановления вооружения, военной и спецтехники",
-      "lead_raw": "Замглавы Минобороны России генерал-полковник Александр Санчик сообщил, что была осуществлена поставка современного технологического оборудования, организовано цикличное обучение и повышение квалификации специалистов-ремонтников на предприятиях промышленности",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 4,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "eabdb7b2c32b79b80563cd2105d3776532f6b9a5",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27927067",
-      "published_utc": "2026-07-17T12:51:48Z",
-      "title_en": "Expert Stepanov: Klimenko was hunting for draft dodgers in the Ministry of Internal Affairs of Ukraine",
-      "lead_en": "Such personnel are in great demand in Ukraine, since “recruitment and staffing are one of the priorities from the point of view of maintaining combat effectiveness,” says a military expert at the Institute of Law and National Security of the Russian Presidential Academy of Nation",
-      "title_raw": "Эксперт Степанов: Клименко в МВД Украины охотился за уклонистами",
-      "lead_raw": "Такие кадры крайне востребованы на Украине, так как \"комплектование и штатная работа являются одной из приоритетных с точки зрения сохранения боеспособности\", считает военный эксперт Института права и национальной безопасности РАНХиГС",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "bc43f8d3c5cd05843a34f9c7e3f42c4b7a212e3e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27927043",
-      "published_utc": "2026-07-17T12:40:52Z",
-      "title_en": "In Sevastopol, the preparation of a terrorist attack at the Memorial Sign in honor of the 300th anniversary of the Russian Navy was stopped",
-      "lead_en": "A criminal case has been opened",
-      "title_raw": "В Севастополе пресекли подготовку теракта у Памятного знака в честь 300-летия флота РФ",
-      "lead_raw": "Заведено уголовное дело",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "af0293febd5750d23f186fc65b5a701d5f8e5307",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27926991",
-      "published_utc": "2026-07-17T12:31:40Z",
-      "title_en": "The collegium of the Russian Ministry of Defense discussed improving the military education system",
-      "lead_en": "In addition, issues of medical support, construction and property complexes were discussed",
-      "title_raw": "На коллегии МО РФ обсудили улучшение системы военного образования",
-      "lead_raw": "Кроме того, обсуждались вопросы медицинского обеспечения, строительного и имущественного комплексов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "36127e49fc590ee6edc393d88f186235d976e81d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27926977",
-      "published_utc": "2026-07-17T12:30:36Z",
-      "title_en": "A meeting of the Board of the Ministry of Defense of the Russian Federation was held",
-      "lead_en": "It was held under the leadership of the head of the department Andrei Belousov",
-      "title_raw": "Состоялось заседание коллегии Минобороны РФ",
-      "lead_raw": "Оно прошло под руководством главы ведомства Андрея Белоусова",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "2f4b983d9c55d6e3e34c86048ec8976ad230201f",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2161587",
-      "published_utc": "2026-07-17T12:03:51Z",
-      "title_en": "Russia helps African countries learn arms use to strengthen defenses — senior diplomat",
-      "lead_en": "According to Georgy Borisenko, Russia is expanding military-technical cooperation with many African countries, in particular with Mali, Niger and Burkina Faso",
-      "title_raw": "Russia helps African countries learn arms use to strengthen defenses — senior diplomat",
-      "lead_raw": "According to Georgy Borisenko, Russia is expanding military-technical cooperation with many African countries, in particular with Mali, Niger and Burkina Faso",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
         "energy": 0,
         "economy": 0,
         "local_events": 0
