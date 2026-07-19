@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-07-19T17:03:10Z",
+  "updated_at_utc": "2026-07-19T19:05:00Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 16,
   "articles": [
+    {
+      "id": "42fa2291920f44c946ba692f659c983b04d95e50",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27931679",
+      "published_utc": "2026-07-19T18:55:01Z",
+      "title_en": "Merz: the situation in Germany has changed due to Trump’s actions and the lack of gas from the Russian Federation",
+      "lead_en": "The German Chancellor noted that the United States, under the leadership of President Donald Trump, no longer supports NATO to the same extent as it did over previous decades.",
+      "title_raw": "Мерц: ситуация в ФРГ изменилась из-за действий Трампа и отсутствия газа из РФ",
+      "lead_raw": "Канцлер Германии отметил, что Соединенные Штаты под руководством президента Дональда Трампа уже не поддерживают НАТО в том объеме, как это было на протяжении предыдущих десятилетий",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "e2af21d07215d513d221c66cba4774a4d8bdd3e5",
       "source": "TASS (EN)",
@@ -319,27 +340,6 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "afcf820d7946e0b06eda9de927f9d09c63e18d7b",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/07/17/what-did-russia-s-last-severe-fuel-crisis-look-like-rewind-to-the-1990s-the-decade-putin-calls-hungry-cold-and-hopeless",
-      "published_utc": "2026-07-17T17:14:07Z",
-      "title_en": "What did Russia’s last severe fuel crisis look like? Rewind to the 1990s, the decade Putin calls ‘hungry, cold, and hopeless.’",
-      "lead_en": "Russia is experiencing a fuel crisis. In scale and severity, it can only be compared to the early 1990s, when the country faced gasoline shortages, restrictions on fuel sales, lines at gas stations, and failed price controls.",
-      "title_raw": "What did Russia’s last severe fuel crisis look like? Rewind to the 1990s, the decade Putin calls ‘hungry, cold, and hopeless.’",
-      "lead_raw": "Russia is experiencing a fuel crisis. In scale and severity, it can only be compared to the early 1990s, when the country faced gasoline shortages, restrictions on fuel sales, lines at gas stations, and failed price controls.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
         "economy": 0,
         "local_events": 0
       },
