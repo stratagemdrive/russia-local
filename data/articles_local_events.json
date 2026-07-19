@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-07-19T19:05:00Z",
+  "updated_at_utc": "2026-07-19T20:47:48Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 16,
   "articles": [
+    {
+      "id": "fa89d5ea6d60afd0308bec4da0dcc752c6ecfcf7",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2162259",
+      "published_utc": "2026-07-19T19:08:46Z",
+      "title_en": "Current economic collapse in Europe stems from anti-Russian sanctions — RDIF CEO",
+      "lead_en": "EU sanctions are unpopular in Europe — they do not work and cost EU countries more than €3 trillion, Kirill Dmitriev said",
+      "title_raw": "Current economic collapse in Europe stems from anti-Russian sanctions — RDIF CEO",
+      "lead_raw": "EU sanctions are unpopular in Europe — they do not work and cost EU countries more than €3 trillion, Kirill Dmitriev said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 1
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "e7ef8c13c5b809beb91e58f8bf5012d0c2612ff1",
       "source": "Meduza (EN)",
@@ -303,25 +324,6 @@
       "lead_en": "Member of the Central Election Commission of the Russian Federation Lyudmila Markina said that the work is being carried out jointly with law enforcement agencies",
       "title_raw": "ЦИК отрабатывает с избиркомами в приграничье действия при обстрелах и эвакуации",
       "lead_raw": "Член Центральной избирательной комиссии РФ Людмила Маркина сообщила, что работа ведется совместно с правоохранительными органами",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "974f4edbcf3354631619bce4c94c2b093582db07",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27928275",
-      "published_utc": "2026-07-17T19:34:56Z",
-      "title_en": "An open fire in a sewing workshop was extinguished in Serpukhov",
-      "lead_en": "The Ministry of Emergency Situations of the Russian Federation reported this",
-      "title_raw": "В Серпухове потушили открытое горение в швейном цехе",
-      "lead_raw": "Об этом сообщили в МЧС РФ",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
