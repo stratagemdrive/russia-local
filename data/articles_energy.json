@@ -1,9 +1,51 @@
 {
-  "updated_at_utc": "2026-07-20T03:27:45Z",
+  "updated_at_utc": "2026-07-20T06:44:58Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 16,
+  "count": 15,
   "articles": [
+    {
+      "id": "ba3de8277e9d50299e076b3f0fd8c3bcac120236",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2162377",
+      "published_utc": "2026-07-20T06:40:01Z",
+      "title_en": "China’s imports of brown coal from Russia fall 70% in 1H",
+      "lead_en": "The value of Russian brown coal supplies in the same period in 2025 amounted to $261.14 mln",
+      "title_raw": "China’s imports of brown coal from Russia fall 70% in 1H",
+      "lead_raw": "The value of Russian brown coal supplies in the same period in 2025 amounted to $261.14 mln",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "900b8828c96aa2be34b187f28a028e3457eb35df",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2162351",
+      "published_utc": "2026-07-20T05:06:45Z",
+      "title_en": "China's Russian oil imports rise 16.7% in first half of year",
+      "lead_en": "The value of the shipments increased by 31.1% to $33.13 bln",
+      "title_raw": "China's Russian oil imports rise 16.7% in first half of year",
+      "lead_raw": "The value of the shipments increased by 31.1% to $33.13 bln",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "1b72a39184c18c0cfaf8ff662d78b5b75d7dcf44",
       "source": "TASS (EN)",
@@ -280,72 +322,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "1bc5ffa023fca2a3361dfec47aa3fa579dea26fe",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2161915",
-      "published_utc": "2026-07-18T06:18:55Z",
-      "title_en": "Russian forces carry out strikes on Ukrainian ports used for military cargo deliveries",
-      "lead_en": "Also the Russian Armed Forces struck facilities used for unloading fuel intended for the Ukrainian military, as well as storage tanks, at the Odessa port",
-      "title_raw": "Russian forces carry out strikes on Ukrainian ports used for military cargo deliveries",
-      "lead_raw": "Also the Russian Armed Forces struck facilities used for unloading fuel intended for the Ukrainian military, as well as storage tanks, at the Odessa port",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "85e10228dcd4ee60f40027ac3a4073cdb60c526c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27928961",
-      "published_utc": "2026-07-18T05:47:33Z",
-      "title_en": "VTB: buyers challenged the weekly dominance of sellers on the Russian stock market",
-      "lead_en": "This week, VTB My Investments clients actively bought shares of Surgutneftegaz and Sberbank",
-      "title_raw": "ВТБ: покупатели оспорили недельное доминирование продавцов на рынке акций РФ",
-      "lead_raw": "На неделе клиенты \"ВТБ мои инвестиции\" активно покупали акции \"Сургутнефтегаза\" и Сбербанка",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "cc0e9388d6db651c9f7f4427f1dd188bf865556d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27928813",
-      "published_utc": "2026-07-18T04:16:46Z",
-      "title_en": "Asahi: The Japanese Foreign Ministry plans to resume sending students for internships in the Russian Federation",
-      "lead_en": "At the same time, Tokyo's sanctions against Moscow remain in force, the newspaper reported.",
-      "title_raw": "Asahi: МИД Японии планирует возобновить отправку студентов на стажировку в РФ",
-      "lead_raw": "При этом санкции Токио против Москвы остаются в силе, сообщила газета",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
