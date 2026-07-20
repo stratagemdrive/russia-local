@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-07-20T06:44:58Z",
+  "updated_at_utc": "2026-07-20T10:09:50Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 15,
+  "count": 13,
   "articles": [
+    {
+      "id": "7380094f7f874753c0bb6ed68e6a5b2243d5f618",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2162457",
+      "published_utc": "2026-07-20T09:04:05Z",
+      "title_en": "Russia’s Battlegroup North destroys over 150 Ukrainian rotor copters in Kharkov in July",
+      "lead_en": "Ukrainian troops used the drones to conduct reconnaissance and adjust fire of their artillery units",
+      "title_raw": "Russia’s Battlegroup North destroys over 150 Ukrainian rotor copters in Kharkov in July",
+      "lead_raw": "Ukrainian troops used the drones to conduct reconnaissance and adjust fire of their artillery units",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "664a873623670ded0c3b3b0d8447aefa0ed4ce7b",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/07/20/russian-forces-kill-3-including-child-and-wound-more-than-40-in-strike-on-zaporizhzhia",
+      "published_utc": "2026-07-20T07:20:02Z",
+      "title_en": "Russian forces kill 3, including child, and wound more than 40 in strike on Zaporizhzhia",
+      "lead_en": "Russian forces struck Zaporizhzhia with guided aerial bombs on the evening of July 19, partially destroying a residential building, the State Emergency Service of Ukraine reported.",
+      "title_raw": "Russian forces kill 3, including child, and wound more than 40 in strike on Zaporizhzhia",
+      "lead_raw": "Russian forces struck Zaporizhzhia with guided aerial bombs on the evening of July 19, partially destroying a residential building, the State Emergency Service of Ukraine reported.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "fa89d5ea6d60afd0308bec4da0dcc752c6ecfcf7",
       "source": "TASS (EN)",
@@ -223,91 +263,6 @@
         "military": 0,
         "energy": 0,
         "economy": 1,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "355ef51b8a0fefee9106556cb68800ac33344c01",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27929317",
-      "published_utc": "2026-07-18T09:26:31Z",
-      "title_en": "The Russian Foreign Ministry noted the role of the USSR in eliminating the consequences of the earthquake in Peru in 1970",
-      "lead_en": "The annual ceremony of laying flowers at the cenotaph was held at the Novodevichy Cemetery in memory of the 22 Soviet pilots, medical workers and rescuers who died in the 1970 crash of a plane over the North Atlantic, which was heading to Peru to provide humanitarian aid after a",
-      "title_raw": "В МИД РФ отметили роль СССР в ликвидации последствий землетрясения в Перу в 1970 году",
-      "lead_raw": "На Новодевичьем кладбище прошла ежегодная церемония возложения цветов к кенотафу в память о 22 советских летчиках, медработниках и спасателях, погибших при крушении в 1970 году над Северной Атлантикой самолета, который направлялся в Перу для оказания гумпомощи после стихийного бе",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "diplomacy",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "24304e88f900ec19457a251bde5e3e20ec93af5b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27929413",
-      "published_utc": "2026-07-18T09:15:15Z",
-      "title_en": "Ukrainian Armed Forces soldiers were involved in an accident while trying to escape from a Russian UAV",
-      "lead_en": "They were eliminated by soldiers of the 70th Motorized Rifle Division of the Southern Group in the Alekseevo-Druzhkovka area in the DPR, the Ministry of Defense reported.",
-      "title_raw": "Солдаты ВСУ попали в аварию при попытке бегства от российского БПЛА",
-      "lead_raw": "Их ликвидировали военные 70-й мотострелковой дивизии Южной группировки в районе Алексеево-Дружковки в ДНР, сообщили в Минобороны",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "8b2806ac569c35dc9cee395a321444d836e86bd6",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2161943",
-      "published_utc": "2026-07-18T07:54:47Z",
-      "title_en": "IN BRIEF: Seven killed, over 50 injured in Ukrainian drone attacks on Russian regions",
-      "lead_en": "At least 370 drones were detected flying toward the Moscow region between the evening of July 17 and the morning of July 18",
-      "title_raw": "IN BRIEF: Seven killed, over 50 injured in Ukrainian drone attacks on Russian regions",
-      "lead_raw": "At least 370 drones were detected flying toward the Moscow region between the evening of July 17 and the morning of July 18",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "2aab65913e433cf32b087ed65d3c168f7c31c840",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2161935",
-      "published_utc": "2026-07-18T07:11:54Z",
-      "title_en": "Twenty-five people injured in Ukrainian attack on warehouse in Russia’s Tambov Region",
-      "lead_en": "The governor Yevgeny Pervyshov said earlier that the attack had killed seven night shift workers",
-      "title_raw": "Twenty-five people injured in Ukrainian attack on warehouse in Russia’s Tambov Region",
-      "lead_raw": "The governor Yevgeny Pervyshov said earlier that the attack had killed seven night shift workers",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
         "local_events": 2
       },
       "topics": [
