@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-07-20T15:49:24Z",
+  "updated_at_utc": "2026-07-20T18:02:02Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 12,
+  "count": 13,
   "articles": [
+    {
+      "id": "0301884713a98b40d6eb77156a2d737986d4b226",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/07/20/crimea-s-wine-industry-is-collapsing-under-fuel-shortages-and-power-outages-growers-say",
+      "published_utc": "2026-07-20T16:54:01Z",
+      "title_en": "Crimea’s wine industry is collapsing under fuel shortages and power outages, growers say",
+      "lead_en": "Crimea continues to face a fuel and energy crisis triggered by Ukrainian strikes aimed at cutting the annexed peninsula off from mainland Russia. The power outages and fuel shortages have taken a severe toll on the region’s wine industry, Forbes Russia reported after speaking with local wine producers.",
+      "title_raw": "Crimea’s wine industry is collapsing under fuel shortages and power outages, growers say",
+      "lead_raw": "Crimea continues to face a fuel and energy crisis triggered by Ukrainian strikes aimed at cutting the annexed peninsula off from mainland Russia. The power outages and fuel shortages have taken a severe toll on the region’s wine industry, Forbes Russia reported after speaking with local wine producers.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "40bd3aecf465cd65ce7298939430bcd7cccb3dd3",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27934775",
+      "published_utc": "2026-07-20T15:59:03Z",
+      "title_en": "Wildberries will keep payments to employees of logistics centers during evacuations",
+      "lead_en": "RVB announced the introduction of new rules at all logistics facilities of the company in Russia",
+      "title_raw": "Wildberries сохранит выплаты сотрудникам логистических центров при эвакуациях",
+      "lead_raw": "В РВБ сообщили о введении на всех логистических объектах компании в России новых правил",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "24fd5b93ca3fa420177921af0bcc692da293c0d2",
       "source": "TASS (RU)",
@@ -224,25 +264,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "def53a363386a14a4791a915fb5fba08abb16f78",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27930041",
-      "published_utc": "2026-07-18T16:14:43Z",
-      "title_en": "A child drowned in a lake in the Chelyabinsk region",
-      "lead_en": "A group of children, unattended by adults, was walking near a pond, the Russian Emergency Situations Ministry for the region reported.",
-      "title_raw": "В озере Челябинской области утонул ребенок",
-      "lead_raw": "Группа детей без присмотра взрослых гуляла у водоема, сообщили в ГУ МЧС России по региону",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
