@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-07-20T20:20:20Z",
+  "updated_at_utc": "2026-07-20T23:08:00Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 14,
   "articles": [
+    {
+      "id": "1fb469b559267d5877f2e4f88ff2efb1df29d591",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/07/21/a-ukrainian-drone-strike-on-two-wildberries-warehouses-killed-eight-people-this-thursday-less-than-a-week-after-the-attack-russia-s-largest-online-retailer-will-reopen-one-of-the-facilities",
+      "published_utc": "2026-07-20T21:51:57Z",
+      "title_en": "A Ukrainian drone strike on two Wildberries warehouses killed eight people. This Thursday, less than a week after the attack, Russia’s largest online retailer will reopen one of the facilities.",
+      "lead_en": "Wildberries will resume operations at its Kotovsk warehouse in the Tambov region on July 23, five days after Ukrainian drones struck the facility in the early hours of July 18.",
+      "title_raw": "A Ukrainian drone strike on two Wildberries warehouses killed eight people. This Thursday, less than a week after the attack, Russia’s largest online retailer will reopen one of the facilities.",
+      "lead_raw": "Wildberries will resume operations at its Kotovsk warehouse in the Tambov region on July 23, five days after Ukrainian drones struck the facility in the early hours of July 18.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "73172e317fce0f2255c18694e09de56455354781",
       "source": "Meduza (EN)",
@@ -262,27 +281,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "25561a440779d22e83a96cb1781b9bdf7ca0fc03",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2162053",
-      "published_utc": "2026-07-18T20:25:54Z",
-      "title_en": "Eight killed, 86 wounded in Moscow Region, near Tambov: aftermath of Ukrainian attacks",
-      "lead_en": "Russian air defense systems destroyed 379 Ukrainian UAVs overnight",
-      "title_raw": "Eight killed, 86 wounded in Moscow Region, near Tambov: aftermath of Ukrainian attacks",
-      "lead_raw": "Russian air defense systems destroyed 379 Ukrainian UAVs overnight",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
