@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-07-20T13:05:16Z",
+  "updated_at_utc": "2026-07-20T15:49:24Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 14,
+  "count": 12,
   "articles": [
+    {
+      "id": "24fd5b93ca3fa420177921af0bcc692da293c0d2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27934669",
+      "published_utc": "2026-07-20T15:19:14Z",
+      "title_en": "In the Ryazan region, the regime of unmanned danger was canceled",
+      "lead_en": "The Ministry of Emergency Situations of Russia was informed about this",
+      "title_raw": "В Рязанской области отменили режим беспилотной опасности",
+      "lead_raw": "Об этом проинформировали в МЧС России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "121930a43f3f1c6f538e6bf72c6808f3e9e9ea57",
       "source": "Meduza (EN)",
@@ -223,70 +242,6 @@
         "local_events": 1
       },
       "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "cbc2b0e6ec7ab2702ac05fc2cc259b7e6ccfc4e3",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/18/wildberries-and-ozon-two-of-russia-s-largest-online-marketplaces-wrote-sellers-out-of-compensation-for-war-damage",
-      "published_utc": "2026-07-18T15:48:12Z",
-      "title_en": "Wildberries and Ozon, two of Russia’s largest online marketplaces, wrote sellers out of compensation for war damage",
-      "lead_en": "Russian e-commerce platform Ozon has revised its seller agreement to specify that the company will not compensate sellers for goods lost or damaged due to military action, a state of emergency, shelling, mass unrest, or “other similar circumstances.”",
-      "title_raw": "Wildberries and Ozon, two of Russia’s largest online marketplaces, wrote sellers out of compensation for war damage",
-      "lead_raw": "Russian e-commerce platform Ozon has revised its seller agreement to specify that the company will not compensate sellers for goods lost or damaged due to military action, a state of emergency, shelling, mass unrest, or “other similar circumstances.”",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "4e56051fa02b79462022bc7b8764bf57ec531609",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/07/18/photos-and-videos-show-the-aftermath-of-ukrainian-drone-strikes-that-killed-eight-night-shift-workers-at-online-retailer-wildberries-warehouses-in-russia",
-      "published_utc": "2026-07-18T15:22:33Z",
-      "title_en": "Photos and videos show the aftermath of Ukrainian drone strikes that killed eight night-shift workers at online retailer Wildberries’ warehouses in Russia",
-      "lead_en": "In the early hours of July 18, Ukrainian drones struck two Wildberries logistics centers in the Moscow and Tambov regions. At a warehouse in the city of Kotovsk, seven night-shift workers were killed and 25 were injured.",
-      "title_raw": "Photos and videos show the aftermath of Ukrainian drone strikes that killed eight night-shift workers at online retailer Wildberries’ warehouses in Russia",
-      "lead_raw": "In the early hours of July 18, Ukrainian drones struck two Wildberries logistics centers in the Moscow and Tambov regions. At a warehouse in the city of Kotovsk, seven night-shift workers were killed and 25 were injured.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "4b89d947440e0de9fd1348297c834e5b501481b6",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/07/18/50b-rubles-in-damage-up-to-15-of-its-warehouse-space-and-a-contract-clause-that-shifts-the-loss-onto-small-vendors-inside-ukraine-s-strike-on-russia-s-online-retail-giant-wildberries",
-      "published_utc": "2026-07-18T15:21:16Z",
-      "title_en": "50B rubles in damage, up to 15% of its warehouse space, and a contract clause that shifts the loss onto small vendors: inside Ukraine’s strike on Russia’s online retail giant, Wildberries",
-      "lead_en": "Eight people have been killed and more than 50 injured in Ukraine’s strike on Wildberries warehouses in the Moscow region and the Tambov region. Volodymyr Zelensky said the strikes hit warehouses holding components used to make drones.",
-      "title_raw": "50B rubles in damage, up to 15% of its warehouse space, and a contract clause that shifts the loss onto small vendors: inside Ukraine’s strike on Russia’s online retail giant, Wildberries",
-      "lead_raw": "Eight people have been killed and more than 50 injured in Ukraine’s strike on Wildberries warehouses in the Moscow region and the Tambov region. Volodymyr Zelensky said the strikes hit warehouses holding components used to make drones.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
       "primary_topic": "local_events"
     }
   ]
