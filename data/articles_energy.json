@@ -1,9 +1,52 @@
 {
-  "updated_at_utc": "2026-07-21T11:07:26Z",
+  "updated_at_utc": "2026-07-21T13:48:32Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 40,
+  "count": 39,
   "articles": [
+    {
+      "id": "feaf3906ab7684fdf1be719e3ae231b30b42eeb1",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27937575",
+      "published_utc": "2026-07-21T12:38:40Z",
+      "title_en": "The authorities are working on measures for a stable supply of fuel to the Zaporozhye region",
+      "lead_en": "The Russian government spoke about the need for prompt coordination of supplies and regular monitoring of available volumes",
+      "title_raw": "Власти прорабатывают меры стабильного снабжения топливом Запорожской области",
+      "lead_raw": "В правительстве РФ рассказали о необходимости оперативной координации поставок и регулярного мониторинга имеющихся объемов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "864495e1a2eadfc815f83f12678767a68a4a773b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27937565",
+      "published_utc": "2026-07-21T12:16:03Z",
+      "title_en": "Aliyev announced a meeting of representatives of Russia and Germany in Baku",
+      "lead_en": "The President of Azerbaijan emphasized that he learned about this from The Times newspaper and requested information from the State Border Service",
+      "title_raw": "Алиев заявил о встрече представителей России и ФРГ в Баку",
+      "lead_raw": "Президент Азербайджана подчеркнул, что узнал об этом из газеты The Times и запросил информацию у Госпогранслужбы",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "71f46f5bdb461ee281d0e3bb5a936f79a29ffdf8",
       "source": "TASS (EN)",
@@ -793,71 +836,6 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e2af21d07215d513d221c66cba4774a4d8bdd3e5",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2162171",
-      "published_utc": "2026-07-19T13:42:08Z",
-      "title_en": "Russian forces hit Ukrainian army’s gas processing facility in Kharkov Region",
-      "lead_en": "Radar control data indicate that the target was hit successfully, the Russian defense ministry said",
-      "title_raw": "Russian forces hit Ukrainian army’s gas processing facility in Kharkov Region",
-      "lead_raw": "Radar control data indicate that the target was hit successfully, the Russian defense ministry said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "5488e6fa752b169cd078ab47d71c8b81389b5c74",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27931285",
-      "published_utc": "2026-07-19T13:14:16Z",
-      "title_en": "The Russian Armed Forces hit the gas processing plant of the Armed Forces of Ukraine in the Kharkov region",
-      "lead_en": "Objective control recorded the successful defeat of the target, noted the Russian Ministry of Defense",
-      "title_raw": "ВС РФ ударили по газоперерабатывающему заводу ВСУ в Харьковской области",
-      "lead_raw": "Объективный контроль зафиксировал успешное поражение цели, отметили в Минобороны РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "e9ae71f97999a963abf532d6ed2ae655042d51d5",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/nauka/27931225",
-      "published_utc": "2026-07-19T12:23:52Z",
-      "title_en": "Rosatom: nuclear medicine saves thousands of people every year",
-      "lead_en": "The development of nuclear technologies has changed the fate of not only Russia, but also the entire continent, says Andrey Timanov, director of the state corporation’s communications department.",
-      "title_raw": "Росатом: атомная медицина позволяет спасать тысячи человек ежегодно",
-      "lead_raw": "Развитие атомных технологий изменило судьбу не только России, но и всего континента, считает директор департамента коммуникаций госкорпорации Андрей Тиманов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
         "economy": 0,
         "local_events": 0
       },

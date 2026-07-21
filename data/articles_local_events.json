@@ -1,9 +1,68 @@
 {
-  "updated_at_utc": "2026-07-21T11:07:26Z",
+  "updated_at_utc": "2026-07-21T13:48:32Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 21,
+  "count": 23,
   "articles": [
+    {
+      "id": "5f80a24e7d27c934536c40bbc05c2eb9efc6c50e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27937691",
+      "published_utc": "2026-07-21T13:01:20Z",
+      "title_en": "A resident of Konstantinovka contacted the Russian Armed Forces via Starlink on Baba Yaga for evacuation",
+      "lead_en": "After his appeal to the location of the civilians, scouts from a unit of the 1465th regiment arrived, who were convinced of the reliability of the information",
+      "title_raw": "Житель Константиновки через Starlink на \"Бабе-Яге\" связался с ВС РФ для эвакуации",
+      "lead_raw": "После его обращения к месту нахождения гражданских прибыли разведчики из подразделения 1465-го полка, которые убедились в достоверности информации",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "3ab356af46013d1f0d17ef4fa885e5ba546a0e8c",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2163029",
+      "published_utc": "2026-07-21T12:11:18Z",
+      "title_en": "Senior Russian diplomat, Bahraini envoy call for US-Iran ceasefire",
+      "lead_en": "Georgy Borisenko and Dr. Ahmed Al Saati condemned attacks on civilian facilities as inadmissible",
+      "title_raw": "Senior Russian diplomat, Bahraini envoy call for US-Iran ceasefire",
+      "lead_raw": "Georgy Borisenko and Dr. Ahmed Al Saati condemned attacks on civilian facilities as inadmissible",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "361bbcc1b0a49c84fba17101e23c023a9d5e5d60",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27937425",
+      "published_utc": "2026-07-21T12:11:09Z",
+      "title_en": "Missing Russian tourist found in Almaty mountains",
+      "lead_en": "The citizen of the Russian Federation did not need medical assistance, the press service of the Ministry of Emergency Situations of Kazakhstan clarified.",
+      "title_raw": "В горах Алма-Аты нашли пропавшего российского туриста",
+      "lead_raw": "Гражданин РФ не нуждался в медицинской помощи, уточнили в пресс-службе МЧС Казахстана",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "cc62a65668354d5e7dfba0a798cd1980b490d5b7",
       "source": "Meduza (EN)",
@@ -400,27 +459,6 @@
         "local_events"
       ],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "f2df47053650d70e21c97de2d18ffa9c0a3ff584",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2162161",
-      "published_utc": "2026-07-19T13:07:08Z",
-      "title_en": "Russian troops gain new foothold in Dnepropetrovsk Region after liberating Volnoye",
-      "lead_en": "Before storming the village, aerial reconnaissance identified enemy machine-gun and mortar firing positions, the Russian Defense Ministry reported",
-      "title_raw": "Russian troops gain new foothold in Dnepropetrovsk Region after liberating Volnoye",
-      "lead_raw": "Before storming the village, aerial reconnaissance identified enemy machine-gun and mortar firing positions, the Russian Defense Ministry reported",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
