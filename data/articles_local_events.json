@@ -1,9 +1,133 @@
 {
-  "updated_at_utc": "2026-07-22T05:50:11Z",
+  "updated_at_utc": "2026-07-22T08:28:16Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 25,
+  "count": 30,
   "articles": [
+    {
+      "id": "2b1f5ca1796febd34645ae68897a2e98e98f0d86",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27940171",
+      "published_utc": "2026-07-22T08:09:46Z",
+      "title_en": "Tajikistan is ready to evacuate a Russian injured in the Pamir Mountains",
+      "lead_en": "The final decision will be made on the evening of July 22 by the head of the tourist group, Sergei Nasedkin, said the head of the Crisis Management Center of the rescue department of the republic, Jamshed Kamolzoda.",
+      "title_raw": "Таджикистан готов эвакуировать пострадавшего в горах Памира россиянина",
+      "lead_raw": "Окончательное решение будет принято вечером 22 июля руководителем туристической группы Сергеем Наседкиным, сообщил начальник Центра управления кризисными ситуациями спасательного ведомства республики Джамшед Камолзода",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "223c9e77e62d5c60d56218a56d255e628059940e",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/07/22/photos-show-massive-fires-after-ukraine-strikes-russian-retailer-wildberries-warehouses-for-the-second-time-in-a-week",
+      "published_utc": "2026-07-22T07:55:26Z",
+      "title_en": "Photos show massive fires after Ukraine strikes Russian retailer Wildberries’ warehouses for the second time in a week",
+      "lead_en": "Ukrainian drones struck Wildberries logistics centers in Krasnodar and Nevinnomyssk, in Stavropol Krai, in the early hours of July 22, setting off large fires. Helicopters from the Russian Emergency Ministry were deployed to help fight the blazes.",
+      "title_raw": "Photos show massive fires after Ukraine strikes Russian retailer Wildberries’ warehouses for the second time in a week",
+      "lead_raw": "Ukrainian drones struck Wildberries logistics centers in Krasnodar and Nevinnomyssk, in Stavropol Krai, in the early hours of July 22, setting off large fires. Helicopters from the Russian Emergency Ministry were deployed to help fight the blazes.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "bb877c4ad632a2c3557a267b177252e26924de46",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2163385",
+      "published_utc": "2026-07-22T07:46:29Z",
+      "title_en": "Two people injured in Ukrainian attacks on Russia’s borderline Bryansk Region",
+      "lead_en": "A security guard suffered shrapnel injuries in a drone strike on a facility belonging to the Miratorg agricultural holding in the Klimovsky District",
+      "title_raw": "Two people injured in Ukrainian attacks on Russia’s borderline Bryansk Region",
+      "lead_raw": "A security guard suffered shrapnel injuries in a drone strike on a facility belonging to the Miratorg agricultural holding in the Klimovsky District",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "cc428df5b00ac1768d245e081425b1d215db3590",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2163381",
+      "published_utc": "2026-07-22T07:36:31Z",
+      "title_en": "IN BRIEF: Wildberries facilities hit as air defenses down 242 drones over Russian regions",
+      "lead_en": "One person was killed and ten others suffered injuries in a large-scale drone attack on the Krasnodar Region",
+      "title_raw": "IN BRIEF: Wildberries facilities hit as air defenses down 242 drones over Russian regions",
+      "lead_raw": "One person was killed and ten others suffered injuries in a large-scale drone attack on the Krasnodar Region",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "5be2f8d05971c083aa29f411f47b29b0487b646f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2163365",
+      "published_utc": "2026-07-22T07:16:53Z",
+      "title_en": "Oil depot in southern Russia’s Armavir catches fire following massive drone attack",
+      "lead_en": "The fire area reached 800 square meters",
+      "title_raw": "Oil depot in southern Russia’s Armavir catches fire following massive drone attack",
+      "lead_raw": "The fire area reached 800 square meters",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "768c7c4e2e19efcdcf31bc60fa76c88335117a88",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2163337",
+      "published_utc": "2026-07-22T06:21:54Z",
+      "title_en": "One killed, 10 others injured in massive drone attack on Russia’s Krasnodar Region",
+      "lead_en": "Fragments of a drone landed on the premises of an industrial site in Armavir, killing one employee, Governor Veniamin Kondratyev specified",
+      "title_raw": "One killed, 10 others injured in massive drone attack on Russia’s Krasnodar Region",
+      "lead_raw": "Fragments of a drone landed on the premises of an industrial site in Armavir, killing one employee, Governor Veniamin Kondratyev specified",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "2dadbc1867a93dbb179d40c96c614d89ee46f082",
       "source": "TASS (RU)",
@@ -478,25 +602,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "664a873623670ded0c3b3b0d8447aefa0ed4ce7b",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/20/russian-forces-kill-3-including-child-and-wound-more-than-40-in-strike-on-zaporizhzhia",
-      "published_utc": "2026-07-20T07:20:02Z",
-      "title_en": "Russian forces kill 3, including child, and wound more than 40 in strike on Zaporizhzhia",
-      "lead_en": "Russian forces struck Zaporizhzhia with guided aerial bombs on the evening of July 19, partially destroying a residential building, the State Emergency Service of Ukraine reported.",
-      "title_raw": "Russian forces kill 3, including child, and wound more than 40 in strike on Zaporizhzhia",
-      "lead_raw": "Russian forces struck Zaporizhzhia with guided aerial bombs on the evening of July 19, partially destroying a residential building, the State Emergency Service of Ukraine reported.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
