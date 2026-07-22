@@ -1,9 +1,117 @@
 {
-  "updated_at_utc": "2026-07-22T17:18:29Z",
+  "updated_at_utc": "2026-07-22T19:18:03Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 53,
+  "count": 56,
   "articles": [
+    {
+      "id": "ff6cba65a3241dbde4ffa51dd2cfe5afcdea2d4f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27942435",
+      "published_utc": "2026-07-22T18:36:13Z",
+      "title_en": "Waltz threatened Nicaragua with the same energy crisis as Cuba",
+      "lead_en": "According to the US Permanent Representative to the UN, the crisis will be caused by problems with energy supplies from Russia and Venezuela",
+      "title_raw": "Уолтц пригрозил Никарагуа таким же кризисом в энергетике, как на Кубе",
+      "lead_raw": "По оценке постпреда США при ООН, кризис будет вызван проблемами с поставками энергоносителей из России и Венесуэлы",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "0fd9d58de5be47fb3eeaa1bb6ddef0daf80c35f8",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2163809",
+      "published_utc": "2026-07-22T18:11:01Z",
+      "title_en": "EU ambassadors fail to agree on 21st package of anti-Russian sanctions — source",
+      "lead_en": "The European commission earlier proposed to ambassadors a draft version of its sanctions package with softer restrictions on Russian LNG transportation to third countries by European tankers",
+      "title_raw": "EU ambassadors fail to agree on 21st package of anti-Russian sanctions — source",
+      "lead_raw": "The European commission earlier proposed to ambassadors a draft version of its sanctions package with softer restrictions on Russian LNG transportation to third countries by European tankers",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "8cb092812818b3cbb281c943a6700e12f05d5594",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27942333",
+      "published_utc": "2026-07-22T17:50:53Z",
+      "title_en": "TASS: EU ambassadors were unable to agree on the 21st package of sanctions against Russia",
+      "lead_en": "The European Commission previously proposed for approval a draft restriction with relaxed restrictions on the transportation of Russian LNG to third countries by European tankers and without bans on the purchase of Russian fish",
+      "title_raw": "ТАСС: послы ЕС не смогли согласовать 21-й пакет санкций против России",
+      "lead_raw": "Еврокомиссия ранее предложила на согласование проект рестрикций со смягченными ограничениями на перевозку российского СПГ в третьи страны европейскими танкерами и без запретов на закупки российской рыбы",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "bda85732227d75ccdb198bd7925a392bc65cffac",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2163799",
+      "published_utc": "2026-07-22T17:41:12Z",
+      "title_en": "Russian stock market closes higher as major indices post gains",
+      "lead_en": "The yuan edged down 5 kopecks to 11.54 rubles",
+      "title_raw": "Russian stock market closes higher as major indices post gains",
+      "lead_raw": "The yuan edged down 5 kopecks to 11.54 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "5cf90df2b7b4f63bd169175d8fd0dcb00651e369",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/07/22/german-nuclear-fuel-plant-cleared-to-work-with-russias-rosatom-a93315",
+      "published_utc": "2026-07-22T17:14:39Z",
+      "title_en": "German Nuclear Fuel Plant Cleared to Work With Russia's Rosatom",
+      "lead_en": "There is so far no EU agreement on an extension of sanctions on Russia to the nuclear power sector.",
+      "title_raw": "German Nuclear Fuel Plant Cleared to Work With Russia's Rosatom",
+      "lead_raw": "There is so far no EU agreement on an extension of sanctions on Russia to the nuclear power sector.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "1294e59074577c5bfd802994aff0399518e336f2",
       "source": "TASS (EN)",
@@ -1093,49 +1201,6 @@
         "military": 0,
         "energy": 1,
         "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "3ac1319bd4136cc25650b8faeaff3f6f4e196cc2",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/07/20/how-drones-came-to-decide-the-war-in-ukraine-and-why-no-army-has-found-the-weapon-that-stops-them",
-      "published_utc": "2026-07-20T18:58:00Z",
-      "title_en": "How drones came to decide the war in Ukraine, and why no army has found the weapon that stops them",
-      "lead_en": "Ukrainian strikes on Russian oil refineries and transport well behind the front lines — a hundred kilometers away or more — have forced Russia’s Defense Ministry to launch an overhaul of the country’s air defenses. Defense Minister Andrei Belousov has promised that by November, Russia will complete a new integrated, layered air defense system capable of countering drones across the country’s entire territory, from the front lines to the deep rear.",
-      "title_raw": "How drones came to decide the war in Ukraine, and why no army has found the weapon that stops them",
-      "lead_raw": "Ukrainian strikes on Russian oil refineries and transport well behind the front lines — a hundred kilometers away or more — have forced Russia’s Defense Ministry to launch an overhaul of the country’s air defenses. Defense Minister Andrei Belousov has promised that by November, Russia will complete a new integrated, layered air defense system capable of countering drones across the country’s entire territory, from the front lines to the deep rear.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "f8020811ae21be5ff1dd476385eb1eb89a23c8e9",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27935013",
-      "published_utc": "2026-07-20T18:13:48Z",
-      "title_en": "Serbijagaz has revealed how long gas supplies from the Russian Federation will not be threatened",
-      "lead_en": "Company director Dusan Bajatovic said that this period is at least until the beginning of 2028",
-      "title_raw": "\"Сербиягаз\" раскрыла, до каких пор поставкам газа из РФ ничего не будет угрожать",
-      "lead_raw": "Директор компании Душан Баятович сообщил, что этот срок составляет как минимум до начала 2028 года",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
         "local_events": 0
       },
       "topics": [
