@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-07-22T23:02:43Z",
+  "updated_at_utc": "2026-07-23T02:41:58Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 56,
   "articles": [
+    {
+      "id": "62690961b755131e645ab211bd98c353b8cef1ac",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2163863",
+      "published_utc": "2026-07-22T23:40:59Z",
+      "title_en": "EU may allow Greece to continue transporting Russian LNG — FT",
+      "lead_en": "According to sources cited by the newspaper, the agreement will allow companies to continue transporting Russian LNG to third countries for 12 months with the possibility of extension, while volumes will be capped at 2025 levels",
+      "title_raw": "EU may allow Greece to continue transporting Russian LNG — FT",
+      "lead_raw": "According to sources cited by the newspaper, the agreement will allow companies to continue transporting Russian LNG to third countries for 12 months with the possibility of extension, while volumes will be capped at 2025 levels",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "8001894daedd6d3fbd8e93c1f433acd2a709362a",
       "source": "TASS (RU)",
@@ -1186,29 +1208,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "bf3c3fb4de2a32aa9d77d505697a75134b09bc70",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2162785",
-      "published_utc": "2026-07-20T23:44:11Z",
-      "title_en": "Russian envoy says Coalition of Willing exercises in Poland will be symbolic show",
-      "lead_en": "Andrey Kelin also claimed that he does not think the upcoming military drills will turn into anything large-scale",
-      "title_raw": "Russian envoy says Coalition of Willing exercises in Poland will be symbolic show",
-      "lead_raw": "Andrey Kelin also claimed that he does not think the upcoming military drills will turn into anything large-scale",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 3,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
