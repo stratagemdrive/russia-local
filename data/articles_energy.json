@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-07-22T21:06:15Z",
+  "updated_at_utc": "2026-07-22T23:02:43Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 56,
   "articles": [
+    {
+      "id": "8001894daedd6d3fbd8e93c1f433acd2a709362a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27942657",
+      "published_utc": "2026-07-22T22:13:14Z",
+      "title_en": "FT: EU may allow Greece to continue transporting Russian LNG",
+      "lead_en": "The agreement will allow companies to continue transporting liquefied natural gas to third countries for 12 months, with the possibility of extension",
+      "title_raw": "FT: ЕС может разрешить Греции продолжать перевозить российский СПГ",
+      "lead_raw": "Соглашение позволит компаниям продолжать транспортировку сжиженного природного газа в третьи страны в течение 12 месяцев с возможностью продления",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "ef028a60ac4fbe9409abfc99274a30a0398c70f0",
       "source": "TASS (EN)",
@@ -1187,27 +1209,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "38654c2d637e11368fee14340fc60b5066bab636",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/nauka/27935375",
-      "published_utc": "2026-07-20T22:37:59Z",
-      "title_en": "Russia will create AI to manage groups of robots",
-      "lead_en": "The Industrial Artificial Intelligence Laboratory will make it possible to clearly distribute tasks between robots and can become a potential partner for oil and gas, energy, metallurgical, chemical, engineering and mining enterprises",
-      "title_raw": "В России займутся созданием ИИ для управления группами роботов",
-      "lead_raw": "Лаборатория индустриального искусственного интеллекта позволит четко распределять задачи между роботами и может стать потенциальным партнером нефтегазовых, энергетических, металлургических, химических, машиностроительных и горнодобывающих предприятий",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
