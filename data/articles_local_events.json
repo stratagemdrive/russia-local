@@ -1,9 +1,51 @@
 {
-  "updated_at_utc": "2026-07-23T11:08:59Z",
+  "updated_at_utc": "2026-07-23T13:57:43Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 31,
+  "count": 30,
   "articles": [
+    {
+      "id": "38bb17ae64c972d959d97228b02714453874fb63",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2164231",
+      "published_utc": "2026-07-23T11:50:06Z",
+      "title_en": "One killed, three injured as Turkish cargo ship en route from Russia hit in Black Sea",
+      "lead_en": "According to Oksijen newspaper, the attack occurred in international waters off the coast of Turkey's Samsun province",
+      "title_raw": "One killed, three injured as Turkish cargo ship en route from Russia hit in Black Sea",
+      "lead_raw": "According to Oksijen newspaper, the attack occurred in international waters off the coast of Turkey's Samsun province",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "1a33240490344d39dbed2369823c0a145666ae74",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2164223",
+      "published_utc": "2026-07-23T11:23:20Z",
+      "title_en": "Combat trainer aircraft crashes in Moscow Region — Russian Defense Ministry",
+      "lead_en": "The flight was carried out without ammunition",
+      "title_raw": "Combat trainer aircraft crashes in Moscow Region — Russian Defense Ministry",
+      "lead_raw": "The flight was carried out without ammunition",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "6c11650a81f7c8e9d0f5841adc7f6a9ed16ae820",
       "source": "Meduza (EN)",
@@ -565,65 +607,6 @@
       "lead_en": "The force’s self-propelled artillery battery commander with the call sign Yenisey added that crews of the Orlan-10 multipurpose unmanned reconnaissance systems adjust the Battlegroup North’s artillery fire",
       "title_raw": "Russia’s Battlegroup North destroys five Ukrainian artillery mounts near Kharkov",
       "lead_raw": "The force’s self-propelled artillery battery commander with the call sign Yenisey added that crews of the Orlan-10 multipurpose unmanned reconnaissance systems adjust the Battlegroup North’s artillery fire",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "5f80a24e7d27c934536c40bbc05c2eb9efc6c50e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27937691",
-      "published_utc": "2026-07-21T13:01:20Z",
-      "title_en": "A resident of Konstantinovka contacted the Russian Armed Forces via Starlink on Baba Yaga for evacuation",
-      "lead_en": "After his appeal to the location of the civilians, scouts from a unit of the 1465th regiment arrived, who were convinced of the reliability of the information",
-      "title_raw": "Житель Константиновки через Starlink на \"Бабе-Яге\" связался с ВС РФ для эвакуации",
-      "lead_raw": "После его обращения к месту нахождения гражданских прибыли разведчики из подразделения 1465-го полка, которые убедились в достоверности информации",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "3ab356af46013d1f0d17ef4fa885e5ba546a0e8c",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2163029",
-      "published_utc": "2026-07-21T12:11:18Z",
-      "title_en": "Senior Russian diplomat, Bahraini envoy call for US-Iran ceasefire",
-      "lead_en": "Georgy Borisenko and Dr. Ahmed Al Saati condemned attacks on civilian facilities as inadmissible",
-      "title_raw": "Senior Russian diplomat, Bahraini envoy call for US-Iran ceasefire",
-      "lead_raw": "Georgy Borisenko and Dr. Ahmed Al Saati condemned attacks on civilian facilities as inadmissible",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "361bbcc1b0a49c84fba17101e23c023a9d5e5d60",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27937425",
-      "published_utc": "2026-07-21T12:11:09Z",
-      "title_en": "Missing Russian tourist found in Almaty mountains",
-      "lead_en": "The citizen of the Russian Federation did not need medical assistance, the press service of the Ministry of Emergency Situations of Kazakhstan clarified.",
-      "title_raw": "В горах Алма-Аты нашли пропавшего российского туриста",
-      "lead_raw": "Гражданин РФ не нуждался в медицинской помощи, уточнили в пресс-службе МЧС Казахстана",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
