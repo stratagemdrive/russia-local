@@ -1,9 +1,89 @@
 {
-  "updated_at_utc": "2026-07-24T18:17:00Z",
+  "updated_at_utc": "2026-07-24T22:03:43Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 24,
+  "count": 27,
   "articles": [
+    {
+      "id": "5c20d339bd4697a0d6c2c30cad3e20c25c936581",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27950659",
+      "published_utc": "2026-07-24T20:24:21Z",
+      "title_en": "Unmanned danger declared in the Volgograd region",
+      "lead_en": "This was reported to the Main Directorate of the Ministry of Emergency Situations of Russia for the region",
+      "title_raw": "В Волгоградской области объявили беспилотную опасность",
+      "lead_raw": "Об этом сообщили в ГУ МЧС России по региону",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "e4686fa604695537037923294692241c5bf7c741",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27950629",
+      "published_utc": "2026-07-24T20:08:29Z",
+      "title_en": "The danger of a UAV attack has been announced in the Tambov region",
+      "lead_en": "The Russian Ministry of Emergency Situations called on citizens to remain calm",
+      "title_raw": "В Тамбовской области объявили опасность атаки БПЛА",
+      "lead_raw": "МЧС России призвало граждан сохранять спокойствие",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "ee3168e16b751a60c8db881bd01363bc4dfb300a",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/07/24/russian-disinformation-network-storm-1516-accused-of-targeting-french-presidential-candidate-edouard-philippe-with-fake-health-claims",
+      "published_utc": "2026-07-24T18:28:53Z",
+      "title_en": "Russian disinformation network Storm-1516 accused of targeting French presidential candidate Édouard Philippe with fake health claims",
+      "lead_en": "A French security source told AFP that the Russian disinformation network “Storm-1516” targeted former Prime Minister Édouard Philippe, one of the declared candidates for the French presidency, as part of an effort to interfere in France’s presidential election.",
+      "title_raw": "Russian disinformation network Storm-1516 accused of targeting French presidential candidate Édouard Philippe with fake health claims",
+      "lead_raw": "A French security source told AFP that the Russian disinformation network “Storm-1516” targeted former Prime Minister Édouard Philippe, one of the declared candidates for the French presidency, as part of an effort to interfere in France’s presidential election.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "8e231b4df4e41184f9a7282098d8c578dca3478d",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2165021",
+      "published_utc": "2026-07-24T18:15:14Z",
+      "title_en": "Russia, India agree on cooperation in area of emergency response",
+      "lead_en": "A three-year cooperation plan was signed in New Delhi on the sidelines of the third meeting of the Russian-Indian commission on cooperation in the area of preventing and addressing emergencies",
+      "title_raw": "Russia, India agree on cooperation in area of emergency response",
+      "lead_raw": "A three-year cooperation plan was signed in New Delhi on the sidelines of the third meeting of the Russian-Indian commission on cooperation in the area of preventing and addressing emergencies",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "a0b76caa30b07f1cc4391927d307bf45608422ee",
       "source": "TASS (RU)",
@@ -472,27 +552,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "b610889768cdb30c7599154c49ae1fb7b919eb86",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27942517",
-      "published_utc": "2026-07-22T19:46:28Z",
-      "title_en": "There was a fire in a house in the center of Moscow",
-      "lead_en": "In one of the apartments, personal belongings and furniture caught fire, the press service of the Russian Ministry of Emergency Situations for the city said.",
-      "title_raw": "В центре Москвы произошел пожар в доме",
-      "lead_raw": "В одной из квартир загорелись личные вещи и мебель, рассказали в пресс-службе ГУ МЧС России по городу",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
     }
   ]
 }
