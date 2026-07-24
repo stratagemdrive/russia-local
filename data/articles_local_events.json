@@ -1,9 +1,89 @@
 {
-  "updated_at_utc": "2026-07-24T10:15:56Z",
+  "updated_at_utc": "2026-07-24T16:41:17Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 26,
+  "count": 25,
   "articles": [
+    {
+      "id": "a0b76caa30b07f1cc4391927d307bf45608422ee",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27950249",
+      "published_utc": "2026-07-24T15:47:09Z",
+      "title_en": "In several districts of the Krasnodar Territory, a drone danger has been declared",
+      "lead_en": "The Russian Ministry of Emergency Situations warned about this",
+      "title_raw": "В нескольких районах Краснодарского края объявили беспилотную опасность",
+      "lead_raw": "Об этом предупредили в МЧС России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "1bfe6395678da764188fa9dcb0089737739f1bab",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/07/24/russia-strikes-sloviansk-five-killed-latvia-s-honorary-consulate-building-damaged",
+      "published_utc": "2026-07-24T13:37:35Z",
+      "title_en": "Russia strikes Sloviansk. Five killed, Latvia’s honorary consulate building damaged.",
+      "lead_en": "Russian forces dropped two air bombs on Sloviansk, in Ukraine’s Donetsk region, on the afternoon of July 24, the head of the region’s administration, Vadym Filashkin, reported.",
+      "title_raw": "Russia strikes Sloviansk. Five killed, Latvia’s honorary consulate building damaged.",
+      "lead_raw": "Russian forces dropped two air bombs on Sloviansk, in Ukraine’s Donetsk region, on the afternoon of July 24, the head of the region’s administration, Vadym Filashkin, reported.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "ea6520e06d8feee19909f7e633e56009b1d32e66",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2164719",
+      "published_utc": "2026-07-24T11:09:03Z",
+      "title_en": "Fuel supply improves in several Russian regions amid stabilization measures",
+      "lead_en": "Special attention is being paid to ensuring uninterrupted fuel supplies for \"state and municipal services, including the Emergency Situations Ministry and medical services\"",
+      "title_raw": "Fuel supply improves in several Russian regions amid stabilization measures",
+      "lead_raw": "Special attention is being paid to ensuring uninterrupted fuel supplies for \"state and municipal services, including the Emergency Situations Ministry and medical services\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "40422d8672b64703bafcd191221fd4f31adc2d23",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/07/24/6-killed-26-injured-in-ukrainian-strike-on-russian-plant-in-kirov-governor-says",
+      "published_utc": "2026-07-24T10:49:14Z",
+      "title_en": "6 killed, 26 injured in Ukrainian strike on Russian plant in Kirov, governor says",
+      "lead_en": "A Ukrainian strike on a plant in Kirov killed six people and injured 26 others, Kirov Governor Alexander Sokolov said.",
+      "title_raw": "6 killed, 26 injured in Ukrainian strike on Russian plant in Kirov, governor says",
+      "lead_raw": "A Ukrainian strike on a plant in Kirov killed six people and injured 26 others, Kirov Governor Alexander Sokolov said.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "9deb774265ab42bb693681c0d1d3059b0463a2e6",
       "source": "Meduza (EN)",
@@ -69,7 +149,7 @@
       "url": "https://tass.ru/obschestvo/27947753",
       "published_utc": "2026-07-24T07:16:21Z",
       "title_en": "Head of the Ministry of Emergency Situations of the Russian Federation: the scale of transboundary emergencies in the world has increased",
-      "lead_en": "Alexander Kurenkov announced this at a meeting of the heads of emergency departments of the BRICS countries in India",
+      "lead_en": "Alexander Kurenkov stated this at a meeting of the heads of emergency departments of the BRICS countries in India",
       "title_raw": "Глава МЧС РФ: масштабы трансграничных чрезвычайных ситуаций в мире возросли",
       "lead_raw": "Александр Куренков заявил об этом на совещании глав чрезвычайных ведомств стран БРИКС в Индии",
       "topic_scores": {
@@ -434,106 +514,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "8f36ffc9198d8c6eed0a6ff23c3004f13fc39859",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/07/22/ukraine-s-strike-on-russian-retail-giant-wildberries-warehouses-may-have-cost-sellers-at-least-150-billion-rubles",
-      "published_utc": "2026-07-22T14:34:36Z",
-      "title_en": "Ukraine’s strike on Russian retail giant Wildberries’ warehouses may have cost sellers at least 150 billion rubles",
-      "lead_en": "Overnight on July 18, Ukraine attacked two warehouses belonging to Wildberries, Russia’s largest online marketplace, citing the fact that drone components were stored there. Eight people were killed and more than 80 were injured.",
-      "title_raw": "Ukraine’s strike on Russian retail giant Wildberries’ warehouses may have cost sellers at least 150 billion rubles",
-      "lead_raw": "Overnight on July 18, Ukraine attacked two warehouses belonging to Wildberries, Russia’s largest online marketplace, citing the fact that drone components were stored there. Eight people were killed and more than 80 were injured.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 2
-      },
-      "topics": [
-        "economy",
-        "local_events"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "d77e47822d0f6068cf9c8a7bb5d213a65d4cc068",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27941491",
-      "published_utc": "2026-07-22T12:40:33Z",
-      "title_en": "Zhoga called timely information provided the best weapon against fakes",
-      "lead_en": "The Plenipotentiary Representative of the President of the Russian Federation in the Urals Federal District called on the media to tell more about the special operation participants, volunteers and rescuers",
-      "title_raw": "Жога назвал своевременно предоставленную информацию лучшим оружием против фейков",
-      "lead_raw": "Полномочный представитель президента РФ в УрФО призвал СМИ больше рассказывать об участниках спецоперации, волонтерах и спасателях",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "65f0f8b01fce0f28c962e1925ec8b062c4bc1303",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2163657",
-      "published_utc": "2026-07-22T12:35:27Z",
-      "title_en": "Death toll in Ukrainian attack on Russia’s Krasnodar Region rises to two",
-      "lead_en": "A young woman who was injured in the warehouse attack in Krasnodar has died in the hospital",
-      "title_raw": "Death toll in Ukrainian attack on Russia’s Krasnodar Region rises to two",
-      "lead_raw": "A young woman who was injured in the warehouse attack in Krasnodar has died in the hospital",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "9e253479ffa166b0470b935df63c745eada433ed",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27941449",
-      "published_utc": "2026-07-22T12:23:07Z",
-      "title_en": "Near Kirov, two people were injured in a collision between a Kamaz truck and a train locomotive.",
-      "lead_en": "According to the Central MSUT of the Investigative Committee of Russia, the driver applied emergency braking, but failed to prevent the accident",
-      "title_raw": "Под Кировом при столкновении \"Камаза\" и локомотива поезда пострадали два человека",
-      "lead_raw": "По данным Центрального МСУТ СК России, машинист применил экстренное торможение, однако предотвратить аварию не удалось",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "1ee28e5e57a2cf5ab3e39fcb2c3e25228e8a4175",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/22/ukrainian-drones-strike-two-wildberries-warehouses-in-russia-sparking-fires-and-injuring-workers",
-      "published_utc": "2026-07-22T10:22:14Z",
-      "title_en": "Ukrainian drones strike two Wildberries warehouses in Russia, sparking fires and injuring workers",
-      "lead_en": "Ukrainian drones struck two logistics centers belonging to Russian online retailer Wildberries — one in Krasnodar and one in Nevinnomyssk — injuring employees at both sites, company head Tatyana Kim said. Both warehouses were evacuated.",
-      "title_raw": "Ukrainian drones strike two Wildberries warehouses in Russia, sparking fires and injuring workers",
-      "lead_raw": "Ukrainian drones struck two logistics centers belonging to Russian online retailer Wildberries — one in Krasnodar and one in Nevinnomyssk — injuring employees at both sites, company head Tatyana Kim said. Both warehouses were evacuated.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
