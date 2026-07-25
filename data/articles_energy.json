@@ -1,9 +1,53 @@
 {
-  "updated_at_utc": "2026-07-25T17:58:59Z",
+  "updated_at_utc": "2026-07-25T20:52:11Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 50,
+  "count": 47,
   "articles": [
+    {
+      "id": "1657ba56855f965260234f3b68ff9f03d99393fe",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2165321",
+      "published_utc": "2026-07-25T18:48:09Z",
+      "title_en": "Russia to extend ban on gasoline exports until year-end — deputy premier",
+      "lead_en": "Alexander Novak added that diesel exports will be lifted \"as the market rebounds\"",
+      "title_raw": "Russia to extend ban on gasoline exports until year-end — deputy premier",
+      "lead_raw": "Alexander Novak added that diesel exports will be lifted \"as the market rebounds\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "8823b363ef78b4686b58635775adf4b63e897774",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27952711",
+      "published_utc": "2026-07-25T18:24:13Z",
+      "title_en": "Peskov: The Russian Federation will continue to convey its position on Ukraine to its partners",
+      "lead_en": "Russia will do this with redoubled energy, the presidential press secretary said",
+      "title_raw": "Песков: РФ продолжит доносить до партнеров свою позицию по Украине",
+      "lead_raw": "Россия будет делать это с удвоенной энергией, заявил пресс-секретарь президента",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "dc6bba5fad59a49cb4872bbb5dc8e1f4f64e7cce",
       "source": "TASS (RU)",
@@ -754,7 +798,7 @@
       "url": "https://tass.ru/ekonomika/27948745",
       "published_utc": "2026-07-24T10:12:23Z",
       "title_en": "Ministry of Industry and Trade: non-resource exports of the Russian Federation to the EAEU countries in January - May increased by 10%",
-      "lead_en": "Directly to Kazakhstan, exports of Russian non-resource non-energy goods in the first five months of 2026 increased by 3.9%, said State Secretary - Deputy Head of the Ministry of Industry and Trade Roman Chekushov",
+      "lead_en": "Directly to Kazakhstan, exports of Russian non-resource non-energy goods in the first five months of 2026 increased by 3.9%, said Secretary of State - Deputy Head of the Ministry of Industry and Trade Roman Chekushov",
       "title_raw": "Минпромторг: несырьевой экспорт РФ в страны ЕАЭС в январе - мае вырос на 10%",
       "lead_raw": "Непосредственно в Казахстан экспорт российских несырьевых неэнергетических товаров за первые пять месяцев 2026 года вырос на 3,9%, сообщил статс-секретарь - замглавы Минпромторга Роман Чекушов",
       "topic_scores": {
@@ -958,113 +1002,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "44aa3089f11d80bd2570372598f43b398ce00807",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27946221",
-      "published_utc": "2026-07-23T19:46:42Z",
-      "title_en": "Latvia has banned the import of books, newspapers, video games, toys from Russia",
-      "lead_en": "At the same time, transit through the territory of the republic to other EU member states will not be limited.",
-      "title_raw": "Латвия запретила импорт книг, газет, видеоигр, игрушек из России",
-      "lead_raw": "При этом транзит через территорию республики в другие государства - члены ЕС ограничиваться не будет",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "6815ad97e5b428b454a2d38cb2ce1a9d08083914",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2164415",
-      "published_utc": "2026-07-23T19:45:29Z",
-      "title_en": "Humanity in for all-time high oil prices — Dmitriev",
-      "lead_en": "The energy crisis tsunami is coming, Russian Presidential Special Representative for Investment and Economic Cooperation with Foreign Countries said",
-      "title_raw": "Humanity in for all-time high oil prices — Dmitriev",
-      "lead_raw": "The energy crisis tsunami is coming, Russian Presidential Special Representative for Investment and Economic Cooperation with Foreign Countries said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "caec8309fb599a8cd6861fd526f81725a27b2c8d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27946141",
-      "published_utc": "2026-07-23T18:35:47Z",
-      "title_en": "Dmitriev: Europeans will suffer due to the struggle of their authorities with Russian energy resources",
-      "lead_en": "Oil and gas prices in Europe “will skyrocket,” said the head of the RDIF",
-      "title_raw": "Дмитриев: европейцы пострадают из-за борьбы их властей с энергоносителями РФ",
-      "lead_raw": "Цены на нефть и газ в Европе \"взлетят до небес\", заявил глава РФПИ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "05fe50b6184c2ab7daa8fea2b4f4d71c19a74143",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2164401",
-      "published_utc": "2026-07-23T18:30:41Z",
-      "title_en": "EU imposes sanctions on three oil refineries in Russia and one in Belarus",
-      "lead_en": "The EU is also imposing a ban on transactions with a Georgian refinery allegedly involved in trading and refining Russian oil",
-      "title_raw": "EU imposes sanctions on three oil refineries in Russia and one in Belarus",
-      "lead_raw": "The EU is also imposing a ban on transactions with a Georgian refinery allegedly involved in trading and refining Russian oil",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "d250b27942548f20d91dafb8aca8cfa4d952c25d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2164393",
-      "published_utc": "2026-07-23T18:02:36Z",
-      "title_en": "Russian stock market closes higher as major indices post gains",
-      "lead_en": "The yuan edged up 2.85 kopecks to 11.573 rubles",
-      "title_raw": "Russian stock market closes higher as major indices post gains",
-      "lead_raw": "The yuan edged up 2.85 kopecks to 11.573 rubles",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
