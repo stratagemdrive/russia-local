@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-07-24T22:03:43Z",
+  "updated_at_utc": "2026-07-25T00:02:35Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 55,
+  "count": 54,
   "articles": [
+    {
+      "id": "dd0b23dceb5252e3dc27a54c3fdfcbd6d41482e9",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27950875",
+      "published_utc": "2026-07-24T23:54:53Z",
+      "title_en": "NYT reported that the US bill on sanctions against the Russian Federation is under threat",
+      "lead_en": "The situation is due to disagreements between Republicans and Democrats regarding the expansion of the powers of American leader Donald Trump, the newspaper reported",
+      "title_raw": "NYT сообщила, что законопроект США о санкциях против РФ под угрозой",
+      "lead_raw": "Ситуация обусловлена разногласиями республиканцев и демократов относительно расширения полномочий американского лидера Дональда Трампа, сообщила газета",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "06a88c62d5a430769e187b75214ea7e7600fcae1",
       "source": "TASS (RU)",
@@ -351,7 +372,7 @@
       "url": "https://tass.ru/ekonomika/27948745",
       "published_utc": "2026-07-24T10:12:23Z",
       "title_en": "Ministry of Industry and Trade: non-resource exports of the Russian Federation to the EAEU countries in January - May increased by 10%",
-      "lead_en": "Directly to Kazakhstan, exports of Russian non-resource non-energy goods in the first five months of 2026 increased by 3.9%, said Secretary of State - Deputy Head of the Ministry of Industry and Trade Roman Chekushov",
+      "lead_en": "Directly to Kazakhstan, exports of Russian non-resource non-energy goods in the first five months of 2026 increased by 3.9%, said State Secretary - Deputy Head of the Ministry of Industry and Trade Roman Chekushov",
       "title_raw": "Минпромторг: несырьевой экспорт РФ в страны ЕАЭС в январе - мае вырос на 10%",
       "lead_raw": "Непосредственно в Казахстан экспорт российских несырьевых неэнергетических товаров за первые пять месяцев 2026 года вырос на 3,9%, сообщил статс-секретарь - замглавы Минпромторга Роман Чекушов",
       "topic_scores": {
@@ -1126,50 +1147,6 @@
         "local_events": 0
       },
       "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "62690961b755131e645ab211bd98c353b8cef1ac",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2163863",
-      "published_utc": "2026-07-22T23:40:59Z",
-      "title_en": "EU may allow Greece to continue transporting Russian LNG — FT",
-      "lead_en": "According to sources cited by the newspaper, the agreement will allow companies to continue transporting Russian LNG to third countries for 12 months with the possibility of extension, while volumes will be capped at 2025 levels",
-      "title_raw": "EU may allow Greece to continue transporting Russian LNG — FT",
-      "lead_raw": "According to sources cited by the newspaper, the agreement will allow companies to continue transporting Russian LNG to third countries for 12 months with the possibility of extension, while volumes will be capped at 2025 levels",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "8001894daedd6d3fbd8e93c1f433acd2a709362a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27942657",
-      "published_utc": "2026-07-22T22:13:14Z",
-      "title_en": "FT: EU may allow Greece to continue transporting Russian LNG",
-      "lead_en": "The agreement will allow companies to continue transporting liquefied natural gas to third countries for 12 months, with the possibility of extension",
-      "title_raw": "FT: ЕС может разрешить Греции продолжать перевозить российский СПГ",
-      "lead_raw": "Соглашение позволит компаниям продолжать транспортировку сжиженного природного газа в третьи страны в течение 12 месяцев с возможностью продления",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
         "energy"
       ],
       "primary_topic": "energy"
