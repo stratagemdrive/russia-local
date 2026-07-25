@@ -1,9 +1,66 @@
 {
-  "updated_at_utc": "2026-07-25T00:02:35Z",
+  "updated_at_utc": "2026-07-25T07:15:50Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 27,
+  "count": 29,
   "articles": [
+    {
+      "id": "d40daa31faca160e577942e20d9dce9f1b047a21",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27951443",
+      "published_utc": "2026-07-25T07:04:54Z",
+      "title_en": "In the Nizhny Novgorod region, the drone danger regime was canceled",
+      "lead_en": "This was announced by the Main Directorate of the Russian Emergency Situations Ministry for the region.",
+      "title_raw": "В Нижегородской области отменили режим беспилотной опасности",
+      "lead_raw": "Об этом заявили в ГУ МЧС России по региону",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "cb87206217950cce7910dd3e653c9fe9dacbc5ec",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27951259",
+      "published_utc": "2026-07-25T05:28:29Z",
+      "title_en": "The Russian Armed Forces \"Geranya\" destroyed a UAV warehouse in the Sumy region",
+      "lead_en": "Objective control recorded a massive fire at the site of the facility, noted the Russian Defense Ministry.",
+      "title_raw": "ВС РФ \"Геранью\" уничтожили склад БПЛА в Сумской области",
+      "lead_raw": "Объективным контролем зафиксирован объемный пожар на месте расположения объекта, отметили в МО России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "f4e92d721dfddd869d190673ae586c470551c2fe",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27951091",
+      "published_utc": "2026-07-25T03:33:27Z",
+      "title_en": "TASS: a woman in the Chernihiv region handed over a package with explosives to TCC",
+      "lead_en": "According to Russian security forces, the incident was an act of revenge.",
+      "title_raw": "ТАСС: женщина в Черниговской области передала ТЦК пакет со взрывчаткой",
+      "lead_raw": "Как рассказали в российских силовых структурах, произошедшее было актом мести",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "5c20d339bd4697a0d6c2c30cad3e20c25c936581",
       "source": "TASS (RU)",
@@ -531,27 +588,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "367172e98d89fe98d0bd43fe5bc4bce4ff639318",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2163893",
-      "published_utc": "2026-07-23T03:06:26Z",
-      "title_en": "Ukrainian army retreating from Pisarevka in Sumy Region to Khoten as Russia advances",
-      "lead_en": "According to Andrey Marochko, Russian troops regularly strike Khoten with fire",
-      "title_raw": "Ukrainian army retreating from Pisarevka in Sumy Region to Khoten as Russia advances",
-      "lead_raw": "According to Andrey Marochko, Russian troops regularly strike Khoten with fire",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
