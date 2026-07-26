@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-07-26T15:04:12Z",
+  "updated_at_utc": "2026-07-26T17:00:09Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 14,
+  "count": 15,
   "articles": [
+    {
+      "id": "f8cf766ce69f94a64a216671e942211ba07661f2",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/07/26/five-bosnian-climbers-feared-dead-on-russias-mount-elbrus-a93343",
+      "published_utc": "2026-07-26T15:38:00Z",
+      "title_en": "Five Bosnian Climbers Feared Dead on Russia’s Mount Elbrus",
+      "lead_en": "Russia's Emergency Situations Ministry said rescuers had saved two other climbers, who were evacuated and taken for medical care.",
+      "title_raw": "Five Bosnian Climbers Feared Dead on Russia’s Mount Elbrus",
+      "lead_raw": "Russia's Emergency Situations Ministry said rescuers had saved two other climbers, who were evacuated and taken for medical care.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "36f6110f696ffcb1acc3a5ad23d4139b28724334",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27954437",
+      "published_utc": "2026-07-26T15:29:18Z",
+      "title_en": "Putin called the sense of unity extremely important, including at the front",
+      "lead_en": "This is extremely important for any country, and for such a multinational country as Russia, it is doubly, triply important, the president said",
+      "title_raw": "Путин назвал чрезвычайно важным чувство единства, в том числе на фронте",
+      "lead_raw": "Это чрезвычайно важно для любой страны, а для такой многонациональной страны, как Россия, важно вдвойне, втройне, заявил президент",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "95d5b0f2a361c9eac03a27a0997d7d931b5e38c8",
       "source": "The Moscow Times",
@@ -254,25 +294,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "a0b76caa30b07f1cc4391927d307bf45608422ee",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27950249",
-      "published_utc": "2026-07-24T15:47:09Z",
-      "title_en": "Drone danger has been declared in several districts of the Krasnodar Territory",
-      "lead_en": "The Russian Ministry of Emergency Situations warned about this",
-      "title_raw": "В нескольких районах Краснодарского края объявили беспилотную опасность",
-      "lead_raw": "Об этом предупредили в МЧС России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
