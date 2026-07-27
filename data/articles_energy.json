@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-07-27T13:38:45Z",
+  "updated_at_utc": "2026-07-27T16:18:38Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 15,
   "articles": [
+    {
+      "id": "dd114d460479b810557813ed781e99cb405a264e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2166075",
+      "published_utc": "2026-07-27T15:29:31Z",
+      "title_en": "Russia’s MFA slams EU's actions on oil price cap as ‘farce’",
+      "lead_en": "According to Maria Zakharova, Moscow has long been accustomed to the EU arbitrarily changing any rules of the game regarding the Russian fuel and energy complex and other sectors",
+      "title_raw": "Russia’s MFA slams EU's actions on oil price cap as ‘farce’",
+      "lead_raw": "According to Maria Zakharova, Moscow has long been accustomed to the EU arbitrarily changing any rules of the game regarding the Russian fuel and energy complex and other sectors",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "c7e5ebc43daaa1548c80305b884b668d8f4f1f4f",
       "source": "Meduza (EN)",
@@ -303,27 +325,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "dc6bba5fad59a49cb4872bbb5dc8e1f4f64e7cce",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27952351",
-      "published_utc": "2026-07-25T14:07:54Z",
-      "title_en": "Peskov called Kyiv's attacks in the Azov and Black Seas energy terrorism",
-      "lead_en": "The Russian President's press secretary said that these attacks are \"potentially extremely dangerous\"",
-      "title_raw": "Песков назвал энергетическим терроризмом атаки Киева в Азовском и Черном морях",
-      "lead_raw": "Пресс-секретарь президента РФ заявил, что эти атаки \"потенциально крайне опасные\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
