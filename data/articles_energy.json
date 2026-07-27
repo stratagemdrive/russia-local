@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-07-27T02:52:51Z",
+  "updated_at_utc": "2026-07-27T06:30:21Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 28,
   "articles": [
+    {
+      "id": "d69ea36e2c602e96cf8b8c87d0e7343ee61fad24",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27955613",
+      "published_utc": "2026-07-27T06:09:57Z",
+      "title_en": "Trutnev instructed to prepare a schedule for commissioning energy capacities in the Far East",
+      "lead_en": "In addition, the Deputy Prime Minister instructed the government to submit an agreed draft report to the President of the Russian Federation on accelerating the gasification of the region",
+      "title_raw": "Трутнев поручил подготовить план-график ввода энергомощностей на Дальнем Востоке",
+      "lead_raw": "Кроме того, вице-премьер поручил представить в правительство согласованный проект доклада президенту РФ об ускорении газификации региона",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "eef1bbf99dadab8e88f356d9bb94313616d3b2af",
       "source": "TASS (RU)",
@@ -577,29 +598,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "a923dea9146e98f61bdf4738ea5afd65ce3b42e3",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27951127",
-      "published_utc": "2026-07-25T04:01:35Z",
-      "title_en": "The AfD called for resuming negotiations with Russia on energy supplies",
-      "lead_en": "Bundestag deputy from the Alternative for Germany faction, party expert on energy policy Steffen Kotre called sanctions against the Russian Federation economic suicide for German industry",
-      "title_raw": "В АдГ призвали возобновить переговоры с Россией о поставках энергоносителей",
-      "lead_raw": "Депутат Бундестага от фракции \"Альтернатива для Германии\", эксперт партии по энергетической политике Штеффен Котре назвал санкции против РФ экономическим самоубийством для промышленности ФРГ",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
