@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-07-26T23:05:00Z",
+  "updated_at_utc": "2026-07-27T02:52:51Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 28,
   "articles": [
+    {
+      "id": "eef1bbf99dadab8e88f356d9bb94313616d3b2af",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27955029",
+      "published_utc": "2026-07-27T00:45:50Z",
+      "title_en": "Vedomosti: The Ministry of Digital Development is working on support measures for digital twins",
+      "lead_en": "According to the newspaper, the department ordered a study from the National Research University Higher School of Economics to assess the level of Russian developments and prospects for the development of this area",
+      "title_raw": "\"Ведомости\": Минцифры работает над мерами поддержки для цифровых двойников",
+      "lead_raw": "По данным газеты, ведомство заказало НИУ ВШЭ исследование для оценки уровня российских разработок и перспектив развития этого направления",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "5c9d302e49e0cede4deb8e87188a92ea69396245",
       "source": "TASS (RU)",
@@ -579,27 +600,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "799d2568db216763f900b1be562e2a36409ef3ed",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27950923",
-      "published_utc": "2026-07-25T00:43:41Z",
-      "title_en": "NYT found out what they fear in Europe after the refusal of Russian gas",
-      "lead_en": "We are talking about excessive dependence on the United States in this matter, the newspaper writes.",
-      "title_raw": "NYT выяснила, чего опасаются в Европе после отказа от российского газа",
-      "lead_raw": "Речь о чрезмерной зависимости от Соединенных Штатов в этом вопросе, пишет газета",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
