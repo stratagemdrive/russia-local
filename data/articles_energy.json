@@ -1,9 +1,53 @@
 {
-  "updated_at_utc": "2026-07-27T18:23:56Z",
+  "updated_at_utc": "2026-07-27T20:21:45Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 15,
   "articles": [
+    {
+      "id": "1e0f04ef7f7d14c558a538ecc7c44ce5c7e617d6",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2166145",
+      "published_utc": "2026-07-27T18:43:20Z",
+      "title_en": "Bank of Russia lowers dollar exchange rate for July 28 to 78.01 rubles",
+      "lead_en": "The official yuan exchange rate was raised by 1.93 kopecks to 11.5218 rubles",
+      "title_raw": "Bank of Russia lowers dollar exchange rate for July 28 to 78.01 rubles",
+      "lead_raw": "The official yuan exchange rate was raised by 1.93 kopecks to 11.5218 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "e2dca8f945cc61d5cd5419604afff389780d94ee",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2166135",
+      "published_utc": "2026-07-27T18:23:00Z",
+      "title_en": "Sanctions targeting Russia's energy partnerships threaten global markets — MFA",
+      "lead_en": "Maria Zakharova noted that after all the sanctions measures adopted, Western countries should not \"appear with long faces at global forums and talk about how they pity poor people who are undernourished, sleep-deprived, overworked, and suffering\"",
+      "title_raw": "Sanctions targeting Russia's energy partnerships threaten global markets — MFA",
+      "lead_raw": "Maria Zakharova noted that after all the sanctions measures adopted, Western countries should not \"appear with long faces at global forums and talk about how they pity poor people who are undernourished, sleep-deprived, overworked, and suffering\"",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "dd114d460479b810557813ed781e99cb405a264e",
       "source": "TASS (EN)",
@@ -281,50 +325,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "1657ba56855f965260234f3b68ff9f03d99393fe",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2165321",
-      "published_utc": "2026-07-25T18:48:09Z",
-      "title_en": "Russia to extend ban on gasoline exports until year-end — deputy premier",
-      "lead_en": "Alexander Novak added that diesel exports will be lifted \"as the market rebounds\"",
-      "title_raw": "Russia to extend ban on gasoline exports until year-end — deputy premier",
-      "lead_raw": "Alexander Novak added that diesel exports will be lifted \"as the market rebounds\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "8823b363ef78b4686b58635775adf4b63e897774",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27952711",
-      "published_utc": "2026-07-25T18:24:13Z",
-      "title_en": "Peskov: The Russian Federation will continue to convey its position on Ukraine to its partners",
-      "lead_en": "Russia will do this with redoubled energy, the presidential press secretary said",
-      "title_raw": "Песков: РФ продолжит доносить до партнеров свою позицию по Украине",
-      "lead_raw": "Россия будет делать это с удвоенной энергией, заявил пресс-секретарь президента",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
