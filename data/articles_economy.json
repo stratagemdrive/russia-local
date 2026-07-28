@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-07-28T15:20:11Z",
+  "updated_at_utc": "2026-07-28T17:26:25Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 72,
+  "count": 73,
   "articles": [
+    {
+      "id": "d0c268153e310a2a67c46404308d471497e5492d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27961997",
+      "published_utc": "2026-07-28T17:03:25Z",
+      "title_en": "The Russian stock market closed with a decline in the main indices",
+      "lead_en": "The Moscow Exchange index fell by 1.16%, the RTS dollar index fell by 2.02%",
+      "title_raw": "Российский рынок акций закрылся снижением основных индексов",
+      "lead_raw": "Индекс Мосбиржи снизился на 1,16%, долларовый индекс РТС опустился на 2,02%",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "7443a9bff7dfc60429c7fe06a2f2cec2553a603e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27961917",
+      "published_utc": "2026-07-28T16:15:29Z",
+      "title_en": "Rosselkhozbank announced the preservation of financial stability after EU sanctions",
+      "lead_en": "RSHB continues to finance the production, processing, logistics and export of Russian agricultural products, using available payment mechanisms",
+      "title_raw": "Россельхозбанк заявил о сохранении финансовой устойчивости после санкций ЕС",
+      "lead_raw": "РСХБ продолжает финансировать производство, переработку, логистику и экспорт российской сельскохозяйственной продукции, используя доступные механизмы расчетов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "6d8e570b9a87480025faa3ac2e2fc256c7fc8ca0",
       "source": "TASS (RU)",
@@ -28,22 +68,21 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/obschestvo/27961781",
       "published_utc": "2026-07-28T15:16:47Z",
-      "title_en": "Berliner Zeitung: The EU cannot use Ka-32 helicopters to fight fires",
-      "lead_en": "The European Union, by imposing sanctions on Russia, is preventing rescue operations in France and Spain, the newspaper noted.",
-      "title_raw": "Berliner Zeitung: ЕС не может использовать вертолеты Ка-32 для тушения пожаров",
-      "lead_raw": "Евросоюз введением санкций портив России препятствует спасательным операциям во Франции и Испании, отметила газета",
+      "title_en": "Berliner Zeitung: Due to sanctions, the EU cannot extinguish fires with Russian Ka-32s",
+      "lead_en": "Helicopters “capable of picking up water very quickly” and “delivering it to hard-to-reach areas” were taken out of service, the newspaper noted",
+      "title_raw": "Berliner Zeitung: в ЕС из-за санкций не могут тушить пожары с российских Ка-32",
+      "lead_raw": "Вертолеты, \"способные очень быстро набирать воду\" и \"доставлять ее в труднодоступные районы\", вывели из эксплуатации, отметила газета",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
         "energy": 1,
         "economy": 1,
-        "local_events": 2
+        "local_events": 1
       },
       "topics": [
-        "energy",
-        "local_events"
+        "energy"
       ],
-      "primary_topic": "local_events"
+      "primary_topic": "energy"
     },
     {
       "id": "ad3fa9bb226e0ac1dad7cad3b2ff0c830a64a8ea",
@@ -1423,25 +1462,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "36f45c7ca7db2772d0a1c27b2963edfaeaca78a0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27954441",
-      "published_utc": "2026-07-26T15:30:47Z",
-      "title_en": "Putin: Ukrainian leadership fought like “spiders in a jar”",
-      "lead_en": "Representatives of the Ukrainian regime divide the money they stole from the people, or steal from their Western sponsors, the Russian President said",
-      "title_raw": "Путин: руководство Украины передралось, как \"пауки в банке\"",
-      "lead_raw": "Представители украинского режима делят деньги, которые украли у народа, либо крадут у своих западных спонсоров, заявил президент России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
     }
   ]
 }
