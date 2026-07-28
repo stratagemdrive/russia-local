@@ -1,9 +1,94 @@
 {
-  "updated_at_utc": "2026-07-28T12:53:04Z",
+  "updated_at_utc": "2026-07-28T15:20:11Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 20,
+  "count": 22,
   "articles": [
+    {
+      "id": "6ef606d2458cfa2483eea449ecf57188bb482980",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27961781",
+      "published_utc": "2026-07-28T15:16:47Z",
+      "title_en": "Berliner Zeitung: The EU cannot use Ka-32 helicopters to fight fires",
+      "lead_en": "The European Union, by imposing sanctions on Russia, is preventing rescue operations in France and Spain, the newspaper noted.",
+      "title_raw": "Berliner Zeitung: ЕС не может использовать вертолеты Ка-32 для тушения пожаров",
+      "lead_raw": "Евросоюз введением санкций портив России препятствует спасательным операциям во Франции и Испании, отметила газета",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "3ca098a239b3e3364df5dfba60559af172d7deec",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27961723",
+      "published_utc": "2026-07-28T14:56:21Z",
+      "title_en": "The Commander-in-Chief of the Navy noted the contribution of nuclear submarines to ensuring the security of Russia",
+      "lead_en": "At the OSK Sevmash enterprise a solemn ceremony was held for the launch of the Yasen-M multi-purpose nuclear submarine Ulyanovsk from the boathouse.",
+      "title_raw": "Главком ВМФ отметил вклад атомных подлодок в обеспечение безопасности России",
+      "lead_raw": "На предприятии ОСК \"Севмаш\" состоялась торжественная церемония вывода из эллинга многоцелевого атомного подводного крейсера проекта \"Ясень-М\" \"Ульяновск\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "37e92af49a982887dd0d0354b9229ff39f6207a3",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/07/28/russian-gas-stations-begin-easing-purchase-limits-as-officials-say-fuel-market-shows-signs-of-stabilization-a93361",
+      "published_utc": "2026-07-28T14:32:00Z",
+      "title_en": "Russian Gas Stations Begin Easing Purchase Limits as Officials Say Fuel Market Shows Signs of ‘Stabilization’",
+      "lead_en": "Pumping stations owned by Gazprom and Lukoil have removed all gasoline purchase limits in some parts of the country, though shortages persist in many regions.",
+      "title_raw": "Russian Gas Stations Begin Easing Purchase Limits as Officials Say Fuel Market Shows Signs of ‘Stabilization’",
+      "lead_raw": "Pumping stations owned by Gazprom and Lukoil have removed all gasoline purchase limits in some parts of the country, though shortages persist in many regions.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 4,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "0702f0f2f08c23f299fac2e4853215d9ee1f216d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27961531",
+      "published_utc": "2026-07-28T13:42:03Z",
+      "title_en": "Dodon called on Moldova to buy gas from Russia directly",
+      "lead_en": "The government forces residents of the republic to overpay in the political interests of the ruling party, the former president of the country said",
+      "title_raw": "Додон призвал Молдавию закупать газ у России напрямую",
+      "lead_raw": "Правительство заставляет жителей республики переплачивать в политических интересах правящей партии, заявил бывший президент страны",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "8a2302b11e39479bb613f4c6a5458977fe200992",
       "source": "TASS (RU)",
@@ -384,49 +469,6 @@
         "military": 0,
         "energy": 1,
         "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "56a9e45735b55100c2328a78e35d82fade9d12e4",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27954377",
-      "published_utc": "2026-07-26T15:19:21Z",
-      "title_en": "Gazprom updated the historical maximum of daily gas supplies to China",
-      "lead_en": "Supplies of Russian gas are carried out within the framework of a long-term gas purchase and sale agreement between Gazprom and CNPC, the company recalled",
-      "title_raw": "\"Газпром\" обновил исторический максимум суточных поставок газа в Китай",
-      "lead_raw": "Поставки российского газа идут в рамках долгосрочного договора купли-продажи газа между \"Газпромом\" и CNPC, напомнили в компании",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "cb44a178999b5fdcb4eaee63f99dbad5104f0c21",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27954129",
-      "published_utc": "2026-07-26T14:10:13Z",
-      "title_en": "TASS: on the border of the Kharkov and Poltava regions, all gas stations were destroyed",
-      "lead_en": "Russian security forces noted that the fuel crisis significantly complicates logistics for the enemy.",
-      "title_raw": "ТАСС: на границе Харьковской и Полтавской областей уничтожены все АЗС",
-      "lead_raw": "В российских силовых структурах отметили, что топливный кризис существенно осложняет врагу логистику",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
         "local_events": 0
       },
       "topics": [

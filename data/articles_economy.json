@@ -1,9 +1,168 @@
 {
-  "updated_at_utc": "2026-07-28T12:53:04Z",
+  "updated_at_utc": "2026-07-28T15:20:11Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 65,
+  "count": 72,
   "articles": [
+    {
+      "id": "6d8e570b9a87480025faa3ac2e2fc256c7fc8ca0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27961791",
+      "published_utc": "2026-07-28T15:17:44Z",
+      "title_en": "Bloomberg: US senators agreed on a bill on new anti-Russian sanctions",
+      "lead_en": "According to the agency, there is a possibility that it will pass a vote in the Senate this week.",
+      "title_raw": "Bloomberg: сенаторы США согласовали законопроект о новых антироссийских санкциях",
+      "lead_raw": "По данным агентства, есть вероятность, что он пройдет голосование в Сенате на этой неделе",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "6ef606d2458cfa2483eea449ecf57188bb482980",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27961781",
+      "published_utc": "2026-07-28T15:16:47Z",
+      "title_en": "Berliner Zeitung: The EU cannot use Ka-32 helicopters to fight fires",
+      "lead_en": "The European Union, by imposing sanctions on Russia, is preventing rescue operations in France and Spain, the newspaper noted.",
+      "title_raw": "Berliner Zeitung: ЕС не может использовать вертолеты Ка-32 для тушения пожаров",
+      "lead_raw": "Евросоюз введением санкций портив России препятствует спасательным операциям во Франции и Испании, отметила газета",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "ad3fa9bb226e0ac1dad7cad3b2ff0c830a64a8ea",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2166499",
+      "published_utc": "2026-07-28T15:08:06Z",
+      "title_en": "EU aims to adopt 22nd sanctions package in October, backlisting 1,600 firms — Bloomberg",
+      "lead_en": "If approved, the decision would expand the existing anti-Russian blacklist by 50% in one go",
+      "title_raw": "EU aims to adopt 22nd sanctions package in October, backlisting 1,600 firms — Bloomberg",
+      "lead_raw": "If approved, the decision would expand the existing anti-Russian blacklist by 50% in one go",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "f078174eac193af840621d43a23ed03e94d4ffcc",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27961645",
+      "published_utc": "2026-07-28T14:35:49Z",
+      "title_en": "In the Russian Federation, they are discussing further adjustment of the extended producer responsibility model",
+      "lead_en": "Recycling and recycling should be considered not only as an environmental, but also as an industrial agenda, said Deputy Head of the Ministry of Industry and Trade Alexey Matushansky",
+      "title_raw": "В РФ обсуждают донастройку модели расширенной ответственности производителей",
+      "lead_raw": "Утилизация и переработка должны рассматриваться не только как экологическая, но и как промышленная повестка, заявил замглавы Минпромторга Алексей Матушанский",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "37e92af49a982887dd0d0354b9229ff39f6207a3",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/07/28/russian-gas-stations-begin-easing-purchase-limits-as-officials-say-fuel-market-shows-signs-of-stabilization-a93361",
+      "published_utc": "2026-07-28T14:32:00Z",
+      "title_en": "Russian Gas Stations Begin Easing Purchase Limits as Officials Say Fuel Market Shows Signs of ‘Stabilization’",
+      "lead_en": "Pumping stations owned by Gazprom and Lukoil have removed all gasoline purchase limits in some parts of the country, though shortages persist in many regions.",
+      "title_raw": "Russian Gas Stations Begin Easing Purchase Limits as Officials Say Fuel Market Shows Signs of ‘Stabilization’",
+      "lead_raw": "Pumping stations owned by Gazprom and Lukoil have removed all gasoline purchase limits in some parts of the country, though shortages persist in many regions.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 4,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "258339d9b70bfa4d8aeede4bba48291f70d0ac38",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27961631",
+      "published_utc": "2026-07-28T14:26:52Z",
+      "title_en": "Bloomberg: The EC intends to adopt the 22nd package of sanctions against Russia in October",
+      "lead_en": "The European Commission wants to include 1.6 thousand companies in the list of restrictions to compensate for its extremely weakened 21st package",
+      "title_raw": "Bloomberg: ЕК намерена принять 22-й пакет санкций против России в октябре",
+      "lead_raw": "Еврокомиссия хочет включить в перечень ограничений 1,6 тыс. компаний, чтобы компенсировать свой крайне ослабленный 21-й пакет",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "5d299cb402f646790f0400fd9b1bba0a0f8fd303",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27961487",
+      "published_utc": "2026-07-28T13:31:12Z",
+      "title_en": "The Ministry of Labor assessed the need of the Russian economy for cooks",
+      "lead_en": "By 2032, the need for people in this profession will grow to 860 thousand, emphasized Deputy Minister of Labor and Social Protection of the Russian Federation Dmitry Platygin",
+      "title_raw": "Минтруд оценил потребность экономики России в поварах",
+      "lead_raw": "К 2032 году необходимость в людях этой профессии вырастет до 860 тыс., подчеркнул заместитель министра труда и социальной защиты РФ Дмитрий Платыгин",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "1d6ccbb4a0248458ada6edf31cae774a243c43ec",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2166445",
+      "published_utc": "2026-07-28T13:14:58Z",
+      "title_en": "Experts forecast real estate price growth of up to 15% in southern Russia",
+      "lead_en": "In Olga Nart's view, the primary driver of the industry’s development will be the continued reduction of the key interest rate and the availability of standard mortgage programs",
+      "title_raw": "Experts forecast real estate price growth of up to 15% in southern Russia",
+      "lead_raw": "In Olga Nart's view, the primary driver of the industry’s development will be the continued reduction of the key interest rate and the availability of standard mortgage programs",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "e071d73339bf07e9c40a3d91528d4700bd4216fc",
       "source": "TASS (RU)",
@@ -72,6 +231,25 @@
       "lead_en": "The field of robotic car washes is also developing dynamically.",
       "title_raw": "Рынок оборудования для моек самообслуживания в РФ вырос за четыре года на 49%",
       "lead_raw": "Также динамично развивается сфера роботизированных автомоек",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "feda7b552cde4fd5724815b312608c1fb62f4fa0",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/07/28/russian-firm-wins-194m-lawsuit-against-euroclear-in-moscow-a93360",
+      "published_utc": "2026-07-28T12:02:00Z",
+      "title_en": "Russian Firm Wins $194M Lawsuit Against Euroclear in Moscow",
+      "lead_en": "The Moscow Arbitration Court’s ruling in favor of the specialized finance company, Silicium-2, marks the latest verdict targeting Euroclear over assets frozen by Western sanctions.",
+      "title_raw": "Russian Firm Wins $194M Lawsuit Against Euroclear in Moscow",
+      "lead_raw": "The Moscow Arbitration Court’s ruling in favor of the specialized finance company, Silicium-2, marks the latest verdict targeting Euroclear over assets frozen by Western sanctions.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
@@ -206,7 +384,7 @@
       "url": "https://tass.ru/ekonomika/27960003",
       "published_utc": "2026-07-28T07:29:28Z",
       "title_en": "VTB plans to be one of the first to obtain licenses for operations with crypto instruments",
-      "lead_en": "Several largest Russian banks have already begun preparations for the formation of infrastructure for cryptocurrency trading, said First Deputy President - Chairman of the Board of the credit organization Dmitry Pyanov",
+      "lead_en": "Several of the largest Russian banks have already begun preparations for the formation of infrastructure for cryptocurrency trading, said First Deputy President - Chairman of the Board of the credit organization Dmitry Pyanov",
       "title_raw": "ВТБ планирует одним из первых получить лицензии на операции с криптоинструментами",
       "lead_raw": "Несколько крупнейших российских банков уже начали подготовку к формированию инфраструктуры для торговли криптовалютой, сообщил первый заместитель президента - председателя правления кредитной организации Дмитрий Пьянов",
       "topic_scores": {
@@ -1252,47 +1430,9 @@
       "url": "https://tass.ru/politika/27954441",
       "published_utc": "2026-07-26T15:30:47Z",
       "title_en": "Putin: Ukrainian leadership fought like “spiders in a jar”",
-      "lead_en": "Representatives of the Ukrainian regime divide the money they stole from the people or steal from their Western sponsors, the Russian President said",
+      "lead_en": "Representatives of the Ukrainian regime divide the money they stole from the people, or steal from their Western sponsors, the Russian President said",
       "title_raw": "Путин: руководство Украины передралось, как \"пауки в банке\"",
       "lead_raw": "Представители украинского режима делят деньги, которые украли у народа, либо крадут у своих западных спонсоров, заявил президент России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "eac2a93f3cca62926a2687481281842de7876d8b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27954367",
-      "published_utc": "2026-07-26T15:17:47Z",
-      "title_en": "Putin gave advice on how to always be in shape",
-      "lead_en": "The President of Russia advised not to waste energy in vain, to save it in order to always remain in service",
-      "title_raw": "Путин дал совет, как всегда быть в форме",
-      "lead_raw": "Президент России посоветовал не расходовать силы зря, экономить их, чтобы всегда оставаться в строю",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "bd00d4191f93ca7bbb0744432ad32b1330cdf2ea",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27953991",
-      "published_utc": "2026-07-26T13:00:27Z",
-      "title_en": "Russia has introduced penalties for violations when issuing SIM cards to foreigners",
-      "lead_en": "It may be a fine in the amount of 300 to 500 thousand rubles or in the amount of the salary or other income of the convicted person for a period of six months to a year",
-      "title_raw": "В России ввели наказание за нарушения при выдаче sim-карт иностранцам",
-      "lead_raw": "Им может стать штраф в размере от 300 до 500 тыс. рублей или в размере зарплаты или иного дохода осужденного за период от шести месяцев до года",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
