@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-07-28T10:34:10Z",
+  "updated_at_utc": "2026-07-28T12:53:04Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 20,
   "articles": [
+    {
+      "id": "8a2302b11e39479bb613f4c6a5458977fe200992",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27961321",
+      "published_utc": "2026-07-28T12:48:50Z",
+      "title_en": "Two people were injured in a gas explosion in a car in Dagestan",
+      "lead_en": "The car caught fire, the Russian Emergency Situations Ministry for the Republic reported.",
+      "title_raw": "В Дагестане при взрыве газа в автомобиле пострадали два человека",
+      "lead_raw": "Машина загорелась, сообщили в управлении МЧС России по республике",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "406a594838230b55218ee19b3abd9e6cd429d721",
       "source": "TASS (EN)",
@@ -411,28 +433,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "9223b6255911cad47cd7420f0070f59f5e7ba6ea",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27953837",
-      "published_utc": "2026-07-26T11:44:15Z",
-      "title_en": "Patrushev called the modernization of Russia's nuclear submarine fleet the most important task",
-      "lead_en": "Russian President Vladimir Putin has set ambitious goals for further improvement of the Navy, strengthening the scientific, technological and personnel potential of this area, his assistant noted",
-      "title_raw": "Патрушев назвал важнейшей задачей модернизацию атомного подводного флота России",
-      "lead_raw": "Президент РФ Владимир Путин поставил масштабные задачи по дальнейшему совершенствованию Военно-морского флота, укреплению научного, технологического и кадрового потенциала этой сферы, отметил его помощник",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
