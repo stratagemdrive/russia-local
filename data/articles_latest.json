@@ -1,8 +1,729 @@
 {
-  "updated_at_utc": "2026-07-28T07:37:37Z",
+  "updated_at_utc": "2026-07-28T10:34:10Z",
   "keep_hours": 48,
-  "count": 576,
+  "count": 586,
   "articles": [
+    {
+      "id": "5be29387d38fb119da7a9be390288d9b8235e341",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27960773",
+      "published_utc": "2026-07-28T10:24:18Z",
+      "title_en": "The North Caucasian Federal District noted a shortage of personnel for resort infrastructure",
+      "lead_en": "In agriculture, the demand for specialists in the agricultural sector in robotics and unmanned systems for processing slopes and monitoring landslide zones is growing, noted Sergei Nikitin, assistant to the plenipotentiary representative of the President of the Russian Federation",
+      "title_raw": "В СКФО отметили нехватку кадров для курортной инфраструктуры",
+      "lead_raw": "В сельском хозяйстве растет спрос на специалистов в агросекторе по робототехнике и беспилотным системам для обработки склонов и мониторинга оползневых зон, отметил помощник полномочного представителя президента РФ в СКФО Сергей Никитин",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ec5ea17184cbd7e161f54db409aa9cffc3f46f4c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27960747",
+      "published_utc": "2026-07-28T10:24:02Z",
+      "title_en": "The EAEU’s refusal to finance Armenia’s European integration and EU demands. SVR statements",
+      "lead_en": "According to the Russian Foreign Intelligence Service, Brussels understands that it will not be able to compensate Yerevan for the billions of dollars in costs from leaving the Eurasian Economic Union",
+      "title_raw": "Отказ ЕАЭС финансировать евроинтеграцию Армении и требования ЕС. Заявления СВР",
+      "lead_raw": "По информации Службы внешней разведки РФ, Брюссель понимает, что не сможет компенсировать Еревану миллиардные издержки от выхода из Евразийского экономического союза",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "d188bc843848aef3d884ce80c857d8963091ee72",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27960761",
+      "published_utc": "2026-07-28T10:21:34Z",
+      "title_en": "Russian Railways denied information about new rules for passenger transportation",
+      "lead_en": "Some media reported the introduction of rules regarding baggage transportation and ticket checks from August 1",
+      "title_raw": "РЖД опровергли информацию о новых правилах перевозок пассажиров",
+      "lead_raw": "Некоторые СМИ сообщили о введении с 1 августа правил в части перевозок багажа и проверок билетов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "e8f448200b3fd84de544456a86ebd4c4176e3359",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27960757",
+      "published_utc": "2026-07-28T10:19:59Z",
+      "title_en": "Tour operators did not receive requests from Russians due to the earthquake in Japan",
+      "lead_en": "",
+      "title_raw": "Туроператоры не получали обращений от россиян из-за землетрясения в Японии",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "2b7c2fca62d8664cf6b18e1cc9420d579a9e6688",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27960745",
+      "published_utc": "2026-07-28T10:19:06Z",
+      "title_en": "Borisenko and the Secretary of the Ministry of Foreign Affairs of Botswana discussed the opening of the country's embassy in the Russian Federation",
+      "lead_en": "The parties also emphasized the mutual intention of Moscow and Gaborone to further enhance bilateral cooperation, the Russian diplomatic service reported",
+      "title_raw": "Борисенко и секретарь МИД Ботсваны обсудили открытие посольства страны в РФ",
+      "lead_raw": "Стороны также подчеркнули взаимный настрой Москвы и Габороне на дальнейшее наращивание двустороннего взаимодействия, сообщили в дипведомстве России",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "9d859da29eb8ddc20fb97b6bf33a2a13d0485173",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27960717",
+      "published_utc": "2026-07-28T10:17:05Z",
+      "title_en": "Terrorism in Kyiv, the situation with Wildberries and contacts with the United States. Topics of Peskov's briefing",
+      "lead_en": "The United States did not refuse to participate in the Ukrainian settlement, the press secretary of the Russian President noted",
+      "title_raw": "Терроризм Киева, ситуация с Wildberries и контакты с США. Темы брифинга Пескова",
+      "lead_raw": "Соединенные Штаты не отказывались от участия в украинском урегулировании, отметил пресс-секретарь президента России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "e37a2174d4691373963dfc9914f4639d929b7434",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27960679",
+      "published_utc": "2026-07-28T10:12:59Z",
+      "title_en": "20 Minutos: Spain's firefighting capabilities have been reduced without Russian helicopters",
+      "lead_en": "The Kingdom previously used Kamov vehicles capable of dropping from 4 thousand to 5 thousand.",
+      "title_raw": "20 Minutos: возможности пожаротушения Испании сократились без вертолетов РФ",
+      "lead_raw": "Королевство раньше использовало машины \"Камова\", способные сбрасывать от 4 тыс. до 5 тыс.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "853031ad39243cf32b99812e9775e1faa48f0766",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27960675",
+      "published_utc": "2026-07-28T10:00:55Z",
+      "title_en": "Russian 2024 marathon champion Reunkov was hit by a car",
+      "lead_en": "The athlete said that he will have to refuse to compete in the marathon at the Spartakiad",
+      "title_raw": "Чемпиона России 2024 года в марафонском беге Реункова сбила машина",
+      "lead_raw": "Спортсмен сообщил, что ему придется отказаться от выступления на марафонской дистанции на Спартакиаде",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "fedf147770f6294bfa71111b8c96a9ee43ab5515",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/pressreview/2166239",
+      "published_utc": "2026-07-28T10:00:01Z",
+      "title_en": "Press review: Logic behind Kiev attacks outside Russia and EU fights for sanctions life",
+      "lead_en": "Top stories from the Russian press on Tuesday, July 28th",
+      "title_raw": "Press review: Logic behind Kiev attacks outside Russia and EU fights for sanctions life",
+      "lead_raw": "Top stories from the Russian press on Tuesday, July 28th",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "53a1390ae779cdefdf3986ce2cdbbde387f23597",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27960633",
+      "published_utc": "2026-07-28T09:55:36Z",
+      "title_en": "Peskov announced the continuation of contacts between the Russian Federation and the United States on Ukraine",
+      "lead_en": "They are taking place in working order, noted the press secretary of the Russian President",
+      "title_raw": "Песков заявил о продолжении контактов РФ и США по Украине",
+      "lead_raw": "Они проходят в рабочем порядке, отметил пресс-секретарь президента России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "f648eb48428297b0131f179381ad64bea3f9f52a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2166325",
+      "published_utc": "2026-07-28T09:54:48Z",
+      "title_en": "Russia plans to increase tourist arrivals from China to 5.5 mln by 2030 — Rudenko",
+      "lead_en": "The Russian deputy foreign minister noted that one of the key drivers bolstering the positive momentum of the bilateral interaction is the traditional friendship between the peoples of Russia and China",
+      "title_raw": "Russia plans to increase tourist arrivals from China to 5.5 mln by 2030 — Rudenko",
+      "lead_raw": "The Russian deputy foreign minister noted that one of the key drivers bolstering the positive momentum of the bilateral interaction is the traditional friendship between the peoples of Russia and China",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "7dec245cbbf434584e2e4bab67cc26c6ef18a7a8",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2166323",
+      "published_utc": "2026-07-28T09:49:49Z",
+      "title_en": "Western calls to establish Asian NATO should worry region — senior diplomat",
+      "lead_en": "Andrey Rudenko said that Russia always advocated for a unifying agenda in interstate relations within the Asia-Pacific",
+      "title_raw": "Western calls to establish Asian NATO should worry region — senior diplomat",
+      "lead_raw": "Andrey Rudenko said that Russia always advocated for a unifying agenda in interstate relations within the Asia-Pacific",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "b1362de67ad66d2731966384f56253dcf855757e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/nedvizhimost/27960561",
+      "published_utc": "2026-07-28T09:48:01Z",
+      "title_en": "Expert Chernyadyev named the share of foreigners owning land in the Russian Federation",
+      "lead_en": "According to the director of the land projects department of NF Group, this figure has decreased threefold over the past six years",
+      "title_raw": "Эксперт Чернядьев назвал долю владеющих землей в РФ иностранцев",
+      "lead_raw": "По словам директора департамента земельных проектов NF Group, этот показатель сократился втрое за последние шесть лет",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "a897cc510b9492805dcf1fc36bcb03ccc1af693f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27960589",
+      "published_utc": "2026-07-28T09:47:11Z",
+      "title_en": "Peskov praised Wildberries' help to sellers after Ukrainian Armed Forces' attacks on warehouses",
+      "lead_en": "Answering the question about whether the company will receive support from the state, the press secretary of the President of the Russian Federation said that in general this situation is under the control of the government",
+      "title_raw": "Песков высоко оценил помощь Wildberries продавцам после атак ВСУ на склады",
+      "lead_raw": "Отвечая на вопрос о том, будет ли оказана компании поддержка со стороны государства, пресс-секретарь президента РФ заявил, что в целом эта ситуация на контроле у правительства",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "68636e76b8c5caa9266fa8ea3d533fbb5766e506",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27960585",
+      "published_utc": "2026-07-28T09:46:39Z",
+      "title_en": "Peskov noted the need to destroy the threat from the Kyiv regime",
+      "lead_en": "The geography of terrorist activity in Ukraine is expanding, said the press secretary of the Russian President",
+      "title_raw": "Песков отметил необходимость уничтожения угрозы со стороны киевского режима",
+      "lead_raw": "География террористической активности Украины расширяется, заявил пресс-секретарь президента России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "123d33664c084bb70ea0a4d2ea1734164f2811e4",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27960583",
+      "published_utc": "2026-07-28T09:46:33Z",
+      "title_en": "Peskov: The US did not abandon the Ukrainian track",
+      "lead_en": "Washington's attention has shifted to higher priority issues, the Russian leader's press secretary said",
+      "title_raw": "Песков: США не оставляли украинский трек",
+      "lead_raw": "Внимание Вашингтона сместилось на более приоритетные проблемы, заявил пресс-секретарь российского лидера",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "4e5e8af5a4431393c58411f25e4adebfa86cd2f6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27960579",
+      "published_utc": "2026-07-28T09:46:09Z",
+      "title_en": "Peskov: Kyiv terrorist attacks around the world increase the demand for the success of the Northern Military District",
+      "lead_en": "The Kiev regime is constantly expanding the geography of its terrorist activity, noted the press secretary of the Russian President",
+      "title_raw": "Песков: теракты Киева по всему миру повышают востребованность успеха СВО",
+      "lead_raw": "Киевский режим постоянно расширяет географию своей террористической активности, отметил пресс-секретарь президента России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ad0300af1c115feb73caee55bd006616e6ff89bb",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27960577",
+      "published_utc": "2026-07-28T09:46:02Z",
+      "title_en": "Peskov: Pashinyan did not tell Putin the timing of the referendum on Armenia’s accession to the EU",
+      "lead_en": "The conversation emphasized the need to hold such a referendum as soon as possible, said the Russian leader’s press secretary",
+      "title_raw": "Песков: Пашинян не называл Путину сроков референдума о вступлении Армении в ЕС",
+      "lead_raw": "В разговоре была подчеркнута необходимость скорейшего проведения такого референдума, заявил пресс-секретарь российского лидера",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "a791a0ecaf8dbfc2adff2e75bc8b2f89c1397e20",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27960573",
+      "published_utc": "2026-07-28T09:46:00Z",
+      "title_en": "Peskov called the conversation between Putin and Aliyev very warm and meaningful",
+      "lead_en": "This is how the press secretary of the Russian leader described the conversation between the presidents of the Russian Federation and Azerbaijan",
+      "title_raw": "Песков назвал разговор Путина и Алиева очень теплым и содержательным",
+      "lead_raw": "Так пресс-секретарь российского лидера охарактеризовал беседу президентов РФ и Азербайджана",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "173bd04fbe509f961ff123b1ef0f23b56f4d68a5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27960555",
+      "published_utc": "2026-07-28T09:43:33Z",
+      "title_en": "The Russian Foreign Intelligence Service commented on Armenia’s desire to join the European Union",
+      "lead_en": "The department emphasized that the EU should not expect that the EAEU countries will not allow the “Yerevan political crew” to drown.",
+      "title_raw": "В СВР России прокомментировали стремление Армении в Евросоюз",
+      "lead_raw": "В ведомстве подчеркнули, что ЕС не стоит ждать, что страны ЕАЭС не дадут утонуть \"ереванскому политическому экипажу\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "b51cf22d53c8c15791a6fb3adab0ef2659a96f0d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27960551",
+      "published_utc": "2026-07-28T09:41:28Z",
+      "title_en": "Foreign Intelligence Service of the Russian Federation: The EU encourages Armenia’s anti-Russian steps through manipulation",
+      "lead_en": "The department added that Brussels is already demanding that Yerevan sever humanitarian ties with Moscow and reduce the presence of Russian business",
+      "title_raw": "СВР РФ: ЕС поощряет антироссийские шаги Армении за счет манипуляций",
+      "lead_raw": "В ведомстве добавили, что Брюссель уже сейчас требует от Еревана разорвать гуманитарные связи с Москвой и сократить присутствие российского бизнеса",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "70f2e5a0b07baff4058d4741600247cf5a041d6b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27960521",
+      "published_utc": "2026-07-28T09:39:50Z",
+      "title_en": "In the Russian Federation, production of 10 vital medicines was launched in 2026",
+      "lead_en": "The drugs are used to treat cancer, epilepsy, multiple sclerosis, rheumatoid arthritis and other diseases",
+      "title_raw": "В РФ в 2026 году запустили производство 10 жизненно необходимых лекарств",
+      "lead_raw": "Препараты применяются для лечения онкологических заболеваний, эпилепсии, рассеянного склероза, ревматоидного артрита и других болезней",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ff0de7da0141e5bff90d3234ae5f6469698115b2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27960495",
+      "published_utc": "2026-07-28T09:35:44Z",
+      "title_en": "Russia expects a reduction in farmers' losses from natural disasters",
+      "lead_en": "They will be significantly less than in 2025",
+      "title_raw": "В России ожидают снижение убытков аграриев от природных бедствий",
+      "lead_raw": "Они будут значительно меньше, чем в 2025 году",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "cec60ace8282d7d0c80c653db27464b57e58194a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/society/2166307",
+      "published_utc": "2026-07-28T09:34:49Z",
+      "title_en": "Russia to release its first AI historical film in 2026",
+      "lead_en": "The creators are currently obtaining a distribution license and holding talks with several streaming platforms to organize the premiere",
+      "title_raw": "Russia to release its first AI historical film in 2026",
+      "lead_raw": "The creators are currently obtaining a distribution license and holding talks with several streaming platforms to organize the premiere",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "406a594838230b55218ee19b3abd9e6cd429d721",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2166305",
+      "published_utc": "2026-07-28T09:32:54Z",
+      "title_en": "NATO fuel networks near Russian borders vulnerable to precision strikes, expert says",
+      "lead_en": "According to Rozhin, the foundation of the system is the Central Europe Pipeline System network which spans approximately 5,300 kilometers, with pipeline diameters ranging from 6 to 12 inches",
+      "title_raw": "NATO fuel networks near Russian borders vulnerable to precision strikes, expert says",
+      "lead_raw": "According to Rozhin, the foundation of the system is the Central Europe Pipeline System network which spans approximately 5,300 kilometers, with pipeline diameters ranging from 6 to 12 inches",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "e4ed10673d369054daadff21170a9f554981f296",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27960473",
+      "published_utc": "2026-07-28T09:25:49Z",
+      "title_en": "The Polish Foreign Ministry announced the absence of territorial claims against Ukraine",
+      "lead_en": "The department commented on the words of the Russian President that Ukraine will sooner or later lose its Western lands",
+      "title_raw": "МИД Польши заявил об отсутствии территориальных претензий к Украине",
+      "lead_raw": "Ведомство прокомментировало слова президента России о том, что Украина рано или поздно утратит свои западные земли",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "f3fe6171329f1ccd258e0ad1199bb6783759adc6",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2166299",
+      "published_utc": "2026-07-28T09:24:33Z",
+      "title_en": "Asia-Pacific militarization by West threatens regional security — MFA",
+      "lead_en": "According to Russian Deputy Foreign Minister Andrey Rudenko, this militaristic approach \"directly contradicts the traditional model of pragmatic, constructive engagement\"",
+      "title_raw": "Asia-Pacific militarization by West threatens regional security — MFA",
+      "lead_raw": "According to Russian Deputy Foreign Minister Andrey Rudenko, this militaristic approach \"directly contradicts the traditional model of pragmatic, constructive engagement\"",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "b388b3dd5708829a42ecde96a9bbe13254439487",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27960467",
+      "published_utc": "2026-07-28T09:22:38Z",
+      "title_en": "Velikaya believes that saber fencer Yegoryan has an excellent chance of winning the World Cup as a team",
+      "lead_en": "Previously, the Russian woman was unable to defend her world champion title in an individual tournament",
+      "title_raw": "Великая считает, что у саблистки Егорян отличные шансы выиграть ЧМ в команде",
+      "lead_raw": "Ранее россиянка не смогла защитить титул чемпионки мира в личном турнире",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "d87f685831162cb1ac618037a0d9911ae8a79275",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27960439",
+      "published_utc": "2026-07-28T09:17:11Z",
+      "title_en": "A leg injury prevented Akimenko from jumping high at the Russian Championships",
+      "lead_en": "With a result of 2.10 m, the athlete took 11th place",
+      "title_raw": "Травма ноги не позволила Акименко прыгнуть высоко на чемпионате России",
+      "lead_raw": "С результатом 2,10 м спортсмен заняли 11-е место",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ef5a573ac1ed56fca493424632f0e449cf4103c6",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2166289",
+      "published_utc": "2026-07-28T09:16:44Z",
+      "title_en": "Russia to restore ties with Japan if Tokyo abandons its unfriendly political course — MFA",
+      "lead_en": "Russian Deputy Foreign Minister Andrey Rudenko emphasized that \"despite the almost complete 'freeze' in political dialogue with Japan, investors from this country are maintaining their presence in energy projects in the Far East\"",
+      "title_raw": "Russia to restore ties with Japan if Tokyo abandons its unfriendly political course — MFA",
+      "lead_raw": "Russian Deputy Foreign Minister Andrey Rudenko emphasized that \"despite the almost complete 'freeze' in political dialogue with Japan, investors from this country are maintaining their presence in energy projects in the Far East\"",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "2c0be3895e89a135f81c6afd23f365abc1a20b90",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2166287",
+      "published_utc": "2026-07-28T08:58:14Z",
+      "title_en": "India explores purchases of LNG from Russia's Arctic region — Rudenko",
+      "lead_en": "The Russian deputy foreign minister added that cooperation in the logistics sector also holds strong potential",
+      "title_raw": "India explores purchases of LNG from Russia's Arctic region — Rudenko",
+      "lead_raw": "The Russian deputy foreign minister added that cooperation in the logistics sector also holds strong potential",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "9371ee2010348a2768785bb58ebf5521e8dc4ee9",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2166283",
+      "published_utc": "2026-07-28T08:46:36Z",
+      "title_en": "What we know about Ukrainian drone attack on bus in Russia’s Belgorod Region",
+      "lead_en": "The acting governor reported that 15 people sustained shrapnel wounds, with three more suffering blast-induced injuries",
+      "title_raw": "What we know about Ukrainian drone attack on bus in Russia’s Belgorod Region",
+      "lead_raw": "The acting governor reported that 15 people sustained shrapnel wounds, with three more suffering blast-induced injuries",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "af4901665fa4571299d4280bc018810b618262ab",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/07/28/ukrainian-drone-hits-bus-in-russia-s-belgorod-region-injuring-19",
+      "published_utc": "2026-07-28T08:44:04Z",
+      "title_en": "Ukrainian drone hits bus in Russia’s Belgorod region, injuring 19",
+      "lead_en": "A Ukrainian drone struck a civilian bus on a scheduled route in Shebekino, acting Belgorod Governor Alexander Shuvaev said.",
+      "title_raw": "Ukrainian drone hits bus in Russia’s Belgorod region, injuring 19",
+      "lead_raw": "A Ukrainian drone struck a civilian bus on a scheduled route in Shebekino, acting Belgorod Governor Alexander Shuvaev said.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c31377f30a9a1bb596c9bc244748cef89a9aab7d",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2166267",
+      "published_utc": "2026-07-28T08:13:22Z",
+      "title_en": "Russian stock market opens lower, yuan gains ground",
+      "lead_en": "The benchmark MOEX Index and the dollar-denominated RTS Index both shed 0.29%, dropping to 2,210.6 and 892.61 points, respectively",
+      "title_raw": "Russian stock market opens lower, yuan gains ground",
+      "lead_raw": "The benchmark MOEX Index and the dollar-denominated RTS Index both shed 0.29%, dropping to 2,210.6 and 892.61 points, respectively",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "15dc01878c154f9a1829bc1746add329693ac524",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2166263",
+      "published_utc": "2026-07-28T08:04:45Z",
+      "title_en": "FACTBOX: Aftermath of Ukrainian drone attacks on Russia, one injured in Ryazan Region",
+      "lead_en": "In the Moscow Region, a drone struck an apartment building in the town of Chekhov",
+      "title_raw": "FACTBOX: Aftermath of Ukrainian drone attacks on Russia, one injured in Ryazan Region",
+      "lead_raw": "In the Moscow Region, a drone struck an apartment building in the town of Chekhov",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "e41cbbe87d388ce8d83aab9e818aa222e6b2dc71",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/07/28/foreigners-made-nearly-3-million-tourist-trips-to-russia-in-first-half-of-2026-that-s-the-worst-showing-in-five-years",
+      "published_utc": "2026-07-28T07:59:37Z",
+      "title_en": "Foreigners made nearly 3 million tourist trips to Russia in first half of 2026. That’s the worst showing in five years.",
+      "lead_en": "Foreigners made 2.99 million tourist trips to Russia between January and June 2026, the Russian business daily Kommersant reported, citing Rosstat data.",
+      "title_raw": "Foreigners made nearly 3 million tourist trips to Russia in first half of 2026. That’s the worst showing in five years.",
+      "lead_raw": "Foreigners made 2.99 million tourist trips to Russia between January and June 2026, the Russian business daily Kommersant reported, citing Rosstat data.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "d0d60e05e5cc4abbdb3de3a6ba95b1b651874377",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2166259",
+      "published_utc": "2026-07-28T07:57:31Z",
+      "title_en": "Ukrainian forces strike bus in Russia's Belgorod Region, injuring 19 civilians",
+      "lead_en": "Acting Governor Alexander Shuvaev said that six people are in serious condition",
+      "title_raw": "Ukrainian forces strike bus in Russia's Belgorod Region, injuring 19 civilians",
+      "lead_raw": "Acting Governor Alexander Shuvaev said that six people are in serious condition",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
     {
       "id": "51250e1e478bae3ea3d8a92b59f8adf1ebccc54f",
       "source": "TASS (RU)",
@@ -10962,554 +11683,6 @@
       },
       "topics": [],
       "primary_topic": null
-    },
-    {
-      "id": "a1331008c87ea1e96cd22be1266b793d1a9492f8",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27953701",
-      "published_utc": "2026-07-26T10:25:25Z",
-      "title_en": "Pirlo's appointment to Italy sparks controversy due to Russian bookmaker",
-      "lead_en": "A number of Italian deputies spoke out against the specialist’s candidacy because of his contract with a betting company",
-      "title_raw": "Назначение Пирло в сборную Италии вызвало споры из-за российского букмекера",
-      "lead_raw": "Ряд итальянских депутатов высказались против кандидатуры специалиста из-за его контракта с букмекерской компанией",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "a7c244dfcec57e9c589b0eadcd680d8a27768d18",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27953697",
-      "published_utc": "2026-07-26T10:24:33Z",
-      "title_en": "Larisa Dolina was given a new apartment",
-      "lead_en": "People's Artist of Russia noted that her friends bought her a home",
-      "title_raw": "Ларисе Долиной подарили новую квартиру",
-      "lead_raw": "Народная артистка России отметила, что жилье ей купили друзья",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "d6ef1b73d5785380d81c449c94226a4c3d1ac3be",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2165501",
-      "published_utc": "2026-07-26T10:20:37Z",
-      "title_en": "Russian Navy to receive state-of-the-art large ocean-going vessel — Commander-in-Chief",
-      "lead_en": "This requirement is reflected in both strategic plans and the draft of the future shipbuilding program",
-      "title_raw": "Russian Navy to receive state-of-the-art large ocean-going vessel — Commander-in-Chief",
-      "lead_raw": "This requirement is reflected in both strategic plans and the draft of the future shipbuilding program",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "ee31182d0cb83655071308e4547975cbb3dedd72",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/07/26/romania-shoots-down-third-russian-drone-as-president-calls-breaches-intolerable-a93340",
-      "published_utc": "2026-07-26T10:20:23Z",
-      "title_en": "Romania Shoots Down Third Russian Drone, as President Calls Breaches ‘Intolerable'",
-      "lead_en": "Moscow made no immediate public comment on the incidents.",
-      "title_raw": "Romania Shoots Down Third Russian Drone, as President Calls Breaches ‘Intolerable'",
-      "lead_raw": "Moscow made no immediate public comment on the incidents.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "c52589ceb98d1826850e9fe2bdd47adb392af0d8",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27953689",
-      "published_utc": "2026-07-26T10:18:50Z",
-      "title_en": "SKA terminated the contract with hockey player Menell",
-      "lead_en": "The American defender received Russian citizenship in 2023",
-      "title_raw": "СКА расторг контракт с хоккеистом Менеллом",
-      "lead_raw": "Американский защитник в 2023 году получил российское гражданство",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "10f887808dc4708b68fcdc2aa5c53dc660411c17",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27953665",
-      "published_utc": "2026-07-26T10:00:59Z",
-      "title_en": "In the Russian Federation, the growing up of a child does not make his biometric passport invalid",
-      "lead_en": "The head of the press service of the capital's Main Directorate of the Ministry of Internal Affairs of Russia, Vladimir Vasenin, called for careful consideration of this issue",
-      "title_raw": "В РФ взросление ребенка не делает его биометрический загранпаспорт недействительным",
-      "lead_raw": "Начальник пресс-службы столичного ГУ МВД России Владимир Васенин призвал относиться к этому вопросу внимательно",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "c60b96a54eea6b294252be0e1674785c841b5539",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/nauka/27953663",
-      "published_utc": "2026-07-26T10:00:06Z",
-      "title_en": "Astrophysicist Sazonov: a supermassive black hole in the galaxy will not suck in the Earth",
-      "lead_en": "A black hole, contrary to popular belief, manifests itself gravitationally only within small limits and affects only a very small area around itself, noted the head of the laboratory of experimental astrophysics at the Space Research Institute of the Russian Academy of Sciences",
-      "title_raw": "Астрофизик Сазонов: сверхмассивная черная дыра в галактике не засосет Землю",
-      "lead_raw": "Черная дыра, вопреки обывательским представлениям, гравитационно себя проявляет только в небольших пределах, влияет только на очень маленькую область вокруг себя, отметил заведующий лабораторией экспериментальной астрофизики Института космических исследований РАН",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "ad59c30b43f2064e40bf9f3b7af7ee81d34341b5",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27953575",
-      "published_utc": "2026-07-26T09:48:20Z",
-      "title_en": "In Georgia, six Belarusian tourists injured in a road accident remain in hospital",
-      "lead_en": "Three of them are minors, the Belarusian Embassy reported.",
-      "title_raw": "В Грузии шесть пострадавших в ДТП белорусских туристов остаются в больнице",
-      "lead_raw": "Из них трое несовершеннолетние, сообщили в посольстве Белоруссии",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "7f588f07b8e3c9d2816b0f6836f1c4600d919b14",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27953627",
-      "published_utc": "2026-07-26T09:25:35Z",
-      "title_en": "An investigation has been launched in Georgia after an accident with Belarusian tourists",
-      "lead_en": "Two died, 12 more people were taken to hospital",
-      "title_raw": "В Грузии начали расследование после ДТП с белорусскими туристами",
-      "lead_raw": "Погибли двое, еще 12 человек доставили в больницу",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "857d4fdd6d87405958a29068e55a8ea9b91b8ced",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2165485",
-      "published_utc": "2026-07-26T09:18:17Z",
-      "title_en": "New large-displacement unmanned vessel being built for Russian Navy — Commander-in-Chief",
-      "lead_en": "It is the first of its kind and will serve as the foundation for the future development of unmanned systems",
-      "title_raw": "New large-displacement unmanned vessel being built for Russian Navy — Commander-in-Chief",
-      "lead_raw": "It is the first of its kind and will serve as the foundation for the future development of unmanned systems",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "2ea9b656c701bef69ed40b637c135eb0d64fc0fa",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2165487",
-      "published_utc": "2026-07-26T09:17:30Z",
-      "title_en": "Cruiser Admiral Nakhimov to join Russian Navy this year — Navy Commander-in-Chief",
-      "lead_en": "Comprehensive testing is underway",
-      "title_raw": "Cruiser Admiral Nakhimov to join Russian Navy this year — Navy Commander-in-Chief",
-      "lead_raw": "Comprehensive testing is underway",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "574498c17ca27fff8a736ba49fddb92c284e941b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27953631",
-      "published_utc": "2026-07-26T09:13:09Z",
-      "title_en": "Russian air defense systems shot down more than 1 thousand Ukrainian drones per day",
-      "lead_en": "Russian forces also destroyed eight guided bombs, the Russian Defense Ministry said.",
-      "title_raw": "Средства ПВО РФ за сутки сбили более 1 тыс. украинских дронов",
-      "lead_raw": "Российские силы также уничтожили восемь управляемых авиабомб, сообщили в Минобороны России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "73b4f669e8be92f683c4c6d00cf7f14ce32e12e0",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2165483",
-      "published_utc": "2026-07-26T09:12:49Z",
-      "title_en": "Russian Navy has formed regiments of unmanned systems — commander-in-chief",
-      "lead_en": "\"Regiments of unmanned systems already exist [within the Russian Navy],\" he said on the program Military Acceptance",
-      "title_raw": "Russian Navy has formed regiments of unmanned systems — commander-in-chief",
-      "lead_raw": "\"Regiments of unmanned systems already exist [within the Russian Navy],\" he said on the program Military Acceptance",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "b0e7ba31344539b1a208c7e7cb5bc14fd76873aa",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2165481",
-      "published_utc": "2026-07-26T09:11:48Z",
-      "title_en": "Russian Navy already has Poseidon carrier — Commander-in-Chief",
-      "lead_en": "And, of course, such a carrier is already part of the Navy",
-      "title_raw": "Russian Navy already has Poseidon carrier — Commander-in-Chief",
-      "lead_raw": "And, of course, such a carrier is already part of the Navy",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "ded58e0c9d91cea3552878de92fc874d2136e115",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27953619",
-      "published_utc": "2026-07-26T09:09:24Z",
-      "title_en": "The Ukrainian Armed Forces lost about 1,345 military personnel in the Northern Military District zone per day",
-      "lead_en": "Enemy losses in the zone of responsibility of the North group of troops amounted to up to 205 military personnel, the Russian Ministry of Defense noted",
-      "title_raw": "ВСУ потеряли за сутки в зоне СВО около 1 345 военных",
-      "lead_raw": "Потери противника в зоне ответственности группировки войск \"Север\" составили до 205 военнослужащих, отметили в Минобороны РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "bb3a2eb2c0623bc07ca0c42144e3c8e248286cef",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27953613",
-      "published_utc": "2026-07-26T09:08:52Z",
-      "title_en": "The Russian Armed Forces hit the workshops for the production of long-range drones of the Ukrainian Armed Forces within 24 hours",
-      "lead_en": "Russian forces also defeated temporary deployment points of Ukrainian Armed Forces and foreign mercenaries in 146 districts, the Russian Ministry of Defense noted.",
-      "title_raw": "ВС РФ поразили за сутки цеха производства дальних беспилотников ВСУ",
-      "lead_raw": "Российские силы также нанесли поражение пунктам временной дислокации формирований ВСУ и иностранных наемников в 146 районах, отметили в Минобороны России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "559ef1084bb635ff9262643844a593981f325ce9",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27953609",
-      "published_utc": "2026-07-26T09:08:01Z",
-      "title_en": "The Russian Armed Forces released Shevchenko in the DPR",
-      "lead_en": "Military groups of troops “Center” participated in the operation, noted the Russian Ministry of Defense",
-      "title_raw": "ВС РФ освободили Шевченко в ДНР",
-      "lead_raw": "В операции участвовали военные группировки войск \"Центр\", отметили в Минобороны России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "2465c76d1a152faeb106ea52c74f5c3a58ea833b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2165479",
-      "published_utc": "2026-07-26T08:51:17Z",
-      "title_en": "Borei-class submarines to serve Russia for next 40 years — Navy Commander",
-      "lead_en": "They will serve our state for the next 30 to 40 years, replacing the previous 667BDRM generation",
-      "title_raw": "Borei-class submarines to serve Russia for next 40 years — Navy Commander",
-      "lead_raw": "They will serve our state for the next 30 to 40 years, replacing the previous 667BDRM generation",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "da73d4b8fedaf2cc26975f9dc6a52aa5fc05bc8a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/kosmos/27953557",
-      "published_utc": "2026-07-26T08:36:54Z",
-      "title_en": "Roscosmos cosmonaut Dubrov took command of the Russian segment of the ISS",
-      "lead_en": "Command was transferred to Sergei Kud-Sverchkov",
-      "title_raw": "Космонавт Роскосмоса Дубров принял командование российским сегментом МКС",
-      "lead_raw": "Командование передал Сергей Кудь-Сверчков",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "f59e6847a76f177450e841f33756e6e35346c78e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27953563",
-      "published_utc": "2026-07-26T08:32:49Z",
-      "title_en": "The Navy will receive the newest large ship of the ocean zone",
-      "lead_en": "The standard displacement of the Russian frigate Project 22350 \"Admiral of the Fleet of the Soviet Union Gorshkov\" is 4.5 thousand tons",
-      "title_raw": "ВМФ получит новейший крупный корабль океанской зоны",
-      "lead_raw": "Стандартное водоизмещение российского фрегата проект 22350 \"Адмирал флота Советского Союза Горшков\" составляет 4,5 тыс. тонн",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "cbb27281f2c87c7d53de6478990ea5c4f69f227e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27953535",
-      "published_utc": "2026-07-26T08:32:46Z",
-      "title_en": "Filippo: a scandal is brewing in Spain over a ban on firefighting helicopters from the Russian Federation",
-      "lead_en": "According to the leader of the Patriots party, 10 vehicles remain on the ground due to the impossibility of ordering spare parts or inviting Russian technicians who, according to the contract, must service them",
-      "title_raw": "Филиппо: в Испании зреет скандал из-за запрета на пожарные вертолеты из РФ",
-      "lead_raw": "По словам лидера партии \"Патриоты\" 10 машин остаются на земле из-за невозможности заказать запчасти или пригласить российских техников, которые по контракту должны их обслуживать",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "a7ad9517d62c91e3fc717dc02d9965d27fdbc660",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27953525",
-      "published_utc": "2026-07-26T08:22:54Z",
-      "title_en": "Miroshnik: Kyiv switched to “gangster strikes on the sly” due to defeats in battle",
-      "lead_en": "The Ambassador at Large of the Russian Foreign Ministry noted an increase in attacks by the Armed Forces of Ukraine against the civilian population of Russia",
-      "title_raw": "Мирошник: Киев перешел к \"бандитским ударам исподтишка\" из-за поражений в бою",
-      "lead_raw": "Посол по особым поручениям МИД РФ заметил усиление атак ВСУ по мирному населению России",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "0acc35d82061671e480c5e86f58f9d680bd61424",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27953507",
-      "published_utc": "2026-07-26T08:09:52Z",
-      "title_en": "We couldn't cope with our nerves. Russian water polo players took 4th place at the World Cup",
-      "lead_en": "The Russians did not make it to the World Championships, but retained their chances of qualifying for the Olympics",
-      "title_raw": "Не справились с нервами. Российские ватерполистки стали 4-ми на Кубке мира",
-      "lead_raw": "Россиянки не попали на чемпионат мира, но сохранили шансы отобраться на Олимпиаду",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "495d32f2f24460a010c7209cb7e52b7c6a07422d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27953465",
-      "published_utc": "2026-07-26T07:50:04Z",
-      "title_en": "The Russian Navy already has a carrier of the Poseidon.",
-      "lead_en": "Poseidon - unmanned underwater vehicle with a nuclear power plant",
-      "title_raw": "В РФ в составе ВМФ уже есть носитель \"Посейдона\"",
-      "lead_raw": "Посейдон - беспилотный подводный аппарат с ядерной энергетической установкой",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "c65650952e61a95e920a3b84db7dc1c285f45758",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27953463",
-      "published_utc": "2026-07-26T07:49:47Z",
-      "title_en": "Commander-in-Chief of the Navy: Borei nuclear submarines will serve Russia for 30-40 years",
-      "lead_en": "They will replace the previous generation 667BDRM, noted Alexander Moiseev",
-      "title_raw": "Главком ВМФ: атомные подлодки \"Борей\" будут служить России 30-40 лет",
-      "lead_raw": "Они придут на смену предыдущему поколению 667БДРМ, отметил Александр Моисеев",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "108db93bfd3e96853bfd8de75e286b72df1dce84",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27953459",
-      "published_utc": "2026-07-26T07:46:16Z",
-      "title_en": "The Russian Navy has formed regiments of unmanned systems",
-      "lead_en": "Commander-in-Chief of the Navy Alexander Moiseev informed about this",
-      "title_raw": "В ВМФ России сформировали полки беспилотных систем",
-      "lead_raw": "Главком Военно-морского флота Александр Моисеев проинформировал об этом",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "5139499e42e2fee233adf526457b5502ff1e2f4d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2165453",
-      "published_utc": "2026-07-26T07:38:05Z",
-      "title_en": "Smart Intelligent System manufacturing UAVs hit in Kiev — Russian defense ministry",
-      "lead_en": "A facility for the assembly and storage of unmanned aerial vehicles in the southwestern part of Kiev was also struck, where up to 1,000 UAVs of various types were produced per month with the involvement of specialists from a Ukrainian-American company",
-      "title_raw": "Smart Intelligent System manufacturing UAVs hit in Kiev — Russian defense ministry",
-      "lead_raw": "A facility for the assembly and storage of unmanned aerial vehicles in the southwestern part of Kiev was also struck, where up to 1,000 UAVs of various types were produced per month with the involvement of specialists from a Ukrainian-American company",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
