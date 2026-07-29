@@ -1,9 +1,50 @@
 {
-  "updated_at_utc": "2026-07-29T04:10:53Z",
+  "updated_at_utc": "2026-07-29T07:41:46Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 39,
   "articles": [
+    {
+      "id": "5a5cc174fc3c385c8a9cf6355a60dccc48509bbc",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/07/29/at-least-one-dead-in-russia-after-ukraine-strikes-industrial-sites-a93363",
+      "published_utc": "2026-07-29T07:30:26Z",
+      "title_en": "At Least One Dead in Russia After Ukraine Strikes Industrial Sites",
+      "lead_en": "A woman was killed and a man injured when missile debris struck an apartment building in the southern port city of Taganrog.",
+      "title_raw": "At Least One Dead in Russia After Ukraine Strikes Industrial Sites",
+      "lead_raw": "A woman was killed and a man injured when missile debris struck an apartment building in the southern port city of Taganrog.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "b4aa36d2b8b1ca60c3d29f580d7cd5a861c5219b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27963403",
+      "published_utc": "2026-07-29T06:56:22Z",
+      "title_en": "In the Kaluga region, the unmanned threat was canceled",
+      "lead_en": "The Ministry of Emergency Situations of Russia spoke about this",
+      "title_raw": "В Калужской области отменили беспилотную опасность",
+      "lead_raw": "Об этом рассказали в МЧС России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "7d0b3cab49fdbb8ef60ce000be334deb0304645b",
       "source": "TASS (RU)",
@@ -744,48 +785,6 @@
         "local_events": 1
       },
       "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "d37b8a392457385cf254f010e2baae7f31314452",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/society/2165791",
-      "published_utc": "2026-07-27T07:20:45Z",
-      "title_en": "About 300 children killed in DPR, LPR since 2014 due to Kiev's aggression — Russian MFA",
-      "lead_en": "The Day of Remembrance for Child Victims of the War in Donbass is observed annually on July 27",
-      "title_raw": "About 300 children killed in DPR, LPR since 2014 due to Kiev's aggression — Russian MFA",
-      "lead_raw": "The Day of Remembrance for Child Victims of the War in Donbass is observed annually on July 27",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "75ec07031bbbbe2dbf8696f05312a6f70f87fd78",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27955535",
-      "published_utc": "2026-07-27T05:44:21Z",
-      "title_en": "The search for missing Bosnian climbers has been resumed in Kabardino-Balkaria",
-      "lead_en": "11 rescuers from the Elbrus high-mountain search and rescue team of the Ministry of Emergency Situations of Russia and Kavkaz.RF were involved in the work",
-      "title_raw": "В Кабардино-Балкарии возобновили поиски пропавших боснийских альпинистов",
-      "lead_raw": "К работам привлечены 11 спасателей эльбрусского высокогорного поисково-спасательного отряда МЧС России и Кавказ.РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
       "primary_topic": "local_events"
     }
   ]
