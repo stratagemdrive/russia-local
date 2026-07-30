@@ -1,9 +1,52 @@
 {
-  "updated_at_utc": "2026-07-30T15:56:26Z",
+  "updated_at_utc": "2026-07-30T19:24:52Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 25,
   "articles": [
+    {
+      "id": "9b255242024455432d025ca8d04a8da8ce0d0f17",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2167413",
+      "published_utc": "2026-07-30T16:38:15Z",
+      "title_en": "Russia to insist on identifying masterminds of Nord Stream sabotage — ambassador",
+      "lead_en": "Sergey Nechayev highlighted that the fact that \"the German prosecutor general’s office admitted that it was not just an accident involving six diving amateurs who somehow managed to plant explosives\" was \"an important sign by itself\"",
+      "title_raw": "Russia to insist on identifying masterminds of Nord Stream sabotage — ambassador",
+      "lead_raw": "Sergey Nechayev highlighted that the fact that \"the German prosecutor general’s office admitted that it was not just an accident involving six diving amateurs who somehow managed to plant explosives\" was \"an important sign by itself\"",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "53874ea1cb1e592b5bb10776c850f0bb6aedeee7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27968973",
+      "published_utc": "2026-07-30T16:22:06Z",
+      "title_en": "Zakharova: Kyiv is approaching a dangerous point, risking a radiation accident",
+      "lead_en": "Western support inspires Vladimir Zelensky with false hope of impunity, thereby provoking him to new dangerous adventures, including attacks on the Zaporizhia NPP and Energodar, said the official representative of the Russian Foreign Ministry",
+      "title_raw": "Захарова: Киев подходит к опасной черте, рискуя вызвать радиационную аварию",
+      "lead_raw": "Поддержка Запада внушает Владимиру Зеленскому ложную надежду на безнаказанность, провоцируя его тем самым на новые опаснейшие авантюры, в том числе на атаки по ЗАЭС и Энергодару, заявила официальный представитель МИД РФ",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "fbd9ae0f4b88271a530609e669d09de8a705e1a3",
       "source": "Meduza (EN)",
@@ -454,46 +497,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "1def774b9cb3986be2b8f86ffa861a109c27be2b",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/28/russia-s-largest-publishing-group-fires-employees-who-refused-to-censor-queer-literature",
-      "published_utc": "2026-07-28T19:04:16Z",
-      "title_en": "Russia’s largest publishing group fires employees who refused to censor queer literature",
-      "lead_en": "The Eksmo-AST publishing group has fired employees who refused to work under the censorship rules it introduced in response to Russia’s new laws, and others who objected resigned, the group’s president, Oleg Novikov, said in an interview on the program Vesti. The independent Russian investigative outlet Agentstvo flagged the interview.",
-      "title_raw": "Russia’s largest publishing group fires employees who refused to censor queer literature",
-      "lead_raw": "The Eksmo-AST publishing group has fired employees who refused to work under the censorship rules it introduced in response to Russia’s new laws, and others who objected resigned, the group’s president, Oleg Novikov, said in an interview on the program Vesti. The independent Russian investigative outlet Agentstvo flagged the interview.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "2d8008df770727f885b1a11c031bc773ca32ed24",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/07/28/who-blew-up-nord-stream-for-his-new-book-wsj-correspondent-bojan-pancevski-spent-years-reconstructing-the-plot-seven-ukrainians-a-rented-yacht-and-about-250-000",
-      "published_utc": "2026-07-28T18:41:07Z",
-      "title_en": "Who blew up Nord Stream? For his new book, WSJ correspondent Bojan Pancevski spent years reconstructing the plot: seven Ukrainians, a rented yacht, and about $250,000.",
-      "lead_en": "On the night of September 26, 2022, explosions ruptured three of the four pipelines that make up the Nord Stream 1 and Nord Stream 2 gas pipeline systems in the Baltic Sea, near the Danish island of Bornholm. German investigators pursued theories ranging from a Russian provocation to the involvement of Western intelligence services.",
-      "title_raw": "Who blew up Nord Stream? For his new book, WSJ correspondent Bojan Pancevski spent years reconstructing the plot: seven Ukrainians, a rented yacht, and about $250,000.",
-      "lead_raw": "On the night of September 26, 2022, explosions ruptured three of the four pipelines that make up the Nord Stream 1 and Nord Stream 2 gas pipeline systems in the Baltic Sea, near the Danish island of Bornholm. German investigators pursued theories ranging from a Russian provocation to the involvement of Western intelligence services.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
