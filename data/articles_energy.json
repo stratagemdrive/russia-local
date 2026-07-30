@@ -1,9 +1,52 @@
 {
-  "updated_at_utc": "2026-07-30T09:29:44Z",
+  "updated_at_utc": "2026-07-30T11:50:42Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 23,
+  "count": 25,
   "articles": [
+    {
+      "id": "be02462ce56cdc6fffe8387f6bf3339180aa48dc",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27967759",
+      "published_utc": "2026-07-30T11:40:13Z",
+      "title_en": "The Russian discount store intends to enter the market of the Republic of Korea",
+      "lead_en": "The trade mission of the Russian Federation in Seoul said that the Svetofor discount chain will open its first store in South Korea under the PriceFit brand in the fall of 2026",
+      "title_raw": "Российский магазин-дискаунтер намерен выйти на рынок Республики Корея",
+      "lead_raw": "В торговом представительстве РФ в Сеуле рассказали, что сеть дискаунтеров \"Светофор\" откроет первый магазин в Южной Корее под брендом PriceFit уже осенью 2026 года",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "c68f5a88926ff014cbb5a3aa0e50f98e1511cbc2",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2167207",
+      "published_utc": "2026-07-30T09:52:51Z",
+      "title_en": "Gazprom notes significant rise in demand for helium amid Middle East crisis",
+      "lead_en": "Gazprom Deputy Chairman Vitaly Markelov stressed that Russia is the most reliable helium supplier in the world",
+      "title_raw": "Gazprom notes significant rise in demand for helium amid Middle East crisis",
+      "lead_raw": "Gazprom Deputy Chairman Vitaly Markelov stressed that Russia is the most reliable helium supplier in the world",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "7ad82b9df98feacebfa9e4c7897bd97489b260eb",
       "source": "Meduza (EN)",
@@ -25,6 +68,27 @@
         "energy"
       ],
       "primary_topic": "military"
+    },
+    {
+      "id": "aa4fcfcea90a372db55e6968efe941c091fccd4d",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2167155",
+      "published_utc": "2026-07-30T07:59:52Z",
+      "title_en": "Russian stocks up as main trading session opens",
+      "lead_en": "The yuan exchange rate against the ruble lost 2.4 kopecks as trading opened compared with previous closing to 11.771 rubles",
+      "title_raw": "Russian stocks up as main trading session opens",
+      "lead_raw": "The yuan exchange rate against the ruble lost 2.4 kopecks as trading opened compared with previous closing to 11.771 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
     },
     {
       "id": "4827207ee1766ce7529633ee4c49d0f3d76810dd",
@@ -469,27 +533,6 @@
         "local_events"
       ],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "406a594838230b55218ee19b3abd9e6cd429d721",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2166305",
-      "published_utc": "2026-07-28T09:32:54Z",
-      "title_en": "NATO fuel networks near Russian borders vulnerable to precision strikes, expert says",
-      "lead_en": "According to Rozhin, the foundation of the system is the Central Europe Pipeline System network which spans approximately 5,300 kilometers, with pipeline diameters ranging from 6 to 12 inches",
-      "title_raw": "NATO fuel networks near Russian borders vulnerable to precision strikes, expert says",
-      "lead_raw": "According to Rozhin, the foundation of the system is the Central Europe Pipeline System network which spans approximately 5,300 kilometers, with pipeline diameters ranging from 6 to 12 inches",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
