@@ -1,9 +1,116 @@
 {
-  "updated_at_utc": "2026-07-30T13:59:38Z",
+  "updated_at_utc": "2026-07-30T15:56:26Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 24,
+  "count": 25,
   "articles": [
+    {
+      "id": "4f84cfc962c75338ac1128dad1e0c5ad3d9624dd",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2167389",
+      "published_utc": "2026-07-30T15:39:52Z",
+      "title_en": "Ukrainian attacks on Black Sea energy facilities raise concerns — Russian diplomat",
+      "lead_en": "On July 30, the Caspian Pipeline Consortium reported another drone attack on two tankers near its terminal outside the southern Russian city of Novorossiysk",
+      "title_raw": "Ukrainian attacks on Black Sea energy facilities raise concerns — Russian diplomat",
+      "lead_raw": "On July 30, the Caspian Pipeline Consortium reported another drone attack on two tankers near its terminal outside the southern Russian city of Novorossiysk",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "cc06d5a2a6e948d0c151b292475bd547dda338ad",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/07/30/russia-extends-gasoline-and-diesel-export-ban-through-january-2027-a93382",
+      "published_utc": "2026-07-30T15:07:33Z",
+      "title_en": "Russia Extends Gasoline and Diesel Export Ban Through January 2027",
+      "lead_en": "The average price of gasoline in Russia has climbed 19% since the start of the year, in large part due to Ukrainian attacks on oil refineries.",
+      "title_raw": "Russia Extends Gasoline and Diesel Export Ban Through January 2027",
+      "lead_raw": "The average price of gasoline in Russia has climbed 19% since the start of the year, in large part due to Ukrainian attacks on oil refineries.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "f667e314e8a0d10c887ac93fa3be045af0c78496",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2167355",
+      "published_utc": "2026-07-30T15:05:36Z",
+      "title_en": "LNG market holds promise, but Russia faces cold reception — expert",
+      "lead_en": "Global LNG production capacity could expand by 65% over the next five years, with the US driving roughly half of that growth, Anvar Gafiatullin noted",
+      "title_raw": "LNG market holds promise, but Russia faces cold reception — expert",
+      "lead_raw": "Global LNG production capacity could expand by 65% over the next five years, with the US driving roughly half of that growth, Anvar Gafiatullin noted",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "d26e3f43a8e0d334c4c9439b981213fdff46dc38",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27968747",
+      "published_utc": "2026-07-30T15:03:55Z",
+      "title_en": "The Russian Armed Forces hit a fuel station and a fuel distribution center in the Odessa region",
+      "lead_en": "Russian troops used ground-based precision weapons and attack UAVs to attack",
+      "title_raw": "ВС РФ поразили станцию ГСМ и узел выдачи топлива в Одесской области",
+      "lead_raw": "Российские войска для атаки использовали высокоточное оружие наземного базирования и ударные БПЛА",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "a3dd28e63edc4ddb03d664a25dba309d130a0618",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27968621",
+      "published_utc": "2026-07-30T14:34:00Z",
+      "title_en": "Zakharova: Ukrainian Armed Forces attacks on infrastructure in the Black Sea cause concern",
+      "lead_en": "Encroachments on civilian energy infrastructure continue even despite harsh statements from countries that Kyiv calls partners, noted the official representative of the Russian Foreign Ministry",
+      "title_raw": "Захарова: атаки ВСУ на инфраструктуру в Черном море вызывают озабоченность",
+      "lead_raw": "Посягательства на гражданскую энергетическую инфраструктуру продолжаются даже несмотря на жесткие заявления стран, которые Киев называет партнерами, отметила официальный представитель МИД РФ",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "586cfaaf0f5d7e79f41e9b0677a736ced95d967c",
       "source": "TASS (RU)",
@@ -422,90 +529,6 @@
         "energy": 2,
         "economy": 0,
         "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "3792d0c772e0824fc93bfd6085bb4c3314df216b",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/07/28/over-4-years-into-the-ukraine-war-russian-metals-keep-flowing-to-europe-a93357",
-      "published_utc": "2026-07-28T15:34:39Z",
-      "title_en": "Over 4 Years Into the Ukraine War, Russian Metals and Energy Keep Flowing to Europe",
-      "lead_en": "Russia supplies Europe with energy, metals and other industrial goods through exemptions and sectors that have so far avoided the toughest restrictions.",
-      "title_raw": "Over 4 Years Into the Ukraine War, Russian Metals and Energy Keep Flowing to Europe",
-      "lead_raw": "Russia supplies Europe with energy, metals and other industrial goods through exemptions and sectors that have so far avoided the toughest restrictions.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "6ef606d2458cfa2483eea449ecf57188bb482980",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27961781",
-      "published_utc": "2026-07-28T15:16:47Z",
-      "title_en": "Berliner Zeitung: Due to sanctions, the EU cannot extinguish fires with Russian Ka-32s",
-      "lead_en": "Helicopters “capable of picking up water very quickly” and “delivering it to hard-to-reach areas” were taken out of service, the newspaper noted",
-      "title_raw": "Berliner Zeitung: в ЕС из-за санкций не могут тушить пожары с российских Ка-32",
-      "lead_raw": "Вертолеты, \"способные очень быстро набирать воду\" и \"доставлять ее в труднодоступные районы\", вывели из эксплуатации, отметила газета",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "3ca098a239b3e3364df5dfba60559af172d7deec",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27961723",
-      "published_utc": "2026-07-28T14:56:21Z",
-      "title_en": "The Commander-in-Chief of the Navy noted the contribution of nuclear submarines to ensuring the security of Russia",
-      "lead_en": "At the OSK Sevmash enterprise a solemn ceremony was held for the launch of the Yasen-M multi-purpose nuclear submarine Ulyanovsk from the boathouse.",
-      "title_raw": "Главком ВМФ отметил вклад атомных подлодок в обеспечение безопасности России",
-      "lead_raw": "На предприятии ОСК \"Севмаш\" состоялась торжественная церемония вывода из эллинга многоцелевого атомного подводного крейсера проекта \"Ясень-М\" \"Ульяновск\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "37e92af49a982887dd0d0354b9229ff39f6207a3",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/07/28/russian-gas-stations-begin-easing-purchase-limits-as-officials-say-fuel-market-shows-signs-of-stabilization-a93361",
-      "published_utc": "2026-07-28T14:32:00Z",
-      "title_en": "Russian Gas Stations Begin Easing Purchase Limits as Officials Say Fuel Market Shows Signs of ‘Stabilization’",
-      "lead_en": "Pumping stations owned by Gazprom and Lukoil have removed all gasoline purchase limits in some parts of the country, though shortages persist in many regions.",
-      "title_raw": "Russian Gas Stations Begin Easing Purchase Limits as Officials Say Fuel Market Shows Signs of ‘Stabilization’",
-      "lead_raw": "Pumping stations owned by Gazprom and Lukoil have removed all gasoline purchase limits in some parts of the country, though shortages persist in many regions.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 4,
-        "economy": 1,
-        "local_events": 0
       },
       "topics": [
         "energy"
