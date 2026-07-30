@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-07-30T11:50:42Z",
+  "updated_at_utc": "2026-07-30T13:59:38Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 25,
+  "count": 24,
   "articles": [
+    {
+      "id": "586cfaaf0f5d7e79f41e9b0677a736ced95d967c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27968315",
+      "published_utc": "2026-07-30T13:07:02Z",
+      "title_en": "Expert Gafiatullin: Russia is not welcome in the LNG market “with open arms”",
+      "lead_en": "According to the leader of the oil and gas industry business consulting practice TeDo, the United States is seeking to control energy flows",
+      "title_raw": "Эксперт Гафиатуллин: Россию не ждут на рынке СПГ \"с распростертыми объятиями\"",
+      "lead_raw": "По словам лидера нефтегазовой отраслевой практики бизнес-консультирования \"ТеДо\", США стремятся контролировать энергетические потоки",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 4,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "be02462ce56cdc6fffe8387f6bf3339180aa48dc",
       "source": "TASS (RU)",
@@ -490,49 +511,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "0702f0f2f08c23f299fac2e4853215d9ee1f216d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27961531",
-      "published_utc": "2026-07-28T13:42:03Z",
-      "title_en": "Dodon called on Moldova to buy gas from Russia directly",
-      "lead_en": "The government forces residents of the republic to overpay in the political interests of the ruling party, the former president of the country said",
-      "title_raw": "Додон призвал Молдавию закупать газ у России напрямую",
-      "lead_raw": "Правительство заставляет жителей республики переплачивать в политических интересах правящей партии, заявил бывший президент страны",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "8a2302b11e39479bb613f4c6a5458977fe200992",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27961321",
-      "published_utc": "2026-07-28T12:48:50Z",
-      "title_en": "Two people were injured in a gas explosion in a car in Dagestan",
-      "lead_en": "The car caught fire, the Russian Emergency Situations Ministry for the Republic reported.",
-      "title_raw": "В Дагестане при взрыве газа в автомобиле пострадали два человека",
-      "lead_raw": "Машина загорелась, сообщили в управлении МЧС России по республике",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "energy",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
     }
   ]
 }
