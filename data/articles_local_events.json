@@ -1,9 +1,47 @@
 {
-  "updated_at_utc": "2026-07-31T14:27:04Z",
+  "updated_at_utc": "2026-07-31T16:45:25Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 21,
   "articles": [
+    {
+      "id": "351a27240c3a2ec354b611ad5be63054a76be872",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2167761",
+      "published_utc": "2026-07-31T14:49:42Z",
+      "title_en": "Armenia’s exit would not lead to collapse of EAEU — expert",
+      "lead_en": "Head of the Analytical Center for Strategic Studies and Initiatives Hayk Khalatyan noted that the actions taken by Russia, including the introduction of economic restrictions against Armenia, had come as a complete surprise to the current Armenian authorities",
+      "title_raw": "Armenia’s exit would not lead to collapse of EAEU — expert",
+      "lead_raw": "Head of the Analytical Center for Strategic Studies and Initiatives Hayk Khalatyan noted that the actions taken by Russia, including the introduction of economic restrictions against Armenia, had come as a complete surprise to the current Armenian authorities",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "dceede4d5a4abd7cd4a961671113b5ba2b99696a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27972387",
+      "published_utc": "2026-07-31T14:48:16Z",
+      "title_en": "Kazakhstan rescuers evacuated two injured climbers from Russia",
+      "lead_en": "The injured were handed over to doctors",
+      "title_raw": "Спасатели Казахстана эвакуировали двух получивших травмы альпинисток из РФ",
+      "lead_raw": "Пострадавших передали врачам",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "a56aa879c6c3fc41b371116f8037089812926419",
       "source": "TASS (EN)",
@@ -384,46 +422,6 @@
         "local_events": 1
       },
       "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "f9c68d077e6e63bfb5674136dd3d5fc0d58fa7ca",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27965309",
-      "published_utc": "2026-07-29T15:58:46Z",
-      "title_en": "In several districts of the Krasnodar Territory, a drone danger has been declared",
-      "lead_en": "This was reported to the Main Directorate of the Ministry of Emergency Situations of Russia for the region",
-      "title_raw": "В нескольких районах Краснодарского края объявили беспилотную опасность",
-      "lead_raw": "Об этом сообщили в ГУ МЧС России по региону",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "c1b8ad7dd51e005aaa7bd51b09ff1fafed6a9aa3",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27965283",
-      "published_utc": "2026-07-29T15:53:22Z",
-      "title_en": "Expert Grechkin called the mountain route in the Karachay-Cherkess Republic where a tourist died difficult",
-      "lead_en": "According to the deputy head of the Karachay-Cherkess search and rescue team of the Russian Ministry of Emergency Situations. IN.",
-      "title_raw": "Эксперт Гречкин назвал сложным горный маршрут в КЧР, где погиб турист",
-      "lead_raw": "По словам замруководителя Карачаево-Черкесского поисково-спасательного отряда МЧС России им. В.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
       "primary_topic": "local_events"
     }
   ]
