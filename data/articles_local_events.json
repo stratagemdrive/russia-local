@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-08-01T04:20:21Z",
+  "updated_at_utc": "2026-08-01T07:26:40Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 21,
   "articles": [
+    {
+      "id": "85511849f989d26a0750a549f5f17e87236b164e",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/08/01/russia-pounds-kyiv-with-missiles-killing-at-least-9-a93392",
+      "published_utc": "2026-08-01T06:22:33Z",
+      "title_en": "Russia Pounds Kyiv With Missiles, Killing At Least 9",
+      "lead_en": "This is the second major attack on Kyiv this week, with fires across the city and power outages reported in some areas.",
+      "title_raw": "Russia Pounds Kyiv With Missiles, Killing At Least 9",
+      "lead_raw": "This is the second major attack on Kyiv this week, with fires across the city and power outages reported in some areas.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "6ec8b857b79f4a3a939c11ec08e9e3ae08e12e3c",
       "source": "TASS (RU)",
@@ -403,27 +425,6 @@
         "local_events": 1
       },
       "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "69ca61c32bbf06192c913a69004965e62cc647e9",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2167141",
-      "published_utc": "2026-07-30T07:24:54Z",
-      "title_en": "Fires at Wildberries facilities, 258 drones: aftermath of attacks on Russian regions",
-      "lead_en": "According to preliminary information, one person was injured in the Penza Region",
-      "title_raw": "Fires at Wildberries facilities, 258 drones: aftermath of attacks on Russian regions",
-      "lead_raw": "According to preliminary information, one person was injured in the Penza Region",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
       "primary_topic": "local_events"
     }
   ]
