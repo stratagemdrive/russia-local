@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-08-01T17:59:42Z",
+  "updated_at_utc": "2026-08-01T20:51:51Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 13,
+  "count": 14,
   "articles": [
+    {
+      "id": "3b2a0bfe63a3d33fe168e0f97fe4423fba26c5bf",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2168031",
+      "published_utc": "2026-08-01T20:06:14Z",
+      "title_en": "IN BRIEF: Three dead, 15 injured: what we know about explosion at cafe in center of Moscow",
+      "lead_en": "The police and Russia’s National Guard Rosgvardiya restricted access near the residential high-rise on Kudrinskaya Square, where the blast took place",
+      "title_raw": "IN BRIEF: Three dead, 15 injured: what we know about explosion at cafe in center of Moscow",
+      "lead_raw": "The police and Russia’s National Guard Rosgvardiya restricted access near the residential high-rise on Kudrinskaya Square, where the blast took place",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "92fb9665c5bc040d87038d93fed1928f8d7ee311",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27974789",
+      "published_utc": "2026-08-01T18:20:33Z",
+      "title_en": "Victims of the explosion in Moscow are receiving assistance",
+      "lead_en": "This information was reported by Assistant Minister of Health of the Russian Federation Alexey Kuznetsov",
+      "title_raw": "Пострадавшим при взрыве в Москве оказывают помощь",
+      "lead_raw": "Эту информацию сообщил помощник министра здравоохранения РФ Алексей Кузнецов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "7c683e925e3269e840fbc163d2ec105068482816",
       "source": "The Moscow Times",
@@ -248,27 +288,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "88404d606b9bb42025f4a064d6559f4df958ab5e",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/30/zelensky-says-russia-likely-used-a-north-korean-missile-in-an-attack-near-kryvyi-rih-that-killed-four-children-and-their-parents",
-      "published_utc": "2026-07-30T19:41:37Z",
-      "title_en": "Zelensky says Russia likely used a North Korean missile in an attack near Kryvyi Rih that killed four children and their parents",
-      "lead_en": "Russian forces struck the village of Radushne with a North Korean ballistic missile, killing members of a large family, Ukrainian President Volodymyr Zelensky said.",
-      "title_raw": "Zelensky says Russia likely used a North Korean missile in an attack near Kryvyi Rih that killed four children and their parents",
-      "lead_raw": "Russian forces struck the village of Radushne with a North Korean ballistic missile, killing members of a large family, Ukrainian President Volodymyr Zelensky said.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
