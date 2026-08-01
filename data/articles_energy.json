@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-08-01T07:26:40Z",
+  "updated_at_utc": "2026-08-01T09:58:31Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 33,
+  "count": 31,
   "articles": [
+    {
+      "id": "e78b2fee2c31fc2ea1c462642709a7dde7338c64",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27973805",
+      "published_utc": "2026-08-01T07:34:59Z",
+      "title_en": "The Kulevi refinery switches from Russian oil to Kazakh and Libyan oil",
+      "lead_en": "The plant made this decision to avoid Western sanctions",
+      "title_raw": "НПЗ в Кулеви переходит с российской нефти на казахстанскую и ливийскую",
+      "lead_raw": "Завод принял это решение, чтобы избежать западных санкций",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "5cb7a5d178e8595268b93b21e2008277f49101ac",
       "source": "TASS (RU)",
@@ -645,70 +666,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "c68f5a88926ff014cbb5a3aa0e50f98e1511cbc2",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2167207",
-      "published_utc": "2026-07-30T09:52:51Z",
-      "title_en": "Gazprom notes significant rise in demand for helium amid Middle East crisis",
-      "lead_en": "Gazprom Deputy Chairman Vitaly Markelov stressed that Russia is the most reliable helium supplier in the world",
-      "title_raw": "Gazprom notes significant rise in demand for helium amid Middle East crisis",
-      "lead_raw": "Gazprom Deputy Chairman Vitaly Markelov stressed that Russia is the most reliable helium supplier in the world",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "7ad82b9df98feacebfa9e4c7897bd97489b260eb",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/30/ft-us-and-france-gave-ukraine-intelligence-to-bypass-russian-air-defenses-in-strikes-on-oil-refineries",
-      "published_utc": "2026-07-30T08:38:32Z",
-      "title_en": "FT: US and France gave Ukraine intelligence to bypass Russian air defenses in strikes on oil refineries",
-      "lead_en": "The United States and France have given Ukraine intelligence that helped Kyiv map out Russian air defense positions, allowing drones to slip past them during strikes on oil refineries, the Financial Times reported, citing Ukrainian officials.",
-      "title_raw": "FT: US and France gave Ukraine intelligence to bypass Russian air defenses in strikes on oil refineries",
-      "lead_raw": "The United States and France have given Ukraine intelligence that helped Kyiv map out Russian air defense positions, allowing drones to slip past them during strikes on oil refineries, the Financial Times reported, citing Ukrainian officials.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "aa4fcfcea90a372db55e6968efe941c091fccd4d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2167155",
-      "published_utc": "2026-07-30T07:59:52Z",
-      "title_en": "Russian stocks up as main trading session opens",
-      "lead_en": "The yuan exchange rate against the ruble lost 2.4 kopecks as trading opened compared with previous closing to 11.771 rubles",
-      "title_raw": "Russian stocks up as main trading session opens",
-      "lead_raw": "The yuan exchange rate against the ruble lost 2.4 kopecks as trading opened compared with previous closing to 11.771 rubles",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
