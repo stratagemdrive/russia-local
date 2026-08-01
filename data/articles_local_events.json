@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-08-01T00:01:30Z",
+  "updated_at_utc": "2026-08-01T04:20:21Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 21,
   "articles": [
+    {
+      "id": "6ec8b857b79f4a3a939c11ec08e9e3ae08e12e3c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27973397",
+      "published_utc": "2026-08-01T02:20:00Z",
+      "title_en": "Unmanned danger declared in Tatarstan",
+      "lead_en": "This was reported by the Russian Ministry of Emergency Situations in the republic",
+      "title_raw": "В Татарстане объявили беспилотную опасность",
+      "lead_raw": "Об этом сообщило МЧС России по республике",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "04fab16ccfb4e1dc2c6286e20c0ee04e479e5ed8",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27973361",
+      "published_utc": "2026-08-01T02:05:59Z",
+      "title_en": "Russian and Vietnamese sailors conducted rescue exercises",
+      "lead_en": "The soldiers practiced the task of rescuing the crew of a submarine lying on the ground, without actually withdrawing the submariners, the Pacific Fleet said",
+      "title_raw": "Военные моряки России и Вьетнама провели спасательные учения",
+      "lead_raw": "Бойцы отработали задачи спасения экипажа подлодки, лежащей на грунте, без фактического вывода подводников, рассказали в Тихоокеанском флоте",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "53501ff2a387fe764361e3a8e823b17303e27707",
       "source": "TASS (EN)",
@@ -384,44 +424,6 @@
       "topics": [
         "local_events"
       ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "7f1b6140540792e59879a86b2730cf495f9ea4f1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27966143",
-      "published_utc": "2026-07-30T03:06:28Z",
-      "title_en": "A company from St. Petersburg supplied airboats and speedboats for the Russian Ministry of Emergency Situations",
-      "lead_en": "",
-      "title_raw": "Компания из Петербурга поставила аэролодки и катера для МЧС России",
-      "lead_raw": "",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "f9e90f5779d19db410d2dbdbb20c85d6e8249a58",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27965941",
-      "published_utc": "2026-07-30T01:21:53Z",
-      "title_en": "Commander Kavkaz told how soldiers of the Russian Armed Forces lured the evacuation groups of the Ukrainian Armed Forces to themselves",
-      "lead_en": "Russian attack aircraft took possession of enemy radios",
-      "title_raw": "Командир Кавказ рассказал, как бойцы ВС РФ выманили на себя группы эвакуации ВСУ",
-      "lead_raw": "Российские штурмовики завладели рациями противника",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
       "primary_topic": "local_events"
     }
   ]
