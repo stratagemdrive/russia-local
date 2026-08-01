@@ -1,9 +1,52 @@
 {
-  "updated_at_utc": "2026-08-01T09:58:31Z",
+  "updated_at_utc": "2026-08-01T13:19:05Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 16,
   "articles": [
+    {
+      "id": "7c683e925e3269e840fbc163d2ec105068482816",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/08/01/russia-pounds-kyiv-with-missiles-killing-at-least-10-a93392",
+      "published_utc": "2026-08-01T12:52:00Z",
+      "title_en": "Russia Pounds Kyiv With Missiles, Killing At Least 10",
+      "lead_en": "This is the second major attack on Kyiv this week, with fires across the city and power outages reported in some areas.",
+      "title_raw": "Russia Pounds Kyiv With Missiles, Killing At Least 10",
+      "lead_raw": "This is the second major attack on Kyiv this week, with fires across the city and power outages reported in some areas.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "424c9788e1057409314c9fa5310cca5c119b41e8",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/08/01/russia-fired-record-number-of-missiles-at-ukraine-in-july-afp-analysis-a93394",
+      "published_utc": "2026-08-01T12:05:51Z",
+      "title_en": "Russia Fired Record Number of Missiles at Ukraine in July – AFP analysis",
+      "lead_en": "Russia launched 376 missiles at Ukraine during the month — more than twice the number fired in June.",
+      "title_raw": "Russia Fired Record Number of Missiles at Ukraine in July – AFP analysis",
+      "lead_raw": "Russia launched 376 missiles at Ukraine during the month — more than twice the number fired in June.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "85511849f989d26a0750a549f5f17e87236b164e",
       "source": "The Moscow Times",
@@ -290,44 +333,6 @@
         "military",
         "local_events"
       ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "3f185b4a98bc206792d6142e1fb019e121ae0f20",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2167301",
-      "published_utc": "2026-07-30T13:03:09Z",
-      "title_en": "European Commission confirms sanctions block Spain’s use of Ka-32 firefighting helicopters",
-      "lead_en": "Between 2004 and 2014, Spain purchased about 15 Russian Ka-32 helicopters",
-      "title_raw": "European Commission confirms sanctions block Spain’s use of Ka-32 firefighting helicopters",
-      "lead_raw": "Between 2004 and 2014, Spain purchased about 15 Russian Ka-32 helicopters",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "1ed64d9ef82137e9346bf698556ccff40d75d01a",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2167257",
-      "published_utc": "2026-07-30T11:56:13Z",
-      "title_en": "Rostec delivers batch of Planshet-M-IR artillery fire control vehicles to Russian army",
-      "lead_en": "The Planshet-M-IR system can effectively control fire on enemy targets from self-propelled and towed artillery, multiple launch rocket systems, and mortars",
-      "title_raw": "Rostec delivers batch of Planshet-M-IR artillery fire control vehicles to Russian army",
-      "lead_raw": "The Planshet-M-IR system can effectively control fire on enemy targets from self-propelled and towed artillery, multiple launch rocket systems, and mortars",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
       "primary_topic": "local_events"
     }
   ]
