@@ -1,8 +1,48 @@
 {
-  "updated_at_utc": "2026-08-02T21:55:30Z",
+  "updated_at_utc": "2026-08-02T22:55:52Z",
   "keep_hours": 48,
-  "count": 318,
+  "count": 315,
   "articles": [
+    {
+      "id": "9accd3087c52a9a8c6766de58877f69e84cdd1f7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27976613",
+      "published_utc": "2026-08-02T22:11:07Z",
+      "title_en": "Lvova-Belova reported on the condition of children injured during the Ukrainian Armed Forces attack on Princesvka",
+      "lead_en": "According to preliminary data, they are in a state of moderate severity, noted the Commissioner for Children's Rights under the President of the Russian Federation",
+      "title_raw": "Львова-Белова сообщила о состоянии пострадавших при атаке ВСУ на Принцевку детей",
+      "lead_raw": "По предварительным данным, они находятся в состоянии средней степени тяжести, отметила уполномоченный при президенте РФ по правам ребенка",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "1fbf1f7a93c1a5f54c802d89c4ea5425ce306f86",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27976617",
+      "published_utc": "2026-08-02T22:01:52Z",
+      "title_en": "Officer Polye spoke about reconnaissance to a depth of 30 km before the assault on Svetly",
+      "lead_en": "The Russian serviceman noted that thanks to these actions it was possible to identify reserves and determine the battle formations of enemy forces",
+      "title_raw": "Офицер Поле рассказал о разведке на глубину до 30 км перед штурмом Светлого",
+      "lead_raw": "Российский военнослужащий отметил, что благодаря этим действиям удалось выявить резервы и определить боевые порядки сил противника",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "2de15e8c52198547deec53f09e6a7900b2c8fbf6",
       "source": "TASS (RU)",
@@ -49,20 +89,18 @@
       "url": "https://tass.ru/politika/27976589",
       "published_utc": "2026-08-02T21:27:13Z",
       "title_en": "The Russian Federation warned Ireland of the serious consequences of attempts at maritime piracy",
-      "lead_en": "Legislative amendments allowing the Irish armed forces the “legal” ability to board sea vessels previously came into force in the republic.",
+      "lead_en": "Legislative amendments previously came into force in the republic that give the Irish Armed Forces the “legal” opportunity to board sea vessels under the pretext of combating violations of anti-Russian sanctions",
       "title_raw": "РФ предупредила Ирландию о серьезных последствиях попыток морского пиратства",
-      "lead_raw": "В республике ранее вступили в силу позволяющие ирландским вооруженным силам \"легальную\" возможность высадки на морские суда законодательные поправки",
+      "lead_raw": "В республике ранее вступили в силу законодательные поправки, которые дают ирландским ВС \"легальную\" возможность высадки на морские суда под предлогом борьбы с нарушением антироссийских санкций",
       "topic_scores": {
         "diplomacy": 0,
-        "military": 1,
+        "military": 0,
         "energy": 0,
-        "economy": 0,
+        "economy": 1,
         "local_events": 0
       },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
+      "topics": [],
+      "primary_topic": "economy"
     },
     {
       "id": "e98f4cc843f6bc5ca3dfbe580ff0312674009332",
@@ -6250,105 +6288,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "109bd2030c11c51a8264e5fec365f5cb61713158",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27973171",
-      "published_utc": "2026-07-31T22:33:24Z",
-      "title_en": "Stemmler-Heruzel, who received Russian citizenship, has developed tourist routes to Sakhalin",
-      "lead_en": "The German horse trainer added that she is planning a new project together with the general director of the Kremlin Riding School.",
-      "title_raw": "Получившая гражданство РФ Штэммлер-Герузел разработала турмаршруты на Сахалин",
-      "lead_raw": "Немецкий тренер-берейтор добавила, что планирует новый проект вместе с гендиректором \"Кремлевской школы верховой езды\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "c975c289a1b557c7dad4ca5c493559789ee6e32b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2167867",
-      "published_utc": "2026-07-31T22:18:00Z",
-      "title_en": "Russian forces hit over 80 vessels involved in cargo deliveries for Ukrainian army in July",
-      "lead_en": "Among them were two dry cargo ships, a sea ferry transporting military cargo and a screening boat, the Russian Defense Ministry said",
-      "title_raw": "Russian forces hit over 80 vessels involved in cargo deliveries for Ukrainian army in July",
-      "lead_raw": "Among them were two dry cargo ships, a sea ferry transporting military cargo and a screening boat, the Russian Defense Ministry said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "882b5eca7868427eb81d42e090a2c63eb67b1df0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27973153",
-      "published_utc": "2026-07-31T22:04:31Z",
-      "title_en": "Marochko announced the beginning of the destruction of Ukrainian Armed Forces soldiers in Shchurov by drone pilots of the Russian Armed Forces",
-      "lead_en": "Russian UAV operators are actively operating in the populated area, a military expert noted",
-      "title_raw": "Марочко сообщил о начале уничтожения дроноводами ВС РФ солдат ВСУ в Щурове",
-      "lead_raw": "Российские операторы БПЛА активно действуют в районе населенного пункта, отметил военный эксперт",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "005c652daecc4867ca1c932579f0c925b39719af",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27973147",
-      "published_utc": "2026-07-31T22:02:00Z",
-      "title_en": "A Russian company donated humanitarian aid to the state of La Guaira in Venezuela",
-      "lead_en": "The shipment consists of basic necessities and equipment for the arrangement of temporary accommodation centers, noted Charge d'Affaires of the Russian Federation Eduard Sokolov",
-      "title_raw": "Российская компания передала гумпомощь штату Ла-Гуайра в Венесуэле",
-      "lead_raw": "Партия состоит из предметов первой необходимости и оборудования для обустройства пунктов временного размещения, отметил временный поверенный РФ в делах республики Эдуард Соколов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "9e82148ab247c07daa53fb60c989f015f93745e4",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27973151",
-      "published_utc": "2026-07-31T22:01:24Z",
-      "title_en": "TASS: In July, the Russian Armed Forces hit over 80 sea vessels used in the interests of the Armed Forces of Ukraine",
-      "lead_en": "Over the course of a week, Russian forces hit 24 such targets.",
-      "title_raw": "ТАСС: ВС РФ за июль поразили свыше 80 используемых в интересах ВСУ морских судов",
-      "lead_raw": "За неделю российские силы поразили 24 таких цели",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
     }
   ]
 }
