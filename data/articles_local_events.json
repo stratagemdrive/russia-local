@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-08-02T18:02:51Z",
+  "updated_at_utc": "2026-08-02T20:09:41Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 13,
   "articles": [
+    {
+      "id": "1cad770cb44067cb6a48cf9f4142d06213468d33",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2168193",
+      "published_utc": "2026-08-02T18:49:43Z",
+      "title_en": "Over 35 minors killed, some 300 wounded in Ukraine’s attacks in 2026 — diplomat",
+      "lead_en": "\"Deliberate strikes against children, their murder, and the wounding of children constitute an appalling war crime committed by Ukrainian monsters,\" Russian Foreign Ministry’s Ambassador at Large Rodion Miroshnik said",
+      "title_raw": "Over 35 minors killed, some 300 wounded in Ukraine’s attacks in 2026 — diplomat",
+      "lead_raw": "\"Deliberate strikes against children, their murder, and the wounding of children constitute an appalling war crime committed by Ukrainian monsters,\" Russian Foreign Ministry’s Ambassador at Large Rodion Miroshnik said",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "a0a3a4d148a46e2d02e366742afc6508bc292114",
       "source": "TASS (EN)",
@@ -247,25 +268,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "53501ff2a387fe764361e3a8e823b17303e27707",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2167835",
-      "published_utc": "2026-07-31T18:43:52Z",
-      "title_en": "Kiev intensifies attacks on civilians, killing 61 Russians over past week — diplomat",
-      "lead_en": "327 people were injured",
-      "title_raw": "Kiev intensifies attacks on civilians, killing 61 Russians over past week — diplomat",
-      "lead_raw": "327 people were injured",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }

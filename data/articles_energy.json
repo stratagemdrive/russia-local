@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-08-02T18:02:51Z",
+  "updated_at_utc": "2026-08-02T20:09:41Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 17,
   "articles": [
+    {
+      "id": "e81005b2513a5380cc33042b3e49504415dcec78",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2168171",
+      "published_utc": "2026-08-02T18:55:06Z",
+      "title_en": "Russian drone operators hit gas station used by Ukrainian army in Kramatorsk",
+      "lead_en": "The station was used in the interests of the Ukrainian army, the Russian defense ministry said",
+      "title_raw": "Russian drone operators hit gas station used by Ukrainian army in Kramatorsk",
+      "lead_raw": "The station was used in the interests of the Ukrainian army, the Russian defense ministry said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "2c310c4997847dcd48fc0cf1b6304d301718b111",
       "source": "TASS (RU)",
@@ -342,27 +364,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "f1ee47068edd35a7a1a113a1905cff4e204e57e8",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27972911",
-      "published_utc": "2026-07-31T18:36:13Z",
-      "title_en": "Russia will not pay a contribution to the OECD nuclear agency, where it is blocked",
-      "lead_en": "The money will be sent to Rosatom",
-      "title_raw": "Россия не будет платить взнос в атомное агентство ОЭСР, где заблокирована",
-      "lead_raw": "Деньги направят Росатому",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
