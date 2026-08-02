@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-08-02T03:26:58Z",
+  "updated_at_utc": "2026-08-02T06:32:02Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 39,
+  "count": 36,
   "articles": [
+    {
+      "id": "e59c979fa62690e703b4dc0f7a6df29c8852922a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27975365",
+      "published_utc": "2026-08-02T05:03:49Z",
+      "title_en": "\"Vyberu.ru\": 52% of Russians have become more attentive to financial news",
+      "lead_en": "According to a survey of a financial marketplace, 29% of respondents reported that after news about changes in the economy, decisions of the Central Bank or fluctuations in exchange rates, the first thing they do is open a banking application and check the conditions for deposits",
+      "title_raw": "\"Выберу.ру\": 52% россиян стали внимательнее относиться к финансовым новостям",
+      "lead_raw": "Согласно опросу финансового маркетплейса, 29% респондентов сообщили, что после новостей об изменениях в экономике, решениях ЦБ или колебаниях курсов валют первым делом открывают банковское приложение и проверяют условия по вкладам и накопительным счетам",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "72ed9db1c3adfb7017199e96448664799c664669",
       "source": "TASS (RU)",
@@ -583,7 +604,7 @@
       "url": "https://tass.ru/ekonomika/27972157",
       "published_utc": "2026-07-31T13:51:37Z",
       "title_en": "The Ministry of Industry and Trade reported exceeding the plan for non-resource exports from the Russian Federation in 2025",
-      "lead_en": "The indicator exceeds the planned value by 7%, said Andrey Mironov, director of the department of international cooperation and licensing in the field of foreign trade of the Russian Ministry of Industry and Trade.",
+      "lead_en": "The indicator exceeds the planned value by 7%, said Andrei Mironov, director of the department of international cooperation and licensing in the field of foreign trade of the Russian Ministry of Industry and Trade.",
       "title_raw": "Минпромторг сообщил о превышении плана по несырьевому экспорту из РФ в 2025 году",
       "lead_raw": "Показатель превышает плановое значение на 7%, рассказал директор департамента международной кооперации и лицензирования в сфере внешней торговли Минпромторга России Андрей Миронов",
       "topic_scores": {
@@ -699,86 +720,6 @@
         "local_events"
       ],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "dd1bcbd75bc334738f34d5e16f75efbc208f4079",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27970387",
-      "published_utc": "2026-07-31T06:10:59Z",
-      "title_en": "The Ministry of Energy predicts that refining will reach a global level thanks to the modernization of refineries",
-      "lead_en": "According to the director of the oil and gas complex department of the ministry, Anton Rubtsov, Russia has created an oil refining industry with significant primary capacities that exceed the long-term needs of the domestic market across the entire range of products",
-      "title_raw": "Минэнерго прогнозирует вывод переработки на мировой уровень благодаря модернизации НПЗ",
-      "lead_raw": "По словам директора департамента нефтегазового комплекса министерства Антона Рубцова, в России создана нефтеперерабатывающая отрасль со значительными первичными мощностями, которые превышают потребности внутреннего рынка на долгосрочную перспективу по всей номенклатуре продукции",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "f3a5deffbf0afc95485120197f552e91cb0aa29e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27970129",
-      "published_utc": "2026-07-31T05:25:24Z",
-      "title_en": "The advantages of transferring the federal project \"Labor Productivity\" to the social sphere are named",
-      "lead_en": "The governor of the Ryazan region, chairman of the commission of the State Council of the Russian Federation in the direction of “Efficient and Competitive Economy” noted that the transfer should make services faster and more convenient for people, and free employees from unneces",
-      "title_raw": "Названы преимущества переноса федпроекта \"Производительность труда\" в соцсферу",
-      "lead_raw": "Губернатор Рязанской области, председатель комиссии Госсовета РФ по направлению \"Эффективная и конкурентная экономика\" отметил, что перенос должен сделать услуги для людей быстрее и удобнее, а сотрудников избавить от лишней бюрократии",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "4061360bbf941f80f71498b03519abc0e828fd4a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27970151",
-      "published_utc": "2026-07-31T04:47:35Z",
-      "title_en": "Russia is creating its own certification standard for oil and gas equipment",
-      "lead_en": "Energy companies together with engineers have already developed more than 400 domestic standards, said Doctor of Economics Alexey Fadeev",
-      "title_raw": "В России создают собственный стандарт сертификации нефтегазового оборудования",
-      "lead_raw": "Энергетические компании совместно с инженерами разработали уже более 400 отечественных стандартов, рассказал доктор экономических наук Алексей Фадеев",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "b357a584589d1f89c80fcd864ce418a94cfd022d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27967497",
-      "published_utc": "2026-07-31T04:30:00Z",
-      "title_en": "Flip a coin: what is cryptocurrency and how to invest in it",
-      "lead_en": "After many years of discussions, Russia has for the first time adopted a law that comprehensively regulates the crypto industry. While companies and the regulator are preparing regulations, we tell you how digital coins differ from non-cash money and the digital ruble, where their profitability comes from and what risks they carry",
-      "title_raw": "Закинь монетку: что такое криптовалюта и как в нее инвестировать",
-      "lead_raw": "После многолетних обсуждений в России впервые принят закон, комплексно регулирующий криптоотрасль. Пока компании и регулятор готовят нормативные акты, рассказываем, чем цифровые монеты отличаются от безналичных денег и цифрового рубля, откуда возникает их доходность и какие риски они несут",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
     }
   ]
 }
