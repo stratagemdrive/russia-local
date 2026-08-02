@@ -1,9 +1,66 @@
 {
-  "updated_at_utc": "2026-08-02T06:32:02Z",
+  "updated_at_utc": "2026-08-02T09:08:02Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 13,
+  "count": 14,
   "articles": [
+    {
+      "id": "29e622383ff18a9ffc487909c1d627c315a15b10",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27975685",
+      "published_utc": "2026-08-02T07:53:05Z",
+      "title_en": "In the Oryol region, a threat of drone attack was announced",
+      "lead_en": "The Russian Ministry of Emergency Situations in the region urged citizens to remain vigilant",
+      "title_raw": "В Орловской области объявили угрозу атаки беспилотников",
+      "lead_raw": "В МЧС России по региону призвали граждан сохранять бдительность",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "7e4b7b6acd2565979afd1da0ff816ce39de8399a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27975567",
+      "published_utc": "2026-08-02T06:53:59Z",
+      "title_en": "The air raid alert was canceled in the Tambov region",
+      "lead_en": "This was reported to the Main Directorate of the Ministry of Emergency Situations of Russia for the region",
+      "title_raw": "В Тамбовской области отменили воздушную тревогу",
+      "lead_raw": "Об этом сообщили в ГУ МЧС России по региону",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "cf550379062749bfa075d4518225a67018d887c6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27975557",
+      "published_utc": "2026-08-02T06:48:19Z",
+      "title_en": "In the Oryol region, the danger of a UAV attack has been canceled",
+      "lead_en": "This was reported to the Main Directorate of the Ministry of Emergency Situations of Russia for the region",
+      "title_raw": "В Орловской области отменили опасность атаки БПЛА",
+      "lead_raw": "Об этом сообщили в ГУ МЧС России по региону",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "658cba187a942bf4008a64c4cb4ca434af043bca",
       "source": "TASS (RU)",
@@ -225,49 +282,6 @@
         "local_events": 1
       },
       "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "a56aa879c6c3fc41b371116f8037089812926419",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2167567",
-      "published_utc": "2026-07-31T08:34:35Z",
-      "title_en": "Ukraine strikes may cause ZNPP nuke accident, but West to blame Russia — MP",
-      "lead_en": "The Zaporozhye NPP earlier reported that the Ukrainian armed forces had attacked the dry storage site for spent nuclear fuel",
-      "title_raw": "Ukraine strikes may cause ZNPP nuke accident, but West to blame Russia — MP",
-      "lead_raw": "The Zaporozhye NPP earlier reported that the Ukrainian armed forces had attacked the dry storage site for spent nuclear fuel",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "d2d4a9bd83fc2608da3633c40aa43e6a1eca43e2",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/31/ukraine-hits-two-more-wildberries-warehouses-in-russia",
-      "published_utc": "2026-07-31T07:43:53Z",
-      "title_en": "Ukraine hits two more Wildberries warehouses in Russia",
-      "lead_en": "A fire broke out at a Wildberries marketplace logistics facility in Volgograd following a Ukrainian drone attack, the company said. No employees were injured, according to preliminary reports.",
-      "title_raw": "Ukraine hits two more Wildberries warehouses in Russia",
-      "lead_raw": "A fire broke out at a Wildberries marketplace logistics facility in Volgograd following a Ukrainian drone attack, the company said. No employees were injured, according to preliminary reports.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
       "primary_topic": "local_events"
     }
   ]

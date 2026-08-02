@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-08-02T06:32:02Z",
+  "updated_at_utc": "2026-08-02T09:08:02Z",
   "keep_hours": 48,
   "topic": "economy",
   "count": 36,
   "articles": [
+    {
+      "id": "6519db9719a7561042c5046aaecab3d35778c083",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27975725",
+      "published_utc": "2026-08-02T08:44:04Z",
+      "title_en": "Politician Isihos called the West’s war against Russia the EU’s economic suicide",
+      "lead_en": "A member of the leadership of the Greek People's Unity party sharply criticized the actions of the United States to incite military conflicts in different countries and the actions of Western states that essentially launched a war against Russia",
+      "title_raw": "Политик Исихос назвал войну Западу против РФ экономическим самоубийством ЕС",
+      "lead_raw": "Член руководства греческой партии \"Народное единство\" подверг резкой критике действия США по разжиганию военных конфликтов в разных странах и действия западных государств, развернувших по сути войну против России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "2aba0301484ce7aaa893c790ed69da09def011b9",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27975587",
+      "published_utc": "2026-08-02T07:01:21Z",
+      "title_en": "Political scientist Martynov believes that Armenia will not leave the EAEU",
+      "lead_en": "The republic’s economy receives enormous benefits from participation in the union, said an associate professor at the Financial University under the Government of the Russian Federation",
+      "title_raw": "Политолог Мартынов считает, что Армения не выйдет из ЕАЭС",
+      "lead_raw": "Экономика республики получает от участия в союзе колоссальную выгоду, заявил доцент Финансового университета при правительстве РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
     {
       "id": "e59c979fa62690e703b4dc0f7a6df29c8852922a",
       "source": "TASS (RU)",
@@ -680,46 +720,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "c6b93da217ee9fc8cb353dbeddf5763d102343b8",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2167571",
-      "published_utc": "2026-07-31T08:59:07Z",
-      "title_en": "Chinese digital entertainment firms eye expansion in Russian market — VK",
-      "lead_en": "Chinese advertisers invested more than $32.8 mln in promotion across VK's platforms in 2025",
-      "title_raw": "Chinese digital entertainment firms eye expansion in Russian market — VK",
-      "lead_raw": "Chinese advertisers invested more than $32.8 mln in promotion across VK's platforms in 2025",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "d2d4a9bd83fc2608da3633c40aa43e6a1eca43e2",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/31/ukraine-hits-two-more-wildberries-warehouses-in-russia",
-      "published_utc": "2026-07-31T07:43:53Z",
-      "title_en": "Ukraine hits two more Wildberries warehouses in Russia",
-      "lead_en": "A fire broke out at a Wildberries marketplace logistics facility in Volgograd following a Ukrainian drone attack, the company said. No employees were injured, according to preliminary reports.",
-      "title_raw": "Ukraine hits two more Wildberries warehouses in Russia",
-      "lead_raw": "A fire broke out at a Wildberries marketplace logistics facility in Volgograd following a Ukrainian drone attack, the company said. No employees were injured, according to preliminary reports.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
     }
   ]
 }
