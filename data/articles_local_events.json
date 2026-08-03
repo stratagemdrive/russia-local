@@ -1,8 +1,8 @@
 {
-  "updated_at_utc": "2026-08-03T11:21:50Z",
+  "updated_at_utc": "2026-08-03T14:37:12Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 22,
+  "count": 21,
   "articles": [
     {
       "id": "d180075e31919595d4b7203d5661c465119ce753",
@@ -134,6 +134,25 @@
       "title_en": "At Least 8 Killed in Overnight Ukrainian Attacks Across Russia and Crimea",
       "lead_en": "In the central Vladimir region, drone strikes set a Wildberries warehouse ablaze, the latest attack in Ukraine’s campaign against the company.",
       "title_raw": "At Least 8 Killed in Overnight Ukrainian Attacks Across Russia and Crimea",
+      "lead_raw": "In the central Vladimir region, drone strikes set a Wildberries warehouse ablaze, the latest attack in Ukraine’s campaign against the company.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "e2b8a7e0c46893f397cf386fa180bc2593000503",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/08/03/at-least-11-killed-in-ukrainian-attacks-in-southern-russia-and-annexed-crimea-a93397",
+      "published_utc": "2026-08-03T07:44:00Z",
+      "title_en": "At Least 11 Killed in Ukrainian Attacks in Southern Russia and Annexed Crimea",
+      "lead_en": "In the central Vladimir region, drone strikes set a Wildberries warehouse ablaze, the latest attack in Ukraine’s campaign against the company.",
+      "title_raw": "At Least 11 Killed in Ukrainian Attacks in Southern Russia and Annexed Crimea",
       "lead_raw": "In the central Vladimir region, drone strikes set a Wildberries warehouse ablaze, the latest attack in Ukraine’s campaign against the company.",
       "topic_scores": {
         "diplomacy": 0,
@@ -404,49 +423,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "7c683e925e3269e840fbc163d2ec105068482816",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/08/01/russia-pounds-kyiv-with-missiles-killing-at-least-10-a93392",
-      "published_utc": "2026-08-01T12:52:00Z",
-      "title_en": "Russia Pounds Kyiv With Missiles, Killing At Least 10",
-      "lead_en": "This is the second major attack on Kyiv this week, with fires across the city and power outages reported in some areas.",
-      "title_raw": "Russia Pounds Kyiv With Missiles, Killing At Least 10",
-      "lead_raw": "This is the second major attack on Kyiv this week, with fires across the city and power outages reported in some areas.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "424c9788e1057409314c9fa5310cca5c119b41e8",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/08/01/russia-fired-record-number-of-missiles-at-ukraine-in-july-afp-analysis-a93394",
-      "published_utc": "2026-08-01T12:05:51Z",
-      "title_en": "Russia Fired Record Number of Missiles at Ukraine in July – AFP analysis",
-      "lead_en": "Russia launched 376 missiles at Ukraine during the month — more than twice the number fired in June.",
-      "title_raw": "Russia Fired Record Number of Missiles at Ukraine in July – AFP analysis",
-      "lead_raw": "Russia launched 376 missiles at Ukraine during the month — more than twice the number fired in June.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
