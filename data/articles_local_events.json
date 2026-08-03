@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-08-02T22:55:52Z",
+  "updated_at_utc": "2026-08-03T03:44:19Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 13,
+  "count": 12,
   "articles": [
+    {
+      "id": "d6764340aa21072bfca3cc26bb9e6f53b6138e64",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27976733",
+      "published_utc": "2026-08-03T01:00:50Z",
+      "title_en": "Fighter Czech: The Ukrainian Armed Forces are deliberately targeting evacuation vehicles of the Russian Armed Forces near Kharkov",
+      "lead_en": "Ukrainian militants also regularly attack employees of the Ministry of Emergency Situations and workers of other special services, said the deputy battalion commander of the North group of forces, who refused to fight for the NATO alliance on the Czech side and went over to serve",
+      "title_raw": "Боец Чех: ВСУ целенаправленно бьют по машинам эвакуации ВС РФ под Харьковом",
+      "lead_raw": "Украинские боевики также регулярно атакуют сотрудников МЧС и работников других спецслужб, заявил заместитель командира батальона группировки войск \"Север\", отказавшийся воевать за альянс НАТО со стороны Чехии и перешедший служить на сторону ВС РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "1cad770cb44067cb6a48cf9f4142d06213468d33",
       "source": "TASS (EN)",
@@ -228,46 +250,6 @@
         "local_events"
       ],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "6ec8b857b79f4a3a939c11ec08e9e3ae08e12e3c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27973397",
-      "published_utc": "2026-08-01T02:20:00Z",
-      "title_en": "Unmanned danger declared in Tatarstan",
-      "lead_en": "This was reported by the Russian Ministry of Emergency Situations in the republic",
-      "title_raw": "В Татарстане объявили беспилотную опасность",
-      "lead_raw": "Об этом сообщило МЧС России по республике",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "04fab16ccfb4e1dc2c6286e20c0ee04e479e5ed8",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27973361",
-      "published_utc": "2026-08-01T02:05:59Z",
-      "title_en": "Russian and Vietnamese sailors conducted rescue exercises",
-      "lead_en": "The soldiers practiced the task of rescuing the crew of a submarine lying on the ground, without actually withdrawing the submariners, the Pacific Fleet said",
-      "title_raw": "Военные моряки России и Вьетнама провели спасательные учения",
-      "lead_raw": "Бойцы отработали задачи спасения экипажа подлодки, лежащей на грунте, без фактического вывода подводников, рассказали в Тихоокеанском флоте",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
