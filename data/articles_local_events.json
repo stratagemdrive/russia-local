@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-08-03T14:37:12Z",
+  "updated_at_utc": "2026-08-03T17:08:18Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 21,
+  "count": 22,
   "articles": [
+    {
+      "id": "0538a77ddc4e137a338a2663de13a4d6d9fa430f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27979437",
+      "published_utc": "2026-08-03T16:42:25Z",
+      "title_en": "TASS: in Ukraine, rescuers paid bribes for a chance to escape from the country",
+      "lead_en": "They carried out this under the guise of a business trip, noted the Russian security forces",
+      "title_raw": "ТАСС: на Украине спасатели давали взятки за шанс сбежать из страны",
+      "lead_raw": "Они осуществляли это под видом командировки, отметили в российских силовых структурах",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "c986f90885b18bcaaff10a305e4fa2b49009c24d",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/08/03/ukrainian-drone-crashes-on-beach-with-vacationers-at-russian-black-sea-resort-as-warning-system-fails-to-sound-seven-people-killed",
+      "published_utc": "2026-08-03T15:56:28Z",
+      "title_en": "Ukrainian drone crashes on beach with vacationers at Russian Black Sea resort as warning system fails to sound. Seven people killed.",
+      "lead_en": "Six people, including three children, were killed in a Ukrainian drone attack on the village of Arkhipo-Osipovka near Gelendzhik, Krasnodar Krai Governor Veniamin Kondratyev said.",
+      "title_raw": "Ukrainian drone crashes on beach with vacationers at Russian Black Sea resort as warning system fails to sound. Seven people killed.",
+      "lead_raw": "Six people, including three children, were killed in a Ukrainian drone attack on the village of Arkhipo-Osipovka near Gelendzhik, Krasnodar Krai Governor Veniamin Kondratyev said.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "d180075e31919595d4b7203d5661c465119ce753",
       "source": "Meduza (EN)",
@@ -331,7 +371,7 @@
       "url": "https://tass.ru/proisshestviya/27975567",
       "published_utc": "2026-08-02T06:53:59Z",
       "title_en": "The air raid alert was canceled in the Tambov region",
-      "lead_en": "This was reported to the Main Directorate of the Ministry of Emergency Situations of Russia for the region.",
+      "lead_en": "This was reported to the Main Directorate of the Ministry of Emergency Situations of Russia for the region",
       "title_raw": "В Тамбовской области отменили воздушную тревогу",
       "lead_raw": "Об этом сообщили в ГУ МЧС России по региону",
       "topic_scores": {
@@ -350,7 +390,7 @@
       "url": "https://tass.ru/proisshestviya/27975557",
       "published_utc": "2026-08-02T06:48:19Z",
       "title_en": "In the Oryol region, the danger of a UAV attack has been canceled",
-      "lead_en": "This was reported to the Main Directorate of the Ministry of Emergency Situations of Russia for the region.",
+      "lead_en": "This was reported to the Main Directorate of the Ministry of Emergency Situations of Russia for the region",
       "title_raw": "В Орловской области отменили опасность атаки БПЛА",
       "lead_raw": "Об этом сообщили в ГУ МЧС России по региону",
       "topic_scores": {
@@ -403,25 +443,6 @@
       "topics": [
         "local_events"
       ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "92fb9665c5bc040d87038d93fed1928f8d7ee311",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27974789",
-      "published_utc": "2026-08-01T18:20:33Z",
-      "title_en": "Victims of the explosion in Moscow are receiving assistance",
-      "lead_en": "This information was reported by Assistant Minister of Health of the Russian Federation Alexey Kuznetsov",
-      "title_raw": "Пострадавшим при взрыве в Москве оказывают помощь",
-      "lead_raw": "Эту информацию сообщил помощник министра здравоохранения РФ Алексей Кузнецов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
       "primary_topic": "local_events"
     }
   ]
