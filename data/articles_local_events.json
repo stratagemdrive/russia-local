@@ -1,9 +1,87 @@
 {
-  "updated_at_utc": "2026-08-03T03:44:19Z",
+  "updated_at_utc": "2026-08-03T07:24:44Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 12,
+  "count": 15,
   "articles": [
+    {
+      "id": "c9a8b3a5477e5c90d755eb055c205e5d35f2ed3d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27977413",
+      "published_utc": "2026-08-03T07:03:42Z",
+      "title_en": "Kurenkov: Russia may face unpredictable emergencies",
+      "lead_en": "A local failure or incident at one externally isolated node can instantly spread to related industries, the head of the Ministry of Emergency Situations said",
+      "title_raw": "Куренков: Россия может столкнуться с непрогнозированными ЧС",
+      "lead_raw": "Локальный сбой или инцидент на одном, внешне изолированном узле может мгновенно распространиться на смежные отрасли, заявил глава МЧС",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "ffe5c0a383dce7661adc388d1be99bd3f84009d7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27977363",
+      "published_utc": "2026-08-03T06:53:43Z",
+      "title_en": "Aviation danger declared in Oryol region",
+      "lead_en": "The Regional Directorate of the Ministry of Emergency Situations of Russia urged citizens to remain vigilant",
+      "title_raw": "В Орловской области объявили авиационную опасность",
+      "lead_raw": "В ГУ МЧС России по региону призвали граждан сохранять бдительность",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "df642a77ddc962aa7a8ac7e427d441d5a5b07d90",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2168251",
+      "published_utc": "2026-08-03T06:10:58Z",
+      "title_en": "Ukrainian army carries out over 1,600 attacks on Russia’s Belgorod Region in past week",
+      "lead_en": "Fourteen local residents were killed and over 100 were injured",
+      "title_raw": "Ukrainian army carries out over 1,600 attacks on Russia’s Belgorod Region in past week",
+      "lead_raw": "Fourteen local residents were killed and over 100 were injured",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "622580c6a591950f5de65d231fc769c3d764e9aa",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2168245",
+      "published_utc": "2026-08-03T05:38:20Z",
+      "title_en": "Drone strike causes fire at logistics facility in Russia’s Vladimir Region",
+      "lead_en": "According to preliminary information, there were no casualties",
+      "title_raw": "Drone strike causes fire at logistics facility in Russia’s Vladimir Region",
+      "lead_raw": "According to preliminary information, there were no casualties",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "d6764340aa21072bfca3cc26bb9e6f53b6138e64",
       "source": "TASS (RU)",
@@ -93,7 +171,7 @@
       "url": "https://tass.ru/proisshestviya/27975567",
       "published_utc": "2026-08-02T06:53:59Z",
       "title_en": "The air raid alert was canceled in the Tambov region",
-      "lead_en": "This was reported to the Main Directorate of the Ministry of Emergency Situations of Russia for the region",
+      "lead_en": "This was reported to the Main Directorate of the Ministry of Emergency Situations of Russia for the region.",
       "title_raw": "В Тамбовской области отменили воздушную тревогу",
       "lead_raw": "Об этом сообщили в ГУ МЧС России по региону",
       "topic_scores": {
@@ -112,7 +190,7 @@
       "url": "https://tass.ru/proisshestviya/27975557",
       "published_utc": "2026-08-02T06:48:19Z",
       "title_en": "In the Oryol region, the danger of a UAV attack has been canceled",
-      "lead_en": "This was reported to the Main Directorate of the Ministry of Emergency Situations of Russia for the region",
+      "lead_en": "This was reported to the Main Directorate of the Ministry of Emergency Situations of Russia for the region.",
       "title_raw": "В Орловской области отменили опасность атаки БПЛА",
       "lead_raw": "Об этом сообщили в ГУ МЧС России по региону",
       "topic_scores": {
@@ -228,28 +306,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "85511849f989d26a0750a549f5f17e87236b164e",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/08/01/russia-pounds-kyiv-with-missiles-killing-at-least-9-a93392",
-      "published_utc": "2026-08-01T06:22:33Z",
-      "title_en": "Russia Pounds Kyiv With Missiles, Killing At Least 9",
-      "lead_en": "This is the second major attack on Kyiv this week, with fires across the city and power outages reported in some areas.",
-      "title_raw": "Russia Pounds Kyiv With Missiles, Killing At Least 9",
-      "lead_raw": "This is the second major attack on Kyiv this week, with fires across the city and power outages reported in some areas.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
     }
   ]
 }
