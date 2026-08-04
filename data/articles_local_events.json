@@ -1,9 +1,47 @@
 {
-  "updated_at_utc": "2026-08-04T04:13:12Z",
+  "updated_at_utc": "2026-08-04T07:38:37Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 19,
   "articles": [
+    {
+      "id": "c237262e94899452456a3b087f9b0314161e665a",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/08/04/ukrainian-drone-attack-kills-five-in-moscow-region-wildberries-warehouse-on-fire-in-russia-s-leningrad-region",
+      "published_utc": "2026-08-04T07:22:05Z",
+      "title_en": "Ukrainian drone attack kills five in Moscow region. Wildberries warehouse on fire in Russia’s Leningrad Region.",
+      "lead_en": "Ukrainian drones struck Moscow region overnight on August 4, killing five people and injuring six others, Governor Andrey Vorobyov reported.",
+      "title_raw": "Ukrainian drone attack kills five in Moscow region. Wildberries warehouse on fire in Russia’s Leningrad Region.",
+      "lead_raw": "Ukrainian drones struck Moscow region overnight on August 4, killing five people and injuring six others, Governor Andrey Vorobyov reported.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "ba4e78ca6c44d2876824c70470b72b3f6388db20",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27980823",
+      "published_utc": "2026-08-04T06:31:08Z",
+      "title_en": "A drone danger regime has been declared in the Kaluga region",
+      "lead_en": "The Russian Ministry of Emergency Situations warned about this",
+      "title_raw": "В Калужской области объявили режим беспилотной опасности",
+      "lead_raw": "Об этом предупредили в МЧС России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "0538a77ddc4e137a338a2663de13a4d6d9fa430f",
       "source": "TASS (RU)",
@@ -209,7 +247,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/obschestvo/27977413",
       "published_utc": "2026-08-03T07:03:42Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Kurenkov: Russia may face unpredictable emergencies",
       "lead_en": "A local failure or incident at one externally isolated node can instantly spread to related industries, the head of the Ministry of Emergency Situations said",
       "title_raw": "Куренков: Россия может столкнуться с непрогнозированными ЧС",
       "lead_raw": "Локальный сбой или инцидент на одном, внешне изолированном узле может мгновенно распространиться на смежные отрасли, заявил глава МЧС",
@@ -228,8 +266,8 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/proisshestviya/27977363",
       "published_utc": "2026-08-03T06:53:43Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Aviation danger declared in Oryol region",
+      "lead_en": "The Regional Directorate of the Ministry of Emergency Situations of Russia urged citizens to remain vigilant",
       "title_raw": "В Орловской области объявили авиационную опасность",
       "lead_raw": "В ГУ МЧС России по региону призвали граждан сохранять бдительность",
       "topic_scores": {
@@ -333,44 +371,6 @@
       "lead_en": "The Russian Ministry of Emergency Situations in the region urged citizens to remain vigilant",
       "title_raw": "В Орловской области объявили угрозу атаки беспилотников",
       "lead_raw": "В МЧС России по региону призвали граждан сохранять бдительность",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "7e4b7b6acd2565979afd1da0ff816ce39de8399a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27975567",
-      "published_utc": "2026-08-02T06:53:59Z",
-      "title_en": "The air raid alert was canceled in the Tambov region",
-      "lead_en": "This was reported to the Main Directorate of the Ministry of Emergency Situations of Russia for the region.",
-      "title_raw": "В Тамбовской области отменили воздушную тревогу",
-      "lead_raw": "Об этом сообщили в ГУ МЧС России по региону",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "cf550379062749bfa075d4518225a67018d887c6",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27975557",
-      "published_utc": "2026-08-02T06:48:19Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "This was reported to the Main Directorate of the Ministry of Emergency Situations of Russia for the region.",
-      "title_raw": "В Орловской области отменили опасность атаки БПЛА",
-      "lead_raw": "Об этом сообщили в ГУ МЧС России по региону",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
