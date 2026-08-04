@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-08-04T18:26:21Z",
+  "updated_at_utc": "2026-08-04T22:10:51Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 21,
+  "count": 22,
   "articles": [
+    {
+      "id": "1fcad1cb72302ecb7a56f004394e68c0681fbcec",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27983245",
+      "published_utc": "2026-08-04T21:24:03Z",
+      "title_en": "Two lost Russian tourists rescued in Seychelles",
+      "lead_en": "The search and rescue operation lasted about 14 hours",
+      "title_raw": "На Сейшелах спасли двух заблудившихся российских туристов",
+      "lead_raw": "Поисково-спасательная операция продолжалась около 14 часов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "198b305b93998e473fa701ce2205d8b84a6d5c5d",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2169025",
+      "published_utc": "2026-08-04T21:01:51Z",
+      "title_en": "UNICEF calls on Ukraine to honor international humanitarian law after attack on Gelendzhik",
+      "lead_en": "The United Nations Children's Fund noted in a statement posted on its website that over the past several days, \"children have again been killed and injured in attacks in the Russian Federation\"",
+      "title_raw": "UNICEF calls on Ukraine to honor international humanitarian law after attack on Gelendzhik",
+      "lead_raw": "The United Nations Children's Fund noted in a statement posted on its website that over the past several days, \"children have again been killed and injured in attacks in the Russian Federation\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "156389725c17bd3cc97c2a0856310de4e6437d38",
       "source": "Meduza (EN)",
@@ -112,8 +152,8 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/proisshestviya/27980823",
       "published_utc": "2026-08-04T06:31:08Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "A drone danger regime has been declared in the Kaluga region",
+      "lead_en": "The Russian Ministry of Emergency Situations warned about this",
       "title_raw": "В Калужской области объявили режим беспилотной опасности",
       "lead_raw": "Об этом предупредили в МЧС России",
       "topic_scores": {
@@ -131,7 +171,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/armiya-i-opk/27979437",
       "published_utc": "2026-08-03T16:42:25Z",
-      "title_en": "TASS: in Ukraine, rescuers paid bribes for a chance to escape from the country",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "lead_en": "They carried out this under the guise of a business trip, noted the Russian security forces",
       "title_raw": "ТАСС: на Украине спасатели давали взятки за шанс сбежать из страны",
       "lead_raw": "Они осуществляли это под видом командировки, отметили в российских силовых структурах",
@@ -213,7 +253,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/proisshestviya/27978153",
       "published_utc": "2026-08-03T09:55:14Z",
-      "title_en": "In Adygea, the unmanned threat was canceled",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "lead_en": "This was reported to the Russian Ministry of Emergency Situations",
       "title_raw": "В Адыгее отменили беспилотную опасность",
       "lead_raw": "Об этом сообщили в МЧС России",
@@ -403,27 +443,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "1cad770cb44067cb6a48cf9f4142d06213468d33",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2168193",
-      "published_utc": "2026-08-02T18:49:43Z",
-      "title_en": "Over 35 minors killed, some 300 wounded in Ukraine’s attacks in 2026 — diplomat",
-      "lead_en": "\"Deliberate strikes against children, their murder, and the wounding of children constitute an appalling war crime committed by Ukrainian monsters,\" Russian Foreign Ministry’s Ambassador at Large Rodion Miroshnik said",
-      "title_raw": "Over 35 minors killed, some 300 wounded in Ukraine’s attacks in 2026 — diplomat",
-      "lead_raw": "\"Deliberate strikes against children, their murder, and the wounding of children constitute an appalling war crime committed by Ukrainian monsters,\" Russian Foreign Ministry’s Ambassador at Large Rodion Miroshnik said",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
