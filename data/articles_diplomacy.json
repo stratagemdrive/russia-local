@@ -1,18 +1,39 @@
 {
-  "updated_at_utc": "2026-08-06T00:03:59Z",
+  "updated_at_utc": "2026-08-06T04:11:30Z",
   "keep_hours": 48,
   "topic": "diplomacy",
-  "count": 76,
+  "count": 70,
   "articles": [
     {
-      "id": "820606733d0a394be2f509d968aa3d67b0483a00",
+      "id": "9cf8b906157465cac59f4df4655722e63f178566",
       "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27986953",
-      "published_utc": "2026-08-05T23:21:43Z",
-      "title_en": "The Ambassador in Moscow spoke about AI specialists from the Russian Federation and Pakistan",
-      "lead_en": "As Faisal Niyaz Tirmizi noted, they are “capable of working miracles”",
-      "title_raw": "Посол в Москве рассказал о специалистах в области ИИ из РФ и Пакистана",
-      "lead_raw": "Как отметил Файсал Нияз Тирмизи, они \"способны творить чудеса\"",
+      "url": "https://tass.ru/politika/27987373",
+      "published_utc": "2026-08-06T03:45:29Z",
+      "title_en": "Galuzin called Kyiv a threat to the economic security of all of Eurasia",
+      "lead_en": "The Ukrainian Armed Forces' attacks on civilian infrastructure and the Caspian Pipeline Consortium showed the terrorist nature of the Kyiv regime, said the Deputy Head of the Russian Foreign Ministry",
+      "title_raw": "Галузин назвал Киев угрозой экономической безопасности всей Евразии",
+      "lead_raw": "Атаки ВСУ на мирную инфраструктуру и Каспийский трубопроводный консорциум показали террористическую сущность киевского режима, заявил замглавы МИД России",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "8d48c78d37a18e52627fd48c480e06404d96535b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27987211",
+      "published_utc": "2026-08-06T02:31:51Z",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "Faisal Niyaz Tirmizi noted that the republic wants to “develop tourism from Russia and the entire Eurasian Union”",
+      "title_raw": "Посол Пакистана в Москве сообщил о работе над расширением авиасообщения с РФ",
+      "lead_raw": "Файсал Нияз Тирмизи отметил, что республика хочет \"развивать туризм из России и всего Евразийского союза\"",
       "topic_scores": {
         "diplomacy": 1,
         "military": 0,
@@ -52,7 +73,7 @@
       "url": "https://tass.ru/politika/27986875",
       "published_utc": "2026-08-05T22:02:08Z",
       "title_en": "Ambassador Garmonin spoke about the pro-Kiev policy of Switzerland and the demonization of the Russian Federation",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "The diplomat noted that the Swiss intelligence service and several local politicians regularly try to present Russia as a fundamental threat to the country's security",
       "title_raw": "Посол Гармонин рассказал о прокиевской политике Швейцарии и демонизации РФ",
       "lead_raw": "Дипломат отметил, что швейцарская разведслужба и несколько местных политиков регулярно пытаются преподнести Россию в качестве основополагающей угрозы безопасности страны",
       "topic_scores": {
@@ -108,27 +129,6 @@
       "topics": [
         "diplomacy",
         "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "aaf84fdf94c7e872528ed98c40f25ffde1939495",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27986851",
-      "published_utc": "2026-08-05T21:15:49Z",
-      "title_en": "The Ambassador of Pakistan considers it important to strengthen the “connection” with the Russian Federation, Armenia and Azerbaijan",
-      "lead_en": "Faisal Niaz Tirmizi is pleased that Islamabad has established relations with Yerevan",
-      "title_raw": "Посол Пакистана считает важным укрепить \"связку\" с РФ, Арменией и Азербайджаном",
-      "lead_raw": "Файсал Нияз Тирмизи рад тому, что Исламабад установил отношения с Ереваном",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
       ],
       "primary_topic": "diplomacy"
     },
@@ -264,7 +264,7 @@
       "url": "https://tass.ru/sport/27986735",
       "published_utc": "2026-08-05T19:43:30Z",
       "title_en": "Zenit players started the Russian Cup with a victory over Baltika",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "The meeting in St. Petersburg ended with a score of 1:0",
       "title_raw": "Футболисты \"Зенита\" стартовали в Кубке России с победы над \"Балтикой\"",
       "lead_raw": "Встреча в Петербурге завершилась со счетом 1:0",
       "topic_scores": {
@@ -327,7 +327,7 @@
       "url": "https://tass.ru/politika/27986585",
       "published_utc": "2026-08-05T17:59:46Z",
       "title_en": "Zakharova: Macron orders Kyiv to carry out terrorist attacks",
-      "lead_en": "The official representative of the Russian Foreign Ministry drew attention to the words of the French President that the EU will continue to increase pressure on the Russian Federation",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_raw": "Захарова: Макрон приказывает Киеву совершать теракты",
       "lead_raw": "Официальный представитель МИД России обратила внимание на слова президента Франции о том, что ЕС будет продолжать усиливать давление на РФ",
       "topic_scores": {
@@ -348,7 +348,7 @@
       "url": "https://tass.ru/politika/27986537",
       "published_utc": "2026-08-05T17:39:56Z",
       "title_en": "Russian Foreign Ministry: Western “partners” at the UN justify the crimes of Nazism",
-      "lead_en": "Director of the Department of Multilateral Cooperation for Human Rights Grigory Lukyantsev noted that if it were possible to record their statements and post them in the public domain, it would be an information bomb",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_raw": "МИД РФ: западные \"партнеры\" в ООН оправдывают преступления нацизма",
       "lead_raw": "Директор департамента многостороннего сотрудничества по правам человека Григорий Лукьянцев отметил, что если бы можно было записать их заявления и разместить в публичном доступе, это было бы информационной бомбой",
       "topic_scores": {
@@ -390,7 +390,7 @@
       "url": "https://tass.ru/proisshestviya/27986531",
       "published_utc": "2026-08-05T17:32:06Z",
       "title_en": "Russian diplomats in Israel are monitoring the situation with the disappearance of a Russian historian",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "Russian Ambassador to Tel Aviv Anatoly Viktorov clarified that the diplomatic mission has not yet received any requests from orientalist Artem Kirpichenko",
       "title_raw": "Дипломаты РФ в Израиле следят за ситуацией с исчезновением российского историка",
       "lead_raw": "Посол России в Тель-Авиве Анатолий Викторов уточнил, что обращений от востоковеда Артема Кирпиченка диппредставительство пока не получало",
       "topic_scores": {
@@ -452,7 +452,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/obschestvo/27986449",
       "published_utc": "2026-08-05T16:50:11Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Putin has no doubt that Russia will win and have everything",
       "lead_en": "At a meeting with the head of state, the chairman of the Union of Theater Workers, Vladimir Mashkov, told how in 1945, People's Artist of the RSFSR Stanislav Lyubshin met the Victory",
       "title_raw": "Путин не сомневается, что Россия победит и все у нее будет",
       "lead_raw": "На встрече с главой государства председатель Союза театральных деятелей Владимир Машков рассказал, как в 1945-м Победу встречал народный артист РСФСР Станислав Любшин",
@@ -474,7 +474,7 @@
       "url": "https://tass.ru/armiya-i-opk/27985885",
       "published_utc": "2026-08-05T16:07:06Z",
       "title_en": "Castling in the Ministry of Defense. What changes has Putin made and what will they change in the Russian army?",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "On August 5, Russian President Vladimir Putin held a meeting with the leadership of the military department, the topic of which was improving the structure of the ministry",
       "title_raw": "Рокировки в Минобороны. Какие перестановки сделал Путин и что они изменят в армии России?",
       "lead_raw": "Президент России Владимир Путин 5 августа провел встречу с руководством военного ведомства, темой которой стало совершенствование структуры министерства",
       "topic_scores": {
@@ -491,33 +491,12 @@
       "primary_topic": "military"
     },
     {
-      "id": "9ef609f3cba77c3042b5fe311686730ad3717bfb",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27986155",
-      "published_utc": "2026-08-05T15:04:48Z",
-      "title_en": "The Russian futsal team played a draw with the Afghan team at a tournament in Thailand",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Сборная РФ по футзалу сыграла вничью с командой Афганистана на турнире в Таиланде",
-      "lead_raw": "Встреча завершилась со счетом 3:3",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
       "id": "0eafec59cc37f461a7ee6f51e06290ef1f978791",
       "source": "TASS (RU)",
       "url": "https://tass.ru/proisshestviya/27986117",
       "published_utc": "2026-08-05T14:56:32Z",
       "title_en": "In Pattaya, a Russian woman was sentenced to nine months in prison for fraud",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "She offered mediation services in obtaining visas, driver's licenses and other documents, posing as the wife of a Russian diplomat",
       "title_raw": "В Паттайе приговорил россиянку к девяти месяцам тюрьмы за мошенничество",
       "lead_raw": "Она предлагала посреднические услуги в оформлении виз, водительских прав и других документов, представляясь женой российского дипломата",
       "topic_scores": {
@@ -689,7 +668,7 @@
       "url": "https://tass.ru/armiya-i-opk/27984943",
       "published_utc": "2026-08-05T09:41:43Z",
       "title_en": "Putin's meeting with the leadership of the Ministry of Defense. Video broadcast has ended",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "The Russian leader asked to report on the situation in the special operation zone",
       "title_raw": "Встреча Путина с руководством Минобороны. Видеотрансляция завершена",
       "lead_raw": "Российский лидер попросил доложить о ситуации в зоне спецоперации",
       "topic_scores": {
@@ -797,7 +776,7 @@
       "url": "https://tass.ru/politika/27983747",
       "published_utc": "2026-08-05T03:45:35Z",
       "title_en": "Galuzin announced that the West would provide support to Kyiv for attacks on infrastructure",
-      "lead_en": "The Deputy Head of the Russian Foreign Ministry expects that understanding of the full danger of the Kyiv regime will prevail in Western countries",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_raw": "Галузин заявил об оказании Западом поддержки Киеву для ударов по инфраструктуре",
       "lead_raw": "Замглавы МИД России рассчитывает, что в западных странах возобладает понимание всей опасности киевского режима",
       "topic_scores": {
@@ -861,7 +840,7 @@
       "url": "https://tass.ru/politika/27983631",
       "published_utc": "2026-08-05T03:00:50Z",
       "title_en": "Patrushev and Lula da Silva held talks on international security",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "The parties also discussed current issues of Russian-Brazilian cooperation",
       "title_raw": "Патрушев и Лула да Силва провели переговоры по международной безопасности",
       "lead_raw": "Стороны также обсудили актуальные вопросы российско-бразильского сотрудничеств",
       "topic_scores": {
@@ -989,8 +968,8 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/politika/27983369",
       "published_utc": "2026-08-04T23:51:06Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "The Russian Ambassador said that the Russians in Cuba did not ask for help due to the blackout",
+      "lead_en": "Victor Coronelli added that planned outages happen regularly",
       "title_raw": "Посол РФ заявил, что россияне на Кубе не обращались за помощью из-за блэкаута",
       "lead_raw": "Виктор Коронелли добавил, что плановые отключения случаются регулярно",
       "topic_scores": {
@@ -1010,8 +989,8 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/politika/27983351",
       "published_utc": "2026-08-04T23:28:41Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "The Russian Ambassador reported the almost complete absence of tourist flow from Russia to Cuba",
+      "lead_en": "Victor Coronelli said that this is due to the fuel blockade of the republic by the United States",
       "title_raw": "Посол РФ сообщил о практически полном отсутствии турпотока из России на Кубу",
       "lead_raw": "Виктор Коронелли сообщил, что это связано с топливной блокадой республики со стороны США",
       "topic_scores": {
@@ -1033,7 +1012,7 @@
       "url": "https://tass.ru/politika/27983307",
       "published_utc": "2026-08-04T22:20:53Z",
       "title_en": "Miroshnik linked the increase in terrorist activity in Kyiv with the appointment of Drapatoy",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "Since the new commander-in-chief of the Armed Forces of Ukraine took office, about 950 civilians of the Russian Federation have been injured, noted the Ambassador at Large of the Russian Foreign Ministry",
       "title_raw": "Мирошник увязал рост террористической активности Киева с назначением Драпатого",
       "lead_raw": "С момента вступления в должность нового главкома ВСУ пострадали около 950 мирных жителей РФ, отметил посол по особым поручениям МИД России",
       "topic_scores": {
@@ -1054,8 +1033,8 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/politika/27983295",
       "published_utc": "2026-08-04T22:13:03Z",
-      "title_en": "Miroshnik announced an increase in the number of deaths at the hands of the Ukrainian Armed Forces among civilians",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "The Ambassador at Large of the Russian Foreign Ministry added that the figure has increased by more than a quarter",
       "title_raw": "Мирошник заявил о росте числа погибших от рук ВСУ среди мирного населения",
       "lead_raw": "Посол по особым поручениям МИД России добавил, что показатель вырос более чем на четверть",
       "topic_scores": {
@@ -1077,7 +1056,7 @@
       "url": "https://tass.ru/kultura/27983183",
       "published_utc": "2026-08-04T21:25:32Z",
       "title_en": "An evening of Russian romance was held at the Russian Embassy in Bern",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "The event was attended by about 40 people, including ambassadors of several friendly states, employees of diplomatic missions of countries of the global South, as well as compatriots",
       "title_raw": "В посольстве России в Берне прошел вечер русского романса",
       "lead_raw": "Мероприятие посетили около 40 человек, включая послов нескольких дружественных государств, сотрудников диппредставительств стран глобального Юга, а также соотечественников",
       "topic_scores": {
@@ -1119,7 +1098,7 @@
       "url": "https://tass.ru/politika/27983203",
       "published_utc": "2026-08-04T20:47:05Z",
       "title_en": "Three voting stations for State Duma elections will open in Canada",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "The Russian Embassy clarified that Russians will be able to vote in Ottawa, as well as at the Consulates General in Montreal and Toronto",
       "title_raw": "Три участка для голосования на выборах в Госдуму откроются в Канаде",
       "lead_raw": "В посольстве РФ уточнили, что россияне смогут проголосовать в Оттаве, а также в генконсульствах в Монреале и Торонто",
       "topic_scores": {
@@ -1181,7 +1160,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/obschestvo/27982369",
       "published_utc": "2026-08-04T16:00:00Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "The red-haired threat to gardens and vegetable gardens: how to protect yourself from Spanish slugs",
       "lead_en": "In recent years, gardeners and agronomists in different regions of Russia are increasingly encountering a new pest for our nature - the Spanish slug (Arion vulgaris). This large mollusk once lived only in certain areas of the Iberian Peninsula, but over several decades it spread throughout Europe, and now it is also found here.",
       "title_raw": "Рыжая угроза садам и огородам: как защититься от испанских слизней",
       "lead_raw": "В последние годы садоводы и агрономы в разных регионах России все чаще сталкиваются с новым для нашей природы вредителем — испанским слизнем (arion vulgaris). Этот крупный моллюск когда-то обитал только в отдельных районах Пиренейского полуострова, но за несколько десятилетий распространился по всей Европе, а теперь встречается и у нас.",
@@ -1224,7 +1203,7 @@
       "url": "https://tass.ru/obschestvo/27982697",
       "published_utc": "2026-08-04T15:15:40Z",
       "title_en": "Russia ratified an agreement with Abkhazia on the recognition of academic degrees",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "This will also allow their holders to have the necessary rights to continue studying and working in both countries",
       "title_raw": "Россия ратифицировала соглашение с Абхазией о признании ученых степеней",
       "lead_raw": "Это в том числе позволит их обладателям иметь необходимые права для продолжения обучения и работы в обеих странах",
       "topic_scores": {
@@ -1308,7 +1287,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/politika/27982107",
       "published_utc": "2026-08-04T12:27:25Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Political scientist Martynov assessed the West’s refusal to issue visas for UN events",
       "lead_en": "The director of the Institute of Modern States recalled that back in 1959, Austria pledged to issue entry visas to diplomats “as quickly as possible,” but after February 2022, Vienna began to regularly delay the issuance of documents to Russian representatives",
       "title_raw": "Политолог Мартынов оценил отказы Запада в выдаче виз на мероприятия ООН",
       "lead_raw": "Директор Института новейших государств напомнил, что еще в 1959 году Австрия обязалась выдавать дипломатам въездные визы \"настолько быстро, насколько это возможно\", но после февраля 2022-го Вена стала регулярно задерживать выдачу документов российским представителям",
@@ -1508,113 +1487,6 @@
         "military": 0,
         "energy": 0,
         "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "8c912f53fbd059cc51bf8790fccfe7ac1b3afcb1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27980353",
-      "published_utc": "2026-08-04T04:05:54Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Мирошник: Белгородскую область на неделе атаковали до 320 БПЛА ВСУ в сутки",
-      "lead_raw": "Посол по особым поручениям МИД России отметил, что регион чаще всего подвергался украинским атакам",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "07043f4af71d93fe1c25967a4f462d9e53bc49e8",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27980341",
-      "published_utc": "2026-08-04T04:03:47Z",
-      "title_en": "Miroshnik reported the death of 49 Russians in a week from attacks by the Ukrainian Armed Forces",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Мирошник сообщил о гибели за неделю 49 россиян от ударов ВСУ",
-      "lead_raw": "Еще 342 получили ранения, добавил посол по особым поручениям МИД РФ",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "20f8118c4787e2c6c218a60cfc465fea551939da",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27980255",
-      "published_utc": "2026-08-04T03:30:38Z",
-      "title_en": "Galuzin: The Russian Federation and Kazakhstan, even before the attacks of the Armed Forces of Ukraine, worked on the integration of marketplaces",
-      "lead_en": "This process continues, noted the Deputy Head of the Russian Foreign Ministry",
-      "title_raw": "Галузин: РФ и Казахстан еще до атак ВСУ работали по интеграции маркетплейсов",
-      "lead_raw": "Этот процесс продолжается, отметил замглавы МИД России",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "291ff789e6743ed257d738ba352f0e4ea15d6ee8",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2168631",
-      "published_utc": "2026-08-04T03:00:47Z",
-      "title_en": "Russia has not yet heard any constructive ideas from West on Ukraine — MFA",
-      "lead_en": "Mikhail Galuzin says Western ruling circles \"sometimes descend into a completely unacceptable style of dialogue characterized by ultimatums\"",
-      "title_raw": "Russia has not yet heard any constructive ideas from West on Ukraine — MFA",
-      "lead_raw": "Mikhail Galuzin says Western ruling circles \"sometimes descend into a completely unacceptable style of dialogue characterized by ultimatums\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "e4a7632914be7d41cc9a59d18cb57ec4fb0ed488",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2168615",
-      "published_utc": "2026-08-04T00:28:21Z",
-      "title_en": "Russia has not conveyed signals to West on Ukraine via Kazakhstan — MFA",
-      "lead_en": "Mikhail Galuzin added that Moscow maintains direct contact with those capable of influencing Kiev",
-      "title_raw": "Russia has not conveyed signals to West on Ukraine via Kazakhstan — MFA",
-      "lead_raw": "Mikhail Galuzin added that Moscow maintains direct contact with those capable of influencing Kiev",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
         "local_events": 0
       },
       "topics": [

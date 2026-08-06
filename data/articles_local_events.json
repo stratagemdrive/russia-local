@@ -1,16 +1,56 @@
 {
-  "updated_at_utc": "2026-08-06T00:03:59Z",
+  "updated_at_utc": "2026-08-06T04:11:30Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 32,
+  "count": 34,
   "articles": [
+    {
+      "id": "5e55555004527baaaf03dcb1baee1d8b68dffe56",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27987199",
+      "published_utc": "2026-08-06T02:24:58Z",
+      "title_en": "Fire danger is expected to increase in the center and south of the European part of Russia",
+      "lead_en": "Residents were urged not to light fires and be careful with fire so as not to worsen the environmental situation.",
+      "title_raw": "В центре и на юге европейской части России ожидается рост пожарной опасности",
+      "lead_raw": "Жителей призвали не жечь костры и быть осторожнее с огнем, чтобы не ухудшать экологическую обстановку",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "d97ca7764cf3b64210da6aa76716fc8f3581595b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27987161",
+      "published_utc": "2026-08-06T02:23:55Z",
+      "title_en": "Fighter Monk spoke about increasing the operating range of radio stations in the Northern Military District zone",
+      "lead_en": "The Russian Ministry of Defense stated that the communication channel can be used both to control units, adjust fire and call evacuation groups, and to control ground robots and drones",
+      "title_raw": "Боец Монах рассказал об увеличении дальности работы радиостанций в зоне СВО",
+      "lead_raw": "В Минобороны РФ заявили, что канал связи может использоваться как для управления подразделениями, корректировки огня и вызова групп эвакуации, так и для управления наземными роботами и беспилотниками",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "b4691082ca5fc095214d8b562cd5cd6d16551d8c",
       "source": "TASS (RU)",
       "url": "https://tass.ru/obschestvo/27986955",
       "published_utc": "2026-08-05T23:23:15Z",
       "title_en": "Volunteers of the Kursk Frontier eliminated the consequences of 13 strikes by the Armed Forces of Ukraine within a year",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "The organization also installed a thermal circuit for three schools, one kindergarten, two administrative buildings, two hospitals and three cultural centers, said Igor Kastyukevich, Commissioner for Volunteer Activities in Emergency Zones of the United Russia Party",
       "title_raw": "Волонтеры \"Курского рубежа\" за год ликвидировали последствия 13 ударов ВСУ",
       "lead_raw": "Организация также смонтировала тепловой контур трех школ, одного детсада, двух административных зданий, двух больниц и трех домов культуры, рассказал уполномоченный по волонтерской деятельности в зонах ЧС партии \"Единая Россия\" Игорь Кастюкевич",
       "topic_scores": {
@@ -28,8 +68,8 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/obschestvo/27986895",
       "published_utc": "2026-08-05T22:18:51Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Kursk Frontier volunteers restored more than 180 households",
+      "lead_en": "Igor Kastyukevich, Commissioner for Volunteer Activities in Emergency Zones of the United Russia Party, said that volunteers also improved about 100 courtyards",
       "title_raw": "Волонтеры \"Курского рубежа\" восстановили более 180 домовладений",
       "lead_raw": "Уполномоченный по волонтерской деятельности в зонах ЧС партии \"Единая Россия\" Игорь Кастюкевич заявил, что добровольцы также благоустроили порядка 100 дворов",
       "topic_scores": {
@@ -48,7 +88,7 @@
       "url": "https://tass.ru/obschestvo/27986745",
       "published_utc": "2026-08-05T19:50:50Z",
       "title_en": "\"Kommersant\": The Prosecutor General's Office received a case about an attack by the Armed Forces of Ukraine on military airfields of the Russian Federation",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "Truck drivers are in custody, charged with committing a terrorist attack by a group of persons by prior conspiracy and illegal acquisition and transportation of explosives by an organized group.",
       "title_raw": "\"Ъ\": Генпрокуратура получила дело об атаке ВСУ на военные аэродромы РФ",
       "lead_raw": "Под стражей находятся водители фур, которым вменили совершение теракта группой лиц по предварительному сговору и незаконное приобретение и перевозку взрывчатки организованной группой",
       "topic_scores": {
@@ -191,7 +231,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/proisshestviya/27985961",
       "published_utc": "2026-08-05T14:04:24Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Roscosmos reported that there was no threat to people due to the fire at TsNIIMash.",
       "lead_en": "Flight control of the Russian segment of the ISS is under control, the state corporation noted",
       "title_raw": "Роскосмос сообщил об отсутствии угрозы людям из-за пожара в \"ЦНИИмаш\"",
       "lead_raw": "Управление полетом российского сегмента МКС находится под контролем, отметили в госкорпорации",
@@ -645,7 +685,7 @@
       "url": "https://tass.ru/proisshestviya/27980823",
       "published_utc": "2026-08-04T06:31:08Z",
       "title_en": "A drone danger regime has been declared in the Kaluga region",
-      "lead_en": "The Russian Ministry of Emergency Situations warned about this",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_raw": "В Калужской области объявили режим беспилотной опасности",
       "lead_raw": "Об этом предупредили в МЧС России",
       "topic_scores": {
