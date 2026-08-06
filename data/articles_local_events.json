@@ -1,9 +1,68 @@
 {
-  "updated_at_utc": "2026-08-06T07:38:16Z",
+  "updated_at_utc": "2026-08-06T10:37:45Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 37,
+  "count": 36,
   "articles": [
+    {
+      "id": "be328f582657d680474936ea4fa9caed08b8819c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27988697",
+      "published_utc": "2026-08-06T09:35:41Z",
+      "title_en": "Fire regulations will be restarted in Russia from January 1, 2027",
+      "lead_en": "The rules, in particular, tighten fire safety requirements for places with large numbers of people and facilities for children",
+      "title_raw": "В России перезапустят правила противопожарного режима с 1 января 2027 года",
+      "lead_raw": "Правила, в частности, ужесточают требования к пожарной безопасности мест с массовым пребыванием людей и объектов для детей",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "71a123476f174112351d904bbb1f7a7a45f86506",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2169569",
+      "published_utc": "2026-08-06T08:26:50Z",
+      "title_en": "Russia’s Investigative Committee reveals details of Ukraine’s Kursk Region incursion",
+      "lead_en": "According to Russian Investigative Committee Spokesperson Svetlana Petrenko, 640 civilians were killed and over 560 were wounded",
+      "title_raw": "Russia’s Investigative Committee reveals details of Ukraine’s Kursk Region incursion",
+      "lead_raw": "According to Russian Investigative Committee Spokesperson Svetlana Petrenko, 640 civilians were killed and over 560 were wounded",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "0735781593305ea96e8f755f01edb727a79ecc29",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/08/06/ukrainian-drones-launch-the-largest-attack-on-russia-s-yaroslavl-region-governor-says-major-oil-refinery-catches-fire",
+      "published_utc": "2026-08-06T07:40:14Z",
+      "title_en": "Ukrainian drones launch the ‘largest attack’ on Russia’s Yaroslavl region, governor says; major oil refinery catches fire",
+      "lead_en": "Ukrainian drones struck the Yaroslavneftorgsintez oil refinery, owned by Slavneft, in Yaroslavl, sparking a fire. The Ukrainian monitoring Telegram channels Supernova+ and Exilenova+, along with the independent Telegram channel Astra, reported the fire, citing eyewitness photos and videos showing several columns of smoke.",
+      "title_raw": "Ukrainian drones launch the ‘largest attack’ on Russia’s Yaroslavl region, governor says; major oil refinery catches fire",
+      "lead_raw": "Ukrainian drones struck the Yaroslavneftorgsintez oil refinery, owned by Slavneft, in Yaroslavl, sparking a fire. The Ukrainian monitoring Telegram channels Supernova+ and Exilenova+, along with the independent Telegram channel Astra, reported the fire, citing eyewitness photos and videos showing several columns of smoke.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "bcfe94191bf7c4841831d68a6ff9793479f61be3",
       "source": "TASS (RU)",
@@ -675,90 +734,6 @@
         "local_events": 2
       },
       "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "156389725c17bd3cc97c2a0856310de4e6437d38",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/08/04/ukraine-has-hit-20-wildberries-warehouses-since-mid-july-photos-and-videos-show-the-aftermath-of-the-latest-strike-on-a-logistics-center-in-russia-s-leningrad-region",
-      "published_utc": "2026-08-04T10:31:59Z",
-      "title_en": "Ukraine has hit 20 Wildberries warehouses since mid-July. Photos and videos show the aftermath of the latest strike on a logistics center in Russia’s Leningrad region.",
-      "lead_en": "Overnight on August 4, Ukrainian drones attacked a Wildberries warehouse in the village of Krasny Bor in Russia’s Leningrad region, sparking a major fire. The company says it carried out an “advance evacuation” of employees and that no one was injured.",
-      "title_raw": "Ukraine has hit 20 Wildberries warehouses since mid-July. Photos and videos show the aftermath of the latest strike on a logistics center in Russia’s Leningrad region.",
-      "lead_raw": "Overnight on August 4, Ukrainian drones attacked a Wildberries warehouse in the village of Krasny Bor in Russia’s Leningrad region, sparking a major fire. The company says it carried out an “advance evacuation” of employees and that no one was injured.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "255191878ebe1976b8a544c9a49ff7c4bd6693cc",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/08/04/did-russian-air-defenses-bring-down-the-drone-that-killed-seven-on-a-black-sea-beach",
-      "published_utc": "2026-08-04T09:36:48Z",
-      "title_en": "Did Russian air defenses bring down the Ukrainian drone that killed seven on a Black Sea beach?",
-      "lead_en": "A Ukrainian drone came down on a beach crowded with vacationers in the village of Arkhipo-Osipovka near Gelendzhik on the morning of August 3. Seven people died, including three children, and 40 more were injured, 21 of them hospitalized, according to data from the Krasnodar Krai operational headquarters.",
-      "title_raw": "Did Russian air defenses bring down the Ukrainian drone that killed seven on a Black Sea beach?",
-      "lead_raw": "A Ukrainian drone came down on a beach crowded with vacationers in the village of Arkhipo-Osipovka near Gelendzhik on the morning of August 3. Seven people died, including three children, and 40 more were injured, 21 of them hospitalized, according to data from the Krasnodar Krai operational headquarters.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "e5b6b6f3a0d636c4252fffd327cc2afbd1b15d92",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/08/04/in-occupied-crimea-a-soldier-openes-fire-on-fellow-servicemen-and-locals-killing-four",
-      "published_utc": "2026-08-04T08:04:12Z",
-      "title_en": "In occupied Crimea, a soldier opens fire on fellow servicemen and locals, killing four",
-      "lead_en": "A serviceman opened fire in Sevastopol, leaving people dead and wounded, according to Mikhail Razvozhayev, the Russian-installed governor of the occupied city.",
-      "title_raw": "In occupied Crimea, a soldier opens fire on fellow servicemen and locals, killing four",
-      "lead_raw": "A serviceman opened fire in Sevastopol, leaving people dead and wounded, according to Mikhail Razvozhayev, the Russian-installed governor of the occupied city.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "d74af02f5c86c8c00187f8111b1b44cee83e333a",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2168705",
-      "published_utc": "2026-08-04T07:53:40Z",
-      "title_en": "Killed and injured in Moscow Region, 320 downed UAVs: aftermath of drone attacks on Russia",
-      "lead_en": "On-duty air defenses intercepted Ukrainian fixed-wing drones over 19 Russian regions",
-      "title_raw": "Killed and injured in Moscow Region, 320 downed UAVs: aftermath of drone attacks on Russia",
-      "lead_raw": "On-duty air defenses intercepted Ukrainian fixed-wing drones over 19 Russian regions",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
         "local_events"
       ],
       "primary_topic": "local_events"
