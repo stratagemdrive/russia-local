@@ -1,9 +1,110 @@
 {
-  "updated_at_utc": "2026-08-07T08:13:07Z",
+  "updated_at_utc": "2026-08-07T10:00:39Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 36,
+  "count": 37,
   "articles": [
+    {
+      "id": "95c5d00803e2949aa3f5090e3cff9cdc928f53d9",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/08/07/loud-unidentified-explosion-heard-across-moscow",
+      "published_utc": "2026-08-07T09:51:04Z",
+      "title_en": "Loud, unidentified explosion heard across Moscow",
+      "lead_en": "Moscow residents reported hearing a loud explosion at around 11 a.m., according to the Russian news outlet Msk1, the Russian news outlet Rosbalt, and the Russian Telegram news channel Ostorozhno Novosti.",
+      "title_raw": "Loud, unidentified explosion heard across Moscow",
+      "lead_raw": "Moscow residents reported hearing a loud explosion at around 11 a.m., according to the Russian news outlet Msk1, the Russian news outlet Rosbalt, and the Russian Telegram news channel Ostorozhno Novosti.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "fe9783f4fa3e9d1a058da2ee6bf36e071ebfcf31",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27992145",
+      "published_utc": "2026-08-07T09:25:47Z",
+      "title_en": "In Adygea, the unmanned threat was canceled",
+      "lead_en": "This was stated by the Russian Ministry of Emergency Situations",
+      "title_raw": "В Адыгее отменили беспилотную опасность",
+      "lead_raw": "Об этом заявили в МЧС России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "acfd614d5c36e2091026482c188af9938546a04f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2170057",
+      "published_utc": "2026-08-07T09:20:54Z",
+      "title_en": "Three civilians injured in Ukrainian drone strike on Russia’s Belgorod",
+      "lead_en": "The drone strike sparked a fire on the facade of an administrative building",
+      "title_raw": "Three civilians injured in Ukrainian drone strike on Russia’s Belgorod",
+      "lead_raw": "The drone strike sparked a fire on the facade of an administrative building",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "07f7af8154a467f73ca758a16580ecbb6a2fbd9e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2170041",
+      "published_utc": "2026-08-07T08:39:35Z",
+      "title_en": "Russia’s Smolensk Region declares state of emergency after severe weather kills two",
+      "lead_en": "About 15,000 consumers remain without electricity across the Smolensk Region",
+      "title_raw": "Russia’s Smolensk Region declares state of emergency after severe weather kills two",
+      "lead_raw": "About 15,000 consumers remain without electricity across the Smolensk Region",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "64e206bb3fd882eaf7ef0a0ec5227a20cfe7c9aa",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2170031",
+      "published_utc": "2026-08-07T08:28:42Z",
+      "title_en": "Wildberries facility fire, 203 UAVs downed: aftermath of attacks on Russian regions",
+      "lead_en": "On-duty air defenses intercepted Ukrainian drones over 18 Russian regions",
+      "title_raw": "Wildberries facility fire, 203 UAVs downed: aftermath of attacks on Russian regions",
+      "lead_raw": "On-duty air defenses intercepted Ukrainian drones over 18 Russian regions",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "c1d306eede8434e7c13a2161e9a857a39b1626b0",
       "source": "Meduza (EN)",
@@ -346,7 +447,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/obschestvo/27986955",
       "published_utc": "2026-08-05T23:23:15Z",
-      "title_en": "Volunteers of the Kursk Frontier eliminated the consequences of 13 strikes by the Ukrainian Armed Forces during the year",
+      "title_en": "Volunteers of the Kursk Frontier eliminated the consequences of 13 strikes by the Armed Forces of Ukraine within a year",
       "lead_en": "The organization also installed a thermal circuit for three schools, one kindergarten, two administrative buildings, two hospitals and three cultural centers, said Igor Kastyukevich, Commissioner for Volunteer Activities in Emergency Zones of the United Russia Party",
       "title_raw": "Волонтеры \"Курского рубежа\" за год ликвидировали последствия 13 ударов ВСУ",
       "lead_raw": "Организация также смонтировала тепловой контур трех школ, одного детсада, двух административных зданий, двух больниц и трех домов культуры, рассказал уполномоченный по волонтерской деятельности в зонах ЧС партии \"Единая Россия\" Игорь Кастюкевич",
@@ -642,91 +743,6 @@
         "local_events"
       ],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "4397cef5ed4625201a3e5178d48c615ca9bc6cba",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2169187",
-      "published_utc": "2026-08-05T09:57:51Z",
-      "title_en": "Russian Pacific Fleet's submarines key deterrent in Asia-Pacific — expert",
-      "lead_en": "According to Alexander Stepanov, the Pacific Fleet’s comprehensive naval drills are aimed at countering Washington’s policy of militarizing its proxies in the Pacific zone and flooding them with offensive weapons",
-      "title_raw": "Russian Pacific Fleet's submarines key deterrent in Asia-Pacific — expert",
-      "lead_raw": "According to Alexander Stepanov, the Pacific Fleet’s comprehensive naval drills are aimed at countering Washington’s policy of militarizing its proxies in the Pacific zone and flooding them with offensive weapons",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 4,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "99f34bbb25e7568b08a85299b098560a008749b1",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2169183",
-      "published_utc": "2026-08-05T09:56:49Z",
-      "title_en": "Ukrainian troops killed those refusing to evacuate from DPR’s Konstantinovka — army",
-      "lead_en": "The Russian battlegroup South’s press service cited the local resident, who told that a group of people had been allegedly shot near Konstantinovka administration building",
-      "title_raw": "Ukrainian troops killed those refusing to evacuate from DPR’s Konstantinovka — army",
-      "lead_raw": "The Russian battlegroup South’s press service cited the local resident, who told that a group of people had been allegedly shot near Konstantinovka administration building",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "e84a2888d53624e435312814f99776712b64a927",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2169177",
-      "published_utc": "2026-08-05T09:48:56Z",
-      "title_en": "IN BRIEF: Russia delivers new strikes on Ukrainian military sites overnight",
-      "lead_en": "A fire broke out in three districts of the Kiev Region after a series of explosions",
-      "title_raw": "IN BRIEF: Russia delivers new strikes on Ukrainian military sites overnight",
-      "lead_raw": "A fire broke out in three districts of the Kiev Region after a series of explosions",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "de89af2b3b8f92d81c36604651e0dc2a8c75f107",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27984935",
-      "published_utc": "2026-08-05T09:41:54Z",
-      "title_en": "The Kharkov Military Administration announced the evacuation of civilians from the frontline part",
-      "lead_en": "Now they are on Russian territory, noted the head of the military-civil administration of the region, Vitaly Ganchev.",
-      "title_raw": "В Харьковской ВГА заявили об эвакуации мирных жителей из прифронтовой части",
-      "lead_raw": "Сейчас они находятся на территории России, отметил глава военно-гражданской администрации области Виталий Ганчев",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
