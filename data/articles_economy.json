@@ -1,9 +1,73 @@
 {
-  "updated_at_utc": "2026-08-08T07:49:17Z",
+  "updated_at_utc": "2026-08-08T08:39:34Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 100,
+  "count": 102,
   "articles": [
+    {
+      "id": "8bf1897ee086922f0b0e5603f226cedee84ce984",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27994489",
+      "published_utc": "2026-08-08T08:12:19Z",
+      "title_en": "FAS: the West has come up with a new initiative on frozen assets of the Russian Federation",
+      "lead_en": "According to the newspaper, the authors of the initiative say that “the European Union should immediately transfer custody of the frozen accounts of the Russian Central Bank to a new EU depository organization” that will manage them",
+      "title_raw": "FAS: на Западе выступили с новой инициативой по замороженным активам РФ",
+      "lead_raw": "По данным газеты, авторы инициативы заявляют, что \"Евросоюзу следует немедленно передать опеку над замороженными счетами российского Центробанка новой депозитарной организации ЕС\", которая будет управлять ими",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "e430ac78b5570af42da8558299a0bfc414f952b5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/interviews/27993525",
+      "published_utc": "2026-08-08T08:00:01Z",
+      "title_en": "The head of CSKA: we will soon find out the names of new athletes who will climb the highest mountains in the world",
+      "lead_en": "Behind the abbreviation of the Central Army Sports Club (CSKA) of the Russian Ministry of Defense lies more than 100 years of history and many achievements of great Soviet and Russian athletes. In an interview with TASS on the occasion of Athlete's Day, the head of CSKA, Colonel Artem Gromov, spoke about how sanctions affected the life of CSKA, thanks to which veterans of the Northern Military District manage to conquer mountain peaks and how athletes prepare for international competitions",
+      "title_raw": "Начальник ЦСКА: скоро узнаем имена новых спортсменов, кто взойдет на высочайшие горы мира",
+      "lead_raw": "За аббревиатурой Центрального спортивного клуба Армии (ЦСКА) Минобороны РФ скрывается более чем 100-летняя история и множество достижений великих советских и российских спортсменов. В интервью ТАСС ко Дню физкультурника начальник ЦСКА полковник Артем Громов рассказал, как санкции повлияли на жизнь ЦСКА, благодаря чему ветеранам СВО удается покорять горные вершины и как готовятся спортсмены к международным соревнованиям",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "ddc7c0339dcf0df5008ecc07b30e01f73bfff492",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27994459",
+      "published_utc": "2026-08-08T07:49:39Z",
+      "title_en": "Welt am Sonntag: The EU imported 14% more LNG from Russia in June than a year ago",
+      "lead_en": "According to the newspaper, Russia's income from the sale of raw materials allegedly increased to €60 million per day.",
+      "title_raw": "Welt am Sonntag: ЕС импортировал в июне на 14% больше СПГ из РФ, чем год назад",
+      "lead_raw": "Как пишет газета, доходы России от продажи сырья якобы выросли до €60 млн в день",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "11d0abdcd3be71de3f05614dbd4771ed480c5ea2",
       "source": "TASS (RU)",
@@ -853,7 +917,7 @@
       "url": "https://tass.ru/obschestvo/27992505",
       "published_utc": "2026-08-07T11:09:44Z",
       "title_en": "REO told how many used tires end up in landfills",
-      "lead_en": "More than 30% of worn-out tires after seasonal replacement end up in unauthorized waste sites, noted the press service of the Russian Environmental Operator",
+      "lead_en": "More than 30% of worn-out tires after seasonal replacement end up at unauthorized waste sites, noted the press service of the Russian Environmental Operator",
       "title_raw": "В РЭО рассказали, сколько отработанных шин попадают на свалки",
       "lead_raw": "Более 30% изношенных шин после сезонной замены оказываются на несанкционированных мусорных площадках, отметила пресс-служба Российского экологического оператора",
       "topic_scores": {
@@ -1479,7 +1543,7 @@
       "url": "https://tass.ru/ekonomika/27989857",
       "published_utc": "2026-08-06T14:34:59Z",
       "title_en": "The Speaker of the Armenian Parliament discussed with Matvienko restrictions on exports to the Russian Federation",
-      "lead_en": "Ruben Rubinyan emphasized the importance of resolving the problem within the current legal framework, the press service of the Armenian legislative body reported",
+      "lead_en": "Ruben Rubinyan emphasized the importance of resolving the problem within the framework of the current legal framework, the press service of the Armenian legislative body reported",
       "title_raw": "Спикер парламента Армении обсудил с Матвиенко ограничение на экспорт в РФ",
       "lead_raw": "Рубен Рубинян подчеркнул важность урегулирования проблемы в рамках действующей договорно-правовой базы, сообщила пресс-служба армянского законодательного органа",
       "topic_scores": {
@@ -1994,25 +2058,6 @@
       "lead_en": "Moscow Mayor Sergey Sobyanin said shifting the economy onto a war footing would kill the country, speaking in an interview with Andrey Kondrashov, director general of the Russian state news agency TASS:",
       "title_raw": "‘To kill the civilian economy is to kill the country’: Moscow mayor rejects calls to put Russia’s economy on a war footing",
       "lead_raw": "Moscow Mayor Sergey Sobyanin said shifting the economy onto a war footing would kill the country, speaking in an interview with Andrey Kondrashov, director general of the Russian state news agency TASS:",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "4652716a5cac5fe3040d363c241c95ad48395c57",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2169561",
-      "published_utc": "2026-08-06T08:03:17Z",
-      "title_en": "Russian deputy PM states need to establish railway link to Indian Ocean",
-      "lead_en": "Russia’s construction industry currently demands long-term financing, the official stressed",
-      "title_raw": "Russian deputy PM states need to establish railway link to Indian Ocean",
-      "lead_raw": "Russia’s construction industry currently demands long-term financing, the official stressed",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
