@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-08-08T10:31:59Z",
+  "updated_at_utc": "2026-08-08T12:46:09Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 34,
+  "count": 33,
   "articles": [
+    {
+      "id": "313b1314137e5bab9505dbe5cd874baec175b4a5",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2170489",
+      "published_utc": "2026-08-08T10:32:16Z",
+      "title_en": "Russian forces establish control over Ivanovka in Kharkov region",
+      "lead_en": "The Russian Defense Ministry reported that Russian troops over the past 24 hours struck transport, energy and logistics infrastructure facilities used in the interests of Ukraine, enemy UAV storage depots, as well as deployment points of Ukraine and foreign mercenaries",
+      "title_raw": "Russian forces establish control over Ivanovka in Kharkov region",
+      "lead_raw": "The Russian Defense Ministry reported that Russian troops over the past 24 hours struck transport, energy and logistics infrastructure facilities used in the interests of Ukraine, enemy UAV storage depots, as well as deployment points of Ukraine and foreign mercenaries",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "bd48dde54f589065de26386a266eee21291468f3",
       "source": "TASS (RU)",
@@ -684,49 +706,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "6287ada85a6203889e6b89ce592757830a923a64",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27989173",
-      "published_utc": "2026-08-06T12:31:16Z",
-      "title_en": "Expert Polyakov allowed the refinery to maintain Euro-5 output volumes",
-      "lead_en": "Enterprises received temporary permission to produce and sell fuel of a lower environmental class, recalled the director of the Russian engineering company TopTech.",
-      "title_raw": "Эксперт Поляков допустил сохранение НПЗ объемов выпуска Евро-5",
-      "lead_raw": "Предприятия получили временное разрешение выпускать и продавать топливо более низкого экологического класса, напомнил директор российской инжиниринговой компании \"ТопТех\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e043c293c4fecfbc9a51342070f3ad325aad51e7",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2169683",
-      "published_utc": "2026-08-06T12:06:34Z",
-      "title_en": "Seoul warns UK sanctions on Russia threaten its energy security",
-      "lead_en": "The South Korean side noted that the European Union had previously granted an exemption for Seoul when adopting its 21st package of sanctions against Russia",
-      "title_raw": "Seoul warns UK sanctions on Russia threaten its energy security",
-      "lead_raw": "The South Korean side noted that the European Union had previously granted an exemption for Seoul when adopting its 21st package of sanctions against Russia",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
