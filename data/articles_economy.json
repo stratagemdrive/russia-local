@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-08-08T03:24:34Z",
+  "updated_at_utc": "2026-08-08T04:55:50Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 101,
+  "count": 102,
   "articles": [
+    {
+      "id": "f7575ff22fd4872e37e7733dba00478857e2216c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27994091",
+      "published_utc": "2026-08-08T04:51:27Z",
+      "title_en": "The Russian Armed Forces struck a military industry enterprise and a fuel and lubricants warehouse in Kyiv at night",
+      "lead_en": "",
+      "title_raw": "ВС РФ ночью ударили по предприятию военной промышленности и складу ГСМ в Киеве",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "66a370704317d44a7486803d5a6914ba31dc9aac",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27994047",
+      "published_utc": "2026-08-08T04:28:26Z",
+      "title_en": "Avito found out how much Russians are willing to spend on buying a motorcycle",
+      "lead_en": "On average, Russians are willing to spend about 290 thousand rubles on the purchase of motor vehicles, the study notes.",
+      "title_raw": "В \"Авито\" выяснили, сколько россияне готовы потратить на покупку мотоцикла",
+      "lead_raw": "В среднем на покупку мототранспорта россияне готовы потратить около 290 тыс. рублей, отмечается в исследовании",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
     {
       "id": "825c740609d7ac97a24eaca28416d294866e446c",
       "source": "TASS (RU)",
@@ -693,7 +733,7 @@
       "url": "https://tass.ru/obschestvo/27992505",
       "published_utc": "2026-08-07T11:09:44Z",
       "title_en": "REO told how many used tires end up in landfills",
-      "lead_en": "More than 30% of worn-out tires after seasonal replacement end up in unauthorized waste sites, noted the press service of the Russian Environmental Operator",
+      "lead_en": "More than 30% of worn-out tires after seasonal replacement end up at unauthorized waste sites, noted the press service of the Russian Environmental Operator",
       "title_raw": "В РЭО рассказали, сколько отработанных шин попадают на свалки",
       "lead_raw": "Более 30% изношенных шин после сезонной замены оказываются на несанкционированных мусорных площадках, отметила пресс-служба Российского экологического оператора",
       "topic_scores": {
@@ -1319,7 +1359,7 @@
       "url": "https://tass.ru/ekonomika/27989857",
       "published_utc": "2026-08-06T14:34:59Z",
       "title_en": "The Speaker of the Armenian Parliament discussed with Matvienko restrictions on exports to the Russian Federation",
-      "lead_en": "Ruben Rubinyan emphasized the importance of resolving the problem within the current legal framework, the press service of the Armenian legislative body reported",
+      "lead_en": "Ruben Rubinyan emphasized the importance of resolving the problem within the framework of the current legal framework, the press service of the Armenian legislative body reported",
       "title_raw": "Спикер парламента Армении обсудил с Матвиенко ограничение на экспорт в РФ",
       "lead_raw": "Рубен Рубинян подчеркнул важность урегулирования проблемы в рамках действующей договорно-правовой базы, сообщила пресс-служба армянского законодательного органа",
       "topic_scores": {
@@ -2021,27 +2061,6 @@
       },
       "topics": [],
       "primary_topic": "economy"
-    },
-    {
-      "id": "9cf8b906157465cac59f4df4655722e63f178566",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27987373",
-      "published_utc": "2026-08-06T03:45:29Z",
-      "title_en": "Galuzin called Kyiv a threat to the economic security of all of Eurasia",
-      "lead_en": "The Ukrainian Armed Forces' attacks on civilian infrastructure and the Caspian Pipeline Consortium showed the terrorist nature of the Kyiv regime, said the Deputy Head of the Russian Foreign Ministry",
-      "title_raw": "Галузин назвал Киев угрозой экономической безопасности всей Евразии",
-      "lead_raw": "Атаки ВСУ на мирную инфраструктуру и Каспийский трубопроводный консорциум показали террористическую сущность киевского режима, заявил замглавы МИД России",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
