@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-08-08T01:36:23Z",
+  "updated_at_utc": "2026-08-08T03:24:34Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 24,
+  "count": 25,
   "articles": [
+    {
+      "id": "e4c19b17febcfc5ed0e35b831e5f0c9f01dc23d8",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27993923",
+      "published_utc": "2026-08-08T02:39:17Z",
+      "title_en": "Mi-8 of the Russian Ministry of Emergency Situations again took off in search of a missing helicopter in Primorye",
+      "lead_en": "The Robinson R44 crew, carrying out forest patrol, stopped communicating on the afternoon of June 21",
+      "title_raw": "Ми-8 МЧС России снова вылетел на поиски пропавшего в Приморье вертолета",
+      "lead_raw": "Экипаж Robinson R44, выполнявший лесопатрулирование, перестал выходить на связь днем 21 июня",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "1b965a2f118fea0c2cb954e8e05fa6fb1b8ca5b7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27993879",
+      "published_utc": "2026-08-08T02:01:06Z",
+      "title_en": "Russian military surgeons removed explosive ammunition from a wounded soldier",
+      "lead_en": "The item was handed over to sappers and disposed of",
+      "title_raw": "Военные хирурги РФ извлекли взрывоопасный боеприпас из раненого бойца",
+      "lead_raw": "Предмет передали саперам и утилизировали",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "564c922576e6a7dd16e4a90f22837afd65acc30f",
       "source": "TASS (RU)",
@@ -460,25 +500,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "5e55555004527baaaf03dcb1baee1d8b68dffe56",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27987199",
-      "published_utc": "2026-08-06T02:24:58Z",
-      "title_en": "Fire danger is expected to increase in the center and south of the European part of Russia",
-      "lead_en": "Residents were urged not to light fires and be careful with fire so as not to worsen the environmental situation.",
-      "title_raw": "В центре и на юге европейской части России ожидается рост пожарной опасности",
-      "lead_raw": "Жителей призвали не жечь костры и быть осторожнее с огнем, чтобы не ухудшать экологическую обстановку",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
