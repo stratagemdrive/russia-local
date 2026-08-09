@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-08-09T01:41:58Z",
+  "updated_at_utc": "2026-08-09T03:41:35Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 26,
   "articles": [
+    {
+      "id": "077f93ea723cb3cd8c9d46989036491d9379882f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27995653",
+      "published_utc": "2026-08-09T02:04:06Z",
+      "title_en": "In Japan, a minute of silence was observed in memory of the victims of the atomic bombing of Nagasaki",
+      "lead_en": "Representatives from about 100 countries and regions, as well as Russian Ambassador Nikolai Nozdrev, will take part in the mourning events in the city.",
+      "title_raw": "В Японии минутой молчания почтили память жертв атомной бомбардировки Нагасаки",
+      "lead_raw": "В траурных мероприятиях в городе примут участие представители около 100 стран и регионов, а также посол России Николай Ноздрев",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "ae94050722d58eda35e9dc19840a30bde186849c",
       "source": "TASS (EN)",
@@ -436,7 +458,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/ekonomika/27991641",
       "published_utc": "2026-08-07T07:15:33Z",
-      "title_en": "The first stage of construction of a solar power plant in Kyrgyzstan with the Russian Federation will be launched on August 31",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "lead_en": "The day before, the press service of the Rosatom Renewable Energy company reported that Rosatom and the Russian-Kyrgyz Development Fund signed an agreement on the implementation of an investment project for the construction and operation of a wind power plant in the Issyk-Kul reg",
       "title_raw": "Первый этап строительства с РФ солнечной электростанции в Киргизии запустят 31 августа",
       "lead_raw": "Накануне пресс-служба компании \"Росатом возобновляемая энергия\" сообщила, что Росатом и Российско-киргизский фонд развития подписали соглашение о реализации инвестиционного проекта по строительству и эксплуатации ветряной электростанции в Иссык-Кульской области",
@@ -538,27 +560,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "3875622066ae26ca9445a73fc1a1a0ad432eade1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27990903",
-      "published_utc": "2026-08-07T02:41:28Z",
-      "title_en": "\"Kommersant\": the government has determined the criteria for recognizing AI models as national",
-      "lead_en": "According to the newspaper's sources, for this the Russian developer must have exclusive rights to the architecture and trainable parameters of the system",
-      "title_raw": "\"Ъ\": правительство определило критерии признания ИИ-моделей национальными",
-      "lead_raw": "По информации источников газеты, для этого российскому разработчику должны принадлежать исключительные права на архитектуру и обучаемые параметры системы",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
