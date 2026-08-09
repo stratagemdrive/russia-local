@@ -1,28 +1,128 @@
 {
-  "updated_at_utc": "2026-08-09T10:33:35Z",
+  "updated_at_utc": "2026-08-09T11:28:05Z",
   "keep_hours": 48,
-  "count": 423,
+  "count": 409,
   "articles": [
+    {
+      "id": "7b33b5f7202b9f24be2a221cdf7f364a146ae1bb",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27996333",
+      "published_utc": "2026-08-09T11:08:55Z",
+      "title_en": "Rosatom has begun returning specialists to the Bushehr NPP site",
+      "lead_en": "The total number of Russian specialists has reached 25, said the general director of the corporation Alexey Likhachev",
+      "title_raw": "Росатом приступил к возвращению специалистов на площадку АЭС \"Бушер\"",
+      "lead_raw": "Общая численность российских специалистов достигла 25, сообщил гендиректор корпорации Алексей Лихачев",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "5de820d032eece0c48dd84ca66864b24620b1cae",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27996325",
+      "published_utc": "2026-08-09T11:02:19Z",
+      "title_en": "The Russian Armed Forces destroyed two vehicles and three ground drones of the Ukrainian Armed Forces near Druzhkovka",
+      "lead_en": "Near the village of Alekseevo-Druzhkovka, the Southern Group of Forces also eliminated two enemy UAV control posts, the Ministry of Defense reported.",
+      "title_raw": "ВС РФ уничтожили два автомобиля и три наземных дрона ВСУ у Дружковки",
+      "lead_raw": "У поселка Алексеево-Дружковка Южная группировка войск также ликвидировала два пункта управления БПЛА противника, сообщили в Минобороны",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "99e17783b15baf477e4a6cd7c01b9bc6d70ff4bd",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27996265",
+      "published_utc": "2026-08-09T11:00:00Z",
+      "title_en": "Progress of the SVO. Report from the Russian Ministry of Defense for August 9",
+      "lead_en": "The Armed Forces of the Russian Federation continue to conduct a special military operation (SVO)",
+      "title_raw": "Ход СВО. Сводка Минобороны РФ за 9 августа",
+      "lead_raw": "Вооруженные силы Российской Федерации продолжают проведение специальной военной операции (СВО)",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "7c456acd84960e3458190a886094aa76898075f5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27996311",
+      "published_utc": "2026-08-09T10:45:19Z",
+      "title_en": "The Pope expressed condolences for the victims in Russia",
+      "lead_en": "Leo XIV called on the parties to the conflict in Ukraine to move to dialogue on a settlement",
+      "title_raw": "Папа Римский выразил соболезнования по поводу жертв в России",
+      "lead_raw": "Лев XIV призвал стороны конфликта на Украине перейти к диалогу об урегулировании",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
     {
       "id": "023708e22a369bd70bbc5a57c37eee8d48f59aab",
       "source": "TASS (RU)",
       "url": "https://tass.ru/politika/27996295",
       "published_utc": "2026-08-09T10:31:43Z",
       "title_en": "The Russian Foreign Ministry announced the danger of “dreams” of drawing unrecognized Kosovo into NATO",
-      "lead_en": "",
+      "lead_en": "Moscow understands the concerns of Belgrade, which rightly sees a pronounced anti-Serb charge in the military cooperation of Zagreb, Tirana and Pristina, said Yuri Pilipson, director of the second European department.",
       "title_raw": "В МИД РФ заявили об опасности \"мечтаний\" втягивания непризнанного Косова в НАТО",
-      "lead_raw": "",
+      "lead_raw": "Москва понимает беспокойство Белграда, который справедливо усматривает в военном сотрудничестве Загреба, Тираны и Приштины выраженный антисербский заряд, указал директор второго европейского департамента Юрий Пилипсон",
       "topic_scores": {
         "diplomacy": 1,
-        "military": 0,
+        "military": 1,
         "energy": 0,
         "economy": 0,
         "local_events": 0
       },
       "topics": [
-        "diplomacy"
+        "diplomacy",
+        "military"
       ],
       "primary_topic": "diplomacy"
+    },
+    {
+      "id": "7435b404b1c774d18a3bd5b86dede70bbcec582f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27996285",
+      "published_utc": "2026-08-09T10:27:06Z",
+      "title_en": "BSW warns against unsubstantiated accusations following UAV incident in Leipzig",
+      "lead_en": "Member of the Saxony Landtag from the party Bernd Rudolf noted that “speculations are not the results of the investigation” and that Russia cannot be declared the organizer of a possible attack without evidence",
+      "title_raw": "BSW предостерегла от бездоказательных обвинений после инцидента с БПЛА в Лейпциге",
+      "lead_raw": "Депутат ландтага Саксонии от партии Бернд Рудольф отметил, что \"спекуляции не являются результатами расследования\" и что Россию нельзя без доказательств объявлять организатором возможной атаки",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
     },
     {
       "id": "d92a97e16afddab99b92537b6d913b95179f7b24",
@@ -8013,373 +8113,6 @@
       "lead_en": "Wildberries will let sellers on its marketplace insure goods against damage or loss from terrorist attacks, sabotage, and drone strikes — along with their aftermath — starting August 7, 2026.",
       "title_raw": "Russian e-commerce giant Wildberries introduces drone-attack insurance",
       "lead_raw": "Wildberries will let sellers on its marketplace insure goods against damage or loss from terrorist attacks, sabotage, and drone strikes — along with their aftermath — starting August 7, 2026.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "f2aca804dd667864ac30843f82ebfcf9132d23a0",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/08/07/lithuanian-defense-minister-warns-of-possible-russian-strikes-on-baltic-countries-using-captured-ukrainian-drones",
-      "published_utc": "2026-08-07T11:23:45Z",
-      "title_en": "Lithuanian defense minister warns of possible Russian strikes on Baltic countries using captured Ukrainian drones",
-      "lead_en": "Russia may be weighing strikes on critical infrastructure in the Baltic region, according to Lithuanian Defense Minister Robertas Kaunas, Bloomberg News reports.",
-      "title_raw": "Lithuanian defense minister warns of possible Russian strikes on Baltic countries using captured Ukrainian drones",
-      "lead_raw": "Russia may be weighing strikes on critical infrastructure in the Baltic region, according to Lithuanian Defense Minister Robertas Kaunas, Bloomberg News reports.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "f8c6bc675f5447b9bba8040c93dd7cb56759c7a9",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27992551",
-      "published_utc": "2026-08-07T11:21:54Z",
-      "title_en": "Zakharova: Navrotsky is “disturbed” by the fact that Poland owes its existence to the USSR",
-      "lead_en": "The official representative of the Ministry of Foreign Affairs emphasized that the President of Poland regularly uses hate speech, and the use of the derogatory word “Moskal” to refer to Russians has become the norm for the Polish elite",
-      "title_raw": "Захарова: Навроцкого \"корежит\" от того, что Польша обязана существованием СССР",
-      "lead_raw": "Официальный представитель МИД подчеркнула, что президент Польши регулярно использует язык ненависти, а употребление уничижительного слова \"москаль\" для обозначения русских стало нормой для польской элиты",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "7846867b7c5014820f2de3f17b134c2ce37eed74",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27992537",
-      "published_utc": "2026-08-07T11:16:04Z",
-      "title_en": "Georgia called fakes about tourists from Russia part of a hybrid war",
-      "lead_en": "Thus, they tried to harm the country and the Georgian people from the outside, said the Secretary General of the Georgian Dream party Kakha Kaladze",
-      "title_raw": "В Грузии назвали фейки о туристах из России частью гибридной войны",
-      "lead_raw": "Таким образом стране и грузинскому народу пытались навредить извне, заявил генсекретарь партии \"Грузинская мечта\" Каха Каладзе",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "b08c70adf53be5bae7c517f739994ce7c3f32739",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27992463",
-      "published_utc": "2026-08-07T11:13:45Z",
-      "title_en": "The first oversized tire plant in the Russian Federation received a construction permit",
-      "lead_en": "It will be launched at the end of 2028 - beginning of 2029",
-      "title_raw": "Первый в РФ завод сверхгабаритных шин получил разрешение на строительство",
-      "lead_raw": "Его запустят в конце 2028 - начале 2029 года",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "0808036891a65eb5613f693230138021422b8722",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27992529",
-      "published_utc": "2026-08-07T11:12:31Z",
-      "title_en": "Lukashenko said that Belarus lacks the USSR-era management system",
-      "lead_en": "The Belarusian leader added that the Communist Party played a decisive role in his life",
-      "title_raw": "Лукашенко заявил, что в Белоруссии не хватает системы управления времен СССР",
-      "lead_raw": "Белорусский лидер добавил, что коммунистическая партия сыграла решающую роль в его жизни",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "d377e3cbb3e76bf52889c7c8dab46185aaae0ac6",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27992527",
-      "published_utc": "2026-08-07T11:10:30Z",
-      "title_en": "The Ministry of Education and Science considers student internships at construction sites a key model for personnel training",
-      "lead_en": "Deputy Minister of Science and Higher Education Olga Petrova also noted the significant role of Russian student teams in the training of specialists",
-      "title_raw": "Минобрнауки считает практику студентов на стройках ключевой моделью подготовки кадров",
-      "lead_raw": "Заместитель министра науки и высшего образования Ольга Петрова также отметила значимую роль российских студенческих отрядов в подготовке специалистов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "b7e2f0ffaeb31061918ca31b1140cc614a33ed9b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27992505",
-      "published_utc": "2026-08-07T11:09:44Z",
-      "title_en": "REO told how many used tires end up in landfills",
-      "lead_en": "More than 30% of worn-out tires after seasonal replacement end up at unauthorized waste sites, noted the press service of the Russian Environmental Operator",
-      "title_raw": "В РЭО рассказали, сколько отработанных шин попадают на свалки",
-      "lead_raw": "Более 30% изношенных шин после сезонной замены оказываются на несанкционированных мусорных площадках, отметила пресс-служба Российского экологического оператора",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "90067aa95e92563fc6539bcff6dcd7c36269d3b6",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27992517",
-      "published_utc": "2026-08-07T11:08:06Z",
-      "title_en": "The Russian Armed Forces destroyed the Kozak armored car of the Ukrainian Armed Forces in the Slavic direction",
-      "lead_en": "A Ukrainian pickup truck was destroyed in the same direction, the Russian Ministry of Defense noted.",
-      "title_raw": "ВС РФ уничтожили броневик \"Козак\" ВСУ на славянском направлении",
-      "lead_raw": "На том же направлении ликвидировали украинский пикап, отметили в Минобороны России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "2eaf96d0757b8d1c1f7386cd93b20e5240ca7062",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27992483",
-      "published_utc": "2026-08-07T11:02:30Z",
-      "title_en": "TASS: Yabloko's second number on the ballot will not be transferred to another party if the list is removed",
-      "lead_en": "He will remain free, noted a source in the Central Election Commission of the Russian Federation",
-      "title_raw": "ТАСС: второй номер \"Яблока\" в бюллетене не передадут другой партии при снятии списка",
-      "lead_raw": "Он останется свободным, отметил источник в Центральной избирательной комиссии РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "b248d5343675328aa435afac11efd7bc72b3ea9d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2170167",
-      "published_utc": "2026-08-07T10:57:51Z",
-      "title_en": "Russia may demand release of its citizens from US in exchange for Gilman — exchanged pilot",
-      "lead_en": "The Russian Civic Chamber said that given the current aggressive US foreign policy toward Russia, the issue of Robert Gilman's release cannot be considered without reciprocal measures",
-      "title_raw": "Russia may demand release of its citizens from US in exchange for Gilman — exchanged pilot",
-      "lead_raw": "The Russian Civic Chamber said that given the current aggressive US foreign policy toward Russia, the issue of Robert Gilman's release cannot be considered without reciprocal measures",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "c037da48213418ecc60b25c1c622d10301752b49",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/nedvizhimost/27992459",
-      "published_utc": "2026-08-07T10:56:00Z",
-      "title_en": "The Ministry of Construction believes that robotization “will not kill the demand” for builders",
-      "lead_en": "The paradox of automation is that it does not reduce the number of jobs, it changes their profile, noted Deputy Minister of Construction and Housing and Communal Services of the Russian Federation Konstantin Mikhailik",
-      "title_raw": "Минстрой считает, что роботизация \"не убьет спрос\" на строителей",
-      "lead_raw": "Парадокс автоматизации в том, что она не сокращает число рабочих мест, она меняет их профиль, отметил замминистра строительства и ЖКХ РФ Константин Михайлик",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "05a1b9515208e4c294b8477f432eae4f9cd71fcd",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/society/2170161",
-      "published_utc": "2026-08-07T10:54:51Z",
-      "title_en": "Russian Film Week to take place in Cuba as part of Havana International Book Fair",
-      "lead_en": "Russia and Cuba share long-standing friendly relations, and the regular film exchange events are an important part of cultural cooperation",
-      "title_raw": "Russian Film Week to take place in Cuba as part of Havana International Book Fair",
-      "lead_raw": "Russia and Cuba share long-standing friendly relations, and the regular film exchange events are an important part of cultural cooperation",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "5b5b29384b270f24d995a12d2e39134a577e5318",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27992437",
-      "published_utc": "2026-08-07T10:54:06Z",
-      "title_en": "The Ministry of Defense showed footage of an attack on dry cargo ships of the Ukrainian Armed Forces in the Black Sea",
-      "lead_en": "In total, Russian forces hit three ships",
-      "title_raw": "Минобороны показало кадры удара по сухогрузам ВСУ в Черном море",
-      "lead_raw": "Всего российские силы поразили три судна",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "692834f00ae0b4b6bdbdb5a31040f3e90c1c1f5b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27992423",
-      "published_utc": "2026-08-07T10:46:39Z",
-      "title_en": "TASS: Russians were not injured in the shooting at a Thai school",
-      "lead_en": "There are also no other foreigners among the victims, the Thai police said.",
-      "title_raw": "ТАСС: россияне не пострадали при стрельбе в таиландской школе",
-      "lead_raw": "Среди пострадавших также нет и других иностранцев, сообщили в полиции Таиланда",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "98c383f71de49433c8d1c9fab5038b23d03d5e4c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27992415",
-      "published_utc": "2026-08-07T10:44:13Z",
-      "title_en": "Lukashenko called on Belarusians to buy huts in villages before the Russians bought them up",
-      "lead_en": "The republic is developing key rural settlements, agricultural towns and large villages, the President of Belarus indicated",
-      "title_raw": "Лукашенко призвал белорусов покупать избы в селах, пока их не скупили россияне",
-      "lead_raw": "В республике развивают опорные сельские населенные пункты, агрогородки и крупные деревни, указал президент Белоруссии",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "7ec2144cfa7d809e8856135714cac7b2e38ff0b8",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27992407",
-      "published_utc": "2026-08-07T10:43:39Z",
-      "title_en": "Kaliningrad customs warned of congestion on the border with Poland over the weekend",
-      "lead_en": "Queues may form due to Russians living in Germany with children who are going home after school holidays",
-      "title_raw": "Калининградская таможня предупредила о заторах на границе с Польшей в выходные",
-      "lead_raw": "Очереди могут образоваться из-за живущих в Германии россиян с детьми, которые едут домой после школьных каникул",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "c5c53b7b39548383106d6b2e90bdd955d0115e4b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27992399",
-      "published_utc": "2026-08-07T10:41:56Z",
-      "title_en": "Politician Yovanovic said that Zelensky’s arrival is contrary to the interests of Serbia",
-      "lead_en": "In addition, this will “significantly weaken” relations with the Russian Federation, says the chairman of the opposition New Democratic Party",
-      "title_raw": "Политик Йованович заявил, что приезд Зеленского противоречит интересам Сербии",
-      "lead_raw": "Кроме того, это \"значительно ослабит\" отношения с РФ, считает председатель оппозиционной Новой демократической партии",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "332f84f6c796a593038434ede5b3d1a0f7ece38d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27992401",
-      "published_utc": "2026-08-07T10:40:35Z",
-      "title_en": "VK Video stated that 55% of Russians send videos with cats to other people",
-      "lead_en": "According to the study, about 27% of users said the reason for watching videos with cats was the desire to laugh.",
-      "title_raw": "В \"VK Видео\" заявили, что 55% россиян отправляют видео с котами другим людям",
-      "lead_raw": "По данным исследования, около 27% пользователей назвали причиной просмотра видео с котами желание посмеяться",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "ac73ef5747cce009f913838c29425684df1cda5e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2170147",
-      "published_utc": "2026-08-07T10:37:43Z",
-      "title_en": "EAEU intends to negotiate free trade zone with African countries — Russian official",
-      "lead_en": "Alexey Overchuk said these countries had already been notified",
-      "title_raw": "EAEU intends to negotiate free trade zone with African countries — Russian official",
-      "lead_raw": "Alexey Overchuk said these countries had already been notified",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
