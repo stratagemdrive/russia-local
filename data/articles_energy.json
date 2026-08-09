@@ -1,9 +1,52 @@
 {
-  "updated_at_utc": "2026-08-09T05:04:03Z",
+  "updated_at_utc": "2026-08-09T06:55:13Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 26,
+  "count": 25,
   "articles": [
+    {
+      "id": "85fcb8bc37199fab7b91223ff8078ebe97ea764f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2170639",
+      "published_utc": "2026-08-09T06:45:37Z",
+      "title_en": "Russian forces strike fuel, military equipment depots at Chernomorsk port",
+      "lead_en": "",
+      "title_raw": "Russian forces strike fuel, military equipment depots at Chernomorsk port",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "7338c107cceb388a28cd44884764b79fed3a741a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2170637",
+      "published_utc": "2026-08-09T06:43:53Z",
+      "title_en": "Russian forces strike fuel storage tanks near Odessa",
+      "lead_en": "",
+      "title_raw": "Russian forces strike fuel storage tanks near Odessa",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "077f93ea723cb3cd8c9d46989036491d9379882f",
       "source": "TASS (RU)",
@@ -496,70 +539,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "d7bcdd696aca8cdc37c22aa599b896f44628fb9d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2169981",
-      "published_utc": "2026-08-07T06:39:35Z",
-      "title_en": "Hackers obtain files on Ukrainian strikes against oil storage terminals in Russia",
-      "lead_en": "The Russian hackers gained access to communications and files revealing who provided the exact coordinates of the facilities and who \"pushed Ukraine toward terrorism in the Leningrad and Kaliningrad regions\"",
-      "title_raw": "Hackers obtain files on Ukrainian strikes against oil storage terminals in Russia",
-      "lead_raw": "The Russian hackers gained access to communications and files revealing who provided the exact coordinates of the facilities and who \"pushed Ukraine toward terrorism in the Leningrad and Kaliningrad regions\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "04b1b94df91956211d3db379620b61b3e5b990e5",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27991421",
-      "published_utc": "2026-08-07T06:01:14Z",
-      "title_en": "Russian hackers found documents about Ukrainian Armed Forces' strikes on oil terminals in the Russian Federation",
-      "lead_en": "They reported that they had gained access to correspondence and documents that reveal who gave the exact coordinates of the objects and who “incited Ukraine to commit terror in the Leningrad and Kaliningrad regions”",
-      "title_raw": "Российские хакеры нашли документы об ударах ВСУ по нефтяным терминалам в РФ",
-      "lead_raw": "Они сообщили, что получили доступ к переписке и документам, которые раскрывают, кто давал точные координаты объектов и кто \"науськивал Украину на террор в Ленинградской и Калининградской областях\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "36d3b93169473c5bf3dadff50254ebcbaf347a0b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27991261",
-      "published_utc": "2026-08-07T05:16:33Z",
-      "title_en": "Mishustin took part in an expanded meeting of the EAEU Intergovernmental Council",
-      "lead_en": "The Russian delegation also included Deputy Prime Minister Alexey Overchuk, Head of the Ministry of Economic Development Maxim Reshetnikov, First Deputy Head of the Ministry of Energy Pavel Sorokin, Deputy Head of the Ministry of Foreign Affairs Alexander Pankin",
-      "title_raw": "Мишустин принял участие в расширенном заседании межправсовета ЕАЭС",
-      "lead_raw": "В российскую делегацию также вошли вице-премьер Алексей Оверчук, глава Минэкономразвития Максим Решетников, первый замглавы Минэнерго Павел Сорокин, замглавы МИД Александр Панкин",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
