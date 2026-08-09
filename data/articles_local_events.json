@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-08-09T09:37:57Z",
+  "updated_at_utc": "2026-08-09T10:33:35Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 11,
   "articles": [
+    {
+      "id": "9ee0e587c245113f03448010eb8e93e6fc8635d6",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/08/09/3-killed-in-ukrainian-drone-attack-on-belgorodrussia-says-a93443",
+      "published_utc": "2026-08-09T09:43:00Z",
+      "title_en": "3 Killed in Ukrainian Drone Attack on Belgorod, Russia Says",
+      "lead_en": "Russia's Defense Ministry said it had destroyed more than 150 Ukrainian drones over the European part of the country.",
+      "title_raw": "3 Killed in Ukrainian Drone Attack on Belgorod, Russia Says",
+      "lead_raw": "Russia's Defense Ministry said it had destroyed more than 150 Ukrainian drones over the European part of the country.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "2e644b15fe783e90e498bba51beed0e207d6c7d0",
       "source": "TASS (RU)",
@@ -202,25 +223,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "95c5d00803e2949aa3f5090e3cff9cdc928f53d9",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/08/07/loud-unidentified-explosion-heard-across-moscow",
-      "published_utc": "2026-08-07T09:51:04Z",
-      "title_en": "Loud, unidentified explosion heard across Moscow",
-      "lead_en": "Moscow residents reported hearing a loud explosion at around 11 a.m., according to the Russian news outlet Msk1, the Russian news outlet Rosbalt, and the Russian Telegram news channel Ostorozhno Novosti.",
-      "title_raw": "Loud, unidentified explosion heard across Moscow",
-      "lead_raw": "Moscow residents reported hearing a loud explosion at around 11 a.m., according to the Russian news outlet Msk1, the Russian news outlet Rosbalt, and the Russian Telegram news channel Ostorozhno Novosti.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
