@@ -1,21 +1,43 @@
 {
-  "updated_at_utc": "2026-08-09T18:38:53Z",
+  "updated_at_utc": "2026-08-09T19:31:53Z",
   "keep_hours": 48,
   "topic": "military",
   "count": 92,
   "articles": [
     {
-      "id": "1de846fefc55bc3d60ecdcb8b8b3922bc4be1a1e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2170723",
-      "published_utc": "2026-08-09T17:22:28Z",
-      "title_en": "Russia calls for abolishing Office of High Representative for Bosnia-Herzegovina",
-      "lead_en": "The latest attempts by Western countries to extend the OHR’s presence in Bosnia and Herzegovina through behind-the-scenes maneuvers bypassing the UN Security Council are untenable, Yury Pilipson, director of the ministry’s second European department, told",
-      "title_raw": "Russia calls for abolishing Office of High Representative for Bosnia-Herzegovina",
-      "lead_raw": "The latest attempts by Western countries to extend the OHR’s presence in Bosnia and Herzegovina through behind-the-scenes maneuvers bypassing the UN Security Council are untenable, Yury Pilipson, director of the ministry’s second European department, told",
+      "id": "1e70cfe6375ccbf337ae09a6e1fd60f340d5b1b0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27996807",
+      "published_utc": "2026-08-09T18:56:26Z",
+      "title_en": "The Russian Armed Forces destroyed the infrastructure of a gas field in the Sumy region",
+      "lead_en": "It was used in the interests of the Ukrainian Armed Forces, the Russian Ministry of Defense clarified.",
+      "title_raw": "ВС РФ уничтожили инфраструктуру газового месторождения в Сумской области",
+      "lead_raw": "Его использовали в интересах ВСУ, уточнили в Минобороны России",
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "a2526453da56475caea0fcabe69a6b65e8398fa3",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27996805",
+      "published_utc": "2026-08-09T18:53:13Z",
+      "title_en": "The Russian Armed Forces hit the Odessa Thermal Power Plant and seven electrical substations",
+      "lead_en": "Russian forces launched a combined missile air strike, the Russian Ministry of Defense noted.",
+      "title_raw": "ВС РФ ударили по Одесской ТЭЦ и семи электроподстанциям",
+      "lead_raw": "Российские силы нанесли комбинированный ракетный авиационный удар, отметили в Минобороны России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
         "energy": 0,
         "economy": 0,
         "local_events": 0
@@ -26,14 +48,36 @@
       "primary_topic": "military"
     },
     {
-      "id": "9519c1bc3642cf8d432cd431a0310ec234f215d4",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27996659",
-      "published_utc": "2026-08-09T15:05:29Z",
-      "title_en": "Lushnikov: helicopters are more effective than drones in the fight against UAVs over Russian territory",
-      "lead_en": "According to the head of Kalashnikov, there is little point in launching the Whirlwind missile from large drones",
-      "title_raw": "Лушников: вертолеты эффективнее дронов в борьбе с БПЛА над территорией РФ",
-      "lead_raw": "По мнению главы \"Калашникова\", в запусках ракеты \"Вихрь\" с больших дронов нет особого смысла",
+      "id": "5c7fcd49047efde5205eec4a85750a894bb76296",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/08/09/syria-russia-reach-deal-on-future-of-tartous-and-hmeimim-bases-after-18-months-of-talks-a93444",
+      "published_utc": "2026-08-09T18:43:13Z",
+      "title_en": "Syria, Russia Reach Deal on Future of Tartous and Hmeimim Bases After 18 Months of Talks",
+      "lead_en": "Russia's naval facility at Tartous and Hmeimim air base have long been Moscow's principal military footholds in the Mediterranean and Middle East.",
+      "title_raw": "Syria, Russia Reach Deal on Future of Tartous and Hmeimim Bases After 18 Months of Talks",
+      "lead_raw": "Russia's naval facility at Tartous and Hmeimim air base have long been Moscow's principal military footholds in the Mediterranean and Middle East.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "1de846fefc55bc3d60ecdcb8b8b3922bc4be1a1e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2170723",
+      "published_utc": "2026-08-09T17:22:28Z",
+      "title_en": "Russia calls for abolishing Office of High Representative for Bosnia-Herzegovina",
+      "lead_en": "The latest attempts by Western countries to extend the OHR’s presence in Bosnia and Herzegovina through behind-the-scenes maneuvers bypassing the UN Security Council are untenable, Yury Pilipson, director of the ministry’s second European department, told",
+      "title_raw": "Russia calls for abolishing Office of High Representative for Bosnia-Herzegovina",
+      "lead_raw": "The latest attempts by Western countries to extend the OHR’s presence in Bosnia and Herzegovina through behind-the-scenes maneuvers bypassing the UN Security Council are untenable, Yury Pilipson, director of the ministry’s second European department, told",
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
@@ -95,7 +139,7 @@
       "url": "https://tass.ru/armiya-i-opk/27996583",
       "published_utc": "2026-08-09T14:06:49Z",
       "title_en": "The Russian Armed Forces hit the railway infrastructure of the Armed Forces of Ukraine",
-      "lead_en": "The Russian military hit targets in the Kharkov, Dnepropetrovsk and Sumy regions",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_raw": "ВС РФ поразили железнодорожную инфраструктуру ВСУ",
       "lead_raw": "По целям российские военные ударили в Харьковской, Днепропетровской и Сумской областях",
       "topic_scores": {
@@ -669,7 +713,7 @@
       "url": "https://tass.ru/proisshestviya/27995809",
       "published_utc": "2026-08-09T04:45:53Z",
       "title_en": "Residential buildings were damaged and 13 people were injured. Consequences of the attack on Belgorod",
-      "lead_en": "Over the past night, air defense forces intercepted and destroyed 153 Ukrainian UAVs over Russian regions",
+      "lead_en": "Air defense forces intercepted and destroyed 153 Ukrainian UAVs over Russian regions last night",
       "title_raw": "Повреждены жилые дома, 13 человек ранены. Последствия атаки на Белгород",
       "lead_raw": "Силы ПВО за прошедшую ночь перехватили и уничтожили 153 украинских БПЛА над регионами России",
       "topic_scores": {
@@ -753,7 +797,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/sport/27995767",
       "published_utc": "2026-08-09T04:10:20Z",
-      "title_en": "Alexandrova beat world number one Sabalenka at a tournament in Toronto",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "lead_en": "The Russian will play with Ukrainian Elina Svitolina in the quarterfinals of the competition",
       "title_raw": "Александрова обыграла первую ракетку мира Соболенко на турнире в Торонто",
       "lead_raw": "Россиянка в четвертьфинале соревнования сыграет с украинкой Элиной Свитолиной",
@@ -817,7 +861,7 @@
       "url": "https://tass.ru/politika/27995713",
       "published_utc": "2026-08-09T03:15:49Z",
       "title_en": "The Russian Foreign Ministry announced Romania's provision of direct military assistance to Ukraine",
-      "lead_en": "Director of the second European department of the ministry Yuri Pilipson noted that the port of Giurgiulesti has long been turned into a transit hub for delivering goods to Kyiv",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_raw": "В МИД РФ заявили об оказании Румынией прямой военной помощи Украине",
       "lead_raw": "Директор второго европейского департамента министерства Юрий Пилипсон отметил, что порт Джурджулешты давно превратили в транзитный узел для доставки грузов Киеву",
       "topic_scores": {
@@ -838,7 +882,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/armiya-i-opk/27995685",
       "published_utc": "2026-08-09T02:32:52Z",
-      "title_en": "Zapad UAV crews disrupted the rotation of the Ukrainian Armed Forces near Krasny Liman",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "lead_en": "Russian fighters detect the movement of enemy personnel using reconnaissance UAVs, the Russian Ministry of Defense said.",
       "title_raw": "Расчеты БПЛА \"Запада\" сорвали ротацию ВСУ под Красным Лиманом",
       "lead_raw": "Перемещение личного состава противника российские бойцы выявляют с помощью разведывательных БПЛА, заявили в Минобороны РФ",
@@ -986,7 +1030,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/politika/27995599",
       "published_utc": "2026-08-09T01:01:00Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Miroshnik said that NATO is allowing itself to be gradually drawn into hostilities",
       "lead_en": "The Ambassador at Large of the Russian Foreign Ministry noted that the alliance states are loyal to Ukraine sending drones to their territory",
       "title_raw": "Мирошник заявил, что НАТО позволяет постепенно втягивать себя в военные действия",
       "lead_raw": "Посол по особым поручениям МИД РФ отметил, что государства альянса лояльно относятся к направлению Украиной беспилотников на их территорию",
@@ -1009,7 +1053,7 @@
       "url": "https://tass.ru/politika/27995547",
       "published_utc": "2026-08-09T00:00:39Z",
       "title_en": "Miroshnik noted NATO’s desire to blame the Russian Federation for the fall of a drone on its territory",
-      "lead_en": "The Ambassador at Large of the Russian Foreign Ministry noted that the alliance states could take measures against Ukraine because of its drones",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_raw": "Мирошник отметил желание НАТО обвинить РФ в падении дрона на своей территории",
       "lead_raw": "Посол по особым поручениям МИД России отметил, что государства альянса могли бы принять меры против Украины из-за ее беспилотников",
       "topic_scores": {
@@ -1051,7 +1095,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/armiya-i-opk/27995441",
       "published_utc": "2026-08-08T21:01:43Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Fighter Lavrentiev neutralized an IED and shot down a Ukrainian Armed Forces drone",
       "lead_en": "Thanks to the actions of the military unit of the Russian troops, they continued to successfully carry out combat missions",
       "title_raw": "Боец Лаврентьев обезвредил СВУ и сбил дрон ВСУ",
       "lead_raw": "Благодаря действиям военного подразделения российских войск продолжили успешно выполнять боевые задачи",
@@ -1094,7 +1138,7 @@
       "url": "https://tass.ru/proisshestviya/27995383",
       "published_utc": "2026-08-08T19:58:13Z",
       "title_en": "A missile threat was declared in the Lipetsk region",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "This was reported by the press service of the Russian Ministry of Emergency Situations for the region.",
       "title_raw": "В Липецкой области объявляли ракетную опасность",
       "lead_raw": "Об этом сообщили в пресс-службе ГУ МЧС России по региону",
       "topic_scores": {
@@ -1574,27 +1618,6 @@
       "primary_topic": "military"
     },
     {
-      "id": "f450c5d2082115ba38b4e8bbbac782ae78213c0a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27994255",
-      "published_utc": "2026-08-08T06:04:00Z",
-      "title_en": "The Russian Armed Forces destroyed two vehicles with personnel of the Armed Forces of Ukraine in the Druzhkovsky direction",
-      "lead_en": "Three enemy ground robotic systems were also eliminated, the Ministry of Defense reported.",
-      "title_raw": "ВС РФ уничтожили два автомобиля с живой силой ВСУ на дружковском направлении",
-      "lead_raw": "Также ликвидированы три наземных робототехнических комплекса противника, сообщили в Минобороны",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
       "id": "2246711d17fb4e5dc55efd4c48ae315f7ac015c1",
       "source": "RT",
       "url": "https://www.rt.com/news/644002-rt-top-stories-ukraine-trump/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -1664,7 +1687,7 @@
       "url": "https://tass.ru/armiya-i-opk/27994097",
       "published_utc": "2026-08-08T04:52:29Z",
       "title_en": "The Russian Armed Forces hit two dry cargo ships with military equipment in the Odessa area",
-      "lead_en": "The targets were destroyed while crossing the sea to the south and east of the city",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_raw": "ВС РФ поразили два сухогруза с военным имуществом в районе Одессы",
       "lead_raw": "Цели уничтожили на переходе морем южнее и восточнее города",
       "topic_scores": {
@@ -1835,7 +1858,7 @@
       "url": "https://tass.ru/politika/27993835",
       "published_utc": "2026-08-08T01:01:34Z",
       "title_en": "Miroshnik called the activist country a hoax about the “Russian abduction” of Ukrainian children",
-      "lead_en": "The Ambassador at Large of the Russian Foreign Ministry said that such a state is Canada",
+      "lead_en": "The Ambassador-at-Large of the Russian Foreign Ministry said that such a state is Canada",
       "title_raw": "Мирошник назвал страну-активиста мистификации о \"похищении РФ\" детей Украины",
       "lead_raw": "Посол по особым поручениям МИД России сообщил, что таким государством является Канада",
       "topic_scores": {
@@ -1877,7 +1900,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/armiya-i-opk/27993781",
       "published_utc": "2026-08-08T00:05:11Z",
-      "title_en": "Marochko reported that the Russian Armed Forces had cleared the area near Ivolzhansky",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "lead_en": "The military expert added that Russian forces are carrying out attacks on the Ukrainian Armed Forces near Khrapovshchina",
       "title_raw": "Марочко сообщил о зачистке ВС РФ местности у Иволжанского",
       "lead_raw": "Военный эксперт добавил, что российские силы осуществляют накаты на ВСУ у Храповщины",
@@ -1921,7 +1944,7 @@
       "url": "https://tass.ru/armiya-i-opk/27993735",
       "published_utc": "2026-08-07T23:01:16Z",
       "title_en": "Marochko reported on the offensive of the Russian Armed Forces in the southeast and southwest near Novaya Sich",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "The military expert noted that Russian forces are expanding the zone of control near the settlement",
       "title_raw": "Марочко сообщил о наступлении ВС РФ на юго-востоке и юго-западе у Новой Сечи",
       "lead_raw": "Военный эксперт отметил, что российские силы расширяют зону контроля у населенного пункта",
       "topic_scores": {
@@ -1932,28 +1955,6 @@
         "local_events": 0
       },
       "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "150c52dae2f8afb6a3afc6d2fe7e8463d280d3d5",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2170353",
-      "published_utc": "2026-08-07T18:40:48Z",
-      "title_en": "Europe needs to hold security dialogue with Russia — former Finnish president",
-      "lead_en": "Sauli Niinisto said that during the Cold War, the presence of nuclear weapons forced the USSR and the US to begin negotiations to keep the situation under control",
-      "title_raw": "Europe needs to hold security dialogue with Russia — former Finnish president",
-      "lead_raw": "Sauli Niinisto said that during the Cold War, the presence of nuclear weapons forced the USSR and the US to begin negotiations to keep the situation under control",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
         "military"
       ],
       "primary_topic": "military"
