@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-08-09T16:34:07Z",
+  "updated_at_utc": "2026-08-09T18:38:53Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 20,
+  "count": 19,
   "articles": [
+    {
+      "id": "1e101389e4ef63a12364c110c56689bf3d3a791d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27996799",
+      "published_utc": "2026-08-09T18:33:54Z",
+      "title_en": "The Atlantic: The United States is transferring intelligence data to Ukraine for attacks on Russian energy facilities",
+      "lead_en": "According to the magazine, Washington is doing it for free.",
+      "title_raw": "The Atlantic: США передают Украине разведданные для ударов по энергообъектам РФ",
+      "lead_raw": "По данным журнала, Вашингтон делает это бесплатно",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "2b2aa9f43f23664ecf8f4ef3101db2563148b035",
       "source": "TASS (EN)",
@@ -391,48 +412,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "184837e9cd40f84992f5d1e230c65f56633ebf4c",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2170341",
-      "published_utc": "2026-08-07T17:47:02Z",
-      "title_en": "Zelensky’s visit to Belgrade jeopardizes Serbia’s relations with Russia — opposition",
-      "lead_en": "The opposition parliamentary group stressed that Serbia \"largely depends\" on cheap Russian gas but no long-term deal on its supplies has been signed so far due to the government’s policy",
-      "title_raw": "Zelensky’s visit to Belgrade jeopardizes Serbia’s relations with Russia — opposition",
-      "lead_raw": "The opposition parliamentary group stressed that Serbia \"largely depends\" on cheap Russian gas but no long-term deal on its supplies has been signed so far due to the government’s policy",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "0a95014af9544143493d508faa3bbe51fd3af27d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2170331",
-      "published_utc": "2026-08-07T17:05:26Z",
-      "title_en": "Bank of Russia raises official dollar rate to 82.17 rubles for August 8-10",
-      "lead_en": "The official euro rate was raised by 77.81 kopecks to 94.8366 rubles",
-      "title_raw": "Bank of Russia raises official dollar rate to 82.17 rubles for August 8-10",
-      "lead_raw": "The official euro rate was raised by 77.81 kopecks to 94.8366 rubles",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
