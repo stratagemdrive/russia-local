@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-08-10T05:25:44Z",
+  "updated_at_utc": "2026-08-10T07:39:26Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 26,
+  "count": 25,
   "articles": [
+    {
+      "id": "67210c6d9e55d97636b2e2cd888f204ede35db39",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27997773",
+      "published_utc": "2026-08-10T07:05:00Z",
+      "title_en": "The Russian stock market is growing at the beginning of trading",
+      "lead_en": "The yuan to ruble exchange rate at the opening of the Moscow Exchange rose by 6.5 kopecks",
+      "title_raw": "Российский рынок акций растет в начале торгов",
+      "lead_raw": "Курс юаня к рублю на открытии Московской биржи рос на 6,5 копейки",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "50016d7652d5bd0a7731f4170ae1bf842b0442f5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27997735",
+      "published_utc": "2026-08-10T07:00:54Z",
+      "title_en": "Russians with a life insurance policy named the signs of a good insurance company",
+      "lead_en": "according to Irina Korsakova, executive director of SberLife Insurance, one negative client experience can affect the attitude towards the entire insurance market",
+      "title_raw": "Россияне с полисом страхования жизни назвали признаки хорошей страховой компании",
+      "lead_raw": "о словам исполнительного директора \"СберСтрахования жизни\" Ирины Корсаковой, один негативный опыт клиента может повлиять на отношение ко всему страховому рынку",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
     {
       "id": "204defb72fd04d61df2300c1fd15fca63a107a7a",
       "source": "TASS (RU)",
@@ -465,65 +505,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "11d0abdcd3be71de3f05614dbd4771ed480c5ea2",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27994407",
-      "published_utc": "2026-08-08T07:13:19Z",
-      "title_en": "In the Russian Federation, from March 1, 2027, banks will refuse transfers due to malware",
-      "lead_en": "The norm applies to transactions using bank cards, electronic money transfers and through SBP",
-      "title_raw": "В РФ с 1 марта 2027 года банки будут отказывать в переводах при вредоносном ПО",
-      "lead_raw": "Норма распространяется на операции по банковским картам, переводы электронных денег и через СБП",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "2564bbac59b7b0e7dab13f56b2b23d15c34d8e25",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27994231",
-      "published_utc": "2026-08-08T05:53:05Z",
-      "title_en": "Every second Russian surveyed established a self-ban on credits and loans.",
-      "lead_en": "The group of respondents from 18 to 29 years old shows the highest level of use of tools for digital protection, Rosselkhozbank reported",
-      "title_raw": "Каждый второй опрошенный россиянин установил самозапрет на кредиты и займы",
-      "lead_raw": "Группа респондентов от 18 до 29 лет показывает самый высокий уровень использования инструментов для цифровой защиты, сообщил Россельхозбанк",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "1b41984548b32d9ee59288f2becb8205762465ad",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27994221",
-      "published_utc": "2026-08-08T05:42:55Z",
-      "title_en": "VTB announced the continued positive mood on the Russian stock market",
-      "lead_en": "According to the bank, clients of VTB My Investments actively bought shares of Sberbank and Samolet this week.",
-      "title_raw": "ВТБ заявил о сохранении позитивного настроя на рынке акций России",
-      "lead_raw": "По данным банка, клиенты \"ВТБ мои инвестиции\" на этой неделе активно покупали акции Сбербанка и \"Самолета\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
