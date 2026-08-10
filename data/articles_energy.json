@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-08-10T09:19:40Z",
+  "updated_at_utc": "2026-08-10T11:07:38Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 22,
   "articles": [
+    {
+      "id": "00d9c5a03fa203dd569a9e4986c1ee22149a106d",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2170885",
+      "published_utc": "2026-08-10T09:56:54Z",
+      "title_en": "Kiev may be handed bill for Nord Stream pipelines at later date — Russian envoy",
+      "lead_en": "According to Rodion Miroshnik, Germany has now chosen a strategy of prolonging the investigation",
+      "title_raw": "Kiev may be handed bill for Nord Stream pipelines at later date — Russian envoy",
+      "lead_raw": "According to Rodion Miroshnik, Germany has now chosen a strategy of prolonging the investigation",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "e6ede63f003104d5d56bfafa6a59d423551f00e2",
       "source": "TASS (EN)",
@@ -450,28 +472,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "313b1314137e5bab9505dbe5cd874baec175b4a5",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2170489",
-      "published_utc": "2026-08-08T10:32:16Z",
-      "title_en": "Russian forces establish control over Ivanovka in Kharkov region",
-      "lead_en": "The Russian Defense Ministry reported that Russian troops over the past 24 hours struck transport, energy and logistics infrastructure facilities used in the interests of Ukraine, enemy UAV storage depots, as well as deployment points of Ukraine and foreign mercenaries",
-      "title_raw": "Russian forces establish control over Ivanovka in Kharkov region",
-      "lead_raw": "The Russian Defense Ministry reported that Russian troops over the past 24 hours struck transport, energy and logistics infrastructure facilities used in the interests of Ukraine, enemy UAV storage depots, as well as deployment points of Ukraine and foreign mercenaries",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
