@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-08-10T07:39:26Z",
+  "updated_at_utc": "2026-08-10T09:19:40Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 10,
+  "count": 12,
   "articles": [
+    {
+      "id": "27a330be3c6324183b2170def5a016f1e9134b41",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/08/10/13-killed-in-ukrainian-attack-on-republic-of-tatarstan-a93445",
+      "published_utc": "2026-08-10T07:52:00Z",
+      "title_en": "13 Killed in Ukrainian Attack on Republic of Tatarstan",
+      "lead_en": "Russian media reported that a local petrochemical plant may have been struck during the overnight drone barrage.",
+      "title_raw": "13 Killed in Ukrainian Attack on Republic of Tatarstan",
+      "lead_raw": "Russian media reported that a local petrochemical plant may have been struck during the overnight drone barrage.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "883e756ad5f1860b8eb7de69a3a579e239bd3b64",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/08/10/over-450-ukrainian-drones-attack-16-russian-regions-and-occupied-crimea-fire-reportedly-breaks-out-at-tatarstan-oil-refinery",
+      "published_utc": "2026-08-10T07:44:06Z",
+      "title_en": "Over 450 Ukrainian drones attack 16 Russian regions and occupied Crimea. Fire reportedly breaks out at Tatarstan oil refinery.",
+      "lead_en": "Ukrainian drones struck Nizhnekamsk on the morning of August 10, the independent Telegram channel Astra reported, citing local residents. Nizhnekamsk Mayor Radmir Belyaev said a drone threat was declared at 5:30 a.m.",
+      "title_raw": "Over 450 Ukrainian drones attack 16 Russian regions and occupied Crimea. Fire reportedly breaks out at Tatarstan oil refinery.",
+      "lead_raw": "Ukrainian drones struck Nizhnekamsk on the morning of August 10, the independent Telegram channel Astra reported, citing local residents. Nizhnekamsk Mayor Radmir Belyaev said a drone threat was declared at 5:30 a.m.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "0b562ef14363e104ee8c489a7370ad59bff20929",
       "source": "Meduza (EN)",

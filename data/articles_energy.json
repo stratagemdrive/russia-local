@@ -1,9 +1,72 @@
 {
-  "updated_at_utc": "2026-08-10T07:39:26Z",
+  "updated_at_utc": "2026-08-10T09:19:40Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 22,
   "articles": [
+    {
+      "id": "e6ede63f003104d5d56bfafa6a59d423551f00e2",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2170833",
+      "published_utc": "2026-08-10T08:04:48Z",
+      "title_en": "Russian stocks up as main trading session opens",
+      "lead_en": "The yuan exchange rate against the ruble gained 6.5 kopecks as trading opened compared with previous closing to 12.304 rubles",
+      "title_raw": "Russian stocks up as main trading session opens",
+      "lead_raw": "The yuan exchange rate against the ruble gained 6.5 kopecks as trading opened compared with previous closing to 12.304 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "2577d9de1656902246d5a263f2a5cef6e6feb0cc",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27997935",
+      "published_utc": "2026-08-10T07:52:31Z",
+      "title_en": "VTsIOM: half of Russians fear possible emergencies due to gas cylinders",
+      "lead_en": "Personally or through family, loved ones and acquaintances, 6% of respondents experienced something similar, follows from the study",
+      "title_raw": "ВЦИОМ: половина россиян опасается возможных ЧП из-за газовых баллонов",
+      "lead_raw": "Лично или через семью, близких и знакомых с подобным сталкивались 6% опрошенных, следует из исследования",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "883e756ad5f1860b8eb7de69a3a579e239bd3b64",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/08/10/over-450-ukrainian-drones-attack-16-russian-regions-and-occupied-crimea-fire-reportedly-breaks-out-at-tatarstan-oil-refinery",
+      "published_utc": "2026-08-10T07:44:06Z",
+      "title_en": "Over 450 Ukrainian drones attack 16 Russian regions and occupied Crimea. Fire reportedly breaks out at Tatarstan oil refinery.",
+      "lead_en": "Ukrainian drones struck Nizhnekamsk on the morning of August 10, the independent Telegram channel Astra reported, citing local residents. Nizhnekamsk Mayor Radmir Belyaev said a drone threat was declared at 5:30 a.m.",
+      "title_raw": "Over 450 Ukrainian drones attack 16 Russian regions and occupied Crimea. Fire reportedly breaks out at Tatarstan oil refinery.",
+      "lead_raw": "Ukrainian drones struck Nizhnekamsk on the morning of August 10, the independent Telegram channel Astra reported, citing local residents. Nizhnekamsk Mayor Radmir Belyaev said a drone threat was declared at 5:30 a.m.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "895036f019e8608b28eb9be2659add82ad324de0",
       "source": "TASS (EN)",
@@ -223,7 +286,7 @@
       "url": "https://tass.ru/mezhdunarodnaya-panorama/27996243",
       "published_utc": "2026-08-09T09:44:57Z",
       "title_en": "The Sunday Times called Zelensky's bet on terror against Russia a miscalculation",
-      "lead_en": "Columnist Mark Galeotti emphasized that oil and gas revenues of the Russian Federation are stabilizing against the backdrop of the conflict in Iran, despite Ukraine’s attacks on refineries",
+      "lead_en": "Columnist Mark Galeotti emphasized that oil and gas revenues of the Russian Federation are stabilizing against the backdrop of the conflict in Iran, despite Ukraine’s attacks on oil refineries",
       "title_raw": "The Sunday Times назвала просчетом ставку Зеленского на террор против РФ",
       "lead_raw": "Обозреватель Марк Галеотти подчеркнул, что нефтегазовые доходы РФ стабилизируются на фоне конфликта в Иране, несмотря на удары Украины по НПЗ",
       "topic_scores": {
@@ -368,6 +431,27 @@
       "primary_topic": "energy"
     },
     {
+      "id": "28a614951de2476bad08f896f87be7a59f9accd1",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/08/08/ukraine-strikes-oil-refinery-in-russias-krasnodar-region-in-drone-attack-a93441",
+      "published_utc": "2026-08-08T11:10:00Z",
+      "title_en": "Ukraine Strikes Oil Refinery in Russia's Krasnodar Region in Drone Attack",
+      "lead_en": "The attack is another in Ukraine's campaign against Russia's oil and gas facilities.",
+      "title_raw": "Ukraine Strikes Oil Refinery in Russia's Krasnodar Region in Drone Attack",
+      "lead_raw": "The attack is another in Ukraine's campaign against Russia's oil and gas facilities.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
       "id": "313b1314137e5bab9505dbe5cd874baec175b4a5",
       "source": "TASS (EN)",
       "url": "https://tass.com/defense/2170489",
@@ -388,92 +472,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "bd48dde54f589065de26386a266eee21291468f3",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27994569",
-      "published_utc": "2026-08-08T09:08:52Z",
-      "title_en": "The Russian Armed Forces hit the transport and energy infrastructure used by the Ukrainian Armed Forces",
-      "lead_en": "The Russian military also hit temporary deployment points of Ukrainian armed forces and foreign mercenaries in 157 districts, the Ministry of Defense reported.",
-      "title_raw": "ВС РФ поразили используемую ВСУ транспортную и энергетическую инфраструктуру",
-      "lead_raw": "Российские военные также ударили по пунктам временной дислокации украинских вооруженных формирований и иностранных наемников в 157 районах, сообщили в Минобороны",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "701f017dac8be16e89465a12953dbf92b21e523e",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/08/08/ukraine-strikes-oil-refinery-in-russias-krasnodar-region-in-drone-attack-a93441",
-      "published_utc": "2026-08-08T08:28:13Z",
-      "title_en": "Ukraine Strikes Oil Refinery in Russia's Krasnodar Region in Drone Attack",
-      "lead_en": "The attack is another in Ukraine's campaign against Russia's oil and gas facilities.",
-      "title_raw": "Ukraine Strikes Oil Refinery in Russia's Krasnodar Region in Drone Attack",
-      "lead_raw": "The attack is another in Ukraine's campaign against Russia's oil and gas facilities.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "8bf1897ee086922f0b0e5603f226cedee84ce984",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27994489",
-      "published_utc": "2026-08-08T08:12:19Z",
-      "title_en": "FAS: the West has come up with a new initiative on frozen assets of the Russian Federation",
-      "lead_en": "According to the newspaper, the authors of the initiative say that “the European Union should immediately transfer custody of the frozen accounts of the Russian Central Bank to a new EU depository organization” that will manage them",
-      "title_raw": "FAS: на Западе выступили с новой инициативой по замороженным активам РФ",
-      "lead_raw": "По данным газеты, авторы инициативы заявляют, что \"Евросоюзу следует немедленно передать опеку над замороженными счетами российского Центробанка новой депозитарной организации ЕС\", которая будет управлять ими",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "ddc7c0339dcf0df5008ecc07b30e01f73bfff492",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27994459",
-      "published_utc": "2026-08-08T07:49:39Z",
-      "title_en": "Welt am Sonntag: The EU imported 14% more LNG from Russia in June than a year ago",
-      "lead_en": "According to the newspaper, Russia's income from the sale of raw materials allegedly increased to €60 million per day.",
-      "title_raw": "Welt am Sonntag: ЕС импортировал в июне на 14% больше СПГ из РФ, чем год назад",
-      "lead_raw": "Как пишет газета, доходы России от продажи сырья якобы выросли до €60 млн в день",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
