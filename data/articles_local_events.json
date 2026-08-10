@@ -1,9 +1,92 @@
 {
-  "updated_at_utc": "2026-08-10T14:57:18Z",
+  "updated_at_utc": "2026-08-10T16:02:52Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 13,
+  "count": 17,
   "articles": [
+    {
+      "id": "866ac2a292255d1fab7dada4c161cbc3f5790501",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27999819",
+      "published_utc": "2026-08-10T15:42:42Z",
+      "title_en": "The building of the Russian Embassy in Colombia was not damaged due to the earthquake",
+      "lead_en": "Press Secretary Vyacheslav Petukhov said that the diplomatic mission is finding out information about the injured Russians",
+      "title_raw": "Здание посольства РФ в Колумбии не пострадало из-за землетрясения",
+      "lead_raw": "Пресс-секретарь Вячеслав Петухов сообщил, что диппредставительство выясняет информацию о пострадавших россиянах",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "c8f700993e3836c57140ed23cdca5f90fd6e0e48",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27999797",
+      "published_utc": "2026-08-10T15:33:19Z",
+      "title_en": "The Russian Embassy in Colombia is finding out information about Russians injured in the earthquake",
+      "lead_en": "",
+      "title_raw": "Посольство РФ в Колумбии выясняет данные о пострадавших при землетрясении россиянах",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "3ae5bd9e2c2061963dba0eda634c8bd752eaaf31",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27999513",
+      "published_utc": "2026-08-10T15:30:51Z",
+      "title_en": "TASS: \"Death Regiment\" of the Ukrainian Armed Forces is trying to hide crimes by blowing up torture chambers",
+      "lead_en": "Also, in the forests of the Chuguevsky district of the Kharkov region, the remains of killed forcibly mobilized Ukrainian soldiers are exhumed and burned, Russian security forces reported",
+      "title_raw": "ТАСС: \"полк смерти\" ВСУ пытается скрыть преступления, взрывая камеры пыток",
+      "lead_raw": "Также в лесных массивах Чугуевского района Харьковской области эксгумируют и сжигают останки убитых насильно мобилизованных украинских солдат, сообщили в российских силовых структурах",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "b3eb7b1339e37cc04a9579796f151b4a7853db58",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2171027",
+      "published_utc": "2026-08-10T15:03:45Z",
+      "title_en": "Russian Be-200 aircraft help extinguish wildfires in Turkey",
+      "lead_en": "According to the Russian embassy, this collaboration has become a good tradition and serves as an example of practical cooperation between Russia and Turkey",
+      "title_raw": "Russian Be-200 aircraft help extinguish wildfires in Turkey",
+      "lead_raw": "According to the Russian embassy, this collaboration has become a good tradition and serves as an example of practical cooperation between Russia and Turkey",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "diplomacy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "f7da76bbc1ec9f5bfb12be8e3d468ff81e844a43",
       "source": "The Moscow Times",
