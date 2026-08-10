@@ -1,9 +1,72 @@
 {
-  "updated_at_utc": "2026-08-10T13:05:37Z",
+  "updated_at_utc": "2026-08-10T14:57:18Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 12,
+  "count": 13,
   "articles": [
+    {
+      "id": "f7da76bbc1ec9f5bfb12be8e3d468ff81e844a43",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/08/10/ukraine-reportedly-strikes-russias-largest-petrochemical-plantin-western-siberia-a93451",
+      "published_utc": "2026-08-10T14:30:30Z",
+      "title_en": "Ukraine Reportedly Strikes Russia’s Largest Petrochemical Plant in Western Siberia",
+      "lead_en": "Local authorities confirmed that a fire broke out after several drones crashed into an industrial facility, though they did not identify the site by name.",
+      "title_raw": "Ukraine Reportedly Strikes Russia’s Largest Petrochemical Plant in Western Siberia",
+      "lead_raw": "Local authorities confirmed that a fire broke out after several drones crashed into an industrial facility, though they did not identify the site by name.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "27e6c0af460af49e38515fe5e6e922ceca8ff21f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27999289",
+      "published_utc": "2026-08-10T13:44:58Z",
+      "title_en": "Russian planes help extinguish forest fires in Turkey",
+      "lead_en": "The Russian Embassy in Ankara said that two unique Be-200 amphibious aircraft are participating in the operation.",
+      "title_raw": "Российские самолеты помогают тушить лесные пожары в Турции",
+      "lead_raw": "В посольстве РФ в Анкаре рассказали, что в операции участвуют два уникальных самолета-амфибии Бе-200",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "09c64d5c3fd92a386295ae00862ee3d248664293",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/08/10/moldova-recalls-ambassador-in-moscow-after-drone-crashes-near-border-with-ukraine-a93449",
+      "published_utc": "2026-08-10T13:15:00Z",
+      "title_en": "Moldova Recalls Ambassador in Moscow After Drone Crashes Near Border With Ukraine",
+      "lead_en": "Chisinau said it summoned its ambassador in Russia back home for consultations, calling the drone incident a “grave violation of Moldova’s sovereignty and territorial integrity” that risks the safety of its citizens.",
+      "title_raw": "Moldova Recalls Ambassador in Moscow After Drone Crashes Near Border With Ukraine",
+      "lead_raw": "Chisinau said it summoned its ambassador in Russia back home for consultations, calling the drone incident a “grave violation of Moldova’s sovereignty and territorial integrity” that risks the safety of its citizens.",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "27a330be3c6324183b2170def5a016f1e9134b41",
       "source": "The Moscow Times",
@@ -204,44 +267,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "54ae6bcfe58bb7268018f4c7c6de604d96e6bde5",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27995101",
-      "published_utc": "2026-08-08T14:50:27Z",
-      "title_en": "Unmanned danger declared in Nizhny Novgorod region",
-      "lead_en": "This was reported to the Main Directorate of the Ministry of Emergency Situations of Russia for the region",
-      "title_raw": "В Нижегородской области объявили беспилотную опасность",
-      "lead_raw": "Об этом сообщили в ГУ МЧС России по региону",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "27f6ea57d0d3ad9731d1552035082c455234ab15",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27995083",
-      "published_utc": "2026-08-08T14:35:27Z",
-      "title_en": "In Adygea, the unmanned threat was canceled",
-      "lead_en": "This was reported in the application of the Ministry of Emergency Situations of Russia",
-      "title_raw": "В Адыгее отменили беспилотную опасность",
-      "lead_raw": "Об этом сообщили в приложении МЧС России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
