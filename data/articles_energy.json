@@ -1,9 +1,52 @@
 {
-  "updated_at_utc": "2026-08-10T16:02:52Z",
+  "updated_at_utc": "2026-08-10T18:55:59Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 29,
+  "count": 30,
   "articles": [
+    {
+      "id": "c8f064a7f461916a646f29ed8e9c0b1ba8c5ff6d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28000221",
+      "published_utc": "2026-08-10T18:23:28Z",
+      "title_en": "Karelin discussed with the regional activists of United Russia the initiatives of the residents of Chuvashia",
+      "lead_en": "Issues of healthcare development and fuel safety were also raised",
+      "title_raw": "Карелин обсудил с региональным активом \"Единой России\" инициативы жителей Чувашии",
+      "lead_raw": "Также были подняты вопросы развития здравоохранения и топливной безопасности",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "e22a1163edca1603d8c9fb29153f57ad6830a55d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28000001",
+      "published_utc": "2026-08-10T18:03:00Z",
+      "title_en": "Dmitriev explained why the Germans support the AfD",
+      "lead_en": "The Special Representative of the President of the Russian Federation for investment and economic cooperation with foreign countries noted that the party stands for energy cooperation, the fight against migration and peace",
+      "title_raw": "Дмитриев объяснил, почему немцы поддерживают АдГ",
+      "lead_raw": "Спецпредставитель президента РФ по инвестиционно-экономическому сотрудничеству с зарубежными странами отметил, что партия выступает за энергетическое сотрудничество, борьбу с миграцией и мир",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "aa5238e0ee27e91050f063b2a0758831221068d4",
       "source": "TASS (RU)",
@@ -477,7 +520,7 @@
       "url": "https://tass.ru/mezhdunarodnaya-panorama/27996243",
       "published_utc": "2026-08-09T09:44:57Z",
       "title_en": "The Sunday Times called Zelensky's bet on terror against Russia a miscalculation",
-      "lead_en": "Columnist Mark Galeotti emphasized that oil and gas revenues of the Russian Federation are stabilizing against the backdrop of the conflict in Iran, despite Ukraine’s attacks on oil refineries",
+      "lead_en": "Columnist Mark Galeotti emphasized that oil and gas revenues of the Russian Federation are stabilizing against the backdrop of the conflict in Iran, despite Ukraine’s attacks on refineries",
       "title_raw": "The Sunday Times назвала просчетом ставку Зеленского на террор против РФ",
       "lead_raw": "Обозреватель Марк Галеотти подчеркнул, что нефтегазовые доходы РФ стабилизируются на фоне конфликта в Иране, несмотря на удары Украины по НПЗ",
       "topic_scores": {
@@ -599,27 +642,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "c2b36bcf7c3c0bdc4c5da2a7ca25b23d29fd62a8",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27995325",
-      "published_utc": "2026-08-08T18:36:09Z",
-      "title_en": "Dmitriev: The EU is faced with an energy crisis, which it itself provoked",
-      "lead_en": "The reason was the refusal of Russian gas, indicated the special representative of the President of the Russian Federation",
-      "title_raw": "Дмитриев: ЕС столкнулся с энергокризисом, который сам же и спровоцировал",
-      "lead_raw": "Причиной стал отказа от российского газа, указал спецпредставитель президента РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
