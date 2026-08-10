@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-08-10T21:40:00Z",
+  "updated_at_utc": "2026-08-10T22:36:11Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 21,
   "articles": [
+    {
+      "id": "c414aa2915c3186818ee336e9613a303a9cbfb36",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/08/11/sanctioned-russian-tanker-leaks-oil-off-oman-after-mystery-explosion",
+      "published_utc": "2026-08-10T22:05:45Z",
+      "title_en": "Sanctioned Russian tanker leaks oil off Oman after mystery explosion",
+      "lead_en": "The tanker Caroline Bezengi, part of Russia’s “shadow fleet,” leaked oil after running aground off the coast of Oman. The resulting slick, covering roughly 390 square kilometers (about 150 square miles), lies northeast of the Hallaniyat Islands, Oman’s Environment Authority said.",
+      "title_raw": "Sanctioned Russian tanker leaks oil off Oman after mystery explosion",
+      "lead_raw": "The tanker Caroline Bezengi, part of Russia’s “shadow fleet,” leaked oil after running aground off the coast of Oman. The resulting slick, covering roughly 390 square kilometers (about 150 square miles), lies northeast of the Hallaniyat Islands, Oman’s Environment Authority said.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "437578e5f9172f824019c1378d25bdc9d243ae3c",
       "source": "TASS (RU)",
@@ -312,25 +334,6 @@
       "topics": [
         "local_events"
       ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "2ec5d816d10de5e42d64ed755a168ba3e4756a2a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27997805",
-      "published_utc": "2026-08-10T07:11:14Z",
-      "title_en": "The man who was preparing a terrorist attack in the Kherson region collected the addresses of soldiers of the Russian Armed Forces for money",
-      "lead_en": "His next task was to find and pick up an explosive device from the cache.",
-      "title_raw": "Готовивший теракт в Херсонской области за деньги собрал адреса бойцов ВС РФ",
-      "lead_raw": "Следующим заданием для него было найти и забрать в схроне взрывное устройство",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
       "primary_topic": "local_events"
     },
     {
