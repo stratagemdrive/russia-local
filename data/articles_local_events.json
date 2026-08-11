@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-08-11T13:02:40Z",
+  "updated_at_utc": "2026-08-11T14:56:11Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 27,
   "articles": [
+    {
+      "id": "0c731ea29f00e9e7487e36fde6661cc4cdc00086",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2171447",
+      "published_utc": "2026-08-11T13:31:27Z",
+      "title_en": "Russia destroys Ukraine’s US-made Humvee vehicle in Donetsk region",
+      "lead_en": "As a result of a single precision strike, the enemy armored vehicle caught fire and its fuel detonated, the Russian Defense Ministry reported",
+      "title_raw": "Russia destroys Ukraine’s US-made Humvee vehicle in Donetsk region",
+      "lead_raw": "As a result of a single precision strike, the enemy armored vehicle caught fire and its fuel detonated, the Russian Defense Ministry reported",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "f6a83deaa70c8fe51f66bbcbeeaf54322f5b00fc",
       "source": "Meduza (EN)",
@@ -152,7 +174,7 @@
       "url": "https://tass.ru/obschestvo/28000045",
       "published_utc": "2026-08-10T18:10:26Z",
       "title_en": "Mirziyoyev sent a special group to the Russian Federation after the death of eight Uzbek citizens in Nizhnekamsk",
-      "lead_en": "The group included representatives of the Ministry of Emergency Situations, the Ministry of Foreign Affairs, the Ministry of Health, the Migration Service and other departments",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_raw": "Мирзиёев направил в РФ спецгруппу после гибели восьми узбекистанцев в Нижнекамске",
       "lead_raw": "В группу вошли представители МЧС, МИД, Минздрава, Миграционной службы и других ведомств",
       "topic_scores": {
@@ -534,27 +556,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "5d5049a8b917b3df2a776ae825db2a49b940dc27",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/08/09/3-killed-in-ukrainian-drone-attack-on-belgorodrussia-says-a93443",
-      "published_utc": "2026-08-09T13:50:00Z",
-      "title_en": "5 Killed in Ukrainian Drone Attack on Belgorod, Russia Says",
-      "lead_en": "Russia's Defense Ministry said it had destroyed more than 150 Ukrainian drones over the European part of the country.",
-      "title_raw": "5 Killed in Ukrainian Drone Attack on Belgorod, Russia Says",
-      "lead_raw": "Russia's Defense Ministry said it had destroyed more than 150 Ukrainian drones over the European part of the country.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
