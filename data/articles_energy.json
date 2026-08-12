@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-08-12T04:07:03Z",
+  "updated_at_utc": "2026-08-12T06:12:56Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 36,
+  "count": 35,
   "articles": [
+    {
+      "id": "3e6965590404f62af79edeaf7082e770c89ffaf1",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28004759",
+      "published_utc": "2026-08-12T05:52:03Z",
+      "title_en": "The Russian Armed Forces hit a base with fuel for the Ukrainian Armed Forces in the port of Odessa",
+      "lead_en": "Russian forces continue to carry out attacks on port infrastructure and sea vessels of Ukraine involved in the interests of the Armed Forces of Ukraine, the Russian Ministry of Defense noted",
+      "title_raw": "ВС РФ поразили в порту Одессы базу с топливом для ВСУ",
+      "lead_raw": "Российские силы продолжают нанесение ударов по портовой инфраструктуре и морским судам Украины, задействованным в интересах ВСУ, отметили в Минобороны России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "3f7c204812949949093a08ea2b4e49db45e73bfd",
       "source": "TASS (RU)",
@@ -720,48 +742,6 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "651813531af9ee79ee16bfc436de06e306376063",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27997585",
-      "published_utc": "2026-08-10T06:01:11Z",
-      "title_en": "Ministry of Energy: jet fuel production in the Russian Federation is at a sufficient level",
-      "lead_en": "The department clarified that the situation is being monitored jointly with the Ministry of Transport and the Federal Air Transport Agency.",
-      "title_raw": "Минэнерго: производство авиакеросина в РФ на достаточном уровне",
-      "lead_raw": "В ведомстве уточнили, что совместно с Минтрансом и Росавиацией осуществляется мониторинг ситуации",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "d3c5f9eb5e1df48a981844b70d3dd708234d35ed",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27997581",
-      "published_utc": "2026-08-10T06:00:50Z",
-      "title_en": "The Ministry of Energy expects an increase in jet fuel production in Russia in August",
-      "lead_en": "Jet fuel production is expected to increase by 4%, the ministry reported.",
-      "title_raw": "Минэнерго ждет роста выпуска авиатоплива в России в августе",
-      "lead_raw": "Увеличения производства авиакеросина ожидается на 4%, сообщило министерство",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
         "economy": 0,
         "local_events": 0
       },
