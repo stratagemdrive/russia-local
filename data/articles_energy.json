@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-08-12T17:04:19Z",
+  "updated_at_utc": "2026-08-12T19:00:30Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 34,
+  "count": 33,
   "articles": [
+    {
+      "id": "cd9b34f27b0556af11840480ab0076ff2328164a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2172079",
+      "published_utc": "2026-08-12T18:36:56Z",
+      "title_en": "Russia remains top oil supplier to India, China in June — OPEC",
+      "lead_en": "Russia supplied around 2.2 mbd of oil to India in June",
+      "title_raw": "Russia remains top oil supplier to India, China in June — OPEC",
+      "lead_raw": "Russia supplied around 2.2 mbd of oil to India in June",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "96a989d5936cf3991cde5924a69ab8affb781115",
       "source": "TASS (EN)",
@@ -118,7 +139,7 @@
       "url": "https://tass.ru/ekonomika/28006171",
       "published_utc": "2026-08-12T12:01:24Z",
       "title_en": "OPEC: Russia reduced oil production by 6 thousand bpd in July",
-      "lead_en": "In July, the Russian quota under the OPEC+ deal was 9.824 million bpd",
+      "lead_en": "In July, the Russian Federation quota under the OPEC+ deal was 9.824 million bpd",
       "title_raw": "ОПЕК: Россия в июле сократила добычу нефти на 6 тыс. б/с",
       "lead_raw": "В июле квота РФ в рамках сделки ОПЕК+ составляла 9,824 млн б/с",
       "topic_scores": {
@@ -687,49 +708,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "c8f064a7f461916a646f29ed8e9c0b1ba8c5ff6d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28000221",
-      "published_utc": "2026-08-10T18:23:28Z",
-      "title_en": "Karelin discussed with the regional activists of United Russia the initiatives of the residents of Chuvashia",
-      "lead_en": "Issues of healthcare development and fuel safety were also raised",
-      "title_raw": "Карелин обсудил с региональным активом \"Единой России\" инициативы жителей Чувашии",
-      "lead_raw": "Также были подняты вопросы развития здравоохранения и топливной безопасности",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e22a1163edca1603d8c9fb29153f57ad6830a55d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28000001",
-      "published_utc": "2026-08-10T18:03:00Z",
-      "title_en": "Dmitriev explained why the Germans support the AfD",
-      "lead_en": "The Special Representative of the President of the Russian Federation for investment and economic cooperation with foreign countries noted that the party stands for energy cooperation, the fight against migration and peace",
-      "title_raw": "Дмитриев объяснил, почему немцы поддерживают АдГ",
-      "lead_raw": "Спецпредставитель президента РФ по инвестиционно-экономическому сотрудничеству с зарубежными странами отметил, что партия выступает за энергетическое сотрудничество, борьбу с миграцией и мир",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
