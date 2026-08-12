@@ -1,9 +1,96 @@
 {
-  "updated_at_utc": "2026-08-12T13:07:00Z",
+  "updated_at_utc": "2026-08-12T15:58:51Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 34,
   "articles": [
+    {
+      "id": "96a989d5936cf3991cde5924a69ab8affb781115",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2172013",
+      "published_utc": "2026-08-12T15:35:18Z",
+      "title_en": "Russian troops hammer Ukrainian fuel tanks, ship with military cargo in new strikes",
+      "lead_en": "Russian troops hit a Ukrainian patrol boat at the Ochakov port in the Nikolayev Region",
+      "title_raw": "Russian troops hammer Ukrainian fuel tanks, ship with military cargo in new strikes",
+      "lead_raw": "Russian troops hit a Ukrainian patrol boat at the Ochakov port in the Nikolayev Region",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "f0db91086e3308f48bd64b452709aad3fef22ace",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28006841",
+      "published_utc": "2026-08-12T15:05:42Z",
+      "title_en": "Tanks with fuel and lubricants and tankers with fuel for the APU were damaged. New strikes by the Russian Armed Forces",
+      "lead_en": "During the day, Russian military personnel hit targets in the ports of Odessa, Ochakov and Chernomorsk",
+      "title_raw": "Поражены резервуары с ГСМ и танкеры с топливом для ВСУ. Новые удары ВС РФ",
+      "lead_raw": "Российские военнослужащие в течение дня поразили цели в портах Одесса, Очаков и Черноморск",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "9dac48960bfe2feac84cafe684eab4f74bd51768",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2171937",
+      "published_utc": "2026-08-12T13:37:43Z",
+      "title_en": "Russia cut oil production by 6,000 bpd in July — OPEC",
+      "lead_en": "Russia’s oil production is currently constrained by the OPEC+ agreement",
+      "title_raw": "Russia cut oil production by 6,000 bpd in July — OPEC",
+      "lead_raw": "Russia’s oil production is currently constrained by the OPEC+ agreement",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "54802588ab605d1c5d980036dba040bd36956c8a",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/08/12/russia-s-fuel-crisis-is-back-with-queues-and-gasoline-rationing-returning-across-the-country",
+      "published_utc": "2026-08-12T13:21:03Z",
+      "title_en": "Russia’s fuel crisis is back, with queues and gasoline rationing returning across the country",
+      "lead_en": "In early August, judging by reports from the regions, a new wave of the fuel crisis hit Russia following Ukrainian strikes on oil refineries. Residents of various regions, from the south to the Far East, report lines at gas stations.",
+      "title_raw": "Russia’s fuel crisis is back, with queues and gasoline rationing returning across the country",
+      "lead_raw": "In early August, judging by reports from the regions, a new wave of the fuel crisis hit Russia following Ukrainian strikes on oil refineries. Residents of various regions, from the south to the Far East, report lines at gas stations.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "03b382145412e9ea80c392cca13e51aed7807c65",
       "source": "TASS (RU)",
@@ -31,7 +118,7 @@
       "url": "https://tass.ru/ekonomika/28006171",
       "published_utc": "2026-08-12T12:01:24Z",
       "title_en": "OPEC: Russia reduced oil production by 6 thousand bpd in July",
-      "lead_en": "In July, the Russian Federation quota under the OPEC+ deal was 9.824 million bpd",
+      "lead_en": "In July, the Russian quota under the OPEC+ deal was 9.824 million bpd",
       "title_raw": "ОПЕК: Россия в июле сократила добычу нефти на 6 тыс. б/с",
       "lead_raw": "В июле квота РФ в рамках сделки ОПЕК+ составляла 9,824 млн б/с",
       "topic_scores": {
@@ -643,90 +730,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "aa5238e0ee27e91050f063b2a0758831221068d4",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27999699",
-      "published_utc": "2026-08-10T15:08:56Z",
-      "title_en": "FAZ newspaper \"regrets\" its journalist's \"ambiguous\" question about Russians",
-      "lead_en": "The editors clarified that “the position according to which as many Russian soldiers as possible should be killed is not an editorial line.”",
-      "title_raw": "Газета FAZ \"сожалеет\" о \"двусмысленном\" вопросе своего журналиста о русских",
-      "lead_raw": "В редакции уточнили, что \"позиция, согласно которой должно быть убито как можно больше российских солдат, не является редакционной линией\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e36ee17c673e9771d72cb6d611f29fce4ea92ce8",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27999601",
-      "published_utc": "2026-08-10T14:54:48Z",
-      "title_en": "Politician Yovanovitch commented on the words of a journalist from the FAZ newspaper about Russians",
-      "lead_en": "The chairman of the opposition New Democratic Party of Serbia noted that some German citizens “never learned their lessons from the events on the Eastern Front.”",
-      "title_raw": "Политик Йованович прокомментировал слова журналиста газеты FAZ о россиянах",
-      "lead_raw": "Председатель оппозиционной Новой демократической партии Сербии отметил, что некоторые граждане Германии \"так и не извлекли уроки из событий на Восточном фронте\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "58d159bc673c1c6fee6181926de1717f0f1f3fcb",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2171019",
-      "published_utc": "2026-08-10T14:40:14Z",
-      "title_en": "India diversifies crude oil sourcing amid market volatility — agency",
-      "lead_en": "Local media outlets note that Russia retains its position as India's top oil supplier",
-      "title_raw": "India diversifies crude oil sourcing amid market volatility — agency",
-      "lead_raw": "Local media outlets note that Russia retains its position as India's top oil supplier",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "4ebb9abd1b2d4a8ebf2c1a1a61d5ff56bb751797",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27999455",
-      "published_utc": "2026-08-10T14:26:18Z",
-      "title_en": "The best employees of NPO Energomash named after Academician V.P. Glushko were awarded in the Moscow region",
-      "lead_en": "During the solemn ceremony, departmental awards of the Ministry of Industry and Trade of Russia were presented to ten employees, five people were awarded with gratitude from the governor of the Moscow region",
-      "title_raw": "В Подмосковье наградили лучших сотрудников \"НПО Энергомаш им. академика В. П. Глушко\"",
-      "lead_raw": "В ходе торжественной церемонии ведомственные награды Минпромторга России были вручены десяти сотрудникам, благодарностью губернатора Московской области отмечены пять человек",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
