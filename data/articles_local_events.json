@@ -1,9 +1,73 @@
 {
-  "updated_at_utc": "2026-08-13T11:45:06Z",
+  "updated_at_utc": "2026-08-13T13:08:02Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 19,
+  "count": 21,
   "articles": [
+    {
+      "id": "7e966311c78612b3584538d895baa7aa73b95902",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28009893",
+      "published_utc": "2026-08-13T12:28:38Z",
+      "title_en": "The Consulate General of the Russian Federation in Antalya did not receive any appeals due to a fire on a yacht near Fethiye",
+      "lead_en": "Diplomats will continue to keep this topic under priority control",
+      "title_raw": "Генконсульство РФ в Анталье не получало обращений из-за пожара на яхте у Фетхие",
+      "lead_raw": "Дипломаты продолжат держать эту тему на приоритетном контроле",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "91163f28886aa7bd1f67ee2d6e9fab3d02899cb6",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/society/2172395",
+      "published_utc": "2026-08-13T12:18:19Z",
+      "title_en": "Russian officer killed in explosion in Sevastopol: what is known",
+      "lead_en": "The suspect in the crime has been detained",
+      "title_raw": "Russian officer killed in explosion in Sevastopol: what is known",
+      "lead_raw": "The suspect in the crime has been detained",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "9b26aa18e7ec39455b6564ca8623577e23353cef",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/08/13/russian-military-officer-killed-in-annexed-crimea-bomb-explosion-a93488",
+      "published_utc": "2026-08-13T12:12:14Z",
+      "title_en": "Russian Military Officer Killed in Annexed Crimea Bomb Explosion",
+      "lead_en": "Telegram channels identified the victim as Captain First Rank Robert Shageyev, who defected to Russia during the 2014 annexation of Crimea.",
+      "title_raw": "Russian Military Officer Killed in Annexed Crimea Bomb Explosion",
+      "lead_raw": "Telegram channels identified the victim as Captain First Rank Robert Shageyev, who defected to Russia during the 2014 annexation of Crimea.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "a0ffd6fa057fdc20f42d9b18a0555975ce72ba1e",
       "source": "Meduza (EN)",
@@ -371,25 +435,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "f6a83deaa70c8fe51f66bbcbeeaf54322f5b00fc",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/08/11/russian-lawmaker-vitaly-milonov-claims-he-killed-people-while-fighting-in-ukraine",
-      "published_utc": "2026-08-11T12:11:04Z",
-      "title_en": "Russian lawmaker Vitaly Milonov claims he killed people while fighting in Ukraine",
-      "lead_en": "State Duma Deputy Vitaly Milonov, a member of the ruling United Russia party, told blogger Amiran Sardarov in an interview that he had killed people during the Russia–Ukraine war.",
-      "title_raw": "Russian lawmaker Vitaly Milonov claims he killed people while fighting in Ukraine",
-      "lead_raw": "State Duma Deputy Vitaly Milonov, a member of the ruling United Russia party, told blogger Amiran Sardarov in an interview that he had killed people during the Russia–Ukraine war.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
