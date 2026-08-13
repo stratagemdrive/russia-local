@@ -1,50 +1,49 @@
 {
-  "updated_at_utc": "2026-08-13T13:08:02Z",
+  "updated_at_utc": "2026-08-13T15:59:25Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 21,
+  "count": 20,
   "articles": [
     {
-      "id": "7e966311c78612b3584538d895baa7aa73b95902",
+      "id": "a094109cd9b17fefc2667f1054c74517b8f2f5a2",
       "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28009893",
-      "published_utc": "2026-08-13T12:28:38Z",
-      "title_en": "The Consulate General of the Russian Federation in Antalya did not receive any appeals due to a fire on a yacht near Fethiye",
-      "lead_en": "Diplomats will continue to keep this topic under priority control",
-      "title_raw": "Генконсульство РФ в Анталье не получало обращений из-за пожара на яхте у Фетхие",
-      "lead_raw": "Дипломаты продолжат держать эту тему на приоритетном контроле",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "91163f28886aa7bd1f67ee2d6e9fab3d02899cb6",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/society/2172395",
-      "published_utc": "2026-08-13T12:18:19Z",
-      "title_en": "Russian officer killed in explosion in Sevastopol: what is known",
-      "lead_en": "The suspect in the crime has been detained",
-      "title_raw": "Russian officer killed in explosion in Sevastopol: what is known",
-      "lead_raw": "The suspect in the crime has been detained",
+      "url": "https://tass.ru/obschestvo/28010435",
+      "published_utc": "2026-08-13T15:23:42Z",
+      "title_en": "Georgia announced the opening of the border with Russia",
+      "lead_en": "Flood danger lifted",
+      "title_raw": "В Грузии сообщили об открытии границы с Россией",
+      "lead_raw": "Опасность наводнения сняли",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
         "energy": 0,
         "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "fb71a9310a90becab1af5185b5671a74179d758b",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/08/13/explosion-kills-russian-serviceman-in-occupied-sevastopol-unconfirmed-reports-identify-the-victim-as-a-former-ukrainian-submarine-commander-who-defected-to-russia",
+      "published_utc": "2026-08-13T14:11:57Z",
+      "title_en": "Explosion kills Russian serviceman in occupied Sevastopol. Unconfirmed reports identify the victim as a former Ukrainian submarine commander who defected to Russia.",
+      "lead_en": "A bomb explosion killed a Russian serviceman in occupied Sevastopol. The regional branch of Russia’s Federal Security Service (FSB) announced that it had detained a Russian citizen born in 1994 on suspicion of carrying out the attack, allegedly acting on the orders of Ukrainian intelligence services.",
+      "title_raw": "Explosion kills Russian serviceman in occupied Sevastopol. Unconfirmed reports identify the victim as a former Ukrainian submarine commander who defected to Russia.",
+      "lead_raw": "A bomb explosion killed a Russian serviceman in occupied Sevastopol. The regional branch of Russia’s Federal Security Service (FSB) announced that it had detained a Russian citizen born in 1994 on suspicion of carrying out the attack, allegedly acting on the orders of Ukrainian intelligence services.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
         "local_events": 2
       },
       "topics": [
+        "military",
         "local_events"
       ],
-      "primary_topic": "local_events"
+      "primary_topic": "military"
     },
     {
       "id": "9b26aa18e7ec39455b6564ca8623577e23353cef",
@@ -136,7 +135,7 @@
       "url": "https://tass.ru/proisshestviya/28008267",
       "published_utc": "2026-08-13T05:31:39Z",
       "title_en": "The drone threat has been removed in the Ulyanovsk region",
-      "lead_en": "This was reported to the Main Directorate of the Ministry of Emergency Situations of Russia for the region",
+      "lead_en": "This was reported to the Main Directorate of the Ministry of Emergency Situations of Russia for the region.",
       "title_raw": "В Ульяновской области сняли беспилотную опасность",
       "lead_raw": "Об этом сообщили в ГУ МЧС России по региону",
       "topic_scores": {
@@ -413,28 +412,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "0c731ea29f00e9e7487e36fde6661cc4cdc00086",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2171447",
-      "published_utc": "2026-08-11T13:31:27Z",
-      "title_en": "Russia destroys Ukraine’s US-made Humvee vehicle in Donetsk region",
-      "lead_en": "As a result of a single precision strike, the enemy armored vehicle caught fire and its fuel detonated, the Russian Defense Ministry reported",
-      "title_raw": "Russia destroys Ukraine’s US-made Humvee vehicle in Donetsk region",
-      "lead_raw": "As a result of a single precision strike, the enemy armored vehicle caught fire and its fuel detonated, the Russian Defense Ministry reported",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
