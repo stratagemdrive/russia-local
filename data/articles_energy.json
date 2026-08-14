@@ -1,9 +1,53 @@
 {
-  "updated_at_utc": "2026-08-14T06:12:41Z",
+  "updated_at_utc": "2026-08-14T10:00:22Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 32,
+  "count": 30,
   "articles": [
+    {
+      "id": "1607e565c978620d3e8506966b616240ef1b60f1",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/08/14/russia-plans-to-double-its-no-fly-zones",
+      "published_utc": "2026-08-14T07:56:55Z",
+      "title_en": "Russia plans to double its no-fly zones",
+      "lead_en": "Russia’s Transportation Ministry plans to expand the list of no-fly zones, adding zones over fuel and energy facilities, defense industry facilities, and transportation infrastructure. The Russian newspaper Kommersant reviewed the draft of the relevant order.",
+      "title_raw": "Russia plans to double its no-fly zones",
+      "lead_raw": "Russia’s Transportation Ministry plans to expand the list of no-fly zones, adding zones over fuel and energy facilities, defense industry facilities, and transportation infrastructure. The Russian newspaper Kommersant reviewed the draft of the relevant order.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "1e760a898ad485e7c50bb6cd1b5f1a1925011a06",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2172683",
+      "published_utc": "2026-08-14T06:53:25Z",
+      "title_en": "Russian forces strike two tugboats, Izmail port rail station in new attacks",
+      "lead_en": "According to the Russian Defense Ministry, a rail station at the port of Izmail has been used to load, store and transport military cargo and fuel for Ukrainian troops",
+      "title_raw": "Russian forces strike two tugboats, Izmail port rail station in new attacks",
+      "lead_raw": "According to the Russian Defense Ministry, a rail station at the port of Izmail has been used to load, store and transport military cargo and fuel for Ukrainian troops",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "17b2b47fe6af97ff68e9516be212784c2bf98f7f",
       "source": "TASS (RU)",
@@ -600,90 +644,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "31e2a7f9f278b3e2e6bbc073dabba207e0c6f510",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/pressreview/2171665",
-      "published_utc": "2026-08-12T10:00:01Z",
-      "title_en": "Press review: EU braces for winter fuel shortage as gold prices set to recover",
-      "lead_en": "Top stories from the Russian press on Wednesday, August 12th",
-      "title_raw": "Press review: EU braces for winter fuel shortage as gold prices set to recover",
-      "lead_raw": "Top stories from the Russian press on Wednesday, August 12th",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "45f06c9ae198f9421f708ebe265c435acb2f0d67",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/08/12/russia-forced-to-import-gasoline-from-india-amid-domestic-shortages-a93466",
-      "published_utc": "2026-08-12T09:55:49Z",
-      "title_en": "Russia Forced to Import Gasoline From India Amid Domestic Shortages",
-      "lead_en": "Moscow previously relied primarily on fuel imports from neighboring Belarus and Kazakhstan in response to Ukraine’s drone campaign.",
-      "title_raw": "Russia Forced to Import Gasoline From India Amid Domestic Shortages",
-      "lead_raw": "Moscow previously relied primarily on fuel imports from neighboring Belarus and Kazakhstan in response to Ukraine’s drone campaign.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "a04c173a60eac11478ff6e146da22e3398bb9d82",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/08/12/amid-fuel-shortages-russia-starts-receiving-gasoline-from-india",
-      "published_utc": "2026-08-12T08:51:24Z",
-      "title_en": "Amid fuel shortages, Russia starts receiving gasoline from India",
-      "lead_en": "Russia has received its first shipment of gasoline from India, the Bloomberg news agency reported, citing data from the Kpler service.",
-      "title_raw": "Amid fuel shortages, Russia starts receiving gasoline from India",
-      "lead_raw": "Russia has received its first shipment of gasoline from India, the Bloomberg news agency reported, citing data from the Kpler service.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "a45a9eb74fe913b89b3e463e60f21d7bf8f8e359",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2171741",
-      "published_utc": "2026-08-12T08:22:41Z",
-      "title_en": "Russian stock indices decline as trading on Moscow Exchange opens",
-      "lead_en": "The yuan-to-ruble exchange rate at the Moscow Exchange opening fell 3.1 kopecks compared to the previous session's close, reaching 12,213 rubles",
-      "title_raw": "Russian stock indices decline as trading on Moscow Exchange opens",
-      "lead_raw": "The yuan-to-ruble exchange rate at the Moscow Exchange opening fell 3.1 kopecks compared to the previous session's close, reaching 12,213 rubles",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
