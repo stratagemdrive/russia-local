@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-08-14T04:08:22Z",
+  "updated_at_utc": "2026-08-14T06:12:41Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 32,
   "articles": [
+    {
+      "id": "17b2b47fe6af97ff68e9516be212784c2bf98f7f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28011431",
+      "published_utc": "2026-08-14T05:13:45Z",
+      "title_en": "Expert Serova revealed how much Indian companies have invested in the oil and gas sector of the Russian Federation",
+      "lead_en": "The amount is about $5.5 billion, said the director of the international department of the Arctic Development Project Office",
+      "title_raw": "Эксперт Серова раскрыла, сколько компании Индии вложили в нефтегазовый сектор РФ",
+      "lead_raw": "Сумма составляет около $5,5 млрд, сообщила директор международного департамента Проектного офиса развития Арктики",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "defb8e86b065e95714f22134e9fd48a352df7d4e",
       "source": "TASS (RU)",
@@ -663,28 +684,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "3e6965590404f62af79edeaf7082e770c89ffaf1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28004759",
-      "published_utc": "2026-08-12T05:52:03Z",
-      "title_en": "The Russian Armed Forces hit a base with fuel for the Ukrainian Armed Forces in the port of Odessa",
-      "lead_en": "Russian forces continue to carry out attacks on port infrastructure and sea vessels of Ukraine involved in the interests of the Armed Forces of Ukraine, the Russian Ministry of Defense noted",
-      "title_raw": "ВС РФ поразили в порту Одессы базу с топливом для ВСУ",
-      "lead_raw": "Российские силы продолжают нанесение ударов по портовой инфраструктуре и морским судам Украины, задействованным в интересах ВСУ, отметили в Минобороны России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
