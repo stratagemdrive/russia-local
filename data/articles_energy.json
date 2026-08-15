@@ -1,9 +1,53 @@
 {
-  "updated_at_utc": "2026-08-15T11:19:07Z",
+  "updated_at_utc": "2026-08-15T12:35:14Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 30,
   "articles": [
+    {
+      "id": "0eeb8df6ffc20f0f2649e70a7134dd90fda80152",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28015417",
+      "published_utc": "2026-08-15T11:46:53Z",
+      "title_en": "The Russian Armed Forces destroyed a gas distribution station in the Chernigov region",
+      "lead_en": "The strike was carried out using Geranium missiles, the Russian Ministry of Defense reported.",
+      "title_raw": "ВС РФ уничтожили газораспределительную станцию в Черниговской области",
+      "lead_raw": "Удар был нанесен с помощью \"Гераней\", сообщили в Минобороны России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "5e6e9ea8569afa623e044df45b0580dcf9acc3d3",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2173687",
+      "published_utc": "2026-08-15T11:32:05Z",
+      "title_en": "Russian air defense intercepts 17 Flamingo missiles, 1,328 fixed-wing UAVs of Kiev forces",
+      "lead_en": "The Russian military have damaged logistics centers, fuel and energy facilities, and transport infrastructure in Ukraine used by the Kiev forces",
+      "title_raw": "Russian air defense intercepts 17 Flamingo missiles, 1,328 fixed-wing UAVs of Kiev forces",
+      "lead_raw": "The Russian military have damaged logistics centers, fuel and energy facilities, and transport infrastructure in Ukraine used by the Kiev forces",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "842bf4dde27c3334fe0e8ebdcb0b94a0ad85e5a0",
       "source": "TASS (RU)",
@@ -31,7 +75,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/politika/28014837",
       "published_utc": "2026-08-15T05:57:24Z",
-      "title_en": "Alaudinov: Zelensky had to admit that winter for Ukraine will be the most difficult",
+      "title_en": "Alaudinov: Zelensky had to admit that winter will be the most difficult for Ukraine",
       "lead_en": "According to the commander of the Akhmat special forces, Russian troops knocked out all Ukrainian energy and infrastructure that was used by the military-industrial complex, and also hit most of the military factories",
       "title_raw": "Алаудинов: Зеленскому пришлось признать, что зима для Украины будет самой тяжелой",
       "lead_raw": "По словам командира спецназа \"Ахмат\", российскими войсками была выбита вся украинская энергетика и инфраструктура, которая использовалась ВПК, а также поражена большая часть военных заводов",
@@ -66,28 +110,6 @@
       },
       "topics": [
         "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e463e7043593a5835290c9fdf9d3f52a36d124df",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28014829",
-      "published_utc": "2026-08-15T05:45:28Z",
-      "title_en": "VTB: the optimism of buyers on the Russian stock market has given way to a restrained mood",
-      "lead_en": "The shares of Polyus, Ozon, VTB and Gazprom aroused the greatest interest among VTB my investments clients during the week.",
-      "title_raw": "ВТБ: оптимизм покупателей на рынке акций РФ сменился сдержанным настроем",
-      "lead_raw": "Наибольший интерес у клиентов \"ВТБ мои инвестиции\" в течение недели вызывали акции \"Полюса\", Ozon, ВТБ и \"Газпрома\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
       ],
       "primary_topic": "energy"
     },
@@ -619,27 +641,6 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "c3b0866c5b693fca7d7c0881227931d783d3ba29",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/28009833",
-      "published_utc": "2026-08-13T12:18:29Z",
-      "title_en": "Almost 30 power engineers were killed in Donbass and Novorossia by Ukrainian Armed Forces strikes",
-      "lead_en": "Another 80 people were injured",
-      "title_raw": "В Донбассе и Новороссии от ударов ВСУ погибли почти 30 энергетиков",
-      "lead_raw": "Пострадали еще 80 человек",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
         "economy": 0,
         "local_events": 0
       },

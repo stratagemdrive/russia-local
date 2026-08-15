@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-08-15T11:19:07Z",
+  "updated_at_utc": "2026-08-15T12:35:14Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 13,
   "articles": [
+    {
+      "id": "f0fdda8ae6d4b5228a9582fc691c594b913eaa5e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2173689",
+      "published_utc": "2026-08-15T11:45:06Z",
+      "title_en": "Russian woman killed, another citizen injured in Vietnam tour bus crash",
+      "lead_en": "The remaining passengers escaped with minor injuries",
+      "title_raw": "Russian woman killed, another citizen injured in Vietnam tour bus crash",
+      "lead_raw": "The remaining passengers escaped with minor injuries",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "3f7970f27329762a37f5e4727e319cbffeade825",
       "source": "TASS (RU)",
@@ -240,28 +261,6 @@
         "local_events"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "9b26aa18e7ec39455b6564ca8623577e23353cef",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/08/13/russian-military-officer-killed-in-annexed-crimea-bomb-explosion-a93488",
-      "published_utc": "2026-08-13T12:12:14Z",
-      "title_en": "Russian Military Officer Killed in Annexed Crimea Bomb Explosion",
-      "lead_en": "Telegram channels identified the victim as Captain First Rank Robert Shageyev, who defected to Russia during the 2014 annexation of Crimea.",
-      "title_raw": "Russian Military Officer Killed in Annexed Crimea Bomb Explosion",
-      "lead_raw": "Telegram channels identified the victim as Captain First Rank Robert Shageyev, who defected to Russia during the 2014 annexation of Crimea.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
     }
   ]
 }
