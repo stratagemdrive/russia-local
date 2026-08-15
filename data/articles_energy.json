@@ -1,15 +1,37 @@
 {
-  "updated_at_utc": "2026-08-15T10:21:33Z",
+  "updated_at_utc": "2026-08-15T11:19:07Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 30,
   "articles": [
     {
+      "id": "842bf4dde27c3334fe0e8ebdcb0b94a0ad85e5a0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/28015327",
+      "published_utc": "2026-08-15T10:27:12Z",
+      "title_en": "Cebu Daily News: Five Russian women rescued from human trafficking ring in the Philippines",
+      "lead_en": "The victims were handed over to Makati authorities to receive the necessary assistance, the newspaper writes.",
+      "title_raw": "Cebu Daily News: на Филиппинах пять россиянок спасли из сети торговли людьми",
+      "lead_raw": "Пострадавших передали властям Макати для получения необходимой помощи, пишет газета",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
       "id": "a8a28c2682892cd76996527419c7ae24a758fd37",
       "source": "TASS (RU)",
       "url": "https://tass.ru/politika/28014837",
       "published_utc": "2026-08-15T05:57:24Z",
-      "title_en": "Alaudinov: Zelensky had to admit that winter will be the most difficult for Ukraine",
+      "title_en": "Alaudinov: Zelensky had to admit that winter for Ukraine will be the most difficult",
       "lead_en": "According to the commander of the Akhmat special forces, Russian troops knocked out all Ukrainian energy and infrastructure that was used by the military-industrial complex, and also hit most of the military factories",
       "title_raw": "Алаудинов: Зеленскому пришлось признать, что зима для Украины будет самой тяжелой",
       "lead_raw": "По словам командира спецназа \"Ахмат\", российскими войсками была выбита вся украинская энергетика и инфраструктура, которая использовалась ВПК, а также поражена большая часть военных заводов",
@@ -625,28 +647,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "beaa60c2d8ebc9ecc026beb0c4cbc784f8e3fdb2",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28009473",
-      "published_utc": "2026-08-13T10:33:35Z",
-      "title_en": "India has announced its readiness to develop the Northern Sea Route together with Russia",
-      "lead_en": "Indian Secretary of the Ministry of Ports Venkatesapati Shivaperumal noted that the Russian side has a wonderful nuclear fleet",
-      "title_raw": "В Индии заявили о готовности осваивать Северный морской путь вместе с Россией",
-      "lead_raw": "Индийский секретарь министерства портов Венкатесапати Шиваперумал отметил, что у российской стороны есть замечательный атомный флот",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
