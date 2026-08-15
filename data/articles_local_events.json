@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-08-15T08:27:24Z",
+  "updated_at_utc": "2026-08-15T10:21:33Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 13,
   "articles": [
+    {
+      "id": "3f7970f27329762a37f5e4727e319cbffeade825",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/28015195",
+      "published_utc": "2026-08-15T09:06:39Z",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "According to the portal, a 28-year-old girl died as a result of an accident on the Phan Thiet-Dau Giai highway in Lam Dong province.",
+      "title_raw": "VnExpress раскрыл детали ДТП с экскурсионным автобусом с россиянами во Вьетнаме",
+      "lead_raw": "По данным портала, в результате аварии на автомагистрали Фантхиет - Даузяй в провинции Ламдонг погибла 28-летняя девушка",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "cccea6e114a417a053e1f0a4a1ec955d1301e4cc",
       "source": "TASS (RU)",
@@ -166,7 +185,7 @@
       "url": "https://tass.ru/armiya-i-opk/28010901",
       "published_utc": "2026-08-13T21:02:00Z",
       "title_en": "Tanker Garayev extinguished a fire in his car and destroyed the firing points of the Ukrainian Armed Forces",
-      "lead_en": "The Russian serviceman skillfully brought the combat vehicle out of harm's way and continued to fire at enemy positions",
+      "lead_en": "The Russian serviceman skillfully removed the combat vehicle from under attack and continued to fire at enemy positions",
       "title_raw": "Танкист Гараев потушил пожар в машине и уничтожил огневые точки ВСУ",
       "lead_raw": "Российский военнослужащий умело вывел боевую машину из-под удара и продолжил обстреливать позиции противника",
       "topic_scores": {
@@ -243,28 +262,6 @@
         "local_events"
       ],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "a0ffd6fa057fdc20f42d9b18a0555975ce72ba1e",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/08/13/russian-navy-officer-reportedly-killed-in-bomb-blast-in-occupied-sevastopol",
-      "published_utc": "2026-08-13T09:36:49Z",
-      "title_en": "Russian Navy officer reportedly killed in bomb blast in occupied Sevastopol",
-      "lead_en": "A local resident died in an explosion in occupied Sevastopol, according to Mash and Baza, Telegram channels close to Russian security services.",
-      "title_raw": "Russian Navy officer reportedly killed in bomb blast in occupied Sevastopol",
-      "lead_raw": "A local resident died in an explosion in occupied Sevastopol, according to Mash and Baza, Telegram channels close to Russian security services.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
