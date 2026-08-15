@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-08-15T13:29:07Z",
+  "updated_at_utc": "2026-08-15T14:20:56Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 13,
   "articles": [
+    {
+      "id": "c6f4cfd66a249021e251831731c6caad6d77136e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2173715",
+      "published_utc": "2026-08-15T14:09:25Z",
+      "title_en": "Flooding Ukrainian army with weapons cannot influence course of special military operation",
+      "lead_en": "Pumping more weaponry into Zelensky’s junta is incapable of having any significant impact on the course of the special military operation as it unfolds according to Russia’s just scenario, she said",
+      "title_raw": "Flooding Ukrainian army with weapons cannot influence course of special military operation",
+      "lead_raw": "Pumping more weaponry into Zelensky’s junta is incapable of having any significant impact on the course of the special military operation as it unfolds according to Russia’s just scenario, she said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "f0fdda8ae6d4b5228a9582fc691c594b913eaa5e",
       "source": "TASS (EN)",
@@ -186,7 +207,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/sport/28011635",
       "published_utc": "2026-08-14T06:44:06Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Climbers do not plan to evacuate Nagovitsina’s body",
       "lead_en": "As the chairman of the commission on classical mountaineering of the Russian Mountaineering Federation, Alexander Yakovenko, said, this could happen if the relatives of the deceased request",
       "title_raw": "Альпинисты не планируют эвакуацию тела Наговициной",
       "lead_raw": "Как сообщил председатель комиссии по классическому альпинизму Федерации альпинизма России Александр Яковенко, это может произойти в случае просьбы родственников погибшей",
@@ -206,7 +227,7 @@
       "url": "https://tass.ru/armiya-i-opk/28010901",
       "published_utc": "2026-08-13T21:02:00Z",
       "title_en": "Tanker Garayev extinguished a fire in his car and destroyed the firing points of the Ukrainian Armed Forces",
-      "lead_en": "The Russian serviceman skillfully brought the combat vehicle out of harm's way and continued to fire at enemy positions",
+      "lead_en": "The Russian serviceman skillfully removed the combat vehicle from under attack and continued to fire at enemy positions",
       "title_raw": "Танкист Гараев потушил пожар в машине и уничтожил огневые точки ВСУ",
       "lead_raw": "Российский военнослужащий умело вывел боевую машину из-под удара и продолжил обстреливать позиции противника",
       "topic_scores": {
@@ -239,28 +260,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "fb71a9310a90becab1af5185b5671a74179d758b",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/08/13/explosion-kills-russian-serviceman-in-occupied-sevastopol-unconfirmed-reports-identify-the-victim-as-a-former-ukrainian-submarine-commander-who-defected-to-russia",
-      "published_utc": "2026-08-13T14:11:57Z",
-      "title_en": "Explosion kills Russian serviceman in occupied Sevastopol. Unconfirmed reports identify the victim as a former Ukrainian submarine commander who defected to Russia.",
-      "lead_en": "A bomb explosion killed a Russian serviceman in occupied Sevastopol. The regional branch of Russia’s Federal Security Service (FSB) announced that it had detained a Russian citizen born in 1994 on suspicion of carrying out the attack, allegedly acting on the orders of Ukrainian intelligence services.",
-      "title_raw": "Explosion kills Russian serviceman in occupied Sevastopol. Unconfirmed reports identify the victim as a former Ukrainian submarine commander who defected to Russia.",
-      "lead_raw": "A bomb explosion killed a Russian serviceman in occupied Sevastopol. The regional branch of Russia’s Federal Security Service (FSB) announced that it had detained a Russian citizen born in 1994 on suspicion of carrying out the attack, allegedly acting on the orders of Ukrainian intelligence services.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
