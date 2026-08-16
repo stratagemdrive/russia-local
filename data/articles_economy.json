@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-08-16T01:15:27Z",
+  "updated_at_utc": "2026-08-16T02:58:45Z",
   "keep_hours": 48,
   "topic": "economy",
   "count": 44,
   "articles": [
+    {
+      "id": "1b0a1b93e049ea8c595ca5857a13b108b0256d6d",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2173789",
+      "published_utc": "2026-08-16T01:54:23Z",
+      "title_en": "Russian expert says not surprised at Turkey’s potential re-exports of US weapons to Kiev",
+      "lead_en": "Ivan Timofeyev, director general of the Russian International Affairs Council, said that Turkey has maintained quite a close and long-time relationship with Ukraine in the military-technical sphere",
+      "title_raw": "Russian expert says not surprised at Turkey’s potential re-exports of US weapons to Kiev",
+      "lead_raw": "Ivan Timofeyev, director general of the Russian International Affairs Council, said that Turkey has maintained quite a close and long-time relationship with Ukraine in the military-technical sphere",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "62165e17708ce23c948aee3e6453d221ed7ce759",
       "source": "TASS (RU)",
@@ -860,27 +881,6 @@
       },
       "topics": [],
       "primary_topic": "economy"
-    },
-    {
-      "id": "28365a7d019fff819465b548d553574004b0daca",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28011183",
-      "published_utc": "2026-08-14T02:50:24Z",
-      "title_en": "NHK reported on Japan's study of response measures to Putin's trip to the Kuril Islands",
-      "lead_en": "According to Japanese public television, strengthening anti-Russian sanctions is being considered",
-      "title_raw": "NHK сообщило об изучении Японией ответных мер на поездку Путина на Курилы",
-      "lead_raw": "По данным японского общественного телевидения, рассматривается усиление антироссийских санкций",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
