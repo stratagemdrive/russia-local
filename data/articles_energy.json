@@ -1,9 +1,97 @@
 {
-  "updated_at_utc": "2026-08-16T14:21:14Z",
+  "updated_at_utc": "2026-08-16T15:20:21Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 27,
+  "count": 28,
   "articles": [
+    {
+      "id": "15a6aafd4d7bcd3146c2a18333a8b818f11a0b4c",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2173883",
+      "published_utc": "2026-08-16T15:00:23Z",
+      "title_en": "Russian forces hit three dry cargo ships, two tankers at Odessa port",
+      "lead_en": "Fuel tanks were also destroyed, the Russian defense ministry said",
+      "title_raw": "Russian forces hit three dry cargo ships, two tankers at Odessa port",
+      "lead_raw": "Fuel tanks were also destroyed, the Russian defense ministry said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "8f1fd5638a396c4e6a5cf8d987d11d64d06a385e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28016935",
+      "published_utc": "2026-08-16T14:33:47Z",
+      "title_en": "The Russian Armed Forces hit three dry cargo ships and two tankers in the port of Odessa",
+      "lead_en": "The Russian military also hit fuel tanks, the Ministry of Defense reported.",
+      "title_raw": "ВС РФ поразили три сухогруза и два танкера в порту Одесса",
+      "lead_raw": "Российские военные также ударили по резервуарам с топливом, сообщили в Минобороны",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "08d19c545389ae765a8b9e565777fbfa27888897",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28016933",
+      "published_utc": "2026-08-16T14:33:43Z",
+      "title_en": "The Russian Armed Forces hit the parking lot of Ukrainian Navy patrol boats in Vilkovo",
+      "lead_en": "The crews accompanied sea vessels with military cargo and fuel for the Ukrainian Armed Forces, the Russian Ministry of Defense reported.",
+      "title_raw": "ВС РФ поразили в Вилково стоянку патрульных катеров ВМС Украины",
+      "lead_raw": "Экипажи сопровождали морские суда с грузами военного назначения и топливом для ВСУ, сообщили в Минобороны РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "9bd39c70c8647b1c04dcb2d4da698a080b215789",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28016927",
+      "published_utc": "2026-08-16T14:30:38Z",
+      "title_en": "The Russian Armed Forces hit the production of unmanned boats",
+      "lead_en": "They were used to carry out attacks on sea vessels and energy infrastructure facilities in the Black Sea, as well as Russian coastal cities, the Ministry of Defense reported.",
+      "title_raw": "ВС РФ ударили по производству безэкипажных катеров",
+      "lead_raw": "Они применялись для совершения атак на морские суда и объекты энергетической инфраструктуры в акватории Черного моря, а также российские прибрежные города, сообщили в Минобороны",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "b039b029126732567c61e42f15dbe0c260a99261",
       "source": "TASS (RU)",
@@ -155,28 +243,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "b2a5a14eb0420ffbcb7c3bf9c70d1554fcfddd66",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28015489",
-      "published_utc": "2026-08-15T12:50:40Z",
-      "title_en": "NYT: countries near the borders of the Russian Federation do not trust Germany and France to represent their interests",
-      "lead_en": "According to the newspaper, Great Britain, France and Germany believe that they should become the main negotiators from Europe in support of Ukraine",
-      "title_raw": "NYT: страны у границ РФ не доверяют Германии и Франции представлять их интересы",
-      "lead_raw": "По данным газеты, Великобритания, Франция и Германия считают, что именно они должны стать основными переговорщиками от Европы в поддержку Украины",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     },
     {
       "id": "0eeb8df6ffc20f0f2649e70a7134dd90fda80152",
@@ -400,7 +466,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/ekonomika/28012291",
       "published_utc": "2026-08-14T16:43:19Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Electricity generation by Inter RAO in the first half of the year decreased by 5%",
       "lead_en": "The company's electricity generation in Russian generation decreased by 4.6%, to 61.9 billion kWh",
       "title_raw": "Выработка электроэнергии \"Интер РАО\" в I полугодии снизилась на 5%",
       "lead_raw": "Выработка электроэнергии компании в российской генерации сократилась на 4,6%, до 61,9 млрд кВт⋅ч",
@@ -536,50 +602,6 @@
         "diplomacy": 0,
         "military": 3,
         "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "c8a63c52930db3892b7d7e9d69aa2535d8af33c6",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2173453",
-      "published_utc": "2026-08-14T15:16:25Z",
-      "title_en": "Russia's inflation stabilizing, says economy minister",
-      "lead_en": "Maxim Reshetnikov noted that a certain level of uncertainty persisted in the economy, driven in part by developments in the fuel market and recent terrorist attacks",
-      "title_raw": "Russia's inflation stabilizing, says economy minister",
-      "lead_raw": "Maxim Reshetnikov noted that a certain level of uncertainty persisted in the economy, driven in part by developments in the fuel market and recent terrorist attacks",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "0d3df82b73511f0ee097191afc8c7819e64982ae",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2173455",
-      "published_utc": "2026-08-14T15:15:10Z",
-      "title_en": "Russian forces deliver strikes on Ukrainian military warehouses at Odessa, Yuzhny ports",
-      "lead_en": "A fuel and lubricant tank of the Ukrainian armed forces was hit in the port of Odessa",
-      "title_raw": "Russian forces deliver strikes on Ukrainian military warehouses at Odessa, Yuzhny ports",
-      "lead_raw": "A fuel and lubricant tank of the Ukrainian armed forces was hit in the port of Odessa",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
         "economy": 0,
         "local_events": 0
       },
