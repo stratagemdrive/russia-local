@@ -1,18 +1,18 @@
 {
-  "updated_at_utc": "2026-08-16T09:25:52Z",
+  "updated_at_utc": "2026-08-16T10:21:38Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 25,
   "articles": [
     {
-      "id": "5ddc933685c63dda50197670b6c81bc233e9b247",
+      "id": "4a3a69900d98b7527eedc7b73d8ae1b438ce7ada",
       "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28016661",
-      "published_utc": "2026-08-16T09:16:53Z",
-      "title_en": "The Russian Armed Forces hit the transport and energy infrastructure used by the Armed Forces of Ukraine",
-      "lead_en": "",
-      "title_raw": "ВС РФ поразили используемую ВСУ транспортную, энергетическую инфраструктуру",
-      "lead_raw": "",
+      "url": "https://tass.ru/ekonomika/28016683",
+      "published_utc": "2026-08-16T09:51:40Z",
+      "title_en": "Expert Moon: full participation of the Republic of Korea in the WEF would be timely",
+      "lead_en": "According to the chairman of the Korean-Russian Friendship Association, “there remains great potential for cooperation” between Moscow and Seoul “in areas such as energy, logistics, and agriculture.”",
+      "title_raw": "Эксперт Мун: полноценное участие Республики Корея в ВЭФ было бы своевременным",
+      "lead_raw": "По словам председателя Ассоциации корейско-российской дружбы, \"сохраняется большой потенциал для сотрудничества\" между Москвой и Сеулом \"в таких областях, как энергетика, логистика, сельское хозяйство\"",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
@@ -24,6 +24,28 @@
         "energy"
       ],
       "primary_topic": "energy"
+    },
+    {
+      "id": "5ddc933685c63dda50197670b6c81bc233e9b247",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28016661",
+      "published_utc": "2026-08-16T09:16:53Z",
+      "title_en": "The Russian Armed Forces hit the transport and energy infrastructure used by the Armed Forces of Ukraine",
+      "lead_en": "Russian troops also defeated the assembly and storage sites of UAVs and unmanned boats, as well as the deployment points of the Armed Forces of Ukraine and foreign mercenaries",
+      "title_raw": "ВС РФ поразили используемую ВСУ транспортную, энергетическую инфраструктуру",
+      "lead_raw": "Российские войска также нанесли поражение местам сборки и хранения БПЛА и безэкипажных катеров, а также пунктам дислокации ВСУ и иностранных наемников",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
     },
     {
       "id": "7ed8b056a15f9cc9c95d37db882d015abce94a11",
@@ -183,7 +205,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/politika/28014837",
       "published_utc": "2026-08-15T05:57:24Z",
-      "title_en": "Alaudinov: Zelensky had to admit that winter will be the most difficult for Ukraine",
+      "title_en": "Alaudinov: Zelensky had to admit that winter for Ukraine will be the most difficult",
       "lead_en": "According to the commander of the Akhmat special forces, Russian troops knocked out all Ukrainian energy and infrastructure that was used by the military-industrial complex, and also hit most of the military factories",
       "title_raw": "Алаудинов: Зеленскому пришлось признать, что зима для Украины будет самой тяжелой",
       "lead_raw": "По словам командира спецназа \"Ахмат\", российскими войсками была выбита вся украинская энергетика и инфраструктура, которая использовалась ВПК, а также поражена большая часть военных заводов",
@@ -522,27 +544,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "3ce6ad4c49f0da297348d7a7192f8c67b628fcde",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/pressreview/2172687",
-      "published_utc": "2026-08-14T10:00:01Z",
-      "title_en": "Press review: Putin’s Iturup visit sends message to Japan as EU falls short of gas targets",
-      "lead_en": "Top stories from the Russian press on Friday, August 14th",
-      "title_raw": "Press review: Putin’s Iturup visit sends message to Japan as EU falls short of gas targets",
-      "lead_raw": "Top stories from the Russian press on Friday, August 14th",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
