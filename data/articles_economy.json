@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-08-16T06:38:14Z",
+  "updated_at_utc": "2026-08-16T08:27:56Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 43,
+  "count": 42,
   "articles": [
+    {
+      "id": "7ed8b056a15f9cc9c95d37db882d015abce94a11",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2173821",
+      "published_utc": "2026-08-16T07:12:06Z",
+      "title_en": "Russian forces strike defense industry facilities, oil refinery, steel plant",
+      "lead_en": "According to the Russian Defense Ministry, Russian troops also struck the UkrDefens company in Kyiv, which produces components for attack drones, Khrushch interceptor drones, and Harpia anti-aircraft missiles",
+      "title_raw": "Russian forces strike defense industry facilities, oil refinery, steel plant",
+      "lead_raw": "According to the Russian Defense Ministry, Russian troops also struck the UkrDefens company in Kyiv, which produces components for attack drones, Khrushch interceptor drones, and Harpia anti-aircraft missiles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 4,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "fdd12b97f787424aaeadd6b7e3174985ff9bf925",
       "source": "TASS (RU)",
@@ -29,7 +51,7 @@
       "url": "https://tass.ru/ekonomika/28016241",
       "published_utc": "2026-08-16T04:47:12Z",
       "title_en": "\"Russian Standard\" spoke about the growth of account replenishment through ATMs",
-      "lead_en": "According to the bank's research, Russians in the first half of 2026 deposited money more often than withdrew",
+      "lead_en": "According to a bank study, Russians in the first half of 2026 deposited money more often than withdrew",
       "title_raw": "\"Русский стандарт\" рассказал о росте пополнения счетов через банкоматы",
       "lead_raw": "По данным исследования банка, россияне в первом полугодии 2026 года чаще вносили деньги, чем снимали",
       "topic_scores": {
@@ -820,49 +842,6 @@
         "local_events": 0
       },
       "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "1607e565c978620d3e8506966b616240ef1b60f1",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/08/14/russia-plans-to-double-its-no-fly-zones",
-      "published_utc": "2026-08-14T07:56:55Z",
-      "title_en": "Russia plans to double its no-fly zones",
-      "lead_en": "Russia’s Transportation Ministry plans to expand the list of no-fly zones, adding zones over fuel and energy facilities, defense industry facilities, and transportation infrastructure. The Russian newspaper Kommersant reviewed the draft of the relevant order.",
-      "title_raw": "Russia plans to double its no-fly zones",
-      "lead_raw": "Russia’s Transportation Ministry plans to expand the list of no-fly zones, adding zones over fuel and energy facilities, defense industry facilities, and transportation infrastructure. The Russian newspaper Kommersant reviewed the draft of the relevant order.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "b72e0ecb23147f34675efeb70d639ea4a0ea6a1e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28011723",
-      "published_utc": "2026-08-14T07:03:17Z",
-      "title_en": "The Russian stock market began to grow after declining at the beginning of trading",
-      "lead_en": "The yuan exchange rate rose above 12.5 rubles",
-      "title_raw": "Российский рынок акций перешел к росту после снижения в начале торгов",
-      "lead_raw": "Курс юаня поднялся выше 12,5 рубля",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
       "primary_topic": "economy"
     }
   ]

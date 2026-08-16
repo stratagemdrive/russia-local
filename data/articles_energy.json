@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-08-16T06:38:14Z",
+  "updated_at_utc": "2026-08-16T08:27:56Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 25,
+  "count": 24,
   "articles": [
+    {
+      "id": "7ed8b056a15f9cc9c95d37db882d015abce94a11",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2173821",
+      "published_utc": "2026-08-16T07:12:06Z",
+      "title_en": "Russian forces strike defense industry facilities, oil refinery, steel plant",
+      "lead_en": "According to the Russian Defense Ministry, Russian troops also struck the UkrDefens company in Kyiv, which produces components for attack drones, Khrushch interceptor drones, and Harpia anti-aircraft missiles",
+      "title_raw": "Russian forces strike defense industry facilities, oil refinery, steel plant",
+      "lead_raw": "According to the Russian Defense Ministry, Russian troops also struck the UkrDefens company in Kyiv, which produces components for attack drones, Khrushch interceptor drones, and Harpia anti-aircraft missiles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 4,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "4eb79aebd2858d533d586979c60717be7abbb899",
       "source": "TASS (RU)",
@@ -140,7 +162,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/politika/28014837",
       "published_utc": "2026-08-15T05:57:24Z",
-      "title_en": "Alaudinov: Zelensky had to admit that winter will be the most difficult for Ukraine",
+      "title_en": "Alaudinov: Zelensky had to admit that winter for Ukraine will be the most difficult",
       "lead_en": "According to the commander of the Akhmat special forces, Russian troops knocked out all Ukrainian energy and infrastructure that was used by the military-industrial complex, and also hit most of the military factories",
       "title_raw": "Алаудинов: Зеленскому пришлось признать, что зима для Украины будет самой тяжелой",
       "lead_raw": "По словам командира спецназа \"Ахмат\", российскими войсками была выбита вся украинская энергетика и инфраструктура, которая использовалась ВПК, а также поражена большая часть военных заводов",
@@ -500,50 +522,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "1607e565c978620d3e8506966b616240ef1b60f1",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/08/14/russia-plans-to-double-its-no-fly-zones",
-      "published_utc": "2026-08-14T07:56:55Z",
-      "title_en": "Russia plans to double its no-fly zones",
-      "lead_en": "Russia’s Transportation Ministry plans to expand the list of no-fly zones, adding zones over fuel and energy facilities, defense industry facilities, and transportation infrastructure. The Russian newspaper Kommersant reviewed the draft of the relevant order.",
-      "title_raw": "Russia plans to double its no-fly zones",
-      "lead_raw": "Russia’s Transportation Ministry plans to expand the list of no-fly zones, adding zones over fuel and energy facilities, defense industry facilities, and transportation infrastructure. The Russian newspaper Kommersant reviewed the draft of the relevant order.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "1e760a898ad485e7c50bb6cd1b5f1a1925011a06",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2172683",
-      "published_utc": "2026-08-14T06:53:25Z",
-      "title_en": "Russian forces strike two tugboats, Izmail port rail station in new attacks",
-      "lead_en": "According to the Russian Defense Ministry, a rail station at the port of Izmail has been used to load, store and transport military cargo and fuel for Ukrainian troops",
-      "title_raw": "Russian forces strike two tugboats, Izmail port rail station in new attacks",
-      "lead_raw": "According to the Russian Defense Ministry, a rail station at the port of Izmail has been used to load, store and transport military cargo and fuel for Ukrainian troops",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
