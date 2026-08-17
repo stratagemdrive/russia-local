@@ -1,9 +1,50 @@
 {
-  "updated_at_utc": "2026-08-17T08:41:31Z",
+  "updated_at_utc": "2026-08-17T09:40:04Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 14,
+  "count": 15,
   "articles": [
+    {
+      "id": "7679e339a2183bee7ec87c3e043a8fca690ba43b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2174061",
+      "published_utc": "2026-08-17T09:13:19Z",
+      "title_en": "Ukrainian missile attack on Russia’s Belgorod Region kills six, leaves four others injured",
+      "lead_en": "A building was destroyed by fire and a car was damaged at the scene",
+      "title_raw": "Ukrainian missile attack on Russia’s Belgorod Region kills six, leaves four others injured",
+      "lead_raw": "A building was destroyed by fire and a car was damaged at the scene",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "1bd7db7e8f418c58f0c2e9a64b3ab19c5f6a8951",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28018503",
+      "published_utc": "2026-08-17T09:07:53Z",
+      "title_en": "In the Amur region, the new Mi-8MTV was named in honor of the Hero of Russia Vasily Kleshchenko",
+      "lead_en": "The aircraft will extinguish fires, rescue people and transport cargo",
+      "title_raw": "В Приамурье новый Ми-8МТВ назвали в честь Героя России Василия Клещенко",
+      "lead_raw": "Воздушное судно будет тушить пожары, спасать людей и перевозить грузы",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "9393570a326646015c56d6da124ad6eb151dc562",
       "source": "Meduza (EN)",
@@ -267,25 +308,6 @@
       "topics": [
         "local_events"
       ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "3f7970f27329762a37f5e4727e319cbffeade825",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/28015195",
-      "published_utc": "2026-08-15T09:06:39Z",
-      "title_en": "VnExpress revealed details of an accident with a tour bus with Russians in Vietnam",
-      "lead_en": "According to the portal, a 28-year-old girl died as a result of an accident on the Phan Thiet-Dau Giai highway in Lam Dong province.",
-      "title_raw": "VnExpress раскрыл детали ДТП с экскурсионным автобусом с россиянами во Вьетнаме",
-      "lead_raw": "По данным портала, в результате аварии на автомагистрали Фантхиет - Даузяй в провинции Ламдонг погибла 28-летняя девушка",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
       "primary_topic": "local_events"
     }
   ]
