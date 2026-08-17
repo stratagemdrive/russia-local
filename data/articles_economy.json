@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-08-17T09:40:04Z",
+  "updated_at_utc": "2026-08-17T11:24:23Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 36,
+  "count": 35,
   "articles": [
+    {
+      "id": "12d5f1dafd78f347d8c07359f2963b0d62003900",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28018551",
+      "published_utc": "2026-08-17T09:43:59Z",
+      "title_en": "In the last agricultural season, the Russian Federation retained world leadership in wheat exports",
+      "lead_en": "Russia exported about 46.5 million tons of grain crops",
+      "title_raw": "РФ в прошлом сельхозсезоне сохранила мировое лидерство по экспорту пшеницы",
+      "lead_raw": "Россия экспортировала порядка 46,5 млн тонн зерновой культуры",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
     {
       "id": "485c54c7d8f1a903e07c132a70a3fa5a7a360d3e",
       "source": "The Moscow Times",
@@ -408,7 +427,7 @@
       "url": "https://tass.ru/ekonomika/28017489",
       "published_utc": "2026-08-17T03:40:37Z",
       "title_en": "Izvestia learned about the possible closure of more than 2 thousand bank branches in the Russian Federation",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "By the end of the year, more than 2.1 thousand branches of financial organizations may stop working, the newspaper reported",
       "title_raw": "\"Известия\" узнали о возможном закрытии более 2 тыс. отделений банков в РФ",
       "lead_raw": "К концу года перестать работать могут свыше 2,1 тыс. отделений финорганизаций, сообщила газета",
       "topic_scores": {
@@ -679,49 +698,6 @@
       },
       "topics": [],
       "primary_topic": "economy"
-    },
-    {
-      "id": "c7cd5e8cd12859a3e460cdbb1f2ae1efe44e4586",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28015365",
-      "published_utc": "2026-08-15T11:17:25Z",
-      "title_en": "The Russian Embassy is clarifying the details of the rescue of five Russian women in the Philippines",
-      "lead_en": "Citizens of the Russian Federation could become victims of human traffickers",
-      "title_raw": "Посольство РФ выясняет детали спасения пяти россиянок на Филиппинах",
-      "lead_raw": "Граждане РФ могли стать жертвами торговцев людьми",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "842bf4dde27c3334fe0e8ebdcb0b94a0ad85e5a0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/28015327",
-      "published_utc": "2026-08-15T10:27:12Z",
-      "title_en": "In the Philippines, five Russian women were rescued from a human trafficking network",
-      "lead_en": "The victims were handed over to Makati authorities to receive the necessary assistance, writes the Cebu Daily News.",
-      "title_raw": "На Филиппинах пять россиянок спасли из сети торговли людьми",
-      "lead_raw": "Пострадавших передали властям Макати для получения необходимой помощи, пишет газета Cebu Daily News",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
