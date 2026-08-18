@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-08-18T04:34:18Z",
+  "updated_at_utc": "2026-08-18T05:28:00Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 19,
   "articles": [
+    {
+      "id": "3a8b946c145ff6aad56c0d35169900c152a2e74a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2174439",
+      "published_utc": "2026-08-18T05:12:07Z",
+      "title_en": "Ukrainian strikes kill around 70 Russian residents in past week, including 3 children",
+      "lead_en": "406 people were injured",
+      "title_raw": "Ukrainian strikes kill around 70 Russian residents in past week, including 3 children",
+      "lead_raw": "406 people were injured",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "39962b419f2810f3608bdf52d8ef38350337f910",
       "source": "TASS (RU)",
@@ -365,27 +384,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "0df54d45a757e1be9510446bf36aed7d9eef0afc",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2173809",
-      "published_utc": "2026-08-16T04:49:01Z",
-      "title_en": "Three killed, one injured in drone attack on Russia’s Rostov Region — governor",
-      "lead_en": "According to Yury Slyusar, more than 150 UAVs were destroyed over three cities and nine districts in the region",
-      "title_raw": "Three killed, one injured in drone attack on Russia’s Rostov Region — governor",
-      "lead_raw": "According to Yury Slyusar, more than 150 UAVs were destroyed over three cities and nine districts in the region",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
     }
   ]
 }
