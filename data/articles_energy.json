@@ -1,9 +1,74 @@
 {
-  "updated_at_utc": "2026-08-18T08:35:28Z",
+  "updated_at_utc": "2026-08-18T10:26:42Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 29,
+  "count": 30,
   "articles": [
+    {
+      "id": "1ea33a8684a50496730efc43d8a46efebcb01bbe",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28021795",
+      "published_utc": "2026-08-18T09:39:25Z",
+      "title_en": "The Russian Armed Forces hit logistics centers and energy facilities used by the Armed Forces of Ukraine",
+      "lead_en": "Russian forces also attacked drone assembly shops",
+      "title_raw": "ВС РФ поразили используемые ВСУ логистические центры и объекты энергетики",
+      "lead_raw": "Российские силы атаковали также цеха сборки беспилотников",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "fbf869b17b2d49798b62080642f5d4f6f0b921f6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28021775",
+      "published_utc": "2026-08-18T09:29:45Z",
+      "title_en": "The Russian Armed Forces hit tanks with fuel intended for the Ukrainian Armed Forces in the port of Odessa",
+      "lead_en": "Russian forces attacked with attack drones",
+      "title_raw": "ВС РФ поразили в порту Одесса резервуары с топливом, предназначенным для ВСУ",
+      "lead_raw": "Российские силы атаковали ударными беспилотниками",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "7a51d3f7bf636b033d2580726957acd37caa3456",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/info/23300367",
+      "published_utc": "2026-08-18T08:52:00Z",
+      "title_en": "Oil, weapons and nuclear power plants. History of relations between Russia and Myanmar",
+      "lead_en": "Negotiations between the presidents of the two countries, Vladimir Putin and Min Aung Hlaing, will take place in Moscow on August 18",
+      "title_raw": "Нефть, оружие и АЭС. История отношений России и Мьянмы",
+      "lead_raw": "В Москве 18 августа состоятся переговоры президентов двух стран Владимира Путина и Мин Аун Хлайна",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "b8ce0aaa08e1085a43e9adeb12e688a9d55c1d14",
       "source": "Meduza (EN)",
@@ -572,49 +637,6 @@
       "topic_scores": {
         "diplomacy": 0,
         "military": 3,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "4a3a69900d98b7527eedc7b73d8ae1b438ce7ada",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28016683",
-      "published_utc": "2026-08-16T09:51:40Z",
-      "title_en": "Expert Moon: full participation of the Republic of Korea in the WEF would be timely",
-      "lead_en": "According to the chairman of the Korean-Russian Friendship Association, “there remains great potential for cooperation” between Moscow and Seoul “in areas such as energy, logistics, and agriculture.”",
-      "title_raw": "Эксперт Мун: полноценное участие Республики Корея в ВЭФ было бы своевременным",
-      "lead_raw": "По словам председателя Ассоциации корейско-российской дружбы, \"сохраняется большой потенциал для сотрудничества\" между Москвой и Сеулом \"в таких областях, как энергетика, логистика, сельское хозяйство\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "5ddc933685c63dda50197670b6c81bc233e9b247",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28016661",
-      "published_utc": "2026-08-16T09:16:53Z",
-      "title_en": "The Russian Armed Forces hit the transport and energy infrastructure used by the Armed Forces of Ukraine",
-      "lead_en": "Russian troops also defeated the assembly and storage sites of UAVs and unmanned boats, as well as the deployment points of the Armed Forces of Ukraine and foreign mercenaries",
-      "title_raw": "ВС РФ поразили используемую ВСУ транспортную, энергетическую инфраструктуру",
-      "lead_raw": "Российские войска также нанесли поражение местам сборки и хранения БПЛА и безэкипажных катеров, а также пунктам дислокации ВСУ и иностранных наемников",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
         "energy": 1,
         "economy": 0,
         "local_events": 0
