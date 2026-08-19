@@ -1,18 +1,60 @@
 {
-  "updated_at_utc": "2026-08-19T18:33:51Z",
+  "updated_at_utc": "2026-08-19T20:25:57Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 24,
+  "count": 27,
   "articles": [
     {
-      "id": "7617c7b57bb0deca1a90a89db8a8c332efd2e58a",
+      "id": "66ab644a1bd1ca3f79c2af2f76d90b5aa9bc2e88",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2175337",
+      "published_utc": "2026-08-19T20:09:47Z",
+      "title_en": "Russian aircraft to begin firefighting in Serbia on August 20 — group head",
+      "lead_en": "Aircraft Commander Andrey Vilkov says the city of Nis \"is welcoming us with open arms and wonderful people\"",
+      "title_raw": "Russian aircraft to begin firefighting in Serbia on August 20 — group head",
+      "lead_raw": "Aircraft Commander Andrey Vilkov says the city of Nis \"is welcoming us with open arms and wonderful people\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "55b207e4aee706b68adf61e3848d27d357697e7f",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/08/19/russian-drones-kill-two-police-officers-injure-20-in-zhytomyr-headquarters-strike",
+      "published_utc": "2026-08-19T19:59:48Z",
+      "title_en": "Russian drones kill two police officers, injure 20 in Zhytomyr headquarters strike",
+      "lead_en": "Russian military forces struck the regional headquarters of Ukraine’s National Police in Zhytomyr with “Banderol” drones, sparking a fire in the building.",
+      "title_raw": "Russian drones kill two police officers, injure 20 in Zhytomyr headquarters strike",
+      "lead_raw": "Russian military forces struck the regional headquarters of Ukraine’s National Police in Zhytomyr with “Banderol” drones, sparking a fire in the building.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "2b54d49a000e4970951649194cde32cb89d7ba07",
       "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/28026901",
-      "published_utc": "2026-08-19T18:23:19Z",
-      "title_en": "Il-76 of the Russian Ministry of Emergency Situations arrived in Serbia to participate in extinguishing wild fires",
-      "lead_en": "",
-      "title_raw": "Ил-76 МЧС России прибыл в Сербию для участия в тушении природных пожаров",
-      "lead_raw": "",
+      "url": "https://tass.ru/proisshestviya/28026979",
+      "published_utc": "2026-08-19T19:27:29Z",
+      "title_en": "A special team of the Russian Ministry of Emergency Situations will begin extinguishing fires in Serbia on August 20",
+      "lead_en": "The aircraft commander, Andrei Vilkov, noted that Nis welcomed Russian specialists “with open arms and very good people.”",
+      "title_raw": "Спецборт МЧС России приступит к тушению пожаров в Сербии 20 августа",
+      "lead_raw": "Командир самолета Андрей Вилков отметил, что Ниш встретил российских специалистов \"с распростертыми объятиями и очень хорошими людьми\"",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
@@ -26,11 +68,70 @@
       "primary_topic": "local_events"
     },
     {
+      "id": "98de0191e1c3fa1c744575c269da47135bb04e25",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2175325",
+      "published_utc": "2026-08-19T19:18:49Z",
+      "title_en": "Russian Emergencies Ministry aircraft arrives in Serbia to help fight major wildfires",
+      "lead_en": "The aircraft landed at Nis airport",
+      "title_raw": "Russian Emergencies Ministry aircraft arrives in Serbia to help fight major wildfires",
+      "lead_raw": "The aircraft landed at Nis airport",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "523806ff75093c87c5216617a0dcfcabdd5cc268",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28026943",
+      "published_utc": "2026-08-19T19:03:59Z",
+      "title_en": "The Russian Federation conducted 12 emergency humanitarian response operations abroad in 2026",
+      "lead_en": "More than 500 tons of humanitarian aid were delivered to the needy population of foreign countries and about 390 citizens of Russia and CIS countries were evacuated",
+      "title_raw": "РФ провела за рубежом 12 операций чрезвычайного гуманитарного реагирования в 2026 году",
+      "lead_raw": "Нуждающемуся населению иностранных государств доставлено более 500 тонн грузов гуманитарной помощи и эвакуировано порядка 390 граждан России и стран СНГ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "7617c7b57bb0deca1a90a89db8a8c332efd2e58a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/28026901",
+      "published_utc": "2026-08-19T18:23:19Z",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "The special flight landed at the airport in Nis",
+      "title_raw": "Российский Ил-76 прибыл в Сербию для тушения природных пожаров",
+      "lead_raw": "Спецборт сел в аэропорту города Ниш",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
       "id": "92d4b8d9f5ef50410affbb2558649dc05b4369bc",
       "source": "TASS (RU)",
       "url": "https://tass.ru/proisshestviya/28026625",
       "published_utc": "2026-08-19T15:38:05Z",
-      "title_en": "A tourist from India died on Mount Cheget in the Kabardino-Balkaria",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "lead_en": "Rescuers from the Russian Ministry of Emergency Situations rushed to the scene of the incident",
       "title_raw": "На горе Чегет в КБР погиб турист из Индии",
       "lead_raw": "К месту происшествия выдвинулись спасатели МЧС России",
@@ -73,7 +174,7 @@
       "url": "https://tass.ru/proisshestviya/28026435",
       "published_utc": "2026-08-19T14:42:04Z",
       "title_en": "The Russian Embassy does not have information about the Russians on the helicopter that crashed in Kenya",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "The plane crashed near Mount Ololokwe",
       "title_raw": "Посольство РФ не располагает данными о россиянах на разбившемся в Кении вертолете",
       "lead_raw": "Борт потерпел крушение в районе горы Ололокве",
       "topic_scores": {
@@ -107,25 +208,6 @@
       "topics": [
         "local_events"
       ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "f157cd52eb4a6c8102fe7514cd1164be0c50c8aa",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28025901",
-      "published_utc": "2026-08-19T12:50:41Z",
-      "title_en": "The Consulate General of Kazakhstan is working with Russian authorities after the death of a citizen in Omsk",
-      "lead_en": "The ministry expressed condolences to the relatives of Maxim Baginsky, who died in the fire.",
-      "title_raw": "Генконсульство Казахстана работает с органами РФ после гибели гражданина в Омске",
-      "lead_raw": "В министерстве выразили соболезнования родным погибшего при пожаре Максима Багинского",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
       "primary_topic": "local_events"
     },
     {
@@ -438,7 +520,7 @@
       "url": "https://tass.ru/politika/28020755",
       "published_utc": "2026-08-18T04:03:02Z",
       "title_en": "Miroshnik called the Ukrainian Armed Forces' strikes on Moscow this week unprecedentedly powerful attacks",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "The Ambassador at Large of the Russian Foreign Ministry noted that drone strikes led to fires at logistics facilities and damage to civilian infrastructure",
       "title_raw": "Мирошник назвал беспрецедентно мощными атаками удары ВСУ по Москве на неделе",
       "lead_raw": "Посол по особым поручениям МИД России отметил, что налеты дронов привели к пожарам на логистических объектах и повреждениям гражданской инфраструктуры",
       "topic_scores": {
@@ -474,25 +556,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "c7cd4cfff1235db6f81bf4c14ce945e3a9ed4c47",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/08/17/a-st-petersburg-clothing-brand-fired-an-employee-who-missed-work-after-her-grandfather-s-death-then-accused-her-of-orchestrating-a-harassment-campaign",
-      "published_utc": "2026-08-17T19:12:26Z",
-      "title_en": "A St. Petersburg clothing brand fired an employee who missed work after her grandfather’s death, then accused her of orchestrating a harassment campaign",
-      "lead_en": "Tamara, an employee of the St. Petersburg clothing brand OldBaby Shop (also known as “Samost,” Russian for “Selfhood”), said on Threads that she was fired after missing work because of her grandfather’s death.",
-      "title_raw": "A St. Petersburg clothing brand fired an employee who missed work after her grandfather’s death, then accused her of orchestrating a harassment campaign",
-      "lead_raw": "Tamara, an employee of the St. Petersburg clothing brand OldBaby Shop (also known as “Samost,” Russian for “Selfhood”), said on Threads that she was fired after missing work because of her grandfather’s death.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
