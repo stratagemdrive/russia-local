@@ -1,9 +1,51 @@
 {
-  "updated_at_utc": "2026-08-19T06:41:18Z",
+  "updated_at_utc": "2026-08-19T08:35:56Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 26,
+  "count": 24,
   "articles": [
+    {
+      "id": "136ce4b977b8af88007ddecf3cbd0a3287e1a8f8",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2174957",
+      "published_utc": "2026-08-19T08:28:19Z",
+      "title_en": "Damage reported at Ufa oil refinery as Russia intercepts 453 Ukrainian drones overnight",
+      "lead_en": "A medical university student from India was injured in the attack",
+      "title_raw": "Damage reported at Ufa oil refinery as Russia intercepts 453 Ukrainian drones overnight",
+      "lead_raw": "A medical university student from India was injured in the attack",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "0ed3fdb4bf5b0f9c30bb578c9b6006b0c26222d5",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/08/19/ukrainian-drones-attacked-four-russian-regions-in-two-cities-they-damaged-residential-buildings",
+      "published_utc": "2026-08-19T08:04:18Z",
+      "title_en": "Ukrainian drones attacked four Russian regions. In two cities, they damaged residential buildings.",
+      "lead_en": "Ukrainian drones struck industrial facilities in Ufa overnight on August 19, Bashkortostan Governor Radiy Khabirov said. Air defense forces shot down four of six drones, he said, while one came down in an industrial zone and sparked a fire, and another struck a residential building in the Zaton neighborhood, injuring one person.",
+      "title_raw": "Ukrainian drones attacked four Russian regions. In two cities, they damaged residential buildings.",
+      "lead_raw": "Ukrainian drones struck industrial facilities in Ufa overnight on August 19, Bashkortostan Governor Radiy Khabirov said. Air defense forces shot down four of six drones, he said, while one came down in an industrial zone and sparked a fire, and another struck a residential building in the Zaton neighborhood, injuring one person.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "8c4ea75cf8e6bb4d67bb38a87789739c22c359d8",
       "source": "Meduza (EN)",
@@ -443,88 +485,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "9393570a326646015c56d6da124ad6eb151dc562",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/08/17/the-bell-russian-state-development-corporation-fires-chief-economist-andrei-klepach-over-remarks-on-russia-s-defeat-in-economic-war-of-attrition",
-      "published_utc": "2026-08-17T08:20:59Z",
-      "title_en": "The Bell: Russian state development corporation fires chief economist Andrei Klepach over remarks on Russia’s defeat in economic ‘war of attrition’",
-      "lead_en": "Russia’s state development corporation VEB.RF fired its chief economist, Andrei Klepach, after quotes from a speech in which he said Russia cannot win the economic “war of attrition” circulated in the media.",
-      "title_raw": "The Bell: Russian state development corporation fires chief economist Andrei Klepach over remarks on Russia’s defeat in economic ‘war of attrition’",
-      "lead_raw": "Russia’s state development corporation VEB.RF fired its chief economist, Andrei Klepach, after quotes from a speech in which he said Russia cannot win the economic “war of attrition” circulated in the media.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "bc9b807cc1a8ddf336da1671f40068a0a10cd553",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2174029",
-      "published_utc": "2026-08-17T07:53:58Z",
-      "title_en": "Aftermath of Ukrainian drone attack on Russian regions, one killed in Bryansk Region",
-      "lead_en": "On-duty air defense systems intercepted a total of 205 Ukrainian fixed-wing UAVs over nine Russian regions",
-      "title_raw": "Aftermath of Ukrainian drone attack on Russian regions, one killed in Bryansk Region",
-      "lead_raw": "On-duty air defense systems intercepted a total of 205 Ukrainian fixed-wing UAVs over nine Russian regions",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "d01c6e71eb23ac69db162d1e2cd192cb83b0bdcb",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/08/17/ukrainian-missile-strike-kills-six-people-in-russia-s-belgorod-region",
-      "published_utc": "2026-08-17T07:53:07Z",
-      "title_en": "Ukrainian missile strike kills six people in Russia’s Belgorod region",
-      "lead_en": "A Ukrainian missile strike killed six people in the village of Koloskovo, in Belgorod region’s Valuysky district, Alexander Shuvaev, the region’s acting governor, said on the morning of August 17.",
-      "title_raw": "Ukrainian missile strike kills six people in Russia’s Belgorod region",
-      "lead_raw": "A Ukrainian missile strike killed six people in the village of Koloskovo, in Belgorod region’s Valuysky district, Alexander Shuvaev, the region’s acting governor, said on the morning of August 17.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "32e7492d5de74fba9248e87d54930381c1b387be",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/28017933",
-      "published_utc": "2026-08-17T06:45:50Z",
-      "title_en": "A resident of Sevastopol was detained for collecting data on Ministry of Defense facilities for the SBU",
-      "lead_en": "He also re-pledged caches containing components of explosive devices, the Russian Federal Security Service said.",
-      "title_raw": "Жителя Севастополя задержали за сбор данных об объектах Минобороны для СБУ",
-      "lead_raw": "Также он перезакладывал схроны, содержащие компоненты взрывных устройств, заявили в ЦОС ФСБ России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
