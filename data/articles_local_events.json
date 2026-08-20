@@ -1,27 +1,50 @@
 {
-  "updated_at_utc": "2026-08-20T05:29:05Z",
+  "updated_at_utc": "2026-08-20T06:43:15Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 26,
+  "count": 27,
   "articles": [
+    {
+      "id": "2dea7c61f135c22c34a066b473523aa5b5636f02",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2175447",
+      "published_utc": "2026-08-20T06:38:23Z",
+      "title_en": "Russian forces hit Fire Point facility manufacturing attack drone components in Kiev",
+      "lead_en": "The enterprise also assembled and stored boosters used in Flamingo cruise missiles",
+      "title_raw": "Russian forces hit Fire Point facility manufacturing attack drone components in Kiev",
+      "lead_raw": "The enterprise also assembled and stored boosters used in Flamingo cruise missiles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "a031fbd686498bfdf2cb9a139931f0289ebe840b",
       "source": "TASS (RU)",
       "url": "https://tass.ru/armiya-i-opk/28027825",
       "published_utc": "2026-08-20T04:58:39Z",
       "title_en": "The Russian Armed Forces hit the Fire Point enterprise, which produced components for attack UAVs",
-      "lead_en": "",
+      "lead_en": "The plant also assembled and stored boosters used in Flamingo cruise missiles, the Defense Ministry reported.",
       "title_raw": "ВС РФ поразили предприятие Fire Point, производившее компоненты для ударных БПЛА",
-      "lead_raw": "",
+      "lead_raw": "На заводе также собирали и хранили ускорители, используемые в крылатых ракетах \"Фламинго\", сообщили в Минобороны",
       "topic_scores": {
         "diplomacy": 0,
-        "military": 0,
+        "military": 2,
         "energy": 0,
         "economy": 0,
         "local_events": 1
       },
-      "topics": [],
-      "primary_topic": "local_events"
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
     },
     {
       "id": "f6c61875ef43a5362c59d077f75f5cfbbffdf1e9",
