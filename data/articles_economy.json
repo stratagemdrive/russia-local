@@ -1,9 +1,133 @@
 {
-  "updated_at_utc": "2026-08-20T06:43:15Z",
+  "updated_at_utc": "2026-08-20T08:36:58Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 113,
+  "count": 107,
   "articles": [
+    {
+      "id": "0fbf2e774cee66817d609676eff08134312d9d02",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2175485",
+      "published_utc": "2026-08-20T08:14:57Z",
+      "title_en": "IN BRIEF: What we know about Russia’s massive attack targeting defense-tech sites in Kiev",
+      "lead_en": "Russian forces struck a Fire Point plant, a Kiev-based assembly site owned by the Antonov aircraft manufacturing factory and an arsenal with M-900 thermobaric bombs and munitions for Baba-Yaga drones",
+      "title_raw": "IN BRIEF: What we know about Russia’s massive attack targeting defense-tech sites in Kiev",
+      "lead_raw": "Russian forces struck a Fire Point plant, a Kiev-based assembly site owned by the Antonov aircraft manufacturing factory and an arsenal with M-900 thermobaric bombs and munitions for Baba-Yaga drones",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "f5667f7d0d297b691652c72acd08696e4aee381a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2175483",
+      "published_utc": "2026-08-20T08:10:08Z",
+      "title_en": "Russian stocks down as main trading session opens",
+      "lead_en": "The yuan exchange rate against the ruble fell by 3.8 kopecks as trading opened",
+      "title_raw": "Russian stocks down as main trading session opens",
+      "lead_raw": "The yuan exchange rate against the ruble fell by 3.8 kopecks as trading opened",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "fe66286809a4bff4c1b724733e33d2e70ca81d2e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28028345",
+      "published_utc": "2026-08-20T08:10:01Z",
+      "title_en": "In the first half of the year, the Russian Federation increased revenue from exports of frozen pollock fillets to the EU by 34%",
+      "lead_en": "In general, Russian fish exports to the European Union during this period amounted to 94 thousand tons worth $417 million, the Fisheries Union reported",
+      "title_raw": "РФ в I полугодии увеличила выручку от экспорта мороженого филе минтая в ЕС на 34%",
+      "lead_raw": "В целом российский экспорт рыбы в Евросоюз за этот период составил 94 тыс. тонн на сумму $417 млн, сообщил Рыбный союз",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "84c1476b6a65f3a3cece6ff591b2b240d02cf1e2",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2175477",
+      "published_utc": "2026-08-20T08:03:34Z",
+      "title_en": "Fuel imports to Russia: statements by Novak and overview of market situation",
+      "lead_en": "Russian authorities expect a number of oil refineries to complete maintenance work soon, leading to a significant improvement in the fuel market situation",
+      "title_raw": "Fuel imports to Russia: statements by Novak and overview of market situation",
+      "lead_raw": "Russian authorities expect a number of oil refineries to complete maintenance work soon, leading to a significant improvement in the fuel market situation",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "d73e9603c7367726aaee9d6d59559fabf34504a8",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28028133",
+      "published_utc": "2026-08-20T07:03:07Z",
+      "title_en": "The Russian stock market began to grow at the beginning of trading",
+      "lead_en": "By 10:15 Moscow time, the Moscow Exchange index rose to 2,181.75 points",
+      "title_raw": "Рынок акций РФ в начале торгов перешел к росту",
+      "lead_raw": "К 10:15 мск индекс Мосбиржи вырос до 2 181,75 пункта",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "2c26d68b0118f03f8c681ea3f3600fea04a8116b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28028027",
+      "published_utc": "2026-08-20T06:46:16Z",
+      "title_en": "Import of fuel to Russia. The main thing from Novak’s statements about the market situation",
+      "lead_en": "Gasoline from abroad was sold at the St. Petersburg Stock Exchange",
+      "title_raw": "Импорт топлива в Россию. Главное из заявлений Новака о ситуации на рынке",
+      "lead_raw": "Бензин из-за рубежа был реализован на торгах Петербургской биржи",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "2dea7c61f135c22c34a066b473523aa5b5636f02",
       "source": "TASS (EN)",
@@ -2009,252 +2133,6 @@
         "local_events": 0
       },
       "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "72008d838067ae4833eeb882caebd026d881d7f5",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28021551",
-      "published_utc": "2026-08-18T08:34:42Z",
-      "title_en": "A strong protest was expressed to the Japanese Ambassador over Tokyo's anti-Russian statements",
-      "lead_en": "Akira Muto is indicated that Moscow has the right to adequate countermeasures due to Tokyo’s anti-Russian sanctions and its support for the Kyiv regime, the Russian Foreign Ministry noted",
-      "title_raw": "Послу Японии выразили решительный протест из-за антироссийских заявлений Токио",
-      "lead_raw": "Акире Муто указано, что Москва имеет право на адекватные контрмеры из-за антироссийских санкций Токио и поддержки им киевского режима, отметили в МИД РФ",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "30fd4aa94c7e3c3a0930cde5122170805c55301a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28021425",
-      "published_utc": "2026-08-18T08:28:30Z",
-      "title_en": "Diplomat Qin announced China's readiness to exchange experience with the Russian Federation in anti-corruption",
-      "lead_en": "The results of the fight against corruption are aimed at supporting the real sector of the economy, said the Chinese Consul",
-      "title_raw": "Дипломат Цинь заявил о готовности Китая к обмену опытом с РФ в антикоррупции",
-      "lead_raw": "Результаты борьбы с коррупцией направлены на поддержку реального сектора экономики, заявил консул КНР",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "c4ea8fbe58a9620f1ddfdecb182fb946be7715ba",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28021315",
-      "published_utc": "2026-08-18T08:15:03Z",
-      "title_en": "AIR of Tatarstan: development of tourism and media helps attract investment from China",
-      "lead_en": "The head of the agency, Talia Minullina, noted the need to improve Chinese-language and Russian-language payment services",
-      "title_raw": "АИР Татарстана: развитие туризма и медиа помогают привлекать инвестиции из КНР",
-      "lead_raw": "Руководитель агентства Талия Минуллина отметила необходимость улучшения китайскоязычных и русскоязычных платежных сервисов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "9b99f1382cd1dde8e142caf6818d4b3192c72d79",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2174485",
-      "published_utc": "2026-08-18T08:11:07Z",
-      "title_en": "Thailand seeks early launch of EAEU free trade talks with Russia — Deputy PM",
-      "lead_en": "Sihasak Phuangketkeow revealed that he had discussed the matter with his counterparts during his visit to Russia",
-      "title_raw": "Thailand seeks early launch of EAEU free trade talks with Russia — Deputy PM",
-      "lead_raw": "Sihasak Phuangketkeow revealed that he had discussed the matter with his counterparts during his visit to Russia",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "cd0fbff379784fddc1627c187d8f328c391dd79c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28021409",
-      "published_utc": "2026-08-18T08:05:02Z",
-      "title_en": "GFCN proposed creating a monitoring system for the tourism industry of the Russian Federation and China",
-      "lead_en": "The tourist flow between Russia and China is growing, which is becoming an important issue in bilateral economic relations, noted Daniil Bisslinger, vice-president of the International Fact-Checking Association.",
-      "title_raw": "В GFCN предложили создать систему мониторинга для туристической отрасли РФ и Китая",
-      "lead_raw": "Туристический поток между Россией и Китаем растет, что становится важным вопросом двусторонних экономических отношений, отметил вице-президент Международной ассоциации по фактчекингу Даниил Бисслингер",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "b185aa1751fb2cbbad9bdcaf69b459007bd49599",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28021437",
-      "published_utc": "2026-08-18T08:04:35Z",
-      "title_en": "Russia increased the volume of non-resource exports by 6.7%",
-      "lead_en": "Deputy Minister of Industry and Trade Alexei Matushansky pointed to the restrained positive dynamics of production in the manufacturing industries",
-      "title_raw": "Россия увеличила объем несырьевого экспорта на 6,7%",
-      "lead_raw": "Заместитель министра промышленности и торговли Алексей Матушанский указал на сдержанную положительную динамику производства в обрабатывающих отраслях",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "b8ce0aaa08e1085a43e9adeb12e688a9d55c1d14",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/08/18/russian-woman-fined-for-joining-group-appeal-over-gasoline-shortage",
-      "published_utc": "2026-08-18T07:47:09Z",
-      "title_en": "Russian woman fined for joining group appeal over gasoline shortage",
-      "lead_en": "A court in Volgograd has fined local resident Tatyana Smetanko 10,000 rubles under a protocol for participating in a mass public event, the independent Russian news outlet Mediazona reported.",
-      "title_raw": "Russian woman fined for joining group appeal over gasoline shortage",
-      "lead_raw": "A court in Volgograd has fined local resident Tatyana Smetanko 10,000 rubles under a protocol for participating in a mass public event, the independent Russian news outlet Mediazona reported.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "1c32ad9ed2ed4c1ee58ee2d592055c1d25be3a4d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2174473",
-      "published_utc": "2026-08-18T07:44:42Z",
-      "title_en": "Thailand wants to develop cybersecurity cooperation with Russia — Deputy PM",
-      "lead_en": "According to Sihasak Phuangketkeow, Digital Economy and Society Minister Chaichanok Chidchob will visit Russia soon to discuss this issue",
-      "title_raw": "Thailand wants to develop cybersecurity cooperation with Russia — Deputy PM",
-      "lead_raw": "According to Sihasak Phuangketkeow, Digital Economy and Society Minister Chaichanok Chidchob will visit Russia soon to discuss this issue",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "32bccd5d0fcc78a5d0593b7b25773ad190d809e7",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/08/18/voluntary-donations-by-russian-businesses-to-state-budget-hit-a-record-sum-since-start-of-2026",
-      "published_utc": "2026-08-18T07:44:27Z",
-      "title_en": "‘Voluntary donations’ by Russian businesses to state budget hit a record sum since start of 2026",
-      "lead_en": "Russian businesses made 383.69 billion rubles in non-repayable contributions to the federal budget during the first eight months of 2026 — almost one and a half times the total for all of last year.",
-      "title_raw": "‘Voluntary donations’ by Russian businesses to state budget hit a record sum since start of 2026",
-      "lead_raw": "Russian businesses made 383.69 billion rubles in non-repayable contributions to the federal budget during the first eight months of 2026 — almost one and a half times the total for all of last year.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "49d2bd8a6e49acab190579d90f3225da3cae8177",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28021213",
-      "published_utc": "2026-08-18T07:04:16Z",
-      "title_en": "The Russian stock market is growing at the beginning of the main trading session",
-      "lead_en": "The yuan to ruble exchange rate at the opening of trading decreased by 3.1 kopecks",
-      "title_raw": "Российский рынок акций растет в начале основной торговой сессии",
-      "lead_raw": "Курс юаня к рублю на открытии торгов снизился на 3,1 копейки",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "630cb642b039b84663869e35362221d7e6cd240c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28021107",
-      "published_utc": "2026-08-18T07:00:14Z",
-      "title_en": "Expert Asamoto: Japan’s trade with the Russian Federation can grow due to the supply of used cars",
-      "lead_en": "For January - June, this figure increased by 32.2% compared to the same period in 2025, noted the head of the Russia and CIS department in the research and analytical department of the Japan External Trade Development Organization",
-      "title_raw": "Эксперт Асамото: торговля Японии с РФ может вырасти за счет поставок машин с пробегом",
-      "lead_raw": "За январь - июнь этот показатель повысился на 32,2% по сравнению с аналогичным периодом 2025 года, отметил руководитель отдела России и СНГ в исследовательско-аналитическом департаменте Японской организации развития внешней торговли",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "c209ecb919abf66be5375c7ca66d5789a6a907cc",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/interviews/28013771",
-      "published_utc": "2026-08-18T07:00:00Z",
-      "title_en": "Head of Rosrybolovstvo: fish turned out to be a stumbling block for the EU",
-      "lead_en": "The head of Rosrybolovstvo, Ilya Shestakov, spoke in an interview with TASS on the eve of the Eastern Economic Forum about the possible reasons for the EU’s refusal to impose sanctions on Russian fish, the pace of the salmon harvest this year, as well as forecasts for the export",
-      "title_raw": "Глава Росрыболовства: рыба оказалась камнем преткновения для ЕС",
-      "lead_raw": "О возможных причинах отказа ЕС ввести санкции в отношении российской рыбы, о темпах лососевой путины текущего года, а также о прогнозах по экспорту рыбы и морепродуктов рассказал в интервью ТАСС в преддверии Восточного экономического форума глава Росрыболовства Илья Шестаков",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
       "primary_topic": "economy"
     }
   ]

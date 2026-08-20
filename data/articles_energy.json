@@ -1,9 +1,74 @@
 {
-  "updated_at_utc": "2026-08-20T06:43:15Z",
+  "updated_at_utc": "2026-08-20T08:36:58Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 41,
+  "count": 42,
   "articles": [
+    {
+      "id": "f5667f7d0d297b691652c72acd08696e4aee381a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2175483",
+      "published_utc": "2026-08-20T08:10:08Z",
+      "title_en": "Russian stocks down as main trading session opens",
+      "lead_en": "The yuan exchange rate against the ruble fell by 3.8 kopecks as trading opened",
+      "title_raw": "Russian stocks down as main trading session opens",
+      "lead_raw": "The yuan exchange rate against the ruble fell by 3.8 kopecks as trading opened",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "84c1476b6a65f3a3cece6ff591b2b240d02cf1e2",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2175477",
+      "published_utc": "2026-08-20T08:03:34Z",
+      "title_en": "Fuel imports to Russia: statements by Novak and overview of market situation",
+      "lead_en": "Russian authorities expect a number of oil refineries to complete maintenance work soon, leading to a significant improvement in the fuel market situation",
+      "title_raw": "Fuel imports to Russia: statements by Novak and overview of market situation",
+      "lead_raw": "Russian authorities expect a number of oil refineries to complete maintenance work soon, leading to a significant improvement in the fuel market situation",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "2c26d68b0118f03f8c681ea3f3600fea04a8116b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28028027",
+      "published_utc": "2026-08-20T06:46:16Z",
+      "title_en": "Import of fuel to Russia. The main thing from Novak’s statements about the market situation",
+      "lead_en": "Gasoline from abroad was sold at the St. Petersburg Stock Exchange",
+      "title_raw": "Импорт топлива в Россию. Главное из заявлений Новака о ситуации на рынке",
+      "lead_raw": "Бензин из-за рубежа был реализован на торгах Петербургской биржи",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "2bd986c4a25e83624e6c872777107a4326a8af32",
       "source": "TASS (RU)",
@@ -835,48 +900,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "b8ce0aaa08e1085a43e9adeb12e688a9d55c1d14",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/08/18/russian-woman-fined-for-joining-group-appeal-over-gasoline-shortage",
-      "published_utc": "2026-08-18T07:47:09Z",
-      "title_en": "Russian woman fined for joining group appeal over gasoline shortage",
-      "lead_en": "A court in Volgograd has fined local resident Tatyana Smetanko 10,000 rubles under a protocol for participating in a mass public event, the independent Russian news outlet Mediazona reported.",
-      "title_raw": "Russian woman fined for joining group appeal over gasoline shortage",
-      "lead_raw": "A court in Volgograd has fined local resident Tatyana Smetanko 10,000 rubles under a protocol for participating in a mass public event, the independent Russian news outlet Mediazona reported.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "3c307f05d442d48cd5b4bbc3ba4c648ee82c33af",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28021301",
-      "published_utc": "2026-08-18T07:32:41Z",
-      "title_en": "Expert Pikin: Russia is not facing problems due to water reserves for hydroelectric power stations, as in the USA",
-      "lead_en": "It is more important for Russian hydropower engineers to monitor not a single figure for filling a reservoir, but the inflow, seasonal dynamics and balance of the entire energy system, explained the director of the Energy Development Fund",
-      "title_raw": "Эксперт Пикин: России не грозят проблемы из-за запасов воды для ГЭС, как в США",
-      "lead_raw": "Российским гидроэнергетикам важнее следить не за отдельной цифрой заполнения водохранилища, а за приточностью, сезонной динамикой и балансом всей энергосистемы, пояснил директор Фонда энергетического развития",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
