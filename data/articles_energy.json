@@ -1,18 +1,145 @@
 {
-  "updated_at_utc": "2026-08-20T12:47:38Z",
+  "updated_at_utc": "2026-08-20T13:44:48Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 48,
+  "count": 51,
   "articles": [
+    {
+      "id": "2d2ceaa2325c9c06152cc6e6fd79895e8b4554c9",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28029675",
+      "published_utc": "2026-08-20T13:40:14Z",
+      "title_en": "Zakharova: Journalist Martens’s newspaper can be called “Frankfurter Alzheimer Zeitung”",
+      "lead_en": "The publication has a senile attitude towards Russians, said the official representative of the Russian Foreign Ministry",
+      "title_raw": "Захарова: газету журналиста Мартенса можно назвать \"Франкфуртер альцгеймер цайтунг\"",
+      "lead_raw": "У издания маразматичное отношение к русским, заявила официальный представитель МИД РФ",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "ddae2bac3cb527a1b387914753001893c93eeb0e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2175667",
+      "published_utc": "2026-08-20T13:30:22Z",
+      "title_en": "Russia plans to add around 30 gigawatts of nuclear power capacity — Putin",
+      "lead_en": "According to the president, nuclear energy accounts for roughly 20% of the electricity generated in Russia",
+      "title_raw": "Russia plans to add around 30 gigawatts of nuclear power capacity — Putin",
+      "lead_raw": "According to the president, nuclear energy accounts for roughly 20% of the electricity generated in Russia",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "5225de69e8efc0c6147e54c367be26a94f3b0010",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28029631",
+      "published_utc": "2026-08-20T13:26:42Z",
+      "title_en": "Leadership of the Russian Federation in nuclear energy and plans for the development of nuclear power plants. Putin's statements",
+      "lead_en": "According to the president, competition in the global nuclear energy industry is high, and Russia needs to strengthen its technological leadership in this area",
+      "title_raw": "Лидерство РФ в ядерной энергетике и планы по развитию АЭС. Заявления Путина",
+      "lead_raw": "По словам президента, конкуренция в мировой атомной энергетике высокая, и России необходимо укреплять технологическое лидерство в этой сфере",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "e9a0182ca95479965be7d84b1ec7bb9ad4957b15",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28029603",
+      "published_utc": "2026-08-20T13:17:17Z",
+      "title_en": "The shortlist for the professional skills competition \"Inspector-2026\" has been announced in Moscow.",
+      "lead_en": "The event has been held since 2012 and celebrates experts, publishers, bookstores, libraries, successful projects and innovations in the book business in Russia",
+      "title_raw": "В Москве объявили шорт-лист конкурса профессионального мастерства \"Ревизор-2026\"",
+      "lead_raw": "Мероприятие проводится с 2012 года и отмечает экспертов, издателей, книжные магазины, библиотеки, успешные проекты и инновации в книжном деле России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "53d3613d074c2c5dcef010799d56d2b99689cd96",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2175647",
+      "published_utc": "2026-08-20T12:52:49Z",
+      "title_en": "Russia only country in world with expertise across entire nuclear energy sector — Putin",
+      "lead_en": "These competitive advantages enable the country to hold a leading position in the market for the construction of nuclear power plants abroad, the Russian leader stressed",
+      "title_raw": "Russia only country in world with expertise across entire nuclear energy sector — Putin",
+      "lead_raw": "These competitive advantages enable the country to hold a leading position in the market for the construction of nuclear power plants abroad, the Russian leader stressed",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "08feb5b62a6b8584995d0aeb6348e1ee432048f0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28029471",
+      "published_utc": "2026-08-20T12:48:18Z",
+      "title_en": "Putin announced plans to introduce about 30 GW of nuclear power capacity in the Russian Federation",
+      "lead_en": "The President indicated that this will increase the total nuclear generation capacity in the country",
+      "title_raw": "Путин сообщил о планах ввести в РФ около 30 ГВт мощности АЭС",
+      "lead_raw": "Президент указал, что это нарастит общую мощность атомной генерации в стране",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "35d33ac5be44aa1fd29a223baffc76eb30c74020",
       "source": "TASS (RU)",
       "url": "https://tass.ru/ekonomika/28029443",
       "published_utc": "2026-08-20T12:39:00Z",
-      "title_en": "Likhachev said that he will provide Russia with leadership in the field of thermonuclear energy",
-      "lead_en": "",
-      "title_raw": "Лихачев рассказал, что обеспечит России лидерство в области термоядерной энергетики",
-      "lead_raw": "",
+      "title_en": "Likhachev said that he will provide the Russian Federation with leadership in the field of thermonuclear energy",
+      "lead_en": "We are talking about the construction of a tokamak with reactor technologies, explained the general director of Rosatom",
+      "title_raw": "Лихачев рассказал, что обеспечит РФ лидерство в области термоядерной энергетики",
+      "lead_raw": "Речь идет о строительстве токамака с реакторными технологиями, пояснил гендиректор Росатома",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
@@ -370,7 +497,7 @@
       "url": "https://tass.ru/ekonomika/28027265",
       "published_utc": "2026-08-19T23:09:01Z",
       "title_en": "Chekunkov reported on Thailand's interest in increasing supplies of oil and LNG to the Russian Federation",
-      "lead_en": "The head of the Ministry of Eastern Development added that Russia is interested in expanding the export of agricultural products to the kingdom’s market",
+      "lead_en": "The head of the Ministry of Eastern Development added that Russia is interested in expanding the export of agricultural products to the kingdom's market",
       "title_raw": "Чекунков сообщил об интересе Таиланда к увеличению поставок нефти и СПГ РФ",
       "lead_raw": "Глава Минвостокразвития добавил, что Россия заинтересована в расширении экспорта сельскохозяйственной продукции на рынок королевства",
       "topic_scores": {
@@ -752,7 +879,7 @@
       "url": "https://tass.ru/ekonomika/28023367",
       "published_utc": "2026-08-18T18:03:51Z",
       "title_en": "Russia and Myanmar signed a memorandum of cooperation in the energy sector",
-      "lead_en": "It is aimed at developing interaction between the two countries in the energy sector and creating conditions for further expansion of practical cooperation",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_raw": "РФ и Мьянма подписали меморандум о сотрудничестве в сфере энергетики",
       "lead_raw": "Он направлен на развитие взаимодействия двух стран в энергетической сфере и создание условий для дальнейшего расширения практического сотрудничества",
       "topic_scores": {
@@ -946,72 +1073,6 @@
       "lead_en": "According to the diplomat, the parties are actively developing major strategic projects in such areas as nuclear energy, aviation, and space exploration",
       "title_raw": "Chinese envoy says yuan settlements between China, Russia grow steadily",
       "lead_raw": "According to the diplomat, the parties are actively developing major strategic projects in such areas as nuclear energy, aviation, and space exploration",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "dafc2040e617f75d23b151e62fd718a2719aea16",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28022677",
-      "published_utc": "2026-08-18T13:43:33Z",
-      "title_en": "The Ambassador of the People's Republic of China emphasized the importance of energy cooperation between China and Russia",
-      "lead_en": "The Russian Federation is the largest supplier of oil and natural gas for the republic, noted Zhang Hanhui",
-      "title_raw": "Посол КНР подчеркнул значение энергетического взаимодействия Китая и России",
-      "lead_raw": "РФ является крупнейшим поставщиком нефти и природного газа для республики, отметил Чжан Ханьхуэй",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "a33534f8aa5b6294e27fa0b48893f2ee49475acb",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28022617",
-      "published_utc": "2026-08-18T13:20:21Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "The IAEA Director General also called on the military commanders responsible for the attacks to “immediately stop these unacceptable actions.”",
-      "title_raw": "\"Худшее, что случалось с ЗАЭС\". Гросси об ударе ВСУ по остановке в Энергодаре",
-      "lead_raw": "Гендиректор МАГАТЭ также призвал военных командиров, ответственных за атаки, \"немедленно прекратить эти неприемлемые действия\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "246cbe5607cd31d80c99c27ea7d5ce5c5ed0e750",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28022597",
-      "published_utc": "2026-08-18T13:13:52Z",
-      "title_en": "The Chinese Ambassador pointed to the growing share of settlements in national currencies between China and Russia",
-      "lead_en": "Zhang Hanhui noted that the parties are actively developing projects in the field of nuclear energy, aviation and astronautics",
-      "title_raw": "Посол КНР указал на рост доли расчетов в нацвалютах между Китаем и Россией",
-      "lead_raw": "Чжан Ханьхуэй отметил, что стороны активно развивают проекты в сфере ядерной энергетики, авиации и космонавтики",
       "topic_scores": {
         "diplomacy": 1,
         "military": 0,
