@@ -1,9 +1,70 @@
 {
-  "updated_at_utc": "2026-08-20T08:36:58Z",
+  "updated_at_utc": "2026-08-20T10:29:10Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 29,
+  "count": 31,
   "articles": [
+    {
+      "id": "41d3c50b9abca98bdde383f7f7d32cb932a1056a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/society/2175539",
+      "published_utc": "2026-08-20T10:03:33Z",
+      "title_en": "Aircraft dispatched by Russia’s Emergencies Ministry joins firefighting efforts in Serbia",
+      "lead_en": "The special Russian flight was greeted by Emergencies Ministry personnel at the Serbian Interior Ministry and local officials",
+      "title_raw": "Aircraft dispatched by Russia’s Emergencies Ministry joins firefighting efforts in Serbia",
+      "lead_raw": "The special Russian flight was greeted by Emergencies Ministry personnel at the Serbian Interior Ministry and local officials",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "a921fb9db2f5a562efd7fa39c5876d2a18a69f2f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/28028663",
+      "published_utc": "2026-08-20T09:29:15Z",
+      "title_en": "A special team of the Russian Ministry of Emergency Situations is working to extinguish the center of wildfires in Serbia",
+      "lead_en": "An Il-76 aircraft carried out the first drop of 42 tons of water in the area of ​​the Deliblatská-Peshčara nature reserve, the department noted.",
+      "title_raw": "Спецборт МЧС России работает на тушении центра природных пожаров в Сербии",
+      "lead_raw": "Самолет Ил-76 осуществил первый сброс 42 тонн воды в районе заповедника \"Делиблатска-Пешчара\", отметили в ведомстве",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "afa0c7d63ef43f2ab2ba8bb1651b626fb9ef8a6b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2175501",
+      "published_utc": "2026-08-20T08:58:16Z",
+      "title_en": "Civilians injured, 726 UAVs downed: aftermath of attacks on Russian regions",
+      "lead_en": "According to the Russian Defense Ministry, the Ukrainian drones were intercepted over 19 Russian regions",
+      "title_raw": "Civilians injured, 726 UAVs downed: aftermath of attacks on Russian regions",
+      "lead_raw": "According to the Russian Defense Ministry, the Ukrainian drones were intercepted over 19 Russian regions",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "0fbf2e774cee66817d609676eff08134312d9d02",
       "source": "TASS (EN)",
@@ -576,27 +637,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "22dd7f6745c3aa1515230f81d09709fc5d7a3d3a",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/08/18/moscow-pensioner-who-set-her-apartment-on-fire-during-an-eviction-has-died-she-had-lost-the-home-after-falling-victim-to-scammers",
-      "published_utc": "2026-08-18T09:25:56Z",
-      "title_en": "Moscow pensioner who set her apartment on fire during an eviction has died. She had lost the home after falling victim to scammers.",
-      "lead_en": "Natalya Ivanova, a 68-year-old Moscow resident who set herself and her apartment on fire in early August, has died of her burns. The Telegram channels Baza, Mash, and Shot — which have ties to Russia’s security services and law enforcement — reported the death on August 18.",
-      "title_raw": "Moscow pensioner who set her apartment on fire during an eviction has died. She had lost the home after falling victim to scammers.",
-      "lead_raw": "Natalya Ivanova, a 68-year-old Moscow resident who set herself and her apartment on fire in early August, has died of her burns. The Telegram channels Baza, Mash, and Shot — which have ties to Russia’s security services and law enforcement — reported the death on August 18.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
