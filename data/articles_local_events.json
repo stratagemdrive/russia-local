@@ -1,9 +1,89 @@
 {
-  "updated_at_utc": "2026-08-21T06:44:04Z",
+  "updated_at_utc": "2026-08-21T08:38:58Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 31,
+  "count": 33,
   "articles": [
+    {
+      "id": "3ac4b601ebb96d02b96ba2134e2989cb6c780a73",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/08/21/ukrainian-drones-attack-russia-s-perm",
+      "published_utc": "2026-08-21T08:02:44Z",
+      "title_en": "Ukrainian drones attack Russia’s Perm",
+      "lead_en": "Perm declared a drone threat alert on the morning of August 21, as sirens sounded and residents reported explosions. The city’s airport suspended all flights.",
+      "title_raw": "Ukrainian drones attack Russia’s Perm",
+      "lead_raw": "Perm declared a drone threat alert on the morning of August 21, as sirens sounded and residents reported explosions. The city’s airport suspended all flights.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "b6251c7930005242019b3f0bd8d5704837586f3a",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/08/21/2-killed-in-crimea-as-ukrainian-drones-strike-industrial-site-in-perm-region-a93546",
+      "published_utc": "2026-08-21T07:51:14Z",
+      "title_en": "2 Killed in Crimea as Ukrainian Drones Strike Industrial Site in Perm Region",
+      "lead_en": "Reports suggested a Lukoil-operated oil refinery was targeted in a drone barrage on the Ural Mountains region of Russia.",
+      "title_raw": "2 Killed in Crimea as Ukrainian Drones Strike Industrial Site in Perm Region",
+      "lead_raw": "Reports suggested a Lukoil-operated oil refinery was targeted in a drone barrage on the Ural Mountains region of Russia.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "219e86936e4861382351b1feb112d90d7158acca",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28031325",
+      "published_utc": "2026-08-21T07:02:24Z",
+      "title_en": "Kobyakov: the world is in a state of storm due to the destruction of economic ties",
+      "lead_en": "According to the presidential adviser, in these conditions Russia needs to look for new opportunities for development and strengthen ties with the countries of the Asia-Pacific region",
+      "title_raw": "Кобяков: мир находится в состоянии шторма из-за разрушения экономических связей",
+      "lead_raw": "По словам советника президента, в этих условиях России необходимо искать новые возможности для развития и укреплять связи со странами Азиатско-Тихоокеанского региона",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "4cba5e9287fe45c9ab7de21a43d8a85e32fcec5f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/28031305",
+      "published_utc": "2026-08-21T06:59:48Z",
+      "title_en": "The plane of the Russian Ministry of Emergency Situations began the second day of extinguishing large-scale fires in Serbia",
+      "lead_en": "The largest source of fire is located in the protected area of ​​the Deliblatsky Sands",
+      "title_raw": "Самолет МЧС России приступил ко второму дню тушения масштабных пожаров в Сербии",
+      "lead_raw": "Самый крупный очаг возгорания находится в заповедной зоне Делиблатских песков",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "bbe813061dabbeb9ba8d202d3b049f709fc1c871",
       "source": "TASS (EN)",
@@ -252,7 +332,7 @@
       "url": "https://tass.ru/proisshestviya/28028663",
       "published_utc": "2026-08-20T09:29:15Z",
       "title_en": "A special team of the Russian Ministry of Emergency Situations is working to extinguish the center of wildfires in Serbia",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "An Il-76 aircraft carried out the first drop of 42 tons of water in the area of ​​the Deliblatská-Peshčara nature reserve, the department noted.",
       "title_raw": "Спецборт МЧС России работает на тушении центра природных пожаров в Сербии",
       "lead_raw": "Самолет Ил-76 осуществил первый сброс 42 тонн воды в районе заповедника \"Делиблатска-Пешчара\", отметили в ведомстве",
       "topic_scores": {
@@ -597,48 +677,6 @@
         "local_events"
       ],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "136ce4b977b8af88007ddecf3cbd0a3287e1a8f8",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2174957",
-      "published_utc": "2026-08-19T08:28:19Z",
-      "title_en": "Damage reported at Ufa oil refinery as Russia intercepts 453 Ukrainian drones overnight",
-      "lead_en": "A medical university student from India was injured in the attack",
-      "title_raw": "Damage reported at Ufa oil refinery as Russia intercepts 453 Ukrainian drones overnight",
-      "lead_raw": "A medical university student from India was injured in the attack",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "0ed3fdb4bf5b0f9c30bb578c9b6006b0c26222d5",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/08/19/ukrainian-drones-attacked-four-russian-regions-in-two-cities-they-damaged-residential-buildings",
-      "published_utc": "2026-08-19T08:04:18Z",
-      "title_en": "Ukrainian drones attacked four Russian regions. In two cities, they damaged residential buildings.",
-      "lead_en": "Ukrainian drones struck industrial facilities in Ufa overnight on August 19, Bashkortostan Governor Radiy Khabirov said. Air defense forces shot down four of six drones, he said, while one came down in an industrial zone and sparked a fire, and another struck a residential building in the Zaton neighborhood, injuring one person.",
-      "title_raw": "Ukrainian drones attacked four Russian regions. In two cities, they damaged residential buildings.",
-      "lead_raw": "Ukrainian drones struck industrial facilities in Ufa overnight on August 19, Bashkortostan Governor Radiy Khabirov said. Air defense forces shot down four of six drones, he said, while one came down in an industrial zone and sparked a fire, and another struck a residential building in the Zaton neighborhood, injuring one person.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
