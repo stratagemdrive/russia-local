@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-08-21T13:43:31Z",
+  "updated_at_utc": "2026-08-21T14:33:40Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 43,
   "articles": [
+    {
+      "id": "866559c0bc53275fec28e6e3f5920264233e99e0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28032989",
+      "published_utc": "2026-08-21T14:00:22Z",
+      "title_en": "Russia is optimizing refinery repair schedules to stabilize the fuel market",
+      "lead_en": "This is necessary to minimize the risks of reduced supply on the market",
+      "title_raw": "В России оптимизируют графики ремонтов НПЗ для стабилизации рынка топлива",
+      "lead_raw": "Это необходимо для минимизирования рисков сокращения предложения на рынке",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "d92473fa892fa7361620d0ab08316ea564323cc6",
       "source": "TASS (RU)",
@@ -729,7 +750,7 @@
       "url": "https://tass.ru/ekonomika/28027265",
       "published_utc": "2026-08-19T23:09:01Z",
       "title_en": "Chekunkov reported on Thailand's interest in increasing supplies of oil and LNG to the Russian Federation",
-      "lead_en": "The head of the Ministry of Eastern Development added that Russia is interested in expanding the export of agricultural products to the kingdom's market",
+      "lead_en": "The head of the Ministry of Eastern Development added that Russia is interested in expanding the export of agricultural products to the kingdom’s market",
       "title_raw": "Чекунков сообщил об интересе Таиланда к увеличению поставок нефти и СПГ РФ",
       "lead_raw": "Глава Минвостокразвития добавил, что Россия заинтересована в расширении экспорта сельскохозяйственной продукции на рынок королевства",
       "topic_scores": {
@@ -894,27 +915,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "1349eb3b2450a04d26b7c86d69f52d03b3eb04d5",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2175177",
-      "published_utc": "2026-08-19T13:56:24Z",
-      "title_en": "Russian government to help restore logistics, warehouses after Ukrainian attacks — Putin",
-      "lead_en": "According to the Russian president, another area of focus is the construction of power grids",
-      "title_raw": "Russian government to help restore logistics, warehouses after Ukrainian attacks — Putin",
-      "lead_raw": "According to the Russian president, another area of focus is the construction of power grids",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
