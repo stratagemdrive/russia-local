@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-08-22T08:28:08Z",
+  "updated_at_utc": "2026-08-22T10:21:53Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 37,
+  "count": 36,
   "articles": [
+    {
+      "id": "18ef9e8a5d230b9f4dab1f687fef1604efd6936a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28034809",
+      "published_utc": "2026-08-22T09:22:47Z",
+      "title_en": "Within 24 hours, the Russian Armed Forces hit a military airfield and energy facilities in Ukraine",
+      "lead_en": "The objects were used in the interests of the Ukrainian Armed Forces",
+      "title_raw": "ВС РФ за сутки поразили военный аэродром и объекты энергетики Украины",
+      "lead_raw": "Объекты использовались в интересах ВСУ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "7c26019ef2083d57e9a780afa66daa44684935ad",
       "source": "TASS (RU)",
@@ -740,48 +762,6 @@
         "military": 0,
         "energy": 1,
         "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "8fea529458cd65ad7a4ee1b3a89bc4abaec6ef1b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28028779",
-      "published_utc": "2026-08-20T10:00:59Z",
-      "title_en": "Putin will hold a meeting on nuclear energy",
-      "lead_en": "The development of the fuel and energy complex will also be discussed at it, said the press secretary of the Russian leader Dmitry Peskov",
-      "title_raw": "Путин проведет совещание по атомной энергетике",
-      "lead_raw": "На нем также будет обсуждаться развитие топливно-энергетического комплекса, рассказал пресс-секретарь российского лидера Дмитрий Песков",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "5cdef2a4e454d2a8c5286ef8c5a494d12fbcfad2",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28028585",
-      "published_utc": "2026-08-20T09:11:32Z",
-      "title_en": "The Russian Armed Forces hit energy facilities used in the interests of the Armed Forces of Ukraine",
-      "lead_en": "Russian forces also attacked storage sites for UAVs and components, enemy deployment points and foreign mercenaries",
-      "title_raw": "ВС РФ поразили используемые в интересах ВСУ энергетические объекты",
-      "lead_raw": "Российские силы также атаковали места хранения БПЛА и комплектующих, пункты дислокации противника и иностранных наемников",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
         "local_events": 0
       },
       "topics": [

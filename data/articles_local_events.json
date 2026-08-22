@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-08-22T08:28:08Z",
+  "updated_at_utc": "2026-08-22T10:21:53Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 29,
+  "count": 27,
   "articles": [
+    {
+      "id": "37eb214db99aaba5c12aa51a23b6054a0564f975",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2176387",
+      "published_utc": "2026-08-22T08:33:13Z",
+      "title_en": "Ukrainian attacks in Russia’s Kursk region kill one, injure six — governor",
+      "lead_en": "In the village of Peschanoye in the Belaya District, a 69-year-old man was killed, Alexander Khinshtein said",
+      "title_raw": "Ukrainian attacks in Russia’s Kursk region kill one, injure six — governor",
+      "lead_raw": "In the village of Peschanoye in the Belaya District, a 69-year-old man was killed, Alexander Khinshtein said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "c8f4a3f8029a5675a9b718e38930afe7be9f35be",
       "source": "TASS (EN)",
@@ -378,7 +397,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/mezhdunarodnaya-panorama/28030277",
       "published_utc": "2026-08-20T18:20:06Z",
-      "title_en": "Vucic thanked Russia for providing Serbia with a special plane from the Ministry of Emergency Situations",
+      "title_en": "Vučić thanked Russia for providing Serbia with a special plane from the Ministry of Emergency Situations",
       "lead_en": "The Il-76 pilot dropped more than 200 tons of water, of which 21 tons fell directly on the fire and saved 50 buildings, the President of the Republic noted",
       "title_raw": "Вучич поблагодарил Россию за предоставление Сербии спецборта МЧС",
       "lead_raw": "Пилот Ил-76 сбросил более 200 тонн воды, из которых 21 тонна попала прямо на очаг возгорания и спасла 50 зданий, отметил президент республики",
@@ -534,67 +553,6 @@
         "local_events"
       ],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "41d3c50b9abca98bdde383f7f7d32cb932a1056a",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/society/2175539",
-      "published_utc": "2026-08-20T10:03:33Z",
-      "title_en": "Aircraft dispatched by Russia’s Emergencies Ministry joins firefighting efforts in Serbia",
-      "lead_en": "The special Russian flight was greeted by Emergencies Ministry personnel at the Serbian Interior Ministry and local officials",
-      "title_raw": "Aircraft dispatched by Russia’s Emergencies Ministry joins firefighting efforts in Serbia",
-      "lead_raw": "The special Russian flight was greeted by Emergencies Ministry personnel at the Serbian Interior Ministry and local officials",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "a921fb9db2f5a562efd7fa39c5876d2a18a69f2f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/28028663",
-      "published_utc": "2026-08-20T09:29:15Z",
-      "title_en": "A special team of the Russian Ministry of Emergency Situations is working to extinguish the center of wildfires in Serbia",
-      "lead_en": "An Il-76 aircraft carried out the first drop of 42 tons of water in the area of ​​the Deliblatská-Peshčara nature reserve, the department noted.",
-      "title_raw": "Спецборт МЧС России работает на тушении центра природных пожаров в Сербии",
-      "lead_raw": "Самолет Ил-76 осуществил первый сброс 42 тонн воды в районе заповедника \"Делиблатска-Пешчара\", отметили в ведомстве",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "afa0c7d63ef43f2ab2ba8bb1651b626fb9ef8a6b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2175501",
-      "published_utc": "2026-08-20T08:58:16Z",
-      "title_en": "Civilians injured, 726 UAVs downed: aftermath of attacks on Russian regions",
-      "lead_en": "According to the Russian Defense Ministry, the Ukrainian drones were intercepted over 19 Russian regions",
-      "title_raw": "Civilians injured, 726 UAVs downed: aftermath of attacks on Russian regions",
-      "lead_raw": "According to the Russian Defense Ministry, the Ukrainian drones were intercepted over 19 Russian regions",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
