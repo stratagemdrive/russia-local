@@ -1,9 +1,91 @@
 {
-  "updated_at_utc": "2026-08-22T06:38:03Z",
+  "updated_at_utc": "2026-08-22T08:28:08Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 28,
+  "count": 29,
   "articles": [
+    {
+      "id": "c8f4a3f8029a5675a9b718e38930afe7be9f35be",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2176383",
+      "published_utc": "2026-08-22T07:50:05Z",
+      "title_en": "Four injured in drone attack on Ozon logistics center in Russia’s Samara region",
+      "lead_en": "Of them, one is in critical condition after jumping out of a window on the second floor",
+      "title_raw": "Four injured in drone attack on Ozon logistics center in Russia’s Samara region",
+      "lead_raw": "Of them, one is in critical condition after jumping out of a window on the second floor",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "0d7ee0a3b2f7d4f3c4b68c88c625213471d038f8",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28034527",
+      "published_utc": "2026-08-22T07:29:37Z",
+      "title_en": "United Russia intends to implement the TTK development project",
+      "lead_en": "Plans include the construction of 4 more nuclear icebreakers and 14 rescue ships",
+      "title_raw": "ЕР намерена реализовать проект развития ТТК",
+      "lead_raw": "Планы включают в себя строительство еще 4 атомных ледоколов и 14 спасательных судов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "0ebd7647dcc235d42801dc556a36259530e8c1bf",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2176379",
+      "published_utc": "2026-08-22T07:20:20Z",
+      "title_en": "Two killed, 13 others injured in enemy attacks on Russia’s Belgorod Region in past day",
+      "lead_en": "Two of them are in critical condition, Governor Alexander Shuvayev said",
+      "title_raw": "Two killed, 13 others injured in enemy attacks on Russia’s Belgorod Region in past day",
+      "lead_raw": "Two of them are in critical condition, Governor Alexander Shuvayev said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "1cfb4977817f187a114b5821cf358c872d4b4690",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/28034445",
+      "published_utc": "2026-08-22T07:09:53Z",
+      "title_en": "Il-76 of the Ministry of Emergency Situations flew out to extinguish fires in a nature reserve in Serbia",
+      "lead_en": "In the “Deliblatsky Sands” on August 21, a Russian agency aircraft succeeded in suppressing large outbreaks",
+      "title_raw": "Ил-76 МЧС вылетел на тушение пожаров в заповеднике в Сербии",
+      "lead_raw": "В \"Делиблатских песках\" 21 августа самолет российского ведомства добился подавления крупных очагов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "778b43f00241be6d6465566d3cba61fb1900299b",
       "source": "TASS (RU)",
@@ -296,7 +378,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/mezhdunarodnaya-panorama/28030277",
       "published_utc": "2026-08-20T18:20:06Z",
-      "title_en": "Vučić thanked Russia for providing Serbia with a special plane from the Ministry of Emergency Situations",
+      "title_en": "Vucic thanked Russia for providing Serbia with a special plane from the Ministry of Emergency Situations",
       "lead_en": "The Il-76 pilot dropped more than 200 tons of water, of which 21 tons fell directly on the fire and saved 50 buildings, the President of the Republic noted",
       "title_raw": "Вучич поблагодарил Россию за предоставление Сербии спецборта МЧС",
       "lead_raw": "Пилот Ил-76 сбросил более 200 тонн воды, из которых 21 тонна попала прямо на очаг возгорания и спасла 50 зданий, отметил президент республики",
@@ -507,67 +589,6 @@
         "military": 1,
         "energy": 0,
         "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "0fbf2e774cee66817d609676eff08134312d9d02",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2175485",
-      "published_utc": "2026-08-20T08:14:57Z",
-      "title_en": "IN BRIEF: What we know about Russia’s massive attack targeting defense-tech sites in Kiev",
-      "lead_en": "Russian forces struck a Fire Point plant, a Kiev-based assembly site owned by the Antonov aircraft manufacturing factory and an arsenal with M-900 thermobaric bombs and munitions for Baba-Yaga drones",
-      "title_raw": "IN BRIEF: What we know about Russia’s massive attack targeting defense-tech sites in Kiev",
-      "lead_raw": "Russian forces struck a Fire Point plant, a Kiev-based assembly site owned by the Antonov aircraft manufacturing factory and an arsenal with M-900 thermobaric bombs and munitions for Baba-Yaga drones",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "70fb80356a6ac17d3fc8f8f5c9a3db50a24ea397",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/28028309",
-      "published_utc": "2026-08-20T07:50:09Z",
-      "title_en": "Il-76 of the Russian Ministry of Emergency Situations began extinguishing wildfires in a nature reserve in Serbia",
-      "lead_en": "The plane arrived in the city of Nis on August 19",
-      "title_raw": "Ил-76 МЧС России приступил к тушению природных пожаров в заповеднике в Сербии",
-      "lead_raw": "Борт прибыл в город Ниш 19 августа",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "2dea7c61f135c22c34a066b473523aa5b5636f02",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2175447",
-      "published_utc": "2026-08-20T06:38:23Z",
-      "title_en": "Russian forces hit Fire Point facility manufacturing attack drone components in Kiev",
-      "lead_en": "The enterprise also assembled and stored boosters used in Flamingo cruise missiles",
-      "title_raw": "Russian forces hit Fire Point facility manufacturing attack drone components in Kiev",
-      "lead_raw": "The enterprise also assembled and stored boosters used in Flamingo cruise missiles",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
         "local_events": 1
       },
       "topics": [
