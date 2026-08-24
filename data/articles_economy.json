@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-08-24T18:38:24Z",
+  "updated_at_utc": "2026-08-24T19:28:25Z",
   "keep_hours": 48,
   "topic": "economy",
   "count": 37,
   "articles": [
+    {
+      "id": "a35f1b04b6d0080edf83a7d1ffaef8d8b4567f6a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2177171",
+      "published_utc": "2026-08-24T19:15:33Z",
+      "title_en": "Top Russian, Indian diplomats discuss Ukraine, Iran, Afghanistan",
+      "lead_en": "The top Indian diplomat is visiting Russia to hold a meeting of the Russian-Indian intergovernmental commission on trade-an-economic, scientific-and-technical, and cultural cooperation",
+      "title_raw": "Top Russian, Indian diplomats discuss Ukraine, Iran, Afghanistan",
+      "lead_raw": "The top Indian diplomat is visiting Russia to hold a meeting of the Russian-Indian intergovernmental commission on trade-an-economic, scientific-and-technical, and cultural cooperation",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "5830880e701a3b7b38d976948327530ea66b14c6",
       "source": "TASS (EN)",
@@ -726,25 +748,6 @@
         "diplomacy",
         "economy"
       ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "21ea8957bbd8bbaa1722f64d921f48b358346fe2",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28036121",
-      "published_utc": "2026-08-22T19:01:12Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Кобяков: ТПП и АСИ регулярно контактируют с Американской торговой палатой в РФ",
-      "lead_raw": "Именно благодаря этому взаимодействию при поддержке Фонда Росконгресс на прошедшем ПМЭФ было две сессии посвященных бизнес-диалогу Вашингтона и Москвы, отметил советник президента России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
       "primary_topic": "economy"
     }
   ]
