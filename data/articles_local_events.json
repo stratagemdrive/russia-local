@@ -1,9 +1,68 @@
 {
-  "updated_at_utc": "2026-08-24T06:56:32Z",
+  "updated_at_utc": "2026-08-24T07:59:05Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 12,
   "articles": [
+    {
+      "id": "64fa2ee2887cf8670e1b7201f803b965b65fa316",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/08/24/at-least-3-killed-as-ukrainian-drones-target-ozon-hubs-across-southern-russia-a93563",
+      "published_utc": "2026-08-24T07:43:00Z",
+      "title_en": "At Least 3 Killed as Ukrainian Drones Target Ozon Hubs Across Southern Russia",
+      "lead_en": "The online retailer said four of its facilities were targeted in overnight attacks throughout the North Caucasus.",
+      "title_raw": "At Least 3 Killed as Ukrainian Drones Target Ozon Hubs Across Southern Russia",
+      "lead_raw": "The online retailer said four of its facilities were targeted in overnight attacks throughout the North Caucasus.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "ad2152b1f89460d3e36052f92085bf9090a48ca1",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/08/24/ukraine-attacks-southern-russia-with-drones-killing-three-children-local-officials-say",
+      "published_utc": "2026-08-24T07:32:27Z",
+      "title_en": "Ukraine attacks southern Russia with drones, killing three children, local officials say",
+      "lead_en": "Two children were killed in Krasnodar overnight on August 24 during a Ukrainian drone attack, Governor Veniamin Kondratyev said.",
+      "title_raw": "Ukraine attacks southern Russia with drones, killing three children, local officials say",
+      "lead_raw": "Two children were killed in Krasnodar overnight on August 24 during a Ukrainian drone attack, Governor Veniamin Kondratyev said.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "526c68ca43e58385ea690eb39c546b55e075fb38",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/08/24/russia-strikes-odesa-reportedly-setting-epicentr-hypermarket-on-fire",
+      "published_utc": "2026-08-24T07:18:19Z",
+      "title_en": "Russia strikes Odesa, reportedly setting Epicentr hypermarket on fire",
+      "lead_en": "Russia struck Odesa with missiles and drones, Oleh Kiper, head of the region’s military administration, said.",
+      "title_raw": "Russia strikes Odesa, reportedly setting Epicentr hypermarket on fire",
+      "lead_raw": "Russia struck Odesa with missiles and drones, Oleh Kiper, head of the region’s military administration, said.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "1a3c3169b5f97ed6712253ccb0c21c13ac6f199b",
       "source": "TASS (RU)",
@@ -181,67 +240,6 @@
         "local_events": 1
       },
       "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "c8f4a3f8029a5675a9b718e38930afe7be9f35be",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2176383",
-      "published_utc": "2026-08-22T07:50:05Z",
-      "title_en": "Four injured in drone attack on Ozon logistics center in Russia’s Samara region",
-      "lead_en": "Of them, one is in critical condition after jumping out of a window on the second floor",
-      "title_raw": "Four injured in drone attack on Ozon logistics center in Russia’s Samara region",
-      "lead_raw": "Of them, one is in critical condition after jumping out of a window on the second floor",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "0ebd7647dcc235d42801dc556a36259530e8c1bf",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2176379",
-      "published_utc": "2026-08-22T07:20:20Z",
-      "title_en": "Two killed, 13 others injured in enemy attacks on Russia’s Belgorod Region in past day",
-      "lead_en": "Two of them are in critical condition, Governor Alexander Shuvayev said",
-      "title_raw": "Two killed, 13 others injured in enemy attacks on Russia’s Belgorod Region in past day",
-      "lead_raw": "Two of them are in critical condition, Governor Alexander Shuvayev said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "1cfb4977817f187a114b5821cf358c872d4b4690",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/28034445",
-      "published_utc": "2026-08-22T07:09:53Z",
-      "title_en": "Il-76 of the Ministry of Emergency Situations flew out to extinguish fires in a nature reserve in Serbia",
-      "lead_en": "In the “Deliblatsky Sands” on August 21, a Russian agency aircraft succeeded in suppressing large outbreaks",
-      "title_raw": "Ил-76 МЧС вылетел на тушение пожаров в заповеднике в Сербии",
-      "lead_raw": "В \"Делиблатских песках\" 21 августа самолет российского ведомства добился подавления крупных очагов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
       "primary_topic": "local_events"
     }
   ]
