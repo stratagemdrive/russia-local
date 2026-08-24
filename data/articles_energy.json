@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-08-24T16:36:01Z",
+  "updated_at_utc": "2026-08-24T17:29:51Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 18,
+  "count": 17,
   "articles": [
+    {
+      "id": "8635c8ea7274548a3d6274acacd07ccca6098756",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2177111",
+      "published_utc": "2026-08-24T16:43:57Z",
+      "title_en": "Russia could localize nuclear fuel production in India — Manturov",
+      "lead_en": "The successful experience of cooperation on the Kudankulam NPP project provides a foundation for deeper cooperation in nuclear energy, the Russian first deputy prime minister said",
+      "title_raw": "Russia could localize nuclear fuel production in India — Manturov",
+      "lead_raw": "The successful experience of cooperation on the Kudankulam NPP project provides a foundation for deeper cooperation in nuclear energy, the Russian first deputy prime minister said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "7591e087aab5cb666de27c3eefd7493392179450",
       "source": "TASS (EN)",
@@ -309,7 +330,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/obschestvo/28036551",
       "published_utc": "2026-08-23T05:20:59Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Miroshnik: there is no mass exodus of residents from Donbass and Novorossiya amid attacks by the Ukrainian Armed Forces",
       "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_raw": "Мирошник: массового отъезда жителей из Донбасса и Новороссии на фоне атак ВСУ нет",
       "lead_raw": "Есть люди, которые временно покинули такие города как Энергодар, Пологи, Каменку-Днепровскую, но они не уехали далеко, они находятся на территории Запорожской области, отметил посол по особым поручениям МИД РФ по вопросам преступлений киевского режима",
@@ -348,49 +369,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "9a02c85e9395840bb9fe95e721c36e66f5c7c944",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2176505",
-      "published_utc": "2026-08-22T16:44:03Z",
-      "title_en": "Dry cargo ship carrying weapons hit in port of Chernomorsk",
-      "lead_en": "Moreover, seven fuel storage tanks were hit, the Russian Defense Ministry said",
-      "title_raw": "Dry cargo ship carrying weapons hit in port of Chernomorsk",
-      "lead_raw": "Moreover, seven fuel storage tanks were hit, the Russian Defense Ministry said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "01a3e91195dc1bb2ad6719ad4c03cda355610aa2",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2176503",
-      "published_utc": "2026-08-22T16:41:41Z",
-      "title_en": "Russian deputy premier names main sources for dealing with fuel shortages in Russia",
-      "lead_en": "Russia expects to resolve its fuel shortage issue by importing more and producing lower-class fuel, Alexander Novak said",
-      "title_raw": "Russian deputy premier names main sources for dealing with fuel shortages in Russia",
-      "lead_raw": "Russia expects to resolve its fuel shortage issue by importing more and producing lower-class fuel, Alexander Novak said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
