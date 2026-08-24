@@ -1,9 +1,74 @@
 {
-  "updated_at_utc": "2026-08-24T07:59:05Z",
+  "updated_at_utc": "2026-08-24T08:57:11Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 21,
+  "count": 24,
   "articles": [
+    {
+      "id": "10cc8d61a2ca94cf4b6cd2a28bf823aa021a727e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2176855",
+      "published_utc": "2026-08-24T08:48:34Z",
+      "title_en": "IN BRIEF: Russian forces strike fuel tanker, ports used in Ukrainian army’s supplies",
+      "lead_en": "The Russian Armed Forces delivered strikes by air-launched precision-guided weapons and attack UAVs",
+      "title_raw": "IN BRIEF: Russian forces strike fuel tanker, ports used in Ukrainian army’s supplies",
+      "lead_raw": "The Russian Armed Forces delivered strikes by air-launched precision-guided weapons and attack UAVs",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "dfb31f7a8065549e2442c59c75ce6f1649ab76e5",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2176845",
+      "published_utc": "2026-08-24T08:26:05Z",
+      "title_en": "Russian stock market declines at start of trading session",
+      "lead_en": "The yuan rose by 5.45 kopecks from the previous trading session’s closing level to 12.391 rubles at the opening of Moscow Exchange trading",
+      "title_raw": "Russian stock market declines at start of trading session",
+      "lead_raw": "The yuan rose by 5.45 kopecks from the previous trading session’s closing level to 12.391 rubles at the opening of Moscow Exchange trading",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "76f0ff3c7c3017f3a1652489273091352127787e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28038867",
+      "published_utc": "2026-08-24T08:03:04Z",
+      "title_en": "A tanker with fuel and lubricants and fuel tanks were hit. Strikes by the Russian Armed Forces on Ukrainian ports",
+      "lead_en": "Russian forces also attacked the power substation PS-330 \"Adzhalik\"",
+      "title_raw": "Поражены танкер с ГСМ и резервуары с топливом. Удары ВС РФ по портам Украины",
+      "lead_raw": "Российские силы также атаковали электроподстанцию ПС-330 \"Аджалик\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "41a4e369214642d2a2211e4a69378a77395c1c9d",
       "source": "TASS (RU)",
