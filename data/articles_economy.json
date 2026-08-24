@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-08-24T08:57:11Z",
+  "updated_at_utc": "2026-08-24T09:52:32Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 43,
+  "count": 42,
   "articles": [
+    {
+      "id": "3aa6532b9a8242c54a513ed923eb747028fa5253",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28039243",
+      "published_utc": "2026-08-24T09:28:25Z",
+      "title_en": "Peskov recalled Putin’s words on the grain situation",
+      "lead_en": "The grain intended for export will be sold in full, the press secretary of the President of the Russian Federation noted.",
+      "title_raw": "Песков напомнил о словах Путина по ситуации с зерном",
+      "lead_raw": "Предназначенное на экспорт зерно будет реализовано в полном объеме, отметил пресс-секретарь президент РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
     {
       "id": "cd44e3b334338feae14322915b1612b9f5b54de1",
       "source": "TASS (RU)",
@@ -831,44 +850,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "4d7300bfa98c1f9c3a5a731f77a739a8e5bbe1e2",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28034717",
-      "published_utc": "2026-08-22T09:09:06Z",
-      "title_en": "The Ministry of Industry and Trade will allocate funds from the recycling collection for the development of the transport system",
-      "lead_en": "According to the head of the Russian ministry Anton Alikhanov, we are talking about 15 billion rubles",
-      "title_raw": "Минпромторг выделит средства от утильсбора на развитие транспортной системы",
-      "lead_raw": "По словам главы российского министерства Антона Алиханова, речь идет о 15 млрд рублей",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "2423a47f4992a149efc5263ee02e152784e3ca99",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28034725",
-      "published_utc": "2026-08-22T09:03:17Z",
-      "title_en": "A new preferential ship leasing program has been launched in Russia",
-      "lead_en": "The program will provide preferential loans in the amount of up to 3 billion rubles at a rate of 1% or 3% per annum for a period of up to 15 or 25 years",
-      "title_raw": "В России запустили новую программу льготного лизинга судов",
-      "lead_raw": "В рамках программы будут предоставлены льготные займы в размере до 3 млрд рублей по ставке 1% или 3% годовых на срок до 15 или 25 лет",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
     }
   ]
 }
