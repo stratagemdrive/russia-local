@@ -1,8 +1,8 @@
 {
-  "updated_at_utc": "2026-08-24T05:37:00Z",
+  "updated_at_utc": "2026-08-24T06:56:32Z",
   "keep_hours": 48,
   "topic": "military",
-  "count": 62,
+  "count": 61,
   "articles": [
     {
       "id": "bcc572fd9a2555ab2a0ffe6f082a823dbaf7b907",
@@ -43,6 +43,28 @@
       },
       "topics": [
         "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "41a4e369214642d2a2211e4a69378a77395c1c9d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28038261",
+      "published_utc": "2026-08-24T05:04:32Z",
+      "title_en": "The Russian Armed Forces destroyed 10 military warehouses with cargo for the Ukrainian Armed Forces in the port of Yuzhny",
+      "lead_en": "Five fuel tanks on the territory of the warehouse complex were also hit, the Russian Ministry of Defense reported.",
+      "title_raw": "ВС РФ уничтожили 10 военных складов с грузами для ВСУ в порту Южный",
+      "lead_raw": "Также поражены пять резервуаров с топливом для на территории складского комплекса, сообщили в Минобороны России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
       ],
       "primary_topic": "military"
     },
@@ -1272,48 +1294,6 @@
       "topic_scores": {
         "diplomacy": 0,
         "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "18a9a120f4d235367060387b850dbde40e1e44e5",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/28034387",
-      "published_utc": "2026-08-22T06:46:26Z",
-      "title_en": "CAA: Ukrainian Armed Forces allow foreigners to kill civilians in the front-line Kharkov region",
-      "lead_en": "Deputy head of the military-civil administration of the Kharkov region for defense and security Evgeniy Lisnyak said that in the Armed Forces of Ukraine, civilians who did not leave were often perceived as traitors and potential “agents” of Russia",
-      "title_raw": "ВГА: ВСУ разрешают иностранцам убивать мирных жителей в прифронтовой Харьковщине",
-      "lead_raw": "Замглавы военно-гражданской администрации Харьковской области по обороне и безопасности Евгений Лисняк заявил, что в ВСУ гражданских, которые не уехали, часто воспринимали как предателей и потенциальных \"агентов\" России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "057acef3ff8ce9aea64d16a00a76407d4231b23e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28034345",
-      "published_utc": "2026-08-22T06:17:34Z",
-      "title_en": "457 Ukrainian UAVs were shot down over Russia overnight",
-      "lead_en": "Air defense systems were working",
-      "title_raw": "Над Россией за ночь сбили 457 украинских БПЛА",
-      "lead_raw": "Работали средства ПВО",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
         "energy": 0,
         "economy": 0,
         "local_events": 0
