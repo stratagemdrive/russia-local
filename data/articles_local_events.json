@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-08-25T11:26:07Z",
+  "updated_at_utc": "2026-08-25T12:44:40Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 24,
   "articles": [
+    {
+      "id": "61ee6ac502d9d22d13a47bcd4383c19cf1169db7",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2177453",
+      "published_utc": "2026-08-25T11:40:01Z",
+      "title_en": "Border guards from eight CIS countries conduct anti-sabotage exercise",
+      "lead_en": "Border guards from the Commonwealth states, in coordination with units of the Leningrad Military District, territorial units of the Russian National Guard, the Ministry of Internal Affairs, and the Russian Ministry of Emergency Situations, practiced detecting and eliminating enem",
+      "title_raw": "Border guards from eight CIS countries conduct anti-sabotage exercise",
+      "lead_raw": "Border guards from the Commonwealth states, in coordination with units of the Leningrad Military District, territorial units of the Russian National Guard, the Ministry of Internal Affairs, and the Russian Ministry of Emergency Situations, practiced detecting and eliminating enem",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "df27a4efe67292487ca23872f361bb3dd34d6cce",
       "source": "The Moscow Times",
@@ -95,7 +116,7 @@
       "url": "https://tass.ru/ekonomika/28041623",
       "published_utc": "2026-08-25T04:54:22Z",
       "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "According to the KTS Project company, car owners are concerned about the level of protection from floods, fires and other incidents",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_raw": "Аналитики выяснили, на что обращают внимание россияне при покупке машино-мест",
       "lead_raw": "По данным компании \"КТС Проект\", автовладельцев беспокоит уровень защищенности от затоплений, пожаров и других происшествий",
       "topic_scores": {
@@ -467,27 +488,6 @@
         "local_events": 1
       },
       "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "472cab5d82664463c7442b432faa76788fd43c65",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28037149",
-      "published_utc": "2026-08-23T11:31:25Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Вучич: Россия сразу после обращения прислала спецборт МЧС для борьбы с пожарами",
-      "lead_raw": "Президент Сербии также поблагодарил Румынию, Словакию, Чехию, Германию",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
       "primary_topic": "local_events"
     }
   ]
