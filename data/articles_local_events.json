@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-08-26T16:16:50Z",
+  "updated_at_utc": "2026-08-26T19:00:49Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 41,
   "articles": [
+    {
+      "id": "07f790c246a9c42fdc25f79242c3196b64a9ca2e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2178017",
+      "published_utc": "2026-08-26T16:52:20Z",
+      "title_en": "Kiev is using Europe's military capabilities to attack buses — Russian diplomat",
+      "lead_en": "Earlier, LPR Head Leonid Pasechnik reported that nine people, including a 20-year-old woman, were killed and six wounded in a Ukrainian strike on a bus traveling between Lisichansk and Stakhanov",
+      "title_raw": "Kiev is using Europe's military capabilities to attack buses — Russian diplomat",
+      "lead_raw": "Earlier, LPR Head Leonid Pasechnik reported that nine people, including a 20-year-old woman, were killed and six wounded in a Ukrainian strike on a bus traveling between Lisichansk and Stakhanov",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "37e33c2bce8d0cafe676dfe54b34e022833091c0",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/08/26/nine-dead-after-bus-comes-under-fire-in-russian-occupied-luhansk-region-moscow-installed-official-says",
+      "published_utc": "2026-08-26T16:38:11Z",
+      "title_en": "Nine dead after bus comes under fire in Russian-occupied Luhansk region, Moscow-installed official says",
+      "lead_en": "A scheduled intercity bus came under fire in the self-proclaimed Luhansk People’s Republic, according to Leonid Pasechnik, the Russian-appointed head of the region.",
+      "title_raw": "Nine dead after bus comes under fire in Russian-occupied Luhansk region, Moscow-installed official says",
+      "lead_raw": "A scheduled intercity bus came under fire in the self-proclaimed Luhansk People’s Republic, according to Leonid Pasechnik, the Russian-appointed head of the region.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "a968f3a37a7352d66d642edde69cabb069a60e6e",
       "source": "TASS (EN)",
@@ -657,7 +697,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/ekonomika/28041623",
       "published_utc": "2026-08-25T04:54:22Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Analysts have found out what Russians pay attention to when buying parking spaces",
       "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_raw": "Аналитики выяснили, на что обращают внимание россияне при покупке машино-мест",
       "lead_raw": "По данным компании \"КТС Проект\", автовладельцев беспокоит уровень защищенности от затоплений, пожаров и других происшествий",
@@ -794,44 +834,6 @@
       "topics": [
         "local_events"
       ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "38758c9e9bef9533215e4a01cd26898feab3bcea",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/08/24/trans-man-from-chechnya-found-dead-in-batumi-relatives-suspect-he-was-killed",
-      "published_utc": "2026-08-24T18:58:40Z",
-      "title_en": "Trans man from Chechnya found dead in Batumi; relatives suspect he was killed",
-      "lead_en": "Dmitry Menyaev, a 21-year-old ethnic Chechen who was born in Russia and moved to Georgia in 2022, was found dead in his apartment in Batumi on August 15, according to Radio Free Europe/Radio Liberty’s Russian service.",
-      "title_raw": "Trans man from Chechnya found dead in Batumi; relatives suspect he was killed",
-      "lead_raw": "Dmitry Menyaev, a 21-year-old ethnic Chechen who was born in Russia and moved to Georgia in 2022, was found dead in his apartment in Batumi on August 15, according to Radio Free Europe/Radio Liberty’s Russian service.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "482635112ce57893b69975d276a7849e0cc3c4fb",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28040879",
-      "published_utc": "2026-08-24T18:28:14Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Спасатели начали спускать тела двух пропавших альпинистов в горах Киргизии",
-      "lead_raw": "Продолжаются поиски третьего участника белорусско-литовской группы",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
       "primary_topic": "local_events"
     }
   ]
