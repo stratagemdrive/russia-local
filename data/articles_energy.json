@@ -1,16 +1,60 @@
 {
-  "updated_at_utc": "2026-08-30T07:55:53Z",
+  "updated_at_utc": "2026-08-30T13:37:22Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 13,
+  "count": 14,
   "articles": [
+    {
+      "id": "2f3c27f069be1607b786a46ffb8ccd6f1823fb64",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28058423",
+      "published_utc": "2026-08-30T11:28:37Z",
+      "title_en": "The Russian Embassy in Cyprus is finding out whether there are Russians among those affected by the disaster",
+      "lead_en": "The Kybryz newspaper previously reported that a high-speed vessel carrying about 270 passengers and crew members was in distress off the coast of northern Cyprus.",
+      "title_raw": "Посольство РФ на Кипре выясняет, есть ли россияне в числе пострадавших в бедствии",
+      "lead_raw": "Газета \"Кыбрыз\" ранее сообщила, что у побережья северной части Кипра терпит бедствие быстроходное судно, на борту которого находятся порядка 270 пассажиров и членов экипажа",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "ece8a978ae10a8673cb2c71d1164f6d89540bc0e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2179463",
+      "published_utc": "2026-08-30T09:21:06Z",
+      "title_en": "Russia readies to strike Ukraine’s energy sites to retaliate attacks on its infrastructure",
+      "lead_en": "At the same time, Russian servicemen continued to launch coordinated strikes against Ukrainian military-industrial facilities that support the Ukrainian military overnight, the ministry emphasized",
+      "title_raw": "Russia readies to strike Ukraine’s energy sites to retaliate attacks on its infrastructure",
+      "lead_raw": "At the same time, Russian servicemen continued to launch coordinated strikes against Ukrainian military-industrial facilities that support the Ukrainian military overnight, the ministry emphasized",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "ce37639efd5d5aa61463be59c26fb2b93c8a73d0",
       "source": "TASS (RU)",
       "url": "https://tass.ru/armiya-i-opk/28058007",
       "published_utc": "2026-08-30T07:17:46Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "The Russian Armed Forces hit the Flamingo launch site and Ukrainian energy facilities",
+      "lead_en": "Logistics centers used by the Ukrainian Armed Forces were also hit, the Russian Ministry of Defense added.",
       "title_raw": "ВС РФ поразили место запуска \"Фламинго\" и объекты энергетики Украины",
       "lead_raw": "Также были поражены логистические центры, используемые ВСУ, добавили в Минобороны России",
       "topic_scores": {
@@ -31,8 +75,8 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/armiya-i-opk/28057993",
       "published_utc": "2026-08-30T07:13:22Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "The Russian Armed Forces have begun preparing strikes against Ukrainian energy facilities",
+      "lead_en": "They will be a response to the ongoing attacks of the Kyiv regime on civilian infrastructure, the Russian Ministry of Defense noted.",
       "title_raw": "ВС РФ приступили к подготовке ударов по объектам энергетики Украины",
       "lead_raw": "Они станут ответом на продолжающиеся атаки киевского режима по гражданской инфраструктуре, отметили в Минобороны России",
       "topic_scores": {
@@ -254,27 +298,6 @@
         "energy": 1,
         "economy": 0,
         "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "77f2d670588fea5ee304585ea533f1825c7be327",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/08/28/ukrainian-drone-attack-kills-one-sparks-fire-at-yaroslavl-oil-refinery-a93595",
-      "published_utc": "2026-08-28T09:17:00Z",
-      "title_en": "Ukrainian Drone Attack Kills One, Sparks Fire at Yaroslavl Oil Refinery",
-      "lead_en": "The Slavneft-Yanos refinery has been attacked multiple times this year as Ukraine targets Russian oil and fuel infrastructure.",
-      "title_raw": "Ukrainian Drone Attack Kills One, Sparks Fire at Yaroslavl Oil Refinery",
-      "lead_raw": "The Slavneft-Yanos refinery has been attacked multiple times this year as Ukraine targets Russian oil and fuel infrastructure.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 1
       },
       "topics": [
         "energy"
