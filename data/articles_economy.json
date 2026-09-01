@@ -1,15 +1,415 @@
 {
-  "updated_at_utc": "2026-09-01T13:08:33Z",
+  "updated_at_utc": "2026-09-01T20:37:09Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 65,
+  "count": 82,
   "articles": [
+    {
+      "id": "a116034182e389b16d1c82a8a3cc61f5438c7812",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28067315",
+      "published_utc": "2026-09-01T19:51:27Z",
+      "title_en": "Sobyanin: Moscow is creating conditions for the development of the Russian food industry",
+      "lead_en": "The support helps capital enterprises expand their sales geography and increase supplies to regions of the country, the city mayor noted",
+      "title_raw": "Собянин: Москва создает условия для развития пищевой промышленности России",
+      "lead_raw": "Поддержка помогает столичным предприятиям расширять географию продаж и наращивать поставки в регионы страны, отметил мэр города",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "70a242de6f64b8d17f61d6b76958b8dfca225a2d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28067245",
+      "published_utc": "2026-09-01T19:00:05Z",
+      "title_en": "NBC: Bessent avoided answering a question about discussing Iran with Siluanov",
+      "lead_en": "The meeting between the American Treasury Secretary and his Russian counterpart took place on the sidelines of the meeting of heads of departments and central bank governors of the G20 countries, which takes place in Asheville on August 31 and September 1",
+      "title_raw": "NBC: Бессент ушел от ответа на вопрос об обсуждении Ирана с Силуановым",
+      "lead_raw": "Встреча американского министра финансов и его российского коллеги состоялась на полях заседания глав ведомств и управляющих центральных банков стран G20, которое проходит в Ашвилле 31 августа и 1 сентября",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "066e736d0429d4a128749ebc443ade7f7bdd14eb",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2180675",
+      "published_utc": "2026-09-01T18:23:18Z",
+      "title_en": "Armenia’s EU-ward movement equals de facto withdrawal from EAEU — Putin",
+      "lead_en": "Membership in both economic organizations is impossible, the Russian leader stressed",
+      "title_raw": "Armenia’s EU-ward movement equals de facto withdrawal from EAEU — Putin",
+      "lead_raw": "Membership in both economic organizations is impossible, the Russian leader stressed",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "0bca16583fd0b2c0337380dc15c4dcc6ac37aa32",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2180629",
+      "published_utc": "2026-09-01T17:16:04Z",
+      "title_en": "Russian stocks close mixed on Tuesday",
+      "lead_en": "The ruble-denominated MOEX Index increased by 0.39%, the dollar-denominated RTS Index declined by 0.05%",
+      "title_raw": "Russian stocks close mixed on Tuesday",
+      "lead_raw": "The ruble-denominated MOEX Index increased by 0.39%, the dollar-denominated RTS Index declined by 0.05%",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "a74dc9c0a8128bb1b96294d921df23f1686ffc80",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28066879",
+      "published_utc": "2026-09-01T16:44:01Z",
+      "title_en": "Putin: Russia and Armenia are implementing joint projects, including in the nuclear sector",
+      "lead_en": "We are also talking about projects in the field of industry, agriculture, mining, peaceful nuclear energy, transport, and the digital economy, the Russian President noted",
+      "title_raw": "Путин: РФ и Армения реализуют совместные проекты, в том числе в атомной сфере",
+      "lead_raw": "Речь идет также о проектах в области промышленности, сельского хозяйства, горнодобычи, мирного атома, транспорта, цифровой экономики, отметил президент России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "85c24844508b6cbc7d8f6e3a6fac950e6cd62a09",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28066881",
+      "published_utc": "2026-09-01T16:44:00Z",
+      "title_en": "Putin called Russian companies the largest taxpayers to the budget of Armenia",
+      "lead_en": "They strengthen the country’s energy security, the Russian President noted",
+      "title_raw": "Путин назвал российские компании крупнейшими налогоплательщиками в бюджет Армении",
+      "lead_raw": "Они укрепляют энергобезопасность страны, отметил президент РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "00f3060799d00791ae42a1eacac3eb150af93df7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28066841",
+      "published_utc": "2026-09-01T16:39:29Z",
+      "title_en": "The Russian stock market closed with multidirectional changes in stock indices",
+      "lead_en": "The Moscow Exchange index grew by 0.39%, the RTS dollar index fell by 0.05%",
+      "title_raw": "Российский рынок акций закрылся разнонаправленным изменением биржевых индексов",
+      "lead_raw": "Индекс Мосбиржи вырос на 0,39%, долларовый индекс РТС опустился на 0,05%",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "5761de51dd487e845b5944604520dbc53d2352b0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28066851",
+      "published_utc": "2026-09-01T16:37:39Z",
+      "title_en": "Putin: Armenia’s GDP has almost tripled during its membership in the EAEU",
+      "lead_en": "Exports to the countries of the union increased 10 times, noted the President of the Russian Federation",
+      "title_raw": "Путин: ВВП Армении за время членства в ЕАЭС вырос почти втрое",
+      "lead_raw": "Экспорт в страны союза вырос в 10 раз, отметил президент РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "53383ef5b01dd616a91f8cde4a70f7d06578b9d1",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28066833",
+      "published_utc": "2026-09-01T16:36:29Z",
+      "title_en": "Putin called Russia the main economic partner of Armenia",
+      "lead_en": "",
+      "title_raw": "Путин назвал Россию основным экономическим партнером Армении",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "506080b99c6fe0f49276289837b4cb5a5d34fca8",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2180583",
+      "published_utc": "2026-09-01T16:23:34Z",
+      "title_en": "Middle East conflict increases importance of Northern Sea Route for India — expert",
+      "lead_en": "Shorter maritime distances translate to cheaper logistics and faster delivery windows for goods moving between Russian ports and Asian markets, Rakesh Mishra highlighted",
+      "title_raw": "Middle East conflict increases importance of Northern Sea Route for India — expert",
+      "lead_raw": "Shorter maritime distances translate to cheaper logistics and faster delivery windows for goods moving between Russian ports and Asian markets, Rakesh Mishra highlighted",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "2fc11592c9d7412a18c9c5db53d943a107b6d648",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28066733",
+      "published_utc": "2026-09-01T16:03:20Z",
+      "title_en": "Russian Embassy: British sanctions against the A7 system will destabilize trade",
+      "lead_en": "Restrictions will not change Russia’s course, the embassy noted",
+      "title_raw": "Посольство РФ: санкции Британии против системы А7 дестабилизируют торговлю",
+      "lead_raw": "Ограничения не изменят курс России, отметили в посольстве",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "a8e2343965649d7dd00e8d20b914d7950a1ca898",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2180569",
+      "published_utc": "2026-09-01T15:55:18Z",
+      "title_en": "Russia sanctions bill 'hanging by a thread' in US Congress — media",
+      "lead_en": "House Democrats fear that \"the bill as written would give President Donald Trump even more tariff-related authorities that he could abuse\"",
+      "title_raw": "Russia sanctions bill 'hanging by a thread' in US Congress — media",
+      "lead_raw": "House Democrats fear that \"the bill as written would give President Donald Trump even more tariff-related authorities that he could abuse\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "50e2ceaf7b7fee03c75d1350ce7141f24a672697",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28066681",
+      "published_utc": "2026-09-01T15:48:56Z",
+      "title_en": "Germany initiates expansion of the Russian sanctions list in the EU",
+      "lead_en": "The German government previously officially blamed Russia for the drone incident at Leipzig/Halle airport and announced countermeasures",
+      "title_raw": "Германия инициирует в ЕС расширение санкционного списка россиян",
+      "lead_raw": "Правительство ФРГ ранее официально возложило ответственность за инцидент с беспилотником в аэропорту Лейпциг/Галле на Россию и объявило о контрмерах",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "95b45ef5c9022b4d9e806c7d72e5145f9dd64eb1",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28066657",
+      "published_utc": "2026-09-01T15:43:18Z",
+      "title_en": "The Central Bank pointed out that one-time shocks will continue to curb economic growth",
+      "lead_en": "At the same time, the growth of economic activity in the second quarter was higher than expected, Bank of Russia analysts noted",
+      "title_raw": "В ЦБ указали на сохранение сдерживания роста экономики разовыми шоками",
+      "lead_raw": "При этом рост экономической активности в II квартале сложился выше ожиданий, отметили аналитики Банка России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "613e2be58bf725280704d4ff1482ea0b4d689acb",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2180555",
+      "published_utc": "2026-09-01T15:23:05Z",
+      "title_en": "Bank of Russia raises dollar exchange rate to 86.75 rubles for September 2",
+      "lead_en": "The official euro exchange rate has been raised by 2.74 kopecks to 100.5988 rubles",
+      "title_raw": "Bank of Russia raises dollar exchange rate to 86.75 rubles for September 2",
+      "lead_raw": "The official euro exchange rate has been raised by 2.74 kopecks to 100.5988 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "b58a0bf74488821651059f33bfa5551f98b3b2f9",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/09/01/why-the-middle-east-oil-shock-failed-to-save-russias-budget-a93552",
+      "published_utc": "2026-09-01T14:03:08Z",
+      "title_en": "Why the Middle East Oil Shock Failed to Save Russia’s Budget",
+      "lead_en": "Six months into the U.S.-Iran war, Russia’s oil windfall looks surprisingly meager despite initial predictions of a revenue boom.",
+      "title_raw": "Why the Middle East Oil Shock Failed to Save Russia’s Budget",
+      "lead_raw": "Six months into the U.S.-Iran war, Russia’s oil windfall looks surprisingly meager despite initial predictions of a revenue boom.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "3feb7be6194c99ded7cdf13ad4d4031f77bb4e45",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2180475",
+      "published_utc": "2026-09-01T13:54:23Z",
+      "title_en": "Trade turnover between Russia, Tajikistan up 25% last year — Putin",
+      "lead_en": "There are 320 enterprises with Russian participation operating in Tajikistan, the Russian leader noted",
+      "title_raw": "Trade turnover between Russia, Tajikistan up 25% last year — Putin",
+      "lead_raw": "There are 320 enterprises with Russian participation operating in Tajikistan, the Russian leader noted",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "2aa2ea01345c29765b899375d9c6922600e56d8f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2180473",
+      "published_utc": "2026-09-01T13:54:05Z",
+      "title_en": "EU declines to follow US lead by meeting with Russia at G20 finance event — EC",
+      "lead_en": "Commissioner for Economy Valdis Dombrovskis has no intention of meeting the Russian finance minister, European Commission Chief Spokeswoman Paula Pinho noted",
+      "title_raw": "EU declines to follow US lead by meeting with Russia at G20 finance event — EC",
+      "lead_raw": "Commissioner for Economy Valdis Dombrovskis has no intention of meeting the Russian finance minister, European Commission Chief Spokeswoman Paula Pinho noted",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "a424a13599485f4806b0e0a055c5f25ac5e7e658",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/09/01/what-s-changing-in-russia-this-september-spiritual-and-moral-culture-classes-in-schools-the-digital-ruble-and-mandatory-camel-registration",
+      "published_utc": "2026-09-01T13:50:53Z",
+      "title_en": "What’s changing in Russia this September? ‘Spiritual and Moral Culture’ classes in schools, the digital ruble, and mandatory camel registration.",
+      "lead_en": "High schoolers are starting to study social studies from a textbook edited by Medvedev, while fifth-graders begin a new course called “Spiritual and Moral Culture of Russia.” Some schools will now offer Arabic as a second foreign language, and behavior grades will be introduced f",
+      "title_raw": "What’s changing in Russia this September? ‘Spiritual and Moral Culture’ classes in schools, the digital ruble, and mandatory camel registration.",
+      "lead_raw": "High schoolers are starting to study social studies from a textbook edited by Medvedev, while fifth-graders begin a new course called “Spiritual and Moral Culture of Russia.” Some schools will now offer Arabic as a second foreign language, and behavior grades will be introduced f",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "220adf825ff05a365ee375d83f2c0d24311069fb",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2180435",
+      "published_utc": "2026-09-01T13:10:13Z",
+      "title_en": "Russian aviation industry’s updated development program to be greenlighted by end of 2026",
+      "lead_en": "First Deputy Prime Minister Denis Manturov said the proposed mechanisms had been supported by the President",
+      "title_raw": "Russian aviation industry’s updated development program to be greenlighted by end of 2026",
+      "lead_raw": "First Deputy Prime Minister Denis Manturov said the proposed mechanisms had been supported by the President",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
     {
       "id": "fdfec8cd8e4f62f995df90f6a56abb69c52c409b",
       "source": "TASS (RU)",
       "url": "https://tass.ru/mezhdunarodnaya-panorama/28066093",
       "published_utc": "2026-09-01T13:03:07Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Foreign participants of the WEF called it useful and dynamic",
       "lead_en": "Forum guests also noted that all countries cooperating with Russia are tired of unilateral Western sanctions",
       "title_raw": "Иностранные участники ВЭФ назвали его полезным и динамичным",
       "lead_raw": "Гости форума также отметили, что от односторонних санкций Запада устали все сотрудничающие с Россией страны",
@@ -226,27 +626,6 @@
       "primary_topic": "economy"
     },
     {
-      "id": "06480decb38680c6ad1802d0a8e5ffe664fbaf12",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28064317",
-      "published_utc": "2026-09-01T07:00:55Z",
-      "title_en": "TASS: Russian gas exports to Europe via Turkish Stream increased by 3.4% in January - August",
-      "lead_en": "It amounted to 11.9 billion cubic meters. m",
-      "title_raw": "ТАСС: экспорт газа РФ в Европу по \"Турецкому потоку\" в январе - августе вырос на 3,4%",
-      "lead_raw": "Он составил 11,9 млрд куб. м",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
       "id": "f91ac81a3e701d185256b7540fe1bb146e3afad7",
       "source": "TASS (RU)",
       "url": "https://tass.ru/interviews/28053715",
@@ -411,8 +790,8 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/ekonomika/28063133",
       "published_utc": "2026-09-01T01:19:52Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "\"Rusprodsoyuz\": in Russia, red caviar has fallen in price by 2.5% over the year",
+      "lead_en": "Average retail prices in July 2026 amounted to 9,396 rubles/kg, said Dmitry Leonov, deputy chairman of the association’s board of directors.",
       "title_raw": "\"Руспродсоюз\": в России красная икра подешевела на 2,5% за год",
       "lead_raw": "Средние розничные цены в июле 2026 года составили 9 396 рублей/кг, заявил зампред правления ассоциации Дмитрий Леонов",
       "topic_scores": {
@@ -430,8 +809,8 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/obschestvo/28063117",
       "published_utc": "2026-09-01T01:06:26Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Kobyakov called Russky Island a national and state symbol of Russia",
+      "lead_en": "According to the adviser to the President of the Russian Federation, the Eastern Economic Forum is returning a historical mission to Vladivostok",
       "title_raw": "Кобяков назвал остров Русский национальным и государственным символом России",
       "lead_raw": "По словам советника президента РФ, Восточный экономический форум возвращает Владивостоку историческую миссию",
       "topic_scores": {
@@ -449,8 +828,8 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/ekonomika/28062911",
       "published_utc": "2026-08-31T23:02:51Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Trutnev called the price of a Russian aircraft for the Far Eastern Federal District over 1 billion rubles fantastic",
+      "lead_en": "The Deputy Prime Minister stressed that such a price is unacceptable for the economy of the Far East",
       "title_raw": "Трутнев назвал фантастикой цену российского самолета для ДФО свыше 1 млрд рублей",
       "lead_raw": "Вице-премьер подчеркнул, что такая цена является неприемлемой для экономики Дальнего Востока",
       "topic_scores": {
@@ -470,8 +849,8 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/ekonomika/28062881",
       "published_utc": "2026-08-31T22:28:53Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Patrushev: in the Russian Federation, fish production volumes fully meet market needs",
+      "lead_en": "The Deputy Prime Minister noted that the Far Eastern region accounts for more than 70% of the catch of Russian fish products",
       "title_raw": "Патрушев: в РФ объемы производства рыбы полностью обеспечивают потребности рынка",
       "lead_raw": "Вице-премьер отметил, что на долю Дальневосточного региона приходится более 70% вылова российской рыбной продукции",
       "topic_scores": {
@@ -611,8 +990,8 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/ekonomika/28062421",
       "published_utc": "2026-08-31T17:45:32Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "The Russian stock market closed with growth in the main indices",
+      "lead_en": "The yuan exchange rate increased by 14 kopecks",
       "title_raw": "Российский рынок акций закрылся ростом основных индексов",
       "lead_raw": "Курс юаня вырос на 14 копеек",
       "topic_scores": {
@@ -630,8 +1009,8 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/novosti-regionov/28062399",
       "published_utc": "2026-08-31T17:32:50Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Kurgan authorities will expand the conditions for receiving subsidies to 1 million rubles for large families",
+      "lead_en": "New support measures are planned as part of the regional program \"Russian Dream\"",
       "title_raw": "Курганские власти расширят условия получения субсидии до 1 млн рублей многодетным",
       "lead_raw": "Новые меры поддержки планируются в рамках региональной программы \"Русская мечта\"",
       "topic_scores": {
@@ -672,8 +1051,8 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/ekonomika/28062313",
       "published_utc": "2026-08-31T17:20:55Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Reshetnikov announced that options for a special regime for autotourists are being worked out with China",
+      "lead_en": "The issue of its creation is being discussed at the working level with Russian departments and the Chinese side, noted the Russian Minister of Economic Development",
       "title_raw": "Решетников заявил о проработке с КНР вариантов спецрежима для автотуристов",
       "lead_raw": "Вопрос его создания обсуждается на рабочем уровне с российскими ведомствами и китайской стороной, отметил министр экономического развития России",
       "topic_scores": {
@@ -691,8 +1070,8 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/ekonomika/28062305",
       "published_utc": "2026-08-31T16:57:26Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Siluanov and Bessent discussed cooperation between the Russian Federation and the United States on the financial track",
+      "lead_en": "The finance ministers of Russia and the United States met on the sidelines of a meeting of the heads of the Ministries of Finance and the governors of the central banks of the G20 countries.",
       "title_raw": "Силуанов и Бессент обсудили взаимодействие РФ и США по финансовому треку",
       "lead_raw": "Министры финансов России и Соединенных Штатов встретились на полях заседания глав Минфинов и управляющих центральных банков стран \"Группы двадцати\"",
       "topic_scores": {
@@ -732,7 +1111,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/ekonomika/28062173",
       "published_utc": "2026-08-31T16:00:46Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "The Russian stock market accelerated growth due to Putin's words about Ukraine",
       "lead_en": "After the president’s words, the Moscow Exchange index accelerated its growth to 2,140.33 points",
       "title_raw": "Российский рынок акций ускорял рост на словах Путина об Украине",
       "lead_raw": "После слов президента, индекс Мосбиржи ускорил рост до 2 140,33 пункта",
@@ -1261,48 +1640,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "ca4ce44475d493fd1c860ab67575cd7bd96efcb8",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2179545",
-      "published_utc": "2026-08-30T16:38:48Z",
-      "title_en": "Putin to hold meeting on Far East’s development on sidelines of Eastern Economic Forum",
-      "lead_en": "Before attending the Eastern Economic Forum, Russian president will pay a visit to Kyrgyzstan, which will host a Shanghai Cooperation Organization summit",
-      "title_raw": "Putin to hold meeting on Far East’s development on sidelines of Eastern Economic Forum",
-      "lead_raw": "Before attending the Eastern Economic Forum, Russian president will pay a visit to Kyrgyzstan, which will host a Shanghai Cooperation Organization summit",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "d77095130a266bb06c1a0cdc55c167fe4f3f6269",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28058717",
-      "published_utc": "2026-08-30T15:52:03Z",
-      "title_en": "Peskov: Putin begins a long and eventful trip",
-      "lead_en": "During it, the Russian leader will attend the SCO summit in Kyrgyzstan and the Eastern Economic Forum in Vladivostok",
-      "title_raw": "Песков: Путин начинает длительную и насыщенную поездку",
-      "lead_raw": "В ходе нее российский лидер посетит саммит ШОС в Киргизии и Восточный экономический форум во Владивостоке",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }

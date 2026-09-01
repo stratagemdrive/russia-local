@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-09-01T13:08:33Z",
+  "updated_at_utc": "2026-09-01T20:37:09Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 19,
+  "count": 18,
   "articles": [
+    {
+      "id": "ae5a6224effd079eff4dfba971e62b6d9e4bb211",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2180593",
+      "published_utc": "2026-09-01T16:48:57Z",
+      "title_en": "Russia, Turkey call for ceasefire in Persian Gulf — Russian Foreign Ministry",
+      "lead_en": "The two sides supported efforts of regional mediators, including work to restore safe and unimpeded navigation through the Strait of Hormuz",
+      "title_raw": "Russia, Turkey call for ceasefire in Persian Gulf — Russian Foreign Ministry",
+      "lead_raw": "The two sides supported efforts of regional mediators, including work to restore safe and unimpeded navigation through the Strait of Hormuz",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "cc729ee025c69e798dbe23fd233ee164978f9380",
       "source": "TASS (EN)",
@@ -340,48 +361,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "ea31b1436f374257aff50fca3d51b0a8fc96e986",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28058973",
-      "published_utc": "2026-08-30T20:01:15Z",
-      "title_en": "The Russian Embassy in Cyprus expressed condolences to the families of the shipwreck victims",
-      "lead_en": "The diplomatic mission \"wishes a speedy recovery to the injured\"",
-      "title_raw": "Посольство России на Кипре выразило соболезнования семьям жертв кораблекрушения",
-      "lead_raw": "Диппредставительство \"желает скорейшего выздоровления пострадавшим\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "5b9b1576064909e9522ac3d8ec4101e09b4619f9",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/28058915",
-      "published_utc": "2026-08-30T18:47:27Z",
-      "title_en": "Russian Embassy: there are no Russians among the victims of the shipwreck near Northern Cyprus",
-      "lead_en": "The Russian diplomatic mission referred to data from the Turkish-Cypriot foreign ministry",
-      "title_raw": "Посольство РФ: среди жертв крушения судна у Северного Кипра россиян нет",
-      "lead_raw": "В российском диппредставительстве сослались на данные турко-кипрского внешнеполитического ведомства",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
