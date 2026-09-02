@@ -1,9 +1,50 @@
 {
-  "updated_at_utc": "2026-09-02T08:25:49Z",
+  "updated_at_utc": "2026-09-02T13:16:19Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 15,
   "articles": [
+    {
+      "id": "a569658044e091cfb18d3b92d109dcc169a82147",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28071353",
+      "published_utc": "2026-09-02T13:03:43Z",
+      "title_en": "Journalist Travaglio considered the accusations against the Russian Federation absurd over the UAV in Leipzig",
+      "lead_en": "The editor-in-chief of the newspaper Il Fatto quotidiano also cited headlines from the Italian media, which indicate Russia's alleged involvement in everything that happens in Europe - from explosions at military factories to election failures",
+      "title_raw": "Журналист Травальо счел абсурдными обвинения в адрес РФ из-за БПЛА в Лейпциге",
+      "lead_raw": "Главред газеты Il Fatto quotidiano также привел заголовки итальянских СМИ, в которых указывается на якобы причастность России ко всему, что происходит в Европе - от взрывов на военных заводах до предвыборных неудач",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "54f263a534cfe169d284f50b4bff8c467fea46f3",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/09/02/workshop-catches-fire-at-roscosmos-plant-in-russia",
+      "published_utc": "2026-09-02T13:01:07Z",
+      "title_en": "Workshop catches fire at Roscosmos plant in Russia",
+      "lead_en": "A workshop caught fire at a plant in the village of Novye Lyady, in Perm’s Sverdlovsk district, according to the local outlet 59.ru.",
+      "title_raw": "Workshop catches fire at Roscosmos plant in Russia",
+      "lead_raw": "A workshop caught fire at a plant in the village of Novye Lyady, in Perm’s Sverdlovsk district, according to the local outlet 59.ru.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "ae5a6224effd079eff4dfba971e62b6d9e4bb211",
       "source": "TASS (EN)",
@@ -251,46 +292,6 @@
       "lead_en": "Ukrainian drones struck Russia’s Sverdlovsk region, Governor Denis Pasler said. The attack damaged several apartments in a multi-story residential building in Yekaterinburg, according to Artem Zhoga, the presidential envoy to the Ural Federal District.",
       "title_raw": "Ukrainian drones attack Russia’s Yekaterinburg. Three apartment buildings damaged, four people injured.",
       "lead_raw": "Ukrainian drones struck Russia’s Sverdlovsk region, Governor Denis Pasler said. The attack damaged several apartments in a multi-story residential building in Yekaterinburg, according to Artem Zhoga, the presidential envoy to the Ural Federal District.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "155336bc31ad3d61c8ab63dde52df985196450cf",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28060719",
-      "published_utc": "2026-08-31T09:47:02Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "ЛДПР призвала проверить недобросовестные УК по всей России",
-      "lead_raw": "Износ коммунальной инфраструктуры в некоторых регионах достигает 80-90%, из-за чего растет количество аварий, отметил лидер партии Леонид Слуцкий",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "97e26f1581609f7d4b6e248f26287901b10ad528",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/28060641",
-      "published_utc": "2026-08-31T09:18:27Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "При крушении парома у берегов Кипра погибла россиянка",
-      "lead_raw": "Посольство РФ в Турции сообщило об этом в Telegram-канале",
       "topic_scores": {
         "diplomacy": 1,
         "military": 0,

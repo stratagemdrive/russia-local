@@ -1,9 +1,244 @@
 {
-  "updated_at_utc": "2026-09-02T08:25:49Z",
+  "updated_at_utc": "2026-09-02T13:16:19Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 26,
+  "count": 34,
   "articles": [
+    {
+      "id": "a569658044e091cfb18d3b92d109dcc169a82147",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28071353",
+      "published_utc": "2026-09-02T13:03:43Z",
+      "title_en": "Journalist Travaglio considered the accusations against the Russian Federation absurd over the UAV in Leipzig",
+      "lead_en": "The editor-in-chief of the newspaper Il Fatto quotidiano also cited headlines from the Italian media, which indicate Russia's alleged involvement in everything that happens in Europe - from explosions at military factories to election failures",
+      "title_raw": "Журналист Травальо счел абсурдными обвинения в адрес РФ из-за БПЛА в Лейпциге",
+      "lead_raw": "Главред газеты Il Fatto quotidiano также привел заголовки итальянских СМИ, в которых указывается на якобы причастность России ко всему, что происходит в Европе - от взрывов на военных заводах до предвыборных неудач",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "aee0f228321f55c1e8e752ed4456c8b65ebdd717",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28071327",
+      "published_utc": "2026-09-02T12:59:23Z",
+      "title_en": "Putin: cooperation between Russia and China in the field of energy is deepening",
+      "lead_en": "The President of the Russian Federation also noted the growth in mutual investments",
+      "title_raw": "Путин: сотрудничество России и КНР в области энергетики углубляется",
+      "lead_raw": "Президент РФ также отметил рост объемов взаимных инвестиций",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "ea19e00ee550b6ca2d40d731d052cc57a50eec2e",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/09/02/ukraine-claims-it-foiled-fsb-plot-against-anti-kremlin-figure-amid-shootout-in-kyiv-a93623",
+      "published_utc": "2026-09-02T12:45:37Z",
+      "title_en": "Ukraine Claims It Foiled FSB Plot Against Anti-Kremlin Figure Amid Shootout in Kyiv",
+      "lead_en": "Ukrainian media reported that the target of the assassination attempt was Stepan Kaplunov, a member of the Russian Volunteer Corps.",
+      "title_raw": "Ukraine Claims It Foiled FSB Plot Against Anti-Kremlin Figure Amid Shootout in Kyiv",
+      "lead_raw": "Ukrainian media reported that the target of the assassination attempt was Stepan Kaplunov, a member of the Russian Volunteer Corps.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "698944f44ba61dc647dbc084c5b9fb840733eb72",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/28071209",
+      "published_utc": "2026-09-02T12:41:10Z",
+      "title_en": "Germany has identified two people possibly involved in the UAV incident",
+      "lead_en": "According to the Süddeutsche Zeitung newspaper, the police suspect a Latvian citizen originally from Russia and a resident of Belarus with a Russian passport",
+      "title_raw": "В ФРГ установили двоих возможных причастных к инциденту с БПЛА",
+      "lead_raw": "По данным газеты Süddeutsche Zeitung, полиция подозревает гражданина Латвии родом из России и жителя Белоруссии с паспортом РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "05b5642c28073ab70db3a16aab66d9684b4bc855",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2181231",
+      "published_utc": "2026-09-02T12:27:17Z",
+      "title_en": "Authorities stepping up efforts to ensure security of oil refineries — Russian deputy PM",
+      "lead_en": "According to Alexander Novak, oil refineries in Russia are better protected than those in the UAE at present as the country’s authorities are proceeding from a more severe threat model",
+      "title_raw": "Authorities stepping up efforts to ensure security of oil refineries — Russian deputy PM",
+      "lead_raw": "According to Alexander Novak, oil refineries in Russia are better protected than those in the UAE at present as the country’s authorities are proceeding from a more severe threat model",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "769dd58a45b9ea6284593cbf5bd55c631ce2a2c6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28071135",
+      "published_utc": "2026-09-02T12:20:12Z",
+      "title_en": "Reshetnikov: the next investment cycle in Russia will differ in structure",
+      "lead_en": "If earlier investments flowed into the oil and gas industry, then money should flow into aircraft manufacturing, ships and telecom equipment, noted the head of the Ministry of Economic Development",
+      "title_raw": "Решетников: следующий инвестиционный цикл в России будет отличаться по структуре",
+      "lead_raw": "Если раньше инвестиции вливались в нефтегазовую промышленность, то уже деньги должны поступать в самолетостроение, суда и телеком оборудование, отметил глава Минэкономразвития",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "f248e868f32edbfbbf9a3d27bbd3552da595ffd6",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2181179",
+      "published_utc": "2026-09-02T10:53:21Z",
+      "title_en": "Russian refineries better protected than those in UAE, Novak says",
+      "lead_en": "The official highlighted that protecting the refineries had been quite costly for oil companies",
+      "title_raw": "Russian refineries better protected than those in UAE, Novak says",
+      "lead_raw": "The official highlighted that protecting the refineries had been quite costly for oil companies",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "e56cb639d3f9ba241e158dabd5212112d1979bb3",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2181155",
+      "published_utc": "2026-09-02T10:08:05Z",
+      "title_en": "South Korea ready to cooperate with Russia in nuclear energy — Rosatom CEO",
+      "lead_en": "South Korea is among the countries that were compelled to impose sanctions on Russia under pressure, Alexey Likhachev said",
+      "title_raw": "South Korea ready to cooperate with Russia in nuclear energy — Rosatom CEO",
+      "lead_raw": "South Korea is among the countries that were compelled to impose sanctions on Russia under pressure, Alexey Likhachev said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "636626524e5af939317022241d554d298bfe81ea",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/09/02/turkish-airline-pegasus-cancels-flights-between-moscow-and-turkey-after-zelensky-s-warning-about-unsafe-russian-airspace",
+      "published_utc": "2026-09-02T09:45:38Z",
+      "title_en": "Turkish airline Pegasus cancels flights between Moscow and Turkey after Zelensky’s warning about unsafe Russian airspace",
+      "lead_en": "Turkish budget airline Pegasus canceled at least one flight from Bodrum to Moscow that had been scheduled to depart at 12:05 a.m. on September 2, the Russian Telegram news channel Ostorozhno Novosti reported.",
+      "title_raw": "Turkish airline Pegasus cancels flights between Moscow and Turkey after Zelensky’s warning about unsafe Russian airspace",
+      "lead_raw": "Turkish budget airline Pegasus canceled at least one flight from Bodrum to Moscow that had been scheduled to depart at 12:05 a.m. on September 2, the Russian Telegram news channel Ostorozhno Novosti reported.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "d1d913ef83a496e9d128760674d6db92bb5a5a95",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/09/02/what-does-zelensky-s-threat-to-close-russia-s-skies-mean-and-what-targets-could-ukraine-hit-next",
+      "published_utc": "2026-09-02T09:27:16Z",
+      "title_en": "What does Zelensky’s threat to ‘close Russia’s skies’ mean? And what targets could Ukraine hit next?",
+      "lead_en": "Ukraine continues its campaign of strikes on Russia’s rear, and its choice of targets keeps growing more varied. In recent days, drones have hit an oil terminal at the port of Ust-Luga on the Baltic Sea, a drone base in Oryol Region, unknown facilities in Tolyatti, a power plant in Belgorod, and air bases in Yeysk and Saratov Region.",
+      "title_raw": "What does Zelensky’s threat to ‘close Russia’s skies’ mean? And what targets could Ukraine hit next?",
+      "lead_raw": "Ukraine continues its campaign of strikes on Russia’s rear, and its choice of targets keeps growing more varied. In recent days, drones have hit an oil terminal at the port of Ust-Luga on the Baltic Sea, a drone base in Oryol Region, unknown facilities in Tolyatti, a power plant in Belgorod, and air bases in Yeysk and Saratov Region.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "e25567f4756d631dca1c147834972fe96521c0cd",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2181107",
+      "published_utc": "2026-09-02T08:56:46Z",
+      "title_en": "Warehouse with dual-use goods, energy infrastructure hit: strikes by Russian Armed Forces",
+      "lead_en": "The Russian Armed Forces hit the Stellar Jet logistics center near the Vishnevoye settlement in the Kiev region using Geran-4 Seeker drones",
+      "title_raw": "Warehouse with dual-use goods, energy infrastructure hit: strikes by Russian Armed Forces",
+      "lead_raw": "The Russian Armed Forces hit the Stellar Jet logistics center near the Vishnevoye settlement in the Kiev region using Geran-4 Seeker drones",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "9da2f50805713a0393228c1f6984d055d55cdcf6",
       "source": "Meduza (EN)",
@@ -31,7 +266,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/ekonomika/28069445",
       "published_utc": "2026-09-02T08:03:05Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Putin inspected the gas tanker Pyotr Stolypin for the Arctic LNG-2 project",
       "lead_en": "The President of the Russian Federation arrived at the Zvezda shipyard located in the city of Bolshoy Kamen in Primorye",
       "title_raw": "Путин осмотрел танкер-газовоз \"Петр Столыпин\" для проекта \"Арктик СПГ-2\"",
       "lead_raw": "Президент РФ приехал на судоверфь \"Звезда\", расположенную в городе Большой Камень в Приморье",
@@ -73,8 +308,8 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/armiya-i-opk/28069479",
       "published_utc": "2026-09-02T07:38:46Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "A warehouse with dual-use goods and energy infrastructure were affected. Strikes by the Russian Armed Forces",
+      "lead_en": "The Russian Armed Forces continue to carry out group strikes on logistics centers, port and energy infrastructure of Ukraine, involved in the interests of the Ukrainian Armed Forces",
       "title_raw": "Поражены склад с товарами двойного назначения и энергетическая инфраструктура. Удары ВС РФ",
       "lead_raw": "ВС России продолжают нанесение групповых ударов по логистическим центрам, портовой и энергетической инфраструктуре Украины, задействованным в интересах ВСУ",
       "topic_scores": {
@@ -94,8 +329,8 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/obschestvo/28069221",
       "published_utc": "2026-09-02T07:34:32Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "In the Far East, the gasification level exceeds 30%",
+      "lead_en": "The Russian average is 75%",
       "title_raw": "На Дальнем Востоке уровень газификации превышает 30%",
       "lead_raw": "Среднероссийский показатель составляет 75%",
       "topic_scores": {
@@ -488,70 +723,6 @@
         "military": 0,
         "energy": 1,
         "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "c5e793712b1ea8faa483bfc7f9f4b8cc564b722c",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2179895",
-      "published_utc": "2026-08-31T13:14:05Z",
-      "title_en": "Russia struck energy, transport infrastructure used in Ukrainian army’s interests",
-      "lead_en": "Russian air defense forces intercepted and destroyed 766 Ukrainian unmanned aerial vehicles and seven smart bombs over the past 24 hours, the Defense Ministry reported",
-      "title_raw": "Russia struck energy, transport infrastructure used in Ukrainian army’s interests",
-      "lead_raw": "Russian air defense forces intercepted and destroyed 766 Ukrainian unmanned aerial vehicles and seven smart bombs over the past 24 hours, the Defense Ministry reported",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "ad6a1066bba93e61b94b6fd8f515a149f8616e69",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/pressreview/2179697",
-      "published_utc": "2026-08-31T10:00:00Z",
-      "title_en": "Press review: EU mulls Russia-linked tanker seizures as US deal opens Venezuela oil access",
-      "lead_en": "Top stories from the Russian press on Monday, August 31st",
-      "title_raw": "Press review: EU mulls Russia-linked tanker seizures as US deal opens Venezuela oil access",
-      "lead_raw": "Top stories from the Russian press on Monday, August 31st",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "07420dae44d18952e7d567cb90c72763a886afd3",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28060609",
-      "published_utc": "2026-08-31T09:14:58Z",
-      "title_en": "The Russian Armed Forces hit the energy and transport infrastructure of the Armed Forces of Ukraine",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "ВС РФ поразили энергетическую и транспортную инфраструктуру ВСУ",
-      "lead_raw": "Российские силы также нанесли удары по пунктам дислокации противника и иностранных наемников",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
         "local_events": 0
       },
       "topics": [
