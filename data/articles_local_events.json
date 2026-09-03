@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-09-02T22:59:59Z",
+  "updated_at_utc": "2026-09-03T01:04:13Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 10,
+  "count": 12,
   "articles": [
+    {
+      "id": "310ec0f7c7d21af91401e93c1101651739db7edf",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28072991",
+      "published_utc": "2026-09-03T00:42:00Z",
+      "title_en": "The Russian Consulate General in Houston warned Russians about the danger of Storm Edward",
+      "lead_en": "Citizens were advised to be especially careful",
+      "title_raw": "Генконсульство РФ в Хьюстоне предупредило россиян об опасности шторма \"Эдуард\"",
+      "lead_raw": "Гражданам рекомендовали быть особенно осторожными",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "e41dfbab0fd8bccd65705092973c894c158e9510",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28072787",
+      "published_utc": "2026-09-02T22:54:10Z",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_raw": "После встречи Путина с Кожемяко проработают вопрос доступа к грунтам при ЧС",
+      "lead_raw": "По итогам обсуждения президент России поручил профильным министерствам заняться этим вопросом",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "388d9e38aef6d940cf4374bbe1efa19b555fd302",
       "source": "TASS (EN)",
@@ -30,8 +70,8 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/mezhdunarodnaya-panorama/28071353",
       "published_utc": "2026-09-02T13:03:43Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Journalist Travaglio considered the accusations against the Russian Federation absurd over the UAV in Leipzig",
+      "lead_en": "The editor-in-chief of the newspaper Il Fatto quotidiano also cited headlines from the Italian media, which indicate Russia's alleged involvement in everything that happens in Europe - from explosions at military factories to election failures",
       "title_raw": "Журналист Травальо счел абсурдными обвинения в адрес РФ из-за БПЛА в Лейпциге",
       "lead_raw": "Главред газеты Il Fatto quotidiano также привел заголовки итальянских СМИ, в которых указывается на якобы причастность России ко всему, что происходит в Европе - от взрывов на военных заводах до предвыборных неудач",
       "topic_scores": {
