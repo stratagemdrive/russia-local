@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-09-04T10:41:53Z",
+  "updated_at_utc": "2026-09-04T14:48:35Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 14,
+  "count": 12,
   "articles": [
+    {
+      "id": "473d3036a708c64035eaf48de2d470084c4c904e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2182757",
+      "published_utc": "2026-09-04T12:12:11Z",
+      "title_en": "Rostec presents Mi-38PS Arctic helicopter with record range at Kazan exhibition",
+      "lead_en": "The first batch of Mi-38PS helicopters was delivered to the Russian Ministry of Emergency Situations in 2025",
+      "title_raw": "Rostec presents Mi-38PS Arctic helicopter with record range at Kazan exhibition",
+      "lead_raw": "The first batch of Mi-38PS helicopters was delivered to the Russian Ministry of Emergency Situations in 2025",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "19626f5979aed92440408d5453b3839999d64a4d",
       "source": "Meduza (EN)",
@@ -227,68 +246,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "388d9e38aef6d940cf4374bbe1efa19b555fd302",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2181269",
-      "published_utc": "2026-09-02T13:24:16Z",
-      "title_en": "Russia will not buy double-dealing calls for Ukraine ceasefire by EU, NATO — envoy",
-      "lead_en": "Russian Ambassador to Belgium Denis Gonchar reiterated Moscow’s continuous commitment to achieving a long-term and sustainable solution to the Ukraine crisis",
-      "title_raw": "Russia will not buy double-dealing calls for Ukraine ceasefire by EU, NATO — envoy",
-      "lead_raw": "Russian Ambassador to Belgium Denis Gonchar reiterated Moscow’s continuous commitment to achieving a long-term and sustainable solution to the Ukraine crisis",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "a569658044e091cfb18d3b92d109dcc169a82147",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28071353",
-      "published_utc": "2026-09-02T13:03:43Z",
-      "title_en": "Journalist Travaglio considered the accusations against the Russian Federation absurd over the UAV in Leipzig",
-      "lead_en": "The editor-in-chief of the newspaper Il Fatto quotidiano also cited headlines from the Italian media, which indicate Russia's alleged involvement in everything that happens in Europe - from explosions at military factories to election failures",
-      "title_raw": "Журналист Травальо счел абсурдными обвинения в адрес РФ из-за БПЛА в Лейпциге",
-      "lead_raw": "Главред газеты Il Fatto quotidiano также привел заголовки итальянских СМИ, в которых указывается на якобы причастность России ко всему, что происходит в Европе - от взрывов на военных заводах до предвыборных неудач",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "54f263a534cfe169d284f50b4bff8c467fea46f3",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/09/02/workshop-catches-fire-at-roscosmos-plant-in-russia",
-      "published_utc": "2026-09-02T13:01:07Z",
-      "title_en": "Workshop catches fire at Roscosmos plant in Russia",
-      "lead_en": "A workshop caught fire at a plant in the village of Novye Lyady, in Perm’s Sverdlovsk district, according to the local outlet 59.ru.",
-      "title_raw": "Workshop catches fire at Roscosmos plant in Russia",
-      "lead_raw": "A workshop caught fire at a plant in the village of Novye Lyady, in Perm’s Sverdlovsk district, according to the local outlet 59.ru.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
