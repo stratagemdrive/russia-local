@@ -1,15 +1,58 @@
 {
-  "updated_at_utc": "2026-09-04T05:33:02Z",
+  "updated_at_utc": "2026-09-04T10:41:53Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 12,
+  "count": 14,
   "articles": [
+    {
+      "id": "19626f5979aed92440408d5453b3839999d64a4d",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/09/04/ukrainian-drones-attack-russia-s-black-sea-coast-sparking-a-fire-at-an-oil-depot",
+      "published_utc": "2026-09-04T08:05:59Z",
+      "title_en": "Ukrainian drones attack Russia’s Black Sea coast, sparking a fire at an oil depot",
+      "lead_en": "A Ukrainian drone attack on the city of Sochi and the nearby town of Sirius sparked a fire overnight on September 4 at an oil depot, according to the Krasnodar Krai Operational Headquarters.",
+      "title_raw": "Ukrainian drones attack Russia’s Black Sea coast, sparking a fire at an oil depot",
+      "lead_raw": "A Ukrainian drone attack on the city of Sochi and the nearby town of Sirius sparked a fire overnight on September 4 at an oil depot, according to the Krasnodar Krai Operational Headquarters.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "127752e0c8861c5adcabe9eb6d104552a6ae8f96",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2182523",
+      "published_utc": "2026-09-04T06:59:23Z",
+      "title_en": "FACTBOX: Aftermath of Ukrainian drone attack on Russian regions, 490 UAVs neutralized",
+      "lead_en": "A fire broke out at an oil depot following a drone attack on Sochi and Sirius, the regional emergency response center said",
+      "title_raw": "FACTBOX: Aftermath of Ukrainian drone attack on Russian regions, 490 UAVs neutralized",
+      "lead_raw": "A fire broke out at an oil depot following a drone attack on Sochi and Sirius, the regional emergency response center said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "c1b38a913c5a44063a84a26369314de0750cdc7b",
       "source": "TASS (RU)",
       "url": "https://tass.ru/obschestvo/28077183",
       "published_utc": "2026-09-03T16:03:15Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Sobyanin: more than 13 thousand children visited sports and patriotic camps this summer",
       "lead_en": "Educational programs were organized jointly with the Ministry of Defense and the Ministry of Emergency Situations of Russia",
       "title_raw": "Собянин: более 13 тыс. детей посетили спортивно-патриотические лагеря этим летом",
       "lead_raw": "Образовательные программы были организованы совместно с Минобороны и МЧС России",
@@ -31,7 +74,7 @@
       "url": "https://tass.ru/proisshestviya/28077141",
       "published_utc": "2026-09-03T15:44:08Z",
       "title_en": "The Russian Federation Interests Section in Georgia is in touch with the relatives of a Russian woman who died in the mountains",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "The section also reported that it had received a note from the Ministry of Foreign Affairs of the republic with information confirming the discovery of the body of a Russian citizen in the bed of the Mestiachala River during rescue operations",
       "title_raw": "Секция интересов РФ в Грузии на связи с родственниками погибшей в горах россиянки",
       "lead_raw": "Секция также сообщила, что получила ноту из МИД республики с информацией, подтверждающей обнаружение в ходе спасательных работ тела гражданки России в русле реки Местиачала",
       "topic_scores": {
@@ -211,7 +254,7 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/mezhdunarodnaya-panorama/28071353",
       "published_utc": "2026-09-02T13:03:43Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Journalist Travaglio considered the accusations against the Russian Federation absurd over the UAV in Leipzig",
       "lead_en": "The editor-in-chief of the newspaper Il Fatto quotidiano also cited headlines from the Italian media, which indicate Russia's alleged involvement in everything that happens in Europe - from explosions at military factories to election failures",
       "title_raw": "Журналист Травальо счел абсурдными обвинения в адрес РФ из-за БПЛА в Лейпциге",
       "lead_raw": "Главред газеты Il Fatto quotidiano также привел заголовки итальянских СМИ, в которых указывается на якобы причастность России ко всему, что происходит в Европе - от взрывов на военных заводах до предвыборных неудач",
