@@ -1,37 +1,60 @@
 {
-  "updated_at_utc": "2026-09-09T03:19:59Z",
+  "updated_at_utc": "2026-09-09T08:40:44Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 13,
+  "count": 14,
   "articles": [
     {
-      "id": "ca4fd37300e3b3852c9627e3a1b372c9fad5c8e9",
+      "id": "c24f4081c02213215ea315f1a2571c4d562c21a4",
       "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28093415",
-      "published_utc": "2026-09-09T02:58:11Z",
-      "title_en": "In the Moscow region they told how not to fall for scammers when checking meters",
-      "lead_en": "It is necessary to check the company providing the service in the register of the Russian Accreditation Service, said Mikhail Raev, a member of the Moscow Regional Duma Committee on Construction Policy, Energy and Housing and Communal Services.",
-      "title_raw": "В Подмосковье рассказали, как не попасться на мошенников при поверке счетчиков",
-      "lead_raw": "Необходимо проверить компанию, предоставляющую услугу, в реестре Росаккредитации, сообщил член комитета Мособлдумы по строительной политике, энергетике и жилищно-коммунальному хозяйству Михаил Раев",
+      "url": "https://tass.ru/politika/28094337",
+      "published_utc": "2026-09-09T08:18:25Z",
+      "title_en": "Zakharova recommended reading the book by a Norwegian journalist, “The Secret War for Energy”",
+      "lead_en": "As the official representative of the Russian Foreign Ministry noted, this is necessary to ensure that Norway’s anti-Russian actions are planned.",
+      "title_raw": "Захарова рекомендовала к прочтению книгу норвежского журналиста \"Тайная война за энергию\"",
+      "lead_raw": "Как отметила официальный представитель МИД РФ, это необходимо, чтобы убедиться в спланированном характере антироссийских действий Норвегии",
       "topic_scores": {
-        "diplomacy": 0,
+        "diplomacy": 1,
         "military": 0,
         "energy": 1,
         "economy": 0,
         "local_events": 0
       },
       "topics": [
+        "diplomacy",
         "energy"
       ],
-      "primary_topic": "energy"
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "6de0de575d2363c42669de99f1b591623094f19d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/28094087",
+      "published_utc": "2026-09-09T07:38:10Z",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_raw": "ФСБ показала видео с завербованными Украиной через сайт знакомств россиянами",
+      "lead_raw": "Мужчины передавали спецслужбе противника координаты военных объектов и нефтебаз РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
     },
     {
       "id": "dcfad38c4c3d8843c9e743a222449fe1a3fe6c5a",
       "source": "TASS (RU)",
       "url": "https://tass.ru/ekonomika/28093291",
       "published_utc": "2026-09-09T01:20:50Z",
-      "title_en": "Russian manufacturer of power equipment plans to enter Indonesian markets",
-      "lead_en": "In the countries of Southeast Asia there is interest in high-tech solutions from Russia, especially in the energy sector, noted the First Deputy Minister of Economic Development of the Khabarovsk Territory",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_raw": "Российский производитель энергооборудования планирует выйти на рынки Индонезии",
       "lead_raw": "В странах Юго-Восточной Азии есть интерес к высокотехнологичным решениям из России, особенно в энергетике, отметила первый заместитель министра экономического развития Хабаровского края",
       "topic_scores": {
@@ -202,7 +225,7 @@
       "url": "https://tass.ru/mezhdunarodnaya-panorama/28088869",
       "published_utc": "2026-09-07T20:41:39Z",
       "title_en": "Grossi thanked the Russian Federation and Ukraine for a local ceasefire for repairs at the Zaporizhia NPP",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "The IAEA Director General called the restoration of external power supply to the station from the Ferrosplavnaya-1 line “the most important step helping to prevent a nuclear accident”",
       "title_raw": "Гросси поблагодарил РФ и Украину за локальное прекращение огня для ремонта на ЗАЭС",
       "lead_raw": "Гендиректор МАГАТЭ назвал восстановление внешнего энергоснабжения станции от линии \"Ферросплавная-1\" \"важнейшим шагом, способствующим предотвращению ядерной аварии\"",
       "topic_scores": {

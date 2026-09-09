@@ -1,29 +1,86 @@
 {
-  "updated_at_utc": "2026-09-09T03:19:59Z",
+  "updated_at_utc": "2026-09-09T08:40:44Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 16,
+  "count": 18,
   "articles": [
     {
-      "id": "805bfad03d2785aa4e4f05c2a0a41b7539b18418",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28093269",
-      "published_utc": "2026-09-09T01:02:16Z",
-      "title_en": "Marochko: The Armed Forces of Ukraine began to run out of fuel and lubricants due to strikes by the Russian Armed Forces",
-      "lead_en": "The enemy is also experiencing problems with the rotation and evacuation of soldiers, a military expert said",
-      "title_raw": "Марочко: у ВСУ началась нехватка горюче-смазочных материалов из-за ударов ВС РФ",
-      "lead_raw": "Противник также испытывает проблемы с ротацией и эвакуацией солдат, сообщил военный эксперт",
+      "id": "29bb04815ce233e8e9773de759f1a1995c3bb2c4",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/09/09/russian-drones-strike-kyiv-damaging-24-story-apartment-building-and-injuring-five",
+      "published_utc": "2026-09-09T07:50:56Z",
+      "title_en": "Russian drones strike Kyiv, damaging 24-story apartment building and injuring five",
+      "lead_en": "A Russian drone struck a 24-story residential building in Kyiv’s Darnytskyi District overnight on September 9, hitting the structure at the level of the 11th and 12th floors, Kyiv Mayor Vitali Klitschko said. The strike sparked a fire on the 12th floor and tore through interior walls, according to Klitschko.",
+      "title_raw": "Russian drones strike Kyiv, damaging 24-story apartment building and injuring five",
+      "lead_raw": "A Russian drone struck a 24-story residential building in Kyiv’s Darnytskyi District overnight on September 9, hitting the structure at the level of the 11th and 12th floors, Kyiv Mayor Vitali Klitschko said. The strike sparked a fire on the 12th floor and tore through interior walls, according to Klitschko.",
       "topic_scores": {
         "diplomacy": 0,
-        "military": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "8cabe195b08c42c7cdbea2bfc5e3349abbc464a6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28094193",
+      "published_utc": "2026-09-09T07:46:39Z",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_raw": "В списках пропавших после наводнения в Непале находятся 11 россиян",
+      "lead_raw": "Посольство России взаимодействует с властями страны, отметила официальный представитель МИД РФ Мария Захарова",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
         "energy": 0,
         "economy": 0,
         "local_events": 1
       },
       "topics": [
-        "military"
+        "diplomacy"
       ],
-      "primary_topic": "military"
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "53f335ee956f03ec1568d0d4954686b08911c589",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/09/09/4-killed-in-ukrainian-attack-on-novorossiysk-a93664",
+      "published_utc": "2026-09-09T07:34:48Z",
+      "title_en": "4 Killed in Ukrainian Attack on Novorossiysk",
+      "lead_en": "Russian officials said more than two dozen people were wounded during the overnight attack on the port city.",
+      "title_raw": "4 Killed in Ukrainian Attack on Novorossiysk",
+      "lead_raw": "Russian officials said more than two dozen people were wounded during the overnight attack on the port city.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "49eb66635d20ca4b2ebdeafde79a182d77f226a5",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/09/09/ukrainian-drone-attack-on-russian-port-city-kills-four-fire-reported-at-port",
+      "published_utc": "2026-09-09T07:28:59Z",
+      "title_en": "Ukrainian drone attack on Russian port city kills four. Fire reported at port.",
+      "lead_en": "Ukraine struck Novorossiysk with drones in an attack that began on the evening of September 8 and continued through the night, Novorossiysk Mayor Andrei Kravchenko confirmed. Kravchenko reported “drone debris” falling on industrial facilities and near a residential building.",
+      "title_raw": "Ukrainian drone attack on Russian port city kills four. Fire reported at port.",
+      "lead_raw": "Ukraine struck Novorossiysk with drones in an attack that began on the evening of September 8 and continued through the night, Novorossiysk Mayor Andrei Kravchenko confirmed. Kravchenko reported “drone debris” falling on industrial facilities and near a residential building.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
     },
     {
       "id": "6e0afd6af77afd6fa417ce74df3ec97c56347adb",
@@ -31,7 +88,7 @@
       "url": "https://tass.ru/proisshestviya/28092891",
       "published_utc": "2026-09-08T19:29:23Z",
       "title_en": "The area of ​​the fire near Novorossiysk grew to 1.8 hectares",
-      "lead_en": "The fire entered the territory of the Utrish nature reserve",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_raw": "Площадь пожара под Новороссийском выросла до 1,8 га",
       "lead_raw": "Огонь зашел на территорию заповедника \"Утриш\"",
       "topic_scores": {
@@ -248,7 +305,7 @@
       "url": "https://tass.ru/mezhdunarodnaya-panorama/28088869",
       "published_utc": "2026-09-07T20:41:39Z",
       "title_en": "Grossi thanked the Russian Federation and Ukraine for a local ceasefire for repairs at the Zaporizhia NPP",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "The IAEA Director General called the restoration of external power supply to the station from the Ferrosplavnaya-1 line “the most important step helping to prevent a nuclear accident”",
       "title_raw": "Гросси поблагодарил РФ и Украину за локальное прекращение огня для ремонта на ЗАЭС",
       "lead_raw": "Гендиректор МАГАТЭ назвал восстановление внешнего энергоснабжения станции от линии \"Ферросплавная-1\" \"важнейшим шагом, способствующим предотвращению ядерной аварии\"",
       "topic_scores": {
@@ -302,27 +359,6 @@
         "local_events"
       ],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "665732fcd8bfb61b2f01102481044b00a3ab44b1",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/09/07/6-killed-in-ukrainian-drone-strikes-across-russia-and-crimea-a93650",
-      "published_utc": "2026-09-07T08:36:23Z",
-      "title_en": "6 Killed in Ukrainian Drone Strikes Across Russia and Crimea",
-      "lead_en": "Russia’s Defense Ministry said it intercepted 306 Ukrainian drones across Russia and annexed Crimea overnight.",
-      "title_raw": "6 Killed in Ukrainian Drone Strikes Across Russia and Crimea",
-      "lead_raw": "Russia’s Defense Ministry said it intercepted 306 Ukrainian drones across Russia and annexed Crimea overnight.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
