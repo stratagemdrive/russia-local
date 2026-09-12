@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-09-12T01:02:09Z",
+  "updated_at_utc": "2026-09-12T06:54:27Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 14,
   "articles": [
+    {
+      "id": "52694755d9e39d6fc729ebceb2579234f82b3bcd",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28105287",
+      "published_utc": "2026-09-12T05:23:30Z",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_raw": "В АТОР заявили, что лесные пожары в Турции не повлияли на спрос россиян на туры",
+      "lead_raw": "Страна сохраняет лидерство среди осенних направлений, на нее приходится около половины продаж зарубежных туров с заездами в сентябре и октябре, сообщила исполнительный директор Ассоциации туроператоров России Майя Ломидзе",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "505e92a08e6858c66613e5e2d1735ec88cf3bbe9",
       "source": "TASS (RU)",
@@ -194,8 +215,8 @@
       "source": "TASS (RU)",
       "url": "https://tass.ru/proisshestviya/28100113",
       "published_utc": "2026-09-10T13:54:10Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Forest fires in Antalya have been localized, including with the help of Russian Be-200s",
+      "lead_en": "In particular, fires in Kumluca and Serik counties are completely under control",
       "title_raw": "Лесные пожары в Анталье локализованы, в том числе с помощью российских Бе-200",
       "lead_raw": "В частности, возгорания в уездах Кумлуджа и Серик полностью взяты под контроль",
       "topic_scores": {
@@ -270,25 +291,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "8f5106c9d870f859c729e73865d68a57673e3f2f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/28097693",
-      "published_utc": "2026-09-10T04:07:34Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "В Новороссийске после атаки ВСУ потушили лесной пожар в районе горы Колдун",
-      "lead_raw": "Площадь возгорания составила 1,7 га",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
