@@ -1,9 +1,51 @@
 {
-  "updated_at_utc": "2026-09-12T15:04:24Z",
+  "updated_at_utc": "2026-09-12T18:07:55Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 11,
+  "count": 12,
   "articles": [
+    {
+      "id": "769c482bd43e73313cd733004dff8ab524c67ea7",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2186785",
+      "published_utc": "2026-09-12T16:41:14Z",
+      "title_en": "Applications flooding in for 2027 Russia-US-Germany business forum — envoy",
+      "lead_en": "It was also backed by the US Chamber of Commerce, so we will definitely hold it,\" Kirill Dmitriev said",
+      "title_raw": "Applications flooding in for 2027 Russia-US-Germany business forum — envoy",
+      "lead_raw": "It was also backed by the US Chamber of Commerce, so we will definitely hold it,\" Kirill Dmitriev said",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "2287264159b42c66e41bbe0278e5cb35254d8660",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28106693",
+      "published_utc": "2026-09-12T15:36:31Z",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_raw": "ТАСС: на Украине обнаружили 10 незаконных схронов с оружием и боеприпасами",
+      "lead_raw": "В тайниках хранились автоматы, гранатометы, противопехотные мины, взрывчатые вещества, артиллерийские боеприпасы, уточнили в российских силовых структурах",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "4ae7b5cc92587a868e9f3d64302ceab78c130380",
       "source": "TASS (RU)",
@@ -204,28 +246,6 @@
       "topics": [
         "diplomacy",
         "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "521d534ee0451281775f0d92c7e4849cca51cbf1",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2185709",
-      "published_utc": "2026-09-10T16:40:41Z",
-      "title_en": "Russia urges West to stop 'adding fuel to the fire' over Iran",
-      "lead_en": "Russian Permanent Representative to the UN Vasily Nebenzya stressed that agreements are possible only on the basis of a balance of interests and with due regard for Iran’s legitimate rights",
-      "title_raw": "Russia urges West to stop 'adding fuel to the fire' over Iran",
-      "lead_raw": "Russian Permanent Representative to the UN Vasily Nebenzya stressed that agreements are possible only on the basis of a balance of interests and with due regard for Iran’s legitimate rights",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
       ],
       "primary_topic": "diplomacy"
     }
