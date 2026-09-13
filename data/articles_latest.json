@@ -1,8 +1,554 @@
 {
-  "updated_at_utc": "2026-09-13T09:02:02Z",
+  "updated_at_utc": "2026-09-13T14:04:40Z",
   "keep_hours": 48,
-  "count": 354,
+  "count": 319,
   "articles": [
+    {
+      "id": "63f540f3a7134f2d2f320806b66cc02f6cb6b956",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28108321",
+      "published_utc": "2026-09-13T13:55:17Z",
+      "title_en": "Эксперт Оселедец: образование в эпоху ИИ должно быть ориентировано на понимание",
+      "lead_en": "Российский ученый-математик считает, что нужно уделять больше внимания процессу получения знаний",
+      "title_raw": "Эксперт Оселедец: образование в эпоху ИИ должно быть ориентировано на понимание",
+      "lead_raw": "Российский ученый-математик считает, что нужно уделять больше внимания процессу получения знаний",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "7a919ae65ca9a9e8e6e1a24f349dc9aeb72b48d5",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2187029",
+      "published_utc": "2026-09-13T13:39:55Z",
+      "title_en": "US to be among first to restore economic ties with Russia — RDIF CEO",
+      "lead_en": "Many other countries will rush to follow suit, Kirill Dmitriev said",
+      "title_raw": "US to be among first to restore economic ties with Russia — RDIF CEO",
+      "lead_raw": "Many other countries will rush to follow suit, Kirill Dmitriev said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "e0ae8aac55168f6cfb4455d66c1f0a4d7ca97920",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28108301",
+      "published_utc": "2026-09-13T13:35:11Z",
+      "title_en": "Эксперт BSW Дагделен выступила за сближение Германии с БРИКС и выход из НАТО",
+      "lead_en": "По ее словам, более 50% жителей ФРГ высказываются за улучшение отношений с Россией",
+      "title_raw": "Эксперт BSW Дагделен выступила за сближение Германии с БРИКС и выход из НАТО",
+      "lead_raw": "По ее словам, более 50% жителей ФРГ высказываются за улучшение отношений с Россией",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "0ca8d8be56755685c7af83b5fac211c518e0f0d6",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/russias-foreign-policy/2187027",
+      "published_utc": "2026-09-13T13:23:36Z",
+      "title_en": "Russia closely following situation in Yemen — Kremlin spokesman",
+      "lead_en": "According to Dmitry Peskov, the situation carries the risk of significant escalation",
+      "title_raw": "Russia closely following situation in Yemen — Kremlin spokesman",
+      "lead_raw": "According to Dmitry Peskov, the situation carries the risk of significant escalation",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "8ac7a99b05243e15a43a5ab33ecd7860e5fef673",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28108265",
+      "published_utc": "2026-09-13T13:10:35Z",
+      "title_en": "Президент ЮАР уверен, что Россия стремится урегулировать конфликт на Украине",
+      "lead_en": "Сирил Рамапоса отметил, что обсуждал этот вопрос с российским лидером Владимиром Путиным во время саммита БРИКС",
+      "title_raw": "Президент ЮАР уверен, что Россия стремится урегулировать конфликт на Украине",
+      "lead_raw": "Сирил Рамапоса отметил, что обсуждал этот вопрос с российским лидером Владимиром Путиным во время саммита БРИКС",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "8370bfa080abb4d34be24495ce3b266b660cc64e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2187021",
+      "published_utc": "2026-09-13T12:42:01Z",
+      "title_en": "Zelensky’s statement on retaliation for energy strikes escalatory — Kremlin",
+      "lead_en": "Russian Presidential Spokesman Dmitry Peskov noted that the 40-day plan to deliver a crushing blow to Russia and its economy had been a serious step toward escalation",
+      "title_raw": "Zelensky’s statement on retaliation for energy strikes escalatory — Kremlin",
+      "lead_raw": "Russian Presidential Spokesman Dmitry Peskov noted that the 40-day plan to deliver a crushing blow to Russia and its economy had been a serious step toward escalation",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "a792d4a2a76a59806bee1a390b71e8ef0aed606a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28108207",
+      "published_utc": "2026-09-13T12:38:43Z",
+      "title_en": "На МФМ в Екатеринбурге покажут более 130 видов блюд народов России и мира",
+      "lead_en": "Фестивальное меню представляют 100 поваров",
+      "title_raw": "На МФМ в Екатеринбурге покажут более 130 видов блюд народов России и мира",
+      "lead_raw": "Фестивальное меню представляют 100 поваров",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "0b93a5399ed4d984ad66583bea7935af68d23aee",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28108203",
+      "published_utc": "2026-09-13T12:34:35Z",
+      "title_en": "В Екатеринбурге стартовала церемония открытия Международного фестиваля молодежи",
+      "lead_en": "Она началась с гимна России",
+      "title_raw": "В Екатеринбурге стартовала церемония открытия Международного фестиваля молодежи",
+      "lead_raw": "Она началась с гимна России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "e1077743c7517d6be1bf250f8238504a17ed249a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/28108199",
+      "published_utc": "2026-09-13T12:22:39Z",
+      "title_en": "Американский боец Пенья рассказал, что хочет поселиться в российской деревне",
+      "lead_en": "Ранее спортсмен сообщил о желании получить российского гражданство",
+      "title_raw": "Американский боец Пенья рассказал, что хочет поселиться в российской деревне",
+      "lead_raw": "Ранее спортсмен сообщил о желании получить российского гражданство",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "759fc0b670e6e89be2dab7696fbb3d5d05a21951",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kultura/28108189",
+      "published_utc": "2026-09-13T12:21:52Z",
+      "title_en": "Мастранджело: в России классическая музыка имеет самое большое значение",
+      "lead_en": "Художественный руководитель Музыкального театра имени Шаляпина отметил, что музыканты и дирижеры РФ находятся на высшем мировом профессиональном уровне",
+      "title_raw": "Мастранджело: в России классическая музыка имеет самое большое значение",
+      "lead_raw": "Художественный руководитель Музыкального театра имени Шаляпина отметил, что музыканты и дирижеры РФ находятся на высшем мировом профессиональном уровне",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "25085cc5aba9f9d44126aacdb63c230d2c3d2ad4",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/28108179",
+      "published_utc": "2026-09-13T12:12:10Z",
+      "title_en": "В Петербурге трех сотрудников Московского вокзала арестовали за кражу",
+      "lead_en": "Среди похищенного - 702 275 рублей, а также доллары, евро, юани, лиры, шекели, тенге, динары, йены и белорусские рубли",
+      "title_raw": "В Петербурге трех сотрудников Московского вокзала арестовали за кражу",
+      "lead_raw": "Среди похищенного - 702 275 рублей, а также доллары, евро, юани, лиры, шекели, тенге, динары, йены и белорусские рубли",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "b61c004dec1e4a905e650dcfe4fc498ba5798fad",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/28108169",
+      "published_utc": "2026-09-13T12:02:07Z",
+      "title_en": "ТАСС: за отказ платить в батальоне \"Шквал\" военных ВСУ пытали и калечили",
+      "lead_en": "Одному военнослужащему ампутировали руки и ноги, рассказали в российских силовых структурах",
+      "title_raw": "ТАСС: за отказ платить в батальоне \"Шквал\" военных ВСУ пытали и калечили",
+      "lead_raw": "Одному военнослужащему ампутировали руки и ноги, рассказали в российских силовых структурах",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "5e6a28f7b8a9a1e3b925f827ea66adf4980da4c3",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/28108137",
+      "published_utc": "2026-09-13T11:57:58Z",
+      "title_en": "Загитова рассказала, в чем заключается сила российской школы фигурного катания",
+      "lead_en": "По ее словам, дисциплина определяет результат",
+      "title_raw": "Загитова рассказала, в чем заключается сила российской школы фигурного катания",
+      "lead_raw": "По ее словам, дисциплина определяет результат",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "1cdffe67c45188af1c051f056cc5da76fb915c96",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/28108155",
+      "published_utc": "2026-09-13T11:56:45Z",
+      "title_en": "Загитова: фигуристы РФ преодолевают сложности после возвращения к стартам",
+      "lead_en": "С сезона-2026/27 Международный союз конькобежцев допускает российских фигуристов до международных турниров в нейтральном статусе",
+      "title_raw": "Загитова: фигуристы РФ преодолевают сложности после возвращения к стартам",
+      "lead_raw": "С сезона-2026/27 Международный союз конькобежцев допускает российских фигуристов до международных турниров в нейтральном статусе",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "8ae24036e47fc72b774b4a23873b0ca136a0d2ea",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kultura/28108139",
+      "published_utc": "2026-09-13T11:49:11Z",
+      "title_en": "Умер народный художник России Владимир Молодкин",
+      "lead_en": "Ему был 81 год",
+      "title_raw": "Умер народный художник России Владимир Молодкин",
+      "lead_raw": "Ему был 81 год",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "a7b5705fde9a21652110fc9727587cda09196f7f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28108115",
+      "published_utc": "2026-09-13T11:33:00Z",
+      "title_en": "В Славянском университете в Душанбе обсудили продвижение русского языка",
+      "lead_en": "В столице Таджикистана прошла встреча заместителя министра науки и высшего образования России Константина Могилевского с ректором РТСУ Алексеем Золотухиным",
+      "title_raw": "В Славянском университете в Душанбе обсудили продвижение русского языка",
+      "lead_raw": "В столице Таджикистана прошла встреча заместителя министра науки и высшего образования России Константина Могилевского с ректором РТСУ Алексеем Золотухиным",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "29c02e1a2ba1ada571e3e2d6eb366ab8b5b5fc75",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28108039",
+      "published_utc": "2026-09-13T11:20:46Z",
+      "title_en": "Эксперт Федоров: ИИ предстоит обучаться на квантовых данных для понимания мира",
+      "lead_en": "Синергия искусственного интеллекта и квантовых технологий неизбежна, вопросом времени остается то, когда она полноценно реализуется, отметил гендиректор \"Российского квантового центра\"",
+      "title_raw": "Эксперт Федоров: ИИ предстоит обучаться на квантовых данных для понимания мира",
+      "lead_raw": "Синергия искусственного интеллекта и квантовых технологий неизбежна, вопросом времени остается то, когда она полноценно реализуется, отметил гендиректор \"Российского квантового центра\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "badf65f15e62aae5a881aa88b64ed02b37753c65",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2187015",
+      "published_utc": "2026-09-13T11:20:04Z",
+      "title_en": "West heard Putin’s warning over seizure of merchant vessels — presidential aide",
+      "lead_en": "The Russian presiden described Western attempts to restrict the movement of merchant vessels operated by Russian businesses as \"piracy and banditry\"",
+      "title_raw": "West heard Putin’s warning over seizure of merchant vessels — presidential aide",
+      "lead_raw": "The Russian presiden described Western attempts to restrict the movement of merchant vessels operated by Russian businesses as \"piracy and banditry\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "6bde8afa1a34f1f5f1e9c16aca25171ee2159986",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kultura/28108093",
+      "published_utc": "2026-09-13T11:15:47Z",
+      "title_en": "На МФМ представили выставку о возрождении нацистских идей в мире",
+      "lead_en": "Выставка полностью переведена на русский, английский, немецкий, французский, испанский, арабский и китайский языки",
+      "title_raw": "На МФМ представили выставку о возрождении нацистских идей в мире",
+      "lead_raw": "Выставка полностью переведена на русский, английский, немецкий, французский, испанский, арабский и китайский языки",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "206903ea29c471b6495878332870672c3a4d1dc4",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28108083",
+      "published_utc": "2026-09-13T11:02:43Z",
+      "title_en": "Кириенко: узнавая Россию, иностранцы начинают ее уважать и любить",
+      "lead_en": "Первый замруководителя администрации президента РФ добавил, что по началу большинство иностранных гостей испытывают удивление",
+      "title_raw": "Кириенко: узнавая Россию, иностранцы начинают ее уважать и любить",
+      "lead_raw": "Первый замруководителя администрации президента РФ добавил, что по началу большинство иностранных гостей испытывают удивление",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "4cadcabb88b3b2b47c42743198f89fc09cb8bfee",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/vizit-putina-v-indiyu-2026/28108037",
+      "published_utc": "2026-09-13T10:59:54Z",
+      "title_en": "Зарубин показал, как бортпроводники Air France фотографировали Путина в Индии",
+      "lead_en": "Члены экипажа стали расходиться, как только заметили, что их снимает российский журналист",
+      "title_raw": "Зарубин показал, как бортпроводники Air France фотографировали Путина в Индии",
+      "lead_raw": "Члены экипажа стали расходиться, как только заметили, что их снимает российский журналист",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "e8aa18c3d3e021a827a44e30354e2c1c86b4295d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28108077",
+      "published_utc": "2026-09-13T10:58:52Z",
+      "title_en": "Памфилова объяснила популярность очного голосования на выборах",
+      "lead_en": "По словам председателя ЦИК России, с каждым годом оно становится все современнее, что привлекает избирателей",
+      "title_raw": "Памфилова объяснила популярность очного голосования на выборах",
+      "lead_raw": "По словам председателя ЦИК России, с каждым годом оно становится все современнее, что привлекает избирателей",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "d4d48980ae1e8e2e55d9efff30177c56773b9803",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28108051",
+      "published_utc": "2026-09-13T10:57:32Z",
+      "title_en": "Пиотровский назвал главные столпы единства России",
+      "lead_en": "По словам гендиректора Эрмитажа, ими являются музеи и церкви",
+      "title_raw": "Пиотровский назвал главные столпы единства России",
+      "lead_raw": "По словам гендиректора Эрмитажа, ими являются музеи и церкви",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "a1fb2a7626cac9d86aac9a2e882b1b2b448e0a61",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2187013",
+      "published_utc": "2026-09-13T10:54:28Z",
+      "title_en": "Kiev facing mounting difficulties with each passing day — Kremlin",
+      "lead_en": "The Russian military certainly knows what to do, Dmitry Peskov said",
+      "title_raw": "Kiev facing mounting difficulties with each passing day — Kremlin",
+      "lead_raw": "The Russian military certainly knows what to do, Dmitry Peskov said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "4d3bacf73991ed8f0b8cd465fa236c6bf8bc4dff",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2187011",
+      "published_utc": "2026-09-13T10:37:12Z",
+      "title_en": "Key payment provisions sought by Russia included in BRICS declaration — Kremlin",
+      "lead_en": "These concern joint settlement centers, a joint investment platform and a common platform for settlements in national currencies, Dmitry Peskov said",
+      "title_raw": "Key payment provisions sought by Russia included in BRICS declaration — Kremlin",
+      "lead_raw": "These concern joint settlement centers, a joint investment platform and a common platform for settlements in national currencies, Dmitry Peskov said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "3ccf5035ee4c75f5dcf9d95b00d63bb43f4bf327",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2187007",
+      "published_utc": "2026-09-13T10:21:55Z",
+      "title_en": "Putin briefly updates Modi on Ukraine situation — Kremlin",
+      "lead_en": "The Russian president briefly outlined the situation on the ground, Dmitry Peskov said",
+      "title_raw": "Putin briefly updates Modi on Ukraine situation — Kremlin",
+      "lead_raw": "The Russian president briefly outlined the situation on the ground, Dmitry Peskov said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c8ef4b8338c8831cb1449731edecc081fdcaec31",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2187003",
+      "published_utc": "2026-09-13T09:46:08Z",
+      "title_en": "Russia happy BRICS declaration wording acceptable to Iran, UAE — Kremlin",
+      "lead_en": "Many pessimists believed this would not be possible, but everything worked out as planned, Dmitry Peskov said",
+      "title_raw": "Russia happy BRICS declaration wording acceptable to Iran, UAE — Kremlin",
+      "lead_raw": "Many pessimists believed this would not be possible, but everything worked out as planned, Dmitry Peskov said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "a923a2c6af58d8c193df008371d65da4c4cadd77",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2186999",
+      "published_utc": "2026-09-13T09:27:45Z",
+      "title_en": "Putin to choose head of Russian delegation to trilateral talks — Kremlin aide",
+      "lead_en": "The Kremlin aide also noted that no package of proposals had yet been agreed, with each side pursuing its own priorities",
+      "title_raw": "Putin to choose head of Russian delegation to trilateral talks — Kremlin aide",
+      "lead_raw": "The Kremlin aide also noted that no package of proposals had yet been agreed, with each side pursuing its own priorities",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "562afc672a5beb13b2cd13e56afeb41b8f80b1df",
       "source": "TASS (RU)",
@@ -5805,1271 +6351,6 @@
       "lead_en": "The Russian president stressed that it is possible to set ambitious goals even amidst severe external restrictions",
       "title_raw": "Russian innovations rely on domestic solutions, BRICS developments — Putin",
       "lead_raw": "The Russian president stressed that it is possible to set ambitious goals even amidst severe external restrictions",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "6d72c23fd73f9391f7fdbb34ed4b1153059e9e85",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2186249",
-      "published_utc": "2026-09-11T13:56:19Z",
-      "title_en": "Russian Baltic Fleet’s training ship Perekop arrives at Cambodia’s Sihanoukville port",
-      "lead_en": "During an official welcoming ceremony at the pier, the Perekop was greeted by representatives of the Royal Cambodian Navy and Russian Ambassador to Cambodia Anatoly Borovik",
-      "title_raw": "Russian Baltic Fleet’s training ship Perekop arrives at Cambodia’s Sihanoukville port",
-      "lead_raw": "During an official welcoming ceremony at the pier, the Perekop was greeted by representatives of the Royal Cambodian Navy and Russian Ambassador to Cambodia Anatoly Borovik",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "3351d3f02ca972dbe99b2a268499c2ec4bea79cf",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2186247",
-      "published_utc": "2026-09-11T13:50:30Z",
-      "title_en": "Russia's foreign trade surplus up to $13.5 bln in July — Central Bank",
-      "lead_en": "Compared to June 2026, the country’s foreign trade surplus grew by $1.276 bln",
-      "title_raw": "Russia's foreign trade surplus up to $13.5 bln in July — Central Bank",
-      "lead_raw": "Compared to June 2026, the country’s foreign trade surplus grew by $1.276 bln",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "9803a78aa0a00f9e7aa1d40fff2cb343d64f0a07",
-      "source": "RT",
-      "url": "https://www.rt.com/news/645477-brics-2026-india-russia-west/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "published_utc": "2026-09-11T13:46:30Z",
-      "title_en": "BRICS 2026: India charts its own course between Russia and the West",
-      "lead_en": "The BRICS Summit puts India’s strategic autonomy to the test as New Delhi balances close ties with Russia against its Western partnerships Read Full Article at RT.com",
-      "title_raw": "BRICS 2026: India charts its own course between Russia and the West",
-      "lead_raw": "The BRICS Summit puts India’s strategic autonomy to the test as New Delhi balances close ties with Russia against its Western partnerships Read Full Article at RT.com",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "393907e75c3eef951cc701514614fdb6fdd8e182",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/09/11/yabloko-s-candidate-list-removed-from-ballot-in-another-russian-region-leaving-party-in-just-one-regional-race",
-      "published_utc": "2026-09-11T13:34:10Z",
-      "title_en": "Yabloko’s candidate list removed from ballot in another Russian region, leaving party in just one regional race",
-      "lead_en": "A court in Russia’s Tomsk region has revoked the registration of Yabloko’s candidate list for the region’s legislative assembly election, ruling on a lawsuit filed by the LDPR.",
-      "title_raw": "Yabloko’s candidate list removed from ballot in another Russian region, leaving party in just one regional race",
-      "lead_raw": "A court in Russia’s Tomsk region has revoked the registration of Yabloko’s candidate list for the region’s legislative assembly election, ruling on a lawsuit filed by the LDPR.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "3ba784169b3eb7f3eb6b864811a6e757d48d0860",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2186223",
-      "published_utc": "2026-09-11T13:17:53Z",
-      "title_en": "Belarusian president criticizes Baltics over grain tariffs",
-      "lead_en": "Latvia’s plans to impose 300% tariffs on Belarusian and Russian grain came up during Lukashenko’s meeting with journalists on Friday",
-      "title_raw": "Belarusian president criticizes Baltics over grain tariffs",
-      "lead_raw": "Latvia’s plans to impose 300% tariffs on Belarusian and Russian grain came up during Lukashenko’s meeting with journalists on Friday",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "cebac0bd97e4a2d7f7c38483c00c75ecee9935ab",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/09/11/go-home-man-you-re-embarrassing-u-s-officials-are-reportedly-eager-for-the-cia-director-to-take-over-russia-ukraine-talks-from-witkoff",
-      "published_utc": "2026-09-11T13:14:46Z",
-      "title_en": "‘Go home, man. You’re embarrassing.’ U.S. officials are reportedly eager for the CIA director to take over Russia–Ukraine talks from Witkoff.",
-      "lead_en": "CIA Director John Ratcliffe’s potential emergence as Washington’s chief negotiator on the Russia–Ukraine war has energized many U.S. officials, even though the White House has officially denied any such plan, Politico reported.",
-      "title_raw": "‘Go home, man. You’re embarrassing.’ U.S. officials are reportedly eager for the CIA director to take over Russia–Ukraine talks from Witkoff.",
-      "lead_raw": "CIA Director John Ratcliffe’s potential emergence as Washington’s chief negotiator on the Russia–Ukraine war has energized many U.S. officials, even though the White House has officially denied any such plan, Politico reported.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "443efc7499f73f24255e2ac90aaf8dc59f1be210",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2186217",
-      "published_utc": "2026-09-11T13:12:16Z",
-      "title_en": "Russia may develop Flightradar-like service for tracking Ukrainian drones — expert",
-      "lead_en": "Alexey Chadayev, CEO of the Ushkuynik Research and Production Center, believes that the process of creating a unified sensor network operator should be carried out with Rostelecom and leading Russian cellular operators",
-      "title_raw": "Russia may develop Flightradar-like service for tracking Ukrainian drones — expert",
-      "lead_raw": "Alexey Chadayev, CEO of the Ushkuynik Research and Production Center, believes that the process of creating a unified sensor network operator should be carried out with Rostelecom and leading Russian cellular operators",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "36d50f0a99813058f55b34234182de910c6cd4b8",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28103661",
-      "published_utc": "2026-09-11T13:11:37Z",
-      "title_en": "Путин заявил о рекордном понижении уровня безработицы в России",
-      "lead_en": "Показатель составил 2,3%, отметил президент",
-      "title_raw": "Путин заявил о рекордном понижении уровня безработицы в России",
-      "lead_raw": "Показатель составил 2,3%, отметил президент",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "6ab726a64b3c0a13fb47614340d55b5bc36495ae",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28103363",
-      "published_utc": "2026-09-11T13:09:47Z",
-      "title_en": "Во ФСИН раскрыли число иностранцев в колониях и СИЗО",
-      "lead_en": "В местах лишения свободы в России содержатся порядка 25 тыс. иностранных граждан, из них 18,5 тыс.",
-      "title_raw": "Во ФСИН раскрыли число иностранцев в колониях и СИЗО",
-      "lead_raw": "В местах лишения свободы в России содержатся порядка 25 тыс. иностранных граждан, из них 18,5 тыс.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "8f3dd4dbc23b3670fc3db088837c337bde9ae8ce",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28103583",
-      "published_utc": "2026-09-11T13:02:11Z",
-      "title_en": "Профицит внешней торговли России в июле вырос до $13,594 млрд",
-      "lead_en": "",
-      "title_raw": "Профицит внешней торговли России в июле вырос до $13,594 млрд",
-      "lead_raw": "",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "51113d9d6bdeccb8faf5b00d0fa619cb085e07cf",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2186199",
-      "published_utc": "2026-09-11T12:57:28Z",
-      "title_en": "Official launch of 5G communication in Russia: what is known",
-      "lead_en": "All users of Android-based devices will gain access to fifth-generation networks in the near future, while access to 5G for iPhone owners will depend on a decision by Apple, the Ministry of Digital Development, Communications and Mass Media",
-      "title_raw": "Official launch of 5G communication in Russia: what is known",
-      "lead_raw": "All users of Android-based devices will gain access to fifth-generation networks in the near future, while access to 5G for iPhone owners will depend on a decision by Apple, the Ministry of Digital Development, Communications and Mass Media",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "079ef25d61f338049dd4550a0f1719bfaf8e6e0e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28103523",
-      "published_utc": "2026-09-11T12:54:10Z",
-      "title_en": "Набиуллина: ключевая ставка отражает состояние экономики",
-      "lead_en": "Глава Банка России подчеркнула, что ставка не может существовать сама по себе",
-      "title_raw": "Набиуллина: ключевая ставка отражает состояние экономики",
-      "lead_raw": "Глава Банка России подчеркнула, что ставка не может существовать сама по себе",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "96098aca7194299a9c6a4ceb185ec17daa9d48b6",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/09/11/putin-meets-modi-as-india-hosts-brics-summit-a93686",
-      "published_utc": "2026-09-11T12:52:00Z",
-      "title_en": "Putin Meets Modi as India Hosts BRICS Summit",
-      "lead_en": "A delegation of more than 300 Russian executives is accompanying Putin to New Delhi to negotiate supply chains and food security contracts.",
-      "title_raw": "Putin Meets Modi as India Hosts BRICS Summit",
-      "lead_raw": "A delegation of more than 300 Russian executives is accompanying Putin to New Delhi to negotiate supply chains and food security contracts.",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "f9edd4926673bed6cc0235f1ad10f664019da17f",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2186195",
-      "published_utc": "2026-09-11T12:50:58Z",
-      "title_en": "Dynamic domestic markets, rapid urbanization drive BRICS success — Putin",
-      "lead_en": "The Russian president stressed that national companies are increasingly making their mark as global players",
-      "title_raw": "Dynamic domestic markets, rapid urbanization drive BRICS success — Putin",
-      "lead_raw": "The Russian president stressed that national companies are increasingly making their mark as global players",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "efea13426d6c89cbf7cf3e5aa4ed894c75b407b2",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28103489",
-      "published_utc": "2026-09-11T12:49:14Z",
-      "title_en": "ЦБ решил докапитализировать РНПК на 165 млрд рублей",
-      "lead_en": "Глава Банка России Эльвира Набиуллина указала, что это решение позволит Российской национальной перестраховочной компании выполнять все принятые на себя обязательства",
-      "title_raw": "ЦБ решил докапитализировать РНПК на 165 млрд рублей",
-      "lead_raw": "Глава Банка России Эльвира Набиуллина указала, что это решение позволит Российской национальной перестраховочной компании выполнять все принятые на себя обязательства",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "c5fb0e31b98af42b546b37e8cc87e3c3374d6822",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28103421",
-      "published_utc": "2026-09-11T12:39:44Z",
-      "title_en": "Путин: ВВП России с 2023 по 2025 годы прибавил более 10%",
-      "lead_en": "Предыдущие три года экономические темпы в России превышали среднемировые, отметил президент РФ",
-      "title_raw": "Путин: ВВП России с 2023 по 2025 годы прибавил более 10%",
-      "lead_raw": "Предыдущие три года экономические темпы в России превышали среднемировые, отметил президент РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "34c01dd02e40cf3cb0ad798cc266f2d0dd56afb4",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/09/11/ukrainian-drones-strike-russian-chemical-plant-that-produces-materials-used-in-explosives",
-      "published_utc": "2026-09-11T12:39:36Z",
-      "title_en": "Ukrainian drones strike Russian chemical plant that produces materials used in explosives",
-      "lead_en": "Ukrainian drones struck Perm Krai on the morning of September 11, hitting industrial facilities, Governor Dmitry Makhonin said, without specifying which enterprises were affected.",
-      "title_raw": "Ukrainian drones strike Russian chemical plant that produces materials used in explosives",
-      "lead_raw": "Ukrainian drones struck Perm Krai on the morning of September 11, hitting industrial facilities, Governor Dmitry Makhonin said, without specifying which enterprises were affected.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "0bf44a37d3b02461f93b19fbcf0b869bf8172555",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28103389",
-      "published_utc": "2026-09-11T12:38:01Z",
-      "title_en": "Набиуллина: ЦБ следит, чтобы подорожание бензина не привело к росту инфляции",
-      "lead_en": "Глава Банка России отметила, что это является задачей регулятора",
-      "title_raw": "Набиуллина: ЦБ следит, чтобы подорожание бензина не привело к росту инфляции",
-      "lead_raw": "Глава Банка России отметила, что это является задачей регулятора",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "deec097e5d97287e8ce158432d8e68111a93fbb0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28103387",
-      "published_utc": "2026-09-11T12:37:08Z",
-      "title_en": "Путин: инициаторы санкций сталкиваются со спадом в экономике",
-      "lead_en": "Проводить подобную РФ инновационную политику уже не могут, отметил президент России",
-      "title_raw": "Путин: инициаторы санкций сталкиваются со спадом в экономике",
-      "lead_raw": "Проводить подобную РФ инновационную политику уже не могут, отметил президент России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "b7b04203d3ec1a8f31b84e3d7b383fcabdaa74a1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28103375",
-      "published_utc": "2026-09-11T12:36:34Z",
-      "title_en": "Путин рассказал, что сделало экономику России устойчивой и мобильной",
-      "lead_en": "Президент РФ отметил, что речь идет о структурных изменениях",
-      "title_raw": "Путин рассказал, что сделало экономику России устойчивой и мобильной",
-      "lead_raw": "Президент РФ отметил, что речь идет о структурных изменениях",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "f2269048db3547e0714e3978bdb6fa50e70724a7",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28103369",
-      "published_utc": "2026-09-11T12:36:19Z",
-      "title_en": "Набиуллина заявила об опасности вторичных эффектов из-за ситуации на рынке топлива",
-      "lead_en": "Глава Банка России связала их с логистическими издержками",
-      "title_raw": "Набиуллина заявила об опасности вторичных эффектов из-за ситуации на рынке топлива",
-      "lead_raw": "Глава Банка России связала их с логистическими издержками",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "c3b0e9a033eedb5b2ec7ae2de9fae31698d63cf3",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28103365",
-      "published_utc": "2026-09-11T12:35:51Z",
-      "title_en": "Путин: Россия укрепила национальный суверенитет",
-      "lead_en": "Президент указал, что российская сторона теперь развивается с надежными и предсказуемыми партнерами",
-      "title_raw": "Путин: Россия укрепила национальный суверенитет",
-      "lead_raw": "Президент указал, что российская сторона теперь развивается с надежными и предсказуемыми партнерами",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "658a0c2dc228e23e51801a4ffbaaa8ee6262178b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28103357",
-      "published_utc": "2026-09-11T12:35:22Z",
-      "title_en": "Путин: против РФ введено 30 тыс. санкций",
-      "lead_en": "Это вдвое больше, чем против всех остальных стран мира совокупно, указал президент России",
-      "title_raw": "Путин: против РФ введено 30 тыс. санкций",
-      "lead_raw": "Это вдвое больше, чем против всех остальных стран мира совокупно, указал президент России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "c290e0d77bd98d1d67b207bb509a152abc5d7403",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28103347",
-      "published_utc": "2026-09-11T12:35:20Z",
-      "title_en": "Набиуллина рассказала, что отдаляет ЦБ от снижения ставки",
-      "lead_en": "Любой дополнительный рубль госстимулирования спроса отдаляет ЦБ от этого, отметила глава Банка России",
-      "title_raw": "Набиуллина рассказала, что отдаляет ЦБ от снижения ставки",
-      "lead_raw": "Любой дополнительный рубль госстимулирования спроса отдаляет ЦБ от этого, отметила глава Банка России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "804282800941bb7ff06ab3859c1618acc7b3d647",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28103317",
-      "published_utc": "2026-09-11T12:31:26Z",
-      "title_en": "Набиуллина: доля льготных корпоративных кредитов требует большей жесткости ДКП",
-      "lead_en": "Глава Банка России отметила, что рост кредитования продолжают поддерживать льготные и квазильготные ставки кредитов",
-      "title_raw": "Набиуллина: доля льготных корпоративных кредитов требует большей жесткости ДКП",
-      "lead_raw": "Глава Банка России отметила, что рост кредитования продолжают поддерживать льготные и квазильготные ставки кредитов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "206107feb25a2bfc8e9271190c6cdbe914cb5f5b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28103309",
-      "published_utc": "2026-09-11T12:28:53Z",
-      "title_en": "В ЦБ назвали умеренным рост розничного кредитования в последние месяцы",
-      "lead_en": "Корпоративное кредитование действительно росло повышенными темпами, отметила глава Банка России Эльвира Набиуллина",
-      "title_raw": "В ЦБ назвали умеренным рост розничного кредитования в последние месяцы",
-      "lead_raw": "Корпоративное кредитование действительно росло повышенными темпами, отметила глава Банка России Эльвира Набиуллина",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "92e695decee2dfe5a92fe343f4832b19ab993710",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/09/11/russia-s-central-bank-holds-key-rate-at-14-for-the-first-time-since-2025",
-      "published_utc": "2026-09-11T12:27:49Z",
-      "title_en": "Russia’s central bank holds key rate at 14% for the first time since 2025",
-      "lead_en": "Russia’s central bank left its key interest rate unchanged for the first time in a year and a half, holding it at 14% after a meeting of its board of directors.",
-      "title_raw": "Russia’s central bank holds key rate at 14% for the first time since 2025",
-      "lead_raw": "Russia’s central bank left its key interest rate unchanged for the first time in a year and a half, holding it at 14% after a meeting of its board of directors.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "178552ed16a290cd5ca5edae53416b628919db9b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/28103287",
-      "published_utc": "2026-09-11T12:27:23Z",
-      "title_en": "World Aquatics обязала страны гарантировать визы россиянам",
-      "lead_en": "В противном случае World Aquatics будет забирать право проведения турниров, рассказал генеральный секретарь Федерации водных видов спорта России Радмир Габдуллин",
-      "title_raw": "World Aquatics обязала страны гарантировать визы россиянам",
-      "lead_raw": "В противном случае World Aquatics будет забирать право проведения турниров, рассказал генеральный секретарь Федерации водных видов спорта России Радмир Габдуллин",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "f59a58ac522fd3ed8fc0231b47b8b49a6ecfa69c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28103295",
-      "published_utc": "2026-09-11T12:27:16Z",
-      "title_en": "ЦБ отметил замедление за последние годы переноса динамики курса рубля в инфляцию",
-      "lead_en": "Глава Банка России Эльвира Набиуллина отметила, что влияние курса на цены остается умеренным",
-      "title_raw": "ЦБ отметил замедление за последние годы переноса динамики курса рубля в инфляцию",
-      "lead_raw": "Глава Банка России Эльвира Набиуллина отметила, что влияние курса на цены остается умеренным",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "b2ef4a3a8097fa595ba6759ea52720645cc089b0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28103291",
-      "published_utc": "2026-09-11T12:27:02Z",
-      "title_en": "Путин и Моди посетили выставку \"ИННОПРОМ. Индия\". Видеотрансляция завершена",
-      "lead_en": "На экспозиции собрались представители государственных структур и бизнеса России и Индии",
-      "title_raw": "Путин и Моди посетили выставку \"ИННОПРОМ. Индия\". Видеотрансляция завершена",
-      "lead_raw": "На экспозиции собрались представители государственных структур и бизнеса России и Индии",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "02c6e9a1be2ad6ada3249974f180a7c8b1cc2d1f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28103289",
-      "published_utc": "2026-09-11T12:26:51Z",
-      "title_en": "Набиуллина назвала значение курса рубля очень близким к ожиданиям предприятий",
-      "lead_en": "Это снижает масштаб переноса его изменений в цены, отметила глава Банка России",
-      "title_raw": "Набиуллина назвала значение курса рубля очень близким к ожиданиям предприятий",
-      "lead_raw": "Это снижает масштаб переноса его изменений в цены, отметила глава Банка России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "7c71dd099a5a6c1fd613faca2353dadc8fef3cb8",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28103277",
-      "published_utc": "2026-09-11T12:23:38Z",
-      "title_en": "ЦБ не рассматривает возможность повышения цели по инфляции",
-      "lead_en": "По словам главы Банка России Эльвиры Набиуллиной, это будет \"крайне вредно\"",
-      "title_raw": "ЦБ не рассматривает возможность повышения цели по инфляции",
-      "lead_raw": "По словам главы Банка России Эльвиры Набиуллиной, это будет \"крайне вредно\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "74d6621b4fa423c3f1bb0bdf0d7d949ce918e028",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28103275",
-      "published_utc": "2026-09-11T12:23:23Z",
-      "title_en": "Набиуллина: пространство для снижения ставки меньше, чем ЦБ ожидал в I полугодии",
-      "lead_en": "Глава Банка России отметила, что одной из причин такого развития событий стал сдвиг на 2029 год срока достижения нулевого уровня структурного первичного дефицита",
-      "title_raw": "Набиуллина: пространство для снижения ставки меньше, чем ЦБ ожидал в I полугодии",
-      "lead_raw": "Глава Банка России отметила, что одной из причин такого развития событий стал сдвиг на 2029 год срока достижения нулевого уровня структурного первичного дефицита",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "3d66beaf785d5d82b68f99b3ee3a8839b92d042b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28103169",
-      "published_utc": "2026-09-11T12:20:10Z",
-      "title_en": "В Венгрии открыли мемориал на месте захоронения 250 военнослужащих Красной армии",
-      "lead_en": "На церемонии присутствовали посол России в Венгрии Евгений Станиславов и мэр Полгарди Ласло Никош",
-      "title_raw": "В Венгрии открыли мемориал на месте захоронения 250 военнослужащих Красной армии",
-      "lead_raw": "На церемонии присутствовали посол России в Венгрии Евгений Станиславов и мэр Полгарди Ласло Никош",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "bf395dccbffddde5f430db161195a8c76cb51adf",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28103235",
-      "published_utc": "2026-09-11T12:18:17Z",
-      "title_en": "В Русском доме в Сиане планируют представить российские бренды",
-      "lead_en": "Спецпредставитель президента РФ Борис Титов отметил, что это будут, в частности, одежда и сувениры",
-      "title_raw": "В Русском доме в Сиане планируют представить российские бренды",
-      "lead_raw": "Спецпредставитель президента РФ Борис Титов отметил, что это будут, в частности, одежда и сувениры",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "1c6958bfa1590dd0c88e2e2ad643eccd848b40c2",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2186145",
-      "published_utc": "2026-09-11T12:16:28Z",
-      "title_en": "Several Ukrainian troop groups eliminated while attempting to break out of Volchansk trap",
-      "lead_en": "The Russian defense sources said the enemy's attempts to break out of the encirclement were unsuccessful",
-      "title_raw": "Several Ukrainian troop groups eliminated while attempting to break out of Volchansk trap",
-      "lead_raw": "The Russian defense sources said the enemy's attempts to break out of the encirclement were unsuccessful",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "3be80255ac3e56243b745e9ac19e0fdb3ce65d6e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28103247",
-      "published_utc": "2026-09-11T12:16:18Z",
-      "title_en": "Набиуллина: ситуация на топливном рынке будет постепенно восстанавливаться",
-      "lead_en": "Необходимые для этого меры принимает правительство и компании при поддержке правительства, отметила глава Банка России",
-      "title_raw": "Набиуллина: ситуация на топливном рынке будет постепенно восстанавливаться",
-      "lead_raw": "Необходимые для этого меры принимает правительство и компании при поддержке правительства, отметила глава Банка России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "84435970512822510d266bbecd8ba208236672d5",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28103243",
-      "published_utc": "2026-09-11T12:15:04Z",
-      "title_en": "ЦБ ожидает восстановления выбывающих мощностей экономики до конца года",
-      "lead_en": "Глава Банка России отметила, что регулятор не менял предпосылки",
-      "title_raw": "ЦБ ожидает восстановления выбывающих мощностей экономики до конца года",
-      "lead_raw": "Глава Банка России отметила, что регулятор не менял предпосылки",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "bd378b3711d92b34cd3631bd68f6ce27002b3fd7",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28103233",
-      "published_utc": "2026-09-11T12:13:11Z",
-      "title_en": "ЦБ не изменил оценки параметров бюджета на новую трехлетку",
-      "lead_en": "Окончательное определение параметров бюджета ожидается в сентябре, пояснила глава Банка России Эльвира Набиуллина",
-      "title_raw": "ЦБ не изменил оценки параметров бюджета на новую трехлетку",
-      "lead_raw": "Окончательное определение параметров бюджета ожидается в сентябре, пояснила глава Банка России Эльвира Набиуллина",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "607c57605fd0c605bd9293e3c7fa79271621c918",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28103221",
-      "published_utc": "2026-09-11T12:10:51Z",
-      "title_en": "ЦБ обсуждал сохранение ставки и содержательно не обсуждал ее снижения",
-      "lead_en": "Пространство для снижения ставки в дальнейшем будут уточнять в рамках обновления прогноза в октябре, сообщила глава Банка России Эльвира Набиуллина",
-      "title_raw": "ЦБ обсуждал сохранение ставки и содержательно не обсуждал ее снижения",
-      "lead_raw": "Пространство для снижения ставки в дальнейшем будут уточнять в рамках обновления прогноза в октябре, сообщила глава Банка России Эльвира Набиуллина",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "01e14fd4274693f21806421a55e21ec85d7e69fe",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28103195",
-      "published_utc": "2026-09-11T12:10:39Z",
-      "title_en": "В КБР этапы велогонки посвятили адмиралу и спортсмену",
-      "lead_en": "В гонке \"Дружба народов Северного Кавказа\" принимают участие около 200 спортсменов из России, Белоруссии, Казахстана",
-      "title_raw": "В КБР этапы велогонки посвятили адмиралу и спортсмену",
-      "lead_raw": "В гонке \"Дружба народов Северного Кавказа\" принимают участие около 200 спортсменов из России, Белоруссии, Казахстана",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "09f9fcda13e4f99f8cd39260f527a3ff46cb08e9",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/09/11/russian-strikes-hit-two-kyiv-gas-stations-one-of-them-twice-several-killed-and-injured-including-rescue-worker",
-      "published_utc": "2026-09-11T11:56:22Z",
-      "title_en": "Russian strikes hit two Kyiv gas stations, one of them twice. Several killed and injured, including rescue worker.",
-      "lead_en": "Russian forces struck two gas stations in Kyiv, one in the Dniprovskyi district and one in the Obolonskyi district, Mayor Vitali Klitschko said.",
-      "title_raw": "Russian strikes hit two Kyiv gas stations, one of them twice. Several killed and injured, including rescue worker.",
-      "lead_raw": "Russian forces struck two gas stations in Kyiv, one in the Dniprovskyi district and one in the Obolonskyi district, Mayor Vitali Klitschko said.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "energy",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "5b7f5fa1aa62225714e0e3ac1e0de602ef8de6da",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/09/11/kremlin-spokesman-says-lithuania-would-be-in-the-crosshairs-of-our-nuclear-weapons-if-it-deploys-a-nuclear-arsenal-on-its-own-territory",
-      "published_utc": "2026-09-11T11:46:41Z",
-      "title_en": "Kremlin spokesman says Lithuania would be ‘in the crosshairs of our nuclear weapons’ if it deploys a nuclear arsenal on its own territory",
-      "lead_en": "Kremlin Press Secretary Dmitry Peskov said Russia would aim its nuclear weapons at Lithuania if the country deploys nuclear arsenals on its own territory, speaking in an interview with the Russian state-controlled television channel Channel One.",
-      "title_raw": "Kremlin spokesman says Lithuania would be ‘in the crosshairs of our nuclear weapons’ if it deploys a nuclear arsenal on its own territory",
-      "lead_raw": "Kremlin Press Secretary Dmitry Peskov said Russia would aim its nuclear weapons at Lithuania if the country deploys nuclear arsenals on its own territory, speaking in an interview with the Russian state-controlled television channel Channel One.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "74675d8cbe60949e742439b5f14f473f32390f61",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2186125",
-      "published_utc": "2026-09-11T11:45:33Z",
-      "title_en": "Russia’s Knyaz Vandal drone equipped with microphone to hear, ambush enemies — developer",
-      "lead_en": "The Knyaz Vandal of Novgorod fiber-optic FPV drone, developed by the Ushkuynik Research and Production Center, was first used in August 2024",
-      "title_raw": "Russia’s Knyaz Vandal drone equipped with microphone to hear, ambush enemies — developer",
-      "lead_raw": "The Knyaz Vandal of Novgorod fiber-optic FPV drone, developed by the Ushkuynik Research and Production Center, was first used in August 2024",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "77126d316dad1a1aa3c4c75931c904d89374e574",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2186123",
-      "published_utc": "2026-09-11T11:44:16Z",
-      "title_en": "Russian forces step up pressure on Ukrainian troops by liberating Zarubinka — expert",
-      "lead_en": "Andrey Marochko said that Russian troops had tightened the encirclement in the Volchansk direction",
-      "title_raw": "Russian forces step up pressure on Ukrainian troops by liberating Zarubinka — expert",
-      "lead_raw": "Andrey Marochko said that Russian troops had tightened the encirclement in the Volchansk direction",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "6dc8f71337d4b353112e21131e0b21a90c7d439c",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/society/2186119",
-      "published_utc": "2026-09-11T11:22:35Z",
-      "title_en": "Russian movies to be shown at youth film festival in Egypt",
-      "lead_en": "The program includes Artyom Mikhalkov’s sports drama Rowing for Gold, which tells the story of a young rower and his difficult path toward the goal of competing in the Olympic Games",
-      "title_raw": "Russian movies to be shown at youth film festival in Egypt",
-      "lead_raw": "The program includes Artyom Mikhalkov’s sports drama Rowing for Gold, which tells the story of a young rower and his difficult path toward the goal of competing in the Olympic Games",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "4c9c78adf3fcd8a148ffe9f9e21b3f06332015c5",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2186105",
-      "published_utc": "2026-09-11T11:04:00Z",
-      "title_en": "Confiscating Russian assets not on EU leadership’s agenda — European Commission",
-      "lead_en": "Spokeswoman Paula Pinho said the EU intends to address commitments on the timely disbursement of the EC loan at first",
-      "title_raw": "Confiscating Russian assets not on EU leadership’s agenda — European Commission",
-      "lead_raw": "Spokeswoman Paula Pinho said the EU intends to address commitments on the timely disbursement of the EC loan at first",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "1aa57fec424b5fcf7fc845a31435603412d00877",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2186097",
-      "published_utc": "2026-09-11T10:53:44Z",
-      "title_en": "Bank of Russia keeps key rate at 14% per annum",
-      "lead_en": "Underlying price growth has accelerated to 5-6% in annual terms, primarily due to the impact of a temporary reduction in production capacities in certain sectors, the regulator added",
-      "title_raw": "Bank of Russia keeps key rate at 14% per annum",
-      "lead_raw": "Underlying price growth has accelerated to 5-6% in annual terms, primarily due to the impact of a temporary reduction in production capacities in certain sectors, the regulator added",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "5d61fd3a84f5ed006e73891cf00a8427bb3d93ab",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/09/11/russian-central-bank-holds-key-rate-at-14-a93688",
-      "published_utc": "2026-09-11T10:53:00Z",
-      "title_en": "Russian Central Bank Holds Key Rate at 14%",
-      "lead_en": "Policymakers said rising fuel costs, driven by Ukrainian drone attacks on oil refineries, are making it difficult for them to tame inflation.",
-      "title_raw": "Russian Central Bank Holds Key Rate at 14%",
-      "lead_raw": "Policymakers said rising fuel costs, driven by Ukrainian drone attacks on oil refineries, are making it difficult for them to tame inflation.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "411006be70348f4d2b543656330f759d1ff3fbb7",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2186071",
-      "published_utc": "2026-09-11T10:46:39Z",
-      "title_en": "Russian forces carry out one massive, six group strikes over past week",
-      "lead_en": "Russian air defenses intercept 5,673 Ukrainian UAVs in past week",
-      "title_raw": "Russian forces carry out one massive, six group strikes over past week",
-      "lead_raw": "Russian air defenses intercept 5,673 Ukrainian UAVs in past week",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "c6706754553bfefd7fb94da5092c402e01a62758",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2186085",
-      "published_utc": "2026-09-11T10:40:00Z",
-      "title_en": "Putin begins India visit with meeting PM Modi",
-      "lead_en": "The Russian president's agenda in India also includes attending the BRICS summit, which is being held in the capital city",
-      "title_raw": "Putin begins India visit with meeting PM Modi",
-      "lead_raw": "The Russian president's agenda in India also includes attending the BRICS summit, which is being held in the capital city",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "3bef930d5a4024b42fc971a55ebc758e75687864",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2186067",
-      "published_utc": "2026-09-11T10:37:53Z",
-      "title_en": "Air defenses down 777 Ukrainian drones over Russian regions overnight",
-      "lead_en": "Russian forces struck Ukrainian defense industry sites, logistics hubs and data centers overnight, as well as port infrastructure and vessels carrying military cargo, the Defense Ministry reported",
-      "title_raw": "Air defenses down 777 Ukrainian drones over Russian regions overnight",
-      "lead_raw": "Russian forces struck Ukrainian defense industry sites, logistics hubs and data centers overnight, as well as port infrastructure and vessels carrying military cargo, the Defense Ministry reported",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 4,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "50bc5a28ecb8969a7d5496fce2e9df1af464d996",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/09/11/russia-screens-soviet-film-the-defeat-of-militarist-japan-in-taipei-taiwan-accuses-moscow-of-trying-to-sow-discord-with-tokyo",
-      "published_utc": "2026-09-11T10:26:05Z",
-      "title_en": "Russia screens Soviet film ‘The Defeat of Militarist Japan’ in Taipei. Taiwan accuses Moscow of trying to sow discord with Tokyo.",
-      "lead_en": "The Russian representative office in Taiwan screened the Soviet documentary “The Defeat of Militarist Japan” for about 20 Taiwanese guests in Taipei about a week ago.",
-      "title_raw": "Russia screens Soviet film ‘The Defeat of Militarist Japan’ in Taipei. Taiwan accuses Moscow of trying to sow discord with Tokyo.",
-      "lead_raw": "The Russian representative office in Taiwan screened the Soviet documentary “The Defeat of Militarist Japan” for about 20 Taiwanese guests in Taipei about a week ago.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "b36431b12b9df4d817c32ae20d8392c73e6fa206",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2186063",
-      "published_utc": "2026-09-11T10:23:47Z",
-      "title_en": "European Commission looking for new ways to use Russian assets — FT",
-      "lead_en": "According to the source, currently there are no new options",
-      "title_raw": "European Commission looking for new ways to use Russian assets — FT",
-      "lead_raw": "According to the source, currently there are no new options",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "020c2151c02f15f083248b4f7603f168bc83d08c",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/society/2186061",
-      "published_utc": "2026-09-11T10:18:57Z",
-      "title_en": "Poll reveals level of Russian public’s confidence in Putin",
-      "lead_en": "The Russian government’s job approval rating amounted to 44.6%, while 43.4% of Russians approved of Prime Minister Mikhail Mishustin’s job performance",
-      "title_raw": "Poll reveals level of Russian public’s confidence in Putin",
-      "lead_raw": "The Russian government’s job approval rating amounted to 44.6%, while 43.4% of Russians approved of Prime Minister Mikhail Mishustin’s job performance",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "3d42cf1797708d743883a1fba0637325b1e403f1",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2186059",
-      "published_utc": "2026-09-11T10:10:16Z",
-      "title_en": "Telecom operators describe 5G launch in Russia as historic milestone",
-      "lead_en": "5G provides \"high-speed internet for major metropolitan areas and, concurrently, a foundation for the digital transformation of industry,\" Chief Executive Officer of MegaFon Khachatur Pombukhchan said",
-      "title_raw": "Telecom operators describe 5G launch in Russia as historic milestone",
-      "lead_raw": "5G provides \"high-speed internet for major metropolitan areas and, concurrently, a foundation for the digital transformation of industry,\" Chief Executive Officer of MegaFon Khachatur Pombukhchan said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "862e969224ccca55d0ac6354aeca5b8d8ffca287",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/pressreview/2185901",
-      "published_utc": "2026-09-11T10:00:00Z",
-      "title_en": "Press review: Ukraine seeks donors outside EU as Europe faces prolonged fuel price surge",
-      "lead_en": "Top stories from the Russian press on Friday, August 11th",
-      "title_raw": "Press review: Ukraine seeks donors outside EU as Europe faces prolonged fuel price surge",
-      "lead_raw": "Top stories from the Russian press on Friday, August 11th",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "87e713ee2985916a387e98dd33b7b06b223c730a",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/09/11/russia-launches-first-5g-networks-after-years-of-delays-a93685",
-      "published_utc": "2026-09-11T09:56:07Z",
-      "title_en": "Russia Launches First 5G Networks After Years of Delays",
-      "lead_en": "All four of Russia’s major mobile operators launched 5G in Moscow, St. Petersburg and Yekaterinburg.",
-      "title_raw": "Russia Launches First 5G Networks After Years of Delays",
-      "lead_raw": "All four of Russia’s major mobile operators launched 5G in Moscow, St. Petersburg and Yekaterinburg.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "26682027362429227f9ca8e62fce71ad6a9178da",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/09/11/three-relatives-of-moscow-region-governor-andrey-vorobyov-own-sprawling-apartments-in-dubai-anti-corruption-foundation-finds",
-      "published_utc": "2026-09-11T09:49:15Z",
-      "title_en": "Three relatives of Moscow region governor Andrey Vorobyov own sprawling apartments in Dubai, Anti-Corruption Foundation finds",
-      "lead_en": "The Anti-Corruption Foundation has released an investigation into the real estate held by relatives of Andrey Vorobyov, the governor of the Moscow region who heads the United Russia party’s regional list in the upcoming State Duma election. Journalists had already reported on some of these properties, while other details were not previously known, but the main point is that the Anti-Corruption Foundation’s report gives a comprehensive picture of the known assets held by people in Vorobyov’s circle.",
-      "title_raw": "Three relatives of Moscow region governor Andrey Vorobyov own sprawling apartments in Dubai, Anti-Corruption Foundation finds",
-      "lead_raw": "The Anti-Corruption Foundation has released an investigation into the real estate held by relatives of Andrey Vorobyov, the governor of the Moscow region who heads the United Russia party’s regional list in the upcoming State Duma election. Journalists had already reported on some of these properties, while other details were not previously known, but the main point is that the Anti-Corruption Foundation’s report gives a comprehensive picture of the known assets held by people in Vorobyov’s circle.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "37f27e221a1c83715fb4a090597281d3060e827d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2186019",
-      "published_utc": "2026-09-11T09:09:58Z",
-      "title_en": "Clean Arctic volunteers collect 28 tons of waste in Russia's northernmost city",
-      "lead_en": "Four vehicles and two loaders were used to remove bulky waste and to clean up the territory",
-      "title_raw": "Clean Arctic volunteers collect 28 tons of waste in Russia's northernmost city",
-      "lead_raw": "Four vehicles and two loaders were used to remove bulky waste and to clean up the territory",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "f670a0d450c94dbc9b3629a6a581d8e6c511f913",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2186015",
-      "published_utc": "2026-09-11T09:08:04Z",
-      "title_en": "First voyage from China to Murmansk converts city into big logistics hub, expert says",
-      "lead_en": "In late August, the first ship of China's NewNew Shipping Line, carrying more than 500 containers with automotive components for the Russian market, after having sailed along the Northern Sea Route, docked at the port of Murmansk",
-      "title_raw": "First voyage from China to Murmansk converts city into big logistics hub, expert says",
-      "lead_raw": "In late August, the first ship of China's NewNew Shipping Line, carrying more than 500 containers with automotive components for the Russian market, after having sailed along the Northern Sea Route, docked at the port of Murmansk",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "bc22b8686d792d1f2a4d6a63d229f06d95115461",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2186003",
-      "published_utc": "2026-09-11T09:05:21Z",
-      "title_en": "Russia’s oil exports down to 6.44 mbd in August, revenues up to $13.8 bln — IEA",
-      "lead_en": "Russia’s revenues from oil exports this August were $320 mln higher than in the same period last year",
-      "title_raw": "Russia’s oil exports down to 6.44 mbd in August, revenues up to $13.8 bln — IEA",
-      "lead_raw": "Russia’s revenues from oil exports this August were $320 mln higher than in the same period last year",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "f3b8d0c25d0a562dc75d7f8f87973806406aa83a",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/09/11/a-month-ago-russia-s-anti-war-yabloko-party-was-disqualified-from-the-state-duma-election-that-was-only-the-beginning",
-      "published_utc": "2026-09-11T09:03:46Z",
-      "title_en": "A month ago, Russia’s anti-war Yabloko party was disqualified from the State Duma election. That was only the beginning.",
-      "lead_en": ".",
-      "title_raw": "A month ago, Russia’s anti-war Yabloko party was disqualified from the State Duma election. That was only the beginning.",
-      "lead_raw": ".",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
