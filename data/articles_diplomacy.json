@@ -1,27 +1,50 @@
 {
-  "updated_at_utc": "2026-09-13T20:23:37Z",
+  "updated_at_utc": "2026-09-13T22:54:21Z",
   "keep_hours": 48,
   "topic": "diplomacy",
-  "count": 55,
+  "count": 54,
   "articles": [
     {
-      "id": "9ef0d42e2dca5ea0bec88c69415d176cee865298",
+      "id": "fdd7dc1d9d6874c50209095d973f8f843cdfd8db",
       "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28108659",
-      "published_utc": "2026-09-13T19:49:47Z",
-      "title_en": "\"Русофобия головного мозга\". Захарова о словах Сикорского о победе над РФ",
-      "lead_en": "Официальный представитель МИД России прокомментировала заявление главы польского дипведомства в своем Telegram-канале",
-      "title_raw": "\"Русофобия головного мозга\". Захарова о словах Сикорского о победе над РФ",
-      "lead_raw": "Официальный представитель МИД России прокомментировала заявление главы польского дипведомства в своем Telegram-канале",
+      "url": "https://tass.ru/ekonomika/28108741",
+      "published_utc": "2026-09-13T22:02:09Z",
+      "title_en": "Посольство РФ заявило о готовности операторов восстанавливать энергетику Ливии",
+      "lead_en": "Российские операторы могут модернизировать ливийские электростанции, нефтяные терминалы и НПЗ, сообщили в диппредставительстве",
+      "title_raw": "Посольство РФ заявило о готовности операторов восстанавливать энергетику Ливии",
+      "lead_raw": "Российские операторы могут модернизировать ливийские электростанции, нефтяные терминалы и НПЗ, сообщили в диппредставительстве",
       "topic_scores": {
         "diplomacy": 1,
         "military": 0,
-        "energy": 0,
+        "energy": 2,
         "economy": 0,
         "local_events": 0
       },
       "topics": [
-        "diplomacy"
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "9004f650e341eea1e14ab73de8f973abb20b611a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28108717",
+      "published_utc": "2026-09-13T21:20:54Z",
+      "title_en": "Захарова назвала методы торговых войн \"внешнеполитическим анекдотом\"",
+      "lead_en": "При попытках оказывать давление на страны за хорошие отношения с Москвой Запад не высказывает и малейшего сомнения в нормальности энергетического диалога с Россией для собственных союзников, указала официальный представитель МИД РФ",
+      "title_raw": "Захарова назвала методы торговых войн \"внешнеполитическим анекдотом\"",
+      "lead_raw": "При попытках оказывать давление на страны за хорошие отношения с Москвой Запад не высказывает и малейшего сомнения в нормальности энергетического диалога с Россией для собственных союзников, указала официальный представитель МИД РФ",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
       ],
       "primary_topic": "diplomacy"
     },
@@ -1124,49 +1147,6 @@
       },
       "topics": [
         "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "db6f5a35ca678e1a5529a01eee531f204092867b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28104791",
-      "published_utc": "2026-09-11T20:56:09Z",
-      "title_en": "В Канаде проголосовать на выборах в ГД можно будет 20 сентября на трех участках",
-      "lead_en": "Избирательные участки будут открыты для россиян в посольстве в Оттаве, а также при генеральных консульствах в Монреале и Торонто",
-      "title_raw": "В Канаде проголосовать на выборах в ГД можно будет 20 сентября на трех участках",
-      "lead_raw": "Избирательные участки будут открыты для россиян в посольстве в Оттаве, а также при генеральных консульствах в Монреале и Торонто",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "5a5fd1303013fdd152ef6635410a354e436da85e",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/09/11/russian-official-to-attend-g20-energy-meeting-in-houston-next-week-white-house-official-says-a93692",
-      "published_utc": "2026-09-11T20:39:59Z",
-      "title_en": "Russian Official to Attend G20 Energy Meeting in Houston Next Week, White House Official Says",
-      "lead_en": "The expected appearance comes after the U.S. welcomed Russia's finance minister to a meeting of G20 countries in North Carolina.",
-      "title_raw": "Russian Official to Attend G20 Energy Meeting in Houston Next Week, White House Official Says",
-      "lead_raw": "The expected appearance comes after the U.S. welcomed Russia's finance minister to a meeting of G20 countries in North Carolina.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
       ],
       "primary_topic": "diplomacy"
     }
