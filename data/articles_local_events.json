@@ -1,9 +1,71 @@
 {
-  "updated_at_utc": "2026-09-14T05:49:59Z",
+  "updated_at_utc": "2026-09-14T11:56:21Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 5,
+  "count": 7,
   "articles": [
+    {
+      "id": "9c27994cfe5471ffc20b0930e917e8b1a682ab88",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28110427",
+      "published_utc": "2026-09-14T11:11:19Z",
+      "title_en": "Китай прокомментировал учения пограничников с Россией и Монголией",
+      "lead_en": "Представитель оборонного ведомства Цзян Бинь указал, что такое взаимодействие \"позволяет еще больше повысить способность совместного реагирования на чрезвычайные ситуации\"",
+      "title_raw": "Китай прокомментировал учения пограничников с Россией и Монголией",
+      "lead_raw": "Представитель оборонного ведомства Цзян Бинь указал, что такое взаимодействие \"позволяет еще больше повысить способность совместного реагирования на чрезвычайные ситуации\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "dba7f95052e5b19cc1e8d0b9aa6096dec7960a7b",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/09/14/five-injured-after-ukrainian-drone-attack-on-russia-s-sochi",
+      "published_utc": "2026-09-14T08:04:26Z",
+      "title_en": "Five injured after Ukrainian drone attack on Russia’s Sochi",
+      "lead_en": "Ukraine’s military launched a drone attack on Krasnodar Krai overnight on September 14. In Sochi, the regional emergency response headquarters reported that five people, including a child, were injured by “falling drone debris”.",
+      "title_raw": "Five injured after Ukrainian drone attack on Russia’s Sochi",
+      "lead_raw": "Ukraine’s military launched a drone attack on Krasnodar Krai overnight on September 14. In Sochi, the regional emergency response headquarters reported that five people, including a child, were injured by “falling drone debris”.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "7d171a2971c3518d7b34ff313cee51ae07b5038b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2187175",
+      "published_utc": "2026-09-14T07:33:39Z",
+      "title_en": "Casualties in Sochi, 399 UAVs: aftermath of Ukrainian drone attacks on Russian regions",
+      "lead_en": "Falling UAV debris injured five people, including a child, in Russia’s southern city of Sochi in the Krasnodar Region",
+      "title_raw": "Casualties in Sochi, 399 UAVs: aftermath of Ukrainian drone attacks on Russian regions",
+      "lead_raw": "Falling UAV debris injured five people, including a child, in Russia’s southern city of Sochi in the Krasnodar Region",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "53ce27d5bd3b29668c91ba70b82869149438f889",
       "source": "Meduza (EN)",
@@ -87,25 +149,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "4ae7b5cc92587a868e9f3d64302ceab78c130380",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/28105839",
-      "published_utc": "2026-09-12T10:00:35Z",
-      "title_en": "Названа предварительная причина крушения самолета в Татарстане",
-      "lead_en": "Cessna-172 мог рухнуть из-за ошибки пилотирования или неисправности, заявили в Центральном МСУТ СК России",
-      "title_raw": "Названа предварительная причина крушения самолета в Татарстане",
-      "lead_raw": "Cessna-172 мог рухнуть из-за ошибки пилотирования или неисправности, заявили в Центральном МСУТ СК России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
