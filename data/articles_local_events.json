@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-09-14T11:56:21Z",
+  "updated_at_utc": "2026-09-14T17:53:27Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 7,
   "articles": [
+    {
+      "id": "4e52afec0a97bbdda8b4459b2bf69e9ae0f087d9",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2187507",
+      "published_utc": "2026-09-14T17:12:19Z",
+      "title_en": "British national eliminated in Russia’s special mil-op zone in Ukraine — top brass",
+      "lead_en": "The sources said that three more Ukrainian officers have been killed as well, including a senior lieutenant of the National Guard of Ukraine",
+      "title_raw": "British national eliminated in Russia’s special mil-op zone in Ukraine — top brass",
+      "lead_raw": "The sources said that three more Ukrainian officers have been killed as well, including a senior lieutenant of the National Guard of Ukraine",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "14813cd64b5db93eb0385f405157d10ffd9bef79",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/09/14/trump-claims-moscow-and-kyiv-agreed-to-an-energy-ceasefire-but-zelensky-says-ukraine-will-halt-its-strikes-only-if-partners-secure-a-genuine-russian-commitment",
+      "published_utc": "2026-09-14T16:55:49Z",
+      "title_en": "Trump claims Moscow and Kyiv agreed to an energy ceasefire, but Zelensky says Ukraine will halt its strikes only if partners secure a genuine Russian commitment",
+      "lead_en": "Ukraine will halt strikes on Russian energy facilities if its partners can secure a “genuine” commitment from Russia not to retaliate against Ukraine’s energy infrastructure, Ukrainian President Volodymyr Zelensky said.",
+      "title_raw": "Trump claims Moscow and Kyiv agreed to an energy ceasefire, but Zelensky says Ukraine will halt its strikes only if partners secure a genuine Russian commitment",
+      "lead_raw": "Ukraine will halt strikes on Russian energy facilities if its partners can secure a “genuine” commitment from Russia not to retaliate against Ukraine’s energy infrastructure, Ukrainian President Volodymyr Zelensky said.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "9c27994cfe5471ffc20b0930e917e8b1a682ab88",
       "source": "TASS (RU)",
@@ -107,48 +147,6 @@
         "local_events"
       ],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "769c482bd43e73313cd733004dff8ab524c67ea7",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2186785",
-      "published_utc": "2026-09-12T16:41:14Z",
-      "title_en": "Applications flooding in for 2027 Russia-US-Germany business forum — envoy",
-      "lead_en": "It was also backed by the US Chamber of Commerce, so we will definitely hold it,\" Kirill Dmitriev said",
-      "title_raw": "Applications flooding in for 2027 Russia-US-Germany business forum — envoy",
-      "lead_raw": "It was also backed by the US Chamber of Commerce, so we will definitely hold it,\" Kirill Dmitriev said",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "2287264159b42c66e41bbe0278e5cb35254d8660",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28106693",
-      "published_utc": "2026-09-12T15:36:31Z",
-      "title_en": "ТАСС: на Украине обнаружили 10 незаконных схронов с оружием и боеприпасами",
-      "lead_en": "В тайниках хранились автоматы, гранатометы, противопехотные мины, взрывчатые вещества, артиллерийские боеприпасы, уточнили в российских силовых структурах",
-      "title_raw": "ТАСС: на Украине обнаружили 10 незаконных схронов с оружием и боеприпасами",
-      "lead_raw": "В тайниках хранились автоматы, гранатометы, противопехотные мины, взрывчатые вещества, артиллерийские боеприпасы, уточнили в российских силовых структурах",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
