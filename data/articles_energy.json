@@ -1,9 +1,52 @@
 {
-  "updated_at_utc": "2026-09-14T00:45:44Z",
+  "updated_at_utc": "2026-09-14T05:49:59Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 23,
+  "count": 22,
   "articles": [
+    {
+      "id": "06cd78f255e746a43bcedd397a67933afb0ab468",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28109005",
+      "published_utc": "2026-09-14T03:42:38Z",
+      "title_en": "WSJ отметила лидерство РФ в производстве недорогих и технологичных вооружений",
+      "lead_en": "Газета отметила, что Россия опережает по этому показателю Украину и США",
+      "title_raw": "WSJ отметила лидерство РФ в производстве недорогих и технологичных вооружений",
+      "lead_raw": "Газета отметила, что Россия опережает по этому показателю Украину и США",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "b1d8ed86557d941cffe560b0058e1cfdd00c43f2",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2187129",
+      "published_utc": "2026-09-14T03:42:32Z",
+      "title_en": "Japan maintains its presence in oil and gas projects in Russia — diplomat",
+      "lead_en": "Maria Zakharova noted that Tokyo maintains and reaffirms the importance of its relations and energy cooperation with Moscow",
+      "title_raw": "Japan maintains its presence in oil and gas projects in Russia — diplomat",
+      "lead_raw": "Maria Zakharova noted that Tokyo maintains and reaffirms the importance of its relations and energy cooperation with Moscow",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "fdd7dc1d9d6874c50209095d973f8f843cdfd8db",
       "source": "TASS (RU)",
@@ -432,71 +475,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "3583044c777c11132fc32bdb32695a5535778daf",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28105273",
-      "published_utc": "2026-09-12T05:11:17Z",
-      "title_en": "Эксперт Ван: стимулы для поставок газа по \"Силе Байкала\" имеют широкий охват",
-      "lead_en": "Сейчас это проявляется в постоянном увеличении объемов поставок российского газа в Китай, отметил экономист Школы бизнеса Дэчжоуского университета",
-      "title_raw": "Эксперт Ван: стимулы для поставок газа по \"Силе Байкала\" имеют широкий охват",
-      "lead_raw": "Сейчас это проявляется в постоянном увеличении объемов поставок российского газа в Китай, отметил экономист Школы бизнеса Дэчжоуского университета",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "bf28337abfea9b4999c814b780be6bc54ba7596f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28105229",
-      "published_utc": "2026-09-12T04:37:53Z",
-      "title_en": "В Минэнерго Казахстана заявили, что поставок АИ-92 в Россию не было",
-      "lead_en": "В ведомстве уточнили, что такие поставки возможны только при достижении договоренностей",
-      "title_raw": "В Минэнерго Казахстана заявили, что поставок АИ-92 в Россию не было",
-      "lead_raw": "В ведомстве уточнили, что такие поставки возможны только при достижении договоренностей",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "25df4cdea573a767376169bffbc41b6a40082975",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2186519",
-      "published_utc": "2026-09-12T03:23:29Z",
-      "title_en": "Asian countries resist Western pressure over Russian energy — Foreign Ministry spokeswoman",
-      "lead_en": "Maria Zakharova added that the events of February and March 2026 proved right \"those who argued that energy cooperation should not become a battleground for political disputes or contests\"",
-      "title_raw": "Asian countries resist Western pressure over Russian energy — Foreign Ministry spokeswoman",
-      "lead_raw": "Maria Zakharova added that the events of February and March 2026 proved right \"those who argued that energy cooperation should not become a battleground for political disputes or contests\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }

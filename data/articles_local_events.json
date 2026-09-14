@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-09-14T00:45:44Z",
+  "updated_at_utc": "2026-09-14T05:49:59Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 5,
   "articles": [
+    {
+      "id": "53ce27d5bd3b29668c91ba70b82869149438f889",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/09/14/rescuers-find-the-final-victim-of-the-kabardino-balkaria-avalanche-marking-russia-s-deadliest-mountain-disaster-since-2002",
+      "published_utc": "2026-09-14T02:54:15Z",
+      "title_en": "Rescuers find the final victim of the Kabardino-Balkaria avalanche, marking Russia’s deadliest mountain disaster since 2002",
+      "lead_en": "The body of the 17th person killed in an avalanche in Kabardino-Balkaria has been found, RIA Novosti reported, citing a representative of the regional branch of Russia’s Emergency Situations Ministry.",
+      "title_raw": "Rescuers find the final victim of the Kabardino-Balkaria avalanche, marking Russia’s deadliest mountain disaster since 2002",
+      "lead_raw": "The body of the 17th person killed in an avalanche in Kabardino-Balkaria has been found, RIA Novosti reported, citing a representative of the regional branch of Russia’s Emergency Situations Ministry.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 4
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "df5249a58703b55f414300800f1273a74ae43cea",
       "source": "TASS (RU)",
@@ -85,27 +106,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "52694755d9e39d6fc729ebceb2579234f82b3bcd",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28105287",
-      "published_utc": "2026-09-12T05:23:30Z",
-      "title_en": "В АТОР заявили, что лесные пожары в Турции не повлияли на спрос россиян на туры",
-      "lead_en": "Страна сохраняет лидерство среди осенних направлений, на нее приходится около половины продаж зарубежных туров с заездами в сентябре и октябре, сообщила исполнительный директор Ассоциации туроператоров России Майя Ломидзе",
-      "title_raw": "В АТОР заявили, что лесные пожары в Турции не повлияли на спрос россиян на туры",
-      "lead_raw": "Страна сохраняет лидерство среди осенних направлений, на нее приходится около половины продаж зарубежных туров с заездами в сентябре и октябре, сообщила исполнительный директор Ассоциации туроператоров России Майя Ломидзе",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
