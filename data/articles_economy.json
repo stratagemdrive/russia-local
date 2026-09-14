@@ -1,9 +1,216 @@
 {
-  "updated_at_utc": "2026-09-14T17:53:27Z",
+  "updated_at_utc": "2026-09-14T21:33:14Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 43,
+  "count": 53,
   "articles": [
+    {
+      "id": "d0f1b4413a1db2e6f6a15a3a3b1a00f3fd0047e4",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/09/15/the-kremlin-welcomes-trump-s-call-for-ukraine-to-halt-strikes-on-russian-oil-refineries-but-won-t-promise-reciprocal-restraint",
+      "published_utc": "2026-09-14T21:03:26Z",
+      "title_en": "The Kremlin welcomes Trump’s call for Ukraine to halt strikes on Russian oil refineries but won’t promise reciprocal restraint",
+      "lead_en": "The Kremlin declined to say whether it would stop striking Ukraine’s economic infrastructure if Kyiv halted its attacks on Russian oil refineries.",
+      "title_raw": "The Kremlin welcomes Trump’s call for Ukraine to halt strikes on Russian oil refineries but won’t promise reciprocal restraint",
+      "lead_raw": "The Kremlin declined to say whether it would stop striking Ukraine’s economic infrastructure if Kyiv halted its attacks on Russian oil refineries.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "6b6f0982976e892cb22a82c5609547ff1f13b442",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/09/14/the-u-s-sanctioned-russia-s-vtb-bank-over-its-work-with-iran-a-former-treasury-official-says-the-move-is-also-meant-to-pressure-chinese-banks",
+      "published_utc": "2026-09-14T20:55:50Z",
+      "title_en": "The U.S. sanctioned Russia’s VTB Bank over its work with Iran. A former Treasury official says the move is also meant to pressure Chinese banks.",
+      "lead_en": "The U.S. Treasury Department has sanctioned Russia’s VTB Bank for taking part in efforts to evade sanctions on Iran.",
+      "title_raw": "The U.S. sanctioned Russia’s VTB Bank over its work with Iran. A former Treasury official says the move is also meant to pressure Chinese banks.",
+      "lead_raw": "The U.S. Treasury Department has sanctioned Russia’s VTB Bank for taking part in efforts to evade sanctions on Iran.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "84d2cc14ab788f3989b9358bd0fa203039a38dd6",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/09/14/the-eu-extends-its-russia-sanctions-list-for-just-one-week-keeping-russian-businessman-alisher-usmanov-designated-until-ambassadors-meet-again",
+      "published_utc": "2026-09-14T20:40:48Z",
+      "title_en": "The EU extends its Russia sanctions list for just one week, keeping Russian businessman Alisher Usmanov designated until ambassadors meet again",
+      "lead_en": "European Union ambassadors agreed to extend one of the bloc’s sanctions regimes against Russia for just one week, according to EUobserver and Radio Free Europe/Radio Liberty journalist Rikard Jozwiak, who cited sources.",
+      "title_raw": "The EU extends its Russia sanctions list for just one week, keeping Russian businessman Alisher Usmanov designated until ambassadors meet again",
+      "lead_raw": "European Union ambassadors agreed to extend one of the bloc’s sanctions regimes against Russia for just one week, according to EUobserver and Radio Free Europe/Radio Liberty journalist Rikard Jozwiak, who cited sources.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "7cbfbd92632c4ee192c3ccb04b00adc127992cde",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28111717",
+      "published_utc": "2026-09-14T20:30:52Z",
+      "title_en": "В России с 1 марта 2027 года противогазы появятся в свободной продаже",
+      "lead_en": "Как пояснили в МЧС, ранее не было утвержденных требований к средствам индивидуальной защиты органов дыхания, и на рынке встречались низкокачественная продукция и контрафакт, однако теперь качество будет контролироваться",
+      "title_raw": "В России с 1 марта 2027 года противогазы появятся в свободной продаже",
+      "lead_raw": "Как пояснили в МЧС, ранее не было утвержденных требований к средствам индивидуальной защиты органов дыхания, и на рынке встречались низкокачественная продукция и контрафакт, однако теперь качество будет контролироваться",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "ba0305af1bb960ba30d1d4af850dd15148cbc054",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/09/14/the-online-marketplace-wildberries-seeks-enough-steel-mesh-to-cover-67-soccer-fields-it-could-be-intended-to-shield-warehouses-in-russia-from-ukrainian-drone-attacks-the-bell-reports",
+      "published_utc": "2026-09-14T19:38:44Z",
+      "title_en": "The online marketplace Wildberries seeks enough steel mesh to cover 67 soccer fields. It could be intended to shield warehouses in Russia from Ukrainian drone attacks, The Bell reports.",
+      "lead_en": "In early August, the Wildberries online marketplace invited bids to supply galvanized steel mesh for its logistics centers in eight Russian regions, The Bell reported.",
+      "title_raw": "The online marketplace Wildberries seeks enough steel mesh to cover 67 soccer fields. It could be intended to shield warehouses in Russia from Ukrainian drone attacks, The Bell reports.",
+      "lead_raw": "In early August, the Wildberries online marketplace invited bids to supply galvanized steel mesh for its logistics centers in eight Russian regions, The Bell reported.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "c7a5410728d797e6688e6c0e993f0070332ec1be",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/09/14/museum-experts-warned-that-moving-andrei-rublev-s-fragile-trinity-icon-to-a-russian-monastery-could-destroy-it-three-years-later-its-condition-is-reportedly-critical",
+      "published_utc": "2026-09-14T19:15:32Z",
+      "title_en": "Museum experts warned that moving Andrei Rublev’s fragile Trinity icon to a Russian monastery could destroy it. Three years later, its condition is reportedly critical.",
+      "lead_en": "On September 12, Ekho reported that Andrei Rublev’s Trinity, housed for the past three years at the Trinity Lavra of St. Sergius rather than in a museum, was in critical condition after its climate-controlled display case broke down.",
+      "title_raw": "Museum experts warned that moving Andrei Rublev’s fragile Trinity icon to a Russian monastery could destroy it. Three years later, its condition is reportedly critical.",
+      "lead_raw": "On September 12, Ekho reported that Andrei Rublev’s Trinity, housed for the past three years at the Trinity Lavra of St. Sergius rather than in a museum, was in critical condition after its climate-controlled display case broke down.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "9f2b0dcb93c8e06b10812e6ef90119910f9c2a6b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2187541",
+      "published_utc": "2026-09-14T19:04:13Z",
+      "title_en": "Record US refinery output fails to offset global diesel deficit — analyst",
+      "lead_en": "Concurrently, a decline in diesel exports from the top three suppliers – Russia, the US, and Saudi Arabia – will only widen crack spreads, Andrey Polishchuk noted",
+      "title_raw": "Record US refinery output fails to offset global diesel deficit — analyst",
+      "lead_raw": "Concurrently, a decline in diesel exports from the top three suppliers – Russia, the US, and Saudi Arabia – will only widen crack spreads, Andrey Polishchuk noted",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "b3d2d29e975005f8a8a12c3bad72106e0d234be5",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2187527",
+      "published_utc": "2026-09-14T18:51:02Z",
+      "title_en": "Italy could resume Russian gas imports after Ukraine conflict ends — Deputy PM",
+      "lead_en": "\"We need to find a diplomatic solution – not by sending weapons, but by supporting the negotiation process,\" Matteo Salvini said",
+      "title_raw": "Italy could resume Russian gas imports after Ukraine conflict ends — Deputy PM",
+      "lead_raw": "\"We need to find a diplomatic solution – not by sending weapons, but by supporting the negotiation process,\" Matteo Salvini said",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "4d59c7e2aa58cbb8d9eeed844c95d2e1cfdaddb9",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28111603",
+      "published_utc": "2026-09-14T18:45:58Z",
+      "title_en": "В Бельгии признали незаконным отказ казначейства разблокировать активы РФ",
+      "lead_en": "Речь идет о зарубежных активах российского \"БКС банка\"",
+      "title_raw": "В Бельгии признали незаконным отказ казначейства разблокировать активы РФ",
+      "lead_raw": "Речь идет о зарубежных активах российского \"БКС банка\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "10b14d74743f57d245910028fe6d7397e469246e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28111567",
+      "published_utc": "2026-09-14T18:18:23Z",
+      "title_en": "Бизнесмен Митилинеос призвал Европу продолжать закупать газ из РФ",
+      "lead_en": "Генеральный директор греческой компании Metlen Energy & Metals отметил, что полный запрет импорта российских энергоносителей, который вступит в силу в Евросоюзе в 2027 году, еще сильнее усугубит ситуацию для экономик европейских стран",
+      "title_raw": "Бизнесмен Митилинеос призвал Европу продолжать закупать газ из РФ",
+      "lead_raw": "Генеральный директор греческой компании Metlen Energy & Metals отметил, что полный запрет импорта российских энергоносителей, который вступит в силу в Евросоюзе в 2027 году, еще сильнее усугубит ситуацию для экономик европейских стран",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "d5607d34e00288614678a5c73ff48756ad6682f1",
       "source": "TASS (RU)",
