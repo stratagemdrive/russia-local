@@ -1,9 +1,216 @@
 {
-  "updated_at_utc": "2026-09-15T05:52:41Z",
+  "updated_at_utc": "2026-09-15T11:11:31Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 54,
+  "count": 62,
   "articles": [
+    {
+      "id": "899cb78d7930ef79be217ef7d521d36a517d2418",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2187859",
+      "published_utc": "2026-09-15T10:59:34Z",
+      "title_en": "Russian ambassador says Italy begins to realize anti-Russia policy was mistake",
+      "lead_en": "Alexey Paramonov noted that sanctions had almost completely halted energy cooperation between Russia and Italy and seriously damaged bilateral trade",
+      "title_raw": "Russian ambassador says Italy begins to realize anti-Russia policy was mistake",
+      "lead_raw": "Alexey Paramonov noted that sanctions had almost completely halted energy cooperation between Russia and Italy and seriously damaged bilateral trade",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "610eb003aa0f07c33b4820ed58a688eb5ebfc876",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28113587",
+      "published_utc": "2026-09-15T10:32:32Z",
+      "title_en": "Российский рынок акций перешел к росту",
+      "lead_en": "К 13:21 мск индекс Мосбиржи перешел к росту и находился на уровне 2 370,71 пункта",
+      "title_raw": "Российский рынок акций перешел к росту",
+      "lead_raw": "К 13:21 мск индекс Мосбиржи перешел к росту и находился на уровне 2 370,71 пункта",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "f65304b187b86b00c57e98930d915035aa8b4ed6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28113561",
+      "published_utc": "2026-09-15T10:28:29Z",
+      "title_en": "ЦБ оценит пространство для снижения ключевой ставки в октябре",
+      "lead_en": "Июльский прогноз предполагал как неизменность до конца года ключевой ставки, так и ее небольшое снижение, сообщил директор департамента денежно-кредитной политики Банка России Андрей Ганган",
+      "title_raw": "ЦБ оценит пространство для снижения ключевой ставки в октябре",
+      "lead_raw": "Июльский прогноз предполагал как неизменность до конца года ключевой ставки, так и ее небольшое снижение, сообщил директор департамента денежно-кредитной политики Банка России Андрей Ганган",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "0feb1f1ee9d554fd16995a2bbe3f60da3c1f7b0b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28113509",
+      "published_utc": "2026-09-15T10:22:10Z",
+      "title_en": "Песков: РФ проводит комплексную работу по обеспечению безопасности НПЗ",
+      "lead_en": "Внутренний рынок близок к полному насыщению, рассказал пресс-секретарь российского лидера",
+      "title_raw": "Песков: РФ проводит комплексную работу по обеспечению безопасности НПЗ",
+      "lead_raw": "Внутренний рынок близок к полному насыщению, рассказал пресс-секретарь российского лидера",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "dde25b9e82862f62fa553be0b3bb1327789a723d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28113507",
+      "published_utc": "2026-09-15T10:22:08Z",
+      "title_en": "Песков: энергоперемирие позволит РФ насытить внутренний рынок нефтепродуктами",
+      "lead_en": "Пресс-секретарь президента при этом отметил, что Россия и так в состоянии стабилизировать рынок",
+      "title_raw": "Песков: энергоперемирие позволит РФ насытить внутренний рынок нефтепродуктами",
+      "lead_raw": "Пресс-секретарь президента при этом отметил, что Россия и так в состоянии стабилизировать рынок",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "24d5121497a1f1dbd5e3ab23149c1cc979f521db",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28113505",
+      "published_utc": "2026-09-15T10:22:03Z",
+      "title_en": "Песков назвал возвращение газа РФ на европейский рынок коммерческим вопросом",
+      "lead_en": "По словам представителя Кремля, обсуждать его можно будет, если совпадудт два условия - выгода для России и возможность зарезервивровать необходимые объемы",
+      "title_raw": "Песков назвал возвращение газа РФ на европейский рынок коммерческим вопросом",
+      "lead_raw": "По словам представителя Кремля, обсуждать его можно будет, если совпадудт два условия - выгода для России и возможность зарезервивровать необходимые объемы",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "47b5be6a7b185ea8695654db54b65e9ee0367ac8",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/nedvizhimost/28113427",
+      "published_utc": "2026-09-15T10:12:10Z",
+      "title_en": "IBC Real Estate: треть объема инвестиций в недвижимость России обеспечили торги",
+      "lead_en": "Прирост объема торгов связан с крупнейшей в истории сделкой по реализации портфеля недвижимости Raven Russia, объяснили аналитики консалнтинговой компании",
+      "title_raw": "IBC Real Estate: треть объема инвестиций в недвижимость России обеспечили торги",
+      "lead_raw": "Прирост объема торгов связан с крупнейшей в истории сделкой по реализации портфеля недвижимости Raven Russia, объяснили аналитики консалнтинговой компании",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "014450f2d3fd5f2b52060383e8f55a07a42367ab",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28113395",
+      "published_utc": "2026-09-15T10:03:19Z",
+      "title_en": "Орешкин заявил о сохранении объемов внешней торговли России",
+      "lead_en": "Замруководителя администрации президента при этом указал на попытки исключить Россию из мировой торговли и повлиять на ее экономическое развитие",
+      "title_raw": "Орешкин заявил о сохранении объемов внешней торговли России",
+      "lead_raw": "Замруководителя администрации президента при этом указал на попытки исключить Россию из мировой торговли и повлиять на ее экономическое развитие",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "e594873c17de7bf74918bcc2498bde943a11fd8f",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/09/15/new-seller-influx-to-russia-s-marketplaces-fell-27-this-summer-according-to-russia-s-chamber-of-commerce-and-industry",
+      "published_utc": "2026-09-15T08:12:26Z",
+      "title_en": "New seller influx to Russia’s marketplaces fell 27% this summer, according to Russia’s Chamber of Commerce and Industry",
+      "lead_en": "The number of new sellers joining Russian online marketplaces fell 27% between June and August compared with the same period last year, according to the Chamber of Commerce and Industry (CCI).",
+      "title_raw": "New seller influx to Russia’s marketplaces fell 27% this summer, according to Russia’s Chamber of Commerce and Industry",
+      "lead_raw": "The number of new sellers joining Russian online marketplaces fell 27% between June and August compared with the same period last year, according to the Chamber of Commerce and Industry (CCI).",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "0404201ce03089e6b67de99d4ad0f3cde8cf3952",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/09/15/ukrainian-military-strikes-ozon-warehouse-and-oil-refinery-in-russia",
+      "published_utc": "2026-09-15T07:21:54Z",
+      "title_en": "Ukrainian military strikes Ozon warehouse and oil refinery in Russia",
+      "lead_en": "Ukrainian drones and missiles struck Taganrog overnight on September 15, damaging a warehouse belonging to the marketplace Ozon along with several residential buildings, stores, and administrative buildings, Rostov Governor Yuri Slyusar said. No one was injured, according to the governor.",
+      "title_raw": "Ukrainian military strikes Ozon warehouse and oil refinery in Russia",
+      "lead_raw": "Ukrainian drones and missiles struck Taganrog overnight on September 15, damaging a warehouse belonging to the marketplace Ozon along with several residential buildings, stores, and administrative buildings, Rostov Governor Yuri Slyusar said. No one was injured, according to the governor.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "a60cfbc18a4f25f8535328babe11737370719937",
       "source": "TASS (RU)",
@@ -1066,44 +1273,6 @@
       "lead_en": "Среди похищенного - 702 275 рублей, а также доллары, евро, юани, лиры, шекели, тенге, динары, йены и белорусские рубли",
       "title_raw": "В Петербурге трех сотрудников Московского вокзала арестовали за кражу",
       "lead_raw": "Среди похищенного - 702 275 рублей, а также доллары, евро, юани, лиры, шекели, тенге, динары, йены и белорусские рубли",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "4d3bacf73991ed8f0b8cd465fa236c6bf8bc4dff",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2187011",
-      "published_utc": "2026-09-13T10:37:12Z",
-      "title_en": "Key payment provisions sought by Russia included in BRICS declaration — Kremlin",
-      "lead_en": "These concern joint settlement centers, a joint investment platform and a common platform for settlements in national currencies, Dmitry Peskov said",
-      "title_raw": "Key payment provisions sought by Russia included in BRICS declaration — Kremlin",
-      "lead_raw": "These concern joint settlement centers, a joint investment platform and a common platform for settlements in national currencies, Dmitry Peskov said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "1089834c31da8e6a5e606dc8a85a2f1807cfccda",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28107575",
-      "published_utc": "2026-09-13T06:48:10Z",
-      "title_en": "Путин призвал продолжать укреплять потенциал нового банка развития БРИКС",
-      "lead_en": "По линии банка уже профинансировано 123 проекта почти на $40 млрд, заявил российский лидер",
-      "title_raw": "Путин призвал продолжать укреплять потенциал нового банка развития БРИКС",
-      "lead_raw": "По линии банка уже профинансировано 123 проекта почти на $40 млрд, заявил российский лидер",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,

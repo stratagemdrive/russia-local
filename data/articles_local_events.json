@@ -1,9 +1,74 @@
 {
-  "updated_at_utc": "2026-09-15T05:52:41Z",
+  "updated_at_utc": "2026-09-15T11:11:31Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 10,
+  "count": 13,
   "articles": [
+    {
+      "id": "b3e0aa5c0a46f5107a429541ced7c42ac8b5bd32",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/09/15/denmark-summons-russian-ambassador-after-frigate-fires-flares-toward-military-helicopter-a93709",
+      "published_utc": "2026-09-15T08:48:27Z",
+      "title_en": "Denmark Summons Russian Ambassador After Frigate Fires Flares Toward Military Helicopter",
+      "lead_en": "A Russian frigate was said to have fired flares toward a Danish military helicopter in international waters, narrowly missing the aircraft.",
+      "title_raw": "Denmark Summons Russian Ambassador After Frigate Fires Flares Toward Military Helicopter",
+      "lead_raw": "A Russian frigate was said to have fired flares toward a Danish military helicopter in international waters, narrowly missing the aircraft.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "0404201ce03089e6b67de99d4ad0f3cde8cf3952",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/09/15/ukrainian-military-strikes-ozon-warehouse-and-oil-refinery-in-russia",
+      "published_utc": "2026-09-15T07:21:54Z",
+      "title_en": "Ukrainian military strikes Ozon warehouse and oil refinery in Russia",
+      "lead_en": "Ukrainian drones and missiles struck Taganrog overnight on September 15, damaging a warehouse belonging to the marketplace Ozon along with several residential buildings, stores, and administrative buildings, Rostov Governor Yuri Slyusar said. No one was injured, according to the governor.",
+      "title_raw": "Ukrainian military strikes Ozon warehouse and oil refinery in Russia",
+      "lead_raw": "Ukrainian drones and missiles struck Taganrog overnight on September 15, damaging a warehouse belonging to the marketplace Ozon along with several residential buildings, stores, and administrative buildings, Rostov Governor Yuri Slyusar said. No one was injured, according to the governor.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "5f33b7e58b5b87ba0ea0f73115cedcb8fd74da4d",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/09/15/ukraine-wants-homegrown-missiles-capable-of-striking-deep-inside-russia-including-moscow-but-its-existing-flamingos-show-how-hard-mass-production-can-be",
+      "published_utc": "2026-09-15T06:18:41Z",
+      "title_en": "Ukraine wants homegrown missiles capable of striking deep inside Russia, including Moscow, but its existing ‘Flamingos’ show how hard mass production can be",
+      "lead_en": "On September 11, Fire Point, Ukraine’s leading manufacturer of long-range strike weapons, said it was ready to supply the military with the FP-7 short-range ballistic missile. The FP-7 is intended to replace — or supplement — the well-known ATACMS.",
+      "title_raw": "Ukraine wants homegrown missiles capable of striking deep inside Russia, including Moscow, but its existing ‘Flamingos’ show how hard mass production can be",
+      "lead_raw": "On September 11, Fire Point, Ukraine’s leading manufacturer of long-range strike weapons, said it was ready to supply the military with the FP-7 short-range ballistic missile. The FP-7 is intended to replace — or supplement — the well-known ATACMS.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "7cbfbd92632c4ee192c3ccb04b00adc127992cde",
       "source": "TASS (RU)",
