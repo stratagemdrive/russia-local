@@ -1,9 +1,70 @@
 {
-  "updated_at_utc": "2026-09-15T11:11:31Z",
+  "updated_at_utc": "2026-09-15T16:22:21Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 13,
+  "count": 15,
   "articles": [
+    {
+      "id": "71af0f15b7e35f7d27a1053e895a1b540f757409",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/09/15/trump-claimed-that-russia-and-ukraine-had-agreed-to-an-energy-truce-neither-side-stopped-the-strikes",
+      "published_utc": "2026-09-15T15:32:37Z",
+      "title_en": "Trump claimed that Russia and Ukraine had agreed to an energy truce. Neither side stopped the strikes.",
+      "lead_en": "Russia and Ukraine kept trading strikes just hours after U.S. President Donald Trump claimed the two countries had agreed to an energy ceasefire.",
+      "title_raw": "Trump claimed that Russia and Ukraine had agreed to an energy truce. Neither side stopped the strikes.",
+      "lead_raw": "Russia and Ukraine kept trading strikes just hours after U.S. President Donald Trump claimed the two countries had agreed to an energy ceasefire.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "6384c6c82bfc84c19931112e5b07988236d6e40d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28114603",
+      "published_utc": "2026-09-15T14:48:08Z",
+      "title_en": "ТАСС: арестованного из-за взрыва склада под Киевом сотрудника СБУ выпустили под залог",
+      "lead_en": "Речь идет о складах в населенном пункте Милая Киевской области, уточнили в российских силовых структурах",
+      "title_raw": "ТАСС: арестованного из-за взрыва склада под Киевом сотрудника СБУ выпустили под залог",
+      "lead_raw": "Речь идет о складах в населенном пункте Милая Киевской области, уточнили в российских силовых структурах",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "1e5458410a05efd5025348afc4bfde5e2b0c1775",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/09/15/kremlin-calls-energy-truce-a-very-good-idea-but-says-it-won-t-solve-the-world-s-problems",
+      "published_utc": "2026-09-15T12:13:18Z",
+      "title_en": "Kremlin calls energy truce ‘a very good idea’ but says it ‘won’t solve the world’s problems’",
+      "lead_en": "Russian officials are calling the energy ceasefire proposed by the U.S. president — a mutual pledge by Russia and Ukraine to stop striking each other’s energy infrastructure — “a very good idea,” Kremlin spokesperson Dmitry Peskov told reporters.",
+      "title_raw": "Kremlin calls energy truce ‘a very good idea’ but says it ‘won’t solve the world’s problems’",
+      "lead_raw": "Russian officials are calling the energy ceasefire proposed by the U.S. president — a mutual pledge by Russia and Ukraine to stop striking each other’s energy infrastructure — “a very good idea,” Kremlin spokesperson Dmitry Peskov told reporters.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "b3e0aa5c0a46f5107a429541ced7c42ac8b5bd32",
       "source": "The Moscow Times",
@@ -250,27 +311,6 @@
         "energy": 0,
         "economy": 0,
         "local_events": 4
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "df5249a58703b55f414300800f1273a74ae43cea",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/28108345",
-      "published_utc": "2026-09-13T14:13:45Z",
-      "title_en": "Погибших в ущелье Безенги альпинистов искали более 70 человек",
-      "lead_en": "В Эльбрусском высокогорном поисково-спасательном отряде МЧС России уточнили, что после обнаружения тела последнего, 17-го, альпиниста группировки возвращаются в места постоянной дислокации",
-      "title_raw": "Погибших в ущелье Безенги альпинистов искали более 70 человек",
-      "lead_raw": "В Эльбрусском высокогорном поисково-спасательном отряде МЧС России уточнили, что после обнаружения тела последнего, 17-го, альпиниста группировки возвращаются в места постоянной дислокации",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
       },
       "topics": [
         "local_events"
