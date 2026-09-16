@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-09-16T09:06:19Z",
+  "updated_at_utc": "2026-09-16T14:37:39Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 17,
   "articles": [
+    {
+      "id": "f82b33209d465cd89b144da98e596c70ef66d526",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/09/16/russian-general-who-briefed-putin-on-capture-of-kostiantynivka-killed-in-ukraine",
+      "published_utc": "2026-09-16T11:24:14Z",
+      "title_en": "Russian general who briefed Putin on capture of Kostiantynivka killed in Ukraine",
+      "lead_en": "Russian Major General Anton Grunis, commander of the 4th Motorized Rifle Brigade of the Southern Group of Forces, has been killed, Lieutenant General Apti Alaudinov confirmed after Ukrainian and Russian sources had already reported his death. Alaudinov is deputy head of the Main Military-Political Directorate of Russia’s Armed Forces and commander of the Akhmat unit.",
+      "title_raw": "Russian general who briefed Putin on capture of Kostiantynivka killed in Ukraine",
+      "lead_raw": "Russian Major General Anton Grunis, commander of the 4th Motorized Rifle Brigade of the Southern Group of Forces, has been killed, Lieutenant General Apti Alaudinov confirmed after Ukrainian and Russian sources had already reported his death. Alaudinov is deputy head of the Main Military-Political Directorate of Russia’s Armed Forces and commander of the Akhmat unit.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "1788e12fd2fe5df860738cf62369d3045edfb23e",
       "source": "Meduza (EN)",
@@ -332,27 +353,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "9c27994cfe5471ffc20b0930e917e8b1a682ab88",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28110427",
-      "published_utc": "2026-09-14T11:11:19Z",
-      "title_en": "Китай прокомментировал учения пограничников с Россией и Монголией",
-      "lead_en": "Представитель оборонного ведомства Цзян Бинь указал, что такое взаимодействие \"позволяет еще больше повысить способность совместного реагирования на чрезвычайные ситуации\"",
-      "title_raw": "Китай прокомментировал учения пограничников с Россией и Монголией",
-      "lead_raw": "Представитель оборонного ведомства Цзян Бинь указал, что такое взаимодействие \"позволяет еще больше повысить способность совместного реагирования на чрезвычайные ситуации\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
