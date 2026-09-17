@@ -1,9 +1,75 @@
 {
-  "updated_at_utc": "2026-09-17T00:08:04Z",
+  "updated_at_utc": "2026-09-17T05:47:23Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 51,
+  "count": 53,
   "articles": [
+    {
+      "id": "1c1db5415c13ab21fd3c03095e54121665ce6579",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2188769",
+      "published_utc": "2026-09-17T05:15:00Z",
+      "title_en": "India to take necessary measures following US adoption of Russia-Iran sanctions act — MFA",
+      "lead_en": "According to the statement, India remains firmly committed to ensuring energy security",
+      "title_raw": "India to take necessary measures following US adoption of Russia-Iran sanctions act — MFA",
+      "lead_raw": "According to the statement, India remains firmly committed to ensuring energy security",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "bcb9bfb0018cbd108ebac9656bcbda4b8e9693c9",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28119657",
+      "published_utc": "2026-09-17T05:10:55Z",
+      "title_en": "ВС РФ ударили по предприятиям металлургической промышленности Украины",
+      "lead_en": "Также были поражены объекты энергетической и транспортной инфраструктуры в Киеве, Запорожье и Одесской области, отметили в Минобороны России",
+      "title_raw": "ВС РФ ударили по предприятиям металлургической промышленности Украины",
+      "lead_raw": "Также были поражены объекты энергетической и транспортной инфраструктуры в Киеве, Запорожье и Одесской области, отметили в Минобороны России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "ab0296c363025de8b65f664791a20a5ac1588660",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28119545",
+      "published_utc": "2026-09-17T04:33:21Z",
+      "title_en": "Ульянов обвинил чиновников ЕС в обмане населения по поводу российского газа",
+      "lead_en": "Представитель России при международных организациях в Вене, комментируя высказывание Урсулы фон дер Ляйен о том, что именно Москва якобы прекратила поставки газа в Евросоюз, подчеркнул, что \"в риторике и умах чиновников ЕС все вверх дном\"",
+      "title_raw": "Ульянов обвинил чиновников ЕС в обмане населения по поводу российского газа",
+      "lead_raw": "Представитель России при международных организациях в Вене, комментируя высказывание Урсулы фон дер Ляйен о том, что именно Москва якобы прекратила поставки газа в Евросоюз, подчеркнул, что \"в риторике и умах чиновников ЕС все вверх дном\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "d8a2a079b671a257ddf4655332d887b93b5e4076",
       "source": "RT",
@@ -1065,28 +1131,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "ab7a974eed1b8ed8fcc5905b58ce1868909ed3b6",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28112311",
-      "published_utc": "2026-09-15T05:11:14Z",
-      "title_en": "Посол Вершинин: АЭС \"Аккую\" выведет Турцию на новый технологический уровень",
-      "lead_en": "Российский дипломат отметил, что сейчас главной задачей является обеспечение запуска первого энергоблока до конца 2026 года",
-      "title_raw": "Посол Вершинин: АЭС \"Аккую\" выведет Турцию на новый технологический уровень",
-      "lead_raw": "Российский дипломат отметил, что сейчас главной задачей является обеспечение запуска первого энергоблока до конца 2026 года",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
