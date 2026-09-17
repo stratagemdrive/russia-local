@@ -1,9 +1,116 @@
 {
-  "updated_at_utc": "2026-09-17T11:03:35Z",
+  "updated_at_utc": "2026-09-17T16:20:45Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 54,
+  "count": 44,
   "articles": [
+    {
+      "id": "d1d890aa9e6afb5fbb7d07048f950fa037d4e8c0",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2189145",
+      "published_utc": "2026-09-17T15:18:39Z",
+      "title_en": "Bank of Russia raises dollar exchange rate to 84.5 rubles for September 18",
+      "lead_en": "The official euro exchange rate has been raised by 37.09 kopecks to 97.4984 rubles",
+      "title_raw": "Bank of Russia raises dollar exchange rate to 84.5 rubles for September 18",
+      "lead_raw": "The official euro exchange rate has been raised by 37.09 kopecks to 97.4984 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "d35a4da90c551535b19ee43f302331415dc9825f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28122211",
+      "published_utc": "2026-09-17T14:57:37Z",
+      "title_en": "Образовательные IT-проекты \"Газпром нефти\" признали лучшими в промышленности",
+      "lead_en": "Компания развивает два направления - всероссийские IТ-игры и IТ-чемпионат нефтяной отрасли",
+      "title_raw": "Образовательные IT-проекты \"Газпром нефти\" признали лучшими в промышленности",
+      "lead_raw": "Компания развивает два направления - всероссийские IТ-игры и IТ-чемпионат нефтяной отрасли",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "b8f78f410349ca2fec71d367546aef54be0e1310",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/09/17/russia-upgraded-the-system-that-tabulates-its-election-results-experts-found-vulnerabilities-that-could-be-exploited-to-manipulate-the-vote",
+      "published_utc": "2026-09-17T14:27:12Z",
+      "title_en": "Russia upgraded the system that tabulates its election results. Experts found vulnerabilities that could be exploited to manipulate the vote.",
+      "lead_en": "Hackers have breached Tsifrotek, the company behind GAS Vybory 2.0, Russia’s upgraded vote-tabulation system, which is being used in a federal election for the first time this year. The hackers gave the files to the investigative outlet iStories, which analyzed them with the help of technical and election experts.",
+      "title_raw": "Russia upgraded the system that tabulates its election results. Experts found vulnerabilities that could be exploited to manipulate the vote.",
+      "lead_raw": "Hackers have breached Tsifrotek, the company behind GAS Vybory 2.0, Russia’s upgraded vote-tabulation system, which is being used in a federal election for the first time this year. The hackers gave the files to the investigative outlet iStories, which analyzed them with the help of technical and election experts.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "7356dbcea14f76382ec3f0887a87f6d3a5f1d9b7",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2189101",
+      "published_utc": "2026-09-17T14:13:05Z",
+      "title_en": "Russia’s electricity exports down slightly in eight months of this year",
+      "lead_en": "Inter RAO increased exports by 4% to 3.2 bln kWh and reduced electricity imports by 5.3% to 1.2 bln kWh in the first half of the year",
+      "title_raw": "Russia’s electricity exports down slightly in eight months of this year",
+      "lead_raw": "Inter RAO increased exports by 4% to 3.2 bln kWh and reduced electricity imports by 5.3% to 1.2 bln kWh in the first half of the year",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "0445bcd5fbcc2bcf3b484d5d45e01706d2cbd2dc",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2188981",
+      "published_utc": "2026-09-17T11:21:20Z",
+      "title_en": "Kremlin comments on US 'sanctions from hell,' their impact on Ukrainian settlement",
+      "lead_en": "The Kremlin is monitoring how the situation around the bill passed by the House of Representatives on US \"sanctions from hell\" on Russian oil and gas exports last night will unfold",
+      "title_raw": "Kremlin comments on US 'sanctions from hell,' their impact on Ukrainian settlement",
+      "lead_raw": "The Kremlin is monitoring how the situation around the bill passed by the House of Representatives on US \"sanctions from hell\" on Russian oil and gas exports last night will unfold",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "7a9bc7c48ace16cdd6002d7f4d0dbb7c3f8ea867",
       "source": "Meduza (EN)",
@@ -826,325 +933,6 @@
       "lead_en": "Sergey Tsivilyov commented on the situation in the Strait of Hormuz",
       "title_raw": "Mideast facing worst energy logistics crisis in modern history — Russian Energy Minister",
       "lead_raw": "Sergey Tsivilyov commented on the situation in the Strait of Hormuz",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "527b8640d5e2a3eb586dda4dd82104aced56d76a",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2188025",
-      "published_utc": "2026-09-15T15:47:54Z",
-      "title_en": "Trade, tech curbs only worsen global energy imbalances — Russian Energy Minister",
-      "lead_en": "Sergey Tsivilyov commented on Moscow's key proposals for the G20 ministerial energy meeting in Houston, Texas, which runs through September 16",
-      "title_raw": "Trade, tech curbs only worsen global energy imbalances — Russian Energy Minister",
-      "lead_raw": "Sergey Tsivilyov commented on Moscow's key proposals for the G20 ministerial energy meeting in Houston, Texas, which runs through September 16",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "71af0f15b7e35f7d27a1053e895a1b540f757409",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/09/15/trump-claimed-that-russia-and-ukraine-had-agreed-to-an-energy-truce-neither-side-stopped-the-strikes",
-      "published_utc": "2026-09-15T15:32:37Z",
-      "title_en": "Trump claimed that Russia and Ukraine had agreed to an energy truce. Neither side stopped the strikes.",
-      "lead_en": "Russia and Ukraine kept trading strikes just hours after U.S. President Donald Trump claimed the two countries had agreed to an energy ceasefire.",
-      "title_raw": "Trump claimed that Russia and Ukraine had agreed to an energy truce. Neither side stopped the strikes.",
-      "lead_raw": "Russia and Ukraine kept trading strikes just hours after U.S. President Donald Trump claimed the two countries had agreed to an energy ceasefire.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "965f25569461f7026681332d392604070356cbf6",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28114697",
-      "published_utc": "2026-09-15T15:27:05Z",
-      "title_en": "Идея энергетического перемирия, помощь Киеву и база в Гюмри. Заявления МИД РФ",
-      "lead_en": "Любые места, из которых исходит военная угроза для России, являются для нее законными военными целями, заявила официальный представитель ведомства Мария Захарова",
-      "title_raw": "Идея энергетического перемирия, помощь Киеву и база в Гюмри. Заявления МИД РФ",
-      "lead_raw": "Любые места, из которых исходит военная угроза для России, являются для нее законными военными целями, заявила официальный представитель ведомства Мария Захарова",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "0c078ac8008e9ec5fe443adde08154980dfbc35e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2188001",
-      "published_utc": "2026-09-15T14:57:52Z",
-      "title_en": "Europe unlikely to go back to being Russia's top gas buyer — expert",
-      "lead_en": "The European market will remain large and attractive for Russia, Ilya Grashchenkov noted",
-      "title_raw": "Europe unlikely to go back to being Russia's top gas buyer — expert",
-      "lead_raw": "The European market will remain large and attractive for Russia, Ilya Grashchenkov noted",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "ce0c8abcc53502e8969de974b424902c1f9da0fe",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28114577",
-      "published_utc": "2026-09-15T14:41:52Z",
-      "title_en": "Цивилев: страны сами должны определять структуру энергопотребления",
-      "lead_en": "Позиция России заключается в уважении суверенного права каждой страны определять свой путь развития и структуру энергопотребления, отметил министр энергетики",
-      "title_raw": "Цивилев: страны сами должны определять структуру энергопотребления",
-      "lead_raw": "Позиция России заключается в уважении суверенного права каждой страны определять свой путь развития и структуру энергопотребления, отметил министр энергетики",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "d22c2e84b56f12f28152756a340ebc41fd9807a3",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2187989",
-      "published_utc": "2026-09-15T14:30:50Z",
-      "title_en": "Bank of Russia lowers dollar exchange rate to 84.24 rubles for September 16",
-      "lead_en": "The official euro exchange rate has been lowered by 46.14 kopecks to 97.3012 rubles",
-      "title_raw": "Bank of Russia lowers dollar exchange rate to 84.24 rubles for September 16",
-      "lead_raw": "The official euro exchange rate has been lowered by 46.14 kopecks to 97.3012 rubles",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "48268ac77ce2d94ce0f9c174de10b1cdbc2d369f",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2187949",
-      "published_utc": "2026-09-15T13:28:49Z",
-      "title_en": "Hungary’s purchases of Russian pipeline gas fall 12% in January-July",
-      "lead_en": "The European Union imported Russian pipeline gas worth 512 mln euro in July",
-      "title_raw": "Hungary’s purchases of Russian pipeline gas fall 12% in January-July",
-      "lead_raw": "The European Union imported Russian pipeline gas worth 512 mln euro in July",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "9019d81d2dc446159cc5126e806341097482a82a",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2187945",
-      "published_utc": "2026-09-15T13:16:31Z",
-      "title_en": "Russia second-largest supplier of LNG to EU by value after US in July",
-      "lead_en": "The EU purchased LNG from Russia worth around 607 mln euro in the reporting period, a year-on-year decrease of 12%",
-      "title_raw": "Russia second-largest supplier of LNG to EU by value after US in July",
-      "lead_raw": "The EU purchased LNG from Russia worth around 607 mln euro in the reporting period, a year-on-year decrease of 12%",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "41660b3a00481d592f56f02d1d44a10d2c8bea0f",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2187941",
-      "published_utc": "2026-09-15T13:15:56Z",
-      "title_en": "EU’s purchases of Russian pipeline gas, LNG fall 2.6% in January-July",
-      "lead_en": "In July, EU countries paid 607 mln euro for LNG from Russia",
-      "title_raw": "EU’s purchases of Russian pipeline gas, LNG fall 2.6% in January-July",
-      "lead_raw": "In July, EU countries paid 607 mln euro for LNG from Russia",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "fc40f1fb2a20de60d92dbc1797f765002f491cbd",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2187935",
-      "published_utc": "2026-09-15T13:08:21Z",
-      "title_en": "Russia drops to fourth place in terms of share of total value of gas imports to EU in July",
-      "lead_en": "In total, the European Union purchased 1.1 bln euros worth of gas from Russia in July",
-      "title_raw": "Russia drops to fourth place in terms of share of total value of gas imports to EU in July",
-      "lead_raw": "In total, the European Union purchased 1.1 bln euros worth of gas from Russia in July",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "ac59be4181c2aac9dc6c6b01b4e7f8c327bfecfc",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2187917",
-      "published_utc": "2026-09-15T12:40:43Z",
-      "title_en": "Kremlin briefing touches on Ukrainian attempt to strike energy site, Trump’s truce idea",
-      "lead_en": "It is possible to discuss the resumption of Russian gas supplies to Europe only if they are beneficial for the country, Dmitry Peskov said",
-      "title_raw": "Kremlin briefing touches on Ukrainian attempt to strike energy site, Trump’s truce idea",
-      "lead_raw": "It is possible to discuss the resumption of Russian gas supplies to Europe only if they are beneficial for the country, Dmitry Peskov said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "1e5458410a05efd5025348afc4bfde5e2b0c1775",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/09/15/kremlin-calls-energy-truce-a-very-good-idea-but-says-it-won-t-solve-the-world-s-problems",
-      "published_utc": "2026-09-15T12:13:18Z",
-      "title_en": "Kremlin calls energy truce ‘a very good idea’ but says it ‘won’t solve the world’s problems’",
-      "lead_en": "Russian officials are calling the energy ceasefire proposed by the U.S. president — a mutual pledge by Russia and Ukraine to stop striking each other’s energy infrastructure — “a very good idea,” Kremlin spokesperson Dmitry Peskov told reporters.",
-      "title_raw": "Kremlin calls energy truce ‘a very good idea’ but says it ‘won’t solve the world’s problems’",
-      "lead_raw": "Russian officials are calling the energy ceasefire proposed by the U.S. president — a mutual pledge by Russia and Ukraine to stop striking each other’s energy infrastructure — “a very good idea,” Kremlin spokesperson Dmitry Peskov told reporters.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "970559c368165ec1445b0b1bbb5b40609f301c6b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2187907",
-      "published_utc": "2026-09-15T12:03:23Z",
-      "title_en": "Only Russian gas purchases can save Europe from new price records — expert",
-      "lead_en": "According to data from London’s ICE exchange, during trading on September 14, the price of gas in Europe exceeded $1,000 per 1,000 cubic meters for the first time since December 2022",
-      "title_raw": "Only Russian gas purchases can save Europe from new price records — expert",
-      "lead_raw": "According to data from London’s ICE exchange, during trading on September 14, the price of gas in Europe exceeded $1,000 per 1,000 cubic meters for the first time since December 2022",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "0b0f9213dff73348bf50d6f022f0035880c8a75e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2187889",
-      "published_utc": "2026-09-15T11:39:35Z",
-      "title_en": "Russia expects Grossi to condemn Kiev’s attacks on Zaporozhye NPP",
-      "lead_en": "On September 11, the Ukrainian armed forces carried out a series of combined strikes on fuel trucks transporting diesel fuel intended to power the Zaporozhye NPP’s backup diesel generators",
-      "title_raw": "Russia expects Grossi to condemn Kiev’s attacks on Zaporozhye NPP",
-      "lead_raw": "On September 11, the Ukrainian armed forces carried out a series of combined strikes on fuel trucks transporting diesel fuel intended to power the Zaporozhye NPP’s backup diesel generators",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "2bd106b00175c64ad5ff7ce4d018261cc3daa6eb",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/09/15/reuters-three-of-russia-s-largest-oil-refineries-cut-diesel-output-after-ukrainian-strikes",
-      "published_utc": "2026-09-15T11:25:32Z",
-      "title_en": "Reuters: three of Russia’s largest oil refineries cut diesel output after Ukrainian strikes",
-      "lead_en": "Three of Russia’s six largest diesel-producing oil refineries significantly cut or completely halted output in September after Ukrainian drone strikes damaged their facilities.",
-      "title_raw": "Reuters: three of Russia’s largest oil refineries cut diesel output after Ukrainian strikes",
-      "lead_raw": "Three of Russia’s six largest diesel-producing oil refineries significantly cut or completely halted output in September after Ukrainian drone strikes damaged their facilities.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
