@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-09-18T20:28:17Z",
+  "updated_at_utc": "2026-09-18T23:02:00Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 13,
   "articles": [
+    {
+      "id": "d2d29ba7e9cec49e3ee345724179f075f4542d69",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2189981",
+      "published_utc": "2026-09-18T21:00:18Z",
+      "title_en": "Egyptian captain killed in strike on port in Russia — Egyptian Foreign Ministry",
+      "lead_en": "No exact location or other details were provided",
+      "title_raw": "Egyptian captain killed in strike on port in Russia — Egyptian Foreign Ministry",
+      "lead_raw": "No exact location or other details were provided",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "b449ca8b98a4f9be69f47edf5cf7a55a3c91c54f",
       "source": "TASS (EN)",
@@ -256,27 +277,6 @@
         "local_events"
       ],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "b85de5c640ff55db464dbe147d565e46ddfc373e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2188705",
-      "published_utc": "2026-09-16T22:21:53Z",
-      "title_en": "Two Moscow-bound drones taken down by Russian air defenses",
-      "lead_en": "First responders are working in the area where fragments crashed, Mayor Sergey Sobyanin said",
-      "title_raw": "Two Moscow-bound drones taken down by Russian air defenses",
-      "lead_raw": "First responders are working in the area where fragments crashed, Mayor Sergey Sobyanin said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
