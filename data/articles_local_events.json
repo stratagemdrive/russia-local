@@ -1,9 +1,52 @@
 {
-  "updated_at_utc": "2026-09-18T03:25:27Z",
+  "updated_at_utc": "2026-09-18T08:47:43Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 14,
+  "count": 13,
   "articles": [
+    {
+      "id": "fc8da6622d43e4d4c061a09e54857fc95f71d8e7",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/09/18/poland-s-prime-minister-says-russia-is-preparing-accidental-drone-and-missile-strikes-on-nato-countries-that-support-ukraine",
+      "published_utc": "2026-09-18T08:33:46Z",
+      "title_en": "Poland’s prime minister says Russia is preparing ‘accidental’ drone and missile strikes on NATO countries that support Ukraine",
+      "lead_en": "Polish Prime Minister Donald Tusk told parliament that Russia is planning “hybrid” strikes using missiles and drones against countries that support Ukraine.",
+      "title_raw": "Poland’s prime minister says Russia is preparing ‘accidental’ drone and missile strikes on NATO countries that support Ukraine",
+      "lead_raw": "Polish Prime Minister Donald Tusk told parliament that Russia is planning “hybrid” strikes using missiles and drones against countries that support Ukraine.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "0d00f045985b75fb0d0bf628ed87d53a42b58da4",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28124387",
+      "published_utc": "2026-09-18T07:57:38Z",
+      "title_en": "Посол РФ отметил взаимодействие России и Турции в тушении лесных пожаров",
+      "lead_en": "Сергей Вершинин указал на высокопрофессиональную работу спасателей",
+      "title_raw": "Посол РФ отметил взаимодействие России и Турции в тушении лесных пожаров",
+      "lead_raw": "Сергей Вершинин указал на высокопрофессиональную работу спасателей",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "diplomacy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "be148f7593f3ee5ec41d3b62f696534b7fbf5488",
       "source": "TASS (RU)",
@@ -233,67 +276,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "1788e12fd2fe5df860738cf62369d3045edfb23e",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/09/16/russian-drone-strikes-bus-in-ukraine-s-dnipropetrovsk-region-killing-5",
-      "published_utc": "2026-09-16T08:12:10Z",
-      "title_en": "Russian drone strikes bus in Ukraine’s Dnipropetrovsk region, killing 5",
-      "lead_en": "A Russian drone strike on a passenger bus in Ukraine’s Dnipropetrovsk region killed five people and injured seven others, Governor Oleksandr Hanzha said.",
-      "title_raw": "Russian drone strikes bus in Ukraine’s Dnipropetrovsk region, killing 5",
-      "lead_raw": "A Russian drone strike on a passenger bus in Ukraine’s Dnipropetrovsk region killed five people and injured seven others, Governor Oleksandr Hanzha said.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "bb71241b7bce200c31035c22ba255a7a35ddc88e",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/09/16/state-of-emergency-declared-in-russian-arctic-village-after-200-ton-diesel-spill-reaches-the-sea",
-      "published_utc": "2026-09-16T07:55:07Z",
-      "title_en": "State of emergency declared in Russian Arctic village after 200-ton diesel spill reaches the sea",
-      "lead_en": "Authorities have declared a regional state of emergency in Taymyr after a diesel fuel spill in the settlement of Syndassko, the Krasnoyarsk Krai government reported.",
-      "title_raw": "State of emergency declared in Russian Arctic village after 200-ton diesel spill reaches the sea",
-      "lead_raw": "Authorities have declared a regional state of emergency in Taymyr after a diesel fuel spill in the settlement of Syndassko, the Krasnoyarsk Krai government reported.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "7fb5f32a205343a0ae8fb6eccdd29154e7725156",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/09/16/russian-forces-strike-kyiv-setting-warehouse-on-fire-and-injuring-one",
-      "published_utc": "2026-09-16T07:37:26Z",
-      "title_en": "Russian forces strike Kyiv, setting warehouse on fire and injuring one",
-      "lead_en": "Russian forces struck Kyiv with jet-propelled drones overnight on September 16, Ukrainska Pravda reported. In Kyiv’s Sviatoshynskyi District, a warehouse caught fire after “drone debris” fell, injuring one person, local authorities said.",
-      "title_raw": "Russian forces strike Kyiv, setting warehouse on fire and injuring one",
-      "lead_raw": "Russian forces struck Kyiv with jet-propelled drones overnight on September 16, Ukrainska Pravda reported. In Kyiv’s Sviatoshynskyi District, a warehouse caught fire after “drone debris” fell, injuring one person, local authorities said.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
