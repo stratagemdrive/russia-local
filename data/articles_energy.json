@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-09-19T12:53:38Z",
+  "updated_at_utc": "2026-09-19T16:14:56Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 22,
+  "count": 19,
   "articles": [
+    {
+      "id": "e85ac73647d62ef55d7f920e29c09b62d778a3f3",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28129121",
+      "published_utc": "2026-09-19T14:37:19Z",
+      "title_en": "В Узбекистане более 100 россиян проголосовали на площадке АЭС",
+      "lead_en": "Они работают на стройплощадке возводимой Росатомом атомной электростанции",
+      "title_raw": "В Узбекистане более 100 россиян проголосовали на площадке АЭС",
+      "lead_raw": "Они работают на стройплощадке возводимой Росатомом атомной электростанции",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "0698a05027c7d2882246ecf45a0ca65aae13a470",
       "source": "TASS (EN)",
@@ -389,91 +410,6 @@
       },
       "topics": [
         "diplomacy",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "d1d890aa9e6afb5fbb7d07048f950fa037d4e8c0",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2189145",
-      "published_utc": "2026-09-17T15:18:39Z",
-      "title_en": "Bank of Russia raises dollar exchange rate to 84.5 rubles for September 18",
-      "lead_en": "The official euro exchange rate has been raised by 37.09 kopecks to 97.4984 rubles",
-      "title_raw": "Bank of Russia raises dollar exchange rate to 84.5 rubles for September 18",
-      "lead_raw": "The official euro exchange rate has been raised by 37.09 kopecks to 97.4984 rubles",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "d35a4da90c551535b19ee43f302331415dc9825f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28122211",
-      "published_utc": "2026-09-17T14:57:37Z",
-      "title_en": "Образовательные IT-проекты \"Газпром нефти\" признали лучшими в промышленности",
-      "lead_en": "Компания развивает два направления - всероссийские IТ-игры и IТ-чемпионат нефтяной отрасли",
-      "title_raw": "Образовательные IT-проекты \"Газпром нефти\" признали лучшими в промышленности",
-      "lead_raw": "Компания развивает два направления - всероссийские IТ-игры и IТ-чемпионат нефтяной отрасли",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "b8f78f410349ca2fec71d367546aef54be0e1310",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/09/17/russia-upgraded-the-system-that-tabulates-its-election-results-experts-found-vulnerabilities-that-could-be-exploited-to-manipulate-the-vote",
-      "published_utc": "2026-09-17T14:27:12Z",
-      "title_en": "Russia upgraded the system that tabulates its election results. Experts found vulnerabilities that could be exploited to manipulate the vote.",
-      "lead_en": "Hackers have breached Tsifrotek, the company behind GAS Vybory 2.0, Russia’s upgraded vote-tabulation system, which is being used in a federal election for the first time this year. The hackers gave the files to the investigative outlet iStories, which analyzed them with the help of technical and election experts.",
-      "title_raw": "Russia upgraded the system that tabulates its election results. Experts found vulnerabilities that could be exploited to manipulate the vote.",
-      "lead_raw": "Hackers have breached Tsifrotek, the company behind GAS Vybory 2.0, Russia’s upgraded vote-tabulation system, which is being used in a federal election for the first time this year. The hackers gave the files to the investigative outlet iStories, which analyzed them with the help of technical and election experts.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "7356dbcea14f76382ec3f0887a87f6d3a5f1d9b7",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2189101",
-      "published_utc": "2026-09-17T14:13:05Z",
-      "title_en": "Russia’s electricity exports down slightly in eight months of this year",
-      "lead_en": "Inter RAO increased exports by 4% to 3.2 bln kWh and reduced electricity imports by 5.3% to 1.2 bln kWh in the first half of the year",
-      "title_raw": "Russia’s electricity exports down slightly in eight months of this year",
-      "lead_raw": "Inter RAO increased exports by 4% to 3.2 bln kWh and reduced electricity imports by 5.3% to 1.2 bln kWh in the first half of the year",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
         "energy",
         "economy"
       ],

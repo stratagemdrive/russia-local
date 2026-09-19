@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-09-19T12:53:38Z",
+  "updated_at_utc": "2026-09-19T16:14:56Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 10,
+  "count": 9,
   "articles": [
+    {
+      "id": "72ffc1418623b9641acd9df2a4b65ca2ed5a6e95",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2190083",
+      "published_utc": "2026-09-19T14:18:30Z",
+      "title_en": "Germany artificially inflates crisis by accusing Russia of UAV accident — GFCN experts",
+      "lead_en": "They pointed out that the incident itself took place in early August, but official statements on this issue emerged on behalf of the German side only on September 1",
+      "title_raw": "Germany artificially inflates crisis by accusing Russia of UAV accident — GFCN experts",
+      "lead_raw": "They pointed out that the incident itself took place in early August, but official statements on this issue emerged on behalf of the German side only on September 1",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "e0177ef1badbe8ded2bae8fc221e8dca1df908bb",
       "source": "TASS (RU)",
@@ -171,48 +190,6 @@
         "local_events"
       ],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "52519df320972ffba054c026cc413562022215ec",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2189151",
-      "published_utc": "2026-09-17T15:27:36Z",
-      "title_en": "Russian Emergencies Ministry Il-76 crew honored in Serbia for fighting wildfires",
-      "lead_en": "It has made 65 sorties and dropped 130 loads of water totaling 2,730 metric tons",
-      "title_raw": "Russian Emergencies Ministry Il-76 crew honored in Serbia for fighting wildfires",
-      "lead_raw": "It has made 65 sorties and dropped 130 loads of water totaling 2,730 metric tons",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "b2cbab99b81f43932eafaae6f0632f507c8ecc73",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2189099",
-      "published_utc": "2026-09-17T14:11:50Z",
-      "title_en": "Kiev portrays killed fighters as allegedly civilian victims of Bucha events — Russia’s MFA",
-      "lead_en": "That was an absolute falsification, and now the Russian side already has irrefutable evidence, breaking it down into details, Maria Zakharova said",
-      "title_raw": "Kiev portrays killed fighters as allegedly civilian victims of Bucha events — Russia’s MFA",
-      "lead_raw": "That was an absolute falsification, and now the Russian side already has irrefutable evidence, breaking it down into details, Maria Zakharova said",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
