@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-09-19T16:14:56Z",
+  "updated_at_utc": "2026-09-19T19:10:26Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 19,
   "articles": [
+    {
+      "id": "ec71aa6143b7cd662fe3b4c849d74c792d8a695f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2190133",
+      "published_utc": "2026-09-19T18:59:39Z",
+      "title_en": "Dmitriev says Europe in largest energy crisis in history",
+      "lead_en": "Special Representative of Russian President for investment and economic cooperation with foreign countries, Chief Executive Officer of Russian Direct Investment Fund (RDIF) also gave a comment on reports of fuel supply disruptions in France",
+      "title_raw": "Dmitriev says Europe in largest energy crisis in history",
+      "lead_raw": "Special Representative of Russian President for investment and economic cooperation with foreign countries, Chief Executive Officer of Russian Direct Investment Fund (RDIF) also gave a comment on reports of fuel supply disruptions in France",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "e85ac73647d62ef55d7f920e29c09b62d778a3f3",
       "source": "TASS (RU)",
@@ -391,29 +413,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "965873e6bed6a2a7e1c8670f7aa64698beb1ea4e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2189259",
-      "published_utc": "2026-09-17T18:20:51Z",
-      "title_en": "Russia projects 2% budget deficit even under conservative oil price estimate — Putin",
-      "lead_en": "Opening a meeting on the economy, the head of state noted that this fiscal gap remains manageable under the current macroeconomic assumptions",
-      "title_raw": "Russia projects 2% budget deficit even under conservative oil price estimate — Putin",
-      "lead_raw": "Opening a meeting on the economy, the head of state noted that this fiscal gap remains manageable under the current macroeconomic assumptions",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 4,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
