@@ -1,9 +1,68 @@
 {
-  "updated_at_utc": "2026-09-20T05:45:16Z",
+  "updated_at_utc": "2026-09-20T10:43:15Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 8,
+  "count": 9,
   "articles": [
+    {
+      "id": "ca4364cb3e5facc65065e9432dd1c24820b9db47",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2190267",
+      "published_utc": "2026-09-20T08:37:19Z",
+      "title_en": "Two people killed in drone attack on bus in Kherson Region — CEC chairwoman",
+      "lead_en": "One of them is an election commission member, Chairwoman of Russia’s Central Election Commission Ella Pamfilova said",
+      "title_raw": "Two people killed in drone attack on bus in Kherson Region — CEC chairwoman",
+      "lead_raw": "One of them is an election commission member, Chairwoman of Russia’s Central Election Commission Ella Pamfilova said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "432eeb30506c86b82cc5892582980c2d14b7b73d",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/09/20/three-children-are-among-the-four-reportedly-killed-in-russia-s-latest-strikes-on-the-kyiv-region",
+      "published_utc": "2026-09-20T08:22:31Z",
+      "title_en": "Three children are among the four people reportedly killed in Russia’s latest strikes on the Kyiv region",
+      "lead_en": "Russian forces have been striking Ukraine’s Kyiv region for more than 24 hours, damaging 31 sites across five districts, said Tymur Tkachenko, the head of the region’s military administration.",
+      "title_raw": "Three children are among the four people reportedly killed in Russia’s latest strikes on the Kyiv region",
+      "lead_raw": "Russian forces have been striking Ukraine’s Kyiv region for more than 24 hours, damaging 31 sites across five districts, said Tymur Tkachenko, the head of the region’s military administration.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "f459ddc3526909089f3a39eb2d8f02a724fdea38",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2190239",
+      "published_utc": "2026-09-20T07:09:26Z",
+      "title_en": "Russian forces hit Fire Point warehouse storing drone components in Kiev Region",
+      "lead_en": "Russian forces carried out overnight strikes with unmanned aerial vehicles on logistics centers, warehouses and ports in Ukraine",
+      "title_raw": "Russian forces hit Fire Point warehouse storing drone components in Kiev Region",
+      "lead_raw": "Russian forces carried out overnight strikes with unmanned aerial vehicles on logistics centers, warehouses and ports in Ukraine",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "72ffc1418623b9641acd9df2a4b65ca2ed5a6e95",
       "source": "TASS (EN)",
@@ -114,49 +173,6 @@
       "lead_en": "Rodion Miroshnik noted that a district election commission head had been killed and another one injured in the Zaporozhye Region over the previous two days",
       "title_raw": "Kiev seeks to disrupt elections in frontline regions by attacking civilians — Russian MFA",
       "lead_raw": "Rodion Miroshnik noted that a district election commission head had been killed and another one injured in the Zaporozhye Region over the previous two days",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "diplomacy",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "fc8da6622d43e4d4c061a09e54857fc95f71d8e7",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/09/18/poland-s-prime-minister-says-russia-is-preparing-accidental-drone-and-missile-strikes-on-nato-countries-that-support-ukraine",
-      "published_utc": "2026-09-18T08:33:46Z",
-      "title_en": "Poland’s prime minister says Russia is preparing ‘accidental’ drone and missile strikes on NATO countries that support Ukraine",
-      "lead_en": "Polish Prime Minister Donald Tusk told parliament that Russia is planning “hybrid” strikes using missiles and drones against countries that support Ukraine.",
-      "title_raw": "Poland’s prime minister says Russia is preparing ‘accidental’ drone and missile strikes on NATO countries that support Ukraine",
-      "lead_raw": "Polish Prime Minister Donald Tusk told parliament that Russia is planning “hybrid” strikes using missiles and drones against countries that support Ukraine.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "0d00f045985b75fb0d0bf628ed87d53a42b58da4",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28124387",
-      "published_utc": "2026-09-18T07:57:38Z",
-      "title_en": "Посол РФ отметил взаимодействие России и Турции в тушении лесных пожаров",
-      "lead_en": "Сергей Вершинин указал на высокопрофессиональную работу спасателей",
-      "title_raw": "Посол РФ отметил взаимодействие России и Турции в тушении лесных пожаров",
-      "lead_raw": "Сергей Вершинин указал на высокопрофессиональную работу спасателей",
       "topic_scores": {
         "diplomacy": 1,
         "military": 0,
