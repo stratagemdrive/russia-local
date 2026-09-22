@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-09-22T03:32:35Z",
+  "updated_at_utc": "2026-09-22T09:03:14Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 17,
+  "count": 16,
   "articles": [
+    {
+      "id": "0edf0259eaaa9f4adfe9efe6106fe67887f306fa",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2190851",
+      "published_utc": "2026-09-22T05:29:12Z",
+      "title_en": "Oil production on Russian shelf to reach 23 mln tons this year — ministry",
+      "lead_en": "Gas production could total 53 bln cubic meters",
+      "title_raw": "Oil production on Russian shelf to reach 23 mln tons this year — ministry",
+      "lead_raw": "Gas production could total 53 bln cubic meters",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "5fa96a3baeb2db34ccdc4e4e5340d1a86909c38f",
       "source": "TASS (RU)",
@@ -321,48 +342,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "a0f6fa63158d3f1490fb56e19e3c67f8f9339645",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/09/20/2-dead-in-moscow-region-drones-hit-oil-refinery-in-russian-capital-a93753",
-      "published_utc": "2026-09-20T07:35:56Z",
-      "title_en": "2 Dead in Moscow Region, Drones Hit Oil Refinery in Russian Capital",
-      "lead_en": "Ukraine, Russia have continued attacks on each other's energy infrastructure despite an announcement by Trump on Monday that they had agreed to stop.",
-      "title_raw": "2 Dead in Moscow Region, Drones Hit Oil Refinery in Russian Capital",
-      "lead_raw": "Ukraine, Russia have continued attacks on each other's energy infrastructure despite an announcement by Trump on Monday that they had agreed to stop.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "33df75373f23ff35bb9775c417d9340d5cd6dd65",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2190217",
-      "published_utc": "2026-09-20T04:56:24Z",
-      "title_en": "Chinese imports of Russian LNG up 28.2%, of oil - up 18.1% in January-August",
-      "lead_en": "In value terms, supplies grew 13.2% and 33.3%, respectively",
-      "title_raw": "Chinese imports of Russian LNG up 28.2%, of oil - up 18.1% in January-August",
-      "lead_raw": "In value terms, supplies grew 13.2% and 33.3%, respectively",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }

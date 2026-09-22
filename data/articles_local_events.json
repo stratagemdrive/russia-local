@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-09-22T03:32:35Z",
+  "updated_at_utc": "2026-09-22T09:03:14Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 7,
+  "count": 6,
   "articles": [
+    {
+      "id": "8fe155f1ac5eb3bbb055be4b9a70226131f0c64c",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2190929",
+      "published_utc": "2026-09-22T08:15:09Z",
+      "title_en": "Damaged civilian facilities in Samara Region, 297 downed UAVs: Ukrainian attack aftermath",
+      "lead_en": "As a result of the Ukrainian attack, one civilian died and four others were injured in Russia’s southwestern Samara Region",
+      "title_raw": "Damaged civilian facilities in Samara Region, 297 downed UAVs: Ukrainian attack aftermath",
+      "lead_raw": "As a result of the Ukrainian attack, one civilian died and four others were injured in Russia’s southwestern Samara Region",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "ee284f4158bfba6a1e0b12af1eb4b3583bc9dc33",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/09/22/russia-strikes-four-ukrainian-cities-with-missiles-and-drones-regional-officials-say-three-people-were-killed-in-dnipro-and-one-may-be-trapped-under-rubble",
+      "published_utc": "2026-09-22T06:30:52Z",
+      "title_en": "Russia strikes four Ukrainian cities with missiles and drones. Regional officials say three people were killed in Dnipro, and one may be trapped under rubble.",
+      "lead_en": "Russian forces attacked Ukraine with missiles and drones overnight into September 22, hitting Kyiv, Dnipro, Kryvyi Rih, and Pavlohrad.",
+      "title_raw": "Russia strikes four Ukrainian cities with missiles and drones. Regional officials say three people were killed in Dnipro, and one may be trapped under rubble.",
+      "lead_raw": "Russian forces attacked Ukraine with missiles and drones overnight into September 22, hitting Kyiv, Dnipro, Kryvyi Rih, and Pavlohrad.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "8d904b3313a54b9cef8b535b5f65e726303937ef",
       "source": "TASS (RU)",
@@ -85,65 +125,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "ca4364cb3e5facc65065e9432dd1c24820b9db47",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2190267",
-      "published_utc": "2026-09-20T08:37:19Z",
-      "title_en": "Two people killed in drone attack on bus in Kherson Region — CEC chairwoman",
-      "lead_en": "One of them is an election commission member, Chairwoman of Russia’s Central Election Commission Ella Pamfilova said",
-      "title_raw": "Two people killed in drone attack on bus in Kherson Region — CEC chairwoman",
-      "lead_raw": "One of them is an election commission member, Chairwoman of Russia’s Central Election Commission Ella Pamfilova said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "432eeb30506c86b82cc5892582980c2d14b7b73d",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/09/20/three-children-are-among-the-four-reportedly-killed-in-russia-s-latest-strikes-on-the-kyiv-region",
-      "published_utc": "2026-09-20T08:22:31Z",
-      "title_en": "Three children are among the four people reportedly killed in Russia’s latest strikes on the Kyiv region",
-      "lead_en": "Russian forces have been striking Ukraine’s Kyiv region for more than 24 hours, damaging 31 sites across five districts, said Tymur Tkachenko, the head of the region’s military administration.",
-      "title_raw": "Three children are among the four people reportedly killed in Russia’s latest strikes on the Kyiv region",
-      "lead_raw": "Russian forces have been striking Ukraine’s Kyiv region for more than 24 hours, damaging 31 sites across five districts, said Tymur Tkachenko, the head of the region’s military administration.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "f459ddc3526909089f3a39eb2d8f02a724fdea38",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2190239",
-      "published_utc": "2026-09-20T07:09:26Z",
-      "title_en": "Russian forces hit Fire Point warehouse storing drone components in Kiev Region",
-      "lead_en": "Russian forces carried out overnight strikes with unmanned aerial vehicles on logistics centers, warehouses and ports in Ukraine",
-      "title_raw": "Russian forces hit Fire Point warehouse storing drone components in Kiev Region",
-      "lead_raw": "Russian forces carried out overnight strikes with unmanned aerial vehicles on logistics centers, warehouses and ports in Ukraine",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
