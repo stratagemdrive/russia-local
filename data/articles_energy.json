@@ -1,9 +1,52 @@
 {
-  "updated_at_utc": "2026-09-22T09:03:14Z",
+  "updated_at_utc": "2026-09-22T14:22:01Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 16,
   "articles": [
+    {
+      "id": "5f7d05ed59680ec7690d93cb937d78f429027bfe",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28139927",
+      "published_utc": "2026-09-22T13:58:18Z",
+      "title_en": "\"Газпром\" в 2025 году на четверть нарастил продажи СПГ в России",
+      "lead_en": "В завершающей стадии находится строительство второй очереди малотоннажного СПГ-комплекса КСПГ в Амурской области",
+      "title_raw": "\"Газпром\" в 2025 году на четверть нарастил продажи СПГ в России",
+      "lead_raw": "В завершающей стадии находится строительство второй очереди малотоннажного СПГ-комплекса КСПГ в Амурской области",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "392529b58680baa2ae157cb734a8cd1eb044dc77",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2191067",
+      "published_utc": "2026-09-22T10:37:11Z",
+      "title_en": "IN BRIEF: Military-industrial, energy, metallurgy facilities hit in strike by Russian army",
+      "lead_en": "The Russian Armed Forces launched a massive strike using precision land-, sea-, and air-based weapons, as well as unmanned aerial vehicles, against targets in Ukraine overnight, the Defense Ministry reported",
+      "title_raw": "IN BRIEF: Military-industrial, energy, metallurgy facilities hit in strike by Russian army",
+      "lead_raw": "The Russian Armed Forces launched a massive strike using precision land-, sea-, and air-based weapons, as well as unmanned aerial vehicles, against targets in Ukraine overnight, the Defense Ministry reported",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 4,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "0edf0259eaaa9f4adfe9efe6106fe67887f306fa",
       "source": "TASS (EN)",
@@ -299,49 +342,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "95b0f044a57e5ab7928a733c23d61da7f3bf1ee1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28131529",
-      "published_utc": "2026-09-20T14:07:42Z",
-      "title_en": "В \"Сербиягаз\" рассчитывают, что Россия продлит газовый контракт с Сербией",
-      "lead_en": "Директор госкомпании Душан Баятович выразил уверенность, что Москва не оставит республику без энергоресурсов",
-      "title_raw": "В \"Сербиягаз\" рассчитывают, что Россия продлит газовый контракт с Сербией",
-      "lead_raw": "Директор госкомпании Душан Баятович выразил уверенность, что Москва не оставит республику без энергоресурсов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "2764335cbd7093ee3ae6f744d082d591d1cb99a9",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28131449",
-      "published_utc": "2026-09-20T13:35:33Z",
-      "title_en": "Историк Ганзер считает, что Швейцарии стоит извиниться перед РФ за санкции",
-      "lead_en": "Глава независимого Швейцарского института исследований в области мира и энергетики назвал ограничения против России экономической войной стран коллективного Запада",
-      "title_raw": "Историк Ганзер считает, что Швейцарии стоит извиниться перед РФ за санкции",
-      "lead_raw": "Глава независимого Швейцарского института исследований в области мира и энергетики назвал ограничения против России экономической войной стран коллективного Запада",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
