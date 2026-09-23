@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-09-23T15:18:16Z",
+  "updated_at_utc": "2026-09-23T19:27:40Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 9,
   "articles": [
+    {
+      "id": "be51cd0d007b2c9895a49f7676083a66b940ee37",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28144331",
+      "published_utc": "2026-09-23T18:29:33Z",
+      "title_en": "Эксперт Ершов: домофоны могут стать доступным способом оповещения населения о ЧС",
+      "lead_en": "Устройство способно выполнять эти функции без прокладки дополнительных проводов, отметил гендиректор компании \"Российские сети вещания и оповещения\" Андрей Ершов",
+      "title_raw": "Эксперт Ершов: домофоны могут стать доступным способом оповещения населения о ЧС",
+      "lead_raw": "Устройство способно выполнять эти функции без прокладки дополнительных проводов, отметил гендиректор компании \"Российские сети вещания и оповещения\" Андрей Ершов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "c4267def35b556c856c67502bba6d50443485cd5",
       "source": "TASS (EN)",
@@ -165,27 +184,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "8d904b3313a54b9cef8b535b5f65e726303937ef",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/28136779",
-      "published_utc": "2026-09-21T15:53:21Z",
-      "title_en": "В Щелкове площадь пожара увеличилась до 8,5 тыс. кв. м",
-      "lead_en": "Об этом сообщили в МЧС России",
-      "title_raw": "В Щелкове площадь пожара увеличилась до 8,5 тыс. кв. м",
-      "lead_raw": "Об этом сообщили в МЧС России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
     }
   ]
 }
