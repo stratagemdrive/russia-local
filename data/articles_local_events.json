@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-09-22T21:47:40Z",
+  "updated_at_utc": "2026-09-23T10:51:35Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 8,
+  "count": 9,
   "articles": [
+    {
+      "id": "f6944bb2228e47f0713abb6b4e09138b2fa8bd8f",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/09/23/fire-at-power-plant-in-russia-s-far-east-disrupts-heating-to-nearby-communities",
+      "published_utc": "2026-09-23T08:27:11Z",
+      "title_en": "Fire at power plant in Russia’s Far East disrupts heating to nearby communities",
+      "lead_en": "A fire broke out September 22 at the Neryungri Power Plant in Yakutia, damaging a transformer substation for power unit No. 1 and a turbine in the machine room.",
+      "title_raw": "Fire at power plant in Russia’s Far East disrupts heating to nearby communities",
+      "lead_raw": "A fire broke out September 22 at the Neryungri Power Plant in Yakutia, damaging a transformer substation for power unit No. 1 and a turbine in the machine room.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "c1737339521c6c5c2c0236a2524d96f45d271785",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28141493",
+      "published_utc": "2026-09-23T03:31:01Z",
+      "title_en": "Офицер Карта: \"Север\" уничтожил более 110 складов с боекомплектом ВСУ в сентябре",
+      "lead_en": "Российские войска сбрасывали взрывчатку на полевые пункты противника, сообщил военнослужащий ВС РФ",
+      "title_raw": "Офицер Карта: \"Север\" уничтожил более 110 складов с боекомплектом ВСУ в сентябре",
+      "lead_raw": "Российские войска сбрасывали взрывчатку на полевые пункты противника, сообщил военнослужащий ВС РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "c6d881bbb3d422357b79979483f41db1df74de2a",
       "source": "TASS (RU)",
@@ -145,27 +185,6 @@
         "local_events": 1
       },
       "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "412320502f666317dbf9da6ee77bc23f41fb9fcf",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/28133301",
-      "published_utc": "2026-09-21T02:48:30Z",
-      "title_en": "На Камчатке в районе Тимоновских источников пропали два человека",
-      "lead_en": "Их ищут спасатели МЧС России",
-      "title_raw": "На Камчатке в районе Тимоновских источников пропали два человека",
-      "lead_raw": "Их ищут спасатели МЧС России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
       "primary_topic": "local_events"
     }
   ]

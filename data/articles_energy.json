@@ -1,9 +1,203 @@
 {
-  "updated_at_utc": "2026-09-22T21:47:40Z",
+  "updated_at_utc": "2026-09-23T10:51:35Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 20,
+  "count": 27,
   "articles": [
+    {
+      "id": "5dc2ac3b2741a9ffb4bf7d41909983e3f52d4e25",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2191587",
+      "published_utc": "2026-09-23T10:36:31Z",
+      "title_en": "Russian forces strike Ukraine’s logistics centers, energy facilities, defense enterprises",
+      "lead_en": "The Russian Armed Forces also hit a dry cargo ship carrying military supplies en route to the port of Odessa",
+      "title_raw": "Russian forces strike Ukraine’s logistics centers, energy facilities, defense enterprises",
+      "lead_raw": "The Russian Armed Forces also hit a dry cargo ship carrying military supplies en route to the port of Odessa",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "15b6622a11e9da6acd2fc12b7081699eca477005",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2191583",
+      "published_utc": "2026-09-23T10:32:52Z",
+      "title_en": "Russia’s coal production to gain 49% by 2050 to 662 mln tons",
+      "lead_en": "Domestic coal supplies are expected to rise from 179 mln tons in 2024 to 199.2 mln tons in 2030",
+      "title_raw": "Russia’s coal production to gain 49% by 2050 to 662 mln tons",
+      "lead_raw": "Domestic coal supplies are expected to rise from 179 mln tons in 2024 to 199.2 mln tons in 2030",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "d4c9fd4702a78876d2aac739f7b1496792854ce5",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2191581",
+      "published_utc": "2026-09-23T10:24:01Z",
+      "title_en": "Russia’s coal exports to gain 77% by 2050 to 350 mln tons",
+      "lead_en": "Coal imports to Russia are planned at 13 mln tons in 2030, and 12 mln tons each in 2036 and 2050 under the target scenario",
+      "title_raw": "Russia’s coal exports to gain 77% by 2050 to 350 mln tons",
+      "lead_raw": "Coal imports to Russia are planned at 13 mln tons in 2030, and 12 mln tons each in 2036 and 2050 under the target scenario",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "925fd433d0750ae5f57af7fce7f4cb16f6862225",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2191579",
+      "published_utc": "2026-09-23T10:18:13Z",
+      "title_en": "Russia’s share in global coal exports to grow from 13% to 27% by 2050",
+      "lead_en": "The contribution of the coal industry to Russia’s GDP in nominal prices may total $42.7 bln by 2050",
+      "title_raw": "Russia’s share in global coal exports to grow from 13% to 27% by 2050",
+      "lead_raw": "The contribution of the coal industry to Russia’s GDP in nominal prices may total $42.7 bln by 2050",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "45450594a3a893e681aed1cf543fdd96f3cd6861",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28142841",
+      "published_utc": "2026-09-23T09:59:36Z",
+      "title_en": "Руденко: РФ помогает Индии смягчить энергетические последствия атак США в Иране",
+      "lead_en": "Россия способствует укреплению энергобезопасности республики не только поставками нефти, но и сотрудничеством в сфере мирного атома, отметил замглавы российского МИД",
+      "title_raw": "Руденко: РФ помогает Индии смягчить энергетические последствия атак США в Иране",
+      "lead_raw": "Россия способствует укреплению энергобезопасности республики не только поставками нефти, но и сотрудничеством в сфере мирного атома, отметил замглавы российского МИД",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "95cdbf7208c3a178c561500e9e610302f3ed3e99",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28142805",
+      "published_utc": "2026-09-23T09:57:41Z",
+      "title_en": "В МИД РФ сообщили о продвижении новых проектов по экспорту газа в КНР",
+      "lead_en": "Замглавы российского дипведомства Андрей Руденко отметил, что между Москвой и Пекином сложилась прочная кооперация в энергетическом секторе",
+      "title_raw": "В МИД РФ сообщили о продвижении новых проектов по экспорту газа в КНР",
+      "lead_raw": "Замглавы российского дипведомства Андрей Руденко отметил, что между Москвой и Пекином сложилась прочная кооперация в энергетическом секторе",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "58b83cfa226cb8685072c36a1ae7026cfc2c37fb",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/09/23/russian-regions-slowly-reimpose-fuel-purchase-limits-amid-ongoing-refinery-attacks-a93773",
+      "published_utc": "2026-09-23T09:23:34Z",
+      "title_en": "Russian Regions Slowly Reimpose Fuel Purchase Limits Amid Ongoing Refinery Attacks",
+      "lead_en": "The new restrictions come after Ukraine struck major oil refineries in Moscow, Samara and Ufa over the past three days.",
+      "title_raw": "Russian Regions Slowly Reimpose Fuel Purchase Limits Amid Ongoing Refinery Attacks",
+      "lead_raw": "The new restrictions come after Ukraine struck major oil refineries in Moscow, Samara and Ufa over the past three days.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "153b8d4201f9dbdf0015ce1076bb1dcd071008f2",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/09/23/former-chelsea-co-owner-todd-boehly-seeks-to-buy-lukoil-s-foreign-assets",
+      "published_utc": "2026-09-23T08:42:06Z",
+      "title_en": "Former Chelsea co-owner Todd Boehly seeks to buy Lukoil’s foreign assets",
+      "lead_en": "American billionaire and financier Todd Boehly has assembled a consortium to buy the foreign assets of Lukoil, a Russian oil company that has come under U.S. sanctions, the Financial Times reported, citing sources.",
+      "title_raw": "Former Chelsea co-owner Todd Boehly seeks to buy Lukoil’s foreign assets",
+      "lead_raw": "American billionaire and financier Todd Boehly has assembled a consortium to buy the foreign assets of Lukoil, a Russian oil company that has come under U.S. sanctions, the Financial Times reported, citing sources.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "29f0cb25b2a5930fe5d9d0f67e6e1b7b349231ed",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2191361",
+      "published_utc": "2026-09-22T22:40:01Z",
+      "title_en": "Spain to reject Russian LNG despite its companies’ contracts — foreign minister",
+      "lead_en": "Spanish Foreign Minister Jose Manuel Albares noted that Madrid would comply with the relevant restrictions previously adopted by the European Union",
+      "title_raw": "Spain to reject Russian LNG despite its companies’ contracts — foreign minister",
+      "lead_raw": "Spanish Foreign Minister Jose Manuel Albares noted that Madrid would comply with the relevant restrictions previously adopted by the European Union",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "bb0bd88e3face7dbecdcfc6110ac91908d7b2491",
       "source": "TASS (RU)",
@@ -383,49 +577,6 @@
         "local_events": 0
       },
       "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e939de67571a457058ed84b0bfcb3a9bedb86d5a",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/pressreview/2190431",
-      "published_utc": "2026-09-21T10:00:01Z",
-      "title_en": "Press review: State Duma set to keep five parties while Europe faces record fuel prices",
-      "lead_en": "Top stories from the Russian press on Monday, September 21st",
-      "title_raw": "Press review: State Duma set to keep five parties while Europe faces record fuel prices",
-      "lead_raw": "Top stories from the Russian press on Monday, September 21st",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "7d1cb086b8c307e438e1e9aec71bed53b50d328f",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/09/21/germany-s-afd-held-talks-with-gazprom-ceo-on-resuming-russian-gas-supplies",
-      "published_utc": "2026-09-21T09:54:25Z",
-      "title_en": "Germany’s AfD held talks with Gazprom CEO on resuming Russian gas supplies",
-      "lead_en": "The far-right Alternative for Germany (AfD) party is already in talks with Russia about resuming gas supplies. The party’s foreign policy spokesperson, Markus Frohnmaier, discussed the matter with Gazprom CEO Alexey Miller.",
-      "title_raw": "Germany’s AfD held talks with Gazprom CEO on resuming Russian gas supplies",
-      "lead_raw": "The far-right Alternative for Germany (AfD) party is already in talks with Russia about resuming gas supplies. The party’s foreign policy spokesperson, Markus Frohnmaier, discussed the matter with Gazprom CEO Alexey Miller.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
         "energy"
       ],
       "primary_topic": "energy"
