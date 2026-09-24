@@ -1,9 +1,51 @@
 {
-  "updated_at_utc": "2026-09-24T07:15:32Z",
+  "updated_at_utc": "2026-09-24T13:15:49Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 9,
+  "count": 8,
   "articles": [
+    {
+      "id": "7466c3b96a9754fbd9ac485bb9acbd8e37ef1150",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2192171",
+      "published_utc": "2026-09-24T12:05:26Z",
+      "title_en": "Russian Defense Ministry tests smoke shell surpassing its French counterpart",
+      "lead_en": "The invention can be used in aerosol-generating shells designed to create smoke screens, obscuring fire control and optical systems, command and observation posts, and optoelectronic reconnaissance, target acquisition",
+      "title_raw": "Russian Defense Ministry tests smoke shell surpassing its French counterpart",
+      "lead_raw": "The invention can be used in aerosol-generating shells designed to create smoke screens, obscuring fire control and optical systems, command and observation posts, and optoelectronic reconnaissance, target acquisition",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "e4b42a0108b35a3b9c7766a92937121ccc501fb7",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/09/24/russian-strike-on-kyiv-kills-two-and-damages-maternity-hospital",
+      "published_utc": "2026-09-24T07:21:01Z",
+      "title_en": "Russian strike on Kyiv kills two and damages maternity hospital",
+      "lead_en": "Russian forces struck Kyiv again with ballistic missiles overnight on September 24. According to the latest data, two people were killed and eight were wounded, Kyiv Mayor Vitali Klitschko said.",
+      "title_raw": "Russian strike on Kyiv kills two and damages maternity hospital",
+      "lead_raw": "Russian forces struck Kyiv again with ballistic missiles overnight on September 24. According to the latest data, two people were killed and eight were wounded, Kyiv Mayor Vitali Klitschko said.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "b0b84b8cf4911dc8c1b1f9ce4945f7a36fbc60e7",
       "source": "TASS (RU)",
@@ -120,67 +162,6 @@
       "topics": [
         "local_events"
       ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "a330e999199dbe2e0a8a85348874354c39a673dc",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/09/22/several-killed-in-fire-at-russian-shopping-center-people-jump-from-windows-to-escape-the-flames",
-      "published_utc": "2026-09-22T11:23:31Z",
-      "title_en": "Several killed in fire at Russian shopping center. People jump from windows to escape the flames.",
-      "lead_en": "A fire broke out at Solnechny, a popular market in Sterlitamak, one of the largest cities in Russia’s Republic of Bashkortostan, Ufa1.ru reports.",
-      "title_raw": "Several killed in fire at Russian shopping center. People jump from windows to escape the flames.",
-      "lead_raw": "A fire broke out at Solnechny, a popular market in Sterlitamak, one of the largest cities in Russia’s Republic of Bashkortostan, Ufa1.ru reports.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "12dcb54f03a1c5c8976f7d35ec3b33de3b1150cc",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2191051",
-      "published_utc": "2026-09-22T10:15:01Z",
-      "title_en": "Kiev lies, listing soldiers as civilians allegedly killed in Bucha — Lavrov",
-      "lead_en": "The Russian foreign minister said it was established that the memorial lists the names of dozens of individuals, including Ukraine military personnel, Security Service of Ukraine officers, members of \"defense units,\" police, and the National Guard, as well as fighters from the na",
-      "title_raw": "Kiev lies, listing soldiers as civilians allegedly killed in Bucha — Lavrov",
-      "lead_raw": "The Russian foreign minister said it was established that the memorial lists the names of dozens of individuals, including Ukraine military personnel, Security Service of Ukraine officers, members of \"defense units,\" police, and the National Guard, as well as fighters from the na",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "8fe155f1ac5eb3bbb055be4b9a70226131f0c64c",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2190929",
-      "published_utc": "2026-09-22T08:15:09Z",
-      "title_en": "Damaged civilian facilities in Samara Region, 297 downed UAVs: Ukrainian attack aftermath",
-      "lead_en": "As a result of the Ukrainian attack, one civilian died and four others were injured in Russia’s southwestern Samara Region",
-      "title_raw": "Damaged civilian facilities in Samara Region, 297 downed UAVs: Ukrainian attack aftermath",
-      "lead_raw": "As a result of the Ukrainian attack, one civilian died and four others were injured in Russia’s southwestern Samara Region",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
       "primary_topic": "local_events"
     }
   ]
