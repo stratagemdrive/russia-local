@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-09-24T13:15:49Z",
+  "updated_at_utc": "2026-09-24T18:14:31Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 8,
+  "count": 9,
   "articles": [
+    {
+      "id": "559f3382c5404dfb315ebb2c14179f296f95ca72",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/09/24/regions-calling-russias-got-a-bear-problem-a93777",
+      "published_utc": "2026-09-24T16:53:03Z",
+      "title_en": "Regions Calling: Russia’s Got a Bear Problem",
+      "lead_en": "At least 19 people have been killed in brown bear attacks across the country since April. What is going on?",
+      "title_raw": "Regions Calling: Russia’s Got a Bear Problem",
+      "lead_raw": "At least 19 people have been killed in brown bear attacks across the country since April. What is going on?",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "68e04d83fcd673bc4dc1db21cd36b22aaac870c2",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/09/24/starlink-ground-station-catches-fire-near-warsaw-polish-security-services-suspect-russian-sabotage",
+      "published_utc": "2026-09-24T14:50:21Z",
+      "title_en": "Starlink ground station catches fire near Warsaw. Polish security services suspect Russian sabotage.",
+      "lead_en": "A Starlink satellite communications ground station caught fire on the evening of September 23 in the village of Wola Krobowska, in Poland’s Masovian Voivodeship, less than 50 kilometers (31 miles) from Warsaw.",
+      "title_raw": "Starlink ground station catches fire near Warsaw. Polish security services suspect Russian sabotage.",
+      "lead_raw": "A Starlink satellite communications ground station caught fire on the evening of September 23 in the village of Wola Krobowska, in Poland’s Masovian Voivodeship, less than 50 kilometers (31 miles) from Warsaw.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "7466c3b96a9754fbd9ac485bb9acbd8e37ef1150",
       "source": "TASS (EN)",
@@ -142,27 +182,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "c6d881bbb3d422357b79979483f41db1df74de2a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28139857",
-      "published_utc": "2026-09-22T13:42:39Z",
-      "title_en": "По маршруту пропавших в КБР альпинистов проходила еще одна группа",
-      "lead_en": "Разыскиваемых участники группы не встретили, рассказал начальник Эльбрусского высокогорного поисково-спасательного отряда МЧС Абдуллах Гулиев",
-      "title_raw": "По маршруту пропавших в КБР альпинистов проходила еще одна группа",
-      "lead_raw": "Разыскиваемых участники группы не встретили, рассказал начальник Эльбрусского высокогорного поисково-спасательного отряда МЧС Абдуллах Гулиев",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
     }
   ]
 }
