@@ -1,9 +1,51 @@
 {
-  "updated_at_utc": "2026-09-25T05:52:33Z",
+  "updated_at_utc": "2026-09-25T11:16:03Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 9,
+  "count": 10,
   "articles": [
+    {
+      "id": "c86e2a98afb95b65523aa716084ee46eae42fe16",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2192597",
+      "published_utc": "2026-09-25T08:35:14Z",
+      "title_en": "IN BRIEF: Man killed in drone attack on Perm Region as Russia downs 592 UAVs overnight",
+      "lead_en": "Teenagers aged 17 and 14 were injured in a drone attack on the Volga city of Ulyanovsk",
+      "title_raw": "IN BRIEF: Man killed in drone attack on Perm Region as Russia downs 592 UAVs overnight",
+      "lead_raw": "Teenagers aged 17 and 14 were injured in a drone attack on the Volga city of Ulyanovsk",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "167a433409cec7f6ce3665785f1543892e9d732f",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/09/25/at-least-2-killed-as-ukraine-strikes-industrial-sites-across-russia-a93790",
+      "published_utc": "2026-09-25T08:11:00Z",
+      "title_en": "At Least 2 Killed as Ukraine Strikes Industrial Sites Across Russia",
+      "lead_en": "Russian authorities and independent media reported that two oil refineries were damaged during the overnight drone barrage.",
+      "title_raw": "At Least 2 Killed as Ukraine Strikes Industrial Sites Across Russia",
+      "lead_raw": "Russian authorities and independent media reported that two oil refineries were damaged during the overnight drone barrage.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "9847a612e014e0f53039a88cef0a588f6fba05ff",
       "source": "Meduza (EN)",
@@ -154,25 +196,6 @@
       "lead_en": "The highest death toll was recorded in the Krasnoyarsk Region",
       "title_raw": "As many as 17 people killed by bear attacks in Russia",
       "lead_raw": "The highest death toll was recorded in the Krasnoyarsk Region",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "f6944bb2228e47f0713abb6b4e09138b2fa8bd8f",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/09/23/fire-at-power-plant-in-russia-s-far-east-disrupts-heating-to-nearby-communities",
-      "published_utc": "2026-09-23T08:27:11Z",
-      "title_en": "Fire at power plant in Russia’s Far East disrupts heating to nearby communities",
-      "lead_en": "A fire broke out September 22 at the Neryungri Power Plant in Yakutia, damaging a transformer substation for power unit No. 1 and a turbine in the machine room.",
-      "title_raw": "Fire at power plant in Russia’s Far East disrupts heating to nearby communities",
-      "lead_raw": "A fire broke out September 22 at the Neryungri Power Plant in Yakutia, damaging a transformer substation for power unit No. 1 and a turbine in the machine room.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
