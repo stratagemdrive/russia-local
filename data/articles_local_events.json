@@ -1,9 +1,47 @@
 {
-  "updated_at_utc": "2026-09-26T09:09:52Z",
+  "updated_at_utc": "2026-09-26T14:09:22Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 10,
+  "count": 11,
   "articles": [
+    {
+      "id": "071db11c5587592b14b7d8eec74cf8c27cd98eee",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2193315",
+      "published_utc": "2026-09-26T13:31:34Z",
+      "title_en": "Putin, Vucic discuss Ukrainian conflict, situation in Balkans",
+      "lead_en": "Vucic also expressed gratitude for Russia’s comprehensive assistance to Serbia, especially in helping to fight forest fires, the Kremlin reported",
+      "title_raw": "Putin, Vucic discuss Ukrainian conflict, situation in Balkans",
+      "lead_raw": "Vucic also expressed gratitude for Russia’s comprehensive assistance to Serbia, especially in helping to fight forest fires, the Kremlin reported",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "5a62e50c5face5386c215a612cce352e4f530803",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28154415",
+      "published_utc": "2026-09-26T12:08:24Z",
+      "title_en": "Вучич поблагодарил Россию за помощь в тушении лесных пожаров",
+      "lead_en": "Президент Сербии также поблагодарил за оказываемую Россией всестороннюю поддержку республики",
+      "title_raw": "Вучич поблагодарил Россию за помощь в тушении лесных пожаров",
+      "lead_raw": "Президент Сербии также поблагодарил за оказываемую Россией всестороннюю поддержку республики",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "6ef78c02ffcac85f766b71e00490939d7d49a01f",
       "source": "TASS (EN)",
@@ -173,27 +211,6 @@
       "lead_en": "A Starlink satellite communications ground station caught fire on the evening of September 23 in the village of Wola Krobowska, in Poland’s Masovian Voivodeship, less than 50 kilometers (31 miles) from Warsaw.",
       "title_raw": "Starlink ground station catches fire near Warsaw. Polish security services suspect Russian sabotage.",
       "lead_raw": "A Starlink satellite communications ground station caught fire on the evening of September 23 in the village of Wola Krobowska, in Poland’s Masovian Voivodeship, less than 50 kilometers (31 miles) from Warsaw.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "7466c3b96a9754fbd9ac485bb9acbd8e37ef1150",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2192171",
-      "published_utc": "2026-09-24T12:05:26Z",
-      "title_en": "Russian Defense Ministry tests smoke shell surpassing its French counterpart",
-      "lead_en": "The invention can be used in aerosol-generating shells designed to create smoke screens, obscuring fire control and optical systems, command and observation posts, and optoelectronic reconnaissance, target acquisition",
-      "title_raw": "Russian Defense Ministry tests smoke shell surpassing its French counterpart",
-      "lead_raw": "The invention can be used in aerosol-generating shells designed to create smoke screens, obscuring fire control and optical systems, command and observation posts, and optoelectronic reconnaissance, target acquisition",
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
