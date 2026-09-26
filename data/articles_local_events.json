@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-09-25T23:51:10Z",
+  "updated_at_utc": "2026-09-26T03:46:24Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 9,
+  "count": 11,
   "articles": [
+    {
+      "id": "6ef78c02ffcac85f766b71e00490939d7d49a01f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2193179",
+      "published_utc": "2026-09-26T00:50:01Z",
+      "title_en": "Ukrainian drone attack on southern Russia kills people, wounds one person",
+      "lead_en": "Kuban Governor Veniamin Kondratyev said that drone debris damaged a residential building and fires broke out on the premises of two enterprises",
+      "title_raw": "Ukrainian drone attack on southern Russia kills people, wounds one person",
+      "lead_raw": "Kuban Governor Veniamin Kondratyev said that drone debris damaged a residential building and fires broke out on the premises of two enterprises",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "158a83c1dba915bb73501224b991814d65cc4f13",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2193177",
+      "published_utc": "2026-09-26T00:30:00Z",
+      "title_en": "Ukraine cannot make up for losses in Druzhkovka because of Russian pressure — expert",
+      "lead_en": "Andrey Marochko stressed that almost all the routes leading to Druzhkovka are under tight fire control of the Russian military",
+      "title_raw": "Ukraine cannot make up for losses in Druzhkovka because of Russian pressure — expert",
+      "lead_raw": "Andrey Marochko stressed that almost all the routes leading to Druzhkovka are under tight fire control of the Russian military",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "e81cde1e31decfd91113755ffcc58e93a9ff18e0",
       "source": "TASS (RU)",
