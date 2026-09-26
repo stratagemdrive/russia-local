@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-09-26T18:21:34Z",
+  "updated_at_utc": "2026-09-26T21:51:25Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 19,
+  "count": 16,
   "articles": [
+    {
+      "id": "95e6eeed0c42fa92aad98def59442a2fabfca6fc",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2193489",
+      "published_utc": "2026-09-26T20:24:36Z",
+      "title_en": "Putin’s envoy says Russia, Germany could reopen Nord Stream jointly",
+      "lead_en": "Kirill Dmitriev noted that AfD is the voice of German people that fights for German energy sovereignty, prosperity, peace and cooperation",
+      "title_raw": "Putin’s envoy says Russia, Germany could reopen Nord Stream jointly",
+      "lead_raw": "Kirill Dmitriev noted that AfD is the voice of German people that fights for German energy sovereignty, prosperity, peace and cooperation",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "79dd09f1ccd4f278b2918296dbb1bccc9be5f949",
       "source": "TASS (RU)",
@@ -325,92 +347,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "d587e550be9ddc2afc9f3caa2701ae4ed79b1310",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2192459",
-      "published_utc": "2026-09-24T21:02:07Z",
-      "title_en": "Macron admits Ukrainian attacks on Russian oil refineries worsen fuel situation in Europe",
-      "lead_en": "The French president said he would not call on Ukraine to stop the attacks simply because they were causing prices in Europe to rise",
-      "title_raw": "Macron admits Ukrainian attacks on Russian oil refineries worsen fuel situation in Europe",
-      "lead_raw": "The French president said he would not call on Ukraine to stop the attacks simply because they were causing prices in Europe to rise",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "9847a612e014e0f53039a88cef0a588f6fba05ff",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/09/24/no-one-needs-more-fuel-on-the-fire-italy-pushes-back-on-report-that-cia-warned-of-possible-russian-sea-launched-drone-attacks",
-      "published_utc": "2026-09-24T18:34:16Z",
-      "title_en": "‘No one needs more fuel on the fire.’ Italy pushes back on report that CIA warned of possible Russian sea-launched drone attacks.",
-      "lead_en": "The CIA warned Spain, France, and Italy about a possible Russian operation to launch drones from civilian ships, the Spanish newspaper El Mundo said on September 24, citing sources.",
-      "title_raw": "‘No one needs more fuel on the fire.’ Italy pushes back on report that CIA warned of possible Russian sea-launched drone attacks.",
-      "lead_raw": "The CIA warned Spain, France, and Italy about a possible Russian operation to launch drones from civilian ships, the Spanish newspaper El Mundo said on September 24, citing sources.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "625a849b2af4c760cbb01a6be7fe0a63ac683501",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28149037",
-      "published_utc": "2026-09-24T18:32:20Z",
-      "title_en": "Венгрия добивается от США продления разрешения на закупку нефти и газа в РФ",
-      "lead_en": "Венгерский министр иностранных дел Анита Орбан напомнила, что в 2025 году Вашингтон предоставил Будапешту исключение из санкционного режима против импорта российских энергоносителей",
-      "title_raw": "Венгрия добивается от США продления разрешения на закупку нефти и газа в РФ",
-      "lead_raw": "Венгерский министр иностранных дел Анита Орбан напомнила, что в 2025 году Вашингтон предоставил Будапешту исключение из санкционного режима против импорта российских энергоносителей",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "d09e5e89a61cf8eb922d804fbabca3a4688a0b04",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2192439",
-      "published_utc": "2026-09-24T18:26:37Z",
-      "title_en": "Russian Finance Ministry sets Hormuz opening scenario for $50/bbl oil price in budget",
-      "lead_en": "The ministry is deliberately budgeting a rather low oil price to mitigate the risks of unexpected deficits, Igor Yushkov noted",
-      "title_raw": "Russian Finance Ministry sets Hormuz opening scenario for $50/bbl oil price in budget",
-      "lead_raw": "The ministry is deliberately budgeting a rather low oil price to mitigate the risks of unexpected deficits, Igor Yushkov noted",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
