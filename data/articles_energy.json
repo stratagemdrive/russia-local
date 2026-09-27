@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-09-27T17:31:44Z",
+  "updated_at_utc": "2026-09-27T20:57:20Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 4,
   "articles": [
+    {
+      "id": "1ba60f426ce44d8170e7c8f7b87f3c93f4dcb29e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28156495",
+      "published_utc": "2026-09-27T17:43:37Z",
+      "title_en": "Захарова: Канье Уэст не извинился перед россиянами за поддержку нацизма",
+      "lead_en": "Say Agency ранее анонсировали 2 концерта Канье Уэста на \"Газпром арене\" в Санкт-Петербурге 10 и 11 октября",
+      "title_raw": "Захарова: Канье Уэст не извинился перед россиянами за поддержку нацизма",
+      "lead_raw": "Say Agency ранее анонсировали 2 концерта Канье Уэста на \"Газпром арене\" в Санкт-Петербурге 10 и 11 октября",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "e6deb87fb1376c809470590d2a591aa9c5ae9938",
       "source": "TASS (RU)",
@@ -69,27 +90,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "22c48a569989acd2b7b54837d8134a6ee9dba352",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/09/25/reuters-russia-s-seventh-largest-refinery-halts-operations-after-a-ukrainian-drone-attack",
-      "published_utc": "2026-09-25T19:56:32Z",
-      "title_en": "Reuters: Russia’s seventh-largest refinery halts operations after a Ukrainian drone attack",
-      "lead_en": "An oil refinery in Perm halted operations after an attack by Ukrainian drones overnight on September 25, Reuters reported, citing industry sources.",
-      "title_raw": "Reuters: Russia’s seventh-largest refinery halts operations after a Ukrainian drone attack",
-      "lead_raw": "An oil refinery in Perm halted operations after an attack by Ukrainian drones overnight on September 25, Reuters reported, citing industry sources.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
