@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-09-28T03:55:47Z",
+  "updated_at_utc": "2026-09-28T10:39:21Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 9,
   "articles": [
+    {
+      "id": "515f55b45be40df4d094c7e28978d8c181d04a99",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2193781",
+      "published_utc": "2026-09-28T09:04:23Z",
+      "title_en": "Russian strikes hit Ukrainian data processing centers, energy facilities",
+      "lead_en": "The Russian Armed Forces also struck infrastructure and facilities at the Vasilkov military airfield in the Kiev Region",
+      "title_raw": "Russian strikes hit Ukrainian data processing centers, energy facilities",
+      "lead_raw": "The Russian Armed Forces also struck infrastructure and facilities at the Vasilkov military airfield in the Kiev Region",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "12f3d6d8f52931aa073c478e3ce21978c833e94b",
       "source": "TASS (RU)",
@@ -176,28 +198,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "79dd09f1ccd4f278b2918296dbb1bccc9be5f949",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28154093",
-      "published_utc": "2026-09-26T07:55:56Z",
-      "title_en": "Азербайджан и Россия обсудили развитие торгово-экономического сотрудничества",
-      "lead_en": "Вице-премьеры Шахин Мустафаев и Александр Новак рассмотрели вопросы взаимодействия в промышленности, энергетике, транспорте и логистике",
-      "title_raw": "Азербайджан и Россия обсудили развитие торгово-экономического сотрудничества",
-      "lead_raw": "Вице-премьеры Шахин Мустафаев и Александр Новак рассмотрели вопросы взаимодействия в промышленности, энергетике, транспорте и логистике",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
