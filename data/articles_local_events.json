@@ -1,9 +1,112 @@
 {
-  "updated_at_utc": "2026-09-29T04:29:45Z",
+  "updated_at_utc": "2026-09-29T11:08:28Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 7,
+  "count": 11,
   "articles": [
+    {
+      "id": "72014ed9bed02df059818b82f296779448832ae2",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/09/29/kremlin-denies-orchestrating-arson-attack-at-estonian-robotics-plant-a93815",
+      "published_utc": "2026-09-29T10:51:39Z",
+      "title_en": "Kremlin Denies Orchestrating Arson Attack at Estonian Robotics Plant",
+      "lead_en": "Estonia claimed Russia was behind a fire that broke out at Milrem Robotics, which supplies unmanned ground vehicles to Ukraine.",
+      "title_raw": "Kremlin Denies Orchestrating Arson Attack at Estonian Robotics Plant",
+      "lead_raw": "Estonia claimed Russia was behind a fire that broke out at Milrem Robotics, which supplies unmanned ground vehicles to Ukraine.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "d38f4032c176a021be2a872ba35ee2e960d5262d",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2194455",
+      "published_utc": "2026-09-29T10:24:51Z",
+      "title_en": "Ukrainian attacks kill 41, injure 274 civilians in Russia over past week — diplomat",
+      "lead_en": "According to Rodion Miroshnik, over the past seven days, the Ukrainian armed forces fired at least 8,033 rounds at civilian targets on Russian territory",
+      "title_raw": "Ukrainian attacks kill 41, injure 274 civilians in Russia over past week — diplomat",
+      "lead_raw": "According to Rodion Miroshnik, over the past seven days, the Ukrainian armed forces fired at least 8,033 rounds at civilian targets on Russian territory",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "de82e0c87c2974448b24bd1bfb05effc33c4f031",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/09/29/putin-claims-that-ukraine-has-no-antidote-to-russia-s-new-jet-powered-drones-kyiv-has-already-shown-it-can-shoot-them-down-but-doing-it-at-scale-could-cost-billions",
+      "published_utc": "2026-09-29T07:36:02Z",
+      "title_en": "Putin claims that Ukraine has no ‘antidote’ to Russia’s new jet-powered drones. Kyiv has already shown it can shoot them down, but doing it at scale could cost billions.",
+      "lead_en": "Speaking to reporters on the sidelines of the Cultural Forum, Vladimir Putin said Ukraine was seeking an “air ceasefire” out of weakness — especially because it feared Russia’s new jet-powered drones. The Russian president believes Kyiv has no “antidote” to these weapons.",
+      "title_raw": "Putin claims that Ukraine has no ‘antidote’ to Russia’s new jet-powered drones. Kyiv has already shown it can shoot them down, but doing it at scale could cost billions.",
+      "lead_raw": "Speaking to reporters on the sidelines of the Cultural Forum, Vladimir Putin said Ukraine was seeking an “air ceasefire” out of weakness — especially because it feared Russia’s new jet-powered drones. The Russian president believes Kyiv has no “antidote” to these weapons.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "accce69079fde99950a71229720c1c4f04845023",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2194329",
+      "published_utc": "2026-09-29T07:05:46Z",
+      "title_en": "Russian interceptor UAVs effectiveness is close to 100% — officer",
+      "lead_en": "There are very few instances of accidental crashes or failures, Russian serviceman with the call sign Zolotoy said",
+      "title_raw": "Russian interceptor UAVs effectiveness is close to 100% — officer",
+      "lead_raw": "There are very few instances of accidental crashes or failures, Russian serviceman with the call sign Zolotoy said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "1986a59b4da2e744202ee7fa337bd2ff56ee7b49",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/09/29/russia-attacks-kyiv-again-with-missiles-and-drones-sparking-fires-at-an-educational-facility-and-the-roof-of-a-five-story-apartment-building",
+      "published_utc": "2026-09-29T06:49:03Z",
+      "title_en": "Russia attacks Kyiv again with missiles and drones, sparking fires at an educational facility and the roof of a five-story apartment building",
+      "lead_en": "Russian forces attacked Kyiv with missiles and drones overnight on September 29, Ukraine’s Air Force said. Several districts were hit, Mayor Vitali Klitschko said.",
+      "title_raw": "Russia attacks Kyiv again with missiles and drones, sparking fires at an educational facility and the roof of a five-story apartment building",
+      "lead_raw": "Russian forces attacked Kyiv with missiles and drones overnight on September 29, Ukraine’s Air Force said. Several districts were hit, Mayor Vitali Klitschko said.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "dafb9f45ba65177b811dc4d5e37af780cbb312ce",
       "source": "Meduza (EN)",
@@ -114,25 +217,6 @@
       "lead_en": "A Russian strike overnight on September 28 destroyed a section of an apartment building in Kharkiv’s Saltivskyi district. Twenty-five people, including nine children, were injured, according to Kharkiv Governor Oleh Syniehubov.",
       "title_raw": "Russian strike on apartment building in Kharkiv, Ukraine, injures 25 people, including nine children, regional governor says",
       "lead_raw": "A Russian strike overnight on September 28 destroyed a section of an apartment building in Kharkiv’s Saltivskyi district. Twenty-five people, including nine children, were injured, according to Kharkiv Governor Oleh Syniehubov.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "4573aa6b1fd8ceeed0198cd4b43dc34d6403adf8",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/09/27/a-humanitarian-crisis-is-gripping-russian-occupied-oleshky-as-food-deliveries-stop-and-safe-evacuation-becomes-nearly-impossible",
-      "published_utc": "2026-09-27T06:21:26Z",
-      "title_en": "A humanitarian crisis is gripping Russian-occupied Oleshky as food deliveries stop and safe evacuation becomes nearly impossible",
-      "lead_en": "Oleshky (Alyoshki in Russian) is a city on the left bank of the Dnipro River, across from Kherson on the right bank. Only nine kilometers (about six miles) separate them in a straight line.",
-      "title_raw": "A humanitarian crisis is gripping Russian-occupied Oleshky as food deliveries stop and safe evacuation becomes nearly impossible",
-      "lead_raw": "Oleshky (Alyoshki in Russian) is a city on the left bank of the Dnipro River, across from Kherson on the right bank. Only nine kilometers (about six miles) separate them in a straight line.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
