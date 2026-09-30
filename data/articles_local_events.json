@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-09-30T01:07:43Z",
+  "updated_at_utc": "2026-09-30T08:03:52Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 17,
   "articles": [
+    {
+      "id": "ffb9ce8ba8a4386f237b337123105b5713c5e234",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/09/30/russian-strikes-on-kyiv-and-the-surrounding-region-kill-three-including-a-child-and-wound-seven",
+      "published_utc": "2026-09-30T06:56:15Z",
+      "title_en": "Russian strikes on Kyiv and the surrounding region kill three, including a child, and wound seven",
+      "lead_en": "Russian forces continued to strike Kyiv with drones and various types of missiles. An attack early on September 30 killed two people and injured four in Kyiv, the city administration said.",
+      "title_raw": "Russian strikes on Kyiv and the surrounding region kill three, including a child, and wound seven",
+      "lead_raw": "Russian forces continued to strike Kyiv with drones and various types of missiles. An attack early on September 30 killed two people and injured four in Kyiv, the city administration said.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "e84331ee5d9dd53440eedd0a6d3d945997e71f64",
       "source": "Meduza (EN)",
@@ -327,25 +349,6 @@
       "topics": [
         "local_events"
       ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "64f69053ed0398ad147bf3ea816e14a133665de8",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/09/28/russian-strike-on-apartment-building-in-kharkiv-ukraine-injures-25-people-including-nine-children-regional-governor-says",
-      "published_utc": "2026-09-28T07:28:52Z",
-      "title_en": "Russian strike on apartment building in Kharkiv, Ukraine, injures 25 people, including nine children, regional governor says",
-      "lead_en": "A Russian strike overnight on September 28 destroyed a section of an apartment building in Kharkiv’s Saltivskyi district. Twenty-five people, including nine children, were injured, according to Kharkiv Governor Oleh Syniehubov.",
-      "title_raw": "Russian strike on apartment building in Kharkiv, Ukraine, injures 25 people, including nine children, regional governor says",
-      "lead_raw": "A Russian strike overnight on September 28 destroyed a section of an apartment building in Kharkiv’s Saltivskyi district. Twenty-five people, including nine children, were injured, according to Kharkiv Governor Oleh Syniehubov.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
       "primary_topic": "local_events"
     }
   ]
