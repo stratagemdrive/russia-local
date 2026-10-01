@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-10-01T00:22:49Z",
+  "updated_at_utc": "2026-10-01T06:52:52Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 14,
   "articles": [
+    {
+      "id": "49d7f0ddcc257cb8bf160444214d7fe9211689a3",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2195363",
+      "published_utc": "2026-10-01T01:55:01Z",
+      "title_en": "NATO chief has no idea of Iran’s nuclear program — Russian diplomat",
+      "lead_en": "The level of professionalism or the lack of professionalism in the West is a real disaster, Russia’s Permanent Representative to the Vienna-based international organizations Mikhail Ulyanov said",
+      "title_raw": "NATO chief has no idea of Iran’s nuclear program — Russian diplomat",
+      "lead_raw": "The level of professionalism or the lack of professionalism in the West is a real disaster, Russia’s Permanent Representative to the Vienna-based international organizations Mikhail Ulyanov said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "5eb09e5732c6d92116d70a2f9d71e9db7c55700d",
       "source": "The Moscow Times",
@@ -266,27 +285,6 @@
         "local_events"
       ],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "1986a59b4da2e744202ee7fa337bd2ff56ee7b49",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/09/29/russia-attacks-kyiv-again-with-missiles-and-drones-sparking-fires-at-an-educational-facility-and-the-roof-of-a-five-story-apartment-building",
-      "published_utc": "2026-09-29T06:49:03Z",
-      "title_en": "Russia attacks Kyiv again with missiles and drones, sparking fires at an educational facility and the roof of a five-story apartment building",
-      "lead_en": "Russian forces attacked Kyiv with missiles and drones overnight on September 29, Ukraine’s Air Force said. Several districts were hit, Mayor Vitali Klitschko said.",
-      "title_raw": "Russia attacks Kyiv again with missiles and drones, sparking fires at an educational facility and the roof of a five-story apartment building",
-      "lead_raw": "Russian forces attacked Kyiv with missiles and drones overnight on September 29, Ukraine’s Air Force said. Several districts were hit, Mayor Vitali Klitschko said.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
