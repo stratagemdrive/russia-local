@@ -1,9 +1,51 @@
 {
-  "updated_at_utc": "2026-10-02T06:43:47Z",
+  "updated_at_utc": "2026-10-02T13:36:01Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 16,
   "articles": [
+    {
+      "id": "6cc39125fd5cb4b9a799894c11ea6d38eda17579",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2196497",
+      "published_utc": "2026-10-02T07:37:57Z",
+      "title_en": "One injured, fire in apartment building in Volgograd, 646 UAVs: aftermath of drone attacks",
+      "lead_en": "Ukrainian drones attempted to attack industrial infrastructure in Russia’s southern Volgograd Region",
+      "title_raw": "One injured, fire in apartment building in Volgograd, 646 UAVs: aftermath of drone attacks",
+      "lead_raw": "Ukrainian drones attempted to attack industrial infrastructure in Russia’s southern Volgograd Region",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "f59e733ca42054c3946b1c6134526db36176639f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2196495",
+      "published_utc": "2026-10-02T07:16:23Z",
+      "title_en": "Ukraine paying price for Black Sea strikes, need for lasting peace: Kremlin remarks",
+      "lead_en": "No specific details are available regarding the Turkish and UN initiative to hold talks involving Russia and Ukraine on a ceasefire in the Black Sea, Dmitry Peskov said",
+      "title_raw": "Ukraine paying price for Black Sea strikes, need for lasting peace: Kremlin remarks",
+      "lead_raw": "No specific details are available regarding the Turkish and UN initiative to hold talks involving Russia and Ukraine on a ceasefire in the Black Sea, Dmitry Peskov said",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "4fbcf5f6e3ff2b57ba036ecaf945ebc75d5726f5",
       "source": "TASS (RU)",
@@ -279,47 +321,6 @@
         "local_events": 1
       },
       "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "b71e52200438a717627a47be319eb8f546208170",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2195027",
-      "published_utc": "2026-09-30T10:33:00Z",
-      "title_en": "Ukrainian attack on Russia’s western Bryansk Region injured 12 people — acting head",
-      "lead_en": "Among them are nine students",
-      "title_raw": "Ukrainian attack on Russia’s western Bryansk Region injured 12 people — acting head",
-      "lead_raw": "Among them are nine students",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "ffb9ce8ba8a4386f237b337123105b5713c5e234",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/09/30/russian-strikes-on-kyiv-and-the-surrounding-region-kill-three-including-a-child-and-wound-seven",
-      "published_utc": "2026-09-30T06:56:15Z",
-      "title_en": "Russian strikes on Kyiv and the surrounding region kill three, including a child, and wound seven",
-      "lead_en": "Russian forces continued to strike Kyiv with drones and various types of missiles. An attack early on September 30 killed two people and injured four in Kyiv, the city administration said.",
-      "title_raw": "Russian strikes on Kyiv and the surrounding region kill three, including a child, and wound seven",
-      "lead_raw": "Russian forces continued to strike Kyiv with drones and various types of missiles. An attack early on September 30 killed two people and injured four in Kyiv, the city administration said.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
       "primary_topic": "local_events"
     }
   ]
