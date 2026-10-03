@@ -1,9 +1,94 @@
 {
-  "updated_at_utc": "2026-10-03T13:04:12Z",
+  "updated_at_utc": "2026-10-03T20:38:42Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 27,
+  "count": 25,
   "articles": [
+    {
+      "id": "05dc25f92c1df25d369c591e0e0bb5646a78f437",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2197213",
+      "published_utc": "2026-10-03T20:15:00Z",
+      "title_en": "Russia, Iran attach much importance to cooperation in defense — Medvedev",
+      "lead_en": "Russian Security Council Deputy Chairman Dmitry Medvedev highlighted to the aerospace industry, energy, artificial intelligence, and advanced technology, among other spheres of cooperation between Moscow and Tehran",
+      "title_raw": "Russia, Iran attach much importance to cooperation in defense — Medvedev",
+      "lead_raw": "Russian Security Council Deputy Chairman Dmitry Medvedev highlighted to the aerospace industry, energy, artificial intelligence, and advanced technology, among other spheres of cooperation between Moscow and Tehran",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "96086aecc45815385b29c3e0fc90d87b7d4535e6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28179215",
+      "published_utc": "2026-10-03T20:02:33Z",
+      "title_en": "Медведев: РФ и Иран придают большое значение сотрудничеству в оборонной сфере",
+      "lead_en": "Зампред Совбеза России также отметил, что аэрокосмическая отрасль, энергетика, ИИ и другие передовые технологии могут и уже являются частью и элементами российско-иранского взаимодействия",
+      "title_raw": "Медведев: РФ и Иран придают большое значение сотрудничеству в оборонной сфере",
+      "lead_raw": "Зампред Совбеза России также отметил, что аэрокосмическая отрасль, энергетика, ИИ и другие передовые технологии могут и уже являются частью и элементами российско-иранского взаимодействия",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "bf3751d11e0a5e3ad005d9a5c075b925bffba936",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28179113",
+      "published_utc": "2026-10-03T18:34:54Z",
+      "title_en": "Медведев: Европа уже пожинает плоды от разрушения сотрудничества с РФ",
+      "lead_en": "Зампред Совбеза России отметил, что теперь в европейских странах дорогой газ и бензин, высокая инфляция",
+      "title_raw": "Медведев: Европа уже пожинает плоды от разрушения сотрудничества с РФ",
+      "lead_raw": "Зампред Совбеза России отметил, что теперь в европейских странах дорогой газ и бензин, высокая инфляция",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "830863e22a1d6b8784fb24a584f1779345121445",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28179093",
+      "published_utc": "2026-10-03T18:31:56Z",
+      "title_en": "Медведев указал на дорогие газ и бензин в Европе из-за разрыва отношений с РФ",
+      "lead_en": "Европейские страны сами все разрушили и отказались от сотрудничества с Москвой, отметил зампред Совбеза России",
+      "title_raw": "Медведев указал на дорогие газ и бензин в Европе из-за разрыва отношений с РФ",
+      "lead_raw": "Европейские страны сами все разрушили и отказались от сотрудничества с Москвой, отметил зампред Совбеза России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "e9363a4bd57c6fe7ed230200ccbceec5de400987",
       "source": "The Moscow Times",
@@ -447,135 +532,6 @@
         "military": 0,
         "energy": 1,
         "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "f01519e0aeb0a8ee60a1102826615d59e07a5350",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/10/01/by-putin-s-own-estimate-ukrainian-strikes-on-russian-refineries-have-cost-russia-1-of-gdp-but-he-says-stopping-them-isn-t-worth-halting-attacks-on-ukrainian-vessels",
-      "published_utc": "2026-10-01T19:42:03Z",
-      "title_en": "By Putin’s own estimate, Ukrainian strikes on Russian refineries have cost Russia 1% of GDP. But he says stopping them isn’t worth halting attacks on Ukrainian vessels.",
-      "lead_en": "Russian President Vladimir Putin rejected the idea of halting attacks on Ukrainian ships in exchange for Ukraine ending its strikes on Russian oil refineries. He made the remarks at the Valdai Forum.",
-      "title_raw": "By Putin’s own estimate, Ukrainian strikes on Russian refineries have cost Russia 1% of GDP. But he says stopping them isn’t worth halting attacks on Ukrainian vessels.",
-      "lead_raw": "Russian President Vladimir Putin rejected the idea of halting attacks on Ukrainian ships in exchange for Ukraine ending its strikes on Russian oil refineries. He made the remarks at the Valdai Forum.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "223338e668171f6102174d780832beb0711342bb",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2196253",
-      "published_utc": "2026-10-01T18:17:58Z",
-      "title_en": "Sanctions prevent Russian diesel fuel from flowing to global markets",
-      "lead_en": "The head of state assured that Russia has enough diesel fuel",
-      "title_raw": "Sanctions prevent Russian diesel fuel from flowing to global markets",
-      "lead_raw": "The head of state assured that Russia has enough diesel fuel",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "c41884540dedf0ad0647d984de587eb0805b5bb5",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2196081",
-      "published_utc": "2026-10-01T16:56:23Z",
-      "title_en": "Russian exports for Kazakhstan's energy sector exceed $3 bln — trade representative",
-      "lead_en": "According to Anton Loginov, steady demand for Russian products is driven by scheduled maintenance and facility modernization",
-      "title_raw": "Russian exports for Kazakhstan's energy sector exceed $3 bln — trade representative",
-      "lead_raw": "According to Anton Loginov, steady demand for Russian products is driven by scheduled maintenance and facility modernization",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "26d2d3f333e54ab538c198156cbf6eafbba9d1fc",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2195793",
-      "published_utc": "2026-10-01T14:38:34Z",
-      "title_en": "Russian oil account for 35% of total Indian hydrocarbon imports in September",
-      "lead_en": "Last month, Russia continued to rank first in Indian oil imports, which stood at 5.4 million barrels daily",
-      "title_raw": "Russian oil account for 35% of total Indian hydrocarbon imports in September",
-      "lead_raw": "Last month, Russia continued to rank first in Indian oil imports, which stood at 5.4 million barrels daily",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "084a04531b98d5cd4b695c0683251d19c1009117",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28171727",
-      "published_utc": "2026-10-01T13:23:59Z",
-      "title_en": "Россия потратит на новые атомные и энергетические технологии 120 млрд рублей",
-      "lead_en": "Часть средств направят на проведение исследований по разработке опытно-демонстрационных и промышленных ядерных энерготехнологий нового поколения для двухкомпонентной ядерной энергетической системы, следует из пояснительной записки к проекту федерального бюджета",
-      "title_raw": "Россия потратит на новые атомные и энергетические технологии 120 млрд рублей",
-      "lead_raw": "Часть средств направят на проведение исследований по разработке опытно-демонстрационных и промышленных ядерных энерготехнологий нового поколения для двухкомпонентной ядерной энергетической системы, следует из пояснительной записки к проекту федерального бюджета",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "8e269ebe1e50f542a2676ad56bc9d054bf743e04",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2195705",
-      "published_utc": "2026-10-01T13:07:12Z",
-      "title_en": "Russian Finance Ministry expects gradual decline of Brent prices",
-      "lead_en": "According to the document, the short-term price situation will be determined by the prospects for the recovery of oil exports from Middle Eastern countries and the pace of global oil inventory restoration after the end of the conflict",
-      "title_raw": "Russian Finance Ministry expects gradual decline of Brent prices",
-      "lead_raw": "According to the document, the short-term price situation will be determined by the prospects for the recovery of oil exports from Middle Eastern countries and the pace of global oil inventory restoration after the end of the conflict",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
         "local_events": 0
       },
       "topics": [
