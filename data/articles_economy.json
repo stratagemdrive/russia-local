@@ -1,9 +1,70 @@
 {
-  "updated_at_utc": "2026-10-04T15:40:52Z",
+  "updated_at_utc": "2026-10-04T19:13:22Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 29,
+  "count": 27,
   "articles": [
+    {
+      "id": "85f7227804ab9430cbbb7bfabdc4d6d0be1fa260",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2197425",
+      "published_utc": "2026-10-04T18:29:10Z",
+      "title_en": "Merz ready to drag Germany into conflict with Russia to improve his ratings — expert",
+      "lead_en": "German Chancellor and German Economy Minister Katherina Reiche arrived on an unannounced visit to Kiev on Sunday",
+      "title_raw": "Merz ready to drag Germany into conflict with Russia to improve his ratings — expert",
+      "lead_raw": "German Chancellor and German Economy Minister Katherina Reiche arrived on an unannounced visit to Kiev on Sunday",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "489ee0f09379cf67281df04dbb983e2f16414d8c",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2197417",
+      "published_utc": "2026-10-04T16:52:23Z",
+      "title_en": "US doesn’t rule out imposing secondary sanctions on Russia’s trade partners by Oct. 18",
+      "lead_en": "On September 18, Trump signed into law legislation passed by the US Congress to tighten sanctions on Russia",
+      "title_raw": "US doesn’t rule out imposing secondary sanctions on Russia’s trade partners by Oct. 18",
+      "lead_raw": "On September 18, Trump signed into law legislation passed by the US Congress to tighten sanctions on Russia",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "2e12e9c9b5476af95c9199426791d47c489acc4e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28180631",
+      "published_utc": "2026-10-04T15:47:34Z",
+      "title_en": "В США допустили введение вторичных санкций против партнеров России к 18 октября",
+      "lead_en": "Американский министр энергетики Крис Райт отметил, что Вашингтон \"изучает все имеющиеся рычаги\" давления с целью урегулирования украинского кризиса",
+      "title_raw": "В США допустили введение вторичных санкций против партнеров России к 18 октября",
+      "lead_raw": "Американский министр энергетики Крис Райт отметил, что Вашингтон \"изучает все имеющиеся рычаги\" давления с целью урегулирования украинского кризиса",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "06d0c8cea9d271de19211b32451b183f239c2eed",
       "source": "TASS (EN)",
@@ -482,106 +543,6 @@
       "lead_en": "В этом месяце жители округа в среднем получали 243 670 рублей, сообщили в Росстате",
       "title_raw": "Чукотка стала лидером среди регионов России по средней зарплате в июле",
       "lead_raw": "В этом месяце жители округа в среднем получали 243 670 рублей, сообщили в Росстате",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "e0f822d6ad99a4eb360d2804fc90462712c4396e",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/10/02/russia-decided-to-increase-planned-war-spending-for-2027-in-response-to-ukrainian-strikes-on-refineries-and-warehouses-the-newsletter-vlast-reports",
-      "published_utc": "2026-10-02T18:03:12Z",
-      "title_en": "Russia decided to increase planned war spending for 2027 in response to Ukrainian strikes on refineries and warehouses, the newsletter Vlast reports",
-      "lead_en": "Ukrainian drone strikes on Russian oil refineries and warehouses influenced Russia’s decision to increase planned military spending for 2027 in its new draft budget, the Vlast newsletter reported, citing an official involved in drafting the budget.",
-      "title_raw": "Russia decided to increase planned war spending for 2027 in response to Ukrainian strikes on refineries and warehouses, the newsletter Vlast reports",
-      "lead_raw": "Ukrainian drone strikes on Russian oil refineries and warehouses influenced Russia’s decision to increase planned military spending for 2027 in its new draft budget, the Vlast newsletter reported, citing an official involved in drafting the budget.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "08eb0c6eb7b31bd547b77279554f43a5bd64874b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2196923",
-      "published_utc": "2026-10-02T17:51:45Z",
-      "title_en": "Russian stocks close in the red on Friday",
-      "lead_en": "Freedom Global expects the MOEX Index to trade within the 2,250-2,350 point range on Monday",
-      "title_raw": "Russian stocks close in the red on Friday",
-      "lead_raw": "Freedom Global expects the MOEX Index to trade within the 2,250-2,350 point range on Monday",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "a6382b0e4c82087a505e3e1ae58fd4a298fffb7a",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/10/02/russian-supermarket-workers-say-they-were-fired-over-a-viral-reel-about-post-election-grocery-price-hikes",
-      "published_utc": "2026-10-02T17:03:38Z",
-      "title_en": "Russian supermarket workers say they were fired over a viral reel about post-election grocery price hikes",
-      "lead_en": "Sochi bloggers Svetlana Izhilenko and Alisa Kunyashova said they were fired from a local Pyaterochka grocery store after posting a video about rising grocery prices the day after the elections.",
-      "title_raw": "Russian supermarket workers say they were fired over a viral reel about post-election grocery price hikes",
-      "lead_raw": "Sochi bloggers Svetlana Izhilenko and Alisa Kunyashova said they were fired from a local Pyaterochka grocery store after posting a video about rising grocery prices the day after the elections.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "bf358c1e104ca75f743c503cca6e88cf0dd6a9e3",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28177233",
-      "published_utc": "2026-10-02T16:59:59Z",
-      "title_en": "Российский рынок акций закрылся снижением основных индексов",
-      "lead_en": "Курс юаня вырос до 12,5 рубля",
-      "title_raw": "Российский рынок акций закрылся снижением основных индексов",
-      "lead_raw": "Курс юаня вырос до 12,5 рубля",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "60b0219d84c5ee7a80654602b0289f619f407e34",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28176967",
-      "published_utc": "2026-10-02T16:43:36Z",
-      "title_en": "В Удмуртии ввели выплату 300 тыс. рублей для молодых работников лесничеств",
-      "lead_en": "Деньги смогут получить граждане России в возрасте до 35 лет с высшим образованием в сфере лесного хозяйства",
-      "title_raw": "В Удмуртии ввели выплату 300 тыс. рублей для молодых работников лесничеств",
-      "lead_raw": "Деньги смогут получить граждане России в возрасте до 35 лет с высшим образованием в сфере лесного хозяйства",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
