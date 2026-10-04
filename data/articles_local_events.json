@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-10-04T04:33:32Z",
+  "updated_at_utc": "2026-10-04T10:55:32Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 7,
+  "count": 4,
   "articles": [
+    {
+      "id": "0d9fa96b08604c339df108f94c42f40299b1871b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2197293",
+      "published_utc": "2026-10-04T10:53:09Z",
+      "title_en": "Kiev carries out terrorist strike on Belgorod residential areas overnight — ministry",
+      "lead_en": "The strike killed and wounded civilians and damaged apartment buildings, private homes, and vehicles, the Russian Defense Ministry noted",
+      "title_raw": "Kiev carries out terrorist strike on Belgorod residential areas overnight — ministry",
+      "lead_raw": "The strike killed and wounded civilians and damaged apartment buildings, private homes, and vehicles, the Russian Defense Ministry noted",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "b3407b40e040fd2552a8cda2a72a9db417671da0",
       "source": "TASS (EN)",
@@ -60,88 +81,6 @@
       },
       "topics": [],
       "primary_topic": "economy"
-    },
-    {
-      "id": "6cc39125fd5cb4b9a799894c11ea6d38eda17579",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2196497",
-      "published_utc": "2026-10-02T07:37:57Z",
-      "title_en": "One injured, fire in apartment building in Volgograd, 646 UAVs: aftermath of drone attacks",
-      "lead_en": "Ukrainian drones attempted to attack industrial infrastructure in Russia’s southern Volgograd Region",
-      "title_raw": "One injured, fire in apartment building in Volgograd, 646 UAVs: aftermath of drone attacks",
-      "lead_raw": "Ukrainian drones attempted to attack industrial infrastructure in Russia’s southern Volgograd Region",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "f59e733ca42054c3946b1c6134526db36176639f",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2196495",
-      "published_utc": "2026-10-02T07:16:23Z",
-      "title_en": "Ukraine paying price for Black Sea strikes, need for lasting peace: Kremlin remarks",
-      "lead_en": "No specific details are available regarding the Turkish and UN initiative to hold talks involving Russia and Ukraine on a ceasefire in the Black Sea, Dmitry Peskov said",
-      "title_raw": "Ukraine paying price for Black Sea strikes, need for lasting peace: Kremlin remarks",
-      "lead_raw": "No specific details are available regarding the Turkish and UN initiative to hold talks involving Russia and Ukraine on a ceasefire in the Black Sea, Dmitry Peskov said",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "4fbcf5f6e3ff2b57ba036ecaf945ebc75d5726f5",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/28174621",
-      "published_utc": "2026-10-02T06:24:46Z",
-      "title_en": "Пострадавший, пожар в доме в Волгограде и 646 БПЛА. Последствия атак",
-      "lead_en": "Силы ПВО за ночь перехватили и уничтожили 646 украинских беспилотников над российскими регионами",
-      "title_raw": "Пострадавший, пожар в доме в Волгограде и 646 БПЛА. Последствия атак",
-      "lead_raw": "Силы ПВО за ночь перехватили и уничтожили 646 украинских беспилотников над российскими регионами",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "43d179de64779b0c86bf5d22afeb23b268a750d7",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28174377",
-      "published_utc": "2026-10-02T05:23:31Z",
-      "title_en": "ТАСС: боевики из батальона ВСУ на Запорожье призывают к саботажу приказов комбата",
-      "lead_en": "Причиной являются большие потери и отсутствие эвакуации раненых и тел погибших, отметили в российских силовых структурах",
-      "title_raw": "ТАСС: боевики из батальона ВСУ на Запорожье призывают к саботажу приказов комбата",
-      "lead_raw": "Причиной являются большие потери и отсутствие эвакуации раненых и тел погибших, отметили в российских силовых структурах",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
