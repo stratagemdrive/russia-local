@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-10-04T19:13:22Z",
+  "updated_at_utc": "2026-10-04T22:46:40Z",
   "keep_hours": 48,
   "topic": "energy",
   "count": 13,
   "articles": [
+    {
+      "id": "9e7d597dc8bee2aec3e16c3e817d06f55a71f607",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2197449",
+      "published_utc": "2026-10-04T21:20:10Z",
+      "title_en": "Putin congratulates teachers on their professional holiday",
+      "lead_en": "The Russian leader extended his heartfelt greetings to everyone who devotes their strength, energy, and knowledge to educating and guiding the younger generation",
+      "title_raw": "Putin congratulates teachers on their professional holiday",
+      "lead_raw": "The Russian leader extended his heartfelt greetings to everyone who devotes their strength, energy, and knowledge to educating and guiding the younger generation",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "3292d34ca782c320080e13637f3303d619e45619",
       "source": "TASS (EN)",
@@ -260,27 +281,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "e11b70119c79b42cb9993bbe5fbe581af3c0ec94",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2196965",
-      "published_utc": "2026-10-02T19:23:11Z",
-      "title_en": "US incursion in Iraq entailed decades of instability in entire region — Russian diplomat",
-      "lead_en": "The 12-year-long presence of the so-called anti-ISIS international coalition in Iraq ended on September 12, Maria Zakharova said",
-      "title_raw": "US incursion in Iraq entailed decades of instability in entire region — Russian diplomat",
-      "lead_raw": "The 12-year-long presence of the so-called anti-ISIS international coalition in Iraq ended on September 12, Maria Zakharova said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
