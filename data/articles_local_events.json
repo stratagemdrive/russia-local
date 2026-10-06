@@ -1,9 +1,53 @@
 {
-  "updated_at_utc": "2026-10-06T05:07:07Z",
+  "updated_at_utc": "2026-10-06T12:50:13Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 8,
+  "count": 9,
   "articles": [
+    {
+      "id": "62e64beb3b492883709c681090a00e6e5321879a",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/10/06/russia-holds-major-nuclear-accident-drill-at-beloyarsk-plant-a93889",
+      "published_utc": "2026-10-06T10:43:23Z",
+      "title_en": "Russia Holds Major Nuclear Accident Drill at Beloyarsk Plant",
+      "lead_en": "The drill is part of an annual program in which different Russian nuclear plants take turns hosting large exercises.",
+      "title_raw": "Russia Holds Major Nuclear Accident Drill at Beloyarsk Plant",
+      "lead_raw": "The drill is part of an annual program in which different Russian nuclear plants take turns hosting large exercises.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "1a50a2752bfa26413c8ba7f3bfd8332d3476c956",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2197977",
+      "published_utc": "2026-10-06T08:55:17Z",
+      "title_en": "Ukrainian forces deliberately block evacuation of bodies in Alyoshki — Russian envoy",
+      "lead_en": "According to Rodion Miroshnik, the Ukrainian military continued mining roads, while local civilians came under fire as they traveled to a neighboring community to obtain food",
+      "title_raw": "Ukrainian forces deliberately block evacuation of bodies in Alyoshki — Russian envoy",
+      "lead_raw": "According to Rodion Miroshnik, the Ukrainian military continued mining roads, while local civilians came under fire as they traveled to a neighboring community to obtain food",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "3c7f9d8a57e9b4ad7a249192e4e94b18778467d1",
       "source": "TASS (RU)",
@@ -147,27 +191,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "0d9fa96b08604c339df108f94c42f40299b1871b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2197293",
-      "published_utc": "2026-10-04T10:53:09Z",
-      "title_en": "Kiev carries out terrorist strike on Belgorod residential areas overnight — ministry",
-      "lead_en": "The strike killed and wounded civilians and damaged apartment buildings, private homes, and vehicles, the Russian Defense Ministry noted",
-      "title_raw": "Kiev carries out terrorist strike on Belgorod residential areas overnight — ministry",
-      "lead_raw": "The strike killed and wounded civilians and damaged apartment buildings, private homes, and vehicles, the Russian Defense Ministry noted",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
