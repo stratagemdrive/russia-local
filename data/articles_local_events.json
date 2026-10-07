@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-10-07T02:07:32Z",
+  "updated_at_utc": "2026-10-07T09:53:00Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 13,
+  "count": 11,
   "articles": [
+    {
+      "id": "7ae7f9cf3725b0ac28ecbda692ad8d11a3f12a64",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/10/07/at-least-8-dead-in-overnight-russian-strikes-on-ukraine-a93901",
+      "published_utc": "2026-10-07T08:37:40Z",
+      "title_en": "At Least 8 Killed in Overnight Russian Strikes on Ukraine",
+      "lead_en": "The strikes come as Russia and Ukraine have each promised to ratchet up attacks on the other.",
+      "title_raw": "At Least 8 Killed in Overnight Russian Strikes on Ukraine",
+      "lead_raw": "The strikes come as Russia and Ukraine have each promised to ratchet up attacks on the other.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "699c153fc408e8236c39349daad6af0a7e4632e6",
       "source": "TASS (RU)",
@@ -211,66 +230,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "87306b03f3cc20729e4a1b211c5b95014e45f90f",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/10/05/tu-95ms-bomber-crashed-in-russia-killing-eight-officers-some-helped-organize-missile-strikes-on-ukraine",
-      "published_utc": "2026-10-05T07:41:03Z",
-      "title_en": "Tu-95MS bomber crashed in Russia, killing eight officers. Some helped organize missile strikes on Ukraine.",
-      "lead_en": "Eight Russian officers were killed when a Tu-95MS missile-carrying bomber crashed in the Amur region on September 29. The independent Russian news outlet Mediazona published the full list of those on board.",
-      "title_raw": "Tu-95MS bomber crashed in Russia, killing eight officers. Some helped organize missile strikes on Ukraine.",
-      "lead_raw": "Eight Russian officers were killed when a Tu-95MS missile-carrying bomber crashed in the Amur region on September 29. The independent Russian news outlet Mediazona published the full list of those on board.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "9ea0de58329212f712119e3d577f39049dd2d9f2",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2197529",
-      "published_utc": "2026-10-05T07:33:32Z",
-      "title_en": "One killed, six wounded in Ukrainian attacks on Russia’s Belgorod Region over past day",
-      "lead_en": "Governor Alexander Shuvayev added that one of the wounded is in serious condition",
-      "title_raw": "One killed, six wounded in Ukrainian attacks on Russia’s Belgorod Region over past day",
-      "lead_raw": "Governor Alexander Shuvayev added that one of the wounded is in serious condition",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "3ccd318cb0bc9ce6317b28eccb0a1b53665751a4",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2197521",
-      "published_utc": "2026-10-05T07:03:01Z",
-      "title_en": "IN BRIEF: Injured tanker truck driver, 199 downed drones, aftermath of attacks on Russia",
-      "lead_en": "The truck driver suffered multiple burns and was hospitalized in serious condition",
-      "title_raw": "IN BRIEF: Injured tanker truck driver, 199 downed drones, aftermath of attacks on Russia",
-      "lead_raw": "The truck driver suffered multiple burns and was hospitalized in serious condition",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
