@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-10-08T02:33:26Z",
+  "updated_at_utc": "2026-10-08T10:04:46Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 16,
+  "count": 15,
   "articles": [
+    {
+      "id": "ef9b8fe072434935012fd7aec5a40940cbd02a34",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2199159",
+      "published_utc": "2026-10-08T09:05:25Z",
+      "title_en": "Fire at Yandex data center, 399 UAVs: aftermath of attacks on Russian regions",
+      "lead_en": "According to Russian Defense Ministry, Ukrainian drones were downed over 21 Russian regions",
+      "title_raw": "Fire at Yandex data center, 399 UAVs: aftermath of attacks on Russian regions",
+      "lead_raw": "According to Russian Defense Ministry, Ukrainian drones were downed over 21 Russian regions",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "0e7df2b14c62bdd96f57fc6d6c4f7729dbd58ec5",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/10/08/ukraine-strikes-yandex-data-center-in-russia-sparking-fire",
+      "published_utc": "2026-10-08T08:18:30Z",
+      "title_en": "Ukraine strikes Yandex data center in Russia, sparking fire",
+      "lead_en": "A fire broke out at the Sasta machine-tool plant in Sasovo, Ryazan region, which houses one of Yandex’s data centers, the independent Telegram channel Astra reported. Journalists reached that conclusion after analyzing photos and videos from eyewitnesses.",
+      "title_raw": "Ukraine strikes Yandex data center in Russia, sparking fire",
+      "lead_raw": "A fire broke out at the Sasta machine-tool plant in Sasovo, Ryazan region, which houses one of Yandex’s data centers, the independent Telegram channel Astra reported. Journalists reached that conclusion after analyzing photos and videos from eyewitnesses.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "ad241e21e17ede95b404a325c973ee0ec91a1f67",
       "source": "The Moscow Times",
@@ -260,73 +300,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "1a50a2752bfa26413c8ba7f3bfd8332d3476c956",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2197977",
-      "published_utc": "2026-10-06T08:55:17Z",
-      "title_en": "Ukrainian forces deliberately block evacuation of bodies in Alyoshki — Russian envoy",
-      "lead_en": "According to Rodion Miroshnik, the Ukrainian military continued mining roads, while local civilians came under fire as they traveled to a neighboring community to obtain food",
-      "title_raw": "Ukrainian forces deliberately block evacuation of bodies in Alyoshki — Russian envoy",
-      "lead_raw": "According to Rodion Miroshnik, the Ukrainian military continued mining roads, while local civilians came under fire as they traveled to a neighboring community to obtain food",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "diplomacy",
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "3c7f9d8a57e9b4ad7a249192e4e94b18778467d1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/28184973",
-      "published_utc": "2026-10-06T04:04:14Z",
-      "title_en": "Мирошник сообщил о восьми пострадавших от ударов ВСУ сотрудниках МЧС за неделю",
-      "lead_en": "Также ранения получили водитель скорой помощи и работники коммунальных служб, рассказал посол по особым поручениям МИД России",
-      "title_raw": "Мирошник сообщил о восьми пострадавших от ударов ВСУ сотрудниках МЧС за неделю",
-      "lead_raw": "Также ранения получили водитель скорой помощи и работники коммунальных служб, рассказал посол по особым поручениям МИД России",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "dd23965cd0df7e946a89942e2d28dc82314b4dfd",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28184971",
-      "published_utc": "2026-10-06T04:02:52Z",
-      "title_en": "Мирошник: украинские милитаристы блокируют эвакуацию тел жителей в Алешках",
-      "lead_en": "ВСУ на прошлой неделе продолжали минировать дороги и обстреливать гражданских, совершающих вылазки за продуктами, заявил посол по особым поручениям МИД России",
-      "title_raw": "Мирошник: украинские милитаристы блокируют эвакуацию тел жителей в Алешках",
-      "lead_raw": "ВСУ на прошлой неделе продолжали минировать дороги и обстреливать гражданских, совершающих вылазки за продуктами, заявил посол по особым поручениям МИД России",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
