@@ -1,9 +1,73 @@
 {
-  "updated_at_utc": "2026-10-10T19:48:29Z",
+  "updated_at_utc": "2026-10-10T23:16:04Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 35,
+  "count": 37,
   "articles": [
+    {
+      "id": "479d9ad2818a3592a5ff836bec98fc3b14dbb4ea",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2200395",
+      "published_utc": "2026-10-10T22:53:55Z",
+      "title_en": "Musk says Zelensky has gone too far",
+      "lead_en": "The entrepreneur commented on US President Donald Trump’s statements that Washington has repeatedly demanded that Kiev stop strikes on Russian oil refineries",
+      "title_raw": "Musk says Zelensky has gone too far",
+      "lead_raw": "The entrepreneur commented on US President Donald Trump’s statements that Washington has repeatedly demanded that Kiev stop strikes on Russian oil refineries",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "d529ddb1802424c7f8c39f61bfa88a068a3f403c",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2200383",
+      "published_utc": "2026-10-10T21:55:26Z",
+      "title_en": "Estonian rogues drag EU into quagmire of confrontation — Russian Foreign Ministry",
+      "lead_en": "Spokeswoman Maria Zakharova commented on a statement by Estonian Prime Minister Kristen Michal that the EU \"will throw all its resources into ensuring that Ukraine can turn Russian oil refineries into ruins\"",
+      "title_raw": "Estonian rogues drag EU into quagmire of confrontation — Russian Foreign Ministry",
+      "lead_raw": "Spokeswoman Maria Zakharova commented on a statement by Estonian Prime Minister Kristen Michal that the EU \"will throw all its resources into ensuring that Ukraine can turn Russian oil refineries into ruins\"",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "c38342bbeadb1f80b08438ecb71612685a02a885",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28202383",
+      "published_utc": "2026-10-10T21:05:38Z",
+      "title_en": "Путин пообещал, что государство продолжит помогать аграриям",
+      "lead_en": "В том числе это касается решения вопросов с топливом и сбытом продукции, отметил президент России",
+      "title_raw": "Путин пообещал, что государство продолжит помогать аграриям",
+      "lead_raw": "В том числе это касается решения вопросов с топливом и сбытом продукции, отметил президент России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "9143c005e2cb616983fdfcd310d27c6b17f26748",
       "source": "TASS (RU)",
@@ -734,28 +798,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "2414acac559ca7db4c3ad5f778e824584dec1dfd",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28196205",
-      "published_utc": "2026-10-08T21:25:28Z",
-      "title_en": "\"Известия\": ФРГ не планирует вводить полный запрет на выдачу виз россиянам",
-      "lead_en": "Информацию газете подтвердили в дипломатических структурах ЕС",
-      "title_raw": "\"Известия\": ФРГ не планирует вводить полный запрет на выдачу виз россиянам",
-      "lead_raw": "Информацию газете подтвердили в дипломатических структурах ЕС",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
