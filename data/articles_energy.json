@@ -1,9 +1,117 @@
 {
-  "updated_at_utc": "2026-10-13T01:07:25Z",
+  "updated_at_utc": "2026-10-13T09:00:08Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 51,
+  "count": 54,
   "articles": [
+    {
+      "id": "5af5dfaf7407a4c8cb5f7bdfc0952b9740346dd4",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28208681",
+      "published_utc": "2026-10-13T08:09:47Z",
+      "title_en": "WP: США и Европа готовят мирный план по Украине из четырех пунктов",
+      "lead_en": "По данным газеты, проект соглашения включать предложение России заключить с Европой договоренности в сферах безопасности и экономики, которые бы легли в основу стабильности в регионе",
+      "title_raw": "WP: США и Европа готовят мирный план по Украине из четырех пунктов",
+      "lead_raw": "По данным газеты, проект соглашения включать предложение России заключить с Европой договоренности в сферах безопасности и экономики, которые бы легли в основу стабильности в регионе",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "d96cf0ae0d040af4688c6f041e16b96d5920d932",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/28208643",
+      "published_utc": "2026-10-13T08:00:33Z",
+      "title_en": "С начала боевых действий в Донбассе и Новороссии погибли 30 энергетиков ЮЗЭСК",
+      "lead_en": "Еще 86 получили ранения",
+      "title_raw": "С начала боевых действий в Донбассе и Новороссии погибли 30 энергетиков ЮЗЭСК",
+      "lead_raw": "Еще 86 получили ранения",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "1facc15c4b3bb01ee56f3e447722cb5e72ecbca3",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28208637",
+      "published_utc": "2026-10-13T07:59:46Z",
+      "title_en": "The Times of India: США проявляют двойные стандарты, покупая энергоносители у РФ",
+      "lead_en": "Вашингтон при этом угрожает Нью-Дели новыми пошлинами за покупку российской нефти",
+      "title_raw": "The Times of India: США проявляют двойные стандарты, покупая энергоносители у РФ",
+      "lead_raw": "Вашингтон при этом угрожает Нью-Дели новыми пошлинами за покупку российской нефти",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "de6f7b47290b7b1e4a322347cbda73c874c14216",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/10/13/france-seizes-russian-shadow-fleet-oil-tanker-in-indian-ocean",
+      "published_utc": "2026-10-13T07:22:26Z",
+      "title_en": "France seizes Russian ‘shadow fleet’ oil tanker in Indian Ocean",
+      "lead_en": "France’s navy detained an oil tanker called the DF Peak that belongs to the “shadow fleet” on October 12, French President Emmanuel Macron said.",
+      "title_raw": "France seizes Russian ‘shadow fleet’ oil tanker in Indian Ocean",
+      "lead_raw": "France’s navy detained an oil tanker called the DF Peak that belongs to the “shadow fleet” on October 12, French President Emmanuel Macron said.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "6d6b24b00f75417ab13a58426cdc2438e70754ee",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2201187",
+      "published_utc": "2026-10-13T03:04:01Z",
+      "title_en": "Russian foreign minister, ASEAN chief to discuss energy, food security in Moscow",
+      "lead_en": "The visit marks the 35th anniversary of Russia’s relations with ASEAN",
+      "title_raw": "Russian foreign minister, ASEAN chief to discuss energy, food security in Moscow",
+      "lead_raw": "The visit marks the 35th anniversary of Russia’s relations with ASEAN",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "86a3e3fb82c9d824a9d7156a6888b03b2b71d21a",
       "source": "TASS (EN)",
@@ -1051,48 +1159,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "5e39cce725c3deaa1b0ed45048360e50be0a0e12",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28203021",
-      "published_utc": "2026-10-11T08:25:08Z",
-      "title_en": "В России произошел массовый сбой сервисов",
-      "lead_en": "Также неполадки отмечаются в приложениях сети магазинов \"Магнит\" и фитнес-клубов DDX Fitness",
-      "title_raw": "В России произошел массовый сбой сервисов",
-      "lead_raw": "Также неполадки отмечаются в приложениях сети магазинов \"Магнит\" и фитнес-клубов DDX Fitness",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "1cbe55060dfba197064763a4f3d6434dcc378f49",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28202571",
-      "published_utc": "2026-10-11T01:10:50Z",
-      "title_en": "Трамп считает низкой цену, по которой Россия продает нефть",
-      "lead_en": "Американский лидер также отметил, что президент РФ Владимир Путин хотел бы урегулирования конфликта на Украине",
-      "title_raw": "Трамп считает низкой цену, по которой Россия продает нефть",
-      "lead_raw": "Американский лидер также отметил, что президент РФ Владимир Путин хотел бы урегулирования конфликта на Украине",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
