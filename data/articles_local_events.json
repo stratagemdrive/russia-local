@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-10-13T21:44:43Z",
+  "updated_at_utc": "2026-10-14T05:51:41Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 20,
   "articles": [
+    {
+      "id": "565e67b0f58cbb3c2ee0f2f318f7b1cad19b2294",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/10/14/the-washington-post-u-s-and-europe-are-developing-a-new-plan-to-end-the-russia-ukraine-war-offering-incentives-and-security-arrangements-in-exchange-for-a-ceasefire-along-the-current-front-line",
+      "published_utc": "2026-10-13T22:31:55Z",
+      "title_en": "The Washington Post: U.S. and Europe are developing a new plan to end the Russia–Ukraine war, offering incentives and security arrangements in exchange for a ceasefire along the current front line",
+      "lead_en": "The U.S. and Europe are gradually working toward a joint proposal for a broad peace deal between Russia and Ukraine, built around financial benefits and security guarantees for both Kyiv and Moscow, according to Washington Post columnist David Ignatius.",
+      "title_raw": "The Washington Post: U.S. and Europe are developing a new plan to end the Russia–Ukraine war, offering incentives and security arrangements in exchange for a ceasefire along the current front line",
+      "lead_raw": "The U.S. and Europe are gradually working toward a joint proposal for a broad peace deal between Russia and Ukraine, built around financial benefits and security guarantees for both Kyiv and Moscow, according to Washington Post columnist David Ignatius.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "1adada2b645c114260a8d36ee4a2f95875937422",
       "source": "TASS (RU)",
@@ -390,25 +411,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "6ed3c0762a87903ca334c76714e339ca724441bb",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2200629",
-      "published_utc": "2026-10-12T02:45:00Z",
-      "title_en": "Russian emergencies minister arrives in North Korea with first-ever visit",
-      "lead_en": "Alexander Kurenkov is scheduled to meet with Pak Thae Song, premier of North Korea’s Cabinet, and Minister of Disaster Management Kim Chol Nam in Pyongyang",
-      "title_raw": "Russian emergencies minister arrives in North Korea with first-ever visit",
-      "lead_raw": "Alexander Kurenkov is scheduled to meet with Pak Thae Song, premier of North Korea’s Cabinet, and Minister of Disaster Management Kim Chol Nam in Pyongyang",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
