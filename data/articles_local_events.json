@@ -1,9 +1,70 @@
 {
-  "updated_at_utc": "2026-10-14T16:38:32Z",
+  "updated_at_utc": "2026-10-14T20:28:49Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 16,
+  "count": 17,
   "articles": [
+    {
+      "id": "5ab80b46df4fdd7655b597265db8593fd31eea0f",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/10/14/germany-has-stood-by-ukraine-throughout-russia-s-invasion-a-trial-over-the-nord-stream-explosions-could-put-berlin-s-unconditional-support-to-the-test",
+      "published_utc": "2026-10-14T19:26:59Z",
+      "title_en": "Germany has stood by Ukraine throughout Russia’s invasion. A trial over the Nord Stream explosions could put Berlin’s unconditional support to the test.",
+      "lead_en": "The trial of Ukrainian national Serhiy Kuznetsov began in Hamburg on October 14. Investigators allege that he took part in the September 2022 bombing of the Nord Stream pipelines.",
+      "title_raw": "Germany has stood by Ukraine throughout Russia’s invasion. A trial over the Nord Stream explosions could put Berlin’s unconditional support to the test.",
+      "lead_raw": "The trial of Ukrainian national Serhiy Kuznetsov began in Hamburg on October 14. Investigators allege that he took part in the September 2022 bombing of the Nord Stream pipelines.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "7d1a646744dbf940cf18bb70329db3ce63a2f3c9",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2202183",
+      "published_utc": "2026-10-14T18:45:05Z",
+      "title_en": "More than 9,000 Russian civilians died from Ukrainian actions since 2022 — diplomat",
+      "lead_en": "More than 26,440 people have been injured",
+      "title_raw": "More than 9,000 Russian civilians died from Ukrainian actions since 2022 — diplomat",
+      "lead_raw": "More than 26,440 people have been injured",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "510b2b8ac8b7f0af8348f62bc1802c555a4e1b92",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2202145",
+      "published_utc": "2026-10-14T16:36:34Z",
+      "title_en": "Over 9,000 civilians killed by Ukrainian militants since 2022 — diplomat",
+      "lead_en": "In total, over 36,400 civilians have suffered at the hands of Ukrainian militants, Russian Foreign Ministry Ambassador-at-Large Rodion Miroshnik stated",
+      "title_raw": "Over 9,000 civilians killed by Ukrainian militants since 2022 — diplomat",
+      "lead_raw": "In total, over 36,400 civilians have suffered at the hands of Ukrainian militants, Russian Foreign Ministry Ambassador-at-Large Rodion Miroshnik stated",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "8539d5b0eb4572382e0bad98af2608f2c6421543",
       "source": "TASS (RU)",
@@ -292,46 +353,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "e6a8d8a93ef51fdc0ed74d7c3a9b7d148c3eef7e",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/10/12/entire-section-of-kharkiv-apartment-building-collapses-in-russian-attack",
-      "published_utc": "2026-10-12T20:27:29Z",
-      "title_en": "Entire section of Kharkiv apartment building collapses in Russian attack",
-      "lead_en": "Russian forces attacked Kharkiv’s Kholodnohirskyi district with “Banderol” missiles on the evening of October 12, Mayor Ihor Terekhov said.",
-      "title_raw": "Entire section of Kharkiv apartment building collapses in Russian attack",
-      "lead_raw": "Russian forces attacked Kharkiv’s Kholodnohirskyi district with “Banderol” missiles on the evening of October 12, Mayor Ihor Terekhov said.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "5decaa261f36b9b6fc83e02021e29c757cc527a1",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/10/12/how-many-children-have-been-killed-in-russia-s-full-scale-invasion-of-ukraine-a-new-meduza-investigation-finds-at-least-940",
-      "published_utc": "2026-10-12T18:55:42Z",
-      "title_en": "How many children have been killed in Russia’s full-scale invasion of Ukraine? A new Meduza investigation finds at least 940.",
-      "lead_en": "The war Russia launched has killed hundreds of thousands of people and harmed millions. Exactly how many are children is unknown.",
-      "title_raw": "How many children have been killed in Russia’s full-scale invasion of Ukraine? A new Meduza investigation finds at least 940.",
-      "lead_raw": "The war Russia launched has killed hundreds of thousands of people and harmed millions. Exactly how many are children is unknown.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
