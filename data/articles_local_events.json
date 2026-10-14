@@ -1,9 +1,71 @@
 {
-  "updated_at_utc": "2026-10-14T11:17:35Z",
+  "updated_at_utc": "2026-10-14T16:38:32Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 18,
+  "count": 16,
   "articles": [
+    {
+      "id": "8539d5b0eb4572382e0bad98af2608f2c6421543",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28214509",
+      "published_utc": "2026-10-14T16:00:01Z",
+      "title_en": "Света и воды хватит не всем: что известно о поражении энергосистемы Украины",
+      "lead_en": "В ночь на 14 октября российские войска нанесли массированный удар по украинской энергетической инфраструктуре. В результате серии взрывов повреждения получили все три ТЭЦ Киева, а кроме них, крупнейший энергообъект Киевской области — Трипольская ТЭС.",
+      "title_raw": "Света и воды хватит не всем: что известно о поражении энергосистемы Украины",
+      "lead_raw": "В ночь на 14 октября российские войска нанесли массированный удар по украинской энергетической инфраструктуре. В результате серии взрывов повреждения получили все три ТЭЦ Киева, а кроме них, крупнейший энергообъект Киевской области — Трипольская ТЭС.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "1f270df1c9d4ec9609b4458f78662f1b01a83f43",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2202137",
+      "published_utc": "2026-10-14T15:56:18Z",
+      "title_en": "Ukrainian drones attack two Russian refineries — Novak",
+      "lead_en": "The Russian Deputy Prime Minister said the Ukrainian side shows no signs of moving toward an energy ceasefire",
+      "title_raw": "Ukrainian drones attack two Russian refineries — Novak",
+      "lead_raw": "The Russian Deputy Prime Minister said the Ukrainian side shows no signs of moving toward an energy ceasefire",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "00dae063565848fdd96392225503d3988bcfed00",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/10/14/six-killed-in-russian-strike-on-warehouse-in-ukraine-s-lutsk",
+      "published_utc": "2026-10-14T14:42:31Z",
+      "title_en": "Six killed in Russian strike on warehouse in Ukraine’s Lutsk",
+      "lead_en": "Russian drones struck a wholesale warehouse in Lutsk, killing six people, said regional Governor Roman Romaniuk. Five died at the scene, and a sixth died later in the hospital from their injuries.",
+      "title_raw": "Six killed in Russian strike on warehouse in Ukraine’s Lutsk",
+      "lead_raw": "Russian drones struck a wholesale warehouse in Lutsk, killing six people, said regional Governor Roman Romaniuk. Five died at the scene, and a sixth died later in the hospital from their injuries.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "2b9b18fa516110476ad8b2881ac100823ab63b28",
       "source": "TASS (RU)",
@@ -261,104 +323,6 @@
       "lead_en": "The war Russia launched has killed hundreds of thousands of people and harmed millions. Exactly how many are children is unknown.",
       "title_raw": "How many children have been killed in Russia’s full-scale invasion of Ukraine? A new Meduza investigation finds at least 940.",
       "lead_raw": "The war Russia launched has killed hundreds of thousands of people and harmed millions. Exactly how many are children is unknown.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "9458b6292df56c589257158a7711a1abb0d48f01",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/10/12/after-a-storm-stranded-an-enormous-cargo-ship-off-russia-s-baltic-coast-locals-turn-it-into-a-tourist-attraction",
-      "published_utc": "2026-10-12T15:49:18Z",
-      "title_en": "After a storm stranded an enormous cargo ship off Russia’s Baltic coast, locals turn it into a tourist attraction",
-      "lead_en": "A powerful storm swept through Russia’s Kaliningrad region on October 9. In Kaliningrad, gusty winds toppled trees and brought down power lines.",
-      "title_raw": "After a storm stranded an enormous cargo ship off Russia’s Baltic coast, locals turn it into a tourist attraction",
-      "lead_raw": "A powerful storm swept through Russia’s Kaliningrad region on October 9. In Kaliningrad, gusty winds toppled trees and brought down power lines.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "59288497fa49ed54ce4a22e176750f9fb433e70d",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/10/12/russian-diplomat-expelled-from-bulgaria-in-2021-amid-investigation-into-arms-depot-explosions-now-serves-as-assistant-military-attache-in-serbia-rfe-rl-finds",
-      "published_utc": "2026-10-12T15:36:46Z",
-      "title_en": "Russian diplomat expelled from Bulgaria in 2021 amid investigation into arms depot explosions now serves as assistant military attaché in Serbia, RFE/RL finds",
-      "lead_en": "RFE/RL’s Balkan Service and the investigative project Sistema have identified a diplomat at the Russian Embassy in Serbia who was declared persona non grata in Bulgaria in 2021 during an investigation into explosions at weapons depots.",
-      "title_raw": "Russian diplomat expelled from Bulgaria in 2021 amid investigation into arms depot explosions now serves as assistant military attaché in Serbia, RFE/RL finds",
-      "lead_raw": "RFE/RL’s Balkan Service and the investigative project Sistema have identified a diplomat at the Russian Embassy in Serbia who was declared persona non grata in Bulgaria in 2021 during an investigation into explosions at weapons depots.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 3,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "220842f2844fd46ea9fd1bd55e296eb44e3bae1b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2200939",
-      "published_utc": "2026-10-12T12:59:00Z",
-      "title_en": "Russian forces take Ukrainian positions in Annopolye using Shmel flamethrower — commander",
-      "lead_en": "The Russian serviceman said that flamethrower platoon fires two or three RPO rounds, and the enemy surrenders almost immediately",
-      "title_raw": "Russian forces take Ukrainian positions in Annopolye using Shmel flamethrower — commander",
-      "lead_raw": "The Russian serviceman said that flamethrower platoon fires two or three RPO rounds, and the enemy surrenders almost immediately",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "69e5f04ca357f8cbb719717783d38b0e6d769b14",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/10/12/kremlin-rejects-60-day-ceasefire-for-ukraine-s-elections-but-says-it-might-not-strike-on-election-day-itself",
-      "published_utc": "2026-10-12T11:37:43Z",
-      "title_en": "Kremlin rejects 60-day ceasefire for Ukraine’s elections — but says it might not strike ‘on election day itself’",
-      "lead_en": "Kremlin spokesperson Dmitry Peskov said Russia will not agree to a 60-day ceasefire to allow Ukrainian authorities to hold a presidential election.",
-      "title_raw": "Kremlin rejects 60-day ceasefire for Ukraine’s elections — but says it might not strike ‘on election day itself’",
-      "lead_raw": "Kremlin spokesperson Dmitry Peskov said Russia will not agree to a 60-day ceasefire to allow Ukrainian authorities to hold a presidential election.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "b080ac848dd240fb01320cd855cf447d46ced29d",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/10/12/russia-weighs-drone-defenses-for-data-centers-after-unprecedented-yandex-attacks-a93948",
-      "published_utc": "2026-10-12T11:20:00Z",
-      "title_en": "Russia Weighs Drone Defenses for Data Centers After ‘Unprecedented’ Yandex Attacks",
-      "lead_en": "The strikes on Yandex data centers have caused server outages that triggered service disruptions for users.",
-      "title_raw": "Russia Weighs Drone Defenses for Data Centers After ‘Unprecedented’ Yandex Attacks",
-      "lead_raw": "The strikes on Yandex data centers have caused server outages that triggered service disruptions for users.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
