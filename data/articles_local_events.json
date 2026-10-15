@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-10-15T18:11:17Z",
+  "updated_at_utc": "2026-10-15T21:57:12Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 20,
+  "count": 21,
   "articles": [
+    {
+      "id": "45a300bf08e7a6cd5591803d806b7743f6f62217",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/10/15/russian-police-shoot-17-year-old-suspected-of-setting-two-patrol-cars-on-fire-in-yekaterinburg",
+      "published_utc": "2026-10-15T20:56:52Z",
+      "title_en": "Russian police shoot 17-year-old suspected of setting two patrol cars on fire in Yekaterinburg",
+      "lead_en": "A police officer in Yekaterinburg shot a 17-year-old while detaining him on suspicion of setting fire to police vehicles, the Interior Ministry’s Sverdlovsk regional directorate told Vecherniye Vedomosti.",
+      "title_raw": "Russian police shoot 17-year-old suspected of setting two patrol cars on fire in Yekaterinburg",
+      "lead_raw": "A police officer in Yekaterinburg shot a 17-year-old while detaining him on suspicion of setting fire to police vehicles, the Interior Ministry’s Sverdlovsk regional directorate told Vecherniye Vedomosti.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "5786ee02e3640aa5a2fd0e791eba277cf04660b4",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/10/15/low-wages-are-driving-firefighters-away-from-russia-s-emergency-ministry-lawmakers-have-proposed-filling-vacancies-with-conscripts",
+      "published_utc": "2026-10-15T20:39:18Z",
+      "title_en": "Low wages are driving firefighters away from Russia’s Emergencies Ministry. Lawmakers have backed a bill to fill the vacancies with conscripts.",
+      "lead_en": "Russia’s State Duma has passed a bill in its first reading that would allow conscripts to serve in military units of the Emergencies Ministry’s Federal Fire Service.",
+      "title_raw": "Low wages are driving firefighters away from Russia’s Emergencies Ministry. Lawmakers have backed a bill to fill the vacancies with conscripts.",
+      "lead_raw": "Russia’s State Duma has passed a bill in its first reading that would allow conscripts to serve in military units of the Emergencies Ministry’s Federal Fire Service.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "b240dfd1f43db9de84c863226836bfbf4165b78f",
       "source": "Meduza (EN)",
@@ -394,27 +434,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "1adada2b645c114260a8d36ee4a2f95875937422",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/nauka/28211213",
-      "published_utc": "2026-10-13T21:33:37Z",
-      "title_en": "В России нашли способ прогнозировать аварии на газотурбинных двигателях",
-      "lead_en": "Метод основан на анализе вибрации корпуса и звуковых колебаний в канале, по которому движутся газ и воздух, сообщили в Новосибирском государственном университете",
-      "title_raw": "В России нашли способ прогнозировать аварии на газотурбинных двигателях",
-      "lead_raw": "Метод основан на анализе вибрации корпуса и звуковых колебаний в канале, по которому движутся газ и воздух, сообщили в Новосибирском государственном университете",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
