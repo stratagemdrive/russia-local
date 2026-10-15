@@ -1,9 +1,75 @@
 {
-  "updated_at_utc": "2026-10-14T23:43:06Z",
+  "updated_at_utc": "2026-10-15T03:25:13Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 61,
+  "count": 63,
   "articles": [
+    {
+      "id": "31c98b470f286e42a8fa6b5191feb857c8055d3f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28215771",
+      "published_utc": "2026-10-15T02:42:29Z",
+      "title_en": "В России уточнили порядок высылки иностранцев с опасными болезнями",
+      "lead_en": "Зампред комитета Госдумы по энергетике Игорь Антропенко отметил, что есть исключения для действующих и бывших военнослужащих по контракту, участвовавших в боевых действиях в составе ВС РФ",
+      "title_raw": "В России уточнили порядок высылки иностранцев с опасными болезнями",
+      "lead_raw": "Зампред комитета Госдумы по энергетике Игорь Антропенко отметил, что есть исключения для действующих и бывших военнослужащих по контракту, участвовавших в боевых действиях в составе ВС РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "99628bb6fccee7709c919b0a0960d8bebfb18bec",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28215665",
+      "published_utc": "2026-10-15T01:33:31Z",
+      "title_en": "WSJ: Трамп готов к экономическому сотрудничеству РФ и США после мира на Украине",
+      "lead_en": "По мнению американских чиновников, президент Соединенных Штатов заключил договоренность о поставках российского дизеля в том числе, чтобы \"предложить экономический стимул\" Москве для ведения переговоров, сообщила газета",
+      "title_raw": "WSJ: Трамп готов к экономическому сотрудничеству РФ и США после мира на Украине",
+      "lead_raw": "По мнению американских чиновников, президент Соединенных Штатов заключил договоренность о поставках российского дизеля в том числе, чтобы \"предложить экономический стимул\" Москве для ведения переговоров, сообщила газета",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "272acf85fe4580e3f26632ec8d67b7fe5b3accf7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28215637",
+      "published_utc": "2026-10-15T01:11:02Z",
+      "title_en": "WSJ: отношения Трампа и Зеленского начали ухудшаться после ГА ООН в сентябре",
+      "lead_en": "Согласно информации газеты, за время, прошедшее с этой встречи, Вашингтон шесть раз просил Киев прекратить удары по российским нефтеперерабатывающим заводам",
+      "title_raw": "WSJ: отношения Трампа и Зеленского начали ухудшаться после ГА ООН в сентябре",
+      "lead_raw": "Согласно информации газеты, за время, прошедшее с этой встречи, Вашингтон шесть раз просил Киев прекратить удары по российским нефтеперерабатывающим заводам",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "940f159256aec84b530bb56f9189d3a9198487de",
       "source": "TASS (RU)",
@@ -1276,28 +1342,6 @@
       "topic_scores": {
         "diplomacy": 0,
         "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "6d6b24b00f75417ab13a58426cdc2438e70754ee",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2201187",
-      "published_utc": "2026-10-13T03:04:01Z",
-      "title_en": "Russian foreign minister, ASEAN chief to discuss energy, food security in Moscow",
-      "lead_en": "The visit marks the 35th anniversary of Russia’s relations with ASEAN",
-      "title_raw": "Russian foreign minister, ASEAN chief to discuss energy, food security in Moscow",
-      "lead_raw": "The visit marks the 35th anniversary of Russia’s relations with ASEAN",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
         "energy": 1,
         "economy": 0,
         "local_events": 0
