@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-10-16T19:20:38Z",
+  "updated_at_utc": "2026-10-16T22:34:10Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 19,
+  "count": 18,
   "articles": [
+    {
+      "id": "69fed267466965e6e3bcb135be1ea83d756611a4",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28224331",
+      "published_utc": "2026-10-16T21:35:55Z",
+      "title_en": "Россиянам рекомендовали отложить поездки в Саудовскую Аравию",
+      "lead_en": "Экстренная эвакуация не планируется из-за отсутствия угрозы безопасности соотечественникам, сообщили в посольстве РФ",
+      "title_raw": "Россиянам рекомендовали отложить поездки в Саудовскую Аравию",
+      "lead_raw": "Экстренная эвакуация не планируется из-за отсутствия угрозы безопасности соотечественникам, сообщили в посольстве РФ",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "f322ec91f47c09691f723c5f93d25b5f0017b7a5",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/10/16/russian-intelligence-may-have-hired-a-turkish-crime-gang-to-set-fire-to-a-starlink-ground-station-in-poland-spiegel-reports",
+      "published_utc": "2026-10-16T19:19:50Z",
+      "title_en": "Russian intelligence may have hired a Turkish crime gang to set fire to a Starlink ground station in Poland, Spiegel reports",
+      "lead_en": "The Turkish criminal gang known as the Daltons may have been involved in the arson attack on a Starlink satellite ground station in the village of Wola Krobowska in Poland’s Masovian province, Der Spiegel reported, citing sources.",
+      "title_raw": "Russian intelligence may have hired a Turkish crime gang to set fire to a Starlink ground station in Poland, Spiegel reports",
+      "lead_raw": "The Turkish criminal gang known as the Daltons may have been involved in the arson attack on a Starlink satellite ground station in the village of Wola Krobowska in Poland’s Masovian province, Der Spiegel reported, citing sources.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "9c6429e74b23804adbddc9ac054dab3738cf2447",
       "source": "TASS (RU)",
@@ -327,71 +367,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "703d6a85adae02c2c936d91d398e1c4fe817c8b9",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/10/15/greenpeace-reports-another-huge-oil-slick-in-the-black-sea-following-an-attack-on-a-tanker-off-sochi-s-coastline-russia-denies-any-pollution-but-has-declared-a-h-alert",
-      "published_utc": "2026-10-14T21:00:12Z",
-      "title_en": "Greenpeace reports another huge oil slick in the Black Sea following an attack on a tanker off Sochi’s coastline. Russia denies any pollution but has declared a h alert.",
-      "lead_en": "Krasnodar Krai is on heightened alert over a “possible spill of petroleum products.” Governor Veniamin Kondratyev signed the order on the evening of October 13. The document says naval drone attacks on vessels in the Black Sea “caused accidents,” creating a risk of an emergency in Gelendzhik and Novorossiysk.",
-      "title_raw": "Greenpeace reports another huge oil slick in the Black Sea following an attack on a tanker off Sochi’s coastline. Russia denies any pollution but has declared a h alert.",
-      "lead_raw": "Krasnodar Krai is on heightened alert over a “possible spill of petroleum products.” Governor Veniamin Kondratyev signed the order on the evening of October 13. The document says naval drone attacks on vessels in the Black Sea “caused accidents,” creating a risk of an emergency in Gelendzhik and Novorossiysk.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "energy",
-        "local_events"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "ce90d368c94e71b48bca2dca97384cb4e5e2f1ba",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28215353",
-      "published_utc": "2026-10-14T20:51:00Z",
-      "title_en": "Мирошник: украинские каратели используют \"взрывные ошейники\" на пленных",
-      "lead_en": "ВСУ отправляют российских военнопленных разминировать поля своими телами, рассказал посол по особым поручениям МИД России",
-      "title_raw": "Мирошник: украинские каратели используют \"взрывные ошейники\" на пленных",
-      "lead_raw": "ВСУ отправляют российских военнопленных разминировать поля своими телами, рассказал посол по особым поручениям МИД России",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "5ab80b46df4fdd7655b597265db8593fd31eea0f",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/10/14/germany-has-stood-by-ukraine-throughout-russia-s-invasion-a-trial-over-the-nord-stream-explosions-could-put-berlin-s-unconditional-support-to-the-test",
-      "published_utc": "2026-10-14T19:26:59Z",
-      "title_en": "Germany has stood by Ukraine throughout Russia’s invasion. A trial over the Nord Stream explosions could put Berlin’s unconditional support to the test.",
-      "lead_en": "The trial of Ukrainian national Serhiy Kuznetsov began in Hamburg on October 14. Investigators allege that he took part in the September 2022 bombing of the Nord Stream pipelines.",
-      "title_raw": "Germany has stood by Ukraine throughout Russia’s invasion. A trial over the Nord Stream explosions could put Berlin’s unconditional support to the test.",
-      "lead_raw": "The trial of Ukrainian national Serhiy Kuznetsov began in Hamburg on October 14. Investigators allege that he took part in the September 2022 bombing of the Nord Stream pipelines.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
