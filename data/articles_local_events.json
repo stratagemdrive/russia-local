@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-10-16T05:29:20Z",
+  "updated_at_utc": "2026-10-16T10:47:52Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 21,
+  "count": 20,
   "articles": [
+    {
+      "id": "4a40111a83f71673a9ede0552eda3df3e2766d9d",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2202841",
+      "published_utc": "2026-10-16T07:35:49Z",
+      "title_en": "Russian defenses down 644 drones overnight, civilian injured in Rostov Region",
+      "lead_en": "Falling drone debris damaged production and storage facilities in the Aksaisky District",
+      "title_raw": "Russian defenses down 644 drones overnight, civilian injured in Rostov Region",
+      "lead_raw": "Falling drone debris damaged production and storage facilities in the Aksaisky District",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "a3f98aed746b2280a8a8a42ca381f4cbe57f517e",
       "source": "TASS (EN)",
@@ -392,46 +411,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "4e354749471e6eeb3dd6414faf86665b730868ec",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/10/14/russias-krasnodar-region-raises-alert-as-oil-washes-ashore-on-black-sea-coast-a93969",
-      "published_utc": "2026-10-14T08:36:09Z",
-      "title_en": "Russia’s Krasnodar Region Raises Alert as Oil Washes Ashore on Black Sea Coast",
-      "lead_en": "Governor Veniamin Kondratyev attributed the spill to “accidents” involving vessels targeted by Ukrainian naval drones on Oct. 6.",
-      "title_raw": "Russia’s Krasnodar Region Raises Alert as Oil Washes Ashore on Black Sea Coast",
-      "lead_raw": "Governor Veniamin Kondratyev attributed the spill to “accidents” involving vessels targeted by Ukrainian naval drones on Oct. 6.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "d873267e0ddf4fa23fad8cc358a4de2ff3e8ab0e",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/10/14/russian-strike-on-kyiv-kills-three-injures-over-20-parts-of-city-lose-power",
-      "published_utc": "2026-10-14T06:57:36Z",
-      "title_en": "Russian strike on Kyiv kills three, injures over 20; parts of city lose power",
-      "lead_en": "Russian forces struck Kyiv overnight on October 14, killing three people and injuring 21, according to data from Ukraine’s State Emergency Service.",
-      "title_raw": "Russian strike on Kyiv kills three, injures over 20; parts of city lose power",
-      "lead_raw": "Russian forces struck Kyiv overnight on October 14, killing three people and injuring 21, according to data from Ukraine’s State Emergency Service.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
