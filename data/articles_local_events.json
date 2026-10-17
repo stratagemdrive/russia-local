@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-10-17T11:23:56Z",
+  "updated_at_utc": "2026-10-17T15:02:19Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 15,
+  "count": 14,
   "articles": [
+    {
+      "id": "b9e78199f24b6712fcda384c542adc76bf5a8b79",
+      "source": "RT",
+      "url": "https://rt-english.com/news/647336-natos-theory-of-victory/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "published_utc": "2026-10-17T14:27:47Z",
+      "title_en": "What if NATO’s ‘Theory of Victory’ is a recipe for disaster?",
+      "lead_en": "NATO’s ‘Theory of Victory’ aims to deter Russia. Could its 2029 readiness target turn defense preparations into a case for war?",
+      "title_raw": "What if NATO’s ‘Theory of Victory’ is a recipe for disaster?",
+      "lead_raw": "NATO’s ‘Theory of Victory’ aims to deter Russia. Could its 2029 readiness target turn defense preparations into a case for war?",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "c8e6abd9302aba9f8ab9772bd49b48a9ed2ab026",
       "source": "TASS (RU)",
@@ -262,49 +281,6 @@
         "local_events": 1
       },
       "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "15c63ed3129c3a498b5cb5e037d7125ca7732887",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2202593",
-      "published_utc": "2026-10-15T14:11:04Z",
-      "title_en": "IAEA points to Russia’s constructive role in coordinating ceasefire at nuclear plant",
-      "lead_en": "The agency believes that ongoing diplomatic efforts help achieve concrete results and benefit both sides",
-      "title_raw": "IAEA points to Russia’s constructive role in coordinating ceasefire at nuclear plant",
-      "lead_raw": "The agency believes that ongoing diplomatic efforts help achieve concrete results and benefit both sides",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "d79ce7cb1768e4e55cc36228551f744fabf65f3a",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/10/15/ukraine-says-missile-strike-destroyed-6-russian-warplanes-at-voronezh-airfield-a93991",
-      "published_utc": "2026-10-15T11:59:00Z",
-      "title_en": "Ukraine Says Missile Strike Destroyed 6 Russian Warplanes at Voronezh Airfield",
-      "lead_en": "Residents of Borisoglebsk reported explosions and a large fire, with smoke visible from several parts of the city.",
-      "title_raw": "Ukraine Says Missile Strike Destroyed 6 Russian Warplanes at Voronezh Airfield",
-      "lead_raw": "Residents of Borisoglebsk reported explosions and a large fire, with smoke visible from several parts of the city.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
       "primary_topic": "local_events"
     }
   ]
