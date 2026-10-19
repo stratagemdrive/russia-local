@@ -1,9 +1,50 @@
 {
-  "updated_at_utc": "2026-10-19T05:46:01Z",
+  "updated_at_utc": "2026-10-19T12:16:11Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 2,
+  "count": 5,
   "articles": [
+    {
+      "id": "b34312a0dd7463185d11b101e7b8f67c5603fa34",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2203985",
+      "published_utc": "2026-10-19T08:44:06Z",
+      "title_en": "Russian forces to sweep liberated Dobropolye for scattered enemy groups — Donetsk leader",
+      "lead_en": "Only Russian servicemen can provide the necessary assistance during the initial stage of civilian evacuation, Denis Pushilin added",
+      "title_raw": "Russian forces to sweep liberated Dobropolye for scattered enemy groups — Donetsk leader",
+      "lead_raw": "Only Russian servicemen can provide the necessary assistance during the initial stage of civilian evacuation, Denis Pushilin added",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "42cfccd7ae8cc14d41bccb7b66b7634b54676513",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/10/19/russian-strike-on-kyiv-kills-21-year-old-woman-u-s-gave-ukraine-no-advance-warning-journalists-report",
+      "published_utc": "2026-10-19T07:20:47Z",
+      "title_en": "Russian strike on Kyiv kills 21-year-old woman; U.S. gave Ukraine no advance warning, journalists report",
+      "lead_en": "Russian forces struck Kyiv with ballistic missiles overnight on October 19, damaging buildings in the Desnianskyi and Dniprovskyi districts, Kyiv Mayor Vitali Klitschko said. Three people were injured, and a 21-year-old woman was killed.",
+      "title_raw": "Russian strike on Kyiv kills 21-year-old woman; U.S. gave Ukraine no advance warning, journalists report",
+      "lead_raw": "Russian forces struck Kyiv with ballistic missiles overnight on October 19, damaging buildings in the Desnianskyi and Dniprovskyi districts, Kyiv Mayor Vitali Klitschko said. Three people were injured, and a 21-year-old woman was killed.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "21e9fd5cd7e33ebbca52985a36a972fd4834b648",
       "source": "The Moscow Times",
@@ -12,6 +53,28 @@
       "title_en": "1 Killed, 5 Injured in Ukrainian Drone Attack on St. Petersburg, Governor Says",
       "lead_en": "Russian air defense units downed 1,015 Ukrainian drones overnight, the Russian Defense Ministry said.",
       "title_raw": "1 Killed, 5 Injured in Ukrainian Drone Attack on St. Petersburg, Governor Says",
+      "lead_raw": "Russian air defense units downed 1,015 Ukrainian drones overnight, the Russian Defense Ministry said.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "8bd00d26aab2113894bcca6c6085907a93979a11",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/10/18/one-killed-5-injured-in-ukrainian-drone-attack-on-st-petersburg-governor-says-a94015",
+      "published_utc": "2026-10-18T09:53:00Z",
+      "title_en": "One Killed, 5 Injured in Ukrainian Drone Attack on St. Petersburg, Governor Says",
+      "lead_en": "Russian air defense units downed 1,015 Ukrainian drones overnight, the Russian Defense Ministry said.",
+      "title_raw": "One Killed, 5 Injured in Ukrainian Drone Attack on St. Petersburg, Governor Says",
       "lead_raw": "Russian air defense units downed 1,015 Ukrainian drones overnight, the Russian Defense Ministry said.",
       "topic_scores": {
         "diplomacy": 0,
