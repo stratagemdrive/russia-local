@@ -1,9 +1,93 @@
 {
-  "updated_at_utc": "2026-10-20T09:10:05Z",
+  "updated_at_utc": "2026-10-20T14:42:02Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 9,
+  "count": 11,
   "articles": [
+    {
+      "id": "0fd0e9160795b264ae5237e7ce01ea76ea197760",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2204775",
+      "published_utc": "2026-10-20T14:02:58Z",
+      "title_en": "Kiev continues strikes on Alyoshki despite claiming concern for residents’ fate — MFA",
+      "lead_en": "During daylight hours, 733 rounds of cannon and mortar fire and 556 drone strikes by the Ukrainian armed forces were recorded in Alyoshki, Russian Foreign Ministry Ambassador-at-Large Rodion Miroshnik said",
+      "title_raw": "Kiev continues strikes on Alyoshki despite claiming concern for residents’ fate — MFA",
+      "lead_raw": "During daylight hours, 733 rounds of cannon and mortar fire and 556 drone strikes by the Ukrainian armed forces were recorded in Alyoshki, Russian Foreign Ministry Ambassador-at-Large Rodion Miroshnik said",
+      "topic_scores": {
+        "diplomacy": 3,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "5efe15761b6be29b458eec2f6c56e5befd580a37",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/10/20/twelve-years-later-we-re-still-making-trouble",
+      "published_utc": "2026-10-20T10:39:38Z",
+      "title_en": "Twelve years later, we’re still making trouble. An anniversary note about exile, censorship, and the next birthday we hope to reach",
+      "lead_en": "On October 20, 2014, Meduza went live from Riga. Earlier that year, Russia illegally annexed Crimea, and our co-founder Galina Timchenko was fired as editor-in-chief of the popular news portal Lenta.ru, prompting mass resignations in the newsroom.",
+      "title_raw": "Twelve years later, we’re still making trouble. An anniversary note about exile, censorship, and the next birthday we hope to reach",
+      "lead_raw": "On October 20, 2014, Meduza went live from Riga. Earlier that year, Russia illegally annexed Crimea, and our co-founder Galina Timchenko was fired as editor-in-chief of the popular news portal Lenta.ru, prompting mass resignations in the newsroom.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "aa9163ea3a2825a34909c6cb3312db3f1c2a6f71",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2204543",
+      "published_utc": "2026-10-20T09:28:35Z",
+      "title_en": "Ukrainian attacks kill 22 Russian civilians in past week — diplomat",
+      "lead_en": "Russian Foreign Ministry Ambassador-at-Large Rodion Miroshnik added that more than 200 people were injured",
+      "title_raw": "Ukrainian attacks kill 22 Russian civilians in past week — diplomat",
+      "lead_raw": "Russian Foreign Ministry Ambassador-at-Large Rodion Miroshnik added that more than 200 people were injured",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "63e4426d2dbffb9040376be6a4961c06b10f3c14",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/10/20/ukrainian-drones-strike-russia-s-tambov-region-reportedly-hitting-infrastructure-on-druzhba-oil-pipeline",
+      "published_utc": "2026-10-20T09:22:28Z",
+      "title_en": "Ukrainian drones strike Russia’s Tambov region, reportedly hitting infrastructure on Druzhba oil pipeline",
+      "lead_en": "Ukrainian drones struck Russia’s Tambov region overnight on October 20, sparking a fire at one of the facilities, the region’s governor, Yevgeny Pervyshev, said. He declined to elaborate, saying only that no one was injured.",
+      "title_raw": "Ukrainian drones strike Russia’s Tambov region, reportedly hitting infrastructure on Druzhba oil pipeline",
+      "lead_raw": "Ukrainian drones struck Russia’s Tambov region overnight on October 20, sparking a fire at one of the facilities, the region’s governor, Yevgeny Pervyshev, said. He declined to elaborate, saying only that no one was injured.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "fd2ca675a40e42f5efea67131e1f2f9365f8e5ea",
       "source": "TASS (RU)",
@@ -145,50 +229,6 @@
         "local_events"
       ],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "21e9fd5cd7e33ebbca52985a36a972fd4834b648",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/10/18/one-killed-five-injured-in-ukrainian-drone-attack-on-st-petersburg-governor-says-a94015",
-      "published_utc": "2026-10-18T09:53:00Z",
-      "title_en": "1 Killed, 5 Injured in Ukrainian Drone Attack on St. Petersburg, Governor Says",
-      "lead_en": "Russian air defense units downed 1,015 Ukrainian drones overnight, the Russian Defense Ministry said.",
-      "title_raw": "1 Killed, 5 Injured in Ukrainian Drone Attack on St. Petersburg, Governor Says",
-      "lead_raw": "Russian air defense units downed 1,015 Ukrainian drones overnight, the Russian Defense Ministry said.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "8bd00d26aab2113894bcca6c6085907a93979a11",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/10/18/one-killed-5-injured-in-ukrainian-drone-attack-on-st-petersburg-governor-says-a94015",
-      "published_utc": "2026-10-18T09:53:00Z",
-      "title_en": "One Killed, 5 Injured in Ukrainian Drone Attack on St. Petersburg, Governor Says",
-      "lead_en": "Russian air defense units downed 1,015 Ukrainian drones overnight, the Russian Defense Ministry said.",
-      "title_raw": "One Killed, 5 Injured in Ukrainian Drone Attack on St. Petersburg, Governor Says",
-      "lead_raw": "Russian air defense units downed 1,015 Ukrainian drones overnight, the Russian Defense Ministry said.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
