@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-10-21T13:28:21Z",
+  "updated_at_utc": "2026-10-21T18:24:15Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 12,
+  "count": 11,
   "articles": [
+    {
+      "id": "e2d21816adccf34554787883ea18fb31bdc19eb5",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/10/21/su-30-fighter-jet-crashes-in-russia",
+      "published_utc": "2026-10-21T15:28:55Z",
+      "title_en": "Su-30 fighter jet crashes in Russia",
+      "lead_en": "A Russian Su-30 fighter jet crashed in the Kaliningrad region during a scheduled training flight, the Russian Defense Ministry said.",
+      "title_raw": "Su-30 fighter jet crashes in Russia",
+      "lead_raw": "A Russian Su-30 fighter jet crashed in the Kaliningrad region during a scheduled training flight, the Russian Defense Ministry said.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "343b46f43d2a0cf0da016cb820ab8e908d69d025",
       "source": "TASS (EN)",
@@ -209,44 +230,6 @@
       "topics": [
         "local_events"
       ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "122a7441db9d1acaf31623ffaa54b984f9a82359",
-      "source": "RT",
-      "url": "https://rt-english.com/news/647403-albania-protests-riots-russia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "published_utc": "2026-10-19T17:33:43Z",
-      "title_en": "Albania on fire: who’s behind the riots?",
-      "lead_en": "As anti-government riots rage in Albania, Prime Minister Edi Rama has tried to blame the unrest on Russia and Iran Read Full Article at RT.com",
-      "title_raw": "Albania on fire: who’s behind the riots?",
-      "lead_raw": "As anti-government riots rage in Albania, Prime Minister Edi Rama has tried to blame the unrest on Russia and Iran Read Full Article at RT.com",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "5ebf414da918847b1e30ec91ad062b3a35812e0c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28230877",
-      "published_utc": "2026-10-19T17:28:10Z",
-      "title_en": "Папа Римский поговорил с Зеленским о ситуации в Алешках",
-      "lead_en": "Лев XIV надеется, что сотрудничество России и Украины позволит доставить продовольственную и медицинскую помощь, а также осуществить добровольную и безопасную эвакуацию гражданского населения",
-      "title_raw": "Папа Римский поговорил с Зеленским о ситуации в Алешках",
-      "lead_raw": "Лев XIV надеется, что сотрудничество России и Украины позволит доставить продовольственную и медицинскую помощь, а также осуществить добровольную и безопасную эвакуацию гражданского населения",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
       "primary_topic": "local_events"
     }
   ]
