@@ -1,9 +1,50 @@
 {
-  "updated_at_utc": "2026-10-21T07:07:09Z",
+  "updated_at_utc": "2026-10-21T13:28:21Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 12,
   "articles": [
+    {
+      "id": "343b46f43d2a0cf0da016cb820ab8e908d69d025",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2205471",
+      "published_utc": "2026-10-21T12:41:28Z",
+      "title_en": "Su-30 aircraft crashes in Russia’s westernmost Kaliningrad Region — Defense Ministry",
+      "lead_en": "The crew members ejected and were evacuated by a ground search and rescue team",
+      "title_raw": "Su-30 aircraft crashes in Russia’s westernmost Kaliningrad Region — Defense Ministry",
+      "lead_raw": "The crew members ejected and were evacuated by a ground search and rescue team",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "29b5544a20a2bf8e8f8cf4a2eec0053596aab985",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/10/21/russian-drone-attacks-on-kyiv-and-kharkiv-region-kill-three",
+      "published_utc": "2026-10-21T07:29:47Z",
+      "title_en": "Russian drone attacks on Kyiv and Kharkiv region kill three",
+      "lead_en": "One person was killed in a Russian drone attack on Kyiv on the morning of October 21, Kyiv’s city administration said.",
+      "title_raw": "Russian drone attacks on Kyiv and Kharkiv region kill three",
+      "lead_raw": "One person was killed in a Russian drone attack on Kyiv on the morning of October 21, Kyiv’s city administration said.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "52f73b5baccacb0a644391eee19f44e952a74b55",
       "source": "Meduza (EN)",
@@ -206,47 +247,6 @@
         "local_events": 1
       },
       "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "b34312a0dd7463185d11b101e7b8f67c5603fa34",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2203985",
-      "published_utc": "2026-10-19T08:44:06Z",
-      "title_en": "Russian forces to sweep liberated Dobropolye for scattered enemy groups — Donetsk leader",
-      "lead_en": "Only Russian servicemen can provide the necessary assistance during the initial stage of civilian evacuation, Denis Pushilin added",
-      "title_raw": "Russian forces to sweep liberated Dobropolye for scattered enemy groups — Donetsk leader",
-      "lead_raw": "Only Russian servicemen can provide the necessary assistance during the initial stage of civilian evacuation, Denis Pushilin added",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "42cfccd7ae8cc14d41bccb7b66b7634b54676513",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/10/19/russian-strike-on-kyiv-kills-21-year-old-woman-u-s-gave-ukraine-no-advance-warning-journalists-report",
-      "published_utc": "2026-10-19T07:20:47Z",
-      "title_en": "Russian strike on Kyiv kills 21-year-old woman; U.S. gave Ukraine no advance warning, journalists report",
-      "lead_en": "Russian forces struck Kyiv with ballistic missiles overnight on October 19, damaging buildings in the Desnianskyi and Dniprovskyi districts, Kyiv Mayor Vitali Klitschko said. Three people were injured, and a 21-year-old woman was killed.",
-      "title_raw": "Russian strike on Kyiv kills 21-year-old woman; U.S. gave Ukraine no advance warning, journalists report",
-      "lead_raw": "Russian forces struck Kyiv with ballistic missiles overnight on October 19, damaging buildings in the Desnianskyi and Dniprovskyi districts, Kyiv Mayor Vitali Klitschko said. Three people were injured, and a 21-year-old woman was killed.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
       "primary_topic": "local_events"
     }
   ]
