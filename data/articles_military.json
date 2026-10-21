@@ -1,9 +1,97 @@
 {
-  "updated_at_utc": "2026-10-21T18:24:15Z",
+  "updated_at_utc": "2026-10-21T22:07:35Z",
   "keep_hours": 48,
   "topic": "military",
-  "count": 63,
+  "count": 66,
   "articles": [
+    {
+      "id": "59abef8744ca200ac3cdd078e738a9906e64be8f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2205835",
+      "published_utc": "2026-10-21T19:22:24Z",
+      "title_en": "West seeks to embroil Balkans into arms deliveries to Kiev — diplomat",
+      "lead_en": "During the 25th meeting of the commission, established under the Dayton Agreement, the Russian diplomat said that such actions are unacceptable, and warned Western countries against turning the Balkans into an arena for geopolitical confrontation",
+      "title_raw": "West seeks to embroil Balkans into arms deliveries to Kiev — diplomat",
+      "lead_raw": "During the 25th meeting of the commission, established under the Dayton Agreement, the Russian diplomat said that such actions are unacceptable, and warned Western countries against turning the Balkans into an arena for geopolitical confrontation",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "d7efb5a6ee798d5ff641bbf930b3fe0feafc609c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28239529",
+      "published_utc": "2026-10-21T19:12:28Z",
+      "title_en": "Делегация РФ в Вене: Запад не устроили итоги выборов в Республике Сербской",
+      "lead_en": "Российская сторона считает недопустимым любое вмешательство во внутриполитические процессы, отметила руководитель делегации РФ на переговорах в Вене по вопросам военной безопасности и контроля над вооружениями Юлия Жданова",
+      "title_raw": "Делегация РФ в Вене: Запад не устроили итоги выборов в Республике Сербской",
+      "lead_raw": "Российская сторона считает недопустимым любое вмешательство во внутриполитические процессы, отметила руководитель делегации РФ на переговорах в Вене по вопросам военной безопасности и контроля над вооружениями Юлия Жданова",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "e1ee36f7b15db16c9b1a67c545f8c02af9e3f221",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28239501",
+      "published_utc": "2026-10-21T19:00:21Z",
+      "title_en": "Жданова: Запад пытается втянуть Балканы в снабжение Киева оружием",
+      "lead_en": "Это происходит в том числе с использованием серых схем, отметила руководитель делегации России на переговорах в Вене по вопросам военной безопасности и контроля над вооружениями",
+      "title_raw": "Жданова: Запад пытается втянуть Балканы в снабжение Киева оружием",
+      "lead_raw": "Это происходит в том числе с использованием серых схем, отметила руководитель делегации России на переговорах в Вене по вопросам военной безопасности и контроля над вооружениями",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "35a39d411b0b93bcb3b6d33ae544ce8d385e6c98",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/10/21/bbc-russian-reveals-that-journalist-darya-shipacheva-raised-1-5-million-rubles-for-ukraine-s-military-before-receiving-a-12-year-treason-sentence",
+      "published_utc": "2026-10-21T18:53:29Z",
+      "title_en": "BBC Russian reveals that journalist Darya Shipacheva raised 1.5 million rubles for Ukraine’s military before receiving a 12-year treason sentence",
+      "lead_en": "The case of medical journalist Darya Shipacheva, sentenced to 12 years in a penal colony for treason in July 2026, drew widespread attention. A photograph of her in handcuffs in the courtroom spread across social media.",
+      "title_raw": "BBC Russian reveals that journalist Darya Shipacheva raised 1.5 million rubles for Ukraine’s military before receiving a 12-year treason sentence",
+      "lead_raw": "The case of medical journalist Darya Shipacheva, sentenced to 12 years in a penal colony for treason in July 2026, drew widespread attention. A photograph of her in handcuffs in the courtroom spread across social media.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "c48a91baf8e63bba4ea1d857a3b3ee92f3e8426f",
       "source": "TASS (RU)",
@@ -1325,28 +1413,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "de7c5e996d85816caf3614a8fb94d2cd06431c20",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/10/19/trump-says-he-s-ready-to-meet-with-putin-and-xi-but-he-wants-to-talk-about-nuclear-weapons-not-russia-s-war-with-ukraine",
-      "published_utc": "2026-10-19T20:40:02Z",
-      "title_en": "Trump says he’s ready to meet with Putin and Xi, but he wants to talk about nuclear weapons, not Russia’s war with Ukraine",
-      "lead_en": "U.S. President Donald Trump said he is open to a three-way meeting with Russian President Vladimir Putin and Chinese leader Xi Jinping, Reuters reported.",
-      "title_raw": "Trump says he’s ready to meet with Putin and Xi, but he wants to talk about nuclear weapons, not Russia’s war with Ukraine",
-      "lead_raw": "U.S. President Donald Trump said he is open to a three-way meeting with Russian President Vladimir Putin and Chinese leader Xi Jinping, Reuters reported.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
