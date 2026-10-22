@@ -1,9 +1,52 @@
 {
-  "updated_at_utc": "2026-10-22T01:15:15Z",
+  "updated_at_utc": "2026-10-22T07:09:11Z",
   "keep_hours": 48,
   "topic": "diplomacy",
-  "count": 120,
+  "count": 118,
   "articles": [
+    {
+      "id": "4a7165077b70dec8b9bedc289f999f1122ce407e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28240633",
+      "published_utc": "2026-10-22T06:31:39Z",
+      "title_en": "Михельсон: у Европы еще есть время на изменение решения по запрету СПГ РФ",
+      "lead_en": "Глава \"Новатэка\" отметил, что европейские компании, имевшие долгосрочные договоры и занимавшиеся логистикой по ним, могут продолжать работать с Россией по поставкам на любые другие рынки",
+      "title_raw": "Михельсон: у Европы еще есть время на изменение решения по запрету СПГ РФ",
+      "lead_raw": "Глава \"Новатэка\" отметил, что европейские компании, имевшие долгосрочные договоры и занимавшиеся логистикой по ним, могут продолжать работать с Россией по поставкам на любые другие рынки",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "d4a77b7a2a0b78a3366e209126ae09c8ba932839",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/28240615",
+      "published_utc": "2026-10-22T06:26:44Z",
+      "title_en": "Дегтярев: немало федераций ведут переговоры о матчах россиян и американцев",
+      "lead_en": "Ранее в интервью ТАСС спецпредставитель США по глобальным партнерствам посол Паоло Замполли допустил возможность проведения игр между российскими и американскими командами, в частности по футболу и хоккею",
+      "title_raw": "Дегтярев: немало федераций ведут переговоры о матчах россиян и американцев",
+      "lead_raw": "Ранее в интервью ТАСС спецпредставитель США по глобальным партнерствам посол Паоло Замполли допустил возможность проведения игр между российскими и американскими командами, в частности по футболу и хоккею",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "6f22f85988594a1629a701484a382330173e651e",
       "source": "TASS (EN)",
@@ -2473,91 +2516,6 @@
       "topics": [
         "diplomacy",
         "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "95d199150311795860c674a67038696ffc1c8f2b",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/10/20/reuters-trump-envoy-steve-witkoff-plans-to-attend-ukraine-peace-talks-with-zelensky-in-norway-and-meet-putin-in-russia",
-      "published_utc": "2026-10-20T06:10:02Z",
-      "title_en": "Reuters: Trump envoy Steve Witkoff plans to attend Ukraine peace talks with Zelensky in Norway and meet Putin in Russia",
-      "lead_en": "Donald Trump’s special envoy Steve Witkoff plans to meet soon with Volodymyr Zelensky and Vladimir Putin, Reuters and Axios correspondent Barak Ravid reported, citing sources.",
-      "title_raw": "Reuters: Trump envoy Steve Witkoff plans to attend Ukraine peace talks with Zelensky in Norway and meet Putin in Russia",
-      "lead_raw": "Donald Trump’s special envoy Steve Witkoff plans to meet soon with Volodymyr Zelensky and Vladimir Putin, Reuters and Axios correspondent Barak Ravid reported, citing sources.",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "b83cb1bb2bcad65f6a454840993e8be28e0b3b2b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2204437",
-      "published_utc": "2026-10-20T05:03:36Z",
-      "title_en": "Russia, Oman to sign roadmap for deeper security cooperation",
-      "lead_en": "The document aims to further improve the bilateral legal and treaty framework",
-      "title_raw": "Russia, Oman to sign roadmap for deeper security cooperation",
-      "lead_raw": "The document aims to further improve the bilateral legal and treaty framework",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "e69e24a525d73b09e07f99021579c67b8e90ddcc",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2204425",
-      "published_utc": "2026-10-20T03:55:00Z",
-      "title_en": "Witkoff hopes to visit Russia after meeting Zelensky in Oslo — Axios reporter",
-      "lead_en": "US Presidential Special Envoy intends to discuss with Russian President Vladimir Putin the proposals developed jointly with Ukraine and European partners",
-      "title_raw": "Witkoff hopes to visit Russia after meeting Zelensky in Oslo — Axios reporter",
-      "lead_raw": "US Presidential Special Envoy intends to discuss with Russian President Vladimir Putin the proposals developed jointly with Ukraine and European partners",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "3f844983c3e87309d2b30f006b6d2c6ba96570a7",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28231471",
-      "published_utc": "2026-10-20T03:30:40Z",
-      "title_en": "Axios сообщил о плане Уиткоффа посетить РФ после встречи с Зеленским",
-      "lead_en": "Корреспондент портала Барак Равид заявил, что спецпосланник президента США собирается обсудить с российским лидером Владимиром Путиным предложения, разработанные вместе с Украиной и европейскими партнерами",
-      "title_raw": "Axios сообщил о плане Уиткоффа посетить РФ после встречи с Зеленским",
-      "lead_raw": "Корреспондент портала Барак Равид заявил, что спецпосланник президента США собирается обсудить с российским лидером Владимиром Путиным предложения, разработанные вместе с Украиной и европейскими партнерами",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
       ],
       "primary_topic": "diplomacy"
     }

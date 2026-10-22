@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-10-22T01:15:15Z",
+  "updated_at_utc": "2026-10-22T07:09:11Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 11,
+  "count": 10,
   "articles": [
+    {
+      "id": "9e9d759b9950d171c41499720f4cf1be375eaaf8",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2205977",
+      "published_utc": "2026-10-22T06:47:54Z",
+      "title_en": "Russia’s Battlegroup North artillery eliminates over 80 Ukrainian troops, 16 vehicles",
+      "lead_en": "The battlegroup's artillery crews carried out more than 200 fire missions over the past night",
+      "title_raw": "Russia’s Battlegroup North artillery eliminates over 80 Ukrainian troops, 16 vehicles",
+      "lead_raw": "The battlegroup's artillery crews carried out more than 200 fire missions over the past night",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "e2d21816adccf34554787883ea18fb31bdc19eb5",
       "source": "Meduza (EN)",
@@ -189,48 +210,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "3174f6174749b5e6e3219c57d74d424b20c4eaea",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/10/20/russian-retailers-seek-emergency-operating-rules-for-outages-following-data-center-attacks-plus-permission-to-store-data-in-friendly-countries",
-      "published_utc": "2026-10-20T07:05:32Z",
-      "title_en": "Russian retailers seek emergency operating rules for outages following data center attacks, plus permission to store data in ‘friendly’ countries",
-      "lead_en": "Russian retailers want a special legal regime that would take effect during mass outages in state information systems, known as GIS, according to the Russian business daily Kommersant. The proposal appears in a letter that the Association of Internet Trade Companies, or AKIT, sent to Prime Minister Mikhail Mishustin.",
-      "title_raw": "Russian retailers seek emergency operating rules for outages following data center attacks, plus permission to store data in ‘friendly’ countries",
-      "lead_raw": "Russian retailers want a special legal regime that would take effect during mass outages in state information systems, known as GIS, according to the Russian business daily Kommersant. The proposal appears in a letter that the Association of Internet Trade Companies, or AKIT, sent to Prime Minister Mikhail Mishustin.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "63b06a7a6084c44ed21c5d8b7cea57b11bf67c89",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/10/20/three-people-killed-in-russian-attack-on-kyiv-region-as-rescuers-search-debris-at-industrial-building",
-      "published_utc": "2026-10-20T05:59:21Z",
-      "title_en": "Three people killed in Russian attack on Kyiv region as rescuers search debris at industrial building",
-      "lead_en": "Russian forces struck a building used for manufacturing and storage in the Obukhiv district of Ukraine’s Kyiv region overnight on October 20. The building caught fire, the State Emergency Service said.",
-      "title_raw": "Three people killed in Russian attack on Kyiv region as rescuers search debris at industrial building",
-      "lead_raw": "Russian forces struck a building used for manufacturing and storage in the Obukhiv district of Ukraine’s Kyiv region overnight on October 20. The building caught fire, the State Emergency Service said.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 4
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
     }
   ]
 }

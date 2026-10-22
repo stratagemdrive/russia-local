@@ -1,9 +1,52 @@
 {
-  "updated_at_utc": "2026-10-22T01:15:15Z",
+  "updated_at_utc": "2026-10-22T07:09:11Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 52,
+  "count": 50,
   "articles": [
+    {
+      "id": "12cd94d8537aa53774eeba292f2c1c3acad84c4d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28240635",
+      "published_utc": "2026-10-22T06:32:19Z",
+      "title_en": "Михельсон заявил о невозможности изолировать Россию на рынке СПГ",
+      "lead_en": "",
+      "title_raw": "Михельсон заявил о невозможности изолировать Россию на рынке СПГ",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "4a7165077b70dec8b9bedc289f999f1122ce407e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28240633",
+      "published_utc": "2026-10-22T06:31:39Z",
+      "title_en": "Михельсон: у Европы еще есть время на изменение решения по запрету СПГ РФ",
+      "lead_en": "Глава \"Новатэка\" отметил, что европейские компании, имевшие долгосрочные договоры и занимавшиеся логистикой по ним, могут продолжать работать с Россией по поставкам на любые другие рынки",
+      "title_raw": "Михельсон: у Европы еще есть время на изменение решения по запрету СПГ РФ",
+      "lead_raw": "Глава \"Новатэка\" отметил, что европейские компании, имевшие долгосрочные договоры и занимавшиеся логистикой по ним, могут продолжать работать с Россией по поставкам на любые другие рынки",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "229013b1d9cdbacc8f8c9346599004b1aec8c1c0",
       "source": "TASS (RU)",
@@ -1030,90 +1073,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "7eaa3cd4300c28a15687d90a0ba2d0f48c515772",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2204433",
-      "published_utc": "2026-10-20T04:58:41Z",
-      "title_en": "Russian pipeline gas exports to China up 3.7% in January-September",
-      "lead_en": "According to the published statistics, Russia is China’s largest supplier of pipeline gas",
-      "title_raw": "Russian pipeline gas exports to China up 3.7% in January-September",
-      "lead_raw": "According to the published statistics, Russia is China’s largest supplier of pipeline gas",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "0d63b1ce45dd94d616615a1451579340aecce3b3",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2204423",
-      "published_utc": "2026-10-20T03:15:00Z",
-      "title_en": "US vice president does not believe Ukraine should be part of NATO",
-      "lead_en": "JD Vance also emphasized that Ukraine should stop striking Russian oil refineries",
-      "title_raw": "US vice president does not believe Ukraine should be part of NATO",
-      "lead_raw": "JD Vance also emphasized that Ukraine should stop striking Russian oil refineries",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "739c3252e0063dca020f9f79c7f3f6a1aa2f135b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2204421",
-      "published_utc": "2026-10-20T02:30:33Z",
-      "title_en": "China increases LNG imports from Russia by 44.3% to 7.19 mln tons in January-September",
-      "lead_en": "Russia ranks second among China’s leading LNG suppliers",
-      "title_raw": "China increases LNG imports from Russia by 44.3% to 7.19 mln tons in January-September",
-      "lead_raw": "Russia ranks second among China’s leading LNG suppliers",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "66d330c6ea5d69ba499c53da8635905eef18cdad",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2204419",
-      "published_utc": "2026-10-20T02:14:01Z",
-      "title_en": "China increases oil imports from Russia by 18.3% in January-September",
-      "lead_en": "According to the statistics, the value of China’s oil imports from Russia rose by 36.5% over the nine-month period to $51.54 bln",
-      "title_raw": "China increases oil imports from Russia by 18.3% in January-September",
-      "lead_raw": "According to the statistics, the value of China’s oil imports from Russia rose by 36.5% over the nine-month period to $51.54 bln",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
