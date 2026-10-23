@@ -1,9 +1,109 @@
 {
-  "updated_at_utc": "2026-10-23T07:01:06Z",
+  "updated_at_utc": "2026-10-23T13:05:57Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 10,
+  "count": 13,
   "articles": [
+    {
+      "id": "33c8dfea1b77a7fbf2ad47b37835a0fc32af80e8",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/society/2206945",
+      "published_utc": "2026-10-23T13:02:49Z",
+      "title_en": "Bear attacks killed 28 people in Russia in 2026",
+      "lead_en": "Siberia and the Far East face a difficult situation as bears increasingly enter populated areas",
+      "title_raw": "Bear attacks killed 28 people in Russia in 2026",
+      "lead_raw": "Siberia and the Far East face a difficult situation as bears increasingly enter populated areas",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "c55140e2382354a8da751d1351ca8bdce4bbd215",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28247069",
+      "published_utc": "2026-10-23T12:51:27Z",
+      "title_en": "В России предложили ввести 15-дневный дополнительный отпуск для пожарных",
+      "lead_en": "Инициативу представил председатель комитета по военным вопросам, общественной безопасности, воспитанию допризывной молодежи и делам казачества Законодательного собрания Краснодарского края Евгений Шендрик",
+      "title_raw": "В России предложили ввести 15-дневный дополнительный отпуск для пожарных",
+      "lead_raw": "Инициативу представил председатель комитета по военным вопросам, общественной безопасности, воспитанию допризывной молодежи и делам казачества Законодательного собрания Краснодарского края Евгений Шендрик",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "02fe1de7e4f1d569b34d922e590235be414cbd2a",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/10/23/former-russian-orthodox-christian-tv-channel-director-says-photo-of-espanola-battalion-fighter-killed-in-war-with-ukraine-began-weeping-myrrh",
+      "published_utc": "2026-10-23T11:54:19Z",
+      "title_en": "Former Russian Orthodox TV director claims photo of slain fighter from far-right battalion is ‘weeping myrrh’",
+      "lead_en": "Boris Kostenko, a former director of the Orthodox Christian channel Spas TV who now advises the state secretary of the Union State of Russia and Belarus, said a photograph of a fighter from the Espanola battalion who was killed in the war with Ukraine had “begun weeping myrrh.” T",
+      "title_raw": "Former Russian Orthodox TV director claims photo of slain fighter from far-right battalion is ‘weeping myrrh’",
+      "lead_raw": "Boris Kostenko, a former director of the Orthodox Christian channel Spas TV who now advises the state secretary of the Union State of Russia and Belarus, said a photograph of a fighter from the Espanola battalion who was killed in the war with Ukraine had “begun weeping myrrh.” T",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "adfbb17eb43a5e3b52337063065d7de86e24890e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2206771",
+      "published_utc": "2026-10-23T10:06:19Z",
+      "title_en": "FACTBOX: What we know about Ukrainian drone attacks on Russian regions, 443 drones downed",
+      "lead_en": "Falling drone debris injured three people in the Nizhny Novgorod Region",
+      "title_raw": "FACTBOX: What we know about Ukrainian drone attacks on Russian regions, 443 drones downed",
+      "lead_raw": "Falling drone debris injured three people in the Nizhny Novgorod Region",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "684f40e6b850451b68d9896bda4921688dc7da31",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/10/23/putin-says-renewed-peace-talks-must-focus-on-security-for-russia-ukraine-and-europe-overall-a94061",
+      "published_utc": "2026-10-23T08:16:40Z",
+      "title_en": "Putin Says Renewed Peace Talks Must Focus on Security for Russia, Ukraine and Europe Overall",
+      "lead_en": "The president said that Russia remains intent on resolving the conflict once and for all rather than agreeing to a short-lived ceasefire with Kyiv.",
+      "title_raw": "Putin Says Renewed Peace Talks Must Focus on Security for Russia, Ukraine and Europe Overall",
+      "lead_raw": "The president said that Russia remains intent on resolving the conflict once and for all rather than agreeing to a short-lived ceasefire with Kyiv.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "25c78fcc44fe6d3cb084141652c742140c6e7fd1",
       "source": "TASS (EN)",
@@ -168,47 +268,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "343b46f43d2a0cf0da016cb820ab8e908d69d025",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2205471",
-      "published_utc": "2026-10-21T12:41:28Z",
-      "title_en": "Su-30 aircraft crashes in Russia’s westernmost Kaliningrad Region — Defense Ministry",
-      "lead_en": "The crew members ejected and were evacuated by a ground search and rescue team",
-      "title_raw": "Su-30 aircraft crashes in Russia’s westernmost Kaliningrad Region — Defense Ministry",
-      "lead_raw": "The crew members ejected and were evacuated by a ground search and rescue team",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "29b5544a20a2bf8e8f8cf4a2eec0053596aab985",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/10/21/russian-drone-attacks-on-kyiv-and-kharkiv-region-kill-three",
-      "published_utc": "2026-10-21T07:29:47Z",
-      "title_en": "Russian drone attacks on Kyiv and Kharkiv region kill three",
-      "lead_en": "One person was killed in a Russian drone attack on Kyiv on the morning of October 21, Kyiv’s city administration said.",
-      "title_raw": "Russian drone attacks on Kyiv and Kharkiv region kill three",
-      "lead_raw": "One person was killed in a Russian drone attack on Kyiv on the morning of October 21, Kyiv’s city administration said.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
