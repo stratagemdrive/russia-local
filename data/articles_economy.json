@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-10-22T22:07:30Z",
+  "updated_at_utc": "2026-10-23T01:14:12Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 80,
+  "count": 78,
   "articles": [
+    {
+      "id": "a02742a7db51964ef280641d597c1c55382d2b00",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28244335",
+      "published_utc": "2026-10-22T23:03:46Z",
+      "title_en": "В AmCham заявили о переговорах по восстановлению \"Северных потоков\"",
+      "lead_en": "Для этого процесса требуется согласие Германии и официальное одобрение США, подчеркнул глава Американской торговой палаты в России Роберт Эйджи",
+      "title_raw": "В AmCham заявили о переговорах по восстановлению \"Северных потоков\"",
+      "lead_raw": "Для этого процесса требуется согласие Германии и официальное одобрение США, подчеркнул глава Американской торговой палаты в России Роберт Эйджи",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "cf5794cfb820af51dedc58ff63800cb9c90c4fa7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28244315",
+      "published_utc": "2026-10-22T22:24:49Z",
+      "title_en": "Вучич пообещал не вводить санкции против России",
+      "lead_en": "Политик также заявил, что не признает независимость самопровозглашенного Косова",
+      "title_raw": "Вучич пообещал не вводить санкции против России",
+      "lead_raw": "Политик также заявил, что не признает независимость самопровозглашенного Косова",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
     {
       "id": "a7ac487782d9863deae3d7e128891bbd9331176e",
       "source": "TASS (RU)",
@@ -1559,86 +1599,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "b1d7af94e10c855e65356cae4bb5b419a71ebed4",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2204989",
-      "published_utc": "2026-10-21T00:22:01Z",
-      "title_en": "Trump appears serious about economic normalization with Russia, US expert says",
-      "lead_en": "David Pyne also believes there are clear grounds to say that the peace process on Ukraine is gaining momentum",
-      "title_raw": "Trump appears serious about economic normalization with Russia, US expert says",
-      "lead_raw": "David Pyne also believes there are clear grounds to say that the peace process on Ukraine is gaining momentum",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "a9291ed71d2f40396c03422a8c14d6a78bfb49e0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28235161",
-      "published_utc": "2026-10-20T23:16:32Z",
-      "title_en": "ТАСС: в России планируют ужесточить наказание за езду без прав",
-      "lead_en": "Штраф увеличится до 30 тыс. рублей",
-      "title_raw": "ТАСС: в России планируют ужесточить наказание за езду без прав",
-      "lead_raw": "Штраф увеличится до 30 тыс. рублей",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "9397839edffcdd2b7f061ae0e88f38027f0f4a61",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2204983",
-      "published_utc": "2026-10-20T23:10:00Z",
-      "title_en": "EC wants to restrict Russian oil in 22nd sanctions package despite energy crisis",
-      "lead_en": "EU foreign policy chief Kaja Kallas did not specify when Brussels expects to adopt the package, which requires unanimous approval of the measures by EU member states",
-      "title_raw": "EC wants to restrict Russian oil in 22nd sanctions package despite energy crisis",
-      "lead_raw": "EU foreign policy chief Kaja Kallas did not specify when Brussels expects to adopt the package, which requires unanimous approval of the measures by EU member states",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "071d6437041b2feb29cac3fc5562c6cf1917bdf4",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28235151",
-      "published_utc": "2026-10-20T23:00:02Z",
-      "title_en": "Захарова прокомментировала план ЕС ввести новые санкции против России",
-      "lead_en": "Официальный представитель МИД РФ сравнила намерения Еврокомиссии с поеданием мышами кактуса",
-      "title_raw": "Захарова прокомментировала план ЕС ввести новые санкции против России",
-      "lead_raw": "Официальный представитель МИД РФ сравнила намерения Еврокомиссии с поеданием мышами кактуса",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
