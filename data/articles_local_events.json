@@ -1,9 +1,52 @@
 {
-  "updated_at_utc": "2026-10-24T00:17:09Z",
+  "updated_at_utc": "2026-10-24T10:21:59Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 20,
   "articles": [
+    {
+      "id": "be62dd1e9da892f7ef54f2f588aaa6f52d3fc1ab",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/10/24/russia-ukraine-agree-on-ceasefire-in-embattled-oleshky-plan-new-peace-talks-next-month-a94069",
+      "published_utc": "2026-10-24T06:13:00Z",
+      "title_en": "Russia, Ukraine Agree on Ceasefire in Embattled Oleshky, Plan New Peace Talks Next Month",
+      "lead_en": "The pause in fighting will allow for the delivery of humanitarian aid and facilitate civilian evacuations from the town, the White House said.",
+      "title_raw": "Russia, Ukraine Agree on Ceasefire in Embattled Oleshky, Plan New Peace Talks Next Month",
+      "lead_raw": "The pause in fighting will allow for the delivery of humanitarian aid and facilitate civilian evacuations from the town, the White House said.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "diplomacy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "fa97b88bcaa83bcd4eb3b8a9bf67639f42ce12be",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2207221",
+      "published_utc": "2026-10-24T01:28:00Z",
+      "title_en": "India to send required number of labor migrants to Russia, ambassador says",
+      "lead_en": "Vinay Kumar noted that India’s goal is to ensure the supply of high·quality, skilled labor",
+      "title_raw": "India to send required number of labor migrants to Russia, ambassador says",
+      "lead_raw": "Vinay Kumar noted that India’s goal is to ensure the supply of high·quality, skilled labor",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "ae7447bbaebf61443117bafa5fb3d7d853618516",
       "source": "TASS (RU)",
@@ -365,46 +408,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "18920c6005e2a7fdf4e6d760c4118da6b08b2f43",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/10/22/ukrainian-drone-attacks-on-moscow-and-surrounding-region-leave-two-injured",
-      "published_utc": "2026-10-22T07:24:02Z",
-      "title_en": "Ukrainian drone attacks on Moscow and surrounding region leave two injured",
-      "lead_en": "Ukrainian forces attacked several Russian regions with drones overnight on October 22, including Moscow and the surrounding Moscow region. In Voronovo, part of the New Moscow area, two people were injured in the strike.",
-      "title_raw": "Ukrainian drone attacks on Moscow and surrounding region leave two injured",
-      "lead_raw": "Ukrainian forces attacked several Russian regions with drones overnight on October 22, including Moscow and the surrounding Moscow region. In Voronovo, part of the New Moscow area, two people were injured in the strike.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "9e9d759b9950d171c41499720f4cf1be375eaaf8",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2205977",
-      "published_utc": "2026-10-22T06:47:54Z",
-      "title_en": "Russia’s Battlegroup North artillery eliminates over 80 Ukrainian troops, 16 vehicles",
-      "lead_en": "The battlegroup's artillery crews carried out more than 200 fire missions over the past night",
-      "title_raw": "Russia’s Battlegroup North artillery eliminates over 80 Ukrainian troops, 16 vehicles",
-      "lead_raw": "The battlegroup's artillery crews carried out more than 200 fire missions over the past night",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
