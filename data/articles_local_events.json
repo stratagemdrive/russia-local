@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-10-25T05:43:58Z",
+  "updated_at_utc": "2026-10-25T10:49:23Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 22,
+  "count": 20,
   "articles": [
+    {
+      "id": "4e64fd086dcb06b53d26e3010511cfbb90e09986",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/10/25/ukrainian-attacks-kill-3-in-belgorod-hit-perm-industrial-plant-a94077",
+      "published_utc": "2026-10-25T09:01:46Z",
+      "title_en": "Ukrainian Attacks Kill 3 in Belgorod, Hit Perm Industrial Plant",
+      "lead_en": "Three people were killed in southwestern Russia’s Belgorod region and an industrial site damaged in the Perm region.",
+      "title_raw": "Ukrainian Attacks Kill 3 in Belgorod, Hit Perm Industrial Plant",
+      "lead_raw": "Three people were killed in southwestern Russia’s Belgorod region and an industrial site damaged in the Perm region.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "121356ce39cfdf0eb505f1bea0a171dfca1e4301",
       "source": "TASS (EN)",
@@ -383,68 +402,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "adfbb17eb43a5e3b52337063065d7de86e24890e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2206771",
-      "published_utc": "2026-10-23T10:06:19Z",
-      "title_en": "FACTBOX: What we know about Ukrainian drone attacks on Russian regions, 443 drones downed",
-      "lead_en": "Falling drone debris injured three people in the Nizhny Novgorod Region",
-      "title_raw": "FACTBOX: What we know about Ukrainian drone attacks on Russian regions, 443 drones downed",
-      "lead_raw": "Falling drone debris injured three people in the Nizhny Novgorod Region",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "684f40e6b850451b68d9896bda4921688dc7da31",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/10/23/putin-says-renewed-peace-talks-must-focus-on-security-for-russia-ukraine-and-europe-overall-a94061",
-      "published_utc": "2026-10-23T08:16:40Z",
-      "title_en": "Putin Says Renewed Peace Talks Must Focus on Security for Russia, Ukraine and Europe Overall",
-      "lead_en": "The president said that Russia remains intent on resolving the conflict once and for all rather than agreeing to a short-lived ceasefire with Kyiv.",
-      "title_raw": "Putin Says Renewed Peace Talks Must Focus on Security for Russia, Ukraine and Europe Overall",
-      "lead_raw": "The president said that Russia remains intent on resolving the conflict once and for all rather than agreeing to a short-lived ceasefire with Kyiv.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "25c78fcc44fe6d3cb084141652c742140c6e7fd1",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2206663",
-      "published_utc": "2026-10-23T06:31:59Z",
-      "title_en": "Russia’s Battlegroup North artillery eliminates over 90 Ukrainian troops, 26 vehicles",
-      "lead_en": "The battlegroup's artillery crews carried out more than 200 fire missions over the past night",
-      "title_raw": "Russia’s Battlegroup North artillery eliminates over 90 Ukrainian troops, 26 vehicles",
-      "lead_raw": "The battlegroup's artillery crews carried out more than 200 fire missions over the past night",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
