@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-10-25T00:51:50Z",
+  "updated_at_utc": "2026-10-25T05:43:58Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 22,
   "articles": [
+    {
+      "id": "121356ce39cfdf0eb505f1bea0a171dfca1e4301",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2207401",
+      "published_utc": "2026-10-25T04:45:49Z",
+      "title_en": "Ukrainian drone attack on Russia’s Omsk Region injures three — governor",
+      "lead_en": "Emergency services continue to work on site to address the aftermath of the attack",
+      "title_raw": "Ukrainian drone attack on Russia’s Omsk Region injures three — governor",
+      "lead_raw": "Emergency services continue to work on site to address the aftermath of the attack",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "c980ff48a99241e86b5224bb382abfa8f43ed1de",
       "source": "TASS (EN)",
@@ -426,27 +445,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "11c5237491e87358675cca8a5303a6ca86e5e8af",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2206619",
-      "published_utc": "2026-10-23T02:13:44Z",
-      "title_en": "Denmark could seize vessels with Russian cargo in Baltic Sea — Russian embassy",
-      "lead_en": "The diplomatic mission noted that, given the current circumstances in the Baltic region, \"any provocation could lead to a major disaster\"",
-      "title_raw": "Denmark could seize vessels with Russian cargo in Baltic Sea — Russian embassy",
-      "lead_raw": "The diplomatic mission noted that, given the current circumstances in the Baltic region, \"any provocation could lead to a major disaster\"",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
