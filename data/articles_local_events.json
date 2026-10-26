@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-10-25T21:27:42Z",
+  "updated_at_utc": "2026-10-26T03:27:06Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 12,
+  "count": 11,
   "articles": [
+    {
+      "id": "1fd17e16e8b33cf4deb855d03a1fc4370135eb1c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28252419",
+      "published_utc": "2026-10-26T03:01:02Z",
+      "title_en": "Жительница Херсонской области рассказала об эвакуации военными РФ у Алешек",
+      "lead_en": "Российские бойцы шесть часов выносили на носилках тяжелораненую женщину и ее мужа, скрывая их от постоянных атак дронов ВСУ, сообщила пострадавшая",
+      "title_raw": "Жительница Херсонской области рассказала об эвакуации военными РФ у Алешек",
+      "lead_raw": "Российские бойцы шесть часов выносили на носилках тяжелораненую женщину и ее мужа, скрывая их от постоянных атак дронов ВСУ, сообщила пострадавшая",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "ae60b97199912faaf91e00e4002945dc0df79cff",
       "source": "The Moscow Times",
@@ -201,46 +222,6 @@
         "diplomacy",
         "local_events"
       ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "fa97b88bcaa83bcd4eb3b8a9bf67639f42ce12be",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2207221",
-      "published_utc": "2026-10-24T01:28:00Z",
-      "title_en": "India to send required number of labor migrants to Russia, ambassador says",
-      "lead_en": "Vinay Kumar noted that India’s goal is to ensure the supply of high·quality, skilled labor",
-      "title_raw": "India to send required number of labor migrants to Russia, ambassador says",
-      "lead_raw": "Vinay Kumar noted that India’s goal is to ensure the supply of high·quality, skilled labor",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "ae7447bbaebf61443117bafa5fb3d7d853618516",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28248681",
-      "published_utc": "2026-10-24T00:06:12Z",
-      "title_en": "ТАСС: ВСУ начали взрывать в воздухе дроны с поражающими элементами",
-      "lead_en": "В российских силовых структурах сообщили, что взрывчатка беспилотников начинена металлическими шариками, или другими металлическими поражающими элементами",
-      "title_raw": "ТАСС: ВСУ начали взрывать в воздухе дроны с поражающими элементами",
-      "lead_raw": "В российских силовых структурах сообщили, что взрывчатка беспилотников начинена металлическими шариками, или другими металлическими поражающими элементами",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
       "primary_topic": "local_events"
     }
   ]
