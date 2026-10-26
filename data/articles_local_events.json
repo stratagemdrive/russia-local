@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-10-26T16:31:31Z",
+  "updated_at_utc": "2026-10-26T21:22:49Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 21,
+  "count": 18,
   "articles": [
+    {
+      "id": "62aa2eb88021614927f7be72f115ffe40fe2d725",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28255831",
+      "published_utc": "2026-10-26T20:31:40Z",
+      "title_en": "Мирошник сообщил об эвакуации из Купянска-Узлового 87 мирных жителей",
+      "lead_en": "Посол по особым поручениям МИД России также заявил, что ВСУ совершили серию ударов из минометов и с использованием дронов по мирным украинским гражданам, выходившим из под обстрелов",
+      "title_raw": "Мирошник сообщил об эвакуации из Купянска-Узлового 87 мирных жителей",
+      "lead_raw": "Посол по особым поручениям МИД России также заявил, что ВСУ совершили серию ударов из минометов и с использованием дронов по мирным украинским гражданам, выходившим из под обстрелов",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "119549863902288ad57db7311fa0378d2846a95e",
       "source": "TASS (EN)",
@@ -341,88 +363,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "c980ff48a99241e86b5224bb382abfa8f43ed1de",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2207345",
-      "published_utc": "2026-10-24T20:03:27Z",
-      "title_en": "One killed, two others injured in Ukrainian attacks on Russia’s Belgorod Region",
-      "lead_en": "In Shebekino, a man was injured because of a drone attack on a passenger car",
-      "title_raw": "One killed, two others injured in Ukrainian attacks on Russia’s Belgorod Region",
-      "lead_raw": "In Shebekino, a man was injured because of a drone attack on a passenger car",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "4f424c6a7983cfcd58d259541ae51a67040ffd98",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2207325",
-      "published_utc": "2026-10-24T18:02:15Z",
-      "title_en": "Russia, Ukraine fulfil their commitments toward Alyoshki ceasefire — Russian ombudswoman",
-      "lead_en": "Yana Lantratova and Ukrainian ombudsman Dmitry Lubinets discussed earlier coordinated details toward a humanitarian mission in Alyoshki",
-      "title_raw": "Russia, Ukraine fulfil their commitments toward Alyoshki ceasefire — Russian ombudswoman",
-      "lead_raw": "Yana Lantratova and Ukrainian ombudsman Dmitry Lubinets discussed earlier coordinated details toward a humanitarian mission in Alyoshki",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "66414fa2e96f5e074a2b14b9503309dfb5009d59",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2207321",
-      "published_utc": "2026-10-24T17:36:39Z",
-      "title_en": "One killed, four others injured in Ukrainian attacks on Russia’s Bryansk Region",
-      "lead_en": "A Ukrainian UAV hit the Pozitiv shopping mall in the urban locality of Klimovo",
-      "title_raw": "One killed, four others injured in Ukrainian attacks on Russia’s Bryansk Region",
-      "lead_raw": "A Ukrainian UAV hit the Pozitiv shopping mall in the urban locality of Klimovo",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "44d8482c2a075156185cf5f384fea080d527c258",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28250087",
-      "published_utc": "2026-10-24T16:52:46Z",
-      "title_en": "Боец Гора: на Запорожье пожарные машины автоматически становятся целью БПЛА ВСУ",
-      "lead_en": "Военнослужащий группировки \"Днепр\" отметил, что такие случаи не единичны на трассе \"Новороссия\"",
-      "title_raw": "Боец Гора: на Запорожье пожарные машины автоматически становятся целью БПЛА ВСУ",
-      "lead_raw": "Военнослужащий группировки \"Днепр\" отметил, что такие случаи не единичны на трассе \"Новороссия\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
