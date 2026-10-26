@@ -1,9 +1,74 @@
 {
-  "updated_at_utc": "2026-10-26T03:27:06Z",
+  "updated_at_utc": "2026-10-26T09:45:45Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 14,
+  "count": 16,
   "articles": [
+    {
+      "id": "b2d7977703e6ae5f73f1c37e5c74e3727169ef1e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2207737",
+      "published_utc": "2026-10-26T09:05:11Z",
+      "title_en": "Iranian president to travel to Russia on Monday for gas exporters' summit — Tasnim",
+      "lead_en": "Masoud Pezeshkian is scheduled to deliver a speech on the event",
+      "title_raw": "Iranian president to travel to Russia on Monday for gas exporters' summit — Tasnim",
+      "lead_raw": "Masoud Pezeshkian is scheduled to deliver a speech on the event",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "ca2902747b10f5fb99ff8394fc0e4dfb7219d697",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2207727",
+      "published_utc": "2026-10-26T08:16:06Z",
+      "title_en": "Russian forces pound Ukrainian logistics hubs, energy, port sites in overnight strike",
+      "lead_en": "In particular, the strikes hit PS-330 electrical substations in Kharkov and Kamenets-Podolsky",
+      "title_raw": "Russian forces pound Ukrainian logistics hubs, energy, port sites in overnight strike",
+      "lead_raw": "In particular, the strikes hit PS-330 electrical substations in Kharkov and Kamenets-Podolsky",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "e3e905fc4a54a84083e19f6c17f0c0ac47ac738a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2207659",
+      "published_utc": "2026-10-26T05:27:27Z",
+      "title_en": "Cooperation with Russia helps to bolster energy security — Iran’s top diplomat",
+      "lead_en": "Among the most important areas of cooperation between Moscow and Tehran, Abbas Araghchi named possible investments by Russian companies in the development of Iran’s oil and gas fields, the transfer of technology",
+      "title_raw": "Cooperation with Russia helps to bolster energy security — Iran’s top diplomat",
+      "lead_raw": "Among the most important areas of cooperation between Moscow and Tehran, Abbas Araghchi named possible investments by Russian companies in the development of Iran’s oil and gas fields, the transfer of technology",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 3,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "9e6836b0be78141f543066451b9539a44c309caa",
       "source": "TASS (RU)",
@@ -278,28 +343,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "2d6cca6d775a7ea3730afcb6e7a1c153c0adcbf0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28249363",
-      "published_utc": "2026-10-24T08:53:57Z",
-      "title_en": "ВС РФ поразили объекты энергетической и транспортной инфраструктуры ВСУ",
-      "lead_en": "При ударах российских военных также повреждены пункты временной дислокации украинских вооруженных формирований и иностранных наемников, добавили в Минобороны России",
-      "title_raw": "ВС РФ поразили объекты энергетической и транспортной инфраструктуры ВСУ",
-      "lead_raw": "При ударах российских военных также повреждены пункты временной дислокации украинских вооруженных формирований и иностранных наемников, добавили в Минобороны России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
