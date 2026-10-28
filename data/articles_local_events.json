@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-10-28T17:06:44Z",
+  "updated_at_utc": "2026-10-28T22:14:23Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 19,
+  "count": 20,
   "articles": [
+    {
+      "id": "5f5a4219e1c3b4284e7db8c49f1fc7787a39c455",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28264385",
+      "published_utc": "2026-10-28T21:38:57Z",
+      "title_en": "Боец Латин рассказал об эвакуации ВС РФ гражданских водителей с места атаки ВСУ",
+      "lead_en": "Российские военнослужащие также помогают забрать поврежденный транспорт и перевезти пассажиров в безопасное место, отметил он",
+      "title_raw": "Боец Латин рассказал об эвакуации ВС РФ гражданских водителей с места атаки ВСУ",
+      "lead_raw": "Российские военнослужащие также помогают забрать поврежденный транспорт и перевезти пассажиров в безопасное место, отметил он",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "01f217a2389ab52ba7d6ee40c0524a322207b79b",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/10/28/russias-krasnodar-region-declares-high-alert-as-landfills-reach-capacity-a94116",
+      "published_utc": "2026-10-28T17:27:00Z",
+      "title_en": "Russia’s Krasnodar Region Declares High Alert as Landfills Reach Capacity",
+      "lead_en": "The governor’s decree warned of a potential regional emergency, with disruptions to garbage collection threatening to leave waste piling up in towns and villages.",
+      "title_raw": "Russia’s Krasnodar Region Declares High Alert as Landfills Reach Capacity",
+      "lead_raw": "The governor’s decree warned of a potential regional emergency, with disruptions to garbage collection threatening to leave waste piling up in towns and villages.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "519f991ad432c75394ba224dd466cb5e16aaa30f",
       "source": "TASS (EN)",
@@ -366,28 +406,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "62aa2eb88021614927f7be72f115ffe40fe2d725",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28255831",
-      "published_utc": "2026-10-26T20:31:40Z",
-      "title_en": "Мирошник сообщил об эвакуации из Купянска-Узлового 87 мирных жителей",
-      "lead_en": "Посол по особым поручениям МИД России также заявил, что ВСУ совершили серию ударов из минометов и с использованием дронов по мирным украинским гражданам, выходившим из под обстрелов",
-      "title_raw": "Мирошник сообщил об эвакуации из Купянска-Узлового 87 мирных жителей",
-      "lead_raw": "Посол по особым поручениям МИД России также заявил, что ВСУ совершили серию ударов из минометов и с использованием дронов по мирным украинским гражданам, выходившим из под обстрелов",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
