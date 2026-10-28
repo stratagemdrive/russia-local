@@ -1,9 +1,70 @@
 {
-  "updated_at_utc": "2026-10-27T14:00:25Z",
+  "updated_at_utc": "2026-10-28T04:14:32Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 24,
+  "count": 25,
   "articles": [
+    {
+      "id": "3c33e797aa1cf62ba58f6f18602a111d374a0af3",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2209169",
+      "published_utc": "2026-10-27T22:55:00Z",
+      "title_en": "Peskov clarifies ceasefire zone extending beyond Alyoshki",
+      "lead_en": "Russian Presidential Spokesman Dmitry Peskov noted that the ceasefire arrangement around the city was agreed upon from the outset",
+      "title_raw": "Peskov clarifies ceasefire zone extending beyond Alyoshki",
+      "lead_raw": "Russian Presidential Spokesman Dmitry Peskov noted that the ceasefire arrangement around the city was agreed upon from the outset",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "6193568da439585e3b2d6d41799db7ea932e58ba",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28260027",
+      "published_utc": "2026-10-27T22:38:18Z",
+      "title_en": "Боец Латин: ВСУ атаковали группу эвакуации ВС РФ при транспортировке техники",
+      "lead_en": "Несмотря на это, российским войскам удалось выполнить задачу, рассказал военный",
+      "title_raw": "Боец Латин: ВСУ атаковали группу эвакуации ВС РФ при транспортировке техники",
+      "lead_raw": "Несмотря на это, российским войскам удалось выполнить задачу, рассказал военный",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "cc040d084b903d2e1aee5279986d2b7e12aa0a0e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2209053",
+      "published_utc": "2026-10-27T17:59:24Z",
+      "title_en": "Melania Trump says ceasefire zone in Alyoshki extended beyond town",
+      "lead_en": "On October 23, the White House announced that Russia and Ukraine had reached an agreement, with Melania Trump’s assistance, to establish a ceasefire in Alyoshki, in the Kherson Region, starting October 29",
+      "title_raw": "Melania Trump says ceasefire zone in Alyoshki extended beyond town",
+      "lead_raw": "On October 23, the White House announced that Russia and Ukraine had reached an agreement, with Melania Trump’s assistance, to establish a ceasefire in Alyoshki, in the Kherson Region, starting October 29",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "37f19c602c64203106d86e575ad1464901704b1c",
       "source": "Meduza (EN)",
@@ -438,46 +499,6 @@
       "lead_en": "Alexander Gusev added that 17 people were injured",
       "title_raw": "Ukrainian attack on Russia’s Voronezh Region kills two — governor",
       "lead_raw": "Alexander Gusev added that 17 people were injured",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "1fd17e16e8b33cf4deb855d03a1fc4370135eb1c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28252419",
-      "published_utc": "2026-10-26T03:01:02Z",
-      "title_en": "Жительница Херсонской области рассказала об эвакуации военными РФ у Алешек",
-      "lead_en": "Российские бойцы шесть часов выносили на носилках тяжелораненую женщину и ее мужа, скрывая их от постоянных атак дронов ВСУ, сообщила пострадавшая",
-      "title_raw": "Жительница Херсонской области рассказала об эвакуации военными РФ у Алешек",
-      "lead_raw": "Российские бойцы шесть часов выносили на носилках тяжелораненую женщину и ее мужа, скрывая их от постоянных атак дронов ВСУ, сообщила пострадавшая",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "ae60b97199912faaf91e00e4002945dc0df79cff",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/10/25/ukrainian-attacks-kill-5-in-belgorod-and-lipetsk-hit-perm-industrial-plant-a94077",
-      "published_utc": "2026-10-25T16:00:00Z",
-      "title_en": "Ukrainian Attacks Kill 5 in Belgorod and Lipetsk, Hit Perm Industrial Plant",
-      "lead_en": "Four people were killed in southwestern Russia’s Belgorod region and one in the Lipetsk region.",
-      "title_raw": "Ukrainian Attacks Kill 5 in Belgorod and Lipetsk, Hit Perm Industrial Plant",
-      "lead_raw": "Four people were killed in southwestern Russia’s Belgorod region and one in the Lipetsk region.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
