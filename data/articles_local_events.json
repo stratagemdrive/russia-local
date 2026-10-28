@@ -1,9 +1,130 @@
 {
-  "updated_at_utc": "2026-10-28T04:14:32Z",
+  "updated_at_utc": "2026-10-28T17:06:44Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 25,
+  "count": 19,
   "articles": [
+    {
+      "id": "519f991ad432c75394ba224dd466cb5e16aaa30f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2209719",
+      "published_utc": "2026-10-28T17:02:57Z",
+      "title_en": "Russia hopes evacuation from Alyoshki to proceed without provocations — Kremlin",
+      "lead_en": "The humanitarian operation will take place in the coming days, Dmitry Peskov said",
+      "title_raw": "Russia hopes evacuation from Alyoshki to proceed without provocations — Kremlin",
+      "lead_raw": "The humanitarian operation will take place in the coming days, Dmitry Peskov said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "61d4068bc73f8084631d8b2075d87bd456c6075e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28263711",
+      "published_utc": "2026-10-28T16:13:15Z",
+      "title_en": "Песков: гуманитарная операция в Алешках состоится на днях",
+      "lead_en": "Россия рассчитывает на отсутствие провокаций при эвакуации населения из города, сообщил пресс-секретарь российского лидера",
+      "title_raw": "Песков: гуманитарная операция в Алешках состоится на днях",
+      "lead_raw": "Россия рассчитывает на отсутствие провокаций при эвакуации населения из города, сообщил пресс-секретарь российского лидера",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "eb9d58bf3d9d39b138f44cd04939d40911ba43dd",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2209653",
+      "published_utc": "2026-10-28T15:18:06Z",
+      "title_en": "Russia to take steps to destroy Storm Shadow missiles if they are supplied to Kiev — MFA",
+      "lead_en": "Maria Zakharova described the Storm Shadow missiles as a \"symbol of British involvement in the Ukrainian conflict\"",
+      "title_raw": "Russia to take steps to destroy Storm Shadow missiles if they are supplied to Kiev — MFA",
+      "lead_raw": "Maria Zakharova described the Storm Shadow missiles as a \"symbol of British involvement in the Ukrainian conflict\"",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "d14bd6ac4397cf7432877de6950f8809dc6384eb",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2209573",
+      "published_utc": "2026-10-28T13:47:44Z",
+      "title_en": "Russian Embassy in Spain conveys condolences over tragic train collision",
+      "lead_en": "The diplomatic mission wished a speedy recovery to the injured",
+      "title_raw": "Russian Embassy in Spain conveys condolences over tragic train collision",
+      "lead_raw": "The diplomatic mission wished a speedy recovery to the injured",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "85c6a26c6de7b95effee8f9f9f59b5c37af8d703",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2209383",
+      "published_utc": "2026-10-28T11:07:35Z",
+      "title_en": "Russia draws up list of industrial facilities, solutions for protection — top official",
+      "lead_en": "Russian Deputy PM Denis Manturov emphasized that that active work is underway in all regions to create mobile fire groups and strengthen emergency recovery teams",
+      "title_raw": "Russia draws up list of industrial facilities, solutions for protection — top official",
+      "lead_raw": "Russian Deputy PM Denis Manturov emphasized that that active work is underway in all regions to create mobile fire groups and strengthen emergency recovery teams",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "1e7e668d4450426b41fda4b47ef32a1699be068d",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/10/28/ukrainian-drones-strike-russia-s-tula-region-reportedly-sparking-fire-at-chemical-plant",
+      "published_utc": "2026-10-28T08:33:31Z",
+      "title_en": "Ukrainian drones strike Russia’s Tula region, reportedly sparking fire at chemical plant",
+      "lead_en": "Ukrainian drones struck the Tula region overnight on October 28.",
+      "title_raw": "Ukrainian drones strike Russia’s Tula region, reportedly sparking fire at chemical plant",
+      "lead_raw": "Ukrainian drones struck the Tula region overnight on October 28.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "3c33e797aa1cf62ba58f6f18602a111d374a0af3",
       "source": "TASS (EN)",
@@ -267,247 +388,6 @@
         "military"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "119549863902288ad57db7311fa0378d2846a95e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2207981",
-      "published_utc": "2026-10-26T14:23:02Z",
-      "title_en": "Russia against forced evacuation, hope for deal compliance: Alyoshki situation",
-      "lead_en": "Russian Commissioner for Human Rights Yana Lantratova pointed out that if Ukraine wanted people to make an informed decision, it should give them that opportunity by allowing them to live in peace and ordering its military to stop daily shelling of the town",
-      "title_raw": "Russia against forced evacuation, hope for deal compliance: Alyoshki situation",
-      "lead_raw": "Russian Commissioner for Human Rights Yana Lantratova pointed out that if Ukraine wanted people to make an informed decision, it should give them that opportunity by allowing them to live in peace and ordering its military to stop daily shelling of the town",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "9e3e7b8e3a77b05d49b7948401375b42bfb47c88",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/10/26/russia-accuses-ukraine-of-launching-strikes-against-oleshky-ahead-of-ceasefire-a94086",
-      "published_utc": "2026-10-26T13:50:00Z",
-      "title_en": "Russia Accuses Ukraine of Launching Strikes Against Oleshky Ahead of Ceasefire",
-      "lead_en": "There was no immediate response from Ukraine, which has in the past accused Russia of not letting aid in or people out of the town.",
-      "title_raw": "Russia Accuses Ukraine of Launching Strikes Against Oleshky Ahead of Ceasefire",
-      "lead_raw": "There was no immediate response from Ukraine, which has in the past accused Russia of not letting aid in or people out of the town.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "d074ec8753eaf45f0d0f32f1917ff0d795079e2c",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/society/2207953",
-      "published_utc": "2026-10-26T13:12:46Z",
-      "title_en": "Russian ombudswoman rejects Kiev’s demand of forceful evacuation of children from Alyoshki",
-      "lead_en": "According to Yana Lantratova, everything should be done voluntarily",
-      "title_raw": "Russian ombudswoman rejects Kiev’s demand of forceful evacuation of children from Alyoshki",
-      "lead_raw": "According to Yana Lantratova, everything should be done voluntarily",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "c82e3cf138efea4523d76531c72782ab0747b80a",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/10/26/still-just-a-child-the-russian-teenagers-fighting-and-dying-in-ukraine-a94045",
-      "published_utc": "2026-10-26T12:12:54Z",
-      "title_en": "‘Still Just a Child’: The Russian Teenagers Fighting and Dying in Ukraine",
-      "lead_en": "A growing number of Russian soldiers who were still schoolchildren when the full-scale invasion of Ukraine began are being killed in the war.",
-      "title_raw": "‘Still Just a Child’: The Russian Teenagers Fighting and Dying in Ukraine",
-      "lead_raw": "A growing number of Russian soldiers who were still schoolchildren when the full-scale invasion of Ukraine began are being killed in the war.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "4c085c005528772b9073e9c738cf37e57f986545",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2207923",
-      "published_utc": "2026-10-26T12:05:00Z",
-      "title_en": "Alyoshki roads' daily shelling, Kiev’s refusal to allow evacuation: top brass' statements",
-      "lead_en": "The Ukrainian army is remotely laying mines on access routes to Alyoshki to prevent the evacuation of civilians and block the delivery of medicine, the Russian Defense Ministry reported",
-      "title_raw": "Alyoshki roads' daily shelling, Kiev’s refusal to allow evacuation: top brass' statements",
-      "lead_raw": "The Ukrainian army is remotely laying mines on access routes to Alyoshki to prevent the evacuation of civilians and block the delivery of medicine, the Russian Defense Ministry reported",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "88af14d6e0780cdb1cb8b1bf42e22c7c80c9b9c5",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/society/2207903",
-      "published_utc": "2026-10-26T11:31:45Z",
-      "title_en": "Russia doing its best to ensure safe choice for Alyoshki residents during evacuation",
-      "lead_en": "Russian Human Rights Commissioner Yana Lantratova stressed that the key task of the upcoming humanitarian operation in Alyoshki is to learn about the needs of the city’s residents, form a humanitarian convoy and deliver relief aid",
-      "title_raw": "Russia doing its best to ensure safe choice for Alyoshki residents during evacuation",
-      "lead_raw": "Russian Human Rights Commissioner Yana Lantratova stressed that the key task of the upcoming humanitarian operation in Alyoshki is to learn about the needs of the city’s residents, form a humanitarian convoy and deliver relief aid",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "c4bbceff78f3b7b750e601e8d80fa781365120e3",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/pressreview/2207699",
-      "published_utc": "2026-10-26T10:00:00Z",
-      "title_en": "Press review: Alyoshki ceasefire tests peace hopes as US restores Ukraine’s strike ability",
-      "lead_en": "Top stories from the Russian press on Monday, October 26th",
-      "title_raw": "Press review: Alyoshki ceasefire tests peace hopes as US restores Ukraine’s strike ability",
-      "lead_raw": "Top stories from the Russian press on Monday, October 26th",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "25e9b61b31141fdc8026ac84b8628616130535dd",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28253551",
-      "published_utc": "2026-10-26T09:05:32Z",
-      "title_en": "Российские средства ПВО сбили 581 беспилотник ВСУ",
-      "lead_en": "Также уничтожены две крылатые ракеты воздушного базирования Storm Shadow",
-      "title_raw": "Российские средства ПВО сбили 581 беспилотник ВСУ",
-      "lead_raw": "Также уничтожены две крылатые ракеты воздушного базирования Storm Shadow",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "671e8e83667354e1cd1823421e3ed40b4df5bc5e",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/10/26/two-killed-17-injured-in-ukrainian-drone-and-missile-strikes-on-russia-s-voronezh-regional-governor-says",
-      "published_utc": "2026-10-26T08:47:18Z",
-      "title_en": "Two killed, 17 injured in Ukrainian drone and missile strikes on Russia’s Voronezh, regional governor says",
-      "lead_en": "Ukrainian forces struck Voronezh with missiles and drones overnight on October 26.",
-      "title_raw": "Two killed, 17 injured in Ukrainian drone and missile strikes on Russia’s Voronezh, regional governor says",
-      "lead_raw": "Ukrainian forces struck Voronezh with missiles and drones overnight on October 26.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "01e3c242938344422575cb4da1b40bbcf6d2a01a",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2207729",
-      "published_utc": "2026-10-26T08:45:00Z",
-      "title_en": "Two dead, 17 injured: aftermath of Ukrainian attack on Russia’s central Voronezh Region",
-      "lead_en": "On-duty air defenses shot down 113 Ukrainian drones over the Voronezh Region in central Russia overnight, with 70 of them directly over Voronezh, Governor Alexander Gusev said",
-      "title_raw": "Two dead, 17 injured: aftermath of Ukrainian attack on Russia’s central Voronezh Region",
-      "lead_raw": "On-duty air defenses shot down 113 Ukrainian drones over the Voronezh Region in central Russia overnight, with 70 of them directly over Voronezh, Governor Alexander Gusev said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "e02e42acef3f2bc92e1c8e5b05e31ddfe213c581",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/10/26/freight-train-derails-near-russia-s-yekaterinburg-tanker-cars-catch-fire",
-      "published_utc": "2026-10-26T08:07:28Z",
-      "title_en": "Freight train derails near Russia’s Yekaterinburg, tanker cars catch fire",
-      "lead_en": "Twenty cars of a freight train derailed on the Reshety–Sedelnikovo stretch of track in Russia’s Sverdlovsk region, and seven tank cars caught fire, the Russian state news agency TASS reported, citing the Sverdlovsk region branch of Russia’s Emergency Situations Ministry.",
-      "title_raw": "Freight train derails near Russia’s Yekaterinburg, tanker cars catch fire",
-      "lead_raw": "Twenty cars of a freight train derailed on the Reshety–Sedelnikovo stretch of track in Russia’s Sverdlovsk region, and seven tank cars caught fire, the Russian state news agency TASS reported, citing the Sverdlovsk region branch of Russia’s Emergency Situations Ministry.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "ea4a1ccd946ab507f22908923417bafb52ecf7bf",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2207697",
-      "published_utc": "2026-10-26T07:01:44Z",
-      "title_en": "Ukrainian attack on Russia’s Voronezh Region kills two — governor",
-      "lead_en": "Alexander Gusev added that 17 people were injured",
-      "title_raw": "Ukrainian attack on Russia’s Voronezh Region kills two — governor",
-      "lead_raw": "Alexander Gusev added that 17 people were injured",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
