@@ -1,9 +1,49 @@
 {
-  "updated_at_utc": "2026-10-29T16:37:44Z",
+  "updated_at_utc": "2026-10-29T21:32:56Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 17,
+  "count": 18,
   "articles": [
+    {
+      "id": "2edd108fb91a9ba7270dd70d5fb44ebe77d95f63",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/10/30/residents-of-russian-occupied-oleshky-have-until-friday-afternoon-to-leave-aid-distribution-for-those-who-stay-is-scheduled-to-begin-under-a-temporary-ceasefire",
+      "published_utc": "2026-10-29T21:10:15Z",
+      "title_en": "Residents of Russian-occupied Oleshky have until Friday afternoon to leave. Aid distribution for those who stay is scheduled to begin under a temporary ceasefire.",
+      "lead_en": "Routes for a humanitarian mission in Oleshky, in Ukraine’s Kherson region, have been cleared of mines. Russian and Ukrainian human rights commissioners Yana Lantratova and Dmytro Lubinets said the humanitarian convoy is ready to depart.",
+      "title_raw": "Residents of Russian-occupied Oleshky have until Friday afternoon to leave. Aid distribution for those who stay is scheduled to begin under a temporary ceasefire.",
+      "lead_raw": "Routes for a humanitarian mission in Oleshky, in Ukraine’s Kherson region, have been cleared of mines. Russian and Ukrainian human rights commissioners Yana Lantratova and Dmytro Lubinets said the humanitarian convoy is ready to depart.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "b15e3b3484e63f9fa7af37c971567b6c896a11f3",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2210441",
+      "published_utc": "2026-10-29T17:47:50Z",
+      "title_en": "Melania Trump hopes humanitarian operation in Alyoshki will help resolve Ukraine conflict",
+      "lead_en": "The Russian Defense Ministry reported that, as of 4:00 a.m. Moscow time on October 27, the Russian Armed Forces had ceased fire on the Kherson front and established a \"regime of silence\" in preparation for a humanitarian operation near Alyoshki",
+      "title_raw": "Melania Trump hopes humanitarian operation in Alyoshki will help resolve Ukraine conflict",
+      "lead_raw": "The Russian Defense Ministry reported that, as of 4:00 a.m. Moscow time on October 27, the Russian Armed Forces had ceased fire on the Kherson front and established a \"regime of silence\" in preparation for a humanitarian operation near Alyoshki",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "9b100eb2ce8f8e9eb901700d669b3651cc3df8c2",
       "source": "Meduza (EN)",
@@ -326,27 +366,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "cc040d084b903d2e1aee5279986d2b7e12aa0a0e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2209053",
-      "published_utc": "2026-10-27T17:59:24Z",
-      "title_en": "Melania Trump says ceasefire zone in Alyoshki extended beyond town",
-      "lead_en": "On October 23, the White House announced that Russia and Ukraine had reached an agreement, with Melania Trump’s assistance, to establish a ceasefire in Alyoshki, in the Kherson Region, starting October 29",
-      "title_raw": "Melania Trump says ceasefire zone in Alyoshki extended beyond town",
-      "lead_raw": "On October 23, the White House announced that Russia and Ukraine had reached an agreement, with Melania Trump’s assistance, to establish a ceasefire in Alyoshki, in the Kherson Region, starting October 29",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
