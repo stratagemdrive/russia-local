@@ -1,9 +1,51 @@
 {
-  "updated_at_utc": "2026-10-29T21:32:56Z",
+  "updated_at_utc": "2026-10-30T01:34:55Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 18,
   "articles": [
+    {
+      "id": "cdc9a998c26805a0686dd80585f59ed0eda76285",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2210591",
+      "published_utc": "2026-10-29T23:37:44Z",
+      "title_en": "Russia needs lasting peace in Ukraine instead of temporary ceasefire — Kremlin",
+      "lead_en": "Spokesman Dmitry Peskov said that the negotiations \"do not mean ceasefire\"",
+      "title_raw": "Russia needs lasting peace in Ukraine instead of temporary ceasefire — Kremlin",
+      "lead_raw": "Spokesman Dmitry Peskov said that the negotiations \"do not mean ceasefire\"",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "ea85ca3e929d1f2f8e937c9c732735d677987855",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28269205",
+      "published_utc": "2026-10-29T21:49:46Z",
+      "title_en": "Гросси назвал неприемлемыми атаки на ЗАЭС",
+      "lead_en": "Гендиректор Международного агентства по атомной энергии призвал к сдержанности ради предотвращения риска ядерной аварии",
+      "title_raw": "Гросси назвал неприемлемыми атаки на ЗАЭС",
+      "lead_raw": "Гендиректор Международного агентства по атомной энергии призвал к сдержанности ради предотвращения риска ядерной аварии",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "2edd108fb91a9ba7270dd70d5fb44ebe77d95f63",
       "source": "Meduza (EN)",
@@ -326,46 +368,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "3c33e797aa1cf62ba58f6f18602a111d374a0af3",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2209169",
-      "published_utc": "2026-10-27T22:55:00Z",
-      "title_en": "Peskov clarifies ceasefire zone extending beyond Alyoshki",
-      "lead_en": "Russian Presidential Spokesman Dmitry Peskov noted that the ceasefire arrangement around the city was agreed upon from the outset",
-      "title_raw": "Peskov clarifies ceasefire zone extending beyond Alyoshki",
-      "lead_raw": "Russian Presidential Spokesman Dmitry Peskov noted that the ceasefire arrangement around the city was agreed upon from the outset",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "6193568da439585e3b2d6d41799db7ea932e58ba",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28260027",
-      "published_utc": "2026-10-27T22:38:18Z",
-      "title_en": "Боец Латин: ВСУ атаковали группу эвакуации ВС РФ при транспортировке техники",
-      "lead_en": "Несмотря на это, российским войскам удалось выполнить задачу, рассказал военный",
-      "title_raw": "Боец Латин: ВСУ атаковали группу эвакуации ВС РФ при транспортировке техники",
-      "lead_raw": "Несмотря на это, российским войскам удалось выполнить задачу, рассказал военный",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
