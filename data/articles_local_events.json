@@ -1,9 +1,30 @@
 {
-  "updated_at_utc": "2026-10-31T06:39:54Z",
+  "updated_at_utc": "2026-10-31T13:20:07Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 22,
+  "count": 20,
   "articles": [
+    {
+      "id": "e50ce98dfa1822c3c0c1a69c126a8fb1e9b03d6e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2211335",
+      "published_utc": "2026-10-31T08:22:56Z",
+      "title_en": "Russian air defenses intercept two drones heading for Moscow",
+      "lead_en": "Emergency response teams are working at the sites where debris fell, Sergey Sobyanin, the Russian capital’s mayor, said",
+      "title_raw": "Russian air defenses intercept two drones heading for Moscow",
+      "lead_raw": "Emergency response teams are working at the sites where debris fell, Sergey Sobyanin, the Russian capital’s mayor, said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "d0a27d12ae9d9c1eaa4830777324a83b4e8c8dc4",
       "source": "TASS (RU)",
@@ -385,67 +406,6 @@
       "topics": [
         "local_events"
       ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "64246bf173b022f61e9b1b052c74bb6111469f1e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2210157",
-      "published_utc": "2026-10-29T12:04:00Z",
-      "title_en": "Alyoshki ceasefire, humanitarian convoy: statements by ombudswoman, Defense Ministry",
-      "lead_en": "Russian human rights commissioner Yana Lantratova noted that she is in constant contact with her Ukrainian counterpart Dmitry Lubinets",
-      "title_raw": "Alyoshki ceasefire, humanitarian convoy: statements by ombudswoman, Defense Ministry",
-      "lead_raw": "Russian human rights commissioner Yana Lantratova noted that she is in constant contact with her Ukrainian counterpart Dmitry Lubinets",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "c6dd53f5e150463d13d009ae2d47c561ddbb6a08",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/10/29/russian-military-intercepts-record-12k-ukrainian-drones-overnight-a94117",
-      "published_utc": "2026-10-29T11:41:00Z",
-      "title_en": "Russian Military Intercepts Record 1.2K Ukrainian Drones Overnight",
-      "lead_en": "Authorities in Ukraine, meanwhile, said a Russian drone attack killed at least 14 people on a train platform in the southeastern part of the country.",
-      "title_raw": "Russian Military Intercepts Record 1.2K Ukrainian Drones Overnight",
-      "lead_raw": "Authorities in Ukraine, meanwhile, said a Russian drone attack killed at least 14 people on a train platform in the southeastern part of the country.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "938c6cf9907ffb0d9f36bb95dc85bd4bbc6e3148",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2209893",
-      "published_utc": "2026-10-29T07:42:06Z",
-      "title_en": "Russia’s Battlegroup Dnepr is demining roads to ensure safe passage to Alyoshki",
-      "lead_en": "The soldiers are clearing roads adjacent to the city of unexploded ordnance to facilitate the delivery of aid and the evacuation of residents",
-      "title_raw": "Russia’s Battlegroup Dnepr is demining roads to ensure safe passage to Alyoshki",
-      "lead_raw": "The soldiers are clearing roads adjacent to the city of unexploded ordnance to facilitate the delivery of aid and the evacuation of residents",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
       "primary_topic": "local_events"
     }
   ]
