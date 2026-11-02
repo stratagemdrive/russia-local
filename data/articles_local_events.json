@@ -1,9 +1,108 @@
 {
-  "updated_at_utc": "2026-11-02T07:16:38Z",
+  "updated_at_utc": "2026-11-02T17:51:29Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 4,
+  "count": 8,
   "articles": [
+    {
+      "id": "5d33e260ef8290ecfda18ea09bf100225bfd1c52",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2212059",
+      "published_utc": "2026-11-02T17:13:26Z",
+      "title_en": "Russia’s mission lambasts UNESCO report on journalists’ safety",
+      "lead_en": "The mission specified that a significant number of journalists who have been killed, as officially reported by the Russian side, is lacking from the lists attached to the report",
+      "title_raw": "Russia’s mission lambasts UNESCO report on journalists’ safety",
+      "lead_raw": "The mission specified that a significant number of journalists who have been killed, as officially reported by the Russian side, is lacking from the lists attached to the report",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "b08a645197ebc9fd929c22a8955a9645571499e9",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28279759",
+      "published_utc": "2026-11-02T16:41:56Z",
+      "title_en": "ТАСС: отряд Госпогранслужбы Украины несет огромные потери в Харьковской области",
+      "lead_en": "Родственники военных требуют от командования эвакуации подразделения, отметили в российских силовых структурах",
+      "title_raw": "ТАСС: отряд Госпогранслужбы Украины несет огромные потери в Харьковской области",
+      "lead_raw": "Родственники военных требуют от командования эвакуации подразделения, отметили в российских силовых структурах",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "67cc44f6d64ff5daaa30a7cf7f7237b0c8f6362a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/society/2211881",
+      "published_utc": "2026-11-02T10:52:33Z",
+      "title_en": "All possible assistance to be provided to civilians staying in Alyoshki — Russian official",
+      "lead_en": "Yana Lantratova explained that some people had declined evacuation for various reasons, including health problems",
+      "title_raw": "All possible assistance to be provided to civilians staying in Alyoshki — Russian official",
+      "lead_raw": "Yana Lantratova explained that some people had declined evacuation for various reasons, including health problems",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "d765353a5e24d5606252eb9ad83da843d5e85740",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2211743",
+      "published_utc": "2026-11-02T09:22:15Z",
+      "title_en": "No plans to destroy countries as colonial powers collapse — top Russian security official",
+      "lead_en": "\"The reason is that those whom they once enslaved and turned into their colonies are awakening and rising as their self-consciousness and self-determination are reviving,\" Sergey Shoigu added",
+      "title_raw": "No plans to destroy countries as colonial powers collapse — top Russian security official",
+      "lead_raw": "\"The reason is that those whom they once enslaved and turned into their colonies are awakening and rising as their self-consciousness and self-determination are reviving,\" Sergey Shoigu added",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "9a2b4efaff6b2c9396d911b26f22169517699c0e",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/11/02/emergency-alert-apps-hacked-in-russia-and-ukraine-sending-false-warnings-of-nuclear-threats",
+      "published_utc": "2026-11-02T08:31:51Z",
+      "title_en": "Emergency alert apps hacked in Russia and Ukraine, sending false warnings of nuclear threats",
+      "lead_en": "The mobile app of Russia’s Emergency Situations Ministry was hit by a cyberattack, and its users received notifications claiming “nuclear warheads” had been launched “across all regions” of the country.",
+      "title_raw": "Emergency alert apps hacked in Russia and Ukraine, sending false warnings of nuclear threats",
+      "lead_raw": "The mobile app of Russia’s Emergency Situations Ministry was hit by a cyberattack, and its users received notifications claiming “nuclear warheads” had been launched “across all regions” of the country.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "12ed80f08ef566b867d878bb498e6f1d32787585",
       "source": "TASS (RU)",
@@ -66,27 +165,6 @@
       },
       "topics": [],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "e50ce98dfa1822c3c0c1a69c126a8fb1e9b03d6e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2211335",
-      "published_utc": "2026-10-31T08:22:56Z",
-      "title_en": "Russian air defenses intercept two drones heading for Moscow",
-      "lead_en": "Emergency response teams are working at the sites where debris fell, Sergey Sobyanin, the Russian capital’s mayor, said",
-      "title_raw": "Russian air defenses intercept two drones heading for Moscow",
-      "lead_raw": "Emergency response teams are working at the sites where debris fell, Sergey Sobyanin, the Russian capital’s mayor, said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
