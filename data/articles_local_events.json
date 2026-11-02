@@ -1,9 +1,53 @@
 {
-  "updated_at_utc": "2026-11-02T00:17:01Z",
+  "updated_at_utc": "2026-11-02T07:16:38Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 3,
+  "count": 4,
   "articles": [
+    {
+      "id": "12ed80f08ef566b867d878bb498e6f1d32787585",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/28277609",
+      "published_utc": "2026-11-02T07:13:51Z",
+      "title_en": "Посольство РФ: российские туристы не пострадали при взрыве на лодке на Бали",
+      "lead_en": "Россиянам, находившимся на судне, удалось выпрыгнуть в море, откуда их вытащили спасатели, рассказали в диппредставительстве",
+      "title_raw": "Посольство РФ: российские туристы не пострадали при взрыве на лодке на Бали",
+      "lead_raw": "Россиянам, находившимся на судне, удалось выпрыгнуть в море, откуда их вытащили спасатели, рассказали в диппредставительстве",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "diplomacy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "bbd2b1ecf5ebbb2a4107eda1182bb65eb1fd3a28",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2211611",
+      "published_utc": "2026-11-02T01:17:01Z",
+      "title_en": "Zelensky attempting to undermine position of Republicans in the US — Dmitriev",
+      "lead_en": "Thus the Russian Presidential Special Representative for Investment and Economic Cooperation with Foreign Countries commented on Vladimir Zelensky’s remarks about a potential energy ceasefire",
+      "title_raw": "Zelensky attempting to undermine position of Republicans in the US — Dmitriev",
+      "lead_raw": "Thus the Russian Presidential Special Representative for Investment and Economic Cooperation with Foreign Countries commented on Vladimir Zelensky’s remarks about a potential energy ceasefire",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 1
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "16e39e25cf2d7ad4b05fa5688177619b84d74083",
       "source": "TASS (EN)",
@@ -43,25 +87,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "d0a27d12ae9d9c1eaa4830777324a83b4e8c8dc4",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28273945",
-      "published_utc": "2026-10-31T04:51:56Z",
-      "title_en": "В ВСКС рассказали о регулярном участии в ликвидации последствий атак ВСУ",
-      "lead_en": "Недавно отряды закрывали тепловой контур поврежденных зданий Мелитопольского государственного университета, отметил руководитель Всероссийского студенческого корпуса спасателей Евгений Козеев",
-      "title_raw": "В ВСКС рассказали о регулярном участии в ликвидации последствий атак ВСУ",
-      "lead_raw": "Недавно отряды закрывали тепловой контур поврежденных зданий Мелитопольского государственного университета, отметил руководитель Всероссийского студенческого корпуса спасателей Евгений Козеев",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }

@@ -1,9 +1,111 @@
 {
-  "updated_at_utc": "2026-11-02T00:17:01Z",
+  "updated_at_utc": "2026-11-02T07:16:38Z",
   "keep_hours": 48,
   "topic": "economy",
-  "count": 17,
+  "count": 21,
   "articles": [
+    {
+      "id": "8d35156bfb395e8984a4edf3e24b1ff6c8e416c4",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kultura/28277553",
+      "published_utc": "2026-11-02T07:03:35Z",
+      "title_en": "Ямпольская заявила о необходимости наращивания экспортного потенциала кинематографа",
+      "lead_en": "Зарубежный кинематограф часто тиражирует негативные образы русских, а отечественная киноиндустрия обязана этому противодействовать, отметила советник президента",
+      "title_raw": "Ямпольская заявила о необходимости наращивания экспортного потенциала кинематографа",
+      "lead_raw": "Зарубежный кинематограф часто тиражирует негативные образы русских, а отечественная киноиндустрия обязана этому противодействовать, отметила советник президента",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "a8f00cf52135de0bd8cc21d56f52a41fe656c332",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28277551",
+      "published_utc": "2026-11-02T07:01:24Z",
+      "title_en": "ТАСС открыл выставку к 105-летию установления дипотношений России и Монголии",
+      "lead_en": "Более 20 фотографий агентства рассказывают о сотрудничестве государств в официальных визитах и встречах, проектах в экономике, памятных датах в истории и совместной борьбе с фашизмом в годы Великой Отечественной войны",
+      "title_raw": "ТАСС открыл выставку к 105-летию установления дипотношений России и Монголии",
+      "lead_raw": "Более 20 фотографий агентства рассказывают о сотрудничестве государств в официальных визитах и встречах, проектах в экономике, памятных датах в истории и совместной борьбе с фашизмом в годы Великой Отечественной войны",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "7276bd2c1da6b01d675e2d08b514d31ff20f7572",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2211659",
+      "published_utc": "2026-11-02T06:20:54Z",
+      "title_en": "Russian stock market growing in early trading hours",
+      "lead_en": "The MOEX Russia Index gained 0.25% to 2,519.3 points, while the RTS Index added 0.13% to 984.04 points",
+      "title_raw": "Russian stock market growing in early trading hours",
+      "lead_raw": "The MOEX Russia Index gained 0.25% to 2,519.3 points, while the RTS Index added 0.13% to 984.04 points",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "a742c72984f199c8562e12348768f97f9dc242e5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28277395",
+      "published_utc": "2026-11-02T06:11:38Z",
+      "title_en": "РФ временно ограничила вывоз продукции нефтехимпрома за пределы ЕАЭС",
+      "lead_en": "Решение направлено на поддержание стабильного обеспечения сырьем российских промышленных предприятий, сообщили в кабмине",
+      "title_raw": "РФ временно ограничила вывоз продукции нефтехимпрома за пределы ЕАЭС",
+      "lead_raw": "Решение направлено на поддержание стабильного обеспечения сырьем российских промышленных предприятий, сообщили в кабмине",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "bbd2b1ecf5ebbb2a4107eda1182bb65eb1fd3a28",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2211611",
+      "published_utc": "2026-11-02T01:17:01Z",
+      "title_en": "Zelensky attempting to undermine position of Republicans in the US — Dmitriev",
+      "lead_en": "Thus the Russian Presidential Special Representative for Investment and Economic Cooperation with Foreign Countries commented on Vladimir Zelensky’s remarks about a potential energy ceasefire",
+      "title_raw": "Zelensky attempting to undermine position of Republicans in the US — Dmitriev",
+      "lead_raw": "Thus the Russian Presidential Special Representative for Investment and Economic Cooperation with Foreign Countries commented on Vladimir Zelensky’s remarks about a potential energy ceasefire",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 1
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "e4a55b9d7d26f7b892bba3f834756d72efa51ee3",
       "source": "TASS (RU)",
@@ -338,27 +440,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "39fbfad4f1ffce27b5f6a7a310ef452e62598cda",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28273847",
-      "published_utc": "2026-10-31T03:38:02Z",
-      "title_en": "Аналитик Берн заявил о пользе западных санкций для российских компаний",
-      "lead_en": "По мнению шведского эксперта, чем дольше будет продолжаться украинский конфликт, тем больше экономических проблем возникнет в самой Европе",
-      "title_raw": "Аналитик Берн заявил о пользе западных санкций для российских компаний",
-      "lead_raw": "По мнению шведского эксперта, чем дольше будет продолжаться украинский конфликт, тем больше экономических проблем возникнет в самой Европе",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
