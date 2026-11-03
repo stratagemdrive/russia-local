@@ -1,9 +1,53 @@
 {
-  "updated_at_utc": "2026-11-03T15:51:13Z",
+  "updated_at_utc": "2026-11-03T21:30:49Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 36,
+  "count": 37,
   "articles": [
+    {
+      "id": "03cdf01543908d75c29b77c53b523a1eeaa9878a",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/11/03/russian-strikes-trigger-emergency-power-outages-in-several-ukrainian-regions-cutting-water-supply-across-kyiv",
+      "published_utc": "2026-11-03T18:28:02Z",
+      "title_en": "Russian strikes trigger emergency power outages in several Ukrainian regions, cutting water supply across Kyiv",
+      "lead_en": "One of Russia’s largest attacks on Ukraine’s energy system has been underway since the early hours of November 3, national power company Ukrenergo reported.",
+      "title_raw": "Russian strikes trigger emergency power outages in several Ukrainian regions, cutting water supply across Kyiv",
+      "lead_raw": "One of Russia’s largest attacks on Ukraine’s energy system has been underway since the early hours of November 3, national power company Ukrenergo reported.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "8b8f0c63831fee9155b3d2b7b541d369421a313f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2212649",
+      "published_utc": "2026-11-03T16:28:46Z",
+      "title_en": "Russian gas supplies to Moldova still feasible, ambassador assures",
+      "lead_en": "Oleg Ozerov urged not to draw wrong conclusions about Russia’s capabilities based on personal assumptions",
+      "title_raw": "Russian gas supplies to Moldova still feasible, ambassador assures",
+      "lead_raw": "Oleg Ozerov urged not to draw wrong conclusions about Russia’s capabilities based on personal assumptions",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "70d562ccc59b620e9b575e9706152aa599103653",
       "source": "TASS (RU)",
@@ -747,27 +791,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "ddbb260f5339d791de6c9a9d16bc7f28d4d221e5",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/28276497",
-      "published_utc": "2026-11-01T16:55:35Z",
-      "title_en": "Два российских клуба вышли в основной этап женского Кубка Европы по водному поло",
-      "lead_en": "\"Динамо-Уралочка\" и \"КИНЕФ-Сургутнефтегаз\" одержали по три победы в квалификации",
-      "title_raw": "Два российских клуба вышли в основной этап женского Кубка Европы по водному поло",
-      "lead_raw": "\"Динамо-Уралочка\" и \"КИНЕФ-Сургутнефтегаз\" одержали по три победы в квалификации",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }

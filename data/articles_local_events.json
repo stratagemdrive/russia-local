@@ -1,9 +1,109 @@
 {
-  "updated_at_utc": "2026-11-03T15:51:13Z",
+  "updated_at_utc": "2026-11-03T21:30:49Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 19,
+  "count": 23,
   "articles": [
+    {
+      "id": "be0efcbc9a39561e34004b8725908dff710fd7e3",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2212751",
+      "published_utc": "2026-11-03T21:12:41Z",
+      "title_en": "Ukrainian troops deliberately target Zaporozhye NPP employees — Russian diplomat",
+      "lead_en": "The ZNPP reported earlier that two civilians, including a woman who worked at the plant, were killed in a Ukrainian drone attack on their car",
+      "title_raw": "Ukrainian troops deliberately target Zaporozhye NPP employees — Russian diplomat",
+      "lead_raw": "The ZNPP reported earlier that two civilians, including a woman who worked at the plant, were killed in a Ukrainian drone attack on their car",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "7601b3753f2128be282a53c691d096576d8c76e2",
+      "source": "RT",
+      "url": "https://rt-english.com/news/648343-poland-donald-tusk-kaliningrad/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "published_utc": "2026-11-03T21:08:59Z",
+      "title_en": "Tusk’s Kaliningrad gamble",
+      "lead_en": "Polish Prime Minister Donald Tusk is playing with fire by launching a “special operation” on Russia’s border Read Full Article at RT.com",
+      "title_raw": "Tusk’s Kaliningrad gamble",
+      "lead_raw": "Polish Prime Minister Donald Tusk is playing with fire by launching a “special operation” on Russia’s border Read Full Article at RT.com",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "eb4fdecd7522383d2bea2bb011028904a1967d10",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/11/03/the-new-yorker-profiles-andrey-zvyagintsev-the-exiled-russian-director-of-the-cannes-grand-prix-winning-film-minotaur",
+      "published_utc": "2026-11-03T19:13:56Z",
+      "title_en": "The New Yorker profiles Andrey Zvyagintsev, the exiled Russian director of the Cannes Grand Prix-winning film ‘Minotaur’",
+      "lead_en": "The New Yorker has published a profile of the filmmaker Andrey Zvyagintsev by Joshua Yaffa, an American journalist who has written about Russia since the mid-2000s and is the author of “Between Two Fires: Truth, Ambition, and Compromise in Putin’s Russia.” Yaffa spoke with Zvyagintsev, as well as with his producers, his actors, and the film critics who study his work. Meduza summarizes Yaffa’s article.",
+      "title_raw": "The New Yorker profiles Andrey Zvyagintsev, the exiled Russian director of the Cannes Grand Prix-winning film ‘Minotaur’",
+      "lead_raw": "The New Yorker has published a profile of the filmmaker Andrey Zvyagintsev by Joshua Yaffa, an American journalist who has written about Russia since the mid-2000s and is the author of “Between Two Fires: Truth, Ambition, and Compromise in Putin’s Russia.” Yaffa spoke with Zvyagintsev, as well as with his producers, his actors, and the film critics who study his work. Meduza summarizes Yaffa’s article.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "03cdf01543908d75c29b77c53b523a1eeaa9878a",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/11/03/russian-strikes-trigger-emergency-power-outages-in-several-ukrainian-regions-cutting-water-supply-across-kyiv",
+      "published_utc": "2026-11-03T18:28:02Z",
+      "title_en": "Russian strikes trigger emergency power outages in several Ukrainian regions, cutting water supply across Kyiv",
+      "lead_en": "One of Russia’s largest attacks on Ukraine’s energy system has been underway since the early hours of November 3, national power company Ukrenergo reported.",
+      "title_raw": "Russian strikes trigger emergency power outages in several Ukrainian regions, cutting water supply across Kyiv",
+      "lead_raw": "One of Russia’s largest attacks on Ukraine’s energy system has been underway since the early hours of November 3, national power company Ukrenergo reported.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "60dbca92f440fe51b9a861227dbbaf94769b09d2",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2212665",
+      "published_utc": "2026-11-03T17:26:42Z",
+      "title_en": "Ukrainian strike on minibus near Russia’s Belgorod injures four, including three children",
+      "lead_en": "According to the region's governor Alexander Shuvaev, all injured are receiving medical care at the district hospital",
+      "title_raw": "Ukrainian strike on minibus near Russia’s Belgorod injures four, including three children",
+      "lead_raw": "According to the region's governor Alexander Shuvaev, all injured are receiving medical care at the district hospital",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "cca54e6569f05ec8f1197739124f8301d9ab3a30",
       "source": "The Moscow Times",
@@ -365,25 +465,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "16e39e25cf2d7ad4b05fa5688177619b84d74083",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2211569",
-      "published_utc": "2026-11-01T17:49:23Z",
-      "title_en": "US First Lady hopes humanitarian mission in Slyoshki will promote lasting peace",
-      "lead_en": "Earlier, Russia and Ukraine agreed on a US First Lady Melania Trump-mediated ceasefire in Alyoshki to carry out a humanitarian operation",
-      "title_raw": "US First Lady hopes humanitarian mission in Slyoshki will promote lasting peace",
-      "lead_raw": "Earlier, Russia and Ukraine agreed on a US First Lady Melania Trump-mediated ceasefire in Alyoshki to carry out a humanitarian operation",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
     }
   ]
 }
