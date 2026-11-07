@@ -1,9 +1,53 @@
 {
-  "updated_at_utc": "2026-11-07T15:26:44Z",
+  "updated_at_utc": "2026-11-07T19:54:18Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 21,
+  "count": 22,
   "articles": [
+    {
+      "id": "df64b45005fca4b44f1db7b1488c35f3fbb9504a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28295195",
+      "published_utc": "2026-11-07T17:40:19Z",
+      "title_en": "Посол в Москве рассказал о планах Ирана построить газопровод с Россией",
+      "lead_en": "Его целевая мощность составит до 110 млрд куб. м, сообщил Казем Джалали",
+      "title_raw": "Посол в Москве рассказал о планах Ирана построить газопровод с Россией",
+      "lead_raw": "Его целевая мощность составит до 110 млрд куб. м, сообщил Казем Джалали",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "7b88b3ff66845705df423862c4a163ad897afddc",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28295141",
+      "published_utc": "2026-11-07T16:47:25Z",
+      "title_en": "МИД: Россия разделяет подходы США в сфере энергетики",
+      "lead_en": "Продвигаемое американцами в \"Группе двадцати\" видение с фокусом на обеспечение энергоизобилия за счет всех топливных ресурсов Москва считает рациональным, отметил замглавы МИД Александр Панкин",
+      "title_raw": "МИД: Россия разделяет подходы США в сфере энергетики",
+      "lead_raw": "Продвигаемое американцами в \"Группе двадцати\" видение с фокусом на обеспечение энергоизобилия за счет всех топливных ресурсов Москва считает рациональным, отметил замглавы МИД Александр Панкин",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "31652e19a949c8992c091e450c6cb939756a747c",
       "source": "TASS (RU)",
@@ -433,27 +477,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "5778d5c060938d36afa9d4cbdf392292d7c2befb",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2213491",
-      "published_utc": "2026-11-05T17:08:28Z",
-      "title_en": "European UGS may have lower deliverability due to high withdrawal rate — Gazprom",
-      "lead_en": "According to the Russian gas holding, this elevates risks for reliable gas supplies to consumers",
-      "title_raw": "European UGS may have lower deliverability due to high withdrawal rate — Gazprom",
-      "lead_raw": "According to the Russian gas holding, this elevates risks for reliable gas supplies to consumers",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
