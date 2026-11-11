@@ -1,9 +1,116 @@
 {
-  "updated_at_utc": "2026-11-11T01:01:18Z",
+  "updated_at_utc": "2026-11-11T08:53:24Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 26,
+  "count": 28,
   "articles": [
+    {
+      "id": "5c7cbda6e80737db8662109b708e2c9ea085dfae",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/11/11/putin-reportedly-orders-government-to-keep-russia-s-electricity-prices-20-lower-than-china-s",
+      "published_utc": "2026-11-11T08:50:12Z",
+      "title_en": "Putin reportedly orders government to keep Russia’s electricity prices 20% lower than China’s",
+      "lead_en": "Vladimir Putin has instructed the government to ensure that electricity prices for consumers in Russia are 20 percent lower than in China when drafting the country’s long-term plan for the development of its power infrastructure, Kommersant reports.",
+      "title_raw": "Putin reportedly orders government to keep Russia’s electricity prices 20% lower than China’s",
+      "lead_raw": "Vladimir Putin has instructed the government to ensure that electricity prices for consumers in Russia are 20 percent lower than in China when drafting the country’s long-term plan for the development of its power infrastructure, Kommersant reports.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "a382796480e21f04e50a00616c068419dce1d7c8",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28305891",
+      "published_utc": "2026-11-11T08:36:57Z",
+      "title_en": "Bruegel: Россия за 10 месяцев нарастила поставки СПГ Европе до 17,43 млрд куб. м",
+      "lead_en": "",
+      "title_raw": "Bruegel: Россия за 10 месяцев нарастила поставки СПГ Европе до 17,43 млрд куб. м",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "7b45c861e4579077b09891ff00dc6f5def4abb6e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28305847",
+      "published_utc": "2026-11-11T08:35:01Z",
+      "title_en": "Фицо рассказал, как Мерц накричал на него из-за антироссийских санкций",
+      "lead_en": "Премьер Словакии ранее неоднократно высказывался в пользу отмены рестрикций на импорт газа и нефти из РФ и блокировал их",
+      "title_raw": "Фицо рассказал, как Мерц накричал на него из-за антироссийских санкций",
+      "lead_raw": "Премьер Словакии ранее неоднократно высказывался в пользу отмены рестрикций на импорт газа и нефти из РФ и блокировал их",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "c0d9bb46ab26ceb43c75c823dc74c5e1acff5d01",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2215867",
+      "published_utc": "2026-11-11T06:50:02Z",
+      "title_en": "IN BRIEF: Russian forces strike Ukrainian energy sites, ships carrying military supplies",
+      "lead_en": "In particular, over 20 explosions have been heard in Krivoy Rog overnight",
+      "title_raw": "IN BRIEF: Russian forces strike Ukrainian energy sites, ships carrying military supplies",
+      "lead_raw": "In particular, over 20 explosions have been heard in Krivoy Rog overnight",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "6a0d35956094389f1dda48f19242db13e4d6597c",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2215823",
+      "published_utc": "2026-11-11T03:43:09Z",
+      "title_en": "Hungary does not view Russian gas as cheap, looks for alternatives — premier",
+      "lead_en": "Peter Magyar added that the government is seeking to diversify sources and routes of deliveries in order to be in a position to discuss transit tariffs",
+      "title_raw": "Hungary does not view Russian gas as cheap, looks for alternatives — premier",
+      "lead_raw": "Peter Magyar added that the government is seeking to diversify sources and routes of deliveries in order to be in a position to discuss transit tariffs",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "4b5689705d031d2fe9c41dee1598d32bc9cbef84",
       "source": "TASS (RU)",
@@ -493,71 +600,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "47cdf22878b61861c3cd0663757789c3c2b84bac",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/11/09/rosneft-begins-limiting-fuel-sales-at-gas-stations-in-russia",
-      "published_utc": "2026-11-09T08:08:30Z",
-      "title_en": "Rosneft begins limiting fuel sales at gas stations in Russia",
-      "lead_en": "Rosneft has imposed fuel purchase limits at its gas stations across Russia, the Zabaykalsky Krai Economic Development Ministry said in a post on the Max messenger, adding that drivers can buy up to 30 liters (7.9 gallons) of fuel at city gas stations and up to 50 liters (13.2 gallons) on highways. The ministry did not provide further details.",
-      "title_raw": "Rosneft begins limiting fuel sales at gas stations in Russia",
-      "lead_raw": "Rosneft has imposed fuel purchase limits at its gas stations across Russia, the Zabaykalsky Krai Economic Development Ministry said in a post on the Max messenger, adding that drivers can buy up to 30 liters (7.9 gallons) of fuel at city gas stations and up to 50 liters (13.2 gallons) on highways. The ministry did not provide further details.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "bc208f9aacf9d77dca293d7b7ef6576efaaa2e0d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2214645",
-      "published_utc": "2026-11-09T07:36:04Z",
-      "title_en": "EU pursues course toward complete refusal to interact with Russia in energy sector — MFA",
-      "lead_en": "Restrictions unprecedented in scale have been imposed on the Russian energy sector, Russian Deputy Foreign Minister Alexander Pankin noted",
-      "title_raw": "EU pursues course toward complete refusal to interact with Russia in energy sector — MFA",
-      "lead_raw": "Restrictions unprecedented in scale have been imposed on the Russian energy sector, Russian Deputy Foreign Minister Alexander Pankin noted",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "8108c0187083ad057e351bb1158c40cd8f7e7887",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2214623",
-      "published_utc": "2026-11-09T07:01:19Z",
-      "title_en": "IN BRIEF: Russian strikes hit drone assembly plant, energy infrastructure",
-      "lead_en": "According to the Russian Defense Ministry, Russian forces struck two power substations in the cities of Krivoy Rog and Cherkassy",
-      "title_raw": "IN BRIEF: Russian strikes hit drone assembly plant, energy infrastructure",
-      "lead_raw": "According to the Russian Defense Ministry, Russian forces struck two power substations in the cities of Krivoy Rog and Cherkassy",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
