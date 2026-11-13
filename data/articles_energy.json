@@ -1,9 +1,285 @@
 {
-  "updated_at_utc": "2026-11-13T10:35:23Z",
+  "updated_at_utc": "2026-11-13T18:23:31Z",
   "keep_hours": 48,
   "topic": "energy",
-  "count": 25,
+  "count": 30,
   "articles": [
+    {
+      "id": "f698babbd83a397a18bc239d0abc5ccfbc3d4b08",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2217997",
+      "published_utc": "2026-11-13T17:28:58Z",
+      "title_en": "Russia says Cuba fuel blockade must be lifted immediately",
+      "lead_en": "Russian Deputy Foreign Minister Sergey Ryabkov confirmed the principled position regarding the unacceptability of exerting economic and military pressure on Cuba",
+      "title_raw": "Russia says Cuba fuel blockade must be lifted immediately",
+      "lead_raw": "Russian Deputy Foreign Minister Sergey Ryabkov confirmed the principled position regarding the unacceptability of exerting economic and military pressure on Cuba",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "2557398590359c37ebb467d05d2bfcfc69d328e7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28316659",
+      "published_utc": "2026-11-13T17:02:58Z",
+      "title_en": "Рябков подчеркнул важность прекращения топливной блокады Кубы",
+      "lead_en": "Заместитель министра иностранных дел России провел телефонный разговор с кубинским коллегой Херардо Пеньяльвером",
+      "title_raw": "Рябков подчеркнул важность прекращения топливной блокады Кубы",
+      "lead_raw": "Заместитель министра иностранных дел России провел телефонный разговор с кубинским коллегой Херардо Пеньяльвером",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "f6c5f96e0eff2231909bfe24faa8494376860671",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28316547",
+      "published_utc": "2026-11-13T16:16:47Z",
+      "title_en": "В Братиславе прогнозируют рост доли нероссийской нефти на НПЗ до 23%",
+      "lead_en": "Словакия планирует полностью провести диверсификацию источников поставок нефти к концу 2027 года, сообщала ранее министр экономики Дениса Сакова",
+      "title_raw": "В Братиславе прогнозируют рост доли нероссийской нефти на НПЗ до 23%",
+      "lead_raw": "Словакия планирует полностью провести диверсификацию источников поставок нефти к концу 2027 года, сообщала ранее министр экономики Дениса Сакова",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "108a685d46d460b6f5cf1bfe294d915add8da984",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2217961",
+      "published_utc": "2026-11-13T16:07:56Z",
+      "title_en": "Russian forces strike ship carrying military supplies, two locomotives in Odessa Region",
+      "lead_en": "The Russian army previously carried out strikes on energy sites, port facilities and rail infrastructure, along with ships involved in delivering military supplies to Ukraine",
+      "title_raw": "Russian forces strike ship carrying military supplies, two locomotives in Odessa Region",
+      "lead_raw": "The Russian army previously carried out strikes on energy sites, port facilities and rail infrastructure, along with ships involved in delivering military supplies to Ukraine",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "30a2342937738cc5c0ac6a01703662a674e4c1a1",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2217891",
+      "published_utc": "2026-11-13T13:28:19Z",
+      "title_en": "Russia has always been reliable energy supplier to Turkey — minister",
+      "lead_en": "Alparslan Bayraktar recalled that Turkey had been cooperating with Russia in that sphere for forty years",
+      "title_raw": "Russia has always been reliable energy supplier to Turkey — minister",
+      "lead_raw": "Alparslan Bayraktar recalled that Turkey had been cooperating with Russia in that sphere for forty years",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "e9ca634b82bbe8365f883227907262823fc7da07",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/11/13/russian-oil-discounts-hit-3-year-high-as-middle-east-supplies-recover-a94256",
+      "published_utc": "2026-11-13T13:04:00Z",
+      "title_en": "Russian Oil Discounts Hit 3-Year High as Middle East Supplies Recover",
+      "lead_en": "Analysts said rising supplies from Persian Gulf producers were increasing competition for Urals.",
+      "title_raw": "Russian Oil Discounts Hit 3-Year High as Middle East Supplies Recover",
+      "lead_raw": "Analysts said rising supplies from Persian Gulf producers were increasing competition for Urals.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "c6a5aa3f7db95a922d33a808f3dc3cba0a1dd6c9",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/sports/2217851",
+      "published_utc": "2026-11-13T12:46:22Z",
+      "title_en": "Estonia tells FIS it will ban Russian athletes from competing on its soil — ERR",
+      "lead_en": "Earlier, Finland decided to tighten entry rules for Russian citizens",
+      "title_raw": "Estonia tells FIS it will ban Russian athletes from competing on its soil — ERR",
+      "lead_raw": "Earlier, Finland decided to tighten entry rules for Russian citizens",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "9689f270ba65f4c1f8a6d1215f036c321e53b326",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2217835",
+      "published_utc": "2026-11-13T12:26:45Z",
+      "title_en": "Russian oil exports up to 6.82 mbd in October, revenues up to $21.15 bln",
+      "lead_en": "Revenues from exports increased by $3.61 bln month-on-month to $21.15 bln due to growth of oil prices",
+      "title_raw": "Russian oil exports up to 6.82 mbd in October, revenues up to $21.15 bln",
+      "lead_raw": "Revenues from exports increased by $3.61 bln month-on-month to $21.15 bln due to growth of oil prices",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "5b7692ed858130108b9060111b1112e22cbbc794",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2217823",
+      "published_utc": "2026-11-13T12:03:16Z",
+      "title_en": "Russia ranks second after US in terms of value of LNG supplies to EU in September",
+      "lead_en": "The European Union purchased around 498 mln euros worth of LNG from Russia",
+      "title_raw": "Russia ranks second after US in terms of value of LNG supplies to EU in September",
+      "lead_raw": "The European Union purchased around 498 mln euros worth of LNG from Russia",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "840fc942f7eecf074d672f016e45325c64a61ef4",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2217801",
+      "published_utc": "2026-11-13T11:42:05Z",
+      "title_en": "EU’s purchases of Russian pipeline gas, LNG rise 9% in nine months",
+      "lead_en": "In September, EU countries paid 498 mln euro for LNG from Russia",
+      "title_raw": "EU’s purchases of Russian pipeline gas, LNG rise 9% in nine months",
+      "lead_raw": "In September, EU countries paid 498 mln euro for LNG from Russia",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "7f3f3378a13c8c58e90ce3e12e850f1137bc1c02",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2217799",
+      "published_utc": "2026-11-13T11:34:31Z",
+      "title_en": "Russian army tests robotic systems for special missions — NBC defense troops chief",
+      "lead_en": "They include the RKhM-8, RKhM-9, and RKhM-10 NBC reconnaissance vehicles, the ARS-16 mobile refueling station, the PM RKhBZ-5 maintenance assist vehicle, heavy flamethrower systems and various aerosol countermeasures",
+      "title_raw": "Russian army tests robotic systems for special missions — NBC defense troops chief",
+      "lead_raw": "They include the RKhM-8, RKhM-9, and RKhM-10 NBC reconnaissance vehicles, the ARS-16 mobile refueling station, the PM RKhBZ-5 maintenance assist vehicle, heavy flamethrower systems and various aerosol countermeasures",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "14b3d815629629eede7610ca024ebe60470419d7",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2217789",
+      "published_utc": "2026-11-13T11:27:13Z",
+      "title_en": "EU paid highest sum for Russian pipeline gas since 2025 year start",
+      "lead_en": "The TurkStream gas pipeline remains at present the only active route of Russian pipeline gas supplies to Europe",
+      "title_raw": "EU paid highest sum for Russian pipeline gas since 2025 year start",
+      "lead_raw": "The TurkStream gas pipeline remains at present the only active route of Russian pipeline gas supplies to Europe",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "f455b801cd47a8d4687a81be444a13729996f04b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2217787",
+      "published_utc": "2026-11-13T11:25:50Z",
+      "title_en": "Russia ranks third in terms of share of total value of gas imports to EU in nine months",
+      "lead_en": "The US took first place with its LNG supplies, accounting for 30.5% and 23.3 bln euros, followed by Norway with 20.7% and 15.8 bln euros",
+      "title_raw": "Russia ranks third in terms of share of total value of gas imports to EU in nine months",
+      "lead_raw": "The US took first place with its LNG supplies, accounting for 30.5% and 23.3 bln euros, followed by Norway with 20.7% and 15.8 bln euros",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "2f004ab7b78996c30ac625112fdec8a8a11c7608",
       "source": "TASS (EN)",
@@ -352,177 +628,6 @@
       "lead_en": "Federation Council Speaker Valentina Matviyenko noted that the state-owned companies Zarubezhneft and Petrovietnam play a decisive role in cooperation within the fuel and energy sector",
       "title_raw": "Russia attaches particular importance to energy cooperation with Vietnam",
       "lead_raw": "Federation Council Speaker Valentina Matviyenko noted that the state-owned companies Zarubezhneft and Petrovietnam play a decisive role in cooperation within the fuel and energy sector",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "4c1bfe2d04f989306283405108c58f8b336fbb72",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28308471",
-      "published_utc": "2026-11-11T16:37:17Z",
-      "title_en": "Жапаров назвал число работающих в Киргизии компаний с российсим капиталом",
-      "lead_en": "По словам президента республики, их около 2 тыс., в том числе в промышленности, энергетике, сельском хозяйстве и других отраслях экономики",
-      "title_raw": "Жапаров назвал число работающих в Киргизии компаний с российсим капиталом",
-      "lead_raw": "По словам президента республики, их около 2 тыс., в том числе в промышленности, энергетике, сельском хозяйстве и других отраслях экономики",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "918ab4712dd75aa8a82b8c86157dc1bc6eb10260",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28308321",
-      "published_utc": "2026-11-11T15:58:58Z",
-      "title_en": "Россия и Сербия обсудили вопросы взаимодействия в сфере энергетики",
-      "lead_en": "Стороны подчеркнули нацеленность на выполнение имеющихся договоренностей",
-      "title_raw": "Россия и Сербия обсудили вопросы взаимодействия в сфере энергетики",
-      "lead_raw": "Стороны подчеркнули нацеленность на выполнение имеющихся договоренностей",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "e7fa6d55ca8294cd558a705b5a3fadc3dacb229a",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2216519",
-      "published_utc": "2026-11-11T15:57:02Z",
-      "title_en": "India's oil imports up to record level in September with over third supplied by Russia",
-      "lead_en": "Imports rose by 20% on average compared to August to 5.4 mln barrels per day",
-      "title_raw": "India's oil imports up to record level in September with over third supplied by Russia",
-      "lead_raw": "Imports rose by 20% on average compared to August to 5.4 mln barrels per day",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "56b6d17e2b58d3b91c734629bbc34029a0b70d3b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2216431",
-      "published_utc": "2026-11-11T14:51:57Z",
-      "title_en": "Russia’s 2026 grain harvest reaches around 140 mln tons, wheat exceeds 95 mln tons",
-      "lead_en": "The harvest of oilseeds has grown by 13% since the start of the year, reaching 34.8 million tons, with the final annual figure projected to exceed 35 million tons in net weight",
-      "title_raw": "Russia’s 2026 grain harvest reaches around 140 mln tons, wheat exceeds 95 mln tons",
-      "lead_raw": "The harvest of oilseeds has grown by 13% since the start of the year, reaching 34.8 million tons, with the final annual figure projected to exceed 35 million tons in net weight",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "9ea039067c3cae172dc97ef585b93334a42cf340",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2216417",
-      "published_utc": "2026-11-11T14:44:58Z",
-      "title_en": "Hungary faces difficulty in moving away from Russian gas due to LNG market crisis — expert",
-      "lead_en": "\"At present, not only Hungary but other EU nations as well are facing a shortage of LNG imports, as supply is severely constrained by the absence of major volumes of Qatari gas from the market,\" Alexey Belogoryev stated",
-      "title_raw": "Hungary faces difficulty in moving away from Russian gas due to LNG market crisis — expert",
-      "lead_raw": "\"At present, not only Hungary but other EU nations as well are facing a shortage of LNG imports, as supply is severely constrained by the absence of major volumes of Qatari gas from the market,\" Alexey Belogoryev stated",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "c3962735568d6b5d971fcfc8b9d063e1ca563186",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2216387",
-      "published_utc": "2026-11-11T14:28:24Z",
-      "title_en": "Bank of Russia raises dollar exchange rate to 82.66 rubles for November 12",
-      "lead_en": "The official euro exchange rate has been raised by 30.02 kopecks to 92.6968 rubles",
-      "title_raw": "Bank of Russia raises dollar exchange rate to 82.66 rubles for November 12",
-      "lead_raw": "The official euro exchange rate has been raised by 30.02 kopecks to 92.6968 rubles",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "acb0d25ed4995287882e754da2f66b0abfc55597",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2216353",
-      "published_utc": "2026-11-11T14:10:25Z",
-      "title_en": "Russia increases oil production by 41,000 bpd in October — OPEC",
-      "lead_en": "The figure increased to 8.668 million bpd",
-      "title_raw": "Russia increases oil production by 41,000 bpd in October — OPEC",
-      "lead_raw": "The figure increased to 8.668 million bpd",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "370404039c59731fa59a09e4a90f4603ff8e8028",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2216331",
-      "published_utc": "2026-11-11T13:58:03Z",
-      "title_en": "Cost of Russian gas, rising demand, situation in Europe: what we know",
-      "lead_en": "Hungary’s Prime Minister Peter Magyar said that his government does not consider Russian gas to be cheap and continues to look for alternative sources to import fuel at the most favorable prices",
-      "title_raw": "Cost of Russian gas, rising demand, situation in Europe: what we know",
-      "lead_raw": "Hungary’s Prime Minister Peter Magyar said that his government does not consider Russian gas to be cheap and continues to look for alternative sources to import fuel at the most favorable prices",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,

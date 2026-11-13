@@ -1,9 +1,28 @@
 {
-  "updated_at_utc": "2026-11-13T10:35:23Z",
+  "updated_at_utc": "2026-11-13T18:23:31Z",
   "keep_hours": 48,
   "topic": "local_events",
-  "count": 16,
+  "count": 15,
   "articles": [
+    {
+      "id": "20ea0051f5eec9eb6c755c679cc595e8b4db0759",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/11/13/four-people-killed-in-ukrainian-drone-attack-in-russia-s-samara-region-governor-says",
+      "published_utc": "2026-11-13T12:06:14Z",
+      "title_en": "Four people killed in Ukrainian drone attack in Russia’s Samara region, governor says",
+      "lead_en": "Four people were killed in a Ukrainian drone attack on an industrial facility in the Samara region on the morning of November 13, Samara Governor Vyacheslav Fedorishchev said.",
+      "title_raw": "Four people killed in Ukrainian drone attack in Russia’s Samara region, governor says",
+      "lead_raw": "Four people were killed in a Ukrainian drone attack on an industrial facility in the Samara region on the morning of November 13, Samara Governor Vyacheslav Fedorishchev said.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "88824e63d0d21ced077a04176f3e0ae0d11f76cf",
       "source": "The Moscow Times",
@@ -34,6 +53,25 @@
       "lead_en": "Sergei Zavorotny, a 72-year-old journalist, moved to Russia after the 2014 Maidan Revolution that toppled Viktor Yanukovych.",
       "title_raw": "Former Ukrainian PM’s Aide Seriously Injured in Moscow Car Blast – Reports",
       "lead_raw": "Sergei Zavorotny, a 72-year-old journalist, moved to Russia after the 2014 Maidan Revolution that toppled Viktor Yanukovych.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "a77029bd0afda5b443405751c7cd453570e22523",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/11/13/former-aide-to-pro-russian-ukrainian-pm-seriously-injured-in-moscow-car-blast-a94251",
+      "published_utc": "2026-11-13T08:54:00Z",
+      "title_en": "Former Aide to Pro-Russian Ukrainian PM Seriously Injured in Moscow Car Blast",
+      "lead_en": "Sergei Zavorotny, 72, moved to Russia after the 2014 Maidan Revolution that toppled Viktor Yanukovych.",
+      "title_raw": "Former Aide to Pro-Russian Ukrainian PM Seriously Injured in Moscow Car Blast",
+      "lead_raw": "Sergei Zavorotny, 72, moved to Russia after the 2014 Maidan Revolution that toppled Viktor Yanukovych.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
@@ -271,70 +309,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "310b96d82c9591418537ffa4c8381145d48a0aa2",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/11/11/russian-pro-war-military-bloggers-report-pilots-killed-during-ukrainian-drone-attack-on-leningrad-region",
-      "published_utc": "2026-11-11T12:45:08Z",
-      "title_en": "Z-bloggers say multiple Russian helicopters downed and pilots killed during Ukrainian drone attack on Leningrad region",
-      "lead_en": "Russian Telegram channels covering military aviation reported that pilots were killed in a Ukrainian drone attack on the Leningrad region. The claim has not been confirmed.",
-      "title_raw": "Z-bloggers say multiple Russian helicopters downed and pilots killed during Ukrainian drone attack on Leningrad region",
-      "lead_raw": "Russian Telegram channels covering military aviation reported that pilots were killed in a Ukrainian drone attack on the Leningrad region. The claim has not been confirmed.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "ba4bc8018e99fb2fab390b6eb7e13dcd751e71d4",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2216253",
-      "published_utc": "2026-11-11T12:25:49Z",
-      "title_en": "Expert names Russian air defense systems capable of shooting down Rusty Dagger missiles",
-      "lead_en": "According to retired Colonel Yury Knutov, these missiles can be countered in the same way as the Storm Shadow and SCALP missiles",
-      "title_raw": "Expert names Russian air defense systems capable of shooting down Rusty Dagger missiles",
-      "lead_raw": "According to retired Colonel Yury Knutov, these missiles can be countered in the same way as the Storm Shadow and SCALP missiles",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "be03a7a96f4ba6de4d5c48bd70030daae9ebbce5",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2216057",
-      "published_utc": "2026-11-11T10:36:15Z",
-      "title_en": "West’s rejection of OSCE commitments led to Euro-Atlantic security collapse — Russian MFA",
-      "lead_en": "According to the statement, this concept’s collapse marked the starting point for efforts to establish a Eurasian security architecture",
-      "title_raw": "West’s rejection of OSCE commitments led to Euro-Atlantic security collapse — Russian MFA",
-      "lead_raw": "According to the statement, this concept’s collapse marked the starting point for efforts to establish a Eurasian security architecture",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
