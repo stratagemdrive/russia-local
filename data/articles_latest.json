@@ -1,8 +1,944 @@
 {
-  "updated_at_utc": "2026-11-13T18:23:31Z",
+  "updated_at_utc": "2026-11-14T07:22:53Z",
   "keep_hours": 48,
-  "count": 323,
+  "count": 318,
   "articles": [
+    {
+      "id": "9f405e7fedff09dabf3ff862df2df655b2e9773c",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2218135",
+      "published_utc": "2026-11-14T07:16:14Z",
+      "title_en": "Armenian PM says plans three visits to Russia in December",
+      "lead_en": "Nikol Pashinyan hoped Yerevan can maintain a friendly atmosphere in the relations with Moscow",
+      "title_raw": "Armenian PM says plans three visits to Russia in December",
+      "lead_raw": "Nikol Pashinyan hoped Yerevan can maintain a friendly atmosphere in the relations with Moscow",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "bce6750f17ee2296d21774edcefc09285af12562",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28317549",
+      "published_utc": "2026-11-14T07:05:49Z",
+      "title_en": "Лавров регулярно встречается с делегациями крупных зарубежных компаний",
+      "lead_en": "Это необходимо для продвижения интересов России, отметил директор департамента экономического сотрудничества МИД Дмитрий Биричевский",
+      "title_raw": "Лавров регулярно встречается с делегациями крупных зарубежных компаний",
+      "lead_raw": "Это необходимо для продвижения интересов России, отметил директор департамента экономического сотрудничества МИД Дмитрий Биричевский",
+      "topic_scores": {
+        "diplomacy": 3,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "97a7412a3c9df41170a1181234f05e175cae73a7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28317473",
+      "published_utc": "2026-11-14T06:58:29Z",
+      "title_en": "В Душанбе завершается строительство центра для одаренных детей за счет РФ",
+      "lead_en": "Ведется работа над уставом организации и другими юридическими документами, сообщил статс-секретарь - заместитель министра просвещения России Андрей Корнеев",
+      "title_raw": "В Душанбе завершается строительство центра для одаренных детей за счет РФ",
+      "lead_raw": "Ведется работа над уставом организации и другими юридическими документами, сообщил статс-секретарь - заместитель министра просвещения России Андрей Корнеев",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "beac296c340c9bff18661900c8679a44803b3443",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2218129",
+      "published_utc": "2026-11-14T06:54:05Z",
+      "title_en": "Latvian Foreign Ministry drafts ban on Russian, Belarusian grain transit",
+      "lead_en": "The ministry proposes imposing the ban through national sanctions, the Delfi news website reported",
+      "title_raw": "Latvian Foreign Ministry drafts ban on Russian, Belarusian grain transit",
+      "lead_raw": "The ministry proposes imposing the ban through national sanctions, the Delfi news website reported",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "1600c6f12a3c28156d354c736b6362c6b626414b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28317477",
+      "published_utc": "2026-11-14T06:29:04Z",
+      "title_en": "Пашинян планирует совершить три визита в Россию в декабре",
+      "lead_en": "По словам премьер-министра Армении, он посетит Россию 3, 11 и 22 декабря",
+      "title_raw": "Пашинян планирует совершить три визита в Россию в декабре",
+      "lead_raw": "По словам премьер-министра Армении, он посетит Россию 3, 11 и 22 декабря",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "247ec24b111c32484578bc9eb9aad597b4df4f0c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28317471",
+      "published_utc": "2026-11-14T06:15:45Z",
+      "title_en": "МИД РФ: Европа передала Украине €8 млрд \"навара\" от российских активов",
+      "lead_en": "Директор департамента экономического сотрудничества ведомства Дмитрий Биричевский напомнил, что все контакты России с Euroclear были в одностороннем порядке прекращены по инициативе Бельгии в 2022 году",
+      "title_raw": "МИД РФ: Европа передала Украине €8 млрд \"навара\" от российских активов",
+      "lead_raw": "Директор департамента экономического сотрудничества ведомства Дмитрий Биричевский напомнил, что все контакты России с Euroclear были в одностороннем порядке прекращены по инициативе Бельгии в 2022 году",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "119928ef347e4319cc76b2076043863855c7c49f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kosmos/28317461",
+      "published_utc": "2026-11-14T06:15:17Z",
+      "title_en": "Российские астрофизики объяснили уникальную \"световую подпись\" кометы 3I/ATLAS",
+      "lead_en": "Вещество комет из других планетных систем отличается по своим свойствам, рассказали в Минобрнауки",
+      "title_raw": "Российские астрофизики объяснили уникальную \"световую подпись\" кометы 3I/ATLAS",
+      "lead_raw": "Вещество комет из других планетных систем отличается по своим свойствам, рассказали в Минобрнауки",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "2c0dcbf7b7031e21c164c8cbf9f1fed7397ec1e8",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/interviews/28315477",
+      "published_utc": "2026-11-14T06:15:00Z",
+      "title_en": "Глава департамента МИД РФ: у нас есть механизмы борьбы с воровством российских активов",
+      "lead_en": "Директор департамента экономического сотрудничества МИД РФ Дмитрий Биричевский рассказал в интервью ТАСС о механизмах, которые помогут предотвратить воровство российских активов, ответил на вопросы о приоритетах саммита в Шэньчжэне с участием президента РФ Владимира Путина, а так",
+      "title_raw": "Глава департамента МИД РФ: у нас есть механизмы борьбы с воровством российских активов",
+      "lead_raw": "Директор департамента экономического сотрудничества МИД РФ Дмитрий Биричевский рассказал в интервью ТАСС о механизмах, которые помогут предотвратить воровство российских активов, ответил на вопросы о приоритетах саммита в Шэньчжэне с участием президента РФ Владимира Путина, а так",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "536ff434a004bae7841c5137601581df0bd8fe1b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2218127",
+      "published_utc": "2026-11-14T06:11:22Z",
+      "title_en": "Europe hit by self-imposed ban on Russian gas — Russian MFA",
+      "lead_en": "Dmitry Birichevsky, director of the Russian Foreign Ministry’s Department of Economic Cooperation, noted that the EU’s initiative is in line with the politicized sanctions policy of recent years aimed at isolating Russia economically",
+      "title_raw": "Europe hit by self-imposed ban on Russian gas — Russian MFA",
+      "lead_raw": "Dmitry Birichevsky, director of the Russian Foreign Ministry’s Department of Economic Cooperation, noted that the EU’s initiative is in line with the politicized sanctions policy of recent years aimed at isolating Russia economically",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "1ec728a72780c3039bcb473fda0ff9a529b21056",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/28317443",
+      "published_utc": "2026-11-14T05:59:32Z",
+      "title_en": "Лыжница Степанова ждет, что МОК лишит скандинавские страны соревнований",
+      "lead_en": "Ранее Финляндия ввела ограничения на въезд профессиональных спортсменов из России, а Норвегия пригрозила их высылкой в случае попытки въезда в страну",
+      "title_raw": "Лыжница Степанова ждет, что МОК лишит скандинавские страны соревнований",
+      "lead_raw": "Ранее Финляндия ввела ограничения на въезд профессиональных спортсменов из России, а Норвегия пригрозила их высылкой в случае попытки въезда в страну",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "5cccab2e7e743490df493b1a886a8081447e7a94",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28317425",
+      "published_utc": "2026-11-14T05:28:40Z",
+      "title_en": "Над регионами России за ночь сбили 29 БПЛА",
+      "lead_en": "Беспилотники были самолетного типа",
+      "title_raw": "Над регионами России за ночь сбили 29 БПЛА",
+      "lead_raw": "Беспилотники были самолетного типа",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "581ca61d7eacfd6bf61d49e0e788f859b55f5b02",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/nedvizhimost/28317395",
+      "published_utc": "2026-11-14T05:14:07Z",
+      "title_en": "Россияне стали чаще интересоваться арендой домов в Белоруссии на Новый год",
+      "lead_en": "Республика вошла в топ-10 направлений по количеству бронирований в новогодние праздники, рассказали аналитики сервисов \"Суточно.ру\" и ЮMoney",
+      "title_raw": "Россияне стали чаще интересоваться арендой домов в Белоруссии на Новый год",
+      "lead_raw": "Республика вошла в топ-10 направлений по количеству бронирований в новогодние праздники, рассказали аналитики сервисов \"Суточно.ру\" и ЮMoney",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "2c08056883c55f3bf9c506b295ce037dd14f51d5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28317405",
+      "published_utc": "2026-11-14T05:07:20Z",
+      "title_en": "МИД РФ указал на проблемы ЕС из-за \"самозапрета\" на российский газ",
+      "lead_en": "Инициатива европейских стран по введению полного запрета на импорт трубопроводного газа и СПГ лежит в русле политизированной санкционной политики последних лет, направленной на экономическую изоляцию России, отметил директор департамента экономического сотрудничества Дмитрий Бири",
+      "title_raw": "МИД РФ указал на проблемы ЕС из-за \"самозапрета\" на российский газ",
+      "lead_raw": "Инициатива европейских стран по введению полного запрета на импорт трубопроводного газа и СПГ лежит в русле политизированной санкционной политики последних лет, направленной на экономическую изоляцию России, отметил директор департамента экономического сотрудничества Дмитрий Бири",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "1ddf17f7011e9db1d768c172ff1abcfdc734e18b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2218103",
+      "published_utc": "2026-11-14T05:00:53Z",
+      "title_en": "Europeans mum on Abu Dhabi talks at latest OSCE meeting — Russian mission",
+      "lead_en": "Russia’s permanent representative to the organization Dmitry Polyansky stressed that the Europeans came with old talking points",
+      "title_raw": "Europeans mum on Abu Dhabi talks at latest OSCE meeting — Russian mission",
+      "lead_raw": "Russia’s permanent representative to the organization Dmitry Polyansky stressed that the Europeans came with old talking points",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "b5eb1f35870ab30395e2562779ed24e6d06d8b31",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/28317369",
+      "published_utc": "2026-11-14T04:56:55Z",
+      "title_en": "ТАСС: в 15 регионах России с начала суток объявляли тревогу",
+      "lead_en": "В частности, угрозу БПЛА вводили в Адыгее, Астраханской, Воронежской, Тульской, Пензенской, Ростовской, Брянской областях, Краснодарском крае и в Республике Крым",
+      "title_raw": "ТАСС: в 15 регионах России с начала суток объявляли тревогу",
+      "lead_raw": "В частности, угрозу БПЛА вводили в Адыгее, Астраханской, Воронежской, Тульской, Пензенской, Ростовской, Брянской областях, Краснодарском крае и в Республике Крым",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "5950f3670dc0a4b5ac07330549cd2de3125e7a5d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28317353",
+      "published_utc": "2026-11-14T04:32:12Z",
+      "title_en": "Боец Кот рассказал об уничтожении целей \"Солнцепеком\" за минуту",
+      "lead_en": "В ходе боевой работы установка бьет по позициям противника с временной огневой позиции, сообщил российский военнослужащий",
+      "title_raw": "Боец Кот рассказал об уничтожении целей \"Солнцепеком\" за минуту",
+      "lead_raw": "В ходе боевой работы установка бьет по позициям противника с временной огневой позиции, сообщил российский военнослужащий",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "640db7254fabe7e7338634af7d937641c72db30e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28317337",
+      "published_utc": "2026-11-14T04:11:23Z",
+      "title_en": "В России продлили запрет на включение чаевых в счет без согласия гостей",
+      "lead_en": "Система добровольного поощрения официанта является более приемлемым инструментом, отметила первый заместитель председателя комитета Госдумы по экономической политике Надежда Школкина",
+      "title_raw": "В России продлили запрет на включение чаевых в счет без согласия гостей",
+      "lead_raw": "Система добровольного поощрения официанта является более приемлемым инструментом, отметила первый заместитель председателя комитета Госдумы по экономической политике Надежда Школкина",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "cb03461b1a652fe4fffe102de7a5db024a5075db",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28317321",
+      "published_utc": "2026-11-14T04:01:55Z",
+      "title_en": "Командир Ворон сообщил о поражении двух укрытий и пункта управления БПЛА ВСУ",
+      "lead_en": "Российские бойцы уничтожили цели в Сумской области",
+      "title_raw": "Командир Ворон сообщил о поражении двух укрытий и пункта управления БПЛА ВСУ",
+      "lead_raw": "Российские бойцы уничтожили цели в Сумской области",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c1285152283737affcd11799272c76b327e702e5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28317311",
+      "published_utc": "2026-11-14T04:00:38Z",
+      "title_en": "МИД РФ: Севморпуть как международный коридор пользуется спросом",
+      "lead_en": "Транспортный коридор популярен у экономик АТЭС, отметил директор департамента экономического сотрудничества российского дипведомства Дмитрий Биричевский",
+      "title_raw": "МИД РФ: Севморпуть как международный коридор пользуется спросом",
+      "lead_raw": "Транспортный коридор популярен у экономик АТЭС, отметил директор департамента экономического сотрудничества российского дипведомства Дмитрий Биричевский",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "e6d7780489d3f8cb5cbe613f0e9ef39a398f2eac",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28317303",
+      "published_utc": "2026-11-14T03:50:43Z",
+      "title_en": "Эксперт Вань: саммит КНР, РФ и США открыл бы новую главу в мировой политике",
+      "lead_en": "Это создаст условия для изучения новой парадигмы отношений между крупными державами, отметил заместитель директора Института исследований России и Евразии при Восточно-Китайском педагогическом университете",
+      "title_raw": "Эксперт Вань: саммит КНР, РФ и США открыл бы новую главу в мировой политике",
+      "lead_raw": "Это создаст условия для изучения новой парадигмы отношений между крупными державами, отметил заместитель директора Института исследований России и Евразии при Восточно-Китайском педагогическом университете",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "227f064dfd33f83d500e6f39bd078d39932b7630",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28317295",
+      "published_utc": "2026-11-14T03:32:38Z",
+      "title_en": "Командир Аладдин рассказал об отражении налета БПЛА ВСУ на \"Солнцепек\" ВС РФ",
+      "lead_en": "Российские военнослужащие сбили все дроны, летевшие на высоте 150-200 м, сообщил он",
+      "title_raw": "Командир Аладдин рассказал об отражении налета БПЛА ВСУ на \"Солнцепек\" ВС РФ",
+      "lead_raw": "Российские военнослужащие сбили все дроны, летевшие на высоте 150-200 м, сообщил он",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "05c24c5ca14157cd9f82dc824f0168ec8e7cf6b5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28317291",
+      "published_utc": "2026-11-14T03:31:17Z",
+      "title_en": "Бутягин заявил, что Киев может выдумать новые обвинения против российских ученых",
+      "lead_en": "По словам археолога, сложившаяся ситуация негативно влияет на научную деятельность многих стран",
+      "title_raw": "Бутягин заявил, что Киев может выдумать новые обвинения против российских ученых",
+      "lead_raw": "По словам археолога, сложившаяся ситуация негативно влияет на научную деятельность многих стран",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "22c74f972d9629ce41dc6b45bfa0ba9d3253c432",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28317283",
+      "published_utc": "2026-11-14T03:21:01Z",
+      "title_en": "МИД РФ заявил о подготовке декларации к саммиту АТЭС с участием Путина",
+      "lead_en": "Также ожидаются еще два документа - по вопросам взаимосвязанности и по цифровой экономике, отметил директор департамента экономического сотрудничества российского дипведомства Дмитрий Биричевский",
+      "title_raw": "МИД РФ заявил о подготовке декларации к саммиту АТЭС с участием Путина",
+      "lead_raw": "Также ожидаются еще два документа - по вопросам взаимосвязанности и по цифровой экономике, отметил директор департамента экономического сотрудничества российского дипведомства Дмитрий Биричевский",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "48a6d2afbfa923a5b3ec74b1f461c83baf72bfca",
+      "source": "RT",
+      "url": "https://rt-english.com/news/648791-russia-cultural-diversity-dance-show/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "published_utc": "2026-11-14T03:10:37Z",
+      "title_en": "Russia’s cultural diversity takes center stage in massive dance show (VIDEO)",
+      "lead_en": "The ‘Khorovod: Energy of Unity’ show brought more than 600 performers to Moscow for a celebration of folk dance Read Full Article at RT.com",
+      "title_raw": "Russia’s cultural diversity takes center stage in massive dance show (VIDEO)",
+      "lead_raw": "The ‘Khorovod: Energy of Unity’ show brought more than 600 performers to Moscow for a celebration of folk dance Read Full Article at RT.com",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "3011a785b3876ce720f9c755dd371d482e6c1952",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28317269",
+      "published_utc": "2026-11-14T03:05:25Z",
+      "title_en": "В СБ заявили о необходимости опровержения фейков для сохранения истины",
+      "lead_en": "Важно основываться на фактах, отметил заместитель секретаря Совета безопасности России Алексей Шевцов",
+      "title_raw": "В СБ заявили о необходимости опровержения фейков для сохранения истины",
+      "lead_raw": "Важно основываться на фактах, отметил заместитель секретаря Совета безопасности России Алексей Шевцов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "b2c6514f32557e96cac299e7d429486af60c8de7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28317265",
+      "published_utc": "2026-11-14T03:02:17Z",
+      "title_en": "Командир Харон рассказал об уничтожении более 30 станций Starlink ВСУ",
+      "lead_en": "Российские военнослужащие снизили возможности противника в использованию БПЛА, сообщил он",
+      "title_raw": "Командир Харон рассказал об уничтожении более 30 станций Starlink ВСУ",
+      "lead_raw": "Российские военнослужащие снизили возможности противника в использованию БПЛА, сообщил он",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "b75f9215b8a7e1bf64e002c022994ec0f17b05d1",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28317261",
+      "published_utc": "2026-11-14T03:01:50Z",
+      "title_en": "Силы ПВО \"Севера\" уничтожили 426 летевших к России дронов ВСУ",
+      "lead_en": "Российские бойцы сбили БПЛА в Харьковской и Сумской областях",
+      "title_raw": "Силы ПВО \"Севера\" уничтожили 426 летевших к России дронов ВСУ",
+      "lead_raw": "Российские бойцы сбили БПЛА в Харьковской и Сумской областях",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "3bee0fd9b36b1bd3460dd806d27c33787848c367",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28317251",
+      "published_utc": "2026-11-14T03:00:55Z",
+      "title_en": "БПЛА \"Севера\" уничтожили гаубицу и бронемашину \"Козак\" ВСУ",
+      "lead_en": "Российские военнослужащие также ликвидировали пять огневых групп противника",
+      "title_raw": "БПЛА \"Севера\" уничтожили гаубицу и бронемашину \"Козак\" ВСУ",
+      "lead_raw": "Российские военнослужащие также ликвидировали пять огневых групп противника",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "393bd45592a18bb6b2446a0079ced36fe497508c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28317243",
+      "published_utc": "2026-11-14T02:31:39Z",
+      "title_en": "Боец Фил поразил пункт временной дислокации и склад боеприпасов ВСУ",
+      "lead_en": "Российский военнослужащий уничтожил цели на сумском направлении",
+      "title_raw": "Боец Фил поразил пункт временной дислокации и склад боеприпасов ВСУ",
+      "lead_raw": "Российский военнослужащий уничтожил цели на сумском направлении",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "c900cb875267cf8bf554b603b0de84e3dc4ea7c1",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/science/2218087",
+      "published_utc": "2026-11-14T02:10:01Z",
+      "title_en": "Russia launches Soyuz-2.1b with KOEN, Kinosputnik spacecraft from Vostochny Spaceport",
+      "lead_en": "Roscosmos emphasized that the launch of a carrier rocket from the Vostochny Spaceport was the first launch of private satellites subsidized as part of the Cosmos national project",
+      "title_raw": "Russia launches Soyuz-2.1b with KOEN, Kinosputnik spacecraft from Vostochny Spaceport",
+      "lead_raw": "Roscosmos emphasized that the launch of a carrier rocket from the Vostochny Spaceport was the first launch of private satellites subsidized as part of the Cosmos national project",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "0438b44c9b0eb42fb6fabea1e25fb389faa00941",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/11/14/russia-detains-federal-youth-agency-official-and-synergy-private-university-vice-rector-over-allegedly-unusable-online-courses",
+      "published_utc": "2026-11-14T00:26:27Z",
+      "title_en": "Russia detains federal youth agency official and Synergy private university vice-rector over allegedly unusable online courses",
+      "lead_en": "Authorities searched Synergy University as part of a theft investigation and detained Vice Rector Mikhail Yerofeyev, REN TV and TASS reported.",
+      "title_raw": "Russia detains federal youth agency official and Synergy private university vice-rector over allegedly unusable online courses",
+      "lead_raw": "Authorities searched Synergy University as part of a theft investigation and detained Vice Rector Mikhail Yerofeyev, REN TV and TASS reported.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "7ecca301b831acf2ee9972e1537c335b6da2ec39",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/11/14/russian-mma-fighter-usman-nurmagomedov-gets-six-months-in-a-uae-prison-over-hotel-brawl-with-former-ufc-champion-merab-dvalishvili",
+      "published_utc": "2026-11-14T00:22:26Z",
+      "title_en": "Russian MMA fighter Usman Nurmagomedov gets six months in a UAE prison over hotel brawl with former UFC champion Merab Dvalishvili",
+      "lead_en": "Russian mixed martial arts fighter Usman Nurmagomedov has been sentenced to six months in jail in the United Arab Emirates over a fight with Georgian fighter Merab Dvalishvili, a source told TASS.",
+      "title_raw": "Russian MMA fighter Usman Nurmagomedov gets six months in a UAE prison over hotel brawl with former UFC champion Merab Dvalishvili",
+      "lead_raw": "Russian mixed martial arts fighter Usman Nurmagomedov has been sentenced to six months in jail in the United Arab Emirates over a fight with Georgian fighter Merab Dvalishvili, a source told TASS.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "595f4273bc5f470c26e6dd39f84b068f85edb990",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/11/14/russia-moves-to-monitor-peer-to-peer-bank-transfers-for-undeclared-income",
+      "published_utc": "2026-11-14T00:14:37Z",
+      "title_en": "Russia moves to monitor peer-to-peer bank transfers for undeclared income",
+      "lead_en": "Russia’s Finance Ministry has proposed requiring the Central Bank to give the Federal Tax Service information about individuals “whose account transactions show signs that they regularly receive income from other individuals.”",
+      "title_raw": "Russia moves to monitor peer-to-peer bank transfers for undeclared income",
+      "lead_raw": "Russia’s Finance Ministry has proposed requiring the Central Bank to give the Federal Tax Service information about individuals “whose account transactions show signs that they regularly receive income from other individuals.”",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "8bbfc5f681cc7fa4f585df410a3144d6c06a8aa8",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/11/14/russia-demands-finland-leave-nato-bild-reports-moscow-denies-it-and-helsinki-is-outraged",
+      "published_utc": "2026-11-14T00:11:36Z",
+      "title_en": "Russia demands Finland leave NATO, Bild reports. Moscow denies it, and Helsinki is outraged.",
+      "lead_en": "The German tabloid Bild reported on November 13 that Russia had demanded Finland’s withdrawal from NATO as part of peace talks on Ukraine. The outlet said Russian representatives put forward the demand at unspecified informal talks on ending the war.",
+      "title_raw": "Russia demands Finland leave NATO, Bild reports. Moscow denies it, and Helsinki is outraged.",
+      "lead_raw": "The German tabloid Bild reported on November 13 that Russia had demanded Finland’s withdrawal from NATO as part of peace talks on Ukraine. The outlet said Russian representatives put forward the demand at unspecified informal talks on ending the war.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "9ab5636a20a8833821059a9e052b82884e69e38c",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/11/14/russia-adopts-state-standard-for-traditional-russian-cuisine-including-little-russian-borscht-chicken-kiev-and-okroshka-made-with-kvass-not-kefir",
+      "published_utc": "2026-11-14T00:03:10Z",
+      "title_en": "Russia adopts state standard for ‘traditional Russian cuisine,’ including ‘Little Russian’ borscht, Chicken Kiev, and okroshka made with kvass, not kefir",
+      "lead_en": "Rosstandart, Russia’s federal standards agency, has approved a state standard (GOST) titled “Traditional Russian cuisine: Recommendations for preparing dishes” (registered users can view it here). The document includes recipes, preparation methods, and serving suggestions for 132 dishes.",
+      "title_raw": "Russia adopts state standard for ‘traditional Russian cuisine,’ including ‘Little Russian’ borscht, Chicken Kiev, and okroshka made with kvass, not kefir",
+      "lead_raw": "Rosstandart, Russia’s federal standards agency, has approved a state standard (GOST) titled “Traditional Russian cuisine: Recommendations for preparing dishes” (registered users can view it here). The document includes recipes, preparation methods, and serving suggestions for 132 dishes.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "fb701cfb1e1891742ccd84bb63390f7cc2d5963e",
+      "source": "RT",
+      "url": "https://rt-english.com/news/648828-trump-putin-xi-meeting-/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "published_utc": "2026-11-13T23:58:48Z",
+      "title_en": "Putin, Trump, and Xi to hold rare three-way meeting in China – AP",
+      "lead_en": "The leaders of Russia, China, and the US plan to meet in Shenzhen next week, with nuclear arms control and global conflicts on the agenda Read Full Article at RT.com",
+      "title_raw": "Putin, Trump, and Xi to hold rare three-way meeting in China – AP",
+      "lead_raw": "The leaders of Russia, China, and the US plan to meet in Shenzhen next week, with nuclear arms control and global conflicts on the agenda Read Full Article at RT.com",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "0ed6744ec07c533fc48895af22a75d6250807d12",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/11/14/after-detaining-polish-spies-in-kaliningrad-the-fsb-released-their-alleged-messages-in-polish-native-speakers-say-they-contain-errors-and-unnatural-phrasing",
+      "published_utc": "2026-11-13T23:48:53Z",
+      "title_en": "After detaining ‘Polish spies’ in Kaliningrad, the FSB released their alleged messages in Polish. Native speakers say they contain errors and unnatural phrasing.",
+      "lead_en": "Polish-language messages released by Russia’s Federal Security Service (FSB) alongside its announcement that Polish citizens had been detained in the Kaliningrad region have raised doubts among native speakers, the news outlet Agentstvo reported.",
+      "title_raw": "After detaining ‘Polish spies’ in Kaliningrad, the FSB released their alleged messages in Polish. Native speakers say they contain errors and unnatural phrasing.",
+      "lead_raw": "Polish-language messages released by Russia’s Federal Security Service (FSB) alongside its announcement that Polish citizens had been detained in the Kaliningrad region have raised doubts among native speakers, the news outlet Agentstvo reported.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "d8c7581d42ad4b83c4ab6738ca13f6795c564ba1",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/11/14/german-counterintelligence-confirms-it-is-questioning-russians-at-berlin-airport-citing-a-high-threat-level",
+      "published_utc": "2026-11-13T23:39:01Z",
+      "title_en": "German counterintelligence confirms it is questioning Russians at Berlin airport, citing a ‘high threat level’",
+      "lead_en": "Germany’s Federal Office for the Protection of the Constitution, the country’s domestic intelligence agency, confirmed to iStories and Deutsche Welle that it is questioning Russians at Berlin’s airport.",
+      "title_raw": "German counterintelligence confirms it is questioning Russians at Berlin airport, citing a ‘high threat level’",
+      "lead_raw": "Germany’s Federal Office for the Protection of the Constitution, the country’s domestic intelligence agency, confirmed to iStories and Deutsche Welle that it is questioning Russians at Berlin’s airport.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "823b0d942a73e7bc586c58401ebe087b7ec9a38e",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/11/14/godson-of-russian-upper-house-speaker-valentina-matviyenko-jailed-for-seven-days-over-instagram-link",
+      "published_utc": "2026-11-13T23:31:00Z",
+      "title_en": "Godson of Russian upper house speaker Valentina Matviyenko jailed for seven days over Instagram link",
+      "lead_en": "St. Petersburg’s Smolninsky District Court sentenced Vladislav Tyulpanov, the son of Senator Vadim Tyulpanov, who died in 2017, to seven days in jail for displaying banned symbols, the city courts’ press service said.",
+      "title_raw": "Godson of Russian upper house speaker Valentina Matviyenko jailed for seven days over Instagram link",
+      "lead_raw": "St. Petersburg’s Smolninsky District Court sentenced Vladislav Tyulpanov, the son of Senator Vadim Tyulpanov, who died in 2017, to seven days in jail for displaying banned symbols, the city courts’ press service said.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "78761903a808d19681eb4cbfc390812c6f70ace7",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/11/14/europe-taps-national-security-advisers-to-represent-the-continent-in-russia-ukraine-peace-talks",
+      "published_utc": "2026-11-13T23:23:38Z",
+      "title_en": "Europe taps national security advisers to represent the continent in Russia-Ukraine peace talks",
+      "lead_en": "National security advisers from the European Union, Germany, France, the United Kingdom, Italy, and Poland will represent Europe in upcoming talks on ending the Russia-Ukraine war, Bloomberg reported.",
+      "title_raw": "Europe taps national security advisers to represent the continent in Russia-Ukraine peace talks",
+      "lead_raw": "National security advisers from the European Union, Germany, France, the United Kingdom, Italy, and Poland will represent Europe in upcoming talks on ending the Russia-Ukraine war, Bloomberg reported.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "f0143c86450b2779515593027b42e962a5f71d8c",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2218045",
+      "published_utc": "2026-11-13T20:47:00Z",
+      "title_en": "Ceasefire to be EU’s priority at Ukraine talks — von der Leyen",
+      "lead_en": "European Commission President also pledged to present a 22nd package of sanctions on Russia as soon as possible and put forward proposals toward military funding for Ukraine before the end of the year",
+      "title_raw": "Ceasefire to be EU’s priority at Ukraine talks — von der Leyen",
+      "lead_raw": "European Commission President also pledged to present a 22nd package of sanctions on Russia as soon as possible and put forward proposals toward military funding for Ukraine before the end of the year",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "659ef6807480efe9f7edd55f77b9d97bab116ec2",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2218033",
+      "published_utc": "2026-11-13T19:14:58Z",
+      "title_en": "EU not even invited to Ukraine talks yet — Russian security official",
+      "lead_en": "The bloc’s foreign policy chief Kaja Kallas is not welcome at the negotiating table because she is \"stupid,\" Russian Security Council Deputy Chairman Dmitry Medvedev argued",
+      "title_raw": "EU not even invited to Ukraine talks yet — Russian security official",
+      "lead_raw": "The bloc’s foreign policy chief Kaja Kallas is not welcome at the negotiating table because she is \"stupid,\" Russian Security Council Deputy Chairman Dmitry Medvedev argued",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "f789b5b7f435e4bac14535c61ba75fc289d2c171",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2218025",
+      "published_utc": "2026-11-13T18:50:55Z",
+      "title_en": "Long-range arms supplies to Kiev change nature of relations with Russia — envoy to Germany",
+      "lead_en": "According to Sergey Nechayev, such actions go beyond a simple violation of the established restrictions",
+      "title_raw": "Long-range arms supplies to Kiev change nature of relations with Russia — envoy to Germany",
+      "lead_raw": "According to Sergey Nechayev, such actions go beyond a simple violation of the established restrictions",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "b429259378cb22de1945eb6839bb5119a1135851",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2218023",
+      "published_utc": "2026-11-13T18:49:45Z",
+      "title_en": "Russian GDP growth rate may be above forecast by year-end — ministry",
+      "lead_en": "The Russian gross domestic product increased by 1% year on year in the third quarter of 2026 under the preliminary estimate",
+      "title_raw": "Russian GDP growth rate may be above forecast by year-end — ministry",
+      "lead_raw": "The Russian gross domestic product increased by 1% year on year in the third quarter of 2026 under the preliminary estimate",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "e98babe2a6d1ca2857709d66c027a0b0c851642b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2218019",
+      "published_utc": "2026-11-13T18:39:40Z",
+      "title_en": "EU okays consultant team for expert-level talks with Russia — AFP",
+      "lead_en": "The delegation will include representatives of the European Commission, the EU Council, Germany, France, Italy, and Poland, as well as the UK",
+      "title_raw": "EU okays consultant team for expert-level talks with Russia — AFP",
+      "lead_raw": "The delegation will include representatives of the European Commission, the EU Council, Germany, France, Italy, and Poland, as well as the UK",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "5afd0d024978bbac010d43b04f613601c3841e67",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2218017",
+      "published_utc": "2026-11-13T18:35:54Z",
+      "title_en": "Russia urges North Stream blasts contractors be identified — ambassador",
+      "lead_en": "Sergey Nechayev dismissed as ungrounded the theory widely circulating in the Western media that the act of sabotage could have been committed by amateurs",
+      "title_raw": "Russia urges North Stream blasts contractors be identified — ambassador",
+      "lead_raw": "Sergey Nechayev dismissed as ungrounded the theory widely circulating in the Western media that the act of sabotage could have been committed by amateurs",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "1f67a0618083bffcece66cad2efe308c91484e1b",
       "source": "TASS (RU)",
@@ -5472,1022 +6408,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "e268477f9018a31bb35d92675ad4547d3f6171a4",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2216717",
-      "published_utc": "2026-11-12T07:19:10Z",
-      "title_en": "Witkoff hopes peace has moved closer following talks in Abu Dhabi",
-      "lead_en": "Earlier today, US envoys Steve Witkoff and Jared Kushner arrived in Moscow for a meeting with Russian President Vladimir Putin",
-      "title_raw": "Witkoff hopes peace has moved closer following talks in Abu Dhabi",
-      "lead_raw": "Earlier today, US envoys Steve Witkoff and Jared Kushner arrived in Moscow for a meeting with Russian President Vladimir Putin",
-      "topic_scores": {
-        "diplomacy": 3,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "3b5d18dabf14fd8004c82e154c9b4958da94d717",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2216701",
-      "published_utc": "2026-11-12T06:54:06Z",
-      "title_en": "Russia’s missile regiment undergoing re-equipment with state-of-the-art system — commander",
-      "lead_en": "The regiment’s personnel have successfully passed the certification tests required for combat duty and the operation of new types of weapons",
-      "title_raw": "Russia’s missile regiment undergoing re-equipment with state-of-the-art system — commander",
-      "lead_raw": "The regiment’s personnel have successfully passed the certification tests required for combat duty and the operation of new types of weapons",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "1e9caf6f7841e49e1bae175877975310c4ee7977",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2216691",
-      "published_utc": "2026-11-12T06:41:31Z",
-      "title_en": "Russian stocks up as main trading session opens",
-      "lead_en": "As of 10:00 a.m. Moscow time, the indices were up by 0.12% at 2,493.11 and 950.12 points, respectively",
-      "title_raw": "Russian stocks up as main trading session opens",
-      "lead_raw": "As of 10:00 a.m. Moscow time, the indices were up by 0.12% at 2,493.11 and 950.12 points, respectively",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "8d686869d95e9fff807989ebd7af094980a27855",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/28309703",
-      "published_utc": "2026-11-12T05:53:36Z",
-      "title_en": "Над Брянской областью уничтожили 47 БПЛА за сутки",
-      "lead_en": "В ликвидации участвовали мобильно-огневые группы бригады \"БАРС-Брянск\", МОГ Брянского ЛО МВД России на транспорте, спецподразделения Росгвардии",
-      "title_raw": "Над Брянской областью уничтожили 47 БПЛА за сутки",
-      "lead_raw": "В ликвидации участвовали мобильно-огневые группы бригады \"БАРС-Брянск\", МОГ Брянского ЛО МВД России на транспорте, спецподразделения Росгвардии",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "7c4a25f063b95fcfa08ec06e8259c7d26aec2a2c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28309695",
-      "published_utc": "2026-11-12T05:51:51Z",
-      "title_en": "Дмитриев опубликовал кадры встречи Уиткоффа и Кушнера",
-      "lead_en": "На видео спецпредставителя президента России видно, как он и спецпосланник президента США Стив Уиткофф жмут друг другу руки",
-      "title_raw": "Дмитриев опубликовал кадры встречи Уиткоффа и Кушнера",
-      "lead_raw": "На видео спецпредставителя президента России видно, как он и спецпосланник президента США Стив Уиткофф жмут друг другу руки",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "b67f2c5687e46b2f738c9015bbcaaf9202ec5091",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28309689",
-      "published_utc": "2026-11-12T05:39:21Z",
-      "title_en": "\"Автостат\" сообщил о росте продаж автомобилей Zeekr в России",
-      "lead_en": "В октябре показатель вырос в три раза по сравнению с аналогичным периодом 2025 года, рассказал глава агентства Сергей Целиков",
-      "title_raw": "\"Автостат\" сообщил о росте продаж автомобилей Zeekr в России",
-      "lead_raw": "В октябре показатель вырос в три раза по сравнению с аналогичным периодом 2025 года, рассказал глава агентства Сергей Целиков",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "e9eb06fc871d70891d9c41ec32cf35faa2958a76",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/28309685",
-      "published_utc": "2026-11-12T05:34:55Z",
-      "title_en": "Рябыкин считает, что иностранные хоккеисты не против сыграть с россиянами на ЧМ",
-      "lead_en": "Ранее сообщалось, что правительство Канады не выдаст россиянам визы для участия в молодежном чемпионате мира",
-      "title_raw": "Рябыкин считает, что иностранные хоккеисты не против сыграть с россиянами на ЧМ",
-      "lead_raw": "Ранее сообщалось, что правительство Канады не выдаст россиянам визы для участия в молодежном чемпионате мира",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "9bd8809739bf60d6a668b3af57e4ff48d69429b7",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/28309675",
-      "published_utc": "2026-11-12T05:32:58Z",
-      "title_en": "Майгуров: у Союза биатлонистов России остались друзья в Европе",
-      "lead_en": "СБР продолжает контактировать с европейскими коллегами",
-      "title_raw": "Майгуров: у Союза биатлонистов России остались друзья в Европе",
-      "lead_raw": "СБР продолжает контактировать с европейскими коллегами",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "753bbe758837ace70f8f7912bb56ac4827e61a3a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/28309665",
-      "published_utc": "2026-11-12T05:28:43Z",
-      "title_en": "Форвард ЦСКА Привалов не обращает внимания на негатив вокруг молодежного ЧМ",
-      "lead_en": "Правительство Канады не будет выдавать визы россиянам для участия в молодежном чемпионате мира по хоккею",
-      "title_raw": "Форвард ЦСКА Привалов не обращает внимания на негатив вокруг молодежного ЧМ",
-      "lead_raw": "Правительство Канады не будет выдавать визы россиянам для участия в молодежном чемпионате мира по хоккею",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "455894b69c236dd8ea13d008ef79acd7c15f44ff",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/28309621",
-      "published_utc": "2026-11-12T05:12:25Z",
-      "title_en": "ТАСС: в 19 регионах России с начала суток объявляли тревогу",
-      "lead_en": "Сообщения об опасностях коснулись трех федеральных округов страны",
-      "title_raw": "ТАСС: в 19 регионах России с начала суток объявляли тревогу",
-      "lead_raw": "Сообщения об опасностях коснулись трех федеральных округов страны",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "2445eb0b8f2ae31b3466233bbcd958b57a87226d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/nauka/28309575",
-      "published_utc": "2026-11-12T05:05:35Z",
-      "title_en": "Разработана российская технология получения мембран из тефлона для хирургии",
-      "lead_en": "Они могут стать более простой и экономичной альтернативой импортным аналогам, сообщили в Минобрнауки",
-      "title_raw": "Разработана российская технология получения мембран из тефлона для хирургии",
-      "lead_raw": "Они могут стать более простой и экономичной альтернативой импортным аналогам, сообщили в Минобрнауки",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "61951621228ca89c36ffa815943c78de8a88863d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28309559",
-      "published_utc": "2026-11-12T04:56:32Z",
-      "title_en": "ВС РФ поразили сухогруз на переходе морем в порты Одесской области",
-      "lead_en": "Российские силы нанесли по нему удар в ходе ночной атаки",
-      "title_raw": "ВС РФ поразили сухогруз на переходе морем в порты Одесской области",
-      "lead_raw": "Российские силы нанесли по нему удар в ходе ночной атаки",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "dd6f6a64501192311dd54b126c8cded36f6f8ce9",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28309549",
-      "published_utc": "2026-11-12T04:54:35Z",
-      "title_en": "Лидер Вьетнама отметил доверительные отношения его страны с Россией",
-      "lead_en": "То Лам дал высокую оценку отношениям традиционной дружбы между Ханоем и Москвой",
-      "title_raw": "Лидер Вьетнама отметил доверительные отношения его страны с Россией",
-      "lead_raw": "То Лам дал высокую оценку отношениям традиционной дружбы между Ханоем и Москвой",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "7db66dfc6779fd7bc3d8da19b0d7f6aa7d6862df",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28309527",
-      "published_utc": "2026-11-12T04:46:05Z",
-      "title_en": "В Алма-Ате открылся российско-казахстанский Саммит талантов",
-      "lead_en": "В проектной программе саммита примут участие 217 школьников из Казахстана и 20 из России",
-      "title_raw": "В Алма-Ате открылся российско-казахстанский Саммит талантов",
-      "lead_raw": "В проектной программе саммита примут участие 217 школьников из Казахстана и 20 из России",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "2d8c1558c443050505a8a7585f573cfe6d802eea",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28309507",
-      "published_utc": "2026-11-12T04:32:19Z",
-      "title_en": "Бойцы \"Днепра\" отбили атаку ВСУ на сотрудников МЧС на трассе \"Новороссия\"",
-      "lead_en": "Военнослужащий с позывным Джамал добавил, что от атаки противника пострадал бензовоз",
-      "title_raw": "Бойцы \"Днепра\" отбили атаку ВСУ на сотрудников МЧС на трассе \"Новороссия\"",
-      "lead_raw": "Военнослужащий с позывным Джамал добавил, что от атаки противника пострадал бензовоз",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "c9f451d29e4c2074d0f64cf512043d8b20eb2b83",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28309493",
-      "published_utc": "2026-11-12T04:29:54Z",
-      "title_en": "Посол РФ Евсиков призвал сократить дисбаланс в торговле Монголии с ЕАЭС",
-      "lead_en": "Он составляет $16 млн импорта против $2,6 млн экспорта, отметил глава российской дипмиссии в стране",
-      "title_raw": "Посол РФ Евсиков призвал сократить дисбаланс в торговле Монголии с ЕАЭС",
-      "lead_raw": "Он составляет $16 млн импорта против $2,6 млн экспорта, отметил глава российской дипмиссии в стране",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "3ce9a2be550d818a439e30094f38ee10507fb966",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28309457",
-      "published_utc": "2026-11-12T04:16:56Z",
-      "title_en": "ЦРПТ назвал долю отечественного моторного масла на российском рынке",
-      "lead_en": "По информации Центра развития перспективных технологий, она составляет от 66% до 70%",
-      "title_raw": "ЦРПТ назвал долю отечественного моторного масла на российском рынке",
-      "lead_raw": "По информации Центра развития перспективных технологий, она составляет от 66% до 70%",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "0665d49c59d06d1d951ae575cdf172f99701d5fa",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28309473",
-      "published_utc": "2026-11-12T04:14:46Z",
-      "title_en": "Матвиенко передала президенту Вьетнама привет от Путина",
-      "lead_en": "Председатель Совета Федерации уточнила, что президент России тепло отзывается о прошедшей 9 сентября встрече с То Ламом",
-      "title_raw": "Матвиенко передала президенту Вьетнама привет от Путина",
-      "lead_raw": "Председатель Совета Федерации уточнила, что президент России тепло отзывается о прошедшей 9 сентября встрече с То Ламом",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "98eec84d9fd423e68ce2083fe100c36e76e21f88",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/28309477",
-      "published_utc": "2026-11-12T04:14:06Z",
-      "title_en": "Россиянка впервые за 10 лет вышла из группы Итогового турнира WTA",
-      "lead_en": "Ранее в полуфинал выходили семь россиянок",
-      "title_raw": "Россиянка впервые за 10 лет вышла из группы Итогового турнира WTA",
-      "lead_raw": "Ранее в полуфинал выходили семь россиянок",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "3ead0c5a43d3f03f63cdc5431c2829d2089fcd85",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/nauka/28309465",
-      "published_utc": "2026-11-12T04:13:55Z",
-      "title_en": "В России создали новый рентгеновский детектор с возможностью видеть химсостав",
-      "lead_en": "Разработка даст стране собственную компонентную базу для рентгеновских систем, отметили в Томском госуниверситете",
-      "title_raw": "В России создали новый рентгеновский детектор с возможностью видеть химсостав",
-      "lead_raw": "Разработка даст стране собственную компонентную базу для рентгеновских систем, отметили в Томском госуниверситете",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "4ae6b7ffcf9549254e0bd53c1f925c887221257b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/28309459",
-      "published_utc": "2026-11-12T04:05:55Z",
-      "title_en": "\"Бруклин\" победил \"Нью-Орлеан\". Демин набрал 22 очка в первой игре после травмы",
-      "lead_en": "Россиянин набрал больше всех очков в составе \"Бруклина\"",
-      "title_raw": "\"Бруклин\" победил \"Нью-Орлеан\". Демин набрал 22 очка в первой игре после травмы",
-      "lead_raw": "Россиянин набрал больше всех очков в составе \"Бруклина\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "6896a459efdc06c6d3bd2935ba7854761d77c5ef",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28309455",
-      "published_utc": "2026-11-12T04:03:10Z",
-      "title_en": "ТАСС: Нацгвардия Украины продает боеприпасы криминальным структурам",
-      "lead_en": "На продажу идут в том числе минометные снаряды, сообщили в российских силовых структурах",
-      "title_raw": "ТАСС: Нацгвардия Украины продает боеприпасы криминальным структурам",
-      "lead_raw": "На продажу идут в том числе минометные снаряды, сообщили в российских силовых структурах",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "ebe775214bf69f5aaadfc503b929bac4a787644c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28309449",
-      "published_utc": "2026-11-12T04:01:32Z",
-      "title_en": "Комроты Пестрый: ВС РФ поразили более 10 долговременных позиций ВСУ у Харькова",
-      "lead_en": "Российские бойцы применили реактивные пехотные огнеметы \"Шмель-М\", сообщил военнослужащий",
-      "title_raw": "Комроты Пестрый: ВС РФ поразили более 10 долговременных позиций ВСУ у Харькова",
-      "lead_raw": "Российские бойцы применили реактивные пехотные огнеметы \"Шмель-М\", сообщил военнослужащий",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "14822c572a4c0c52eba882363de2045730302868",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/nauka/28309387",
-      "published_utc": "2026-11-12T03:46:47Z",
-      "title_en": "В Коми впервые изучат святоотеческие тексты в традиции старообрядцев",
-      "lead_en": "Проект получил поддержку Российского научного фонда",
-      "title_raw": "В Коми впервые изучат святоотеческие тексты в традиции старообрядцев",
-      "lead_raw": "Проект получил поддержку Российского научного фонда",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "58b588a60de87f55080336ddbfedbd368df3857c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/28309411",
-      "published_utc": "2026-11-12T03:44:31Z",
-      "title_en": "Андреева обыграла Соболенко и пробилась в плей-офф Итогового турнира WTA",
-      "lead_en": "Соперница россиянки по полуфиналу определится позднее",
-      "title_raw": "Андреева обыграла Соболенко и пробилась в плей-офф Итогового турнира WTA",
-      "lead_raw": "Соперница россиянки по полуфиналу определится позднее",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "9baec0fbc870611061ec9af0a310e9560182fef4",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2216637",
-      "published_utc": "2026-11-12T01:17:00Z",
-      "title_en": "European countries neither listen to nor hear Russia on Ukraine — Foreign Ministry",
-      "lead_en": "According to Department Director Kirill Logvinov, Western countries often conduct discussions in a \"megaphone\" manner rather than engage in quiet, results-oriented diplomacy",
-      "title_raw": "European countries neither listen to nor hear Russia on Ukraine — Foreign Ministry",
-      "lead_raw": "According to Department Director Kirill Logvinov, Western countries often conduct discussions in a \"megaphone\" manner rather than engage in quiet, results-oriented diplomacy",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "1286ee5e22b9f1aeca76b7d2d46fd7c803375948",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2216635",
-      "published_utc": "2026-11-12T00:43:09Z",
-      "title_en": "US, China stress importance of potential trilateral talks with Russia",
-      "lead_en": "US Secretary of State Marco Rubio and Chinese Foreign Minister Wang Yi stated that the leader-level conversations must address peace and denuclearization",
-      "title_raw": "US, China stress importance of potential trilateral talks with Russia",
-      "lead_raw": "US Secretary of State Marco Rubio and Chinese Foreign Minister Wang Yi stated that the leader-level conversations must address peace and denuclearization",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "178f6f4bbf1b88d814ab53edf61c448c63814422",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/11/12/russian-media-outlets-are-reporting-a-new-claude-ai-ban-the-rule-has-actually-been-in-place-since-last-year",
-      "published_utc": "2026-11-12T00:06:52Z",
-      "title_en": "Russian media outlets are reporting a ‘new’ Claude AI ban. The rule has actually been in place since last year.",
-      "lead_en": "On November 11, Telegram channels and media outlets began widely circulating reports (1, 2, 3) that Anthropic would cut off access to its Claude chatbot for employees of Russian companies starting November 12, even if they work in other countries.",
-      "title_raw": "Russian media outlets are reporting a ‘new’ Claude AI ban. The rule has actually been in place since last year.",
-      "lead_raw": "On November 11, Telegram channels and media outlets began widely circulating reports (1, 2, 3) that Anthropic would cut off access to its Claude chatbot for employees of Russian companies starting November 12, even if they work in other countries.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "24224c531ca5e4a7446892694ceb6ffddf8711d8",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2216631",
-      "published_utc": "2026-11-11T23:46:42Z",
-      "title_en": "UN secretary-general must be elected by year-end — Russian Foreign Ministry",
-      "lead_en": "Department Director Kirill Logvinov said that the options under consideration include extending the current secretary-general's term temporarily or appointing one of his deputies as acting secretary-general",
-      "title_raw": "UN secretary-general must be elected by year-end — Russian Foreign Ministry",
-      "lead_raw": "Department Director Kirill Logvinov said that the options under consideration include extending the current secretary-general's term temporarily or appointing one of his deputies as acting secretary-general",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "db073ace5dc2eb74e6802d7a19a3ad8ae4d4eed1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28309041",
-      "published_utc": "2026-11-11T23:02:29Z",
-      "title_en": "Марочко заявил о подготовке ВС РФ к наступлению за пределами ДНР",
-      "lead_en": "Российские военные готовят плацдарм для продвижения у Красноармейска, сообщил военный эксперт",
-      "title_raw": "Марочко заявил о подготовке ВС РФ к наступлению за пределами ДНР",
-      "lead_raw": "Российские военные готовят плацдарм для продвижения у Красноармейска, сообщил военный эксперт",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "4b8d0d3e2395e7040b2b07cae9c529c58a97bcc2",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28309013",
-      "published_utc": "2026-11-11T22:34:18Z",
-      "title_en": "Онищенко перечислил наиболее влияющие на здоровье россиян болезни",
-      "lead_en": "Заместитель президента Российской академии образования отметил, что к ним относятся сердечно-сосудистые заболевания, рак и диабет",
-      "title_raw": "Онищенко перечислил наиболее влияющие на здоровье россиян болезни",
-      "lead_raw": "Заместитель президента Российской академии образования отметил, что к ним относятся сердечно-сосудистые заболевания, рак и диабет",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "b8ccc05ad965f3d66e972169c5f41f3ea98122b6",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28309009",
-      "published_utc": "2026-11-11T22:32:25Z",
-      "title_en": "Anthropic ограничила некоторым странам доступ к своим сервисам",
-      "lead_en": "ИИ-компания запретила пользоваться своей продукцией физическим и юридическим лицам в России и Китае",
-      "title_raw": "Anthropic ограничила некоторым странам доступ к своим сервисам",
-      "lead_raw": "ИИ-компания запретила пользоваться своей продукцией физическим и юридическим лицам в России и Китае",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "d1d36c54890e97269ec6db0d6fc34f3d79f46073",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2216625",
-      "published_utc": "2026-11-11T21:56:06Z",
-      "title_en": "Putin to chair Council on Sports meeting today",
-      "lead_en": "Last week, the Russian president revised its regulations and established special commissions",
-      "title_raw": "Putin to chair Council on Sports meeting today",
-      "lead_raw": "Last week, the Russian president revised its regulations and established special commissions",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "3113edf387038000a3889dcb25376623f95574d5",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2216623",
-      "published_utc": "2026-11-11T21:45:26Z",
-      "title_en": "Putin to meet with US envoys Witkoff, Kushner today",
-      "lead_en": "Kremlin Spokesman Dmitry Peskov said that the Russian president is expected to meet with the US envoys in the first half of the day",
-      "title_raw": "Putin to meet with US envoys Witkoff, Kushner today",
-      "lead_raw": "Kremlin Spokesman Dmitry Peskov said that the Russian president is expected to meet with the US envoys in the first half of the day",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "01e231ac667b71327f0c7a75ebe4483ea7dee655",
-      "source": "RT",
-      "url": "https://rt-english.com/news/648721-abu-dhabi-talks-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "published_utc": "2026-11-11T21:10:18Z",
-      "title_en": "Abu Dhabi talks conclude: How Russian experts assess the outcome",
-      "lead_en": "Russian political and military commentators assess the two-day negotiations between Moscow, Kiev, and Washington in Abu Dhabi Read Full Article at RT.com",
-      "title_raw": "Abu Dhabi talks conclude: How Russian experts assess the outcome",
-      "lead_raw": "Russian political and military commentators assess the two-day negotiations between Moscow, Kiev, and Washington in Abu Dhabi Read Full Article at RT.com",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "3320381a661d39ec491adecbe8669a30a4fb8751",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/28308945",
-      "published_utc": "2026-11-11T21:06:37Z",
-      "title_en": "Российские футболисты начинают сбор гостевым матчем с командой Узбекистана",
-      "lead_en": "Встреча пройдет в Ташкенте и начнется в 18:00 мск",
-      "title_raw": "Российские футболисты начинают сбор гостевым матчем с командой Узбекистана",
-      "lead_raw": "Встреча пройдет в Ташкенте и начнется в 18:00 мск",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "1ee0348e213c89439fe6e1b07102105723f51f16",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28308921",
-      "published_utc": "2026-11-11T21:04:19Z",
-      "title_en": "Госдума рассмотрит Основные направления единой ДКП до 2029 года",
-      "lead_en": "С докладом выступят глава Банка России Эльвира Набиуллина и председатели трех комитетов ГД",
-      "title_raw": "Госдума рассмотрит Основные направления единой ДКП до 2029 года",
-      "lead_raw": "С докладом выступят глава Банка России Эльвира Набиуллина и председатели трех комитетов ГД",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "866448893815e28e38d3f92207f745a7bb5af20c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28308917",
-      "published_utc": "2026-11-11T21:01:28Z",
-      "title_en": "Путин встретится с Уиткоффом и Кушнером",
-      "lead_en": "Пресс-секретарь президента России Дмитрий Песков сообщил, что переговоры могут пройти в первой половине дня",
-      "title_raw": "Путин встретится с Уиткоффом и Кушнером",
-      "lead_raw": "Пресс-секретарь президента России Дмитрий Песков сообщил, что переговоры могут пройти в первой половине дня",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "c5f33b5073dfbf2f7569b57922940a194931b1f0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28308919",
-      "published_utc": "2026-11-11T21:00:48Z",
-      "title_en": "Путин проведет Совет по спорту",
-      "lead_en": "На прошлой неделе президент России скорректировал положение о нем и учредил специальные комиссии",
-      "title_raw": "Путин проведет Совет по спорту",
-      "lead_raw": "На прошлой неделе президент России скорректировал положение о нем и учредил специальные комиссии",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "59e9dafa7509819bc05df9218d91c51d168890f4",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2216613",
-      "published_utc": "2026-11-11T20:52:31Z",
-      "title_en": "European sanctions office, EU mistakes, visa rules in Moldova: Russian MFA briefing",
-      "lead_en": "Spokeswoman Maria Zakharova said that the OSCE is becoming complicit in the Kiev regime’s information campaign to conceal the true nature and scale of crimes against individuals, including by remaining silent about the existence of a network of torture prisons",
-      "title_raw": "European sanctions office, EU mistakes, visa rules in Moldova: Russian MFA briefing",
-      "lead_raw": "Spokeswoman Maria Zakharova said that the OSCE is becoming complicit in the Kiev regime’s information campaign to conceal the true nature and scale of crimes against individuals, including by remaining silent about the existence of a network of torture prisons",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "900ebbe95f5ccc482255733ff005a4c050e45d57",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/28308891",
-      "published_utc": "2026-11-11T20:33:06Z",
-      "title_en": "Семь федераций не одобрили расписание МЧМ по хоккею с участием россиян",
-      "lead_en": "Турнир пройдет в Канаде в конце декабря - начале января",
-      "title_raw": "Семь федераций не одобрили расписание МЧМ по хоккею с участием россиян",
-      "lead_raw": "Турнир пройдет в Канаде в конце декабря - начале января",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "1a9c3f2eccd6ac46f1f25de14c5b6e1b92cb31c3",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/28308885",
-      "published_utc": "2026-11-11T20:28:52Z",
-      "title_en": "Хоккеист \"Торпедо\" Федоров надеется, что все же сыграет на молодежном чемпионате мира",
-      "lead_en": "Ранее телеканал TSN сообщил, что правительство Канады заявило ассоциации хоккея страны и Международной федерации хоккея о том, что не будет выдавать визы россиянам для участия в турнире",
-      "title_raw": "Хоккеист \"Торпедо\" Федоров надеется, что все же сыграет на молодежном чемпионате мира",
-      "lead_raw": "Ранее телеканал TSN сообщил, что правительство Канады заявило ассоциации хоккея страны и Международной федерации хоккея о том, что не будет выдавать визы россиянам для участия в турнире",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "23146c56aa6c1a7ab30c8c82207fcc229d2bb6ad",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28308863",
-      "published_utc": "2026-11-11T20:11:02Z",
-      "title_en": "Мэр Тбилиси: санкции против России будут губительными для Грузии",
-      "lead_en": "ЕС при этом все равно требует их ввода, отметил Каха Каладзе",
-      "title_raw": "Мэр Тбилиси: санкции против России будут губительными для Грузии",
-      "lead_raw": "ЕС при этом все равно требует их ввода, отметил Каха Каладзе",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "24cc31ff6293d60fc5aaed6338c69ed6c50f054a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28308861",
-      "published_utc": "2026-11-11T20:08:59Z",
-      "title_en": "Посольство РФ в Молдавии опровергло данные о вмешательстве в выборы в Гагаузии",
-      "lead_en": "В диппредставительстве отметили, что Россия не вмешивается во внутренние дела республики",
-      "title_raw": "Посольство РФ в Молдавии опровергло данные о вмешательстве в выборы в Гагаузии",
-      "lead_raw": "В диппредставительстве отметили, что Россия не вмешивается во внутренние дела республики",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "762fedd3fad68dedc6f1321e8675c3890123e57a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/kultura/28308845",
-      "published_utc": "2026-11-11T20:05:58Z",
-      "title_en": "Долина объяснила перерыв в выступлениях",
-      "lead_en": "Народная артистка России отметила, что ей нужно \"вылечить душу\" и \"отремонтировать подрезанные крылья\"",
-      "title_raw": "Долина объяснила перерыв в выступлениях",
-      "lead_raw": "Народная артистка России отметила, что ей нужно \"вылечить душу\" и \"отремонтировать подрезанные крылья\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "da7f9f28b2a492fe0c749fdbe44dd40a39a44bba",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2216609",
-      "published_utc": "2026-11-11T20:03:33Z",
-      "title_en": "Putin-Trump meeting, European officials’ presence in Abu Dhabi: Kremlin aide’s statements",
-      "lead_en": "Yury Ushakov has said that a bilateral meeting between the Russian and US presidents at the APEC summit is being planned",
-      "title_raw": "Putin-Trump meeting, European officials’ presence in Abu Dhabi: Kremlin aide’s statements",
-      "lead_raw": "Yury Ushakov has said that a bilateral meeting between the Russian and US presidents at the APEC summit is being planned",
-      "topic_scores": {
-        "diplomacy": 3,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "5819a9c25709986ef44e6dc1ad3739438e65b852",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/28308843",
-      "published_utc": "2026-11-11T19:58:12Z",
-      "title_en": "Фазель: IIHF стоит отменить молодежный чемпионат мира после решения канадцев",
-      "lead_en": "Ранее телеканал TSN сообщил, что правительство Канады заявило ассоциации хоккея страны и IIHF о том, что не будет выдавать визы россиянам для участия в турнире",
-      "title_raw": "Фазель: IIHF стоит отменить молодежный чемпионат мира после решения канадцев",
-      "lead_raw": "Ранее телеканал TSN сообщил, что правительство Канады заявило ассоциации хоккея страны и IIHF о том, что не будет выдавать визы россиянам для участия в турнире",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "6c42c8698e94a3443420fbc82e7e46b39e0170a5",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28308827",
-      "published_utc": "2026-11-11T19:53:29Z",
-      "title_en": "На Запорожье рассказали, кого стоит включать в списки на обмен",
-      "lead_en": "В такие перечни должны попасть и жители Украины, попавших в пыточные и тюрьмы за пророссийскую позицию, отметил председатель Законодательного собрания Запорожской области Виктор Емельяненко",
-      "title_raw": "На Запорожье рассказали, кого стоит включать в списки на обмен",
-      "lead_raw": "В такие перечни должны попасть и жители Украины, попавших в пыточные и тюрьмы за пророссийскую позицию, отметил председатель Законодательного собрания Запорожской области Виктор Емельяненко",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "05a370c99224cf4630562c65039e63117a9d2f11",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/nauka/28308817",
-      "published_utc": "2026-11-11T19:43:00Z",
-      "title_en": "В России выяснили, как нейромедиаторы кишечных бактерий влияют на мозг",
-      "lead_en": "Они не всегда могут напрямую пересечь барьер в мозг, но при этом действуют на блуждающий нерв и кишечную нервную систему, которые передают этот сигнал в центральную нервную систему",
-      "title_raw": "В России выяснили, как нейромедиаторы кишечных бактерий влияют на мозг",
-      "lead_raw": "Они не всегда могут напрямую пересечь барьер в мозг, но при этом действуют на блуждающий нерв и кишечную нервную систему, которые передают этот сигнал в центральную нервную систему",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "d758d83d107f012b5fef9d3e67843f0af33ebf1c",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/sports/2216603",
-      "published_utc": "2026-11-11T19:23:55Z",
-      "title_en": "Canada against Russian presence at 2026 IIHF Junior World Championship",
-      "lead_en": "The Canadian authorities informed the country’s hockey association and the International Ice Hockey Federation that they will not issue visas to Russian players",
-      "title_raw": "Canada against Russian presence at 2026 IIHF Junior World Championship",
-      "lead_raw": "The Canadian authorities informed the country’s hockey association and the International Ice Hockey Federation that they will not issue visas to Russian players",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "f9f6c75781757061173a2c9f56cbbe7ed24baa29",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2216595",
-      "published_utc": "2026-11-11T18:43:19Z",
-      "title_en": "EU leaders to consider assigning Russia negotiator at Dublin summit — media",
-      "lead_en": "According to the source, this would be an initial debate about the structure and mandate of the role",
-      "title_raw": "EU leaders to consider assigning Russia negotiator at Dublin summit — media",
-      "lead_raw": "According to the source, this would be an initial debate about the structure and mandate of the role",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
