@@ -1,9 +1,31 @@
 {
-  "updated_at_utc": "2026-11-13T18:23:31Z",
+  "updated_at_utc": "2026-11-14T07:22:53Z",
   "keep_hours": 48,
   "topic": "local_events",
   "count": 15,
   "articles": [
+    {
+      "id": "f0143c86450b2779515593027b42e962a5f71d8c",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2218045",
+      "published_utc": "2026-11-13T20:47:00Z",
+      "title_en": "Ceasefire to be EU’s priority at Ukraine talks — von der Leyen",
+      "lead_en": "European Commission President also pledged to present a 22nd package of sanctions on Russia as soon as possible and put forward proposals toward military funding for Ukraine before the end of the year",
+      "title_raw": "Ceasefire to be EU’s priority at Ukraine talks — von der Leyen",
+      "lead_raw": "European Commission President also pledged to present a 22nd package of sanctions on Russia as soon as possible and put forward proposals toward military funding for Ukraine before the end of the year",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "20ea0051f5eec9eb6c755c679cc595e8b4db0759",
       "source": "Meduza (EN)",
@@ -288,27 +310,6 @@
         "local_events"
       ],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "2d8c1558c443050505a8a7585f573cfe6d802eea",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28309507",
-      "published_utc": "2026-11-12T04:32:19Z",
-      "title_en": "Бойцы \"Днепра\" отбили атаку ВСУ на сотрудников МЧС на трассе \"Новороссия\"",
-      "lead_en": "Военнослужащий с позывным Джамал добавил, что от атаки противника пострадал бензовоз",
-      "title_raw": "Бойцы \"Днепра\" отбили атаку ВСУ на сотрудников МЧС на трассе \"Новороссия\"",
-      "lead_raw": "Военнослужащий с позывным Джамал добавил, что от атаки противника пострадал бензовоз",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
